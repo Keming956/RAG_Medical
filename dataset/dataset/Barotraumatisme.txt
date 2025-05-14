@@ -1,0 +1,212 @@
+Un barotraumatisme est un accident touchant les tissus d'un organisme vivant. Il est causé par un changement de pression des gaz dans le corps. 
+
+Concrètement, un barotraumatisme survient lorsqu'il y a une difficulté d'adaptation entre la pression à l'intérieur d'une cavité du corps et la pression externe. Ces variations de pression peuvent survenir lors d'activités comme la plongée sous-marine, la plongée en apnée ou lors de voyages en avion. La variation des pressions est énoncée par la loi de Boyle-Mariotte.
+
+Les dommages sont occasionnés dans les parties du corps humain autour des cavités car les gaz sont compressibles avec l'augmentation de pression (ils diminuent de volume) alors que les tissus ne le sont pas.
+
+L'augmentation de la pression extérieure entraîne une diminution du volume du gaz qui attire vers le centre de la cavité, les tissus formant l'enveloppe.
+
+Au contraire, la diminution de la pression extérieure suivant une augmentation du volume du gaz qui va avoir tendance à repousser les tissus (phénomène du ballon de baudruche).
+
+Généralités 
+Les barotraumatismes sont souvent évoqués lors d'accidents de plongée à cause de la rapide variation de la pression avec la profondeur.
+
+Causes 
+À la surface de l'eau, la pression est dite atmosphérique (elle est alors en règle générale de 1 bar).
+
+À 10 mètres de profondeur, cette même pression est de 2 bars. La pression double donc dans la zone comprise entre la surface et  de profondeur. Cette variation importante engendre de plus grands risques de barotraumatismes dans cette zone. Par la suite, la pression augmentant de 1 bar par tranche de , la différence se fait moins sentir.
+
+Démonstration 
+ à la descente :
+ prenons un sac plastique, rempli avec cinq litres d'air (l'équivalent du volume contenu dans les poumons). Si ce sac est descendu à dix mètres de profondeur, son volume va être divisé par deux.
+ à la remontée :
+ remplissons de nouveau ce sac, à 10 mètres de profondeur cette fois, avec cinq litres d'air. Une fois remonté à la surface, son volume aura doublé.
+
+Si en lieu et place du sac plastique, le contenant est une cavité du corps humain (oreilles, sinus, poumon, dents par exemple), le tissu la tapissant sera attiré vers le centre jusqu'à la déchirure lors de la descente et distendu jusqu'à l'éclatement lors de la remontée.
+
+Localisation des accidents 
+Liste de différentes zones susceptibles d'être des foyers d'accidents de type barotraumatique en plongée :
+ les oreilles ;
+ les sinus (accident provoquant des sinusites ou des otites barotraumatiques) ;
+ les poumons (avec risque de surpression pulmonaire) ;
+ les yeux (les variations de pressions de l'air contenu dans le masque peuvent provoquer un placage de masque) ;
+ les dents peuvent être source de problèmes en cas de mauvais état ;
+ la peau (le port d'une combinaison étanche peut être source d'accidents cutanés) ;
+ l'estomac, le tube digestif (si, dans le cas de la plongée sous-marine, on mange avant une plongée).
+
+Prévention 
+Ces accidents peuvent être évités par l'application de précautions simples.
+
+Lors de l'immersion, le plongeur doit descendre doucement, afin de laisser le temps aux pressions internes et externes de s'équilibrer. En cas d'impossibilité (sinus bouché par exemple), il faut stopper la descente et annuler la plongée jusqu'à rétablissement des possibilités d'équilibrage.
+
+Lors de la remontée, il faut veiller à vider de manière continue les cavités en question afin d'éviter tout risque de gonflement, voire d'explosion.
+
+Squeeze 
+Le mot  désigne le phénomène de diminution des volumes d'air dans les espaces près de la peau (masque, combinaison étanche) ainsi que la douleur et les inconvénients qu'il peut induire.
+
+Les différents barotraumatismes
+
+Les oreilles 
+
+Le barotraumatisme peut toucher indifféremment une seule ou les deux oreilles. Dans le cas d'un barotraumatisme auriculaire, c'est le tympan, fortement sollicité lors des variations de pression qui peut s'inflammer.
+
+Causes 
+Cf. Barotraumatismes de l’oreille moyenne
+
+Les causes d'un barotraumatisme de l'oreille peuvent être :
+ une obturation partielle ou totale d'une ou des deux trompes d'Eustache dues à des mucosités encombrant le rhinopharynx ;
+ une obturation du conduit auditif par un bouchon de cérumen ;
+ une manœuvre d'équilibrage, également appelé manœuvre de Valsalva, trop forte ou effectuée trop tardivement.
+
+Le barotraumatisme de l'oreille moyenne, provoquant une inflammation du tympan, peut donner lieu à une otite barotraumatique. Cette otite, si elle est suffisamment grave, peut entraîner une perforation du tympan.
+
+Un barotraumatisme de l'oreille interne (dû en général à une manœuvre de Valsalva trop brutale) est un cas grave car atteignant les centres de l'audition et de l'équilibre. Elle nécessite une hospitalisation sans délai.
+
+Vertige alterno-barique 
+Ce phénomène assez courant est dû à un manque de perméabilité de l'une des deux trompes d'Eustache. En cas de problème d'équilibrage sur l'une des deux oreilles, la différence d'informations transmises au cerveau par les deux organes de l'équilibre que sont les oreilles provoque un bref vertige et une désorientation.
+
+Dans ce cas, la conduite à tenir consiste à déglutir sans jamais faire de manœuvre de Valsalva.
+
+Symptômes 
+ douleur
+ vertige et/ou nausées
+ acouphènes (bourdonnement, sifflements)
+ éclatement du tympan
+
+Traitement 
+Dans tous les cas, il faut cesser immédiatement la descente (ou la remontée) et se placer à la profondeur où les symptômes disparaissent.
+
+Une fois la remontée effectuée lentement, cesser la plongée pour au moins 12 heures et consulter un médecin spécialisé si la douleur persiste.
+
+NB : ne pas mettre de gouttes auriculaires sans prescription médicale car une déchirure du tympan pourrait entraîner une pénétration du liquide dans l'oreille moyenne et une infection.
+
+Prévention 
+Ne pas plonger enrhumé et se rincer les fosses nasales à l'eau de mer en se mettant à l'eau.
+
+Effectuer les manœuvres d'équilibrage de manière systématique et fréquente et ce, dès le début de l'immersion.
+
+Les sinus
+
+Causes 
+Les sécrétions sinusales (ou mucus), peuvent parfois obturer partiellement ou totalement les canaux de liaison entre les sinus et les fosses nasales. Si ces canaux sont obturés, ils empêchent le libre passage de l'air et donc limitent l'équilibrage entre la pression interne et la pression externe.
+
+Symptômes 
+Douleur plus ou moins aiguë selon la pression exercée sur les muqueuses sinusales. On constate notamment une douleur dans les régions frontales et sous-orbitales avec un saignement de nez (épistaxis), maux de tête (céphalée), nausées et vertiges.
+
+Traitement 
+Stopper la descente ou la remontée et se placer à la profondeur faisant cesser la douleur. Se rincer les fosses nasales à l'eau de mer en enlevant le masque.
+
+Attention, cette manœuvre peut se révéler très dangereuse et doit être effectuée avec l'assistance de son binôme.
+
+Prévention 
+Ne pas plonger enrhumé (ou tout autre problème ORL) et se rincer les fosses nasales à l'eau de mer lors de la mise à l'eau.
+
+Les yeux
+
+Les dents
+
+Causes 
+
+En cas de fissure sur une dent et si la remontée n'est pas stoppée, elle peut éclater avec un risque de syncope.
+
+Symptômes 
+Douleur parfois très violente, sensation de froid sur la dent.
+
+Traitement 
+Stopper la remontée et laisser le temps à l'excédent d'air de s'échapper de la cavité. Il est parfois nécessaire de redescendre un peu afin de soulager la douleur.
+
+Prévention 
+Il est recommandé de passer une visite dentaire tous les ans en précisant au praticien sa qualité de plongeur.
+
+Les intestins et l'estomac
+
+Causes 
+Deux cas de figure peuvent se présenter pour cet accident :
+ les gaz emprisonnés dans les cavités (estomac ou intestins) peuvent être soumis aux variations de pression sans pouvoir s'équilibrer, provoquant une dilatation de l'organe ;
+ lors de plongées très longues (cas des plongeurs professionnels ou travailleurs sous-marins) ou après avoir mangé des aliments provoquant des fermentations importantes, la production de gaz au fond au cours de la digestion peut être source de douleur à la remontée.
+
+Symptômes 
+Douleurs plus ou moins importantes pouvant aller, dans de très rares cas, jusqu'à la syncope, voire l'arrêt cardiaque (à la suite de la compression du cœur par l'estomac).
+
+Traitement 
+Il faut tout d'abord stopper la remontée puis essayer d'évacuer l'excédent gazeux, ce qui est loin d'être aisé sous l'eau, surtout quand celui-ci pousse le bol alimentaire et que plongeur porte une combinaison dont le bas n’est pas séparable (combinaison intégrale monopièce ou pire, une combinaison étanche).
+
+Prévention 
+Veiller à avoir une alimentation pauvre en aliments générateurs de gaz.
+
+Les poumons 
+L'accident barotraumatique dans la zone pulmonaire est appelé « surpression pulmonaire ». Il arrive quand on subit une dépression en bloquant dans ses poumons de l’air inspiré à une pression supérieure. Quand on remonte d'une plongée avec des bouteilles(*), par exemple. C'est sans doute l'accident le plus grave que l'on puisse rencontrer dans cette activité et peut être invalidant à vie, voire mortel. Il est important de savoir que c'est aussi l'accident le plus simple à éviter, car il suffit de ne jamais bloquer sa respiration.
+
+Ça n’arrive jamais lors d'une plongée en apnée, puisque l'air a été inspiré à la pression vers laquelle on remonte ; néanmoins, la plongée en apnée présente d'autres dangers.
+
+Attention, cet accident, particulièrement dangereux, ne nécessite qu'une faible variation de profondeur. Il . En effet lors d'une remontée de  (1,5 bar) à la surface (1bar) le volume d'air contenu dans nos poumons aura augmenté de 50 % (30 % de  à la surface).
+
+Un barotraumatisme sur les poumons peut aussi arriver par dépression pulmonaire. Relativement rare et spécifique à l'apnée profonde (> 70 mètres environ), cet accident peut survenir lorsque le volume d'air dans les poumons atteint son volume résiduel. À partir de ce moment, les poumons sont comprimés et il faut de l’expérience et une certaine habitude pour que le corps compense ce phénomène et évite un barotraumatisme aux poumons. Cette compensation est en majeure partie réalisée par le sang qui vient prendre la place du volume comprimé (érection pulmonaire) . Ce transfert de sang vers le thorax est appelé .
+
+Causes 
+En cas de fermeture de la glotte (peur panique, contact de l'eau avec le larynx, etc.) ou de contraction spasmodique de celle-ci, l'air reste emprisonné dans les poumons. Lors de la remontée qui s'ensuit (en général précipitée), en application de la loi de Mariotte, la pression diminue et, si le plongeur bloque sa respiration, le volume d'air contenu dans les poumons augmente. Les poumons vont se dilater jusqu'à la limite d'élasticité des alvéoles pulmonaires. Quand la limite d'élasticité est dépassée, des alvéoles se déchirent, les échanges gazeux ne peuvent plus s'effectuer correctement.
+
+L'oxygène vital n'est plus ou presque plus acheminé par le sang vers les cellules de l'organisme. 
+
+Cet accident se décompose en deux phases :
+ phase mécanique
+ distension d'une ou plusieurs alvéole(s) puis éclatement de celle-ci
+ compression des alvéoles voisines, d'où une diminution de la capacité ventilatoire et un pneumothorax uni ou bilatéral
+ déchirement d'un ou des deux feuillets de la plèvre avec passage d'air dans le médiastin pouvant précéder une compression d'un poumon encore sain ou du muscle cardiaque
+ passage de l'air dans la zone sous-cutanée du cou provoquant un emphysème sous-cutané.
+
+ phase neurologique
+voir système ventilatoire.
+Les déchirures alvéolaires peuvent permettre à des bulles d'air de repasser dans le circuit ventilatoire. Ces bulles (passées dans les veines pulmonaires) vont alors arriver dans la partie gauche du cœur puis passer dans la grande circulation.
+
+Dirigées vers l'aorte elles vont, dans la crosse aortique, passer dans les carotides, disposées verticalement puis se retrouver dans le circuit d'irrigation du cerveau. Celui-ci étant en arborescence avec des ramifications de plus en plus petites, les bulles d'air vont finir par se coincer (aéro-embolie cérébrale), empêchant alors l'oxygène de passer et contribuant à créer une nécrose des zones nerveuses cérébrales.
+
+D'autres bulles d'air peuvent passer dans les artères coronaires et venir perturber le fonctionnement du cœur, le privant de l'apport en oxygène vital à son fonctionnement.
+
+Symptômes 
+ phase mécanique
+douleur plus ou moins violente lors de la distension alvéolaire
+douleur vive et très violente (en forme de coup de poignard) lors de l'éclatement d'un ou plusieurs alvéoles
+toux et crachat sanglant
+difficultés respiratoires pouvant aller jusqu'à l'arrêt ventilatoire total
+emphysème sous-cutané
+
+ phase neurologique
+état de choc : pouls rapide, pâleurs, ou teint violacé
+troubles de la parole ou de la vision
+perte de sensibilité
+perte de motricité (le plus souvent sous forme d'hémiplégie gauche, voire droite)
+arrêt ventilatoire ou circulatoire
+mort
+
+Traitement 
+ mise sous oxygénothérapie normobare afin de pallier la détresse ventilatoire ;
+ alerter immédiatement les secours compétents en fonction de la zone ou du pays : SAMU, pompiers, CROSS, DAN, 
+ évacuer vers un milieu hospitalier sans délai en appliquant les gestes de premiers secours qui s'imposent : massage cardiaque, ventilation artificielle
+
+Prévention 
+Afin de prévenir ce type d'accident, il faut en permanence permettre à l'air d'être évacué en expirant à la remontée. L'hyper-extension du cou est particulièrement efficace dans ce cas puisqu'elle interdit la fermeture de la glotte. Cette consigne prend toute son importance dans le cas de remontées non contrôlées (mauvaise utilisation du gilet, panique, essoufflement) au cours desquelles un plongeur peu expérimenté ne pensera pas forcément à expirer.
+
+Il ne faut pas non plus faire d'apnée en plongée sous-marine en bouteille afin d'éviter les risques de surpression à la remontée. De la même manière, il ne faut pas donner d'air sur son détendeur à un apnéiste ou un chasseur sous-marin, qui n'aura pas forcément l'habitude d'expirer à la remontée.
+
+L'asthme non allergique ou les bronches à clapets sont des contre-indications à la pratique de la plongée sous-marine afin de prévenir les risques de surpression pulmonaire.
+
+Chez les animaux 
+Ce phénomène pourrait aussi être impliqué dans la mortalité observée chez des oiseaux et chauve-souris passant à proximité d'éoliennes.
+
+Notes et références
+
+Voir aussi
+
+Article connexe 
+ Manœuvre d'équilibrage
+
+Liens externes 
+ 
+ 
+ 
+ Encyclopédie de l'urgence
+
+Accident de plongée
+Urgence médicale
+Maladie en otorhinolaryngologie

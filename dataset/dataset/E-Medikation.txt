@@ -1,0 +1,49 @@
+Die e-Medikation ist ein Informationssystem über verordnete und abgegebene Arzneimittel eines Patienten. Die e-Medikation ist Teil der Elektronischen Gesundheitsakte (ELGA) in Österreich. Mit e-Medikation erhalten Ärzte, Apotheker und Krankenanstalten einen Überblick über verordnete sowie in Apotheken abgegebene Arzneimittel eines Patienten. Mit diesen Informationen kann dann eine weiterführende (elektronische) Prüfung auf mögliche Wechselwirkungen und Mehrfachverordnungen erfolgen. Durch e-Medikation soll die Patientensicherheit erhöht werden.
+
+Erwarteter Nutzen 
+Viele Patienten nehmen verschiedene Medikamente gleichzeitig oder kurz hintereinander ein. In Fällen, wo aufgrund des Krankheitsbildes mehrere Arzneimittel erforderlich sind, kann es zu Mehrfachverordnungen und dadurch zu einer Überdosierung eines Wirkstoffes kommen. Ebenso können unerwünschte Wechselwirkungen auftreten.  All dies kann in manchen Fällen eine gesundheitliche Gefahr für die Patienten darstellen, man spricht von unerwünschten Arzneimittelwirkungen. Tatsächlich resultieren bis zu zehn Prozent aller Krankenhausaufnahmen aus unerwünschten Arzneimittelwirkungen, in etwa einem Drittel der Fälle sind Wechselwirkungen zwischen Medikamenten der Grund.
+
+Das Risiko von unerwünschten Wechselwirkungen und unerkannten Mehrfachverordnungen ist besonders bei älteren und chronisch kranken Patienten hoch. Diese werden häufig von mehreren (Haus- und Fach-)Ärzten behandelt, für die es schwierig ist, einen verlässlichen Überblick über alle Verordnungen der übrigen Ärzte zu erhalten. Zusätzlich kann der Patient auch in Apotheken rezeptfreie Medikamente kaufen. All dies erhöht die Gefahr von unerkannten Mehrfachverordnungen und unerwünschte Wechselwirkungen.
+
+Das Ziel von e-Medikation ist, dem Arzt bzw. dem Apotheker eine möglichst vollständige Übersicht über alle verordneten bzw. abgegebenen Medikamente eines Patienten bereitzustellen und damit das Risiko für unerwünschte Arzneimittelwirkungen aufgrund von Mehrfachverordnungen und Wechselwirkungen zu minimieren. Der behandelnde Arzt bzw. der abgebende Apotheker kann also alle Medikamente sehen, welche dem Patienten verordnet wurden bzw. welche dieser in Apotheken gekauft hat. Die Erkennung von Mehrfachverordnungen und Wechselwirkungen soll dadurch erleichtert werden. Dadurch soll die Sicherheit bei der Einnahme von Medikamenten für Patienten erhöht werden.
+
+Geschichte 
+Von April bis Dezember 2011 fand der Pilotbetrieb für e-Medikation in drei Regionen Österreichs statt. Dieser wurde durch die Medizinische Universität Wien und die Private Universität für Gesundheitswissenschaften, Medizinische Informatik und Technik evaluiert. Im Evaluierungszeitraum nahmen 5.431 Patienten sowie 41 Allgemeinmediziner, 31 Fachärzte, 50 Apotheken, 13 Allgemeinmediziner mit Hausapotheke und vier Krankenanstalten aktiv an e-Medikation teil. Im Durchschnitt trat im Evaluierungszeitraum bei jedem zweiten Besuch eines Patienten bei Ärzten oder Apothekern eine Warnung vor einer Wechselwirkung auf. Bei jedem sechsten Besuch zeigte e-Medikation eine Warnung vor einer möglichen Überschreitung des Therapieintervalls durch Arzneimittelbevorratung. Bei jedem neunten Besuch zeigte es eine Warnung vor einer Doppelverordnung.
+
+Mit der Evaluierung des Pilotprojekts e-Medikation konnten technische und organisatorische Erkenntnisse für eine österreichweite Umsetzung gewonnen werden. Die Ergebnisse der Evaluierung des Pilotbetriebs ergaben unter anderem folgende Empfehlungen: Die e-Medikation ist unter Einbeziehung aller betroffenen Berufsgruppen und unter Berücksichtigung des Datenschutzes weiter zu verfolgen. Sie ist bei flächendeckenden, verpflichtenden Beteiligung aller betroffenen Gesundheitseinrichtungen und Berufsgruppen am wirksamsten. Für Patienten hat für die Teilnahme aber Wahlfreiheit zu gelten. Die Ergebnisse der Evaluierung bildeten die Grundlage für den geplanten flächendeckenden österreichweiten Einsatz der e-Medikation.
+
+Als ein Ergebnis des Pilotprojekts wurde entschieden, dass e-Medikation keine zentrale Prüfung auf Wechselwirkungen und Interaktionen mehr beinhalten soll. Vielmehr sollen Arzt bzw. Apotheker in eigener Verantwortung mit der jeweils eigenen Software diese Prüfungen durchführen.
+
+Mit Beschluss des ELGA-Gesetzes im Nationalrat im Dezember 2012 wurde der Hauptverband der österreichischen Sozialversicherungsträger mit der österreichweiten Umsetzung der e-Medikation beauftragt.
+
+Stand der Einführung 
+Nach dem Gesundheits-Telematik-Gesetz (ELGA-Gesetz) hat der Hauptverband die e-Medikation bis Ende 2014 zu errichten und ab diesem Zeitpunkt zu betreiben. Die E-Medikation soll stufenweise eingeführt werden. Sofern die ELGA-Komponenten technisch zur Verfügung stehen, ist der früheste Zeitpunkt zur Speicherung von Medikationsdaten:
+
+ der 1. Januar 2015 für öffentliche Krankenanstalten, Krankenanstalten der AUVA und Pflegeeinrichtungen
+ der 1. Juli 2016 für Apotheken, freiberufliche Ärzte, Gruppenpraxen, selbständige Ambulatorien – in einem Vertragsverhältnis zur Sozialversicherung
+ der 1. Januar 2017 für private Krankenanstalten
+ der 1. Januar 2022 für Zahnärzte, zahnärztliche Gruppenpraxen und selbständige Zahnambulatorien.
+
+Die technische Basis für e-Medikation bildet das österreichische e-card-System. Die e-card diente dabei als Zugangsschlüssel zu den Arzneimitteldaten. Das gesamte Projekt wurde von der Datenschutzkommission genehmigt.
+
+Im Juni 2014 wurde bekannt, dass sich die Einführung der ELGA und damit auch der e-Medikation um etwa ein Jahr verzögert.
+
+Ablauf bei e-Medikation 
+In einem persönlichen Arzneimittelkonto werden alle ärztlich verordneten und in der Apotheke abgegebenen bzw. gekauften Medikamente gespeichert. Bei der Verschreibung eines Medikaments und bei der Abgabe in der Apotheke können diese Medikationsdaten vom Arzt oder Apotheker abgerufen und eingesehen werden. Die e-Medikation liefert damit einen umfassenden Überblick über alle ärztlich verordneten oder in der Apotheke rezeptfrei gekauften, wechselwirkungsrelevanten Arzneimittel eines Patienten. Diese Informationen werden nur den behandelnden Ärzten in der niedergelassenen Praxis und im Spital sowie dem abgebenden Apotheker verfügbar gemacht.
+
+Außerdem können die Informationen aus e-Medikation jeweils mit der lokal verwendeten Software (z. B. dem Arztinformationssystem oder dem Apothekensystem) auf mögliche Wechselwirkungen und Doppelverordnungen geprüft werden. Ergeben diese Prüfungen Auffälligkeiten, kann der Arzt die Verordnung verändern oder der Apotheker vor der Abgabe mit dem verordnenden Arzt Rücksprache halten. Dadurch soll die Medikationssicherheit verbessert werden.
+
+Mit der e-card als Bürgerkarte oder der Handy-Signatur kann ein Patient in seine Elektronische Gesundheitsakte und somit auch in seine Medikationsdaten Einsicht nehmen. Es besteht auch die Möglichkeit, einzelne Medikamente auszublenden. Personen, die keinen Internetzugang haben, können sich an die Ombudsstelle wenden.
+
+Die e-Medikation ersetzt nicht das bisherige Papierrezept.
+
+Bürger können selbst bestimmen, dass sie bei e-Medikation nicht mitmachen möchten (so genanntes "Opt out"). Dieser Widerspruch kann entweder elektronisch über das ELGA-Bürger-Portal, das auf der Website www.gesundheit.gv.at verankert ist, oder schriftlich bei einer Widerspruchsstelle abgegeben werden.
+
+Weiterführende Literatur 
+ Medizinische Universität Wien & UMIT: Pilotprojekt e-Medikation: Abschlussbericht der Evaluierung. Veröffentlicht am 8. Mai 2012. Abgerufen am 24. Januar 2015.  
+ Bundesgesetzblatt für die Republik Österreich. Elektronische Gesundheitsakte-Gesetz - ELGA-G. Veröffentlicht am 14. Dezember 2012. Abgerufen am 24. Januar 2015.
+
+Einzelnachweise 
+
+Arzneimittel
+Medizininformatik

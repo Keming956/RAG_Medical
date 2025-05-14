@@ -1,0 +1,11 @@
+Un monument historique (roumain: monument istoric) est, en Roumanie, un monument ou un objet recevant un statut juridique destiné à le protéger, du fait de son intérêt historique, artistique et architectural. 
+
+Chaque monument historique possède un identifiant alphanumérique unique, dit « code LMI », composé de : 
+ le code du județ (une région roumaine, équivalent du département en France ou de la province au Canada) dans lequel il se trouve, selon la norme ISO 3166-2:RO (par exemple, un monument historique du județ de l'Alba aura pour code AB) ;
+ une série de lettres indiquant son sa nature (monument archéologique, architectural, destiné au public ou funéraire) et son importance (A pour nationale, B pour locale) ;
+ une clé unique.
+Ainsi, par exemple, le Théâtre classique Ioan Slavici, à Arad dans le județ d'Arad, porte-t-il l'identifiant AR-II-m-B-00561.
+
+Liens externes 
+  Site officiel
+  Liste des monuments historiques de Roumanie (2010)

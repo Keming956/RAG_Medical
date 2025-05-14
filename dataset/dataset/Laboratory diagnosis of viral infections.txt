@@ -1,0 +1,67 @@
+In the diagnostic laboratory, virus infections can be confirmed by a myriad of methods.  Diagnostic virology has changed rapidly due to the advent of molecular techniques and increased clinical sensitivity of serological assays.
+
+Sampling
+A wide variety of samples can be used for virological testing. The type of sample sent to the laboratory often depends on the type of viral infection being diagnosed and the test required. Proper sampling technique is essential to avoid potential pre-analytical errors.  For example, different types of samples must be collected in appropriate tubes to maintain the integrity of the sample and stored at appropriate temperatures (usually 4 °C) to preserve the virus and prevent bacterial or fungal growth.  Sometimes multiple sites may also be sampled.
+
+Types of samples include the following:
+ Nasopharyngeal swab
+ Blood
+ Skin
+ Sputum, gargles and bronchial washings 
+ Urine
+ Semen
+ Faeces
+ Cerebrospinal fluid
+ Tissues (biopsies or post-mortem)
+ Dried blood spots
+
+For example, a nasal mucus test may be done to diagnose rhinovirus.
+
+Virus isolation
+
+Viruses are often isolated from the initial patient sample.  This allows the virus sample to be grown into larger quantities and allows a larger number of tests to be run on them.  This is particularly important for samples that contain new or rare viruses for which diagnostic tests are not yet developed.
+
+Many viruses can be grown in cell culture in the lab.  To do this, the virus sample is mixed with cells, a process called adsorption, after which the cells become infected and produce more copies of the virus.  Although different viruses often only grow in certain types of cells, there are cells that support the growth of a large variety of viruses and are a good starting point, for example, the African monkey kidney cell line (Vero cells), human lung fibroblasts (MRC-5), and human epidermoid carcinoma cells (HEp-2).  One means of determining whether the cells are successfully replicating the virus is to check for a change in cell morphology or for the presence of cell death using a microscope.
+
+Other viruses may require alternative methods for growth such as the inoculation of embryonated chicken eggs (e.g. avian influenza viruses) or the intracranial inoculation of virus using newborn mice (e.g. lyssaviruses).
+
+Nucleic acid based methods 
+Molecular techniques are the most specific and sensitive diagnostic tests. They are capable of detecting either the whole viral genome or parts of the viral genome. In the past nucleic acid tests have mainly been used as a secondary test to confirm positive serological results.  However, as they become cheaper and more automated, they are increasingly becoming the primary tool for diagnostics.
+
+Polymerase chain reaction 
+Detection of viral RNA and DNA genomes can be performed using polymerase chain reaction.  This technique makes many copies of the virus genome using virus-specific probes.  Variations of PCR such as nested reverse transcriptase PCR and real time PCR can also be used to determine viral loads in patient serum. This is often used to monitor treatment success in HIV cases.
+
+Sequencing
+
+Sequencing is the only diagnostic method that will provide the full sequence of a virus genome.  Hence, it provides the most information about very small differences between two viruses that would look the same using other diagnostic tests. Currently it is only used when this depth of information is required.  For example, sequencing is useful when specific mutations in the patient are tested for in order to determine antiviral therapy and susceptibility to infection. However, as the tests are getting cheaper, faster and more automated, sequencing will likely become the primary diagnostic tool in the future.
+
+Microscopy based methods
+
+Immunofluorescence or immunoperoxidase 
+Immunofluorescence or immunoperoxidase assays are commonly used to detect whether a virus is present in a tissue sample.  These tests are based on the principle that if the tissue is infected with a virus, an antibody specific to that virus will be able to bind to it.  To do this, antibodies that are specific to different types of viruses are mixed with the tissue sample.  After the tissue is exposed to a specific wavelength of light or a chemical that allows the antibody to be visualized.
+
+These tests require specialized antibodies that are produced and purchased from commercial companies.  These commercial antibodies are usually well characterized and are known to bind to only one specific type of virus.  They are also conjugated to a special kind of tag that allows the antibody to be visualized in the lab, i.e.so that it will emit fluorescence or a color.  Hence, immunofluorescence refers 
+to the detection of a fluorescent antibody (immuno) and immunoperoxidase refers to the detection of a colored antibody (peroxidase produces a dark brown color).
+
+Electron microscopy 
+
+Electron microscopy is a method that can take a picture of a whole virus and can reveal its shape and structure.  It is not typically used as a routine diagnostic test as it requires a highly specialized type of sample preparation, microscope and technical expertise.  However, electron microscopy is highly versatile due to its ability to analyze any type of sample and identify any type of virus.  Therefore, it remains the gold standard for identifying viruses that do not show up on routine diagnostic tests or for which routine tests present conflicting results.
+
+Host antibody detection 
+A person who has recently been infected by a virus will produce antibodies in their bloodstream that specifically recognize that virus.  This is called humoral immunity.  Two types of antibodies are important. The first called IgM is highly effective at neutralizing viruses but is only produced by the cells of the immune system for a few weeks. The second, called, IgG is produced indefinitely. Therefore, the presence of IgM in the blood of the host is used to test for acute infection, whereas IgG indicates an infection sometime in the past. Both types of antibodies are measured when tests for immunity are carried out.
+
+Antibody testing has become widely available.  It can be done for individual viruses (e.g. using an ELISA assay) but automated panels that can screen for many viruses at once are becoming increasingly common.
+
+Hemagglutination assay 
+
+Some viruses attach to molecules present on the surface of red blood cells, for example, influenza virus. A consequence of this is that – at certain concentrations – a viral suspension may bind together (agglutinate) the red blood cells thus preventing them from settling out of suspension.
+
+See also 
+ Serology
+ Molecular diagnostics
+
+References 
+
+Diagnostic virology
+Laboratory medicine techniques
+Viral diseases

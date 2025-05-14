@@ -1,0 +1,43 @@
+Trauma (styled as TRAUMA) is a graphical adventure interactive fiction game developed by Polish-German programmer Krystian Majewski as part of a thesis project, and released in August 2011. The game is based on a woman that has suffered a physiological trauma, and has been languishing in several dreamscapes while unconscious and hospitalized. The player resolves these by using both point-and-click and gesture-based actions to move about the dreamscapes, composed of photographs with digitally altered features, to complete a certain task. Each dreamscape also contains several alternate conclusions and a number of hidden photographs that provide hints towards these alternate conclusions in other dreamscapes.  Along the way, parts of a backstory are revealed through a narrative voice.
+
+The game was nominated for, but did not win, several independent gaming development awards in 2010, including the Grand Prize at the Independent Games Festival. Trauma, though short, has been stated to provide a compelling, emotional environment, aided through its graphical and musical assets.
+
+Gameplay
+Trauma is a graphical adventure game, presented as four different dreamscapes in the opening menu.  The game is introduced by full motion video of the game's narrator becoming hospitalized in a car crash, and speaking to herself to understand what has happened to her. After selecting a dreamscape, the player is presented with the game's main interface, generally a single photographic image, with some digitally altered features.  By moving the cursor around, the player can see dim images of adjacent areas or images of the same area but from a different angle.  This gives the effect of segmented panoramic photography in certain areas of the game. Clicking on these images when they appear will take the player to that next image, thus allowing them to "wander" through the dreamscape.
+
+The primary goal of each dreamscape is told to the player at the onset of the dreamscape, such as lifting a sphere off a teddy bear or catching up to a ghost-like figure.  As the player moves about, the female character narrates facets of her thoughts and provides hints of what to look for. Within each area are nine Polaroid photos to be found; several provide information on using gestures to also navigate the landscape, such as turning around from an object or backing away; these gestures are needed in certain cases to reach specific areas. The player also learns of a unique gesture that interacts with a specific object in the dreamscape; for example, a gesture that mimics the circling of water down a drain is used to trigger an event when the player sees a drain, which can open an additional path to explore or reach one of the dreamscape's conclusions.  These gestures, though only shown in one dreamscape, apply across the game, and may be used to reach one of the three alternate endings for each dreamscape.
+
+The player is challenged through tracking in the game's menus to complete every possible ending and to locate every Polaroid photograph. When the player has completed all the endings to a dreamscape, they are given a "photo tracker" that tells them how close they are to unfound photographs within the dreamscape as they move about, making it easier to complete this collection.
+
+Development
+Trauma is the work of Polish programmer Krystian Majewski which he started as part of his university thesis project in 2008. Initial development began in 2007, with the first level completed in 2008 and used in the presentation of his thesis. Though Majewski aimed to have submitted the completed game for the 2009 Independent Games Festival, personnel commitments held up development. The final game was mostly complete by the last half of 2009.  The game was developed in Adobe Flash using the Papervision3D engine and ByteArray gesturing system.
+
+Majewski was inspired by the photo-realistic look of the game Samorost, and used his own photography to create the dreamscapes. The locations used were inspired by his childhood memories of dark lonely places such as hospital hallways and railroad stations in foreign countries. He had originally tried to create his own spherical panoramas using a homemade tripod constructed from Lego bricks, but opted instead to use Photosynth technology to stitch the photographs together. The gesture-based system was inspired by the onset of Nintendo's Wii and DS units at the time of the game's creation. Majewski, in incorporating a lightpainting effect to show the results of the gesture, found the style to fit naturally with the photographic approach. The game's music was composed by Martin Straka, who was brought aboard early in the development process.
+
+Majewski purposely designed the game to be short. He compared players to tourists, a previous connection that Cyan Worlds used to describe players in Myst. To this end, he created puzzles that were "simple and pretty straight-forward", creating an alternative to the usual interactive experience of graphical adventure games with difficult puzzles to solve. Majewski stated that "If you stay longer it's because you are interested, not because you got stuck".
+
+The game was originally released both as a standalone application, and a browser-based game. The standalone application could be purchased as a pay what you want model, or through the Steam platform. In October 2011, the game was added to the Humble Frozen Synapse Bundle, a charitable salesdrive.
+
+Reception
+
+Trauma received moderate reviews on its release. Most critics praised the visual appeal and interface presentation of the game, but found the game too short and unlikely to be appealing to most players.
+
+Brice Morrison, writing for Gamasutra, identified that Trauma created a gameplay environment that would feel real to the player, aided through the use of photography and a simple movement interface. The environment was further aided through the subtle music that can "keep [the player] on an uneasy edge, but not enough for [them] to consciously wake up to it". Furthermore, Morrison praised the browser-based version of the game for minimizing the distractions normally associated with Flash games, and providing a way of luring the player to explore more of the game. Jason Johnson for Pitchfork Media considered the game to favorably leave the player with "an unsettling feeling that you can’t quite put your finger on", lingering on the edges of "solemn and chilling" and "profound and inconsequential".  GameSpot's Kevin VanOrd was more critical of the voice actress used to narrate the game, calling her work "emotionally distant", along with the "aloof" writing that prevents the player from becoming entranced by the narrator's trauma.
+
+Reviewers felt that the game, which can be fully completed in under two hours, could have been longer. Anthony Gallegos of IGN considered that once he had completed the full game, there was "still so much more it could explore with its intense themes".  The game was identified as one that would not likely attract the normal video game player. Eurogamer's Simon Parkin recognized that Trauma relies on "its ambiance and mystery to engage and entertain", a facet that most players do not seek, but considered that Trauma was successful in doing so. Jamie Dalzell of GameSpy likened the game to an art game, with limited target audience that will appreciate the game.
+
+Trauma was nominated for, but did not win, several 2010 Independent Games Festival awards, including Excellence in Visual Art, Excellence in Audio, and the Seumas McNally Grand Prize. The title was also nominated as a finalist in the 2010 Indiecade awards and in the 2010 European Innovative Games Awards in the field of Innovative Application Methods and Environment.
+
+References
+
+External links
+
+2011 video games
+2010s interactive fiction
+Adventure games
+Linux games
+Single-player video games
+MacOS games
+Video games developed in Poland
+Video games featuring female protagonists
+Windows games

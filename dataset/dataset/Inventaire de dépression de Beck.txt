@@ -1,0 +1,48 @@
+L'Inventaire de dépression de Beck (IDB, IDB-II), créé par le  Aaron T. Beck, est un questionnaire à choix multiples de 21 questions, servant à mesurer la sévérité de la dépression clinique. Son développement a marqué la pratique des professionnels de la santé, qui, jusqu'alors, percevaient la dépression via une perspective psychodynamique, au lieu de la caractériser par les propres descriptions données par le patient.
+
+Dans sa version actuelle, le questionnaire a été réalisé pour les jeunes individus âgés de 13 ans et plus, et est composé de mots relatant des symptômes de la dépression comme le désespoir et l'irritabilité, des symptômes cognitifs comme la culpabilité, des symptômes émotionnels, et des symptômes physiques comme la fatigue, la perte de poids et le manque d'intérêt sexuel. Il existe trois versions de cet inventaire — l'original, publié pour la première fois en 1961, puis révisé en 1978 sous le nom de IDB-1A, et l'IDB-II, publié en 1996.
+
+Histoire 
+
+Historiquement, la dépression est décrite en terme psychodynamique comme une  Durant ses travaux, Beck fait son approche sur la  : soutenue, inexacte, et souvent constituée de pensées négatives intrusives sur soi-même. De son point de vue, ce type de cognition  la dépression, plutôt que d'être générée  la dépression. Beck a développé une triade de cognition négative concernant l'entourage, l'avenir, et le soi, qui jouent un rôle majeur dans la dépression.
+
+IDB 
+L'IDB original, publié pour la première fois en 1961, était constituée de 21 questions concernant l'évolution de l'état dans lequel se trouve le patient durant les dernières semaines. Chaque question possède quatre réponses possibles, variant selon leur intensité. Par exemple :
+
+ (0) Je ne me sens pas triste.
+ (1) Je me sens triste.
+ (2) Je suis tout le temps triste, et j'ai du mal à supporter.
+ (3) Je suis tellement triste et malheureux que je n'arrive plus à supporter.
+
+Une fois le test achevé, un score est effectué par décomptage, puis comparé selon le score, déterminant ainsi la sévérité de la dépression. Les résultats sont les suivants :
+ 0–9 : indique une dépression mineure
+ 10–18 : indique une légère dépression
+ 19–29 : indique une dépression modérée
+ 30–63 : indique une sévère dépression
+Un score plus élevé que celui de la sévère dépression indique une dépression beaucoup plus sévère.
+
+IDB-IA 
+
+L'IDB-IA est une révision de l'inventaire original, développé par Beck durant les années 1970 et mis sous droit d'auteur en 1978.
+
+Certains items étaient difficilement compréhensibles pour les sujets, car ils indiquaient un choix concernant deux états distincts (par exemple : "Je suis tout le temps triste, et j'ai du mal à le supporter"). Ces items ont été retravaillés. Par ailleurs, le DSM-III affinait ses critères pour la dépression et mentionnait une expression des symptômes pendant au moins deux semaines. L'inventaire de Beck s'y est adapté puisque les sujets étaient invités à indiquer comment ils se sentaient depuis les deux dernières semaines.
+
+Malgré tout, l'IDB manquait de précision : six critères du DSM-III seulement étaient évalués sur les neuf au total.
+
+IDB-II 
+C'est la dernière révision en date de cet inventaire, publiée pour s'ajuster aux évolutions proposées par le DSM-IV. Pratiquement tous les items ont été reformulés/modifiés pour être plus intelligibles (par exemple : les items concernant la perte d'appétit incluent désormais aussi l'augmentation de l'appétit) et pour interroger plus finement la symptomatologie du DSM. Le nombre de questions reste le même.
+
+Notes et références
+
+Bibliographie 
+  Beck A.T. (1988). Beck Hopelessness Scale. The Psychological Corporation.
+
+Liens externes 
+  Publisher's page
+  A list of psychiatric rating scales for depression from Neurotransmitter.net
+  Patient Health Questionnaire (PHQ) Screeners – official web site
+  Inventaire de dépression de Beck (BDI-II). Test en ligne.
+
+Dépression (psychiatrie)
+Test psychopathologique
+Questionnaire à choix multiples

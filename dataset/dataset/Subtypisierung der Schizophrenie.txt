@@ -1,0 +1,81 @@
+Die traditionellen Subtypen der Schizophrenie sind die paranoide, die hebephrene und die katatone Form. Im ICD-10 sind diese noch enthalten, während die Untergruppeneinteilung der Schizophrenie im DSM-5 ganz aufgegeben wurde.
+
+Diese Dreiteilung wurde von Emil Kraepelin vorgeschlagen, wiewohl die einzelnen Formen schon von anderen Autoren früher beschrieben wurden. Die Erstbeschreibung der Hebephrenie geht zurück auf Hecker und die der Katatonie auf Kahlbaum. In den modernen Diagnosemanualen werden weitere Subtypen unterschieden. Daneben existieren zwei wichtige Klassifikationsschemata für die Unterteilung der Schizophrenien: der dimensionale Ansatz nach Liddle und die Unterscheidung von Typ I- und Typ-II-Schizophrenie nach Tim Crow und deren Zuordnung zu den Positiv/Negativ-Symptomen nach Nancy Andreasen.
+
+Traditionelle Subtypen
+
+Paranoide Schizophrenie 
+
+Hier stehen der Wahn und die Halluzinationen im Vordergrund der Erkrankung. Die häufigsten Wahnformen sind der Verfolgungswahn und der Größenwahn. Die bei paranoid-halluzinatorischen Schizophrenien am häufigsten vorkommenden Halluzinationen sind akustische Halluzinationen in Form von dialogischen (die Patienten hören, wie Leute sich über sie unterhalten) und kommentierenden Stimmen (die Patienten hören Stimmen, die ihre Handlungen begleiten). Die in den Medien gelegentlich dargestellten visuellen Halluzinationen spielen eine eher untergeordnete Rolle. Diese Form der Schizophrenie tritt eher bei Patienten auf, die einen späteren Erkrankungsbeginn haben.
+
+Hebephrene Schizophrenie 
+
+Hier stehen Störungen von Affekt, Antrieb und Denken im Vordergrund. Die Patienten sind in ihrer Stimmung häufig „verflacht“ (wenig moduliert) oder unpassend heiter. Der Antrieb kann zwischen apathisch, rastlos-getrieben oder ungeniert wechseln. Das Denken ist nicht selten ungeordnet (Desorganisiert), sodass die Patienten manchmal zur Verrichtung von Alltagsdingen unfähig sind. Diese Form der Schizophrenie tritt nicht selten bei jüngeren Patienten auf und geht dann mit einer deutlicheren sozialen Behinderung einher.
+
+Katatone Schizophrenie 
+
+Hier werden Ausdruck und Verhalten durch eine Störung der Psychomotorik dominiert. Die Patienten zeigen bisweilen eine ausgeprägte Bewegungsarmut (Erstarren in einer Bewegung) oder auch Bewegungsstürme (rasende Aktionen), man beobachtet Haltungs- oder Sprachstereotypien (immer wieder gleiche Handlungen oder Redeweisen) oder eine so genannte wächserne Biegsamkeit („Flexibilitas Cerea“: man kann die Patienten wie eine Gliederpuppe bewegen und sie verharren in der eingenommenen Haltung).
+
+Sonstige Subtypen
+
+Undifferenzierte Schizophrenie 
+
+Diese ist eine Ausschlussdiagnose in solchen Fällen, in denen eine Symptomatik keinem anderen Bild zugeordnet werden kann.
+
+Postschizophrene Depression 
+
+Manche Patienten erleiden nach einer akuten Krankheitsepisode eine Phase mit einer ausgeprägten Traurigkeit und einem erhöhten Suizidrisikio. Eine postschizophrene Depression liegt vor, wenn eine depressive Episode (mindestens zwei Wochen) im Anschluss an eine Schizophrenie (mindestens zwölf Monate) auftritt. Hierbei müssen zwar noch einige schizophrene Symptome vorhanden sein, das klinische Bild muss jedoch von der Depression dominiert werden.
+
+Schizophrenes Residuum 
+
+Wenn Patienten nach einer akuten Krankheitsepisode für mindestens ein Jahr ausgeprägte Negativsymptome zeigen und nur wenige Positivsymptome vorliegen, spricht man von einem
+Residuum.
+
+Schizophrenia simplex 
+
+Mit diesem Begriff wird eine Form der Schizophrenie bezeichnet, die davon gekennzeichnet ist, dass die Patienten eine ausgeprägte Negativsymptomatik zeigen, ohne vorher jemals starke Positivsymptome gehabt zu haben. Der Krankheitsverlauf ist nicht selten chronisch und die Patienten neigen zu einer kontinuierlichen Verschlechterung des Zustandsbildes.
+
+Bewertung 
+
+Die Unterscheidung der Schizophrenie in Subtypen ist immer wieder kritisiert und in Frage gestellt worden. Einerseits sind, wie man aus Verlaufsbeobachtungen weiß, die Subtypenzuordnungen im Längsschnitt nicht immer stabil. Lediglich die paranoide Form scheint eine gewisse Stabilität zu zeigen. Zudem gibt es keine Unterschiede in der Genetik der Subtypen. Auch lassen die Subtypen keine sicheren Rückschlüsse auf die Prognose zu. Lediglich die hebephrene Form erscheint im Verlauf weniger günstig, die paranoide Form hat eher eine bessere Prognose.
+
+Das Positiv/Negativ-Konzept 
+
+Die Vorstellung, dass es zwei grundsätzlich verschiedene Schizophrenietypen gäbe, geht auf einen Vorschlag des britischen Psychiaters Tim Crow aus dem Jahre 1980 zurück. Crow schlug vor, solche Patienten zu unterscheiden, die eine überwiegende Positivsymptomatik haben (Wahn, Halluzinationen etc.) und solche, die eine überwiegende Negativsymptomatik zeigen (Affektverflachung, Sprachverarmung, sozialer Rückzug etc.).
+
+Um dieses Konzept zu prüfen haben Nancy Andreasen und andere die Unterscheidung von Positiv- und Negativsymptomen systematisch untersucht. Dabei wurde die Negativsymptomatik unter dem Stichwort der „sechs A“ zusammengefasst:
+
+ Affektverflachung (Verarmung des Gefühlserlebens)
+ Alogie (Spracharmut)
+ Apathie/Abulie (Willenlosigkeit)
+ Anhedonie (Freudlosigkeit)
+ Aufmerksamkeitsstörung 
+ Asozialität (sozialer Rückzug)
+
+Die Unterscheidung von Positiv- und Negativsymptomen ähnelt der Unterscheidung Bleulers von Grund- und akzessorischen Symptomen. Zahlreiche Untersuchungen zu dieser Thematik haben ergeben, dass sich die Unterscheidung von Positiv- und Negativsymptomen für eine Subtypisierung der Schizophrenie nicht eignet.
+
+Der dimensionale Ansatz 
+
+Ausgehend von einer Kritik an Crows Einteilung der Schizophrenie in drei Subtypen, hat Peter F. Liddle vorgeschlagen, drei Syndromcluster der Schizophrenie zu unterscheiden:
+
+ Verarmung der Psychomotorik
+ Desorganisation
+ Realitätsverzerrung
+
+In zahlreichen Folgeuntersuchungen haben Liddle und Mitarbeiter versucht zu zeigen, dass den Syndromclustern Dysfunktionen in unterschiedlichen Hirnregionen entsprechen. Der dimensionale Ansatz sieht vor, dass bei einem konkreten Patienten keine reinen Syndromcluster vorliegen, sondern diese Syndrome immer nur in einem mehr oder weniger ausgeprägten Ausmaß.
+
+Zusammenfassung 
+
+Kraepelins ursprüngliche Unterscheidung der Schizophrenie in vorrangig drei Untergruppen hat in der Psychiatrie nach wie vor Bestand. Seit etwa 20 Jahren wurden allerdings im Zuge der Weiterentwicklung des Krankheitsbegriffes in der Psychiatrie und empirischer Untersuchungen zur Schizophrenie weitere Subtypisierungen vorgeschlagen. Die zusätzlichen Typen im ICD-10 umfassen teilweise lediglich Verlaufsphänomene und Möglichkeiten zur Klassifikation einzelner Ausschlussdiagnosen. Die von Tim Crow vorgeschlagene und von Nancy Andreasen weiterentwickelte Dichotomisierung der schizophrenen Erkrankung hat zu keiner validen Systematisierung geführt. Peter Liddles dimensionaler Ansatz, Syndromcluster zu unterscheiden, erscheint im Bezug auf neurobiologische Forschungsvorhaben aussichtsreicher.
+
+Siehe auch 
+
+ Klinische Schizophreniekonzepte
+ Neurobiologische Schizophreniekonzepte
+ Symptome und Diagnose der Schizophrenie
+ Beginn und Frühverlauf der Schizophrenie
+ Spätschizophrenie
+ Verlauf der Schizophrenie
+ Therapie der Schizophrenie
+
+Einzelnachweise

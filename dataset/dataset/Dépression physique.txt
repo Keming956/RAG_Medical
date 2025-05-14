@@ -1,0 +1,12 @@
+En physique, le mot dépression désigne :
+ en général, une diminution de la pression, par rapport à une pression de référence ;
+ dans un cas particulier, la baisse de niveau d'un liquide dans un tube capillaire en forme de U.
+L'origine du mot vient d'un moyen de mesure : était branché par un tuyau le volume de gaz dont on veut mesurer la dépression à l'une des extrémités d'un tube de verre en U rempli à moitié d'eau colorée : les niveaux de liquide dans les deux branches sont égaux. Si la pression du volume baisse, il aspire le liquide dans la colonne du U à laquelle il est joint, et corrélativement baisse le niveau du liquide coloré dans la colonne du U restée en relation avec la pression atmosphérique par son extrémité ouverte, dans laquelle il y a dépression du niveau du liquide coloré.
+Plus tard, le liquide coloré sera remplacé par du mercure, d'une densité 13,6 fois plus importante, pour mesurer, donc, des dépressions d'autant plus importantes. Ce système sera perfectionné pour, lui-même, devenir l'outil à créer des dépressions dans un arrangement différent du tube en U par l'adjonction d'un goutoir, inventé en 1865 par Hermann Sprengel qui lui donne le nom de trompe à mercure.
+L'unité de mesure des pressions a donc été d'abord le millimètre de mercure (mmHg) correspondant à la mesure de la différence des hauteurs des niveaux dans les branches du U, pour ensuite être comparée à la pression atmosphérique. Aujourd'hui l'unité de pression est le pascal (Pa).
+
+Liens externes 
+ Techniques du vide
+ Pompe à mercure
+
+Thermodynamique

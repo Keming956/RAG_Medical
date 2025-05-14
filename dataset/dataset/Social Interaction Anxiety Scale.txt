@@ -1,0 +1,43 @@
+The Social Interaction Anxiety Scale (SIAS) is a self-report scale that measures distress when meeting and talking with others  that is widely used in clinical settings and among social anxiety researchers. The measure assesses social anxiety disorder, which is fear or anxiety about one or more social situations where the individual is subject to possible scrutiny.
+
+Question breakdown, scoring and interpretation 
+Questions of the SIAS assess a clients' fear of interacting in social situations, gauge emotional aspects of the anxiety response, and do not refer to social apprehensiveness or concern about others' opinions in a general sense. Though related, social interaction anxiety is different from social phobia which is defined as anxiety surrounding fear of being scrutinized in a social situation.
+
+The scale contains 20 items. The client rates how much each item relates to them on a 5-point scale as follows:
+ 0 points: Not at all characteristic of me
+ 1 point: Slightly characteristic of me
+ 2 points: Moderately characteristic of me
+ 3 points:  Very characteristic of me
+ 4 points:  Extremely characteristic of me
+
+The point values of the chosen answer choices are then summed to produce a total measure score.
+
+Sample items include "I worry about not knowing what to say in social situations" or "I am tense mixing in a group".
+
+Clinical use 
+The SIAS measures social interaction anxiety, which refers to distress when meeting and talking with other people, whether they be friends, members of the opposite sex, or strangers. The main concerns include fears of being inarticulate, sounding boring, sounding stupid, not knowing what to say or how to respond, and being ignored. The scale specifically assesses anxiety experienced while interacting with others, not social phobia, which is more specifically fear of scrutiny when performing a task or being observed by others. The SIAS is similar to the Social Phobia Scale (SPS), a measure that mores specifically assesses social phobia. However, though the measure is not created to measure social phobia specifically, those with social phobia score high on the SIAS as social phobia and social interaction anxiety are related.
+
+The measure is able to discriminate between a normal population and a population that experiences social interaction anxiety, giving it substantial clinical utility. It can be used in clinics as a self-report screening tool in order to see if clients possess any social interaction anxiety. The SIAS discriminates between social anxiety and general anxiety as it has low associations with trait anxiety (a level of stress associated with an individual personality) and general distress. Beyond identifying those who experience social anxiety of some form, the scale can discriminate within the social anxiety class as well. Patients with social phobia score higher on the SIAS than other patients with another anxiety disorder, such as generalized anxiety disorder, or no disorder. In addition, patients with panic disorder and agoraphobia score higher than patients with specific phobia.
+
+Reliability and validity 
+The SIAS has a normal distribution of scores, with those that experience social interaction anxiety scoring high, supporting the view that the scale identifies general fear regarding social interactions.
+
+Reliability 
+Evaluated through Cronbach's alpha, the SIAS demonstrates high levels of internal consistency, meaning that different items on the test are correlated. In addition, the scale has high test-retest reliability, as it continues to correctly identify social anxiety and phobia after a period of time has passed.
+
+Validity 
+The scale has high discriminant validity; not only is it able to discriminate between those with social phobia and healthy volunteers, but also between several different types of social phobia and anxiety. The SIAS is significantly correlated with the Social Phobia Scale (SPS), consistent with the observation that social interaction fears and social phobia scrutiny fears co-exist, although they are still two different sets of symptoms. It is strongly related to other related measures of social anxiety and social phobia, including the Liebowitz Social Anxiety Scale (LSAS), Mini Social Phobia Inventory (mini-SPIN), Brief Fear of Negative Evaluation Scale (BFNE), the Fear of Positive Evaluation Scale (FPES), and the Interaction Anxiousness Scale. In addition, there are moderate to high correlations between the SIAS and other scales testing fear, depression, and locus of control, which are all related to social anxiety.
+
+In addition, the SIAS responds to change and improvement in symptoms due to treatment.
+
+Limitations 
+Although the SIAS is used widely in clinical psychology, it is not without its limitations. Because the scale is self-report subjects are able to falsify responses in order to be socially desirable. In addition, most items of the scale are scored in the same direction, allowing room for response bias. It is also difficult to discriminate between the fears of someone who experiences social anxiety and the more general worries of a patient with generalized anxiety disorder, as patients who suffer from both disorders score higher on the SIAS than those with just social phobias.
+
+The SIAS is highly correlated with the SPS, suggesting that subjects from the community may not discriminate between the types of situations assessed in the two scales. However, this limitation is not present among undergraduates or patients with social phobia.
+
+The SIAS has not been adequately assessed among an African American population, which is necessary as some concerns addressed in the SIAS may be more related to perceived scrutiny associated with being a member of a minority group.
+
+References 
+
+Personality tests
+Psychiatric instruments: anxiety

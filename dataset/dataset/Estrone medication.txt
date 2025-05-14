@@ -1,0 +1,101 @@
+Estrone (E1), sold under the brand names Estragyn, Kestrin, and Theelin among many others, is an estrogen medication and naturally occurring steroid hormone which has been used in menopausal hormone therapy and for other indications. It has been provided as an aqueous suspension or oil solution given by injection into muscle and as a vaginal cream applied inside of the vagina. It can also be taken by mouth as estradiol/estrone/estriol (brand name Hormonin) and in the form of prodrugs like estropipate (estrone sulfate; brand name Ogen) and conjugated estrogens (mostly estrone sulfate; brand name Premarin).
+
+Side effects of estrogens like estrone include breast tenderness, breast enlargement, headache, nausea, fluid retention, and edema, among others. Estrone is a naturally occurring and bioidentical estrogen, or an agonist of the estrogen receptor, the biological target of estrogens like endogenous estradiol. It is a relatively weak estrogen, with much lower activity than estradiol. However, estrone is converted in the body into estradiol, which provides most or all of its estrogenic potency. As such, estrone is a prodrug of estradiol.
+
+Estrone was first discovered in 1929, and was introduced for medical use shortly thereafter. Although it has been used clinically in the past, estrone has largely been discontinued and is mostly no longer marketed.
+
+Medical uses
+Estrone has been marketed in intramuscular and vaginal formulations and was used as an estrogen in the treatment of symptoms of low estrogen levels such as hot flashes and vaginal atrophy in postmenopausal or ovariectomized women. Estrone has also been used as an antigonadotropin and form of high-dose estrogen to treat prostate cancer in men as well as a form of high-dose estrogen to treat breast cancer in women. It has since largely been discontinued and is mostly no longer available, having been superseded by other estrogens with better potency and pharmacokinetics (namely oral bioavailability and duration).
+
+Regardless of route of administration, if estrone is taken by a woman with an intact uterus, it should be combined with a progestogen such as progesterone to offset the risk of endometrial hyperplasia and cancer.
+
+Estrone has been used by intramuscular injection at a dosage of 0.1 to 2 mg per week, or 0.1 to 0.5 mg given 2 or 3 times per week, for the treatment of menopausal symptoms such as hot flashes and vaginal atrophy, and at a dosage of 0.1 to 1.0 mg weekly in single or divided doses for the treatment of female hypogonadism, surgical castration, and primary ovarian failure. The range of single doses of estrone by intramuscular injection that are typically used clinically in women is 0.1 to 5 mg. High doses of intramuscular estrone have been used for prostate cancer in men and for breast cancer in women.
+
+Available forms
+
+Estrone for intramuscular injection was provided as 1, 2, 2.5, 3, 4, and 5 mg/mL aqueous suspensions and/or oil solutions. It has also been available in the form of vaginal creams (1 mg/g (0.1%)) and suppositories (0.2 mg, 0.25 mg) as well as subcutaneous pellet implants and oral tablets (1.25 mg). A combined oral tablet formulation containing estradiol (0.3 mg, 0.6 mg), estrone (0.7 mg, 1.4 mg), and estriol (0.135 mg, 0.27 mg) has been marketed under the brand name Hormonin as well. In addition, a combined injectable preparation containing estrone (1 mg) and progesterone (10 mg) is available in the form of ampoules under the brand name Synergon.
+
+Although estrone by intramuscular injection was originally formulated as an oil solution, it was soon replaced by formulations of estrone as an aqueous suspension due to a longer duration of action of these formulations.
+
+Side effects
+
+Side effects of estrogens like estrone include breast tenderness, breast enlargement, headache, nausea, fluid retention, and edema, among others. It can also cause endometrial hyperplasia.
+
+Pharmacology
+
+Pharmacodynamics
+
+Mechanism of action
+Estrone is an estrogen, specifically an agonist of the estrogen receptors (ERs) ERα and ERβ. It is a far less potent estrogen than is estradiol, and as such is a relatively weak estrogen. Given by subcutaneous injection in mice, estradiol is about 10-fold more potent than estrone and about 100-fold more potent than estriol. According to one study, the relative binding affinities of estrone for the human ERα and ERβ were 4.0% and 3.5% of those estradiol, respectively, and the relative transactivational capacities of estrone at the ERα and ERβ were 2.6% and 4.3% of those of estradiol, respectively. In accordance, the estrogenic activity of estrone has been reported to be approximately 4% of that of estradiol. Other studies have reported that estrone has about one-tenth of the potency of estradiol in activating the ERs in vitro. Because estrone can be transformed into estradiol, which is far more potent as an estrogen in comparison, most or all of the estrogenic potency of estrone in vivo is actually due to conversion into estradiol. As such, similarly to the case of estrone sulfate, estrone is considered to be a prodrug of estradiol. Some in vitro research has suggested that estrone might be able to partially antagonize the actions of estradiol, but this does not appear to be of clinical significance. In contrast to estradiol and estriol, estrone is not a ligand of the G protein-coupled estrogen receptor (affinity >10,000 nM).
+
+Effects in the body and brain
+In clinical research in the 1930s, estrone was given via intramuscular injection to ovariectomized women in order to study its effects and to elucidate the biological properties of estrogens in humans. In these studies, prior to administration of estrone, amenorrhea, atrophy of the breasts (as well as flaccidity and small and non-erectile nipples), vagina, and endometrium, vaginal dryness, and subjective symptoms of ovariectomy (e.g., hot flashes, mood changes) were all present in the women. Treatment with estrone was found to dose- and time-dependently produce a variety of effects, including breast changes, reproductive tract changes of the vagina, cervix, and endometrium/uterus, and relief from the subjective symptoms of ovariectomy, as well as increased libido. Breast changes specifically included enlargement and a sense of fullness, increased sensitivity and pigmentation of the nipples as well as nipple erection, tingling within the breast mammary glandular tissue, and aching and soreness of the breasts. Reproductive tract changes included increased growth, thickness, and differentiation of the endometrium, and reversal of vaginal and cervical atrophy, which were accompanied by increased congestion of the cervix and mucous discharge from the cervix, uterine cramps and needle-like pains, pelvic fullness, a "bearing-down" sensation, and increased vaginal lubrication, as well as uterine bleeding both during treatment and in the days following cessation of injections. Endometrial hyperplasia also occurred with sufficiently high doses of estrone.
+
+Clinical research has confirmed the nature of estrone as an inactive prodrug of estradiol. With oral administration of estradiol, the ratio of estradiol levels to estrone levels is about 5 times higher on average than under normal physiological circumstances in premenopausal women and with parenteral (non-oral) routes of estradiol. Oral administration of menopausal replacement dosages of estradiol results in low, follicular phase levels of estradiol, whereas estrone levels resemble the high levels seen during the first trimester of pregnancy. In spite of markedly elevated levels of estrone with oral estradiol but not with transdermal estradiol, clinical studies have shown that doses of oral and transdermal estradiol achieving similar levels of estradiol possess equivalent and non-significantly different potency in terms of measures including suppression of luteinizing hormone and follicle-stimulating hormone levels, inhibition of bone resorption, and relief of menopausal symptoms such as hot flashes. In addition, estradiol levels were found to correlate with these effects, while estrone levels did not. These findings confirm that estrone has very low estrogenic activity, and also indicate that estrone does not diminish the estrogenic activity of estradiol. This contradicts some cell-free in-vitro research suggesting that high concentrations of estrone might be able to partially antagonize the actions of estradiol.
+
+Pharmacokinetics
+
+Absorption
+Like estradiol, estrone has poor oral bioavailability. It has been said that, taken by mouth in non-micronized form, a dose of 25 mg estrone is approximately equivalent to 2.5 mg conjugated estrogens, 50 µg ethinylestradiol, or 1 mg diethylstilbestrol in terms of estrogenic potency. Due to its weak oral activity, estrone has been used parenterally instead, for instance by intramuscular injection or vaginal administration. The pharmacokinetics of vaginal estrone have been studied.
+
+Estrone in oil solution by intramuscular injection has a shorter duration than estrone in aqueous suspension by intramuscular injection. Estrone in oil solution by intramuscular injection is rapidly absorbed, while estrone in aqueous suspension has a prolonged period of absorption. Upon intramuscular injection of estrone in aqueous solution, the water from the preparation is absorbed and a microcrystalline depot of estrone that is slowly absorbed by the body is formed. This is responsible for the prolonged duration of estrone in aqueous suspension compared to oil solution.
+
+Distribution
+Unlike estradiol and estriol, estrone is not accumulated in target tissues. In terms of plasma protein binding, estrone is bound approximately 16% to sex hormone-binding globulin (SHBG) and 80% to albumin, with the remainder (2.0 to 4.0%) circulating free or unbound. Estrone has about 24% of the relative binding affinity of estradiol for SHBG, and hence is relatively poorly bound to SHBG.
+
+Metabolism
+
+Estrone is conjugated into estrogen conjugates such as estrone sulfate and estrone glucuronide by sulfotransferases and glucuronidases, and can also be hydroxylated by cytochrome P450 enzymes into catechol estrogens such as 2-hydroxyestrone and 4-hydroxyestrone or into estriol. Both of these transformations take place predominantly in the liver. Estrone can also be reversibly converted into estradiol by 17β-hydroxysteroid dehydrogenases (17β-HSDs), and this accounts for most or all of its estrogenic activity. 17β-HSD isoforms that are involved in the conversion of estrone into estradiol include 17β-HSD1, 17β-HSD3, 17β-HSD4, 17β-HSD7, 17β-HSD8, and 17β-HSD12, although the relative contributions of the different isoforms is unknown.
+
+The biological half-lives of estrone and estradiol in the circulation are both about 10 to 70 minutes, whereas the biological half-life of estrone sulfate in the circulation is about 10 to 12 hours. The metabolic clearance rate of estrone is 1,050 L/day/m2 and of estradiol is 580 L/day/m2, while that of estrone sulfate is 80 L/day/m2. For comparison, the metabolic clearance rate of estriol is 1,110 L/day/m2. A single 1 to 2 mg dose of estrone in oil solution by intramuscular injection has a duration of about 2 or 3 days. As an aqueous suspension by intramuscular injection, estrone was used at a dose of 0.1 to 0.5 mg 2 to 3 times per week, or at a dose of 0.1 to 2 mg once a week or in divided doses. In one rodent study, exogenous estrone was administered and increased circulating estradiol levels by about 10-fold; co-administration of a selective 17β-HSD1 inhibitor decreased estradiol levels by about 50%.
+
+The ratio of circulating estrone to circulating estradiol is the same at about 5:1 with both oral estradiol and oral estrone sulfate. An investigational estrone vaginal ring was found to result in a ratio of estrone to estradiol of 4:1 or 5:1 initially, but this decreased to about 1:1 with continuous therapy.
+
+Excretion
+Estrone is excreted in urine in the form of estrogen conjugates such as estrone sulfate and estrone glucuronide. Following an intravenous injection of labeled estrone in women, almost 90% is excreted in urine and feces within 4 to 5 days. Enterohepatic recirculation causes a delay in excretion of estrone.
+
+Chemistry
+
+Estrone, also known as estra-1,3,5(10)-trien-3-ol-17-one, is a naturally occurring estrane steroid with double bonds at the C1, C3, and C5 positions, a hydroxyl group at the C3 position, and a ketone group at the C17 position. The name estrone was derived from the chemical terms estrin (estra-1,3,5(10)-triene) and ketone.
+
+A variety of estrone esters have been synthesized and described. These include the marketed esters estrone acetate, estrone sulfate, estrone tetraacetylglucoside, and estropipate (piperazine estrone sulfate), and the never-marketed esters estrone benzoate, estrone cyanate, estrone glucuronide, and estrone sulfamate.
+
+History
+
+In 1927, Bernhard Zondek and Selmar Aschheim discovered that large amounts of estrogens were excreted in the urine of pregnant women. This rich source of estrogens allowed the development of potent estrogenic formulations for scientific and clinical use. In 1929, pure crystalline estrone was isolated from the urine of pregnant women by various researchers. By 1929, pharmaceutical preparations including Amniotin (Squibb), Progynon (Schering), and Theelin (Parke-Davis), purified from pregnancy urine, placentas, and/or amniotic fluid and containing purified estrone or mixtures of estrogens that included estrone, were being sold commercially for use by intramuscular injection. Other products and brand names of estrone marketed in the 1930s included Estrone (Abbott, Lilly), Oestroform (British Drug Houses), Folliculin (Organon), Menformon (Organon), and Ketodestrin (Paines & Byrne), among others. These formulations included ampoules of oil or aqueous solution for intramuscular injection, oral tablets, and vaginal suppositories. Estrone in aqueous suspension for use by intramuscular injection was first described in 1941 and was introduced for medical use under the brand name Theelin Aqueous Suspension by 1944.
+
+Society and culture
+
+Generic names
+Estrone is the generic name of estrone in American English and its , , , , , and . Oestrone, in which the "O" is silent, was the former  of estrone and its name in British English, but the spelling was eventually changed to estrone.
+
+Brand names
+Estrone has been marketed under a variety of brand names, including Andrestraq, Aquacrine, A.T.V., Bestrone, Centrogen, Cicatral, Cormone, Crinovaryl, Cristallovar, Crystogen, Destrone, Disynformon, Endofolliculina, Estragyn, Estroject, Estrol, Estrone, Estrone Aqueous Suspension, Estrone-A, Estrugenone, Estrusol, Femestrone, Femidyn, Folikrin, Folipex, Folisan, Folliculin, Follicunodis, Follidrin, Gineburno, Glandubolin, Grietalgen, Grietalgen Hidrocort, Gynogen, Hiestrone, Hormofollin, Hormonin, Hormovarine, Kestrin, Kestrone, Ketodestrin, Kolpon, Ladies Pearl, Livifolin, Menagen, Metharmon-F, Neo-Estrone, Oestrilin, Oestrin, Oestroform, Oestroperos, Ovex, Ovifollin, Perlatan, Progynon, Senikolp, Solliculin, Solutio Folliculinum, Synergon (in combination with progesterone), Theelin, Thynestron, Tokokin, Unden, Unigen, Wehgen, and Wynestron.
+
+Brand names of estrone in aqueous suspension specifically include Bestrone, Estaqua, Estrofol, Estroject, Estrone-A, Estronol, Femogen, Foygen Aqueous, Gravigen Aqueous, Gynogen, Hormogen-A, Kestrin Aqueous, Kestrone, Theelin Aqueous, Theogen, Unigen, and Wehgen.
+
+Availability
+
+Although estrone has been widely marketed in the past, it has mostly been discontinued and remains available in only a few countries. These countries reportedly include Canada, Georgia, Monaco, and Taiwan. However, estrone remains widely available throughout the world in the form of estrone sulfate, which can be found in estropipate (piperazine estrone sulfate), conjugated estrogens (Premarin), and esterified estrogens (Estratab, Menest).
+
+Research
+An estrone vaginal ring was developed and studied for use in menopausal hormone therapy. It increased estrogen levels, suppressed gonadotropin levels, and relieved menopausal symptoms. Subcutaneous pellet implantation of estrone has also been studied.
+
+See also
+ Estradiol/estrone/estriol
+ Estrone/progesterone
+ Estrogenic substances
+
+References
+
+Further reading
+ 
+ 
+
+Abandoned drugs
+Phenols
+Sterols
+Estranes
+Estrogens
+Ketones
+Prodrugs

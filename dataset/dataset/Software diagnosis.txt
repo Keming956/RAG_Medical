@@ -1,0 +1,38 @@
+Software diagnosis (also: software diagnostics) refers to concepts, techniques, and tools that allow for obtaining findings, conclusions, and evaluations about software systems and their implementation, composition, behaviour, and evolution. It serves as means to monitor, steer, observe and optimize software development, software maintenance, and software re-engineering in the sense of a business intelligence approach specific to software systems. It is generally based on the automatic extraction, analysis, and visualization of corresponding information sources of the software system. It can also be manually done and not automatic.
+
+Applications 
+Software diagnosis supports all branches of software engineering, in particular project management, quality management, risk management as well as implementation and test. Its main strength is to support all stakeholders of software projects (in particular during software maintenance and for software re-engineering tasks) and to provide effective communication means for software development projects. For example, software diagnosis facilitates "bridging an essential information gap between management and development, improve awareness, and serve as early risk detection instrument". Software diagnosis includes assessment methods for "perfective maintenance" that, for example, apply "visual analysis techniques to combine multiple indicators for low maintainability, including code complexity and entanglement with other parts of the system, and recent changes applied to the code".
+
+Characteristics 
+In contrast to manifold approaches and techniques in software engineering, software diagnosis does not depend on programming languages, modeling techniques, software development processes or the specific techniques used in the various stages of the software development process. Instead, software diagnosis aims at analyzing and evaluating the software system in its as-is state and based on system-generated information to bybass any subjective or potentially outdated information sources (e.g., initial software models). For it, software diagnosis combines and relates sources of information that are typically not directly linked. Examples: 
+ Source-code metrics are related with software developer activity to gain insight into developer-specific effects on software code quality.
+ System structure and run-time execution traces are correlated to facilitate program comprehension through dynamic analysis in software maintenance tasks.
+
+Principles 
+The core principle of software diagnosis is to automatically extract information from all available information sources of a given software projects such as source code base, project repository, code metrics, execution traces, test results, etc. To combine information, software-specific data mining, analysis, and visualization techniques are applied. Its strength results, among various reasons, from integrating decoupled information spaces in the scope of a typical software project, for example development and developer activities (recorded by the repository) and code and quality metrics (derived by analyzing source code) or key performance indicators (KPIs).
+
+Examples 
+Examples of software diagnosis tools include software maps and software metrics.
+
+Critics 
+Software diagnosis—in contrast to many approaches in software engineering—does not assume that developer capabilities, development methods, programming or modeling languages are right or wrong (or better or worse compared to each other): Software diagnosis aims at giving insight into a given software system and its status regardless of the methods, languages, or models used to create and maintain the system.
+
+Related subjects
+Cost estimation in software engineering
+Programming productivity
+Rapid application development
+Software design
+Software development
+Software documentation
+Software map
+Software release life cycle
+Systems design
+Systems Development Life Cycle
+
+References
+
+External links
+ A tool set based on software maps by Software Diagnostics, 2014
+ Demo video interactive software maps for source-code analysis, 2013
+
+Software engineering

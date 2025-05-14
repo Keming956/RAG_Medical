@@ -1,0 +1,59 @@
+Beim Überschreiten der Glasübergangstemperatur Tg geht ein festes Glas oder Polymer in einen gummiartigen bis zähflüssigen Zustand über. Bei amorphen Metallen spricht man von der Glastemperatur und bei anorganisch-nichtmetallischen Gläsern von der Transformationstemperatur.
+
+Bildung und Eigenschaften 
+Ein Glas bildet sich, wenn eine Flüssigkeit schneller abkühlt, als sich Kristallisationskeime bilden können. Dies geschieht besonders leicht bei asymmetrischen Molekülen und viskosen Flüssigkeiten. Gläser werden z. B. von den in der Umgangssprache darunter verstandenen anorganischen Gläsern – wie dem Fensterglas – gebildet, aber auch von organischen Gläsern wie z. B. amorphen Kunststoffen und sogar auch von kurzkettigen organischen Stoffen, die sich unterkühlen lassen (z. B. 2-Methylpentan mit einer Glasübergangstemperatur von unter 80 K).
+
+Bei Polymeren beruht der Glasübergang von der Schmelze in den festen Zustand auf dem "Einfrieren" von Kettensegmenten.
+
+Bei amorphen Kunststoffen trennt der Glasübergang den unterhalb liegenden, spröden energieelastischen Bereich (Glasbereich) vom oberhalb liegenden, weichen entropieelastischen Bereich (gummielastischer Bereich). Der Übergang in den Fließbereich (Bereich plastischer Verformung) ist nicht abrupt, sondern kontinuierlich.
+
+Teilkristalline Kunststoffe (viele gebräuchliche Kunststoffe weisen einen kristallinen Anteil von 10 bis 80 % auf) besitzen sowohl eine Glasübergangstemperatur, unterhalb derer die amorphe Phase einfriert (einhergehend mit Versprödung), als auch eine Schmelztemperatur, bei der sich die kristalline Phase auflöst. Die Schmelztemperatur trennt den entropieelastischen Bereich deutlich vom Fließbereich.
+
+Ein Glasübergang ist kein Phasenübergang 1. Ordnung und daher auch nicht mit einer exakten Temperatur verknüpft wie der Schmelzpunkt bei Kristallen. Je nachdem, auf welcher Zeit- und Längenskala bzw. Bewegungsmodus der molekularen Dynamik die verwendete Messmethode (s. u.) empfindlich ist, variiert der gefundene Wert systematisch. Exakterweise muss daher zu jeder Glasübergangstemperatur die verwendete Messmethode angegeben werden. Allerdings ist die Abweichung bei Polymeren und einfachen Flüssigkeiten typischerweise nur einige Kelvin groß, da die Bewegungsmoden stark miteinander gekoppelt sind (alle frieren im gleichen Temperaturbereich ein). Bei silikatischen Gläsern kann der Unterschied in Abhängigkeit von der Temperaturänderungsgeschwindigkeit bei der Messung jedoch mehr als 100 K betragen.
+
+Bei Mischungen mit nur zwei Komponenten kann die Gordon-Taylor-Gleichung zur Vorhersage der Glasübergangstemperatur verwendet werden. Daneben werden unter anderem auch die Fox-Gleichung und im Falle stärkerer intermolekularer Wechselwirkungen die Kwei-Gleichung verwendet. Für Mischungen mit mehr als zwei Komponenten kann die Gordon-Taylor-Gleichung erweitert werden.
+
+In einem neueren Modell des Glasübergangs entspricht die Glasübergangstemperatur derjenigen Temperatur, bei der die größten Öffnungen zwischen den schwingenden Elementen in der flüssigen Matrix bei fallender Temperatur kleiner werden als  die kleinsten Querschnitte der Elemente oder Teilen von ihnen.
+
+Infolge des fluktuierenden Eintrags der thermischen Energie in die flüssige Matrix wird die Harmonizität der molekularen Schwingungen ständig gestört und es entstehen temporäre Hohlräume („Freies Volumen“) zwischen den Elementen, deren Anzahl und Größe von der Temperatur abhängen. Die so definierte Glasübergangstemperatur Tg0  ist eine feste nur noch vom Druck abhängige Materialkonstante des ungeordneten (nicht-kristallinen) Zustands.  Infolge der zunehmenden Trägheit der molekularen Matrix bei Annäherung an Tg0 wird die Einstellung des thermischen Gleichgewichts sukzessive verzögert, so dass die üblichen Messverfahren zur Bestimmung der Glasübergangstemperatur prinzipiell zu hohe Tg-Werte liefern. Grundsätzlich gilt: Je langsamer die Temperaturänderungsgeschwindigkeit bei der Messung eingestellt wird umso mehr nähert sich der gemessene Tg-Wert Tg0.
+
+Messung 
+Die Glasübergangstemperatur kann u. a. mit Hilfe folgender Methoden gemessen werden:
+ der Dynamisch-mechanischen Analyse (DMA); dabei wird eine starke Änderung des E- und G-Moduls sowie ein ausgeprägtes Maximum der Änderung der Dämpfung in einem engen Temperaturbereich beobachtet. Aus Ringversuchen geht hervor, dass mit DMA gemessene Glasübergangstemperaturen von PMMA und PC eine Standard-Messunsicherheit von ca. 5 bis 6 °C aufweisen.
+ der dynamischen Differenzkalorimetrie (DSC); dabei wird die Wärmekapazität Cp in Abhängigkeit von der Temperatur erfasst; die Wärmekapazitäten oberhalb und unterhalb des Glasübergangs unterscheiden sich, mit einem kontinuierlichen Übergang in der Nähe der Glasübergangstemperatur. Die festgestellte Glasübergangstemperatur hängt recht stark von der Heiz- bzw. Kühlrate ab: bei langsamer Aufheizung bzw. Abkühlung nähern sich die Werte aus dem Heiz- bzw. Kühlvorgang einander an, allerdings ist die Wärmekapazität bei kleiner Rate zunehmend schwierig zu messen. Eine mit DSC gemessene Glasübergangstemperatur zwischen 90 und 190 °C hat eine Standard-Messunsicherheit von ungefähr 1,4 bis 2 °C.
+ der dielektrischen Relaxationsspektroskopie.
+ der Dilatometrie, da sich der Ausdehnungskoeffizient am Glasübergang ändert.
+
+Lebensmittelindustrie 
+Eine wesentliche Rolle spielen schwache intermolekulare Wechselwirkungen und damit die Glasübergangstemperatur in der Lebensmittelchemie. Vermessen werden häufig in Wasser gelöste oder suspendierte Substanzen. Beim Eindampfen werden die gelösten oder suspendierten Stoffmoleküle in enge Nachbarschaft zueinander und dadurch vorübergehend in einen glasartigen Zustand unterhalb ihres Schmelzpunkts gebracht. Dieser Zustand wird von Zusätzen beeinflusst, die man entweder als vitrifier oder als plasticizer bezeichnet, je nachdem, ob sie die Glasübergangstemperatur erhöhen oder erniedrigen. Weitere Temperaturerhöhung führt zur Schmelze infolge der Auflösung der schwachen Bindungen. Mit abnehmender Viskosität steigt dann die Tendenz zu chemischen und enzymatischen Reaktionen, was bei Lebensmitteln zum schnelleren Verderben führt. Für längere Haltbarkeit eines Lebensmittels ist deshalb seine Lagerung unterhalb der Glasübergangstemperatur notwendig. Auch die Textur von Fertiggerichten und die Löslichkeit von Instantsuppen und anderen pulvrigen Lebensmitteln kann mit Hilfe dieser Messgröße beeinflusst werden.
+
+Einsatztemperatur von Kunststoffen 
+Ob ein Kunststoff oberhalb oder unterhalb seiner Glasübergangstemperatur verwendet werden kann, hängt von der Art des Kunststoffs ab (dabei ist zu beachten, dass die Glasübergangstemperatur eines Kunststoffes bzw. Elastomers mit seiner Vernetzungsdichte steigt, d. h. die Glasübergangstemperatur eines Duroplasts ist deutlich höher als die eines Thermoplasts):
+ Amorphe Thermoplaste können nur unterhalb der Glasübergangstemperatur eingesetzt werden. Die Verarbeitung erfolgt üblicherweise oberhalb derer.
+ Teilkristalline Thermoplaste werden sowohl unterhalb als auch oberhalb der Glasübergangstemperatur eingesetzt. Teilkristalline Thermoplaste, deren Glasübergangstemperatur höher ist als ihre Einsatztemperatur (z. B. Polyethylenterephthalat) sind eher steif und erweichen beim Glasübergang unterschiedlich stark (je nach Kristallinitätsgrad). Teilkristalline Thermoplaste, deren Glasübergangstemperatur unter der Einsatztemperatur liegt (z. B. Polyethylen), sind hingegen auch bei der Einsatztemperatur relativ weich und werden spröde, wenn die Glasübergangstemperatur unterschritten wird. In beiden Fällen ist ein Einsatz oberhalb der Schmelztemperatur nicht sinnvoll.
+ Elastomere werden grundsätzlich im gummielastischen Bereich, also oberhalb der Glastemperatur eingesetzt. Unterhalb der Glasübergangstemperatur verspröden sie stark, wodurch ein Einsatz nicht sinnvoll ist. So wurde beispielsweise als Ursache für das Unglück des Space Shuttle Challenger eine O-Ring-Dichtung aus Fluorelastomer ermittelt, die unterhalb ihrer Glasübergangstemperatur betrieben wurde, wo sie nur ungenügend elastisch war und folglich nicht dicht hielt. Die obere Temperaturgrenze dieser Materialien ist ihre jeweilige Zersetzungstemperatur.
+ Duroplaste werden sowohl unterhalb als auch oberhalb der Glasübergangstemperatur eingesetzt. Duroplaste, deren Glasübergangstemperatur unter der Raumtemperatur liegt, sind allerdings zu den Elastomeren zu zählen. Die obere Temperaturgrenze von Duroplasten ist ihre jeweilige Zersetzungstemperatur.
+
+Einsatztemperatur von Gläsern 
+Glas wird in der Praxis nie oberhalb von Tg verwendet. Ist Glas Temperaturschwankungen ausgesetzt, deren Spitze oberhalb von Tg liegt, entstehen bei Abkühlung von diesen Spitzen Spannungen im Glas, die typischerweise schnell zu Bruch führen. Glas muss nach der Herstellung den Temperaturbereich um Tg durch definiert langsames Abkühlen durchschreiten. So werden Spannungen minimiert.
+
+Glas oder Glasbauteile dürfen in der Regel nicht bis zu Tg belastet werden. Tg liegt innerhalb des sogenannten Transformationsbereiches dessen untere Grenze durch die untere Kühltemperatur beschrieben wird. Diese Temperatur stellt die theoretische Maximaltemperatur einer Glasart dar. In der Praxis liegt diese Temperatur immer 50–100 °C unterhalb von Tg.
+
+Bei Borosilikatgläsern und Kalk-Natron-Gläsern liegt Tg um 500 °C, also deutlich höher als bei den meisten Kunststoffen. Bleigläser liegen etwas tiefer bei um 400 °C. Aluminosilikatgläser liegen deutlich höher bei etwa 800 °C.
+
+Literatur 
+ 
+Kapitel 5.2.4 Glasübergänge, In: Manfred Dieter Lechner, Klaus Gehrke, Eckhard H. Nordmeier: Makromolekulare Chemie: Ein Lehrbuch für Chemiker, Physiker, Materialwissenschaftler und Verfahrenstechniker, 4. überarbeitete und erweiterte Auflage, Springer Verlag 2009, ISBN 978-3764388904, S. 371f
+
+Einzelnachweise
+
+Weblinks 
+ Kunststoffe im Alltag – Freie Universität Berlin
+ Glass Tubing Explorer SCHOTT AG
+
+Schwellenwert (Temperatur)
+Makromolekulare Chemie
+Kunststoffkunde
+Glasverarbeitung
+Werkstoffprüfung
+Physik der weichen Materie

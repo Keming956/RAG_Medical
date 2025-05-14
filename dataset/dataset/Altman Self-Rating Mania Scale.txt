@@ -1,0 +1,29 @@
+The Altman Self-Rating Mania Scale (ASRM) is a 5-item self-reported diagnostic scale which can be used to assess the presence and severity manic and hypomanic symptoms, most commonly in patients diagnosed with bipolar disorder.
+
+Effectiveness 
+The ASRM scale has been shown to be an effective self-reported questionnaire for screening patients with acute mania as well as measuring anti-manic treatment effects. Though only a 5-question instrument, the scale's compatibility with the clinician administered Young Mania Rating Scale and the DSM-IV criteria give substantial diagnostic power for such a brief instrument.
+
+Format 
+The Altman Self-Rating Mania Scale assess differences in "normal" or baseline levels in five subjective and behavioral areas: 
+ positive mood
+ self-confidence 
+ sleep patterns
+ speech patterns and amount 
+ motor activity
+
+Each of these areas has five statements which correspond to scores 0 through 4; with 0 being unchanged from "normal" or baseline, to 4 being overtly manic thoughts or behavior. The subject is asked to choose one statement from each of the five areas that best describes the way they have been feeling over the past week.
+
+Scoring 
+Scores above a 5 are indicative of mania, or hypomania, with the severity of symptoms increasing with higher scores. Examining score changes over time is also used to determine the efficacy of a particular treatment in a clinical setting and to qualify whether the severity a manic episode is increasing or decreasing.
+
+See also 
+ Young Mania Rating Scale
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links 
+Online version of the ASRM
+
+Treatment of bipolar disorder
+Psychiatric instruments: mania

@@ -1,0 +1,237 @@
+Psychose ist ein Grundbegriff in der Psychiatrie. Früher stand er für alle Arten von psychischen Erkrankungen. Heute bezeichnet der Begriff einen unscharf definierten Symptomenkomplex (Syndrom), der durch Halluzinationen, Wahn, Realitätsverlust oder Ich-Störungen gekennzeichnet ist. Auch affektive Symptome sind bei einigen Erkrankungen mit Psychosen vergesellschaftet. Diese unterschiedlichen Symptomtype können einzeln oder in Kombination auftreten.
+
+Psychosen können bei einer Vielzahl von Erkrankungen auftreten. Eine Zuordnung zu einer Erkrankung lässt sich nur durch sorgfältige Diagnostik ermöglichen.
+
+Die Therapie erfolgt abhängig von der Erkrankung und der Symptomatik. Sofern es nicht zu einer Spontanheilung kommt, erfolgt die Behandlung noch häufig mit Neuroleptika. Daneben gibt es bei Vorliegen einer entsprechenden Indikation psychotherapeutische Behandlungsoptionen.
+
+Etymologie 
+Der Begriff Psychose wurde erstmals 1841 von Carl Friedrich Canstatt und dann erneut 1845 von Ernst von Feuchtersleben eingeführt. 1846 schrieb Carl Friedrich Flemming, eine körperliche Entstehung (Somatogenese) einbeziehend, dazu: „Die Seelenkrankheit oder Psychose wurzelt in der Seele, insofern diese durch das sinnliche Organ vermittelt wird. […] Die nächste Ursache der Seelenkrankheit ist Krankheit des körperlichen Organs“.
+
+Das Wort „Psychose“ war bereits um 1875 neben den Begriffen Seelenstörung, psychische Krankheit, Geisteskrankheit und Irresein allgemein in der Psychiatrie etabliert. Es war nach Art französischer Fachwörter mit französischer Endung ins Deutsche gekommen, und zwar von altgriechisch  (), „Seele“, „Geist“, und  (), „Zustand“. Der an einer Psychose erkrankte Mensch wurde als Psychotiker bezeichnet.
+
+Klassifikation psychotischer Erkrankungen 
+Zur Klassifikation psychiatrischer Erkrankungen insgesamt dominierte historisch das Triadische System, dessen Entwicklung auf den Psychiater Emil Kraepelin zurückgeht. Das Triadische System teilt die Psychosen in organische (körperlich begründbare) und endogene („nicht körperlich begründbare“) Psychosen ein. Eine weitere Unterteilung der endogenen Psychosen erfolgte 1899 in der 6. Auflage von Kraepelins psychiatrischen Lehrbuchs, worin er die Dementia praecox (durch Eugen Bleuler später Schizophrenie genannt) dem manisch-depressiven Irresein (Bipolare Störung) gegenüberstellte. Das Triadische System dominierte die Psychiatrie bis in die 1980er-Jahre hinein, als mit der Veröffentlichung von DSM-III bzw. ICD-10 ein Paradigmenwechsel erfolgte: Eine ätiologisch motivierte Einteilung der Erkrankungen wurde aufgegeben, der Fokus verschob sich auf eine deskriptive Einteilung mit Einbeziehung des Verlaufs einer Erkrankung (Zeitkriterium).
+
+Eine Definition des Begriffs Psychose gibt jedoch keines der aktuell verwendeten Diagnosemanuale an. Psychose wird auch heute noch als unscharfer Begriff für alle psychischen Erkrankungen und Zustände verwendet, die mit Wahnvorstellungen, Halluzinationen, Ich-Störungen, Katatonie oder ggf. schweren Erregungszuständen einhergehen.
+
+Aufgrund der operationalisierten Diagnostik und den Unterschieden zwischen ICD-10 und DSM-5 gibt es heute eine Vielzahl von Erkrankungen und damit Kodierungen, die eine Psychose als mögliches Symptom aufweisen. Die moderne Psychiatrie unterscheidet die Psychosen dabei primär nach deskriptiven und zeitlichen Verlaufskriterien und nicht mehr nach Ätiologie. Statt nicht-organische (oder „endogene“) und organische (oder „exogene“) Psychose werden insbesondere im englischsprachigen Raum auch die Begriffe primäre Psychose für die Entwicklung einer Psychose aus einer psychiatrischen Erkrankung heraus und sekundäre Psychose für die Entwicklung aus einer somatischen Erkrankung heraus verwendet. Dies geschieht vor allem in der Annahme, dass psychiatrische Erkrankungen in jedem Fall mit neurobiologischen Abweichungen korrelieren, somit alle psychiatrischen Erkrankungen letztlich „organischen“ Ursprungs sind.
+
+Ursachen 
+Die heutige Forschung geht von einer multifaktoriellen Entstehung der meisten psychiatrischen Erkrankungen, und damit auch Psychosen, aus. Die aktuell (Stand 2018) gebräuchlichste Arbeitshypothese ist das Vulnerabilitäts-Stress-Modell: Demnach interagiert eine ggf. vorhandene Veranlagung (Disposition; genetisch oder vorgeburtlich entstanden) mit darauffolgendem Stress, der als Auslöser angenommen wird. Stressoren können sein:
+
+ prä- und perinatale Faktoren wie mütterlicher Stress in der Schwangerschaft oder der Geburtsort,
+ Einflüsse auf das Immunsystem (kindliche Infektionen),
+ Sozialisation und die psychische Entwicklung des Kindes,
+ anatomische und funktionelle Abweichungen in der Struktur des Gehirns,
+ mechanische Einwirkung auf das Gehirn (z. B. durch Schädel-Hirn-Traumen oder Tumore),
+ hormonelle Einflüsse,
+ Drogen und Medikamente,
+ sowie diverse somatische Erkrankungen (autoimmun/rheumatisch, endokrin).
+
+Bei schizophrenen Psychosen wurde historisch das Modell der Dopaminhypothese entwickelt, welches eine Dysregulation dopaminerger Neurone beschreibt. So kommt es innerhalb unterschiedlicher Regionen des Gehirns zu Unter-/Überfunktion der Transmission. Bildgebende Nachweise (verstärkte Dopaminausschüttung im Striatum bei schizophrenen Patienten mit akuter Psychose) sowie die Wirkung von Dopamin-Rezeptor-Agonisten bzw. -Antagonisten auf den Krankheitsverlauf stützen diese These. Die Dopamindysregulation wird jedoch nicht mehr als eigentliche Ursache von Psychosen angesehen, sondern lediglich als gemeinsame Endstrecke aller pathologischen Veränderungen verstanden.
+
+Arten von Psychosen 
+Da Psychosen lediglich ein Symptom bzw. Syndrom einer Erkrankung darstellen und daher nicht als eigenständige Erkrankung kodifiziert werden können, muss bei einer Psychose eine zugrundeliegende Erkrankung diagnostiziert werden. Diese Erkrankungen lassen sich grob einteilen in organische (somatische) und nichtorganische (psychiatrische) Erkrankungen.
+
+Organische Psychosen 
+Organische Psychosen treten bei nachweisbaren organischen Erkrankungen auf. Hierfür kommen eine Vielzahl an Erkrankungen in Betracht:
+ degenerative Hirnerkrankungen (Demenzen vom Alzheimer- oder Lewy-Body-Typ, vaskuläre Demenz),
+ Hirnverletzungen (Schädel-Hirn-Trauma),
+ fokale Prozesse (Epilepsie [v. a. Temporallappenepilepsie], Schlaganfall),
+ maligne Neubildungen (Tumore sowohl primär im Gehirn als auch als Metastasen),
+ Infektionen (Meningitis, Neurolues),
+ Autoimmunerkrankungen (Anti-NMDA-Rezeptor-Enzephalitis, Hashimoto-Thyreoiditis, Lupus erythematodes, Multiple Sklerose, Vaskulitiden),
+ endokrine Erkrankungen (Hypo- und Hyperthyreose, Hypo- und Hyperparathyreoidismus),
+ angeborene oder erworbene Stoffwechselstörungen (Leukodystrophie, Lysosomale Speicherkrankheiten, Mucopolysaccharidosen, Porphyrie),
+ andere metabolische Störungen (Hypo- und Hypernatriämie, Hypoglykämie),
+ Vergiftungen mit Medikamenten oder Drogen, Drogenentzug,
+ Parasiten (Neurozystizerkose),
+ Sonderformen wie die Postpartale Psychose.
+
+Nichtorganische Psychosen 
+Erkrankungen mit nichtorganischen (ähnliche Bezeichnungen auch endogene oder funktionelle) Psychosen umfassen:
+ Schizophrenie bzw. Erkrankungen des schizophrenen Formenkreises,
+ Anhaltende wahnhafte Störung (:en:Delusional disorder),
+ Akute oder vorübergehende psychotische Störungen (:en:Brief psychotic disorder),
+ Induzierte wahnhafte Störung,
+ Schizoaffektive Störung,
+ affektive Psychosen (hierunter fallen manche Formen von bipolarer Störung oder schwerer Depression).
+
+Organische Psychosen 
+Bei organischen Psychosen sind im Gegensatz zu anderen Psychosen organische Ursachen sicher auszumachen. Diese Psychosen bilden sich aus
+ auf der Grundlage einer Erkrankung des zentralen Nervensystems (z. B. bei degenerativen Prozessen wie Demenzen, bösartigen Neubildungen oder durch anderweitige körperlicher Erkrankungen wie Durchblutungs- und Stoffwechselstörungen)
+ infolge von außen einwirkender Schädigungen (z. B. Schädel-Hirn-Trauma)
+ durch manche Medikamente, Drogen oder andere die Hirnfunktion beeinträchtigende Substanzen
+ im Zusammenhang mit chirurgischen Eingriffen als zeitlich begrenztes Durchgangssyndrom
+Symptome
+
+Wahnvorstellungen, Halluzinationen (häufig optisch von einzelnen Lichtblitzen bis hin zur Trugwahrnehmung von Gegenständen und filmartigen Szenen).
+
+Behandlung
+
+Soweit möglich erfolgt die Therapie organischer Psychosen durch die Behandlung der Grunderkrankung, etwa durch das Weglassen von psychoseauslösenden Medikamenten oder Drogen, ansonsten durch Neuroleptika.
+
+Substanzinduzierte Psychose 
+
+Eine substanzinduzierte Psychose (auch medikamenteninduzierte, toxische oder drogeninduzierte Psychose) ist eine psychotische Störung, die von einer oder mehreren psychotropen Substanzen ausgelöst wurde. Substanzinduzierte Psychosen können unter Umständen irreversibel (unheilbar) oder aber auch nur vorübergehend sein. Substanzen, die Psychosen auslösen können, sind einer Vielzahl an Kategorien zuzuordnen: So existieren unter anderem Genussmittel, Lösungsmittel, Medikamente, Pflanzengifte und Rauschmittel, deren Einnahme ein entsprechendes Risiko darstellen. Exemplarisch lassen sich nennen: Alkohol, Amphetamine, Benzodiazepine, Coffein, Kokain, LSD, MDMA, bestimmte Antibiotika und neue psychoaktive Substanzen. Hinweise auf eine mögliche psychoseauslösende Wirkung von THC-haltigem Cannabis begründen eine entsprechende öffentliche Gesundheitsinformation.
+
+Nichtorganische Psychosen
+
+Schizophrene Psychosen 
+
+Der Begriff Psychose ist nicht mit Schizophrenie gleichzusetzen. Denn als Überbegriff umfasst er auch die organischen und die affektiven Psychosen sowie einzelne psychotische Episoden, die nicht Teil einer lang andauernden Störung (Chronifizierung) sind. Schizophrene Erkrankungen stellen damit nur eine Untergruppe an Erkrankungen dar, bei denen Psychosen auftreten können.
+
+Symptome
+
+Hierzu gehören in erster Linie Wahnvorstellungen und verschiedene Arten von Halluzinationen (Sinnesstörungen).
+
+Die heutigen Diagnosemanuale (DSM-5 oder ICD-10 der WHO) gehen von einer Unterscheidung zwischen positiven Symptomen und negativen Symptomen aus. Letztere äußern sich in Antriebs- und Kommunikationsarmut und teilweise kognitiven Defiziten. Negativsymptome schließen sich häufig an eine akute psychotische Phase an und sind schlechter behandelbar als positive Symptome.
+
+Häufigkeit
+
+Weltweit erkranken etwa ein Prozent der Bevölkerung im Laufe des Lebens (Lebenszeitprävalenz) an einer Psychose aus dem schizophrenen Formenkreis. Dabei scheint es zwischen verschiedenen Kulturen keine oder nur geringe Unterschiede in der Häufigkeit zu geben. Allerdings ist das Risiko verdoppelt, wenn Personen oder deren Eltern Einwanderer sind. Die Häufigkeit hat in den letzten Jahrzehnten nicht zugenommen. Wenn ein Elternteil betroffen ist, liegt das Risiko auch zu erkranken bei etwa 10 %, im Falle von Onkeln und Tanten bei etwa 2 %, und bei eineiigen Zwillingen bei etwa 50 %. Das Risiko der Ersterkrankung hat bei Männern einen Gipfel zwischen dem 18. und 23. Lebensjahr und bei Frauen zwischen dem 23. und 28. Lebensjahr. Bei der Häufigkeit dagegen ist das Geschlechterverhältnis ausgeglichen.
+
+Verlauf
+
+In etwa 10–20 % der Fälle bleibt es bei einer einmaligen psychotischen Episode. In etwa der Hälfte der Fälle kommt es zu wiederkehrenden Schüben und störungsfreien Phasen dazwischen. Bei etwa 20–30 % der Patienten bestehen wiederkehrende Schübe und zusätzlich anhaltende Schwächezustände.
+
+Behandlung
+
+Zur Behandlung mit Medikamenten steht eine Auswahl von verschiedenen Neuroleptika zur Verfügung. Außerhalb akuter Phasen können dauerhaft gegebene Neuroleptika – sofern sie regelmäßig eingenommen werden – erneute Phasen verhindern.
+
+Die Ansprache eines Patienten auf verschiedene Typen von Neuroleptika ist sehr unterschiedlich und wird mit der möglichen Existenz verschiedener Typen von Schizophrenie in Verbindung gebracht.
+
+Neben der medikamentösen Behandlung werden auch – je nach Einzelfall – soziotherapeutische Maßnahmen angewandt. Solche beziehen sich auf die Erhaltung des Arbeitsplatzes, einen beschützten Arbeitsplatz, betreutes Wohnen, ergotherapeutische Maßnahmen zur Wiederherstellung von im Rahmen der Erkrankung verlorengegangenen Arbeitsfähigkeiten, Aufbau von Tagesstruktur, Durchführung einer Belastungserprobung oder Psychotherapie. Bei nicht mehr akuten Krankheitsbildern besteht die Möglichkeit der Psychosenrehabilitation.
+
+Affektive Psychosen 
+Die Bezeichnung Affektive Psychose als Unterkategorie ist veraltet. Nach ICD-10 gibt es Affektive Störungen, von denen manche zusammen mit psychotischen Symptomen auftreten können. Hierzu gehören:
+
+ F30.2 – Manie mit psychotischen Symptomen (z. B. Wahnvorstellungen wie Größenwahn, oder Halluzinationen wie Stimmen hören)
+ F31.2 – Bipolare affektive Störung, gegenwärtig manische Episode mit psychotischen Symptomen
+ F31.5 – Bipolare affektive Psychose, gegenwärtig schwere depressive Episode mit psychotischen Symptomen
+ F31.6 – Bipolare affektive Psychose, gegenwärtig gemischte Episode
+ F32.3 – Schwere depressive Episode mit psychotischen Symptomen
+
+Behandlung
+
+Akute Manien können medikamentös mit Neuroleptika behandelt werden. Für eine Phasenprophylaxe stehen Lithiumtherapie und manche Antiepileptika zur Verfügung. Gegen Depressionen können im Rahmen einer Pharmakotherapie Antidepressiva eingesetzt werden. Bei schwerer Depression wird eine Kombination von medikamentöser Therapie und Psychotherapie empfohlen. Gegebenenfalls sind bei Manien und schweren Depressionen die gleichen soziotherapeutischen Maßnahmen angebracht wie bei schizophrenen Psychosen. Bei anders nicht behandelbarer schwerer Depression kommt auch die Elektrokonvulsionstherapie in Betracht, die teilweise mit einem Rückgang der Neigung zum Suizid und verminderten Selbsttötungen in Zusammenhang gebracht wird.
+
+Therapie 
+Die Behandlung einer Psychose richtet sich nach der Grunderkrankung. Ein gängiges Modell bei primären Psychosen bildet die Behandlung mit Antipsychotika, Psychotherapie und Soziotherapie, je nach Erkrankung in unterschiedlichem Ausmaß und Gewichtung. Bei sekundären Psychosen steht die Behandlung der ursächlichen Erkrankung im Vordergrund.
+
+Medikamentöse Therapie 
+Zur Standardtherapie einer akuten Psychose gehört seit den 1960er Jahren die Gabe von Antipsychotika. Diese lassen sich in die älteren, sog. typischen, und die modernen, atypischen Antipsychotika einteilen. Während bei typischen Antipsychotika extrapyramidale Bewegungsstörungen häufig schon bei therapeutischen Dosen auftreten, treten diese bei atypischen Antipsychotika in der Regel erst bei deutlich höheren Dosierungen auf, sodass für die Erstlinientherapie bevorzugt atypische Antipsychotika verwendet werden. Aufgrund der unterschiedlichen Wirkung von Antipsychotika (z. B. auf Negativsymptomatik, antidepressive Wirkung) ist eine sorgfältige Anpassung an das aktuelle Krankheitsbild nötig. Antipsychotika lindern grundsätzlich nur die Symptome und stellen keine Heilung dar. Eine frühzeitige Gabe kann jedoch aufgrund der Unterbrechung des Fortschreitens der psychischen Erkrankung (aufgrund neurotoxischer Wirkung veränderter neuronaler Netzwerke) eine Chronifizierung der Symptome vermeiden.
+
+Die Wirkung von Antipsychotika bei der Behandlung von Psychosen wurde vielfach untersucht und besitzt hohe Evidenz. Sie sind einem Placebo deutlich überlegen. Allerdings sprechen Patienten unterschiedlich auf Antipsychotika an, sodass ggf. mehrere Therapieversuche mit unterschiedlichen Medikamenten erfolgen müssen.
+
+Ein Versuch, ohne oder mit wenig Medikamenten auszukommen, ist die Soteria-Behandlung.
+
+Soziotherapie 
+Neben der medikamentösen Behandlung werden auch – je nach Einzelfall – soziotherapeutische Maßnahmen angewandt. Solche beziehen sich auf die Erhaltung des Arbeitsplatzes, einen beschützten Arbeitsplatz, betreutes Wohnen, ergotherapeutische Maßnahmen zur Wiederherstellung von im Rahmen der Erkrankung verlorengegangenen Arbeitsfähigkeiten, Aufbau von Tagesstruktur, Durchführung einer Belastungserprobung oder Psychotherapie. Bei nicht mehr akuten Krankheitsbildern besteht die Möglichkeit der Psychosenrehabilitation. Die neuesten S3-Behandlungsleitlinien der Deutschen Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN) empfehlen neben kognitiver Verhaltenstherapie auch Metakognitives Training für die Behandlung schizophrener Psychosen.
+
+Diagnostik 
+Neu aufgetretene Psychosen bedürfen einer sorgfältigen Erstuntersuchung, um einfach zu behandelnde Grunderkrankungen nicht zu übersehen sowie in der Vielzahl möglicher Diagnosen die richtige zu stellen. Die Standarddiagnostik umfasst daher in aller Regel:
+ ausführliche Anamnese (inkl. Eigen-, Familienanamnese, biografische Anamnese, ggf. Fremd- und Suchtanamnese),
+ medizinische und neurologische Untersuchung,
+ Blutentnahme und laborchemische Analyse,
+ kranielle Computertomographie (CT) oder Magnetresonanztomographie (MRT), ggf. erweitert um eine Angiographie (CTA, MRA),
+ Liquorpunktion und laborchemische Untersuchung des gewonnenen Liquors,
+ Elektroenzephalogramm (EEG),
+ neuropsychologische Testung,
+ Persönlichkeitstestung.
+
+Bei entsprechendem Verdacht kann die Diagnostik durch weitere Verfahren wie Elektrokardiografie, Drogenscreening oder Röntgen erweitert werden. Auch Untersuchungen von spezifischen Biomarkern können bei Verdacht (z. B. seltene Stoffwechselerkrankungen) durchgeführt werden.
+
+Schwierigkeiten der Diagnostik 
+Fehldiagnosen von Psychosen sind möglich. Persönlichkeitsstörungen wie die Borderline-Persönlichkeitsstörung können psychotisch gedeutet werden, zumal Psychosen auch als Komorbidität bei der Borderline-Persönlichkeitsstörung auftreten können. Auch epileptische Aktivitäten im Temporallappen wie etwa ein nicht-konvulsiver Status epilepticus können eine Psychose auslösen. Vorerkrankungen und zusätzliche Symptome müssen bei der Diagnosestellung berücksichtigt werden, da eine primäre (nicht-organische) Psychose eine Ausschlussdiagnose ist. Eine antipsychotische Therapie kann durch Sedierung das klinische Bild (Symptome) verzerren oder Symptome maskieren.
+
+Insofern sind Vorerkrankungen wie Diabetes mellitus, Epilepsie oder Stoffwechselerkrankungen wie eine Porphyrie besonders zu berücksichtigen. Insbesondere Stoffwechselerkrankungen stellen eine Herausforderung dar, da diese sehr variable Symptome verursachen können und bei manchen Erkrankungen Antipsychotika kontraindiziert sind.
+
+Folgen von Psychosen 
+Menschen mit Psychosen haben ein erhöhtes Risiko, weitere Krankheiten zu entwickeln oder durch ihr Verhalten Schaden zu nehmen. Ihre Selbstmordrate ist erhöht (Lebenszeitrisiko bis zu 34,5 %). Sie neigen oft zu Suchtverhalten (Lebenszeitrisiko von 74 %) und werden häufiger obdachlos (pro Jahr 5 %). Psychose-Betroffene werden auch häufiger Opfer von Verbrechen (38 % innerhalb von drei Jahren) und stehen selber häufiger als die Normalbevölkerung wegen Gewalttaten vor Gericht.
+
+Psychose und Kunst 
+Der Psychoanalytiker Stavros Mentzos befasste sich 2012 mit den „schöpferischen Aspekten“ der Symptomatik von Psychosen. Mit Verweis auf seine vorausgehende Publikation aus dem Jahr 2009, in der er die Funktion von Symptomen ausführlich vorgestellt hatte, maß er „psychotischer Symptomatik“ auch eine „Schutzfunktion“ bei und verglich die Symptombildung mit dem „kreativen“ Vorgang des Träumens. Einigen Künstlern der Moderne sei sie „Quelle der Inspiration“, als solche aber „überschätzt“.
+
+Bildende Kunst 
+Auf dem 10. Hamburger Colloquium von 2002 der Patriotischen Gesellschaft von 1765 gab Susanne Hilken ihrem Vortrag den Titel Psychose und Kunst – zwischen Stigma und Emanzipation. Hilken bezeichnete die Zahl von Veröffentlichungen über Psychose und Kunst bzw. angrenzende Themen als „kaum noch überschaubar“. Sich auf die bildende und darstellende Kunst beschränkend, empfahl sie, folgende Unterscheidung vorzunehmen: Menschen mit einer Psychose als Gegenstand (Sujet) der Kunst und Patienten, die während ihrer Psychose beginnen, sich künstlerisch zu betätigen, sowie Künstler, die vorübergehend oder chronisch an einer Psychose erkranken.
+
+Die vorgeschlagene Unterscheidung hilft, sich zurechtzufinden, denn nicht immer wird entsprechend differenziert, weder zwischen diesen drei Gruppen noch im Hinblick auf ihre Krankheitsbilder. Zur erstgenannten Gruppe von Künstlern, die, selbst nicht erkrankt, einen Teil ihrer Kunst ausdrücklich dem Thema Psychose widmen, ist als zeitgenössischer Künstler beispielsweise Peeter Allik zu rechnen – ein Maler und Grafiker aus Estland, der einer seiner Ausstellungen im Kunstmuseum in Tartu den Titel Cultivated Schizophrenia gab. Hilken erinnerte an Théodore Géricault, der Bildnisse von Patienten des seinerzeit berühmten Hôpital de la Salpêtrière in Paris schuf, aber auch an Goya oder Frans Hals.
+
+Für die zweite Gruppe wird oft weder zwischen einer Psychose und anderen psychischen Erkrankungen noch zwischen den teilweise erheblich voneinander abweichenden Verläufen einer Psychose differenziert. In dieser Gruppe finden sich so unterschiedliche Künstler wie Adolf Wölfli und August Natterer. Doch hat die Kunst dieser Patienten nicht selten mit Unterstützung ihrer Ärzte einige Aufmerksamkeit auf sich gezogen. Neue Begriffe – wie z. B. Art brut – etablierten sich und ganze Sammlungen entstanden, beispielsweise die Sammlung Prinzhorn. Leo Navratil, ein österreichischer Psychiater, prägte den Begriff der „zustandsgebundenen Kunst“, publizierte darüber und wurde wegen seines Engagements für die Kunst seiner stationär behandelten psychiatrischen Patienten geehrt. Zugleich zog er harsche Kritik auf sich – 1976 durch den österreichischen Schriftsteller Gerhard Roth und 1979 durch den Journalisten Ernst Klee.
+
+Für die dritte Gruppe, also Künstler, die im Laufe ihres Lebens an einer Psychose erkrankten, finden sich zahlreiche Beispiele, wie Wolfgang Hallmann oder Louis Wain. Hilken unterschied konkret Künstler, die eine gesteigerte künstlerische Aktivität entwickeln oder, ganz im Gegenteil, deren kreatives Schaffen in der Psychose zum Erliegen kommt. Andere vollziehen markante Stilwechsel, und bei wieder anderen scheint ihr Werk von der Erkrankung nicht beeinflusst. Neben Messerschmidt und van Gogh widmete sie sich der französischen Bildhauerin Camille Claudel (1864–1943), für die sie verschiedene Schaffensperioden beschrieb; diese zerstörte schließlich ihr eigenes Werk, soweit ihr zugänglich, stellte ihre schöpferische Arbeit ein und verbrachte gegen ihren Willen die letzten 30 Jahre ihres Lebens in einer psychiatrischen Klinik. Claudels Lebenswerk wurde im Mai 2017 mit der Eröffnung eines eigenen Museums in Nogent-sur-Seine gewürdigt. Es beherbergt die „größte Camille Claudel-Sammlung der Welt“.
+
+Claudels Vita, um die sich zahlreiche Legenden rankten, ist von B. Cooper, einem Professor am Department of Old Age Psychiatry des King’s College London, im Jahr 2008 auf der Basis moderner interaktionistischer Modelle neu bewertet worden. Dafür wertete Cooper inzwischen veröffentlichtes Material aus Klinik und Biografie aus. Er kam zu dem Schluss, bei Claudel würden sich zwei miteinander verschränkte Syndrome abbilden. Für ihn unzweifelhaft entwickelte Claudel im Alter von 41 Jahren eine paranoide Psychose mit fortgesetzten Wahnvorstellungen und Ängsten, vergiftet zu werden. Daneben sei eine Kombination von ernsthafter Selbstvernachlässigung, sozialer Isolation und Verweigerung des vorausgehenden Lebensstandards wirksam geworden, heute bekannt als Diogenes-Syndrom. Ihre Psychose würde Cooper als wahnhafte Störung klassifizieren, aber genau genommen müsse sie in dem unscharf umrissenen Bereich zwischen Paranoia (wahnhafte Verarbeitung von Wahrnehmungen), Paraphrenie (Spätschizophrenie mit gesonderter Symptomatik) und Schizophrenie angesiedelt werden. Für die Ursache ihrer Erkrankung machte Cooper eine abnorme Anlage-Umwelt-Interaktion verantwortlich. In Claudels Fall sei eine psychotische Prädisposition assoziiert mit einem ausgeprägt kreativ-schöpferischen Talent. Ihre Kunst dürfe, obwohl sie ihre emotionalen Konflikte symbolisiere, nicht als „morbid“ zurückgewiesen werden. Stattdessen hätten – unabhängig von einer möglicherweise gemeinsamen Ursache von Claudels innerem Drang zur Kreativität und ihrer mentalen Instabilität – zwei verschiedene „Linien“ ihres Lebensweges zusammengewirkt, so dass unter fortgesetzter sozialer Not die mentale Instabilität schließlich die Oberhand gewonnen habe.
+
+Literatur und Theater 
+Innenansichten erlebter und durchlittener Schübe einer bipolaren Psychose beschreibt Thomas Melle in seinem mehrfach ausgezeichneten Buch Die Welt im Rücken.
+David Hugendick befand in der Zeit: „Es passiert selten, dass man ein Buch mit komplexen Schamgefühlen liest. Man schämt sich für den Zwiespalt, der sich in einem selbst auftut, weil man sich überrannt fühlt oder niedergetrampelt, erstarrt und immer wieder unterhalten. […] Und man schämt sich, weil man sich sicher ist, dass dieses Buch große Literatur ist, aber es vielleicht gar nicht sein will, sondern möglicherweise eine Selbsterkundung, auf jeden Fall eine tragische, wahre Geschichte, die nur dem Autor gehört und nicht dem Leser und nicht dem Jubel der Rezensenten.“
+
+2017 wurde Melles Krankheitsdarstellung in Wien erstmals als Theaterstück aufgeführt, im Akademietheater unter der Regie von Jan Bosse mit Joachim Meyerhoff als Hauptdarsteller. Wolfgang Kralicek resümierte seine Eindrücke von der Aufführung in der Süddeutschen Zeitung: „Man muss nicht bipolar sein, um zu begreifen, dass etwas nicht stimmt. Mit jedem von uns, aber schon auch mit der Welt. Dass ein Buch die Rettung sein kann, ist der tröstliche Gedanke, mit dem man diesen Theaterabend verlässt.“
+
+Kritik an der Diagnose 
+
+Die Psychiater Thomas Szasz (1920–2012) und Ronald D. Laing vertreten wie der Soziologe Michel Foucault die Ansicht, dass Begriffe wie Verrücktheit (Psychose) und psychische Normalität keine objektiven Diagnosen, sondern subjektive Urteile mit gesellschaftlichen und politischen Wirkungen seien.
+Nach Foucault wird die Abgrenzung zwischen Normalität und Verrücktheit zur gesellschaftlichen Kontrolle benutzt.
+Die klinische Psychiatrie sei damit nicht mehr nur medizinische Einrichtung, sondern diene als normstiftende Machtinstanz.
+
+Der Kopf der Antipsychiatrie-Bewegung David Cooper war der Überzeugung, dass Wahnsinn und Psychose gesellschaftliche Erzeugnisse seien und es zu deren Lösung einer Revolution bedürfe. Er sah in Psychosebetroffenen verhinderte Revolutionäre, deren revolutionäres Potential durch den Gesellschaftszwang verhindert würde.
+
+Dokumentarfilme 
+ Soteria Bern. Akut. Schweiz 2013, Regie: Leila Kühni – Dokumentarfilm über die Soteria Bern (Teil 1), Schweizer Mundart mit hochdeutschen Untertiteln
+ Soteria Bern. Integration. Schweiz 2013, Regie: Leila Kühni – Dokumentarfilm über die Soteria Bern (Teil 2), Schweizer Mundart mit hochdeutschen Untertiteln
+ Soteria Bern. Gespräch. Schweiz 2013, Regie: Leila Kühni – Dokumentarfilm über die Soteria Bern (Teil 3), Schweizer Mundart mit hochdeutschen Untertiteln
+
+Literatur
+
+Leitlinien 
+ Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for the management of schizophrenia and related disorders, 2016.
+ National Institute for Health and Care Excellence (NICE): Psychosis and schizophrenia in adults: prevention and management, 2014 (no new evidence found in November 2017 that affected the recommendations in this Guideline).
+ National Institute for Health and Care Excellence (NICE): Psychosis and schizophrenia in children and young people: recognition and management, 2013 (last updated: October 2016).
+ National Collaborating Centre for Mental Health: Psychosis with Coexisting Substance Misuse: The NICE Guideline on Assessment and Management in Adults and Young People. RCPsych Publications, London 2011, ISBN 978-1-908020-30-7.
+ Leitlinie der Deutschen Gesellschaft für Psychiatrie, Psychotherapie und Nervenheilkunde (DGPPN): Schizophrenie – Kurzfassung, März 2019, gültig bis März 2023.
+
+Einführungen 
+ James B. McCarthy (Hrsg.): Psychosis in childhood and adolescence. Routledge, New York 2015, ISBN 978-1-136-73896-8.
+ Paolo Fusar-Poli, Stefan J. Borgwardt, Philip McGuire (Hrsg.): Vulnerability to Psychosis: From Neurosciences to Psychopathology. Psychology Press, New York 2012, ISBN 978-1-136-59639-1.
+ Heinz Häfner u. a. (Hrsg.): Psychosen – Früherkennung und Frühintervention: der Praxisleitfaden, mit 23 Tabellen, Schattauer Verlag, Stuttgart 2012, ISBN 978-3-7945-2704-5.
+ Rudolf N. Cardinal, Edward T. Bullmore: The Diagnosis of Psychosis. Cambridge University Press, 2011, ISBN 978-0-521-16484-9.
+ Johan Cullberg: Therapie der Psychosen: Ein interdisziplinärer Ansatz. Psychiatrie-Verlag, Bonn 2008, ISBN 978-3-88414-435-0.
+ Dieter Bürgin, Heiner Meng (HRSG): Childhood and Adolescent Psychosis. Karger Medical and Scientific Publishers, Basel 2004, ISBN 978-3-8055-7706-9.
+ Karl Leonhard: Aufteilung der endogenen Psychosen und ihre differenzierte Ätiologie (Hrsg.): Hellmut Beckmann, 8. Aufl., 54 Tabellen, Georg Thieme Verlag, Stuttgart 2003, ISBN 978-3-13-128508-9.
+
+Psychotherapeutische Behandlungsoptionen
+
+Psychoanalytische Schriften
+
+Ratgeber 
+ Paul French, Jo Smith, David Shiers, Mandy Reed, Mark Rayne (Hrsg.): Promoting Recovery in Early Psychosis: A Practice Manual. John Wiley & Sons 2010, ISBN 978-1-4443-1882-1.
+ Michael T Compton, Beth Broussard: The First Episode of Psychosis: A Guide for Patients and Their Families. Oxford University Press 2009, ISBN 978-0-19-970700-3.
+ Thomas Bock: Umgang mit psychotischen Patienten, Psychiatrie-Verlag, Bonn 2003, 6. Aufl. 2009, ISBN 978-3-88414-332-2.
+ Josef Bäuml: Psychosen aus dem schizophrenen Formenkreis: Ratgeber für Patienten und Angehörige, Leitfaden für professionelle Helfer, Einführung für interessierte Laien. 2., aktualisierte und erweiterte Auflage. Springer, Heidelberg 2008, ISBN 978-3-540-43646-1.
+
+Psychose und Kunst 
+ B. Cooper: Camille Claudel: trajectory of a psychosis. In: Medical humanities. Band 34, Nummer 1, Juni 2008, S. 25–29, doi:10.1136/jmh.2008.000268. PMID 23674536, PDF.
+ Dietrich von Engelhardt: Psychische Krankheit in der Literatur der Neuzeit. In: Jahrbuch des Instituts für Geschichte der Medizin der Robert Bosch Stiftung. Band 4, 1985, S. 23–40.
+
+Literarisches 
+ Anna Sperk: Neben der Wirklichkeit. Roman. Mitteldeutscher Verlag, Halle (Saale) 2018, ISBN 978-3-96311-014-6.
+ Jens Jüttner: Als ich aus der Zeit fiel: Mein Weg durch die paranoide Schizophrenie. Pinguletta Verlag, 2020, ISBN 978-3948063115.
+ Klaus Gauger: Meine Schizophrenie. Verlag Herder, 2018, ISBN 978-3451600494.
+ Janine Berg-Peer: Schizophrenie ist scheiße, Mama! Vom Leben mit meiner psychisch erkrankten Tochter. Fischer Taschenbuch, 2013, ISBN 978-3596189144.
+
+Weblinks 
+
+ psychose.de – Für Erfahrene, Angehörige und Profis: Informationen, Trialog und interaktives Therapieportal
+ Früherkennung von Psychosen – Früherkennungs- und Therapiezentrum (FETZ) der Uni Köln
+ Robin Wester: Früherkennungszentrum in Bonn – Wie sich eine Psychose ankündigt, in: General-Anzeiger (Bonn), 18. November 2017.
+ Martin Hubert: Fortschritte in der Früherkennung von Psychosen werfen Fragen auf, in: Deutschlandfunk – Forschung aktuell, 1. Juni 2017.
+ Vera Eckardt: Wo Jugendliche in Essen lernen, mit einer Psychosezuleben, in: Westdeutsche Allgemeine Zeitung (WAZ), 12. Dezember 2017.
+
+Anmerkungen
+
+Einzelnachweise 
+
+Psychische Störung
+Neologismus der 1840er-Jahre

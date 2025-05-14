@@ -1,0 +1,49 @@
+Der Medikationsplan bildet die vollständige Medikation (Dauermedikation, Begleitmedikation und Bedarfsmedikation) eines Patienten ab. Im Idealfall umfasst dieser Plan neben den Angaben zum Patienten die Gesamtheit der von allen behandelnden Ärzten und Zahnärzten verschriebenen Medikamente sowie nicht verordnete Arzneimittel, die zusätzlich in Apotheken zur Selbstmedikation erworben wurden. Ziel des Medikationsplans ist es, Patienten bei der richtigen Einnahme ihrer Medikamente zu unterstützen und weiterbehandelndes Fachpersonal (zum Beispiel im Notfall den Rettungsdienst) über die medikamentöse Einstellung des Patienten zu informieren.
+
+In der Regel steht dem Patienten sein Medikationsplan in ausgedruckter Form zur Verfügung, um diesen weiterbehandelndem Fachpersonal schnell und einfach zur Verfügung zu stellen. In einigen Fällen sind auch Strichcodes oder 2D-Codes (z. B. DataMatrix-Code oder QR-Code) aufgedruckt, um ein Einscannen und Digitalisieren des Planes zu ermöglichen. Das erleichtert es den Ärzten und Zahnärzten, die den Medikationsplan bearbeiten (zum Beispiel durch Neuverordnungen), den Plan zu aktualisieren, ohne ihn komplett neu schreiben zu müssen. Insbesondere für nicht stationäre Behandlungseinrichtungen (wie eben den Rettungsdienst) ist es praktikabel, digitale Medikationspläne einzulesen, da entsprechende Scanner (in der Regel) auf den Rettungsmitteln nicht vorhanden sind.
+
+Elemente des Medikationsplans 
+
+Das wichtigste Element des Medikationsplans ist der Patientenname, um den Plan dem Patienten einwandfrei zuordnen zu können. Essenziell ist natürlich die Aufzählung der Medikationen, die der Patient einnimmt. Zudem wird in der Regel der Zeitpunkt genannt, zu dem die Medikamente eingenommen werden sollen. Unter dem Zeitpunkt ist nicht nur der eigentliche Zeitpunkt (z. B. 30 Minuten vor der Nahrungsaufnahme) zu verstehen, sondern auch, ob es sich um eine Notfallmedikation handelt, die also nur im Bedarfsfall eingenommen wird. Von Relevanz sind auch das Datum der Ausstellung des Medikationsplans und der Name des Ausstellers. Dies gibt dem behandelnden Personal eine Auskunft, ob der Plan noch aktuell ist oder gegebenenfalls überholt (werden muss).
+
+Inhalte
+ Persönliche Daten zum Patienten, die eine Zuordnung erlauben, und weitere Informationen, die gegebenenfalls eine Weitermedikation oder die weitere Behandlung durch das Fachpersonal erleichtern
+ Vor- und Nachname
+ Anschrift
+ Versichertendaten
+ weitere Patientendaten*
+ Gewicht*
+ Vorerkrankungen*
+ Informationen zu den Medikamenten
+ Alle Medikamente, die ärztlich verschrieben wurden (genauer Handelsname der Medikation und (ggf.) die Medikamentengruppe)
+ Medikamente, die ohne Verschreibung eingenommen werden sowie Hinweise auf Medizinprodukte, sofern diese aus Sicht des Arztes für die Therapie relevant sind*
+ Auf Wunsch des Patienten können dabei Medikamente ausgelassen werden.
+ Die Dosierung des Medikamentes
+ Mit welchem Zeitplan werden die Medikamente eingenommen? Also z. B. 30 Minuten vor der Mahlzeit oder handelt es sich um eine neben der Dauermedikation nur bei Bedarf eingesetzte Bedarfsmedikation?
+ (Ggf.) Mit welchen Medikamenten dürfen die Medikationen nicht kombiniert werden? (Besonders für weiterbehandelndes Personal relevant)
+ Weitere Informationen
+ Name, Adresse und Telefonnummer des Ausstellers (i. d. R. der Hausarzt oder der Apotheker)
+ Name, Adresse und ggf. Telefonnummer eines Notfallkontaktes*
+ Informationen über eine möglicherweise bestehende Patientenverfügung oder eine bestehende Vorsorgevollmacht*
+* = Nicht immer enthalten
+
+Es gibt rechtlich gesehen keine Einschränkung, wer den Medikationsplan ausstellt, allerdings erfolgt die erstmalige Erstellung des Medikationsplans i. d. R. durch den Haus- oder den behandelnden Facharzt. Eine Aktualisierung des Medikationsplans erfolgt aber auch durch andere Ärzte und ggf. Apotheker oder andere Personen in der Krankenversorgung. Hierzu sollen Bar- oder 2D-Codes zur Identifikation und Redigitalisierung des gedruckten Medikationsplans vorhanden sein, eine Übernahme auf die elektronische Gesundheitskarte ist anzustreben.
+
+Relevanz des Medikationsplans 
+
+Der Medikationsplan gibt weiterbehandelnden Personen einen guten Überblick über die medikamentöse Versorgung des Patienten. Dies ist Besonders in medizinischen Notfällen oder bei Patienten, die sich nicht selber zu ihrer medikamentösen Behandlung äußern können (weil sie zum Beispiel an Demenz erkrankt sind), sehr hilfreich. So kann das medizinische Fachpersonal, dem der Patient nicht direkt bekannt ist, sich einen raschen Überblick über die Medikation des Patienten verschaffen.
+
+In Situationen, in denen durch die Gabe von Medikamenten eine übersteigerte Wirkung der verschriebenen Medikation verursacht werden kann (z. B. bei der Gabe von Acetylsalicylsäure [ASS] durch einen Notarzt im Falle eines Herzinfarktes bei bestehender ASS-Medikation), kann dies das unabsichtliche Verursachen gesundheitlicher Schäden verhindern. Daher ist jedem Patienten, der regelmäßig Medikamente einnimmt (Dauermedikation), altersunabhängig dazu zu raten, einen entsprechenden Plan durch eine versierte Person (am besten den eigenen Hausarzt) anlegen zu lassen. Laut § 31a SGB V hat jeder Patient, der mindestens 3 Präparate zur selben Zeit einnimmt einen rechtlichen Anspruch auf die Erstellung eines Medikationsplans (siehe "Situation in Deutschland").
+
+Patienten, die mit Dauermedikation eingestellt sind, ist daher dazu zu raten, den  Hausarzt bei jedem Kontrollbesuch um einen neuen Medikationsplan zu bitten. Mit der (aus dem Druckdatum ersichtlichen) Aktualität kann dem weiterbehandelnden Personal Sicherheit gegeben werden.
+
+Situation in Deutschland 
+Nach  SGB V haben gesetzlich Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, seit dem 1. Oktober 2016 Anspruch auf Erstellung und Aushändigung eines bundeseinheitlichen Medikationsplans (BMP) in Papierform durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Zusätzlich besteht die Möglichkeit, einen elektronischen Medikationsplan (eMP) auf die elektronische Gesundheitskarte speichern zu lassen.  Über diesen Anspruch müssen Ärzte ihre Patienten informieren.
+
+Fachärztinnen und Fachärzte sind genauso wie Apotheken zur Aktualisierung des eMP verpflichtet, sobald sich die Medikation ändert oder ausreichend Kenntnis über eine Änderung vorliegen. Voraussetzung ist die Einwilligung des Versicherten. Ab 2023 soll auf Basis des eMPs auch eine Prüfung der Arzneimitteltherapiesicherheit (AMTS) erfolgen.
+
+Für Erstellung und Aktualisierung des Medikationsplans war für das Jahr 2017 eine ärztliche Vergütung von 163 Millionen Euro vorgesehen.
+
+Einzelnachweise 
+
+Pharmazie

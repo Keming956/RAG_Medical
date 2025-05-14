@@ -1,0 +1,61 @@
+Acoustic trauma is the sustainment of an injury to the eardrum as a result of a very loud noise. Its scope usually covers loud noises with a short duration, such as an explosion, gunshot or a burst of loud shouting. Quieter sounds that are concentrated in a narrow frequency may also cause damage to specific frequency receptors.  The range of severity can vary from pain to hearing loss.
+
+Acute acoustic trauma can be treated by combining hyperbaric oxygen therapy (HBO) with corticosteroids. Acute noise exposure causes inflammation and lower oxygen supply in the inner ear. Corticosteroids hinder the inflammatory reaction and HBO provides an adequate oxygen supply. This therapy has been shown to be effective when initiated within three days after acoustic trauma. Therefore, this condition is considered an ENT emergency.
+
+Signs and Symptoms 
+Hazardous noise causes injury to the hearing mechanisms in the inner ear. Acoustic trauma may result in sensorineural HL (SNHL) that is either temporary (temporary threshold shift, TTS) or permanent (permanent threshold shift, PTS). A TTS will resolve with time, while the time frame for hearing recovery is unique in every case, any SNHL that persists beyond eight weeks after injury is most likely permanent and should be considered PTS.
+
+ Hearing loss
+ Tinnitus (ringing in the ear)
+ Aural fullness (ear fullness)
+ Recruitment (ear pain with loud noise) 
+ Difficulty localizing sounds
+ Difficult in hearing a noisy background 
+ Vertigo
+
+Causes 
+Acoustic trauma is an injury to the inner ear that's often caused by exposure to a high-decibel noise. This injury can occur after exposure to a single, very loud noise or from exposure to noises at significant decibels over a longer period of time. Many cases have included a period of reduced hearing after exposure to loud sounds. Examples include after a concert or a visit to a discotheque or having worked with noisy equipment. This kind of hearing impairment is often temporary. After some recovery time, the acoustic trauma often will stop.
+
+Threshold of Hearing (Decibel, dB) 
+
+ 0-30: Faint
+ 40-60: Moderate to quiet
+ 70-90: Very noisy 
+ 100-120: Pain
+ 130-180: Intolerable
+
+Pathophysiology 
+Acoustic trauma occurs when a continuous transient sounds transfers enough energy to a cochlea to result in necrosis of the outer hair cells (OHC), inner hair cells (IHC), and cause glutamate excitotoxicity  of first-order afferent neurons of the spiral ganglion (cochlear synaptopathy). This can occur when an impact or impulse sound like an explosion occurs abruptly. When excessive, this force can lead to cellular metabolic overload, cell damage and cell death. The force of that transient sound exceeds the elastic limit of the tissues. The organ of Corti can be sheared off the basilar membrane when the sound coming through the ear canal, middle ear and cochlea exceeds 132 dB. If the sound is more intense than 184 dB, the eardrum is ruptured. 184 dB and above usually comes from military sound exposures, such as with the explosion of an IED (improvised explosive device). When a person has a shock wave, not only is the eardrum ruptured, but also has ossicular discontinuities. The explosion or blast if powerful can cause traumatic brain injury. As a result, a person could have an auditory processing disability. Lung injures can develop as well as some injuries to the viscera. Once exposure to damaging noise levels is discontinued, further significant progression of hearing loss stops. Individual susceptibility to noise-induced hearing loss varies greatly, but the reason that some people are more resistant to it while others are susceptible is not well understood.
+
+Diagnosis 
+The diagnosis is based on what environmental factors of that loud noise that was exposed. Audiometry will be used to detect signs of acoustic trauma. In this test, there are different sounds of varying loudness and of different tones that are exposed to more carefully assess what can be heard and what can't be heard.
+
+Treatment/Prevention 
+There are various treatment methods available depending on how severe the acoustic trauma is. Acoustic trauma cannot be reversed as of today. The goal of treatment is to protect the ear from further damage. Below are possible preventive measures and treatment methods that could help in cases of acoustic trauma  
+
+ Hyperbaric Oxygen therapy: Only when the case is extremely serious.
+ Corticosteroids drugs: anti-inflammatory drug.
+ Eardrum repair
+ Using technological assistance for hearing loss such as a hearing aids
+ Ear protection
+ Using earplugs and other kinds of devices to protect the hearing.
+ Segregating from events and environments where the noise is fairly louder than usual.
+
+Prognosis 
+Each episode of acoustic trauma results in permanent damage within the inner ear, even though the majority of patients, the symptoms will disappear and an audiogram will show normal hearing within a few hours to a few days. In some cases, the changes seen in the audiogram will only partially improve or remain permanent. One of the signs and symptoms of acoustic trauma is tinnitus and this may persist for a long time. In some cases, tinnitus may become a permanent condition. There is no specific study done on Life Expectancy or statistical information for the prognosis of acoustic trauma. Overall, depending on how powerful the noise was and how and what degree of the severity, the prognosis is quite difficult to predict.
+
+Epidemiology 
+The prevalence depends on the environmental factors. Acoustic trauma is quite common during military service and during hunting activities where it's mainly associated with gun sports and particularly accidental shots. Of teenagers, 20-50 percent experience exposure to noise levels high enough to cause acute acoustic trauma. Hearing loss due to noise is the second most common sensorineural hearing loss, after age-related hearing loss (presbycusis). Of more than 28 million Americans with some degree of hearing impairment, as many as 10 million have hearing loss caused by in part by excessive noise exposure in the workplace or during recreational activities.
+
+Research Directions 
+There is one clinical trial that is currently testing on the efficacy of various treatments for acoustic trauma in the Israeli Defense Force. In this clinical trial, there are different treatments and potential remedies that are testing the effectiveness. Acoustic trauma is highly common in military settings which would be amendable for a clinical trial. Taking certain drugs potentially might not be effective in trying to treat acoustic trauma, however, there can potentially be one. This a current study that's being done which has no results as of right now.
+
+See also
+Tinnitus
+
+References
+
+External links 
+
+Auditory perception
+Diseases of the ear and mastoid process

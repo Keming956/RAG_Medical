@@ -1,0 +1,68 @@
+Unter Schwingungsdiagnose werden in der mechanischen Antriebstechnik schwingungsanalytische Verfahren und Methoden verstanden, die geeignet sind, den Schädigungszustand von Wälzlagern, Getriebestufen, Wellen und weiteren Antriebselementen zu bestimmen. Alternative Begriffe sind Maschinendiagnose, Maschinendiagnostik und Schwingungsdiagnostik. Seit einigen Jahren wird häufig auch der Begriff Condition Monitoring verwendet, wobei dieser Begriff durchaus auch weitere Verfahren einschließen kann. Der Schwingungsdiagnose liegt der einfache Zusammenhang zugrunde, dass alle mechanischen Vorgänge in Maschinen – eingeschlossen Unregelmäßigkeiten an Komponenten bis hin zu Schäden – Kraftumsetzungsprozesse zur Folge haben, die in der Maschine weitergeleitet werden und letztlich an die Gehäuseoberfläche gelangen. Sie haben periodischen Charakter, d. h. sie treten in festen Zeitabständen immer wieder auf.
+
+Schwingungsursachen 
+
+Typischerweise führen folgende Phänomene zu charakteristischen Schwingungen (vgl. Dresig & Fidlin (2014)):
+
+ Unwucht führt zu sinusförmigen Schwingungen mit der Drehfrequenz.
+ Ausrichtfehler führen zu sinusförmigen Schwingungen mit Vielfachen der Drehfrequenz.
+ Anschlagende lose Teile, Passungsprobleme und Schäden an Wellen führen zu Stoßimpulsen, die sich mit der Drehfrequenz wiederholen.
+ Umlaufende Verzahnungsschäden (Alle Zahnflanken eines Zahnrads weisen ähnliche Flankenformabweichungen auf, z. B. infolge von Verschleiß.) führen zu harmonischen Oberwellen zur Zahneingriffsschwingung.
+ Lokale Verzahnungsschäden (Weniger als alle Zahnflanken besitzen eine Flankenformabweichung, z. B. infolge von Ermüdung.) führen zur Modulation der Zahneingriffsschwingung mit der Drehfrequenz des geschädigten Zahnrades.
+ Wälzlagerschäden führen zu Stoßimpulsfolgen, deren Wiederholfreuqenz der kinematischen Frequenz des jeweiligen Wälzlagerbauteils entspricht.
+ Elektrische Effekte an Elektromotoren führen zu sinusförmigen Schwingungen mit der Netzfrequenz bzw. Umrichterfrequenz und deren Vielfachen.
+ An Lüftern und Pumpen entstehen sinusförmige Schwingungsanregungen mit der Flügel- bzw. Schaufelpassierfrequenz.
+ An Gleitlagern kann unter Umständen Wellenpräzession (oft als Oil-Whirl bezeichnet) entstehen. Dieser führt zu sinusförmigen Schwingungen mit etwa dem 0,43- … 0,48-fachen der Drehfrequenz.
+
+Geschichte 
+Dass Schwingungen Hinweise auf konkrete mechanische Ursachen geben können, muss hier als bereits lange bekannt vorausgesetzt werden. Sehr anschaulich wird dieser Zusammenhang in einer Veröffentlichung aus dem Jahr 1964 beschrieben: „Vielfach erkennt man Lagerschäden daran, dass sich das Laufgeräusch verändert. In diesem Fall sollte man versuchen, das Geräusch zu beschreiben, z.B. durch Angaben wie: gleichmäßig oder schwellend, periodisch oder ungleichmäßig, brummend, pfeifend, singend, klopfend. Stellt man eine regelmäßig wiederkehrende Folge von Geräuschen fest, so versuche man zu beschreiben, mit welcher Frequenz sie auftritt. … Bei niedrigen Drehzahlen hat es sich häufig bewährt, mit einem Bleistift im Rhythmus des Geräusches auf ein Blatt Papier zu klopfen und nach einer bestimmten Anzahl von Sekunden die Punkte auszuzählen.“
+
+Spätestens seit den 1960er Jahren gibt es Messgeräte für die schwingungsbasierte Zustandsüberwachung von mechanischen Antrieben. Anfangs wurden lediglich Kenngrößen aus Offline-Messungen im Monats- oder Wochenrhythmus überwacht. Dabei ging man davon aus, dass Kenngrößen repräsentativ für den Laufzustand eines Antriebs bzw. für auftretende Schäden seien. Oft wurde das bloße Ansteigen einer Kenngröße im Zuge einer Trendüberwachung als Indikator für eine Anomalie genutzt. In dieser Zeit entstand auch die erste entsprechende Vorschrift, die inzwischen zurückgezogene VDI-Richtlinie 2056, die inzwischen durch die ISO 10816-3 ersetzt wurde.
+
+In den 1970er und 1980er Jahren wurden Anstrengungen unternommen, die Maschinendiagnose zu einem praxistauglichen Produkt zu entwickeln und industriell breit einzusetzen. Dazu wurden die gemessenen Signale auch auf ihre enthaltenen Frequenzen und die Signalform untersucht. Die Übereinstimmung der Frequenz einer gemessenen Schwingung mit einer leicht auszurechnenden Schadensfrequenz lieferte eine detaillierte Aussage über die entstehende Unregelmäßigkeit. Die Systeme dieser Zeit waren aus heutiger Sicht geprägt durch mangelhafte Datenqualität und unzureichende Auflösung bei der Visualisierung. Dies war dem damaligen Stand der Rechentechnik geschuldet und natürlich seinerzeit nicht anders möglich.
+
+In den 1990er Jahren erfuhr die Rechentechnik eine rasante Entwicklung. Dies wirkte sich auch auf die Maschinendiagnose aus. Nun war es möglich, lange Zeitdatensätze mit hoher Auflösung aufzuzeichnen und zu verarbeiten. Die Maschinendiagnose wurde dadurch empfindlicher, präziser und führte zu einer höheren Diagnosezuverlässigkeit.
+
+Ebenfalls in den 1990er Jahren gab es erste erfolgreiche praktische Ansätze auf dem Gebiet der Ferndiagnose. Digitale Telefonie und schnelle Datennetze eröffneten vollkommen neue Möglichkeiten – eine Entwicklung, die auch heute noch nicht abgeschlossen zu sein scheint. Nun ist kontinuierliche Online-Überwachung möglich, sofern eine automatisierte Messwertinterpretation eingerichtet wird.
+
+Kenngrößenüberwachung 
+Die Beschreibung des Maschinenzustands anhand von Kenngrößen ist seit Mitte des vergangenen Jahrhunderts gebräuchlich und partiell erfolgreich. Zu den bekanntesten Anwendungen dürfte die inzwischen zurückgezogene VDI-Richtlinie 2056 gehören. Dort wird der Effektivwert der Schwinggeschwindigkeit genutzt, um den Einfluss rotierender Maschinen auf die Fundamentierung zu beschreiben. Ergänzend ist die Überwachung des Effektivwerts der Schwingbeschleunigung interessant. Dort werden höherfrequente Erscheinungen deutlicher visualisiert. Effekte durch beginnende Wälzlagerunregelmäßigkeiten dagegen werden im Spitzenwert der Schwingbeschleunigung repräsentiert. Darüber hinaus gibt es noch eine Reihe spezieller Diagnosekenngrößen, meist für die Wälzlagerdiagnose, z. B. Crestfaktor, K(t), Kurtosis, SPM, Spike Energy, BCU, SEE.
+
+Die Überwachung von Kenngrößen liefert einen schnellen Überblick, lässt prinzipiell eine unmittelbare Reaktion zu und erfordert keine Kenntnis der kinematischen Zusammenhänge des Antriebs. Diagnosetiefe und -zuverlässigkeit sind allerdings eingeschränkt. Schadensart und -ort sind in der Regel nicht eindeutig bestimmbar, abhängig von der Komplexität des Antriebs.
+
+Frequenzselektive Überwachung 
+
+Wesentlich aussagefähiger ist die frequenzselektive Überwachung von Schwingungen. Alle mechanischen Erreger in Antrieben, egal ob diese auf den normalen Betrieb oder auf Unregelmäßigkeiten zurückzuführen sind, haben eine bestimmte Frequenz, die in der Regel berechenbar und somit bekannt ist. Dass zwei verschiedene Phänomene dieselbe Frequenz besitzen und damit nicht unterschieden werden können, kommt zwar vor, ist aber eher selten der Fall. Und selbst dann kann man oft noch durch den Vergleich der Schwingungsamplituden an verschiedenen Messorten eine grobe Eingrenzung vornehmen.
+
+Kinematische Frequenzen sind die Drehfrequenzen der Wellen, die sich aus einer beliebigen bekannten Drehzahl – meist wird das die Antriebsdrehzahl sein – und den jeweiligen Übersetzungsverhältnissen der Getriebestufen ergeben. Für Getriebestufen benötigt man weiterhin die Zahneingriffsfrequenzen, für Planetenstufen außerdem die Überrollfrequenzen auf der Sonne, dem Planeten und dem Hohlrad. Für Wälzlager berechnet man die Überrollfrequenzen auf Innenring, Außenring und Wälzkörper sowie die Käfigrotationsfrequenz aus den geometrischen Wälzlagerdaten, soweit diese bekannt sind, oder man bekommt diese Daten fertig von den Wälzlagerherstellern.
+
+Analysewerkzeuge sind Kennfunktionen, das Spektrum zur Analyse energiereicher sinusförmiger Schwingungen sowie das Hüllkurvenspektrum zur Analyse stoßimpulsförmiger Schwingungsereignisse. Folglich findet man Unwucht, Ausrichtfehler und Unregelmäßigkeiten an Verzahnungen im Spektrum, beginnende Wälzlagerschäden, Lagersitzprobleme und Wellenschäden dagegen im Hüllkurvenspektrum.
+
+Man ist heute in der Lage, Schwingungen sehr feingliedrig zu analysieren. Der Vergleich der gemessenen mit den berechneten kinematischen Frequenzen verrät dann, welches Antriebselement welchen Schaden aufweist. Der Rückschluss auf den jeweiligen Verursacher anhand der kinematischen Frequenz ist in der Regel eindeutig. Schadensart und -ort sind damit exakt bestimmbar.
+
+Die frequenzselektive Überwachung erfordert das Sammeln und Verarbeiten einer gewissen Datenmenge und erfolgt damit zwangsläufig etwas zeitverzögert. Dabei sprechen wir von 60 bis 120 Sekunden. Zwingend erforderlich sind die Kenntnis der kinematischen Zusammenhänge des Antriebs sowie – abhängig von der Automatisierungstiefe des jeweiligen Systems – ein gewisses Maß an Diagnosewissen.
+
+Ordnungsanalyse 
+Die Frequenzanalyse basiert auf zeitsynchron erfassten Daten. Für drehzahlkonstant betriebene Antriebe ist das ausreichend. Da kinematisch bedingte Schwingungen jedoch nicht zeitsynchron, sondern Drehzahlsynchron erzeugt werden, führt die Frequenzanalyse schon bei minimaler Drehzahlwelligkeit zur Verteilung von Spektralanteilen über einen mehr oder weniger großen Bereich von Spektrallinien. Für die Interpretation von Spektren ist das hinderlich.
+
+In den 1990er Jahren war das weniger hinderlich. Antriebe liefen damals oft mit einigermaßen konstanter Drehzahl, und Spektren wurden mit relativ wenigen Linien gebildet, so dass Drehzahlwelligkeiten ein Verschmieren über nur wenige Spektrallinien bewirkten. Die Diagnose von Langsamläufern galt damals ohnehin als schwierig. Heute werden Spektren mit hoher Auflösung, also mit 32.768 Linien oder mehr gebildet. Schon sehr kleine Drehzahlwelligkeiten führen dazu, dass die Energie einer Schwingung auf so viele Spektrallinien verteilt wird, dass ein eindeutiger Nachweis praktisch nicht möglich ist.
+
+Eine Lösung liefert die Ordnungsanalyse. Schwingungen werden nicht zeitsynchron, sondern drehwinkelsynchron erfasst. Die von diesem Signal gebildeten Spektren nennt man Ordnungsspektren bzw. Hüllkurvenordnungsspektren. Es muss der Bezug zu einer Referenzwelle hergestellt werden, welche dann die Ordnung Eins hat.
+
+Tatsächlich ist der praktizierte Weg, dass Schwingungen zeitsynchron erfasst werden und gleichzeitig der Verlauf der Drehzahl über der Zeit gespeichert wird. Auf der Basis des aufgezeichneten Drehzahlverlaufs wird das Schwingungssignal einer Neuabtastung unterzogen. Dieser Weg wird bei Condition Monitoring Systemen für Windenergieanlagen beispielsweise vom Allianz Zentrum für Technik favorisiert.
+
+Die Erfassung der Drehzahl oder des Drehimpulses erfolgt über induktive Sensoren beispielsweise an Schraubenköpfen einer Kupplung oder über optische Sensoren und Reflexmarken. Um Drehzahländerungen möglichst genau zu erfassen, sollte die Drehzahl an der schnellsten Welle eines Antriebs gemessen werden.
+
+Im Ergebnis dieses Prozesses entstehen also zusätzlich zu Spektrum und Hüllkurvenspektrum das Ordnungsspektrum und das Hüllkurvenordnungsspektrum. So lassen sich sowohl zeitsynchrone als auch drehsynchrone Phänomene zuverlässig diagnostizieren.
+
+Automatisierung der Schwingungsdiagnose 
+Grenzwerte für Schwingungsamplituden festzulegen, ist in der Regel nicht möglich. Es gibt keinen allgemeingültigen Zusammenhang zwischen der Höhe eines Peaks im Spektrum oder Hüllkurvenspektrum und einer mechanischen Schadensquantität. So etwas gelingt nur in Einzelfällen an Antrieben, für die es belastbare Referenzwerte gibt, die dann meist auf hinreichend großen statistischen Massen beruhen. Auf der anderen Seite muss der erforderliche Zeitaufwand für die Betreuung jedes einzelnen Systems gering sein, da sich sonst deren Einsatz nicht lohnt.
+
+Für die frequenzselektive Schwingungsdiagnose sind heute verschiedene Ansätze zur Automatisierung üblich. Sehr verbreitet ist die Überwachung von Spektren auf Amplitudengrenzwerte, die manuell definiert werden. Diese haben dann zwangsläufig subjektiven Charakter. Grenzwerte werden mitunter aber auch automatisch durch Lernalgorithmen auf der Basis von Referenzdaten generiert, wenn entsprechende Muster vorliegen.
+
+Ein sehr effektiver Weg ist die Nutzung einer modifizierten Signifikanzanalyse. Dabei werden auffällige Spektrallinien vollautomatisch extrahiert. In einem zweiten Schritt wird für diese auffälligen Spektrallinien dann lediglich überprüft, ob deren Frequenzen mit kinematischen Schadensmustern übereinstimmen. Die Signifikanzanalyse ist aus der mathematischen Statistik bekannt und wurde ursprünglich für die Bewertung großer statistischer Massen eingesetzt. Dieses Verfahren ist von Hause aus weitgehend unabhängig von der Belastung des Antriebs, funktioniert also unter Volllast ebenso wie im Teillastbetrieb. Die Ergebnisse sind so zuverlässig, dass auf manuelle Analysen zunächst verzichtet werden kann.
+
+Einzelnachweise 
+
+Technische Sicherheit
+Qualitätsmanagement (Maschinenbau)

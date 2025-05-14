@@ -1,0 +1,61 @@
+The Autism Diagnostic Interview-Revised (ADI-R) is a structured interview conducted with the parents of individuals who have been referred for the evaluation of possible autism or autism spectrum disorders.  The interview, used by researchers and clinicians for decades, can be used for diagnostic purposes for anyone with a mental age of at least 24 months and measures behavior in the areas of reciprocal social interaction, communication and language, and patterns of behavior.
+
+Structure
+Useful for diagnosing autism, planning treatment, and distinguishing autism from other developmental disorders. The interview covers the referred individual's full developmental history, is usually conducted in an office, home or other quiet setting by a psychologist, and generally takes one to two hours.  The caregivers are asked 93 questions, spanning the three main behavioral areas, about either the individual's current behavior or behavior at a certain point in time.  The interview is divided into five sections: opening questions, communication questions, social development and play questions, repetitive and restricted behavior questions, and questions about general behavior problems.  Because the ADI-R is an investigator-based interview, the questions are very open-ended and the investigator is able to obtain all of the information required to determine a valid rating for each behavior.  For this reason, parents and caretakers usually feel very comfortable when taking part in this interview because what they have to say about their children is valued by the interviewer.  Also, taking part in this interview helps parents obtain a better understanding of autism spectrum disorder and the factors that lead to a diagnosis.
+
+Content areas 
+The first section of the interview is used to assess the quality of social interaction and includes questions about emotional sharing, offering and seeking comfort, social smiling, and responding to other children.  The communication and language behavioral section investigates stereotyped utterances, pronoun reversal, and social usage of language.  Stereotyped utterances are the few words or sounds that the individual uses and repeats most often.  The restricted and repetitive behaviors section includes questions about unusual preoccupations, hand and finger mannerisms, and unusual sensory interests.  Finally, the assessment contains questions about behaviors such as self-injury, aggression, and over activity which would help in developing treatment plans.
+
+Scoring
+After the interview is completed, the interviewer determines a rating score for each question based on their evaluation of the caregiver's response.
+
+Rating scale
+ 0: "Behavior of the type specified in the coding is not present"
+ 1: "Behavior of the type specified is present in an abnormal form, but not sufficiently severe or frequent to meet the criteria for a 2"
+ 2: "Definite abnormal behavior"
+ 3: "Extreme severity of the specified behavior"
+ 7: "Definite abnormality in the general area of the coding, but not of the type specified"
+ 8: "Not applicable"
+ 9: "Not known or asked"
+
+Algorithm
+A total score is then calculated for each of the interview's content areas.  When applying the algorithm, a score of 3 drops to 2 and a score of 7, 8, or 9 drops to 0 because these scores do not indicate autistic behaviors and, therefore, should not be factored into the totals.  In order to create the algorithm for diagnosis, the writers chose questions from the interview that were most closely related to the criteria for diagnosis of Autism Spectrum Disorder in the DSM-IV and the ICD-10.  An autism diagnosis is indicated when scores in all three behavioral areas meet or exceed the specified minimum cutoff scores. These cutoff scores were determined using the results of many years of extensively reviewed research.
+
+Cutoff scores
+ Social interaction: 10.
+ Communication and language: 8 (if verbal) or 7 (if non-verbal)
+ Restricted and repetitive behaviours: 3
+
+Training
+Extensive training and knowledge about autism spectrum disorder and the ADI-R is required for both conducting and scoring the interview.  Training usually takes 2 or more months to complete depending on the person's clinical experience and interviewing skills.  There are separate training procedures based on whether the ADI-R will be conducted for clinical or research purposes.  To use the instrument as a clinician, there are training videos and workshops for administration and scoring.  The ADI-R DVD Training Package offered by WPS provides clinical training in the use of the ADI-R. Researchers are required to attend specific research training and establish their reliability in using the ADI-R in order to use it for research purposes. The standard of practice is to attend an in-person ADI-R research training workshop and establish research reliability with the authors or their colleagues. Information about ADI-R research training workshops, including current dates and locations, can be found Center for Autism and the Developing Brain (CADB): http://cornellpsychiatry.org/education/autism.html
+
+History
+The ADI-R was written by Michael Rutter, MD FRS, Ann LeCouteur, MBBS and Catherine Lord, PhD. and published by Western Psychological Services in 2003.  The original version of the Autism Diagnostic Interview, written in 1989, was used mainly for research purposes.  The ADI was developed in response to four major developments in the field of diagnosing autism which led to a need for updated diagnostic tools.  These developments included improvements in the diagnostic criteria, the need to differentiate between autism and other developmental disorders that appear similar early in life, and the desire, in the area of psychology, for standardized diagnostic instruments.  The original ADI could be used on individuals with a chronological age of at least five years and a mental age of at least two years, but autism spectrum disorder is usually diagnosed much earlier than this age.  This finding led Rutter, LeCouteur, and Lord to revise the ADI in 1994 so that it could be used to determine a diagnosis in individuals with a mental age of at least 18 months.  This would enable clinicians to use the interview to differentiate autism from other disorders which can appear in early childhood.
+
+The writers' main goals in revising the ADI were to make the interview more efficient, shorter, and more appropriate for younger children.  The majority of the revisions made involved the organization of the interview.  The questions were divided into five distinct sections and early and current behavior were consolidated in each section.  Research led to some modifications of specific interview questions.  Modifications included both making some questions focus more on autism-specific aspects of behaviors and making other questions more generalized to improve efficiency.  Also, some additional questions were added to the interview, including more specific questions about ages when abnormal behaviors began.  Other irrelevant items were removed in order to increase the interview's ability to diagnose autism at a younger age.  These question revisions also led the writers to revise the scoring algorithm and cut-off scores as there were more questions added to some sections.
+
+Reliability
+Questions from the original version of the ADI that were found, through research, to be unreliable or not applicable were removed when the interview was revised.  The ADI-R has also been tested thoroughly for reliability and validity using inter-rater reliability, test-retest reliability and internal validity tests.  The results of this research have led to the ADI's acceptance among both researchers and clinicians for decades.  The ADI-R is often used in conjunction with other related instruments to determine an autism diagnosis.
+
+The writers have published psychometric results that indicate both reliability and validity of the ADI-R.  Both inter-rater reliability and internal consistency were good across all behavioral areas investigated in the interview.  The interview was also found to have adequate reliability across time.  Research comparing ADI-R results of autistic children and children with other developmental disorders suggested that individual questions on the interview were slightly more valid when discriminating autism from mental retardation than the algorithm as a whole.  However, further research has led to overall acceptance of the ADI-R algorithm.
+
+Related instruments
+The social communication questionnaire (SCQ) is a brief, 40-item, true/false questionnaire, completed by parents regarding the behavior of their child. It parallels the ADI-R in content and is used for brief screening to determine the need to conduct a full ADI-R interview.
+
+The autism diagnostic observation schedule (ADOS), is a companion instrument by the same core authors. It is a semi-structured set of observations and is conducted in an office setting as a series of activities involving the referred individual and a psychologist or other trained and licensed examiner.
+
+See also
+ Autism diagnostic observation schedule
+ Autism Society of America
+ Autism Speaks
+ Epidemiology of autism
+ Michael Rutter
+
+References
+
+External links
+Autism Resource - Glossary of Terms
+Western Psychological Services - ADI-R Materials
+ADI-R in other languages
+
+Psychiatric instruments: autism

@@ -1,0 +1,8 @@
+distcc est un logiciel libre qui permet de distribuer les tâches de compilation d'un code source en C, C++ ou Objective C entre plusieurs machines en réseau. Il est conçu pour fonctionner avec gcc, bien qu'il fournisse différents degrés de compatibilité avec les compilateurs Intel et Sun.
+
+Il est distribué selon les termes de la licence GNU GPL.
+
+Notes et références 
+
+Compilateur
+Logiciel libre sous licence GPL

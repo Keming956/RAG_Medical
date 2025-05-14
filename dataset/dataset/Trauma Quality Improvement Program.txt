@@ -1,0 +1,77 @@
+The Trauma Quality Improvement Program (TQIP) was initiated in 2008 by the American College of Surgeons Committee on Trauma. Its aim is to provide risk-adjusted data for the purpose of reducing variability in adult trauma outcomes and offering best practice guidelines to improve trauma care. TQIP makes use of national data to allows hospitals to objectively evaluate their trauma centers' performance relative to other hospitals. TQIP's administrative costs are less than those of other programs, making it an accessible tool for assessing performance and enhancing quality of trauma care.
+
+Background
+Morbidity and mortality rates are variable across United States trauma centers. Institutional variations can be attributed to differences in both patient population and quality of care at each institution. The Institute of Medicine (IOM) report To Err is Human: Building A Safer Health System emphasized the importance of recognizing variability and inefficiencies in the United States healthcare system. To address these discrepancies, John Fildes, MD, FACS created an ad hoc work group to create and implement an outcomes-based, validated, risk-adjusted trauma quality improvement system. The goal was to utilize existing trauma infrastructures to measure and continually improve the quality of trauma care. This was done by accessing each hospital's registry database using the National Trauma Data Standard (NTDS) from the National Trauma Data Bank (NTDB), resulting in the creation of the Trauma Quality Improvement Program (TQIP) by the American College of Surgeons (ACS).
+
+TQIP was preceded by surgical indicators that included the Optimal Resources for the Care of the Injured reference document, published by the ACS Committee on Trauma in 1979. The document created a framework for the trauma center verification review process with a systems approach to trauma care. The Major Trauma Outcome Study (MTOS) of 19821989 subsequently established the national standards for trauma care. The MTOS database also facilitated the creation of a methodology to estimate an individual trauma patient's survival probability, also known as the Trauma Injury Severity Score (TRISS). Other studies, such as the 2006 National Study of the Costs and Outcomes of Trauma (NSCOT), aimed to identify differences in expenditures and outcomes at various hospitals.
+
+Pilot study
+
+Design
+A pilot study was initiated in June 2008 to refine the methodology and assess the feasibility of applying TQIP for quality improvement at different trauma centers. Twenty-three Level I and II trauma centers volunteered and were selected to participate in the study with ACS verification. Most Level I centers are university-based trauma centers with comprehensive services. Level II centers were included to increase geographic and patient diversity, as well as the statistical power of any analyses. Each participating center received a registrar training course that included information about TQIP objectives and infrastructures, critical data collection fields, and NTDS data definitions. Webinars with conference calls and test case data abstraction were used for follow-up training.
+ 
+Using NTDB data from patients admitted to trauma centers between January 1 and December 1, 2007, three cohorts were created. The first cohort included patients with blunt multisystem or blunt mechanism traumas with an Abbreviated Injury Scale (AIS) score ≥ 3 in two or more regions including the head, face, neck, thorax, abdomen, spine, and extremities. The second cohort was composed of trauma patients with penetrating truncal injuries with an AIS score ≥ 3 in at least one region including the neck, thorax, and abdomen. Patients in the third cohort had a blunt single-system injury with an AIS score ≥ 3 in only one AIS body region, with the remaining regions having a maximum AIS score of 2. The outcomes of interest were death during hospitalization as evidenced by an emergency department (ED) discharge disposition of “death” or hospital discharge disposition of “expired,” as well as the prevalence of inpatient complications.
+
+Results
+Data reports were created and distributed to each participating trauma center in June 2009. Results were consistent with the previous year's baseline findings. Cohorts of similar verified trauma centers had differences in risk-adjusted mortality rates with a large amount of variance between low-outlier and high-outlier trauma centers. The aggregate group had a relative risk-mortality of 3.3, while the single-system trauma cohort had a mortality 5.9 times higher for high-outlier facilities.
+ 
+The TQIP pilot results gave each trauma center feedback regarding their trauma outcomes relative to other hospitals. The results also shed light on appropriate actions to undertake in order to improve quality, such as by illuminating local or regional collaborative efforts that could implemented. Overall, the pilot study demonstrated that TQIP's anonymous measures of relative performance could successfully allow trauma centers to identify shortcomings and facilitate quality improvement using existing resources and systems at local, regional, and national levels.
+
+Methodology
+TQIP utilizes a retrospective cohort of trauma patients in designated and ACS-verified Level I and II hospitals in the United States and Canada. There is no minimum sample size requirement for a trauma center to participate in the program. , over 200 participating Level I and II trauma centers that vary in type (public, private teaching university, teaching community, etc.) and region participate in TQIP.
+
+Inclusion criteria
+To participate in the program, patients must meet the following inclusion criteria: be an adult greater than sixteen years of age with at least one valid ICD 9 CM diagnosis code, history of blunt or penetrating mechanisms of injury, or have an AIS score ≥ 3. Eligible patients also must have emergency department or hospital dispositions available.
+
+Exclusion criteria
+Patients are excluded from the program if they have a pre-existing advance directive to withhold life-sustaining measures or are older than 65 years of age and have an isolated hip fracture.
+
+Patient categorization
+The program categorizes patients into different cohorts in order to evaluate different aspects of trauma care. The cohorts are as follows:
+ Blunt multisystem injury with an AIS > 3 in a least two regions of the body
+ Penetrating truncal injury with an AIS > 3 in the regions of the neck, chest, or abdomen
+ Shock patients with a systolic blood pressure < 90 mmHg
+ Patients with isolated traumatic brain injury (TBI)
+ Elderly patients (over 65 years of age) without isolated hip fractures
+
+Outcomes
+This program focuses on mortality, complications, and resource use. Mortality is further subdivided into on arrival, in the emergency department, and in-hospital. Complications are further subdivided into urinary tract infections, deep venous thrombosis, ventilator-associated pneumonia, central line-related bacteremia, renal failure, and surgical site infections.  Resource use is measured via length of stay in the hospital, length of stay in the intensive care unit, and number of days that a patient is on a ventilator.
+
+Data quality
+TQIP addresses quality issues by explicitly addressing certain care metrics, including monitoring intracranial pressure in patients with traumatic brain injuries, measuring time to operations, measuring the placement and timing of tracheostomies, measuring the time to hemorrhage control, and documenting the use of venous thromboembolism prophylaxis.
+ 
+TQIP helps ensure the quality of data by providing training for trauma registrars and data abstractors. TQIP administrators hold monthly activities, such as webinars and quizzes, to educate registrars on the importance of data quality. Administrators assess outlier values, perform internal and external validation, and perform data logic checks.
+
+Statistical analyses
+TQIP measures multiple variables in its risk-adjustment models. These variables include factors such as age, race, gender, initial pulse rate in the emergency department, the mechanism of injury, etc. An 18 variable multivariable logistic regression model is used to estimate risk-adjusted mortality for trauma patients. Results provide observed-to-expected ratios and a 90% confidence interval of a trauma center's data compared to other de-identified trauma centers in order to gauge relative variability.
+
+Applications
+TQIP is designed to give each hospital an objective measure of its trauma center's performance compared to that of other trauma centers. It is meant as a self-reflective tool to be used in determining how to improve outcomes and decrease costs by understanding the reasons for variability and identifying best practices. Results are not intended to be used for marketing purposes or bestowing competitive advantages. TQIP reports allow hospitals to focus on outcomes and workflows, including care coordination, in-hospital processes, and resource allocation.
+
+Deliverables
+TQIP's external benchmarking utilizes NTDB data collection and NTDS with specific enhancements. Deliverables comprise risk adjusted hospital comparisons in the form of one annual benchmark report as well as two separate annual reports related to a topic of interest and the TQIP online analysis tool. Education and training are delivered via the annual meeting, online training, monthly educational experiences for abstractors, and monthly open forum calls for registry staff. Data are submitted quarterly and quality is monitored through a data validation site visit, a TQIP validator, and data quality reporting. Feedback to participating trauma centers about their relative performance encourages the sharing of practices during the annual meeting with emphasis on high performers and web conferences.
+ 
+The TQIP annual fee is $9,000 and includes the deliverables above. Additional costs include the salary of the registrar and trauma registry software. As the compilation and maintenance of the trauma registry are required for verification, the additional cost to a currently verified trauma center is for participation.
+
+Debate
+
+Data
+TQIP's outcome estimates are heavily dependent on data quality and sample size for each participating trauma center. Despite the development of sophisticated statistical models which attempt to mitigate errors in precision, the small sample sizes of highly specific trauma patient populations will inevitably skew results. Similarly, centers reporting data need to be hyper-aware of their reporting for data fields for certain patient populations susceptible to biased or missing data (e.g., high prevalence of low Injury Severity Scores for patients with early death who did not receive complete diagnostic testing or autopsies).
+
+Racial/ethnic minority trauma outcomes
+, TQIP has not incorporated measures related to racial disparities in trauma outcomes. However, there is evidence to suggest that differences in trauma outcomes are due to the overall quality of hospitals serving higher proportions of minority patients, rather than being due to discriminatory delivery of care; that is, these hospitals are less likely to provide recommended care to patients. In fact, almost 80% of trauma centers serving primarily minority patients are classified as high mortality trauma centers due to their ratios of observed-to-expected survival rates. Patients from all racial and ethnic backgrounds appear to be 40% more likely to survive when treated at low mortality trauma centers when compared with patients of the same race and ethnicity with the same injuries being treated at high mortality trauma centers. Differences between groups are relatively small compared to overall discrepancies between recommended and observed care. Still, high mortality status is not universal among institutions treating predominantly minority patients, and TQIP has not addressed this inequity.
+
+Exclusions
+TQIP excludes from statistical analyses all dead on arrival (DOA) patients and those who expire in the emergency department. This is done out of concern regarding varying patient transit times among trauma centers located in more urban vs. rural environments as well as the severity of injuries more likely to be present at certain trauma centers. However, this practice has the potential to remove a sizable number of patients from a trauma center's mortality index (for example, if a trauma center that is exceptionally skillful at the resuscitation phase of care may receive no credit), thus impeding analysis of a vital component of trauma care. Similarly, there can be great variation in how trauma centers classify DOA patients, leading to differences in treatment (e.g., resuscitation attempts or other invasive procedures). While independent researchers have found that inclusion of ED deaths in statistical analyses yields only small, insignificant changes in TQIP outcomes, doing so eliminates bias that might otherwise be introduced.
+
+Current status
+, over 200 Level I or Level II trauma centers are participating in TQIP, which is facilitating the identification of high performers. Enrollment is done on a rolling basis that allows hospitals to join at any time. Additionally, a pediatric TQIP pilot with thirty-eight participating centers is currently underway and external data validation has been implemented.
+
+References
+
+External links
+ TQIP website 
+ American College of Surgeons
+ Michigan TQIP
+
+Traumatology

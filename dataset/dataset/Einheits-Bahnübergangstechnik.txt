@@ -1,0 +1,53 @@
+Die Einheits-Bahnübergangstechnik (kurz EBÜT 80 genannt) wurde von den Unternehmen Scheidt & Bachmann, Siemens und Pintsch Bamag in den 1980er Jahren in Zusammenarbeit mit der Deutschen Bundesbahn entwickelt. Sie vereinheitlichte eine bis dahin eingesetzte Vielfalt an Bahnübergangstechniken bei Neuanlagen.
+
+Anwendung 
+Die EBÜT 80 kann sowohl für eingleisige als auch für mehrgleisige Strecken verwendet werden. Sie kann für Halb- als auch Vollschranken mit Blinklicht oder Lichtzeichen mit Gelb/Rotphase verwendet werden. Wobei Bahnübergänge mit Blinklichtanlagen bei Neubauten nur noch in Ausnahmefällen realisiert wurden.
+
+Im Gegensatz zu älteren Bahnübergangsanlagen ist die EBÜT 80 modular aufgebaut und bietet verschiedene Schnittstellen zur Steuerung und Bedienung. Es gibt folgende Steuerungsarten, wobei auch Kombinationen mehrerer Schnittstellen möglich sind:
+
+ Signalsteuerung
+ Zugsteuerung
+ Wärterbedienung
+
+Zur Überwachung der Funktion des Bahnübergangs können folgende Überwachungsarten eingesetzt werden:
+
+ Hp: Überwachung durch ein Hauptsignal
+ FÜ: Mittels Fernüberwachung
+ ÜS: Das Überwachungssignal zeigt dem Triebfahrzeugführer den Zustand der Bahnübergangsanlage an
+Bed: Überwachung durch den Bediener der Bahnübergangsanlage
+
+Aufbau 
+Die gesamte Bahnübergangsanlage ist modular aufgebaut. Alle Schalteinrichtungen sind in zwei standardisierten Gestellen untergebracht, wobei diese wiederum in einem Schalthaus montiert sind. Meist werden Rechteck-Betonhäuschen verwendet. Die Gestelle wurden bereits fertig im Schalthaus montiert, verdrahtet und vom Hersteller geprüft angeliefert. Dadurch konnte die Bauzeit deutlich reduziert werden.
+
+Die Steuerung ist aus Relais und elektronischen Schaltungen aufgebaut und zweikanalig (2v2-Rechner) ausgeführt.
+
+Zum Einschalten werden Schienenkontakte benutzt und zum Ausschalten Fahrzeugsensoren (Gleisschleifen).
+
+Schaltfälle 
+Folgende Schaltfälle beherrscht die EBÜT 80:
+
+ Schaltfall 1 Bahnübergangsbelegtmeldung (BÜBM)
+ Schaltfall 2 Signalabhängiges Wirksamschalten (WS):Die Einschaltkontakte werden erst bei Fahrstraßenfestlegung oder dem Anschalten des Ersatzsignals wirksam geschaltet. Bei Fahrstraßen, welche nicht über BÜ führen, bleibt der Einschaltkontakt unwirksam.
+ Schaltfall 3 Wirksamkeitskontakt (WK)
+ Schaltfall 4 Dauerunwirksamschalten (UW/US)
+ Schaltfall 5 Unwirksamschalten mit Kontakt (UK)
+ Schaltfall 6 Unwirksamschalten von Hand (UT)
+ Schaltfall 7 Auflösung der Wirksamschaltung mit Unwirksamkeitstaste (WK mit UT)
+ Schaltfall 8 Handeinschalten (Rangierschalter/Einschalttaste) (RS/ET)
+ Schaltfall 9
+ Schaltfall 10 Verlängerung der Einschaltung oder Wiedereinschalten (EK5)
+ Schaltfall 11 Handausschalten/Wiedereinschalten (AT ET/AT)
+ Schaltfall 12 Speichern ohne Signalsperrung – Einfahrsignal (SpoS)Der Einschaltkontakt wird bei Fahrtstellung des deckenden BÜ-Signals wirksam geschaltet. Wurde der Einschaltkontakt bei noch haltzeigendem Signal befahren und erfolgt die Fahrtstellung bis zu 60 Sekunden danach, wird der BÜ noch eingeschaltet. 
+ Schaltfall 13 Speichern mit Signalsperrung – Einfahrsignal (SpmS)
+ Schaltfall 14 Speichern ohne Signalsperrung – Ausfahrsignal (SpoS)
+ Schaltfall 15 Speichern mit Signalsperrung – Ausfahrsignal (SpmS)
+ Schaltfall Automatik-HET (AutoHET)
+ Schaltfall Automatik-ET
+ Schaltfall Nebeneinschaltpunkt
+ Schaltfall Weiche in der Einschaltstrecke
+ Schaltfall Gegenfreigabe durch Schaltfallsensor
+ Schaltfall Awanst
+
+Einzelnachweise 
+
+Bahnübergang

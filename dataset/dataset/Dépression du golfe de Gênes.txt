@@ -1,0 +1,160 @@
+Une dépression du golfe de Gênes (ou dépression ligure) est une zone de basses pressions qui se forme sur le golfe de Gênes à la suite d'un flux de nord-ouest.
+On peut étendre le concept de dépression ligure à une zone de basse pression dans la plaine du Pô, sur la mer de Ligurie et au nord de la mer Adriatique. Une telle dépression est une dépression dynamique engendrée par les chaînes de montagnes au nord.
+
+Type de temps associé à une dépression du golfe de Gênes 
+En Europe, il est généralement admis que le mauvais temps provient de l'ouest et il est souvent dit que le vent d'ouest est un vent de pluie. Curieusement, dans la région niçoise, le vent d'ouest appelé ponant est un vent sec et agréable. Par contre, les vents de sud-est à nord-est sont réputés amener des pluies abondantes et souvent sont des vents soutenus. Comme la côte dans la région niçoise est orientée sud-ouest nord-est, le vent de sud-est provient de la mer et apporte de la pluie. Ce qui est encore plus surprenant, est qu'un mistral violent (de direction nord-ouest) peut souffler à Marseille avec un temps dégagé alors que sur la Côte d'azur, des chutes de neige abondantes se produisent avec du vent de nord-est. Ceci se produisit le 2 février 1956. En effet ce jour-là à Marignane le temps était peu nuageux et frigide
+alors qu'il tomba  de neige à Vence.
+
+Ce phénomène est un phénomène orographique car la dépression du golfe de Gênes est une dépression dynamique.
+
+Cas d'école avec du mauvais temps en Ligurie, et du mistral à l'ouest 
+Le 21 mai 2008, un météorologue amateur fit en voiture le trajet de Villeneuve-Loubet à Saint-Étienne et il rencontra un type de temps typique associé à une dépression sur le golfe de Gênes.
+
+Récit du voyage 
+Les jours précédents, le ciel était très noir sur la Ligurie bien qu'à Villeneuve-Loubet il ne fût tombé que de faibles pluies. Le temps était nuageux et la température était fraîche (). La pluie cessa à l'ouest du massif de l'Esterel. La température s'éleva à  à Fréjus et à Brignoles, le thermomètre marquait . En continuant vers l'ouest en direction d'Aix-en-Provence, le ciel se dégageait progressivement et il ne subsistait plus que des cumulus humilis. À Aix-en-Provence, la température était de  et le maximum fut atteint aux environs d'Avignon où le thermomètre marquait . Puis la remontée de la vallée du Rhône se fit avec un vent de face. Un mur de nuages barrait les Cévennes du mont Mézenc au massif du Pilat. Cette barre nuageuse se rapprocha de la vallée du Rhône et commença à masquer le soleil au nord de Valence. À Vienne le soleil était presque totalement masqué et le temps était couvert à Saint-Étienne et frais avec une température de .
+
+Analyse des conditions météorologiques 
+
+À Cannes, le METAR de 10:00 indiquait un temps couvert avec des nuages bas. Le vent était faible, la visibilité n'était que de . La température était de  et le point de rosée était de . La pression était de .
+
+À Marseille, le METAR de 13:30 indiquait un vent de 290° à 12 nœuds, quelques nuages à . La température était de  et le point de rosée était de . La pression était de .
+
+À Lyon le METAR de 17:00 indiquait un temps couvert avec une petite bise de 8 nœuds. La température était de  et le point de rosée était de . Il y avait quelques cumulus à  et une couche quasiment continue de stratocumulus d'étalement à . La visibilité était normale. La pression était de .
+
+On constate tout d'abord que la pression à Lyon est de  à comparer à la pression mesurée à Cannes de  ce qui montre un léger déficit de pression de . Ce jour-là seul un mistral léger soufflait sur Marseille et le temps était maussade sur la côte ligure. La dépression du golfe de Gênes bien qu'existante était peu marquée.
+
+Image satellite d'une dépression profonde du golfe de Gênes 
+Le 4 octobre 2005, une zone de très mauvais temps s'était développée sur le nord de l'Italie et en Sicile. Les images satellites semblent montrer qu'un front froid s'était bloqué sur la chaîne alpine et qu'une dépression profonde s'était formée dans la plaine du Pô et sur le golfe de Gênes. Un phénomène d'acqua alta s'était développé développé à Venise. À Marseille, un violent mistral se produisit le 3 octobre avec un temps dégagé.
+À 1:00 locale, il se produisit une rafale de vent de  de direction 330°. Le mistral se calma un peu dans la journée et quelques cumulus peuplaient le ciel l'après midi. Pendant ce temps, à Nice, des orages sporadiques se furent produits sur l'arrière-pays comme le montrent les METARs de Nice le matin. Le vent était plutôt orienté est, assez soutenu et variable en direction.
+Cet exemple illustre la théorie de Hoskins
+et Tafferner
+basée sur la conservation du tourbillon potentiel où le tourbillon relatif ζ doit augmenter pour compenser la baisse du gradient de température potentielle  lorsqu'une parcelle d'air atteint le golfe de Gênes (voir infra).
+
+L'image satellite montre du très mauvais temps sur le sud de l'Allemagne  et l'Autriche. Ceci sera discuté plus bas.
+
+Temps associé à un retour d'est vu par un marin 
+Le lieutenant de vaisseau Grenet a fait quelques remarques empiriques concernant l'évolution du temps en présence de vent d'est.
+
+Le vent de sud-est est en général humide et pluvieux. En été, le vent modéré d'est est souvent assez sec et engendre un temps clair. Dans les autres saisons, le vent d'est est pluvieux. Le retour d'est se termine en général par une forte ondée et le vent tourne au sud-est. Par contre si le vent tourne au nord-est, alors du très mauvais temps est à prévoir. De la même manière, lorsque le vent d'est va être remplacé par le mistral, en général une ligne de grains qui matérialise un front froid marque la transition  entre le temps douceâtre et humide du régime d'est et le temps frigide du régime de mistral.
+
+Cyclone subtropical méditerranéen en octobre 2009 
+
+À la fin d'octobre 2009, un cyclone subtropical méditerranéen (appelé « medicane » en anglais) s'est formé dans la région du golfe de Gênes. Ce type de dépression est à mi-chemin entre une dépression frontale et un système tropical. Elle était autant accompagnée de cumulonimbus que de nimbostratus le jour de sa formation.
+
+Le début octobre avait été sec à Marseille et un mistral modéré soufflait le 18 octobre. La température était fraîche pour la saison et était de l'ordre de . La pression était de . Un faible mistral régnait encore le 19 octobre avec un léger redoux. Le 20 octobre, le vent bascula à l'est et devint modéré. Le temps se couvrit et une pluie fine commença à tomber. La pression chuta légèrement à .
+
+Un météorologue amateur releva un changement brutal de temps les 20-21 octobre à Gréasque alors qu'auparavant, le temps était frais et ensoleillé. Subitement un déluge s'abattit les 21 et 22 octobre, laissant  de pluie en 2 jours. Un retour d'est marqué se produisit avec un creusement de la pression et la formation d'une dépression du golfe de Gênes assez profonde.
+
+Le 21 octobre, un déluge avec orages s'abattit également à Marseille à  et la pression chuta à . La dépression sur la mer Méditerranée était alors bien marquée. Auparavant, un vent soutenu de 110° soufflait. Le temps s'était radouci et le METAR de  était :
+METAR LFML 211400Z 21014KT 140V250 2000 +TSRA SCT013CB BKN026 16/14 Q1000 TEMPO 14035G55KT 0800 BKN012CB
+
+Le 22 octobre, un déluge avec orages s'abattit à nouveau à  et la pression fut notée à . La dépression sur la mer Méditerranée était toujours très creuse. Auparavant, un vent modéré de 80° soufflait. La température était à peu près restée la même. Le METAR de  fut le suivant : 
+METAR LFML 221400Z 08008KT 050V140 9999 2000N +SHRA FEW020 FEW043CB SCT053 BKN073 16/14 Q0998 TEMPO TSRA
+Le 23 octobre, un léger mistral se leva et dégagea très progressivement le ciel. Une remontée significative de la pression s'effectua à .
+
+Cet épisode montre que les changements de temps peuvent être assez brutaux et confirment indirectement la remarque de Grenet que lorsque le vent bascule de l'est vers le nord-est du très mauvais temps est à venir.
+
+Effets sur la côte ligure 
+Les dépressions apportent de la pluie, souvent intense, sur la côte ligure et les collines de Toscane, en raison de l'élévation orographique qui affecte le côté méridional des Apennins. La zone de basse pression est lente et peut suivre une trajectoire d'ouest en est, puis va affecter les régions de l'Adriatique ou se déplacer du nord-ouest au sud-est le long de la mer Tyrrhénienne ; dans ce dernier cas, la structure atteindra la même zone cyclonique de formation des dépressions tyrrhéniennes, bien que n'étant pas liée à celle-ci.
+
+Présence de mistral à Nice ? 
+Il est souvent dit que les massifs des Maures et de l'Estérel arrêtent le mistral bien que mistral souffle avec violence le long des côtes de ces massifs. On remarquera ces deux massifs, qui sont de faible altitude, sont situés au sud-ouest de Nice alors le mistral devrait être un vent de nord-ouest à Nice. Ernest Bénévent fut le premier à  reconnaître que cette explication ne tenait pas. Il en déduisit donc que l'absence en général de mistral à Nice était due à un « effet barométrique ».
+
+L'auteur cita un cas d'école les , 2 et 3 avril 1912 où il soufflait un mistral violent à Marseille (entre 35 et 50 nœuds !) alors qu'à Nice le vent originellement du sud-est bifurqua vers l'est puis le nord-est à mesure que la dépression du golfe de Gênes se déplaçait vers l'est et finalement s'éloigna vers les Balkans.
+
+L'auteur affirme que le vent de nord-ouest est rare à Nice et en général ne se produit que si la dépression se déplace dans l'embouchure du Pô et que de par la loi de Buys-Ballot, alors le vent s'orientera au nord-ouest.
+
+Lors d'un violent épisode de mistral à Marseille, des cumulonimbus peuvent se développer sur le Mercantour (situé à  au nord de Nice) provoquant des orages violents. C'est ce qui s'est passé le 10 août 2016 avec un mistral violent à Marseille provoquant des incendies de forêt 
+et de gros orages sur le Mercantour.
+
+Définition numérique du mistral 
+Il est souvent dit de manière informelle que le mistral est un vent « froid » soufflant du nord. La définition couramment admise d'un jour de mistral à Orange est un vent de secteur 320° à 030° avec une rafale supérieure à . À Marseille la direction doit être comprise entre 290° et 360°. Cette définition est remise en cause par Yohia car il arrive assez souvent que ledit mistral soit assez doux voire chaud ce qui contredit le fait que le mistral soit un vent « froid ». En effet au sud du Luberon ou du Mont Ventoux, il se produit un phénomène d'effet de fœhn qui réchauffe l'air. Dans la région niçoise comme mentionné supra, le vent d'ouest (ponant ou mistral ?) qui est chaud, est aussi lié à un phénomène de fœhn.
+
+Yohia prétend que l'on ne peut parler de Mistral que dans des cas très précis qui sont l'existence d'une dépression du golfe de Gênes (qu'il appelle « Cyclone de Lee » [sic]) et une advection d'air arctique dans la région lyonnaise et au nord, avec abaissement de la tropopause. D'après le théorème de conservation du tourbillon potentiel, alors le mistral « froid » se produit car l'air stratosphérique est advecté à basse altitude. Dans ces conditions, Yohia affirme qu'il n'y aurait que 30 jours de Mistral par an à Marseille au lieu des 81 jours recensés par Météo France. On remarquera que le nombre de jours par an de Mistral à Orange suivant les critères de Météo France serait de 110.
+
+L'advection d'air très froid dans la vallée du Rhône qui provoque des chutes de neige à basse altitude et non un ciel dégagé comme l'on pourrait s'attendre est appelé Mistral noir. Ce phénomène est lié à un phénomène similaire à un front froid de retour (qui est en fait un front chaud de retour). Il correspond à un retour vers l'ouest d'une zone barocline (ou front). Comme de l'air plus chaud est présent en altitude avec des vents en altitude de secteur sud-est, alors les précipitations neigeuses se produisent.
+
+Il semblerait que la définition de Yohia du mistral s'apparente souvent au mistral noir (pas toujours). Ce phénomène se produisit le jour de l'Épiphanie 1709 lors du gel en une nuit du bas Rhône avec un vent épouvantable et l'arrivée de faibles chutes de neige.
+Ce fut l'arrivée brutale du Grand hiver de 1709. Un phénomène similaire se produisit le jour de la Chandeleur 1956 qui marqua le début de la vague de froid de février 1956.
+
+Cyclogenèse 
+
+La mer Méditerranée est une mer intérieure bordée de montagnes sur presque tout son pourtour. Ces montagnes arrêtent les flux synoptiques et créent des conditions permettant la formation de dépressions dynamiques en aval des montagnes. Le déficit de pression et la forme des dépressions dépend des caractéristiques géométriques des montagnes ainsi que des conditions de température au-dessus de la mer et au-dessus des terres. Les conditions optimales pour la formation d'un tel système dépressionnaire sont une chaîne de montagnes en arc entourant la mer. Ceci s'applique particulièrement bien au nord du golfe de Gênes qui est bordé par les Apennins. Le phénomène est encore amplifié lorsque la mer est tiède en automne ou en hiver.
+
+Théorie de Paul Queney 
+Il est souvent affirmé incorrectement que les dépressions qui se forment sur la mer Méditerranée proviennent de l'océan Atlantique et s'introduisent soit par le détroit de Gibraltar ou par le seuil de Naurouze. Cela est en général incorrect comme l'affirme la référence :
+
+Paul Queney fut parmi l'un des premiers météorologistes à comprendre que la dépression du golfe de Gênes est liée à la présence du mistral en Basse Provence. Il calcula le déficit de pression en aval d'une chaîne de montagnes exprimé comme suit.
+
+Soit ω la vitesse angulaire de rotation de la Terre, et soit  la latitude. Le paramètre de Coriolis est défini par :
+
+Soit ρ = 1.22 kg/m³ la masse volumique de l'air, et U la vitesse du vent. Le gradient de pression en aval d'une chaîne de montagnes de grande épaisseur est :
+
+Par flux de nord-ouest, il se forme alors un front stationnaire sur la chaîne de montagnes. Une telle chaîne de montagnes sépare au nord une zone d'air froid et au sud une zone d'air tiède. Cette chaîne est à 45 degrés de latitude.  Si l'on considère, un vent de  alors, le gradient de pression est :
+ Pa/m 
+
+Donc si la chaîne de montagnes a une épaisseur de , le déficit de pression sera de l'ordre de  (2 × 10⁵ × 2.5 × 10-3). Cette estimation correspond à peu près aux valeurs généralement mesurées sur le golfe de Gênes.
+
+Anciennes théories 
+
+D'après Isnard, les hautes montagnes vont avoir l'effet d'un mur et bloquer le flux synoptique. Par exemple, en présence d'un flux de nord-ouest, les Pyrénées, les Alpes et dans une certaine mesure le Massif central vont entraver le flux vers la mer Méditerranée et l'air froid s'écoulera par les trouées orographiques du système montagneux. Ces points bas sont le seuil de Naurouze et la vallée du Rhône. Par effet venturi, les vents générés (tramontane et mistral) vont être violents. En outre, vu que les Cévennes sont moins élevées, le flux de nord-ouest va passer dessus bord cette chaîne de montagnes et générer des vents catabatiques qui assécheront considérablement l'air. Cependant, les hautes chaînes de montagnes vont canaliser ce flux de nord-ouest le long de celles-ci de telle manière que les crêtes soient à droite du flux. Donc dans la région niçoise qui est juste au pied du massif du Mercantour qui culmine à  d'altitude, le vent sera de nord-est à est. Ceci confirme la loi de Buys-Ballot qui affirme que dans l'hémisphère nord, les vents tournent dans le sens contraire des aiguilles d'une montre autour d'une dépression. En outre, d'après la théorie de Paul Queney, les lignes de flux vont se rapprocher des Pyrénées et engendrer une tramontane violente dans le Roussillon.
+
+En 1965, Radinović étendit la théorie de Queney et solvant graphiquement les équations d'Estoque en utilisant la méthode de Fjörtoft.
+
+Théorie du tourbillon potentiel 
+La dépression du golfe de Gênes serait la conséquence du théorème de conservation du tourbillon potentiel. Ce dernier est défini comme suit :
+
+ est le paramètre de Coriolis
+  est le tourbillon relatif
+  est la température potentielle
+ ρ est la masse volumique de l'air
+
+Le tourbillon potentiel est constant c'est-à-dire que  pour une parcelle d'air en déplacement qui suit les lignes isentropiques. Ces lignes isentropiques correspondent à .
+
+Donc, d'après le théorème de conservation, si  augmente (l'air devient plus stable), alors ζ diminue; et réciproquement.
+
+On considère maintenant un front froid puissant qui vient buter sur les Alpes. La température au sol est basse en arrière du front et donc, les parcelles d'air froid au sol vont se bloquer en amont (blocage d'air froid) car elles ne pourront franchir la barrière. Il se produira une surpression en amont et une souspression en aval. L'air en altitude va donc dévaler en aval et va se comprimer (conservation de ). On remarque que l'air arctique est très stable dû aux très basses températures au sol. En outre la tropopause est basse (elle peut descendre jusqu'à  d'altitude). Donc au nord,  est grand. On suppose que le tourbillon relatif est nul en amont. La parcelle d'air se déplace plus vite que le front froid et va atteindre le golfe de Gênes où la tropopause est nettement plus haute et donc au sud  est plus petit (qui peut être aggravé par le fait que la mer est plus tiède). Donc au sud, ζ > 0 et la dépression se creuse.
+
+Ce phénomène était déjà connu en 1957 où il fut remarqué que l'arrivée d'une masse polaire provoquait la formation d'une dépression sur le golfe de Gênes.
+Cependant, à l'époque, le théorème de conservation du tourbillon potentiel qui explique la formation de la dépression était peu connu.
+
+Extension à d'autres systèmes dépressionnaires
+
+Effets dans la mer Adriatique 
+La dépression du golfe de Gênes peut lentement se déplacer dans d'autres directions, soit vers le sud-est, soit vers le nord-est en direction du golfe de Venise. Elle peut même se déplacer vers les Balkans. Cependant la dépression du golfe de Gênes est généralement stationnaire. Un phénomène similaire peut se produire dans la mer Adriatique, ce qui provoquera le déferlement de la Bora, un vent catabatique de nord-est provenant des Alpes dinariques. Un exemple sur le site Eumetrain montre un tel système de mauvais temps formé dans le golfe de Venise et s'étant déplacé vers la Hongrie.
+
+Parcours des dépressions par Van Bebber 
+
+Dans le cas où les dépressions ligures se déplacent, elles suivent les parcours identifiés par Wilhelm Jacob van Bebber qui a classé les tempêtes européennes majeures en 1891.
+
+Une trajectoire devenue célèbre est la trajectoire Vb où des cyclones subtropicaux méditerranéens (« medicanes ») se formant dans le bassin méditerranéen deviennent frontaux en quittant leur source de chaleur maritime et frapperaient l'Europe centrale. Le long de ce parcours, le plus spectaculaire, la dépression se déplace vers l'atmosphère plus dense et plus froide du nord-est, et subit un soulèvement orographique sur les massifs montagneux qu'elle rencontre : le massif de Bohême, les Monts Métallifères, les montagnes Sudètes, les montages Beskides et Tatras. Les masses d'air chaud et humide provoquent des précipitations prolongées et abondantes au-dessus des bassins versants supérieurs des principaux fleuves d'Europe centrale, donnant parfois lieu à des inondations exceptionnelles. Les localisations Vb se produisent généralement du printemps à l'automne, mais peuvent en principe se produire à tout moment de l'année et, avec seulement quelques événements par an, font partie des situations météorologiques générales plus rares en Europe (annualité d'environ 2,3).
+
+Kreienkamp et al. réévaluèrent la théorie de Van Bebber concernant le cheminement hypothétique vers le monde germanique de systèmes dépressionnaires formés en mer Méditerranée. Les auteurs considérèrent les inondations de la vallée de l'Elbe qui se produisirent les 12 et 13 août 2002 où il tomba  de pluie en Saxe. Ce déluge correspond à un cas d'école de la théorie de Van Bebber où un medicane se forma sur le versant sud des Alpes, bifurqua vers les Balkans et retourna vers l'ouest pour frapper la Saxe. La trajectoire suivie est Vb.
+
+Il est suspecté qu'une forte tempête de neige qui s'était abattue sur Berlin le 7 janvier 2010 fut causée par un tel système. Cette tempête fut surnommée Daisy et des cumulonimbus de  de hauteur furent identifiés. Le mauvais temps arriva du sud-est et semble-t-il a pour origine une dépression méditerranéenne qui suivit la trajectoire Vb de Van Bebber.
+
+Voir aussi 
+ Mistral (vent)
+ Lombarde (vent)
+ Tourbillon potentiel
+
+Notes et références
+
+Notes
+
+Références
+
+Bibliographie 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inondation en Europe
+Phénomène météorologique en Europe
+Cyclone extratropical

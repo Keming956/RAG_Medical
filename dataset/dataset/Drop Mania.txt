@@ -1,0 +1,22 @@
+Drop Mania is a falling-block puzzle video game, developed by Ninai Games (as Detonium Interactive) and published by Suomen Kotijäätelö Oy in 1999 for Windows. It was sold in Finnish ice cream vans.
+
+Gameplay
+In a similar fashion to Tetris, coloured blocks drop from the top of the screen and collect at the bottom. The aim is to arrange groups of colours and then make contact with an explosion block. This destroys all the same-colour blocks in one group, larger groups earning more points. More points are also earned for combos (where multiple groups explode at the same time) and chains (where blocks falling as the result of an explosion cause further explosions.)
+
+This same gameplay would be implemented in the 2001 game, Rampage Puzzle Attack.
+
+Legacy
+The sequel, Super Drop Mania was also developed by Ninai, and published by Fathammer in 2005. It is designed for portable devices, being released for Symbian OS and Windows Mobile. It met with good critical reaction, reviewers highlighting the floating game-play area, rounded graphics and entertaining gameplay. One review criticising the lack of a "one more go" feeling found in other Tetris variants, whilst another felt that it was even more addictive.
+
+References
+
+External links
+http://www.ninai.com/ – official site
+
+Falling block puzzle games
+1999 video games
+Windows games
+Windows-only games
+Finland-exclusive video games
+Video games developed in Finland
+Video games scored by Jonne Valtonen

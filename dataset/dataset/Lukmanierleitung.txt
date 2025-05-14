@@ -1,0 +1,38 @@
+Die Lukmanierleitung ist eine 380-kV-Drehstrom-Hochspannungsleitung über den Lukmanierpass in der Schweiz. Die etwa 100 Kilometer lange Freileitung wurde in den Jahren 1948 bis 1949 errichtet. Wie das gesamte Schweizer Höchstspannungsnetz wird sie vom Unternehmen Swissgrid betrieben.
+
+Linienführung und Konstruktion 
+Die Gesamtroute führt von Mettlen bei Inwil nach Lavorgo. Auf dem 52 Kilometer langen Abschnitt bis Amsteg verläuft meist parallel zu ihr die Gotthardleitung. Zwischen Mettlen und Amsteg sind an denselben Masten drei Stromkreise angebracht, die im Unterwerk Amsteg enden.
+
+Ab Amsteg geht die Lukmanierleitung ihren eigenen Weg. Nach dem Weg durch den unteren Bereich des Maderanertals und durch das Etzlital erreicht sie westlich des Chrüzlipass bei Mittelplatten den höchsten Punkt auf 2487 Metern. Durch das Val Milà führt die Leitung hinunter nach Sedrun in der Surselva und folgt dem nördlichen Talhang über dem Vorderrhein bis nach Mumpé-Tujetsch oberhalb von Disentis. Sie überquert ein Unterwerk der Kraftwerke Vorderrhein, mit dem sie aber nicht verbunden ist. Danach führt die Lukmanierleitung durch das Val Medel und überquert den Lukmanierpass. Durch das westliche Gemeindegebiet von Blenio zieht sie zur Bergkette zwischen Pizzo di Campello und Poncione di Mezzo hinauf, die sie auf rund  oberhalb des Rifugio Gana Rossa überquert. Danach verläuft sie steil durch das Tal des Bachs Croarescio in das Leventinatal zum Unterwerk bei Lavorgo hinunter.
+
+Es kommen mehr als 160 Masten zum Einsatz: Bei der Station Mettlen einige Donaumasten und dann bis Amsteg ausschliesslich Tonnenmasten, meist in der für die Centralschweizerischen Kraftwerke (CKW) typischen Bauart. Auf der Höhe von Erstfeld sind die Tonnenmasten baugleich mit den 380-kV-Tragmasten der Axpo AG, einem Partnerunternehmen der CKW. Für den 53 Kilometer langen Leitungsabschnitt zwischen Amsteg und Lavorgo über den Lukmanierpass wurden 145 Gittermaste (Deltamaste) für einen Stromkreis in Einebenenanordnung errichtet. Ihre mittlere Höhe beträgt 30 Meter.
+
+Die mittlere Spannweite der Leitung beträgt 350 Meter, die grösste Spannweite zwischen zwei Masten 890 Meter. Als Leiter kommen Zweier- und Dreierbündel aus Aldrey mit einem Querschnitt von 550 mm² zum Einsatz. Der Durchmesser jedes Teilseils beträgt 30,5 mm. Als Erdseil werden zwei Stahlseile mit Durchmesser von 11,5 Millimeter und einem Querschnitt von 80 mm² verwendet.
+
+Der bei  gelegene Abspannmast im Stausee von Santa Maria (rätoromanisch Lai da Sontga Maria) auf dem Gebiet der Gemeinde Medel ist ein 75 Meter hoher Abspannmast, der auf 28 Meter hohen Betonsockeln in den Fluten des Stausees im Schweizer Kanton Graubünden steht. Er wurde 1949 als normaler Abspannmast errichtet. Beim Bau der Staumauer von Santa Maria wurde er 1957 auf die heutigen 28 Meter hohen Betonsockel gesetzt, die seine Konstruktion vor den Fluten des Sees und dem Eisgang im Winter schützt.
+
+Nutzungsgeschichte und Ausbau 
+Die Lukmanier-Leitung wurde 1949 als zweite Nord-Süd-Transversale von der Aare-Tessin AG für Elektrizität fertiggestellt. Sie wurde zunächst mit einer Spannung von 220 kV betrieben.
+
+Am 25. Februar 1999 wurde die Leitung im unteren Teil des Val Medel auf einer Länge von rund 500 Metern durch eine Schneelawine beschädigt, wobei ein Mast umgerissen wurde.
+
+Am 28. September 2003 ereignete sich im Gebiet Schränggigen in der Gemeinde Ingenbohl ein folgenschwerer Zwischenfall. Ein Lichtbogen spannte sich zwischen der Leitung und einer Tanne. Der damit verbundene Ausfall der Lukmanierleitung führte zu mehreren Kettenreaktionen, welche einen totalen Stromausfall in ganz Italien zur Folge hatte. In der Schweiz waren nebst der Stadt Genf auch das Tessin, das Misox und das Oberengadin vom Stromausfall betroffen.
+
+Von 2003 bis 2009 führte die Alpiq (damals Atel) zusammen mit Swissgrid an der Lukmanierleitung einen Feldversuch für Freileitungs-Monitoring (FLM) durch. Dabei wurden an den drei Mess-Stationen Erstfeld, Rueras und Cugnasco verschiedene FLM-Methoden erprobt. Ausschlaggebend für die Auswahl der Lukmanierleitung für den Versuch war ihr Verlauf durch drei verschiedene Klimazonen (gemässigt, alpin und mediterran), da das Freileitungs-Monitoring unter Ausnutzung der klimatischen Bedingungen die Übertragungskapazität von Freileitungen erhöht.
+
+Seit dem 3. Januar 2013 ist die Leitung wie das gesamte Schweizer Höchstspannungsnetz im Besitz der Swissgrid, die den Betrieb schon einige Jahre früher übernommen hatte.
+
+Die Masten der Lukmanierleitung sind aufgrund ihres hohen Alters besonders anfällig auf Korrosionen. In der Folge sieht sich die heutige Betreiberin der Energiestrasse, die Aare-Tessin AG für Elektrizität, dazu veranlasst, die bisherigen Tragwerke durch neue, dem heutigen Standard entsprechende Masten zu ersetzen.
+
+Der 380-kV-Stromkreis der Lukmanierleitung endete im Jahr 2006 provisorisch im Unterwerk von Amsteg. Der Abschnitt im Urner Reusstal und am Urnersee wurde teilweise für 400 kV ausgebaut. Die neuen 400-kV-Tragwerke sind baugleich mit den 380-kV-Masten der NOK. Zwischen Mai und Oktober 2006 wurden zwischen Sisikon und Ingenbohl ebenfalls 17 Masten ersetzt. Weitere Ausbauetappen sind geplant.
+
+Literatur 
+ Gerhard Schwickardi: Elektro-Energietechnik. Energie-Übertragung, Netze, Energieverteilung, Freileitungen, Kabelleitungen, Schaltgeräte, Schaltanlagen, Energie-Umformung, Messwandler, Transformatorenstationen, Unterwerke, Automatisierung von Schaltwarten, Band 2, Aarau, Stuttgart 1979 ISBN 3-85502-032-9
+
+Weblinks
+
+Einzelnachweise 
+
+Hochspannungsfreileitung in der Schweiz
+Versorgungsbauwerk im Kanton Graubünden
+Bauwerk im Kanton Tessin

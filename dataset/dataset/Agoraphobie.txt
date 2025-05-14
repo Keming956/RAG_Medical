@@ -1,0 +1,71 @@
+Als Agoraphobie oder Platzangst bezeichnet man eine bestimmte Form der Angststörung. Dabei wird die Angst durch bestimmte Orte und Situationen wie weite Plätze oder Menschengedränge ausgelöst. Die Betroffenen vermeiden die auslösenden Situationen und können im Extremfall nicht mehr die eigene Wohnung verlassen. Eine Agoraphobie liegt auch dann vor, wenn Menschen angstbedingt weite Plätze oder das Reisen allein oder generell meiden.
+
+Allen diesen Situationen ist eine Angst vor einem Kontrollverlust gemeinsam. Die Betroffenen befürchten dann etwa, dass sie im Falle einer Panik oder potentiell bedrohlicher Körperzustände nicht schnell genug flüchten könnten, Hilfe nicht schnell genug verfügbar wäre oder sie in peinliche Situationen geraten könnten. Die Agoraphobie tritt häufig zusammen mit einer Panikstörung auf.
+
+Zum Begriff 
+Agoraphobie ist ein zusammengesetzter Begriff aus den altgriechischen Wörtern  („Marktplatz“) und  („Furcht“). Unter dieser Bezeichnung wurde sie 1871 von dem Berliner Neurologen und Psychiater Carl Westphal beschrieben. Seltener wird synonym auch von multipler Situationsphobie gesprochen.
+
+Die Angst vor weiten Plätzen wird in der Psychologie Platzangst genannt. Dieser Fachbegriff wird in der Umgangssprache jedoch für den gegenteiligen Angstzustand verwendet, nämlich die Klaustrophobie (Angst vor engen Räumen). Die Klaustrophobie wird in der Fachsprache wiederum als Raumangst bezeichnet (isolierte Phobie gemäß der Norm ICD-10 F40.2).
+
+Symptome 
+
+Hauptmerkmal der Agoraphobie ist eine starke Angst vor bestimmten Orten oder Reisen, die objektiv keine über das normale Lebensrisiko hinausgehenden Gefahren bergen. Diese Angst entzieht sich der willentlichen Steuerung und kann auch durch rationale Argumente nicht beseitigt werden. Die Betroffenen zeigen in der Regel ein starkes Vermeidungsverhalten, mit dem sie Panikattacken zu verhindern suchen, tatsächlich aber die Angst gerade durch das Vermeiden aufrechterhalten. Die Angst kann sich darauf beschränken, keine öffentlichen Plätze oder Geschäfte mehr zu betreten, speziell um Menschenansammlungen zu meiden. In ausgeprägteren Fällen benötigen Betroffene eine Begleitperson, um den Alltag bewältigen zu können, wenn die Angst bereits in der Wohnung einsetzt und sie nicht mehr ohne Hilfe verlassen werden kann. Für die Begleitperson wurde in der Psychoanalyse unter anderem von Karl König das Wort vom „steuernden Objekt“ geprägt.
+
+Diagnose und Klassifikation 
+
+Der erste diagnostische Schritt ist, zu klären, ob die Agoraphobie bei einem betroffenen Patienten als eigenständiges Krankheitsbild besteht oder ein Symptom einer anderen, zugrunde liegenden psychischen oder organischen Erkrankung ist.
+
+Früher wurde der Begriff Agoraphobie ausschließlich für die Angst vor großen öffentlichen Plätzen verwendet. Inzwischen umfasst er auch die Angst vor anderen Situationen, sodass laut ICD-10 mindestens zwei der folgenden Angstauslöser nachweisbar sein müssen:
+
+ Menschenmengen
+ öffentliche Plätze
+ Reisen mit weiter Entfernung von zu Hause
+ Reisen alleine
+
+Die letzte international gültige ICD-10 2006 unterscheidet nicht nach Vorhandensein oder Fehlen von Panikattacken. In der nur in Deutschland gültigen ICD-10 2010 GM (German Modification) wird das Auftreten oder Fehlen von Panikattacken innerhalb der Diagnose Agoraphobie (F40.0) spezifiziert. Die Agoraphobie wird als übergeordnet angenommen und kann ohne Angabe einer Panikstörung (F40.00) bzw. mit Panikstörung (F40.01) klassifiziert werden. Demgegenüber ist die Agoraphobie im DSM-IV der Panikstörung untergeordnet. Die Panikstörung ist primär und kann mit oder ohne Agoraphobie spezifiziert werden. Die Diagnose „Agoraphobie“ ohne Panikstörung in der Vorgeschichte besteht separat.
+
+Der ICD-10 subsumiert auch die Ochlophobie (von griech.: ochlos = „Menschenmenge“ und phobos =„Furcht, Angst“), die Enochlophobie (griechisch en-, „innerhalb“) und die Demophobie (griechisch : demos = „Volk“) unter Agoraphobie.
+
+Häufigkeit 
+
+Nach einer Untersuchung von 2006 wurde bei 0,61 % einer Studienpopulation von 12.792 (55-jährig oder älter) eine Agoraphobie nachgewiesen. Damit war die Häufigkeit der Störung hier geringer als sonst berichtet wird.
+
+Anhand der „National Comorbidity Survey Replication“-Erhebung in den USA wurden ebenfalls 2006 Zahlen zur Beziehung zwischen Agoraphobie, Panikattacken und einer Panikstörung (nach der Definition des DSM-IV) veröffentlicht. Demnach betrug die Lebenszeitprävalenz bei 9282 Untersuchten, die mindestens 18 Jahre alt waren, in den möglichen Kombinationen:
+
+ 22,7 % für isolierte Panikattacken
+ 0,8 % für Panikattacken in Kombination mit Agoraphobie
+ 3,7 % für Panikstörung ohne Agoraphobie
+ 1,1 % für Panikstörung mit Agoraphobie
+
+Es konnte gezeigt werden, dass es von der 1. bis zur 4. Gruppe zu einem durchgehenden Ansteigen der einzelnen untersuchten Merkmale wie Anhalten der Beschwerden, Anzahl der Attacken, Anzahl der Krankheitsjahre, Schweregrad der einzelnen Episoden und Begleitkrankheiten kam.
+
+Im Jahr 2005 untersuchten Kikuchi et al. von der Universität Kanazawa in Japan 233 ambulante Patienten mit Panikstörung (99 Männer, 134 Frauen), davon 63 ohne und 170 mit Agoraphobie. Letztere Gruppe wies dabei im Schnitt eine länger bestehende Panikstörung und eine höhere Prävalenz einer generalisierten Angststörung auf. Keine Unterschiede gab es bzgl. ausgeprägter depressiver Episoden, Schweregrad der einzelnen Panikattacken oder Verteilung der Geschlechter. Weiter zeigte sich, dass bei knapp über 40 % derjenigen Studienteilnehmer, die eine Panikstörung entwickelt hatten, innerhalb von 24 Wochen auch eine Agoraphobie auftrat und sich auch diese Gruppe nicht bzgl. Alter oder Geschlecht unterschied.
+
+Als mögliche Ursache muss immer auch eine eventuelle Traumatisierung in Betracht gezogen werden. Die Agoraphobie wird zu den möglichen psychischen Störungen gezählt, die sich zusätzlich zu den klassischen Symptomen der Posttraumatischen Belastungsstörung (PTBS) und auch zu den Symptomen der Komplexen PTBS entwickeln können (Komorbidität).
+
+Behandlung 
+
+Ist die Agoraphobie Symptom einer zugrunde liegenden Erkrankung, wird vor allem diese entsprechend behandelt. Liegt eine Agoraphobie als eigenständiges Störungsbild vor, gehören sowohl psychotherapeutische Maßnahmen als auch Psychopharmaka zur Standardbehandlung.
+
+Psychotherapie 
+
+Gesprächstherapien sind bei der reinen Agoraphobie in der Regel wenig wirksam. Eine bewährte Behandlung der Agoraphobie ist die Expositionstherapie, die im Rahmen einer Verhaltenstherapie durchgeführt wird. Dabei begeben sich der Betroffene und sein Therapeut an den jeweiligen Ort, der Angst auslöst und daher vermieden wird. Mit Hilfe des Therapeuten stellt sich der Betroffene seinen Ängsten und lässt sie in voller Stärke zu, um erleben zu können, dass die Angst unbegründet ist und mit der Zeit ganz von allein nachlässt. Der Therapeut unterstützt den Patienten darin, die Situation aufzusuchen, in der Situation zu bleiben und keine Vermeidungsstrategien anzuwenden. Vermeidungsverhalten kann die Angst zwar kurzfristig lindern, führt jedoch langfristig zur Aufrechterhaltung der Angst. Es gibt mindestens zwei Arten der Konfrontations-Therapie. Einerseits die Systematische Desensibilisierung, die schrittweise erfolgt. Andererseits gibt es auch noch das sogenannte „Flooding“, bei dem der Klient sich einer besonders angstauslösenden Situation sofort stellt. Erzwungenes Flooding, dem der Klient nicht freiwillig zustimmt, kann jedoch die gegenteilige Wirkung haben und die Problematik verschlimmern.
+
+Medikamente 
+
+Eine Agoraphobie kann, wie andere Angsterkrankungen auch, medikamentös behandelt werden. In der Regel wirken diese Arzneimittel jedoch nicht heilend, sondern lindern nur die Symptome, solange man sie einnimmt. Zum Einsatz kommen dabei vor allem Anxiolytika, Trizyklische Antidepressiva und Selektive Serotoninwiederaufnahmehemmer. Der Einsatz von Benzodiazepinen wird im Dauergebrauch kritisch beurteilt.
+
+Literatur 
+ Agoraphobia. In: Rosalyn Deutsche: Evictions – Art and spatial politics. Massachusetts Institute of Technology Press, 1996, ISBN 0-262-04158-8, S. 269.
+ Kathleen A. Brehony: Women and agoraphobia. In: The stereotyping of women. New York 1983.
+ Sigmund Freud: Hemmung, Symptom und Angst. In: Freud: Studienausgabe. Band 6: Hysterie und Angst. Frankfurt am Main 1970, S. 253 und 284.
+ Gerda Lazarus-Mainka, Stefanie Siebeneick: Angst und Ängstlichkeit. Hogrefe, Göttingen 2000, ISBN 3-8017-0969-8.
+ Pschyrembel – Klinisches Wörterbuch. 261. Auflage. Walter de Gruyter, S. 32.
+ Heinz-Peter Schmiedebach: Agoraphobie. In: Werner E. Gerabek, Bernhard D. Haage, Gundolf Keil, Wolfgang Wegner (Hrsg.): Enzyklopädie Medizingeschichte. De Gruyter, Berlin / New York 2005, ISBN 3-11-015714-4, S. 17 f.
+ Silvia Schneider, Jürgen Margraf: Agoraphobie und Panikstörung. Hogrefe, Göttingen 1998, ISBN 3-8017-1011-4 (= Fortschritte der Psychotherapie).
+
+Weblinks
+
+Einzelnachweise 
+
+Phobische Störung

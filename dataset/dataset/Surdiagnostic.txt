@@ -1,0 +1,48 @@
+Le  est la procédure ou le résultat de l'application de critères diagnostiques concluant à la présence d'une maladie véritable qui n'aurait jamais été perçue au cours de la vie du patient et qui n'auraient modifié ni sa qualité de vie ni sa durée de vie ;
+
+Le surdiagnostic peut être une conséquence du dépistage, à savoir l'ensemble des procédures à visée diagnostique initiées sans signe d'appel, ou d'examens complémentaires demandés de manière inappropriée ou mal interprétés.
+
+Par exemple, en dépistant le cancer de la prostate, on découvre de vrais cancers de la prostate qui auraient diminué la qualité ou l'espérance de vie d'individus, mais on augmente aussi le diagnostic de véritables tumeurs malignes qui n’auraient pas eu de conséquences sur la santé, ou des altérations histologiques étiquetées comme des « cancers » qui n'auraient également pas eu de suite si elles n’avaient été diagnostiquées. Le surdiagnostic remet en question la validité de la définition de la maladie cancéreuse fondée sur un examen histologique ponctuel dans un contexte de dépistage.
+
+Principe d'un test diagnostique 
+Pour une pathologie donnée un test peut avoir deux résultats : il existe ou il n'existe pas une anomalie qui est signe d'une pathologie.
+Ceci reflète en vérité quatre types de population : les vrais malades (vrais positifs), les vrais non-malades (vrais négatifs), les diagnostiqués malades à tort (faux positifs) et les non-diagnostiqués à tort (les faux négatifs). On ne peut savoir si le test a eu raison ou pas de classer une personne en malade ou non-malade qu'en utilisant un deuxième test : un test de référence ou . Souvent le  est l'histologie ou la surveillance de l'évolution de la maladie. Le test de référence n'est pas parfait mais doit être le meilleur moyen disponible pour faire le diagnostic avec certitude. À partir de ces données, on peut calculer la pertinence d'un nouveau test en calculant sa sensibilité, spécificité, valeur prédictive positive, valeur prédictive négative.
+
+Causes 
+L'avantage théorique d'un dépistage renforcé d'une maladie par un test est la détection d'un certain nombre de cas qui risqueraient d'évoluer s'ils n'étaient pas prise en charge. La question est donc de savoir si le bénéfice, évident chez ces dernières personnes, contrebalance les inconvénients du surdiagnostic chez les autres personnes. La réponse repose sur une analyse des coûts, tant monétaires qu'humains, et idéalement, la comparaison de l'évolution d'une cohorte de patients ayant ou non bénéficié de ce test. Dans de nombreux cas, il n'existe pas de réponse claire et la question reste alors polémique.
+
+Il existe plusieurs facteurs favorisants la demande en tests plus sensibles, et donc, avec un risque plus élevé de surdiagnostic :
+ le médecin craint plus souvent, éthiquement et pénalement, le « sousdiagnostic » que le « surdiagnostic » ;
+ les industriels de la santé ont un intérêt financier, en étant en grande partie les bénéficiares du surcoût généré. Il peut exister ainsi des conflits d'intérêts chez certains promoteurs d'un dépistage élargi ;
+ la crainte d'une maladie grave incite le patient à une détection accrue.
+
+Scénario 
+Le surdiagnostic peut arriver dans trois circonstances :
+ une sensibilité accrue des tests diagnostics, permettant le dépistage de formes précoces de certaines maladies pour lesquelles l'évolution spontanée n'est pas bien établie. Ces tests ont, par ailleurs, des résultats variables avec le temps, soit secondaire à la méthode de mesure qui peut être imprécise, soit du fait même de la fluctuation de la valeur mesurée, pour laquelle l'incidence clinique n'est pas claire ;
+ la détection d'incidentalomes : il s'agit d'anomalies dépistées alors que l'examen n'était pas fait dans ce but. Un exemple est celui d'une masse sur un organe visualisée par un scanner fait pour une tout autre raison. Cette situation est fréquente et le plus souvent sans conséquence ;
+ un changement des critères diagnostiques dans le sens d'un élargissement de ces derniers : une proportion plus importante de patients est alors considérée comme « malade ».
+
+Conséquences 
+La conséquence du surdiagnostic est le surtraitement, avec le risque de survenue d’évènements indésirables imputables à la prise en charge.
+Un autre risque est l'angoisse créée par le diagnostic alors qu'il n'aura probablement pas de conséquences.
+L'une des conséquences sociales est le surcoût (dépistage, examens de confirmation, surtraitement).
+
+Exemples 
+Les situations sont rarement tranchées et font toujours l'objet de débats.
+
+Les exemples les plus typiques concernent le dépistage de certains cancers : seins, prostate, mais aussi poumons et thyroïde.
+
+Précisions sur le dépistage du cancer de la prostate 
+
+Le cancer de la prostate est un cancer fréquent. Son dépistage est conseillé par les urologues. Son dépistage n'est pas recommandé par la HAS. Le dépistage se fait par toucher rectal et une prise de sang avec dosage du PSA. Dans le cas de PSA augmentés plus de , une échographie endorectale pour biopsie prostatique est proposée. L'analyse histologique permet de mettre en évidence des cellules cancéreuses. Le risque de surdiagnostic existe pendant le dosage de PSA (70 % des hommes ayant un taux de PSA supérieur à  n'ont pas de cancer de prostate), il y a d'autres raisons d'augmentation du PSA que le cancer de la prostate : prostatite, traumatisme Un risque de surdiagnostic existe aussi avec l'analyse histologique. On peut trouver un cancer qui n'aurait jamais eu de conséquences chez la personne (cancer d'évolution très lente). La personne peut très bien mourir des années après d'une autre cause. 30 à 80 % des cancers diagnostiqués par le dépistage n'auraient pas compromis la santé des patients s'ils avaient été ignorés.  Un dépistage a semblé éviter de l'ordre d'un mort par cancer de la prostate pour 300 à  dépistés. Ainsi, il arrive de plus en plus que, dans les formes localisées et débutantes des cancers de la prostate, on soit amené à surveiller ce cancer pour éviter un surtraitement.
+
+Exemples dans d'autres domaines médicaux 
+En dehors du domaine de la cancérologie, plusieurs autres maladies posent le problème du surdiagnostic : l'asthme, les troubles du déficit de l'attention, l'ostéoporose (où un changement de définition permet une augmentation importante du nombre de patientes atteintes) ou le diabète gestationnel, autre exemple où une proposition pour en abaisser le seuil diagnostique multiplie par trois le nombre de femmes concernées.
+
+Notes et références
+
+Articles connexes 
+
+Examen médical
+Controverse en médecine
+Surmédicalisation

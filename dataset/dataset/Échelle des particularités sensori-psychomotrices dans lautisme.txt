@@ -1,0 +1,71 @@
+L'échelle des particularités sensori-psychomotrices dans l'autisme ou EPSA (en anglais Sensory-psychomotor Particularities Scale in Autism ou SPSA) est un outil clinique standardisé récent (publié en 2019) d'évaluation du degré des troubles sensori-psychomoteurs utilisés par le psychomotricien comme signes cliniques pour en mesurer l'intensité et mieux diagnostiquer le trouble du spectre de l'autisme et en , notamment chez le jeune enfant.
+
+Cette échelle sensori-psychomotrice se base sur les signes sensori-moteurs repris dans le Manuel diagnostique et statistique des troubles mentaux (DSM-5) et sur la littérature scientifique antérieure (qui a notamment montré une apparition précoce de ces signes, ). Elle peut servir à élaborer un projet thérapeutique individualisé, nécessaire à la mise en place d'une communication sociale harmonieuse. Mais elle pourrait aussi permettre de poser de nouvelles hypothèses de Recherche.
+
+Histoire 
+L'EPSA a été conçu dans les années 2010 par des pédopsychiatres et praticiens français spécialisés dans le domaine de l'autisme (C. Le Menn-Tripi, A. Vachaud, N. Defas, J. Malvya, S. Roux et F. Bonnet-Brilhault du « Centre Ressources Autisme » du CHU de Tours, et de l'Inserm).
+
+Cette échelle EPSA permet depuis 2019 d'améliorer et renforcer la contribution du psychomotricien à une diagnostic précoce et plus précis de l'autisme, complétant la palette des outils/tests efficaces et standardisés de diagnostic de l'autisme dont :
+ le protocole Autism Diagnostic Observation Schedule (ADOS) ;
+ la Checklist Modified Checklist for Autism in Toddlers (M-CHAT) ;
+ l'ADI-R.
+
+Enjeu 
+Certains signes du TSA peuvent induire un mal-être pour les personnes autistes et/ou leur entourage. Cependant, s'ils sont mieux, plus précisément et précocément repérés, ces signes ou « troubles » peuvent être positivement influencés par des programmes adaptés (éducation/rééducation, thérapies innovantes...), au profit d'un meilleur épanouissement de la personne (enfant ou adulte) dans la société et plus largement de sa qualité de vie...
+
+Principes 
+L'EPSA, validé chez des enfants de 2 à 12 ans mesure l'intensité des atypies sensori-psychomotrices du sujet, afin de mieux cerner son profil sensoriel et psychomoteur, via  et 8 grands domaines développementaux (sensorialité, motricité, représentation du corps, corps en relation sociale, utilisation des objets, espace, temps et régulation tonico-émotionnelle). 
+
+Ces 160 items, ici cotés selon leur degré d’expression, sont souvent affectés dans l'autisme. 
+
+Ils constituent 20 variables explorées par l'EPSA : le toucher, la nociception, la sensibilité vestibulaire, la proprioception, la vue, l'audition, la multimodalité, le tonus, la posture, l'équilibre, la coordination globale, la motricité manuelle, le schéma corporel et la conscience psychocorporelle, l'ajustement à l'autre, l'expression émotionnelle, l'utilisation des objets, la conscience de l'espace et du temps et enfin la .
+
+Pour chacun des 160 items, le psychomotricien évalue les signes sensori-psychomoteurs selon 5 niveaux notés de 0 à 4 (échelle de Likert) :
+ 0 = « signe jamais exprimé par la personne » ; 
+ 1 = « faiblement exprimé » ;
+ 2 = « modérément exprimé » ;
+ 3 = « sévèrement exprimé » ; 
+ 4 = « signe très caractéristique de la personne, et très sévèrement exprimé »).
+ NA = « non applicable » ; cette mention ne donne pas lieu à l'attribution de point. Elle est attribuée à des items ne pouvant être évalués (par exemple quand l'enfant ne dessine pas ou présente un TSA sévère associée à une incapacité à une déficience intellectuelle ne permettant pas l'accès aux jeux symboliques). Au moment des calculs de moyennes, on divise le total des points par le nombre d’items côtés, en annulant les items non applicables.
+
+Sur la base des études scientifiques disponibles, pour constituer un profil personnel à partir de cette échelle, les auteurs ont retenu trois facteurs déterminants : 
+ « synchronisation sensori-émotionnelle » ; 
+ « intégration multimodale » ; 
+ « compétences motrices ».
+
+Les moyennes peuvent être calculée dans le fichier Excel fourni, qui produit in fine un diagramme récapitulatif des résultats obtenus à l’EPSA (avec des couleurs différentes pour les grands types des 20 variables sensori-psychomotrices. 
+Ensuite, un entretien familial permet de mieux identifier l'impact de ces signes sur la vie quotidienne du sujet.
+
+Pertinence de l'EPSA 
+En termes psychométriques, l'EPSA a une excellente fidélité inter-cotateurs et une bonne validité (interne et externe).
+
+Notes et références
+
+Voir aussi
+
+Bibliographie 
+ .
+ Le Menn-Tripi, C., Vachaud, A., Defas, N., Malvy, J., Roux, S., & Bonnet-Brilhault, F. (2020). EPSA-Présentation graphique du profil sensori-psychomoteur (Manuel) ; URL=https://hal.archives-ouvertes.fr/hal-02469707/document 
+ .
+
+Articles connexes 
+ Psychométrie
+ Examen psychologique
+ Test neuropsychologique
+ Échelle d'empathie
+ Instruments d'évaluation utilisés auprès des enfants et des adolescents
+ Projection : Rorschach, TAT
+ Effet Flynn
+ Psychomotricité
+ Autism Diagnostic Observation Schedule (ADOS, ADOS-2)
+ Société américaine de l'autisme
+ L'autisme parle
+ Épidémiologie de l'autisme
+ Michel Rutter
+
+Autisme
+Psychométrie
+Test psychologique
+Méthodologie en psychologie
+Psychothérapie cognitivo-comportementale
+Méthode de prise en charge de l'autisme

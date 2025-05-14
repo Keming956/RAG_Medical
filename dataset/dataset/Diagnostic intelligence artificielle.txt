@@ -1,0 +1,60 @@
+Le diagnostic est une discipline de l'intelligence artificielle qui vise le développement d'algorithmes permettant de déterminer si le comportement d'un système est conforme au comportement espéré. Dans le cas contraire, l'algorithme doit être capable de déterminer aussi précisément que possible quelles parties du système sont fautives et de quels types de dysfonctionnements elles souffrent. Le calcul se base sur les observations, qui sont des informations sur le comportement.
+
+Le terme diagnostic fait également référence au calcul ainsi qu'au résultat du calcul. Ce terme vient du domaine médical où un diagnostic représente l'explication des symptômes du patient.
+
+Exemple
+
+Un exemple de diagnostic (au sens du calcul) d'un système dynamique est le raisonnement d'un garagiste en face d'un véhicule. Le garagiste s'assure d'abord que le véhicule est en panne, puis utilise les observations pour découvrir l'origine de la panne. Dans ce cas, les observations sont l'état du véhicule, l'observation du moteur, les bruits produits par le véhicule, la description des symptômes par l'utilisateur, etc. Un exemple de diagnostic (au sens résultat) est l'assertion la batterie est déchargée.
+
+Diagnostic par système expert
+
+Le diagnostic par système expert se base sur l'expérience disponible sur le système pour construire une table de correspondance permettant d'associer efficacement les observations aux diagnostics correspondants.
+
+L'expérience peut être fournie :
+ par un opérateur humain. Dans ce cas, la connaissance humaine doit être traduite en langage informatique;
+ par un enregistrement éventuellement annoté des précédentes exécutions du système. Dans ce cas, un algorithme d'apprentissage automatique doit être utilisé.
+
+Les principaux inconvénients de ces méthodes sont :
+ l'acquisition de l'expertise : l'expertise n'est disponible qu'après un certain temps d'utilisation du système, ce qui exclut l'application pour des systèmes critiques (centrales nucléaire ou robot spatiaux, par exemple). D'autre part, la complétude de l'expertise n'est jamais assurée. Ainsi, lorsqu'un comportement inconnu a lieu sur le système, le diagnostic fourni sera erroné.
+ l'apprentissage du système expert : la construction du système expert se fait hors-ligne (c'est-à-dire en dehors de l'utilisation) et peut être gourmande en ressources.
+ la taille du système expert : puisque le système expert capture toutes les observations possibles, il nécessite parfois une taille très importante tandis qu'un modèle du système serait plus compact. Il arrive cependant qu'au contraire, le système expert soit plus compact que le modèle puisqu'il ne comporte que les informations pertinentes pour le diagnostic.
+ la non robustesse : en cas de modification même légère du système, le système expert doit être entièrement recalculé.
+
+Remarquons que certains systèmes experts sont construits non pas à partir d'une expertise mais directement par une compilation du modèle du système. On peut ainsi donner l'exemple du diagnostiqueur de Sampath pour le diagnostic des systèmes à événements discrets.
+
+Diagnostic basé sur le modèle
+
+Le diagnostic est un raisonnement abductif se basant sur le modèle du système et sur les observations effectuées sur le système.
+
+Le schéma général du diagnostic basé sur le modèle est le suivant.
+
+On dispose d'un modèle qui décrit le comportement du système (artefact). Ce modèle est une abstraction du comportement du système et peut être incomplet. En particulier, le modèle de panne (c'est-à-dire la description du comportement du système en cas de panne) est généralement très partiellement défini parce que mal connu. Le superviseur chargé du diagnostic dispose également d'observations sur le système. Ces observations sont fournies par des capteurs placés sur le système ou peuvent être fournies directement par le système (par exemple lorsque celui-ci transmet des messages internes observables ou des messages vers l'extérieur). Le superviseur simule le système grâce au modèle et confronte les observations prédites par la simulation aux observations fournies par le système.
+
+Le diagnostic basé sur le modèle est un raisonnement abductif. En effet, on peut simplifier la modélisation par des formules comme les suivantes (où  est le prédicat indiquant un comportement anormal ( pour abnormal en anglais)) :
+
+Les formules se lisent de la manière suivante : si le système n'a pas un comportement anormal, alors il produira le comportement interne Int1 et le comportement observable Obs1. Dans le cas d'un comportement anormal, il produira le comportement interne Int2 et les observations Obs2. Étant données les observations Obs, il faut déterminer si le comportement du système est normal ou non ( ou ) ce qui résulte bien d'un raisonnement abductif.
+
+Diagnosticabilité
+
+Diagnosticabilité est une tentative de traduction du terme anglais diagnosability. On trouve également le terme diagnosabilité dans la littérature scientifique francophone par mimétisme avec l'anglais. 
+
+La diagnosticabilité est un sous domaine du diagnostic. La définition varie suivant le type de système considéré, mais on peut s'accorder sur cette définition :
+
+Un système est dit diagnosticable si quel que soit le comportement du système, le superviseur sera en mesure de calculer sans ambiguïté un diagnostic.
+
+La diagnosticabilité est généralement calculée à partir du modèle du système, et ne peut donc être vérifiée que dans le cadre du diagnostic basé sur le modèle. Remarquons que le système peut être diagnosticable dans la réalité sans qu'on puisse prouver cette propriété à cause de la perte d'information consécutive au passage du système à son modèle. La question de la diagnosticabilité permet ainsi d'ordonner des modèles se situant à différents degrés d'abstraction du même système : un modèle plus abstrait est plus intéressant dans la mesure où le diagnostic est souvent plus facile à effectuer sur un petit modèle, mais il est moins intéressant s'il ne permet plus de fournir un diagnostic précis du système.
+
+La question de la diagnosticabilité est également très importante lors de la conception d'un système puisqu'un concepteur cherche à trouver un compromis entre d'une part retirer le plus possible de capteurs (pour réduire les coûts), et d'autre part ajouter le plus possible de capteurs pour améliorer les chances de détecter et de comprendre les dysfonctionnements.
+
+Bibliographie
+
+Readings in model-based diagnosis, W Hamscher, L Console et J de Kleer, Morgan Kaufmann Publishers Inc., 1992.
+
+Liens externes
+ Le site du workshop international 2009 sur le diagnostic
+ Le site du workshop international 2007 sur le diagnostic
+ Le site du workshop international 2006 sur le diagnostic
+
+Voir aussi
+
+Intelligence artificielle

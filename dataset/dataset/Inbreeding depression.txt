@@ -1,0 +1,64 @@
+Inbreeding depression is the reduced biological fitness in a given population as a result of inbreeding (the breeding of related individuals). Population biological fitness refers to an organism's ability to survive and perpetuate its genetic material. Inbreeding depression is often the result of a population bottleneck. In general, the higher the genetic variation or gene pool within a breeding population, the less likely it is to suffer from inbreeding depression.
+
+Inbreeding depression seems to be present in most groups of organisms, but varies across mating systems. Hermaphroditic species often exhibit lower degrees of inbreeding depression than outcrossing species, as repeated generations of selfing is thought to purge deleterious alleles from populations. For example, the outcrossing nematode (roundworm) Caenorhabditis remanei has been demonstrated to suffer severely from inbreeding depression, unlike its hermaphroditic relative C. elegans, which experiences outbreeding depression.
+
+Mechanisms
+
+Inbreeding (i.e., breeding between closely related individuals) results in more recessive traits manifesting themselves, as the genomes of pair-mates are more similar.  Recessive traits can only occur in an offspring if present in both parents' genomes. The more genetically similar the parents are, the more often recessive traits appear in their offspring. Consequently, the more closely related the breeding pair is, the more homozygous, deleterious genes the offspring may have, resulting in very unfit individuals. For alleles that confer an advantage in the heterozygous and/or homozygous-dominant state, the fitness of the homozygous-recessive state may even be zero (meaning sterile or unviable offspring).
+
+An example of inbreeding depression is shown to the right. In this case, a is the recessive allele which has negative effects. In order for the a phenotype to become active, the gene must end up as homozygous aa because in the geneotype Aa, the A takes dominance over the a and the a does not have any effect. Due to their reduced phenotypic expression and their consequent reduced selection, recessive genes are, more often than not, detrimental phenotypes by causing the organism to be less fit to its natural environment.
+
+Another mechanism responsible for inbreeding depression is the fitness advantage of heterozygosity, which is known as overdominance. This can lead to reduced fitness of a population with many homozygous genotypes, even if they are not deleterious or recessive. Here, even the dominant alleles result in reduced fitness if present homozygously (see also hybrid vigour).
+
+Currently, it is not known which of the two mechanisms is more prevalent in nature. For practical applications, e.g. in livestock breeding, the former is thought to be more significant – it may yield completely unviable offspring (meaning outright failure of a pedigree), while the latter can only result in relatively reduced fitness.
+
+Natural selection
+Natural selection cannot effectively remove all deleterious recessive genes from a population for several reasons. First, deleterious genes arise constantly through mutation within a population. Second, in a population where inbreeding occurs frequently, most offspring will have some deleterious traits, so few will be more fit for survival than the others. Different deleterious traits are extremely unlikely to equally affect reproduction – an especially disadvantageous recessive trait expressed in a homozygous recessive individual is likely to eliminate itself, naturally limiting the expression of its phenotype. Third, recessive deleterious alleles will be "masked" by heterozygosity, and so in a dominant-recessive trait, heterozygotes will not be selected against.
+
+When recessive deleterious alleles occur in the heterozygous state, where their potentially deleterious expression is masked by the corresponding wild-type allele, this masking phenomenon is referred to as complementation (see complementation (genetics)).
+
+In general, sexual reproduction in eukaryotes has two fundamental aspects: genetic recombination during meiosis, and outcrossing. It has been proposed that these two aspects have two natural selective advantages respectively.  A proposed adaptive advantage of meiosis is that it facilitates recombinational repair of DNA damages that are otherwise difficult to repair (see DNA repair as the adaptive advantage of meiosis).  A proposed adaptive advantage of outcrossing is complementation, which is the masking of deleterious recessive alleles (see hybrid vigor or heterosis).  The selective advantage of complementation may largely account for the general avoidance of inbreeding (see kin recognition).
+
+Management
+Introducing alleles from a different population can reverse inbreeding depression. Different populations of the same species have different deleterious traits, and therefore their cross breeding will not result in homozygosity at most loci in the offspring. This is known as outbreeding enhancement, practiced by conservation managers and zoo captive breeders to prevent homozygosity.
+
+However, intermixing two different populations can give rise to unfit polygenic traits in outbreeding depression (i.e. yielding offspring which lack the genetic adaptations to specific environmental conditions). These, then, will have a lowered fitness than pure-bred individuals of a particular subspecies that has adapted to its local environment.
+
+In humans
+The biological effects of inbreeding depression in humans are largely obscured by socioeconomic and cultural influences on reproductive behavior. Studies in human populations have shown that age at marriage, duration of marriage, illiteracy, contraceptive use, and reproductive compensation are the major determinants of apparent fertility, even amongst populations with a high proportion of consanguinous unions. However, several small effects on increased mortality, longer inter-birth intervals and reduced overall productivity have been noted in certain isolated populations.
+
+Charles Darwin was one of the first scientists to demonstrate the effects of inbreeding depression, through numerous experiments on plants. Darwin's wife, Emma, was his first cousin, and he was concerned about the impact of inbreeding on his ten children, three of whom died at age ten or younger; three others had childless long-term marriages.
+
+Factors reducing inbreeding depression
+
+Whilst inbreeding depression has been found to occur in almost all sufficiently studied species, some taxa, most notably some angiosperms, appear to suffer lower fitness costs than others in inbred populations. Three mechanisms appear to be responsible for this: purging, differences in ploidy, and selection for heterozygosity. It must be cautioned that some studies failing to show an absence of inbreeding depression in certain species can arise from small sample sizes or where the supposedly outbred control group is already suffering inbreeding depression, which frequently occurs in populations that have undergone a recent bottleneck, such as those of the naked mole rat.
+
+Purging selection
+Purging selection occurs where the phenotypes of deleterious recessive alleles are exposed through inbreeding, and thus can be selected against. This can lead to such detrimental mutations being removed from the population, and has been demonstrated to occur rapidly where the recessive alleles have a lethal effect. The efficiency of purging will depend on the relationship between the magnitude of the deleterious effect that is unmasked in the homozygotes and the importance of genetic drift, so that purging is weaker for non-lethal than for recessive lethal alleles. For very small populations, drift has a strong influence, which can cause the fixation of sublethal alleles under weak selection. The fixation of a single allele for a specific gene can also reduce fitness where heterozygote advantage was previously present (i.e., where heterozygous individuals have higher fitness than homozygotes of either allele), although this phenomenon seems to make a usually small contribution to inbreeding depression. Although naturally occurring, purging can be important for population survival, deliberately attempting to purge deleterious mutations from a population is not generally recommended as a technique to improve the fitness of captive bred animals. In plants, genetic load can be assessed through a test analogous to an inbreeding depression test called an Autogamy depression test.
+
+Polyploidy
+Many angiosperms (flowering plants) can self-fertilise for several generations and suffer little from inbreeding depression. This is very useful for species which disperse widely and can therefore find themselves growing in a novel environment with no conspecifics present. Polyploidy (having more than two paired sets of each chromosome), which is prevalent in angiosperms, ferns and a select few animal taxa, accounts for this. By having several copies of a chromosome, as opposed to two, homozygosity is less likely to occur in inbred offspring. This means that recessive deleterious alleles are not expressed as frequently as with many copies of a chromosome; it is more likely that at least one will contain a functional allele.
+
+Selection for heterozygosity
+Inbreeding depression has also been found to occur more gradually than predicted in some wild populations, such as in the highly inbred population of Scandinavian wolves. This appears to be due to a selection pressure for more heterozygous individuals, which generally are in better condition and so are more likely to become one of the few animals to breed and produce offspring.
+
+See also
+
+ Backward evolution
+ Genetic diversity
+ Insular dwarfism
+ Island gigantism
+ Minimum viable population
+ Population genetics
+ Royal intermarriage
+ Vadoma
+ Autogamy depression
+
+References
+
+External links
+ Genetic Effects of Straying of Non-Native Hatchery Fish into Natural Populations
+
+Breeding
+Incest
+Plant sexuality

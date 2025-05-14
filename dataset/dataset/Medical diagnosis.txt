@@ -1,0 +1,195 @@
+Medical diagnosis (abbreviated Dx, Dx, or Ds) is the process of determining which disease or condition explains a person's symptoms and signs. It is most often referred to as diagnosis with the medical context being implicit. The information required for diagnosis is typically collected from a history and physical examination of the person seeking medical care. Often, one or more diagnostic procedures, such as medical tests, are also done during the process. Sometimes posthumous diagnosis is considered a kind of medical diagnosis.
+
+Diagnosis is often challenging, because many signs and symptoms are nonspecific, and can only be undertaken by registered and licensed health professionals. For example, redness of the skin (erythema), by itself, is a sign of many disorders and thus does not tell the healthcare professional what is wrong. Thus differential diagnosis, in which several possible explanations are compared and contrasted, must be performed. This involves the correlation of various pieces of information followed by the recognition and differentiation of patterns. Occasionally the process is made easy by a sign or symptom (or a group of several) that is pathognomonic.
+
+Diagnosis is a major component of the procedure of a doctor's visit. From the point of view of statistics, the diagnostic procedure involves classification tests.
+
+Medical uses 
+A diagnosis, in the sense of diagnostic procedure, can be regarded as an attempt at classification of an individual's condition into separate and distinct categories that allow medical decisions about treatment and prognosis to be made. Subsequently, a diagnostic opinion is often described in terms of a disease or other condition. (In the case of a wrong diagnosis, however, the individual's actual disease or condition is not the same as the individual's diagnosis.)
+
+A diagnostic procedure may be performed by various healthcare professionals such as a physician, physiotherapist, dentist, podiatrist, optometrist, nurse practitioner, healthcare scientist or physician assistant. This article uses diagnostician as any of these person categories.
+
+A diagnostic procedure (as well as the opinion reached thereby) does not necessarily involve elucidation of the etiology of the diseases or conditions of interest, that is, what caused the disease or condition. Such elucidation can be useful to optimize treatment, further specify the prognosis or prevent recurrence of the disease or condition in the future.
+
+The initial task is to detect a medical indication to perform a diagnostic procedure. Indications include:
+Detection of any deviation from what is known to be normal, such as can be described in terms of, for example, anatomy (the structure of the human body), physiology (how the body works), pathology (what can go wrong with the anatomy and physiology), psychology (thought and behavior) and human homeostasis (regarding mechanisms to keep body systems in balance). Knowledge of what is normal and measuring of the patient's current condition against those norms can assist in determining the patient's particular departure from homeostasis and the degree of departure, which in turn can assist in quantifying the indication for further diagnostic processing.
+A complaint expressed by a patient.
+The fact that a patient has sought a diagnostician can itself be an indication to perform a diagnostic procedure. For example, in a doctor's visit, the physician may already start performing a diagnostic procedure by watching the gait of the patient from the waiting room to the doctor's office even before she or he has started to present any complaints.
+
+Even during an already ongoing diagnostic procedure, there can be an indication to perform another, separate, diagnostic procedure for another, potentially concomitant, disease or condition. This may occur as a result of an incidental finding of a sign unrelated to the parameter of interest, such as can occur in comprehensive tests such as radiological studies like magnetic resonance imaging or blood test panels that also include blood tests that are not relevant for the ongoing diagnosis.
+
+Procedure 
+General components which are present in a diagnostic procedure in most of the various available methods include:
+Complementing the already given information with further data gathering, which may include questions of the medical history (potentially from other people close to the patient as well), physical examination and various diagnostic tests. A diagnostic test is any kind of medical test performed to aid in the diagnosis or detection of disease. Diagnostic tests can also be used to provide prognostic information on people with established disease.
+Processing of the answers, findings or other results. Consultations with other providers and specialists in the field may be sought.
+
+There are a number of methods or techniques that can be used in a diagnostic procedure, including performing a differential diagnosis or following medical algorithms. In reality, a diagnostic procedure may involve components of multiple methods.
+
+Differential diagnosis 
+
+The method of differential diagnosis is based on finding as many candidate diseases or conditions as possible that can possibly cause the signs or symptoms, followed by a process of elimination or at least of rendering the entries more or less probable by further medical tests and other processing, aiming to reach the point where only one candidate disease or condition remains as probable. The final result may also remain a list of possible conditions, ranked in order of probability or severity. Such a list is often generated by computer-aided diagnosis systems.
+
+The resultant diagnostic opinion by this method can be regarded more or less as a diagnosis of exclusion. Even if it does not result in a single probable disease or condition, it can at least rule out any imminently life-threatening conditions.
+
+Unless the provider is certain of the condition present, further medical tests, such as medical imaging, are performed or scheduled in part to confirm or disprove the diagnosis but also to document the patient's status and keep the patient's medical history up to date.
+
+If unexpected findings are made during this process, the initial hypothesis may be ruled out and the provider must then consider other hypotheses.
+
+Pattern recognition 
+In a pattern recognition method the provider uses experience to recognize a pattern of clinical characteristics. It is mainly based on certain symptoms or signs being associated with certain diseases or conditions, not necessarily involving the more cognitive processing involved in a differential diagnosis.
+
+This may be the primary method used in cases where diseases are "obvious", or the provider's experience may enable him or her to recognize the condition quickly. Theoretically, a certain pattern of signs or symptoms can be directly associated with a certain therapy, even without a definite decision regarding what is the actual disease, but such a compromise carries a substantial risk of missing a diagnosis which actually has a different therapy so it may be limited to cases where no diagnosis can be made.
+
+Diagnostic criteria 
+
+The term diagnostic criteria designates the specific combination of signs and symptoms, and test results that the clinician uses to attempt to determine the correct diagnosis.
+
+Some examples of diagnostic criteria, also known as clinical case definitions, are:
+
+Amsterdam criteria for hereditary nonpolyposis colorectal cancer
+McDonald criteria for multiple sclerosis
+ACR criteria for systemic lupus erythematosus
+Centor criteria for strep throat
+
+Clinical decision support system 
+Clinical decision support systems are interactive computer programs designed to assist health professionals with decision-making tasks. The clinician interacts with the software utilizing both the clinician's knowledge and the software to make a better analysis of the patients data than either human or software could make on their own.  Typically the system makes suggestions for the clinician to look through and the clinician picks useful information and removes erroneous suggestions.
+
+Other diagnostic procedure methods 
+Other methods that can be used in performing a diagnostic procedure include:
+
+Usage of medical algorithms
+An "exhaustive method", in which every possible question is asked and all possible data is collected.
+
+Adverse effects 
+Diagnosis problems are the dominant cause of medical malpractice payments, accounting for 35% of total payments in a study of 25 years of data and 350,000 claims.
+
+Overdiagnosis 
+
+Overdiagnosis is the diagnosis of "disease" that will never cause symptoms or death during a patient's lifetime. It is a problem because it turns people into patients unnecessarily and because it can lead to economic waste (overutilization) and treatments that may cause harm. Overdiagnosis occurs when a disease is diagnosed correctly, but the diagnosis is irrelevant. A correct diagnosis may be irrelevant because treatment for the disease is not available, not needed, or not wanted.
+
+Errors 
+
+Most people will experience at least one diagnostic error in their lifetime, according to a 2015 report by the National Academies of Sciences, Engineering, and Medicine.
+
+Causes and factors of error in diagnosis are:
+ the manifestation of disease are not sufficiently noticeable
+ a disease is omitted from consideration
+ too much significance is given to some aspect of the diagnosis
+ the condition is a rare disease with symptoms suggestive of many other conditions
+ the condition has a rare presentation
+
+Lag time 
+When making a medical diagnosis, a lag time is a delay in time until a step towards diagnosis of a disease or condition is made. Types of lag times are mainly:
+Onset-to-medical encounter lag time, the time from onset of symptoms until visiting a health care provider
+Encounter-to-diagnosis lag time, the time from first medical encounter to diagnosis
+Lag time due to delays in reading x-rays have been cited as a major challenge in care delivery. The Department of Health and Human Services has reportedly found that interpretation of x-rays is rarely available to emergency room physicians prior to patient discharge.
+
+History 
+
+The first recorded examples of medical diagnosis are found in the writings of Imhotep (2630–2611 BC) in ancient Egypt (the Edwin Smith Papyrus). A Babylonian medical textbook, the Diagnostic Handbook written by Esagil-kin-apli (fl.1069–1046 BC), introduced the use of empiricism, logic and rationality in the diagnosis of an illness or disease. Traditional Chinese Medicine, as described in the Yellow Emperor's Inner Canon or Huangdi Neijing, specified four diagnostic methods: inspection, auscultation-olfaction, interrogation,  and palpation. Hippocrates was known to make diagnoses by tasting his patients' urine and smelling their sweat.
+
+Word 
+
+Medical diagnosis or the actual process of making a diagnosis is a cognitive process. A clinician uses several sources of data and puts the pieces of the puzzle together to make a diagnostic impression. The initial diagnostic impression can be a broad term describing a category of diseases instead of a specific disease or condition. After the initial diagnostic impression, the clinician obtains follow up tests and procedures to get more data to support or reject the original diagnosis and will attempt to narrow it down to a more specific level. Diagnostic procedures are the specific tools that the clinicians use to narrow the diagnostic possibilities.
+
+The plural of diagnosis is diagnoses. The verb is to diagnose, and a person who diagnoses is called a diagnostician.
+
+Etymology 
+The word diagnosis  is derived through Latin from the Greek word διάγνωσις (diágnōsis) from διαγιγνώσκειν (diagignṓskein), meaning "to discern, distinguish".
+
+Society and culture
+
+Social context 
+Diagnosis can take many forms. It might be a matter of naming the disease, lesion, dysfunction or disability. It might be a management-naming or prognosis-naming exercise. It may indicate either degree of abnormality on a continuum or kind of abnormality in a classification. It's influenced by non-medical factors such as power, ethics and financial incentives for patient or doctor. It can be a brief summation or an extensive formulation, even taking the form of a story or metaphor. It might be a means of communication such as a computer code through which it triggers payment, prescription, notification, information or advice. It might be pathogenic or salutogenic. It's generally uncertain and provisional.
+
+Once a diagnostic opinion has been reached, the provider is able to propose a management plan, which will include treatment as well as plans for follow-up. From this point on, in addition to treating the patient's condition, the provider can educate the patient about the etiology, progression, prognosis, other outcomes, and possible treatments of her or his ailments, as well as providing advice for maintaining health.
+
+A treatment plan is proposed which may include therapy and follow-up consultations and tests to monitor the condition and the progress of the treatment, if needed, usually according to the medical guidelines provided by the medical field on the treatment of the particular illness.
+
+Relevant information should be added to the medical record of the patient.
+
+A failure to respond to treatments that would normally work may indicate a need for review of the diagnosis.
+
+Nancy McWilliams identifies five reasons that determine the necessity for diagnosis:
+
+ diagnosis for treatment planning;
+ information contained in it related to prognosis;
+ protecting interests of patients;
+ a diagnosis might help the therapist to empathize with his patient;
+ might reduce the likelihood that some fearful patients will go-by the treatment.
+
+Types 
+Sub-types of diagnoses include:
+
+Clinical diagnosis
+A diagnosis made on the basis of medical signs and reported symptoms, rather than diagnostic tests
+Laboratory diagnosis
+A diagnosis based significantly on laboratory reports or test results, rather than the physical examination of the patient. For instance, a proper diagnosis of infectious diseases usually requires both an examination of signs and symptoms, as well as laboratory test results and characteristics of the pathogen involved.
+Radiology diagnosis
+A diagnosis based primarily on the results from medical imaging studies. Greenstick fractures are common radiological diagnoses.
+Tissue diagnosis
+A diagnosis based on the macroscopic, microscopic, and molecular examination of tissues such as biopsies or whole organs. For example, a definitive diagnosis of cancer is made via tissue examination by a pathologist.
+Principal diagnosis
+The single medical diagnosis that is most relevant to the patient's chief complaint or need for treatment.  Many patients have additional diagnoses.
+Admitting diagnosis
+The diagnosis given as the reason why the patient was admitted to the hospital; it may differ from the actual problem or from the discharge diagnoses, which are the diagnoses recorded when the patient is discharged from the hospital.
+Differential diagnosis
+A process of identifying all of the possible diagnoses that could be connected to the signs, symptoms, and lab findings, and then ruling out diagnoses until a final determination can be made.
+Diagnostic criteria
+Designates the combination of signs, symptoms, and test results that the clinician uses to attempt to determine the correct diagnosis. They are standards, normally published by international committees, and they are designed to offer the best sensitivity and specificity possible, respect the presence of a condition, with the state-of-the-art technology.
+Prenatal diagnosis
+Diagnosis work done before birth
+Diagnosis of exclusion
+A medical condition whose presence cannot be established with complete confidence from history, examination or testing. Diagnosis is therefore by elimination of all other reasonable possibilities.
+Dual diagnosis
+The diagnosis of two related, but separate, medical conditions or co-morbidities. The term almost always referred to a diagnosis of a serious mental illness and a substance use disorder, however, the increasing prevalence of genetic testing has revealed many cases of patients with multiple concomitant genetic disorders.
+Self-diagnosis
+The diagnosis or identification of a medical conditions in oneself.  Self-diagnosis is very common. 
+Remote diagnosis
+A type of telemedicine that diagnoses a patient without being physically in the same room as the patient.
+Nursing diagnosis
+Rather than focusing on biological processes, a nursing diagnosis identifies people's responses to situations in their lives, such as a readiness to change or a willingness to accept assistance.
+Computer-aided diagnosis
+Providing symptoms allows the computer to identify the problem and diagnose the user to the best of its ability. Health screening begins by identifying the part of the body where the symptoms are located; the computer cross-references a database for the corresponding disease and presents a diagnosis.
+Overdiagnosis
+The diagnosis of "disease" that will never cause symptoms, distress, or death during a patient's lifetime
+Wastebasket diagnosis
+A vague, or even completely fake, medical or psychiatric label given to the patient or to the medical records department for essentially non-medical reasons, such as to reassure the patient by providing an official-sounding label, to make the provider look effective, or to obtain approval for treatment.  This term is also used as a derogatory label for disputed, poorly described, overused, or questionably classified diagnoses, such as pouchitis and senility, or to dismiss diagnoses that amount to overmedicalization, such as the labeling of normal responses to physical hunger as reactive hypoglycemia.
+Retrospective diagnosis
+The labeling of an illness in a historical figure or specific historical event using modern knowledge, methods and disease classifications.
+
+See also 
+
+ Diagnosis codes
+ Diagnosis-related group
+ Diagnostic and Statistical Manual of Mental Disorders
+ Doctor-patient relationship
+ Etiology (medicine)
+ International Statistical Classification ofDiseases and Related Health Problems (ICD)
+ Medical classification
+ Merck Manual of Diagnosis and Therapy
+ Misdiagnosis and medical error
+ Nosology
+ Nursing diagnosis
+ Pathogenesis
+ Pathology
+ Prediction
+ Preimplantation genetic diagnosis
+ Prognosis
+ Sign (medicine)
+ Symptom
+
+Lists 
+ List of diagnostic classification and rating scales used in psychiatry
+ List of diseases
+ List of disorders
+ List of medical symptoms
+ :Category:Diseases
+
+References
+
+External links 
+
+ 
+Medical terminology
+Nosology

@@ -1,0 +1,76 @@
+L’évaluation des psychothérapies est l'ensemble des méthodes utilisées pour établir quelles thérapies sont scientifiquement valides – et pour quelles pathologies. 
+
+Elle a fait l'objet d'une littérature volumineuse et de nombreux raffinements depuis les années 1970. Plusieurs rapports officiels contenant des recommandations fondées sur ces travaux ont été publiés dans différents pays (États-Unis, Royaume-Uni, France, Australie…) à partir de la fin des années 1990.
+
+Questions générales 
+Le principe d'évaluer l'efficacité de différentes psychothérapies ne va pas forcément de soi. Une critique fréquente considère qu'il n'est tout simplement pas envisageable de mesurer l'état psychique d'un patient, et donc le bénéfice apporté par une psychothérapie. 
+
+Une autre critique possible est que chaque psychothérapie poursuit des objectifs différents et exigerait donc ses propres critères d'évaluation, ce qui ne permettrait pas la comparaison entre différentes psychothérapies, ou seulement entre psychothérapies de la même « famille ».
+
+Familles de psychothérapies 
+Les études regroupent bien souvent plusieurs thérapies proches dans une « famille ». Par exemple, seront distinguées les approches familiales, les approches cognitivo-comportementales, les approches humanistes, les approches psychanalytiques (parfois nommées psychodynamiques).
+
+Groupes de patients 
+Plus controversée est la question de groupes de patients : il s'agit de comparer différents groupes, certains étant pris en charge, d'autres non, afin d'évaluer l'efficacité d'une prise en charge donnée. Les patients seront regroupés par pathologies : par exemple on comparera deux groupes de patients atteints d'un trouble obsessionnel compulsif, l'un pris en charge et l'autre non.
+Comment s'assurer que ces groupes soient comparables ? Par exemple, le rapport Inserm de 2004 compare des groupes de patients en utilisant les critères nosographiques fournis par le DSM-IV, lequel est reconnu par une large communauté mais pas par tous, les approches psychodynamiques (majoritairement représentées par les psychanalystes) lui préférant le Manuel diagnostique psychodynamique (MDP), plus adapté à une démarche thérapeutique plus holistique (non uniquement centré sur les symptômes-cibles).
+
+Méthodologie
+
+Travaux
+
+Premières tentatives 
+En 1941, Knight entreprit d'étudier, au travers de comptes rendus des instituts de psychanalyse de Berlin, Londres et Chicago, le cas de plusieurs centaines patients ayant suivi des psychanalyses. Il décida d'évaluer chez eux les symptômes, la productivité, l'adaptation, le plaisir sexuel, les relations interpersonnelles.
+
+En 1952, Hans Eysenck recoupe 19 études. Selon lui, 44 % des patients en analyse y trouvaient une amélioration – mais 66 % des problèmes névrotiques auraient tendance à guérir « spontanément ». Enfin, 72 % des patients soignés par un médecin généraliste, ou pris en charge au sein d'un hôpital, auraient vu leur état s'améliorer. Gene Glass raconte que les résultats extrêmement négatifs de cette étude et le choix arbitraire des études retenues l'ont poussé à développer la méta-analyse.
+
+Méta-analyse 
+
+La multiplication des essais cliniques rend de plus en plus difficile la synthèse de résultats épars par une revue de littérature. L'évaluation des psychothérapies repose essentiellement sur des méta-analyses qui permettent d'intégrer différentes études. L'objectif d'une méta-analyse est de fournir une estimation de l'ampleur des effets d'un traitement au lieu de se limiter à compter les études ou à les synthétiser de façon qualitative.
+
+Cette technique a fait l'objet de nombreux développements depuis les travaux de Karl Pearson et les premières applications en épidémiologie dans les années 1950. Son utilisation reste cependant ardue et rencontre plusieurs difficultés. Il est ainsi nécessaire de disposer de suffisamment d'études rigoureuses suivant un plan expérimental comparable et de corriger les biais de publication. D'autres difficultés concernent plus précisément l'évaluation des psychothérapies comme la standardisation des critères de diagnostic et des procédures thérapeutiques, indispensables pour leur comparaison.
+
+Quelques méta-analyses :
+ Luborsky, L., Singer, B., & Luborksy, L. (1975). Comparative studies of psychotherapies. Archives of General Psychiatry, 32, 995–1008.
+ Smith, M.L. and Glass, G.V. (1977). Meta-analysis of psychotherapy outcome studies. American Psychologist, 32, 752-60.
+ Andrews, G., & Harvey, R. (1981). Does psychotherapy benefit neurotic patients? Archives of General Psychiatry, 38, 1203–1208.
+ Prioleau, L, Murdoch, M. & Brody, N. (1983). An analysis of psychotherapy versus placebo studies. Behav. Brain Sci., 6, 275-310.
+ S. Jauhar, P. J. McKenna, J. Radua, E. Fung, R. Salvador and K. R. Laws, Cognitive–behavioural therapy for the symptoms of schizophrenia: systematic review and meta-analysis with examination of potential bias, The British Journal of Psychiatry,  204, 2014,  20–29
+Leichsenring, F. (2001). Comparative effects of short-term psychodynamic psychotherapy and cognitive-behavioral therapy in depression: A meta-analytic approach. Clinical Psychology Review, 21, 401–419.
+Leichsenring, F., Leweke, F., Klein, S., & Steinert, C. (2015). « The Empirical Status of Psychodynamic Psychotherapy - An Update: Bambi’s Alive and Kicking ». Psychotherapy and Psychosomatics, 84(3), 129–148.
+Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. American Psychologist, 65(2), 98–109.
+
+Études récentes
+
+En France 
+En 2001, l'Agence nationale d'accréditation et d'évaluation en santé (Anaes), avait défini des « grades » permettant de définir le « niveau de preuves » des différentes études. Ainsi : 
+ le grade A, preuve scientifique établie, est obtenu par les essais comparatifs randomisés de forte puissance, les méta-analyse d'essais comparatifs randomisés ainsi que par les analyses de décision frondées sur des études bien menées ; 
+ le grade B, présomption scientifique, vaut pour les essais comparatifs randomisés de faible puissance, les études comparatives non randomisées bien menées ainsi que pour les études de cohorte ; 
+ enfin, le grade C, faible niveau de preuve, vaut pour les études de cas témoins, les études comparatives comportant d'importants biais, les études rétrospectives et enfin les études de cas.
+
+Rapport de l'Inserm : contenu et critiques 
+En 2004, l'Inserm publie un rapport comparant psychothérapies familiales, cognitivo-comportementales et psychanalytiques brèves. L'expertise n'est ni un essai comparatif randomisé ni une méta-analyse, mais une synthèse effectuée à partir d'articles sélectionnés dans la littérature internationale. 
+
+D'après cette étude – et pour ne garder que les évaluations « avérées » (de grade A d'après l'Anaes), bien que la comparaison ait été rendue difficile par le caractère méthodologiquement hétéroclite des études rassemblées  : 
+ la thérapie psychanalytique apparaît la plus efficace pour un type de troubles, les troubles de la personnalité ;
+ les thérapies familiales apparaissent parmi les plus efficaces pour cinq troubles (schizophrénie en phase aigüe, schizophrénie stabilisée, trouble bipolaire, anorexie, alcoolodépendance)  ;
+ les thérapies cognitivo-comportementales apparaissent parmi les plus efficaces pour quinze troubles.
+Une plus faible efficacité n'équivaut cependant pas à une absence d'efficacité comme certains l'ont conclu dans la réception médiatique, notamment les tenants des thérapies cognitivo-comportementales. 
+
+Cette étude de l'Inserm a d'ailleurs très vite été jugée partiale dans sa méthode par les psychanalystes, au motif des choix effectués dans la sélection des articles. Une controverse s'en est suivie que l'on peut aujourd'hui apprécier avec plus de distance, d'autant que les résultats actuels de la recherche sur l'évaluation des psychothérapies a rendu en partie obsolète cette expertise.
+
+Face à la controverse, en grande partie suscitée par les différentes écoles de psychanalyse, le rapport est désavoué le  par le ministre de la Santé, Philippe Douste-Blazy, à l’occasion du Forum des psys. Il affirme en effet que  et annonce le retrait du rapport du site du ministère de la Santé et que les psychanalystes n’en . Ce fait soulèvera de nombreuses réactions critiques, y voyant une censure du rapport à cause de ses conclusions plus favorables aux méthodes non-psychanalytiques.
+
+Études étrangères sur l'efficacité des diverses méthodes psychanalytiques
+D’autres études concluent à une efficacité des psychothérapies psychodynamiques à long terme comme plus efficaces que les thérapies d'inspiration psychodynamiques à court terme. Ce qui est montré est que les patients avec des problèmes complexes nécessitent des thérapies longues.
+
+Lien externe 
+ Techniques psychothérapiques
+
+Bibliographie 
+ Jean-Michel et Monique Thurin, Évaluer les psychothérapies : méthodes et pratiques, Dunod, 2007, 
+ Roger Perron, Bernard Brusset, Clarisse Baruch, Dominique Cupa, Michèle Emmanuelli,  Quelques remarques méthodologiques à propos du rapport Inserm « Psychothérapie. Trois approches évaluées » (article sur le site web de la Société psychanalytique de Paris)
+ Georges Fischman, L'évaluation des psychothérapies de la psychanalyse. Fondements et enjeux, Masson, 2009.
+Bruno Falissard, Mesurer la subjectivité en santé : perspective méthodologique et statistique, 2e éd., Paris, Masson, 2008.
+Évaluation clinique des psychothérapies psychanalytiques. Dispositifs individuels, groupaux et institutionnels, dir. Anne Brun, René Roussillon et Patricia Attigui, Paris, Dunod, 2016.
+
+Notes et références

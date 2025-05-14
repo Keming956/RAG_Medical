@@ -1,0 +1,22 @@
+Evolutionary suicide is an evolutionary phenomenon in which the process of adaptation causes the population to become extinct. For example, individuals might be selected to switch from eating mature plants to seedlings, and thereby deplete their food plant's population. Selection on individuals can theoretically produce adaptations that threaten the survival of the population.
+
+Much of the research on evolutionary suicide has used the mathematical modeling technique adaptive dynamics, in which genetic changes are studied together with population dynamics. This allows the model to predict how population density will change as a given trait invades the population.
+
+Evolutionary suicide has also been referred to as "Darwinian extinction", "runaway selection to self-extinction", and "evolutionary collapse". The idea is similar in concept to the tragedy of the commons and the Tendency of the rate of profit to fall, namely that they are all examples of an accumulation of individual changes leading to a collective disaster such that it negates those individual changes.
+
+Many adaptations have apparently negative effects on population dynamics, for example infanticide by male lions, or the production of toxins by bacteria. However, empirically establishing that an extinction event was unambiguously caused by the process of adaptation is not a trivial task.
+
+See also 
+Sexual selection § Geometric progression
+The Limits to Growth
+
+References and external links 
+
+ Gyllenberg, M. & K. Parvinen. 2001. Necessary and sufficient conditions for evolutionary suicide. Bulletin of Mathematical Biology 63, 981–993, doi:10.1006/bulm.2001.0253
+ Gyllenberg, M., K. Parvinen & U. Dieckmann. 2002. Evolutionary suicide and evolution of dispersal in structured metapopulations. J. Math. Biol. 45, 79–105 (IIASA Interim Report IR-00-056)
+ Nagy, J.D., E.M. Victor and J.H. Cropper. 2007. Why don't all whales have cancer? A novel hypothesis resolving Peto's paradox. Int. Comp. Biol. 47, 317–328
+ Parvinen, K. 2005. Evolutionary suicide. Acta Biotheoretica 53, 241–264
+ Rankin, D.J. & A. Lopez-Sepulcre. 2005. Can adaptation lead to extinction? Oikos 111, 616–619
+ Rankin, D.J., K. Bargum & H. Kokko. 2007. The tragedy of the commons in evolutionary biology. Trends in Ecology and Evolution 22, 643–651
+
+Evolutionary biology

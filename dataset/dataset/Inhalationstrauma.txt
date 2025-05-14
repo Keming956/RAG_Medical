@@ -1,0 +1,32 @@
+Das Inhalationstrauma bezeichnet ein Thoraxtrauma durch Einatmen von ätzenden, giftigen, heißen oder tiefkalten Gasen oder Aerosolen. Hierbei kann es zu einer Schädigung der oberen und unteren Atemwege sowie der Lunge kommen.
+Man unterscheidet nach der Ursache des Traumas drei Formen:
+
+ Das thermische Inhalationstrauma
+ Das chemische Inhalationstrauma
+ Das toxische Inhalationstrauma
+
+Das thermische Inhalationstrauma 
+Beim thermischen Inhalationstrauma kommt es zum Einatmen heißer Gase, z. B. bei Bränden oder Explosionen oder kalter Gase bei Inhalation von Aerosolen freigesetzter tiefkalter Flüssigkeiten und Stoffe wie z. B. flüssigem Stickstoff.
+
+Bei der Freisetzung tiefkalter Gase bilden sich in der Umgebungsluft Aerosolwolken des flüssigen Gases. Diese verursachen ein Gefrieren von Wasserdampfanteilen der Luft, so dass sich ein feiner Eisnebel bildet. Diese können bei Exposition schwere Erfrierungsschäden am ganzen Körper hervorrufen, weiterhin kommt es beim Einatmen zu schweren Kälteschäden an den Schleimhäuten und Gewebestrukturen der Atemwege. Hierbei kann es zu einem Stimmritzenkrampf kommen. Neben lokalen Schädigungsfolgen ist durch das Einatmen der tiefkalten inerten Gase eine Erstickung möglich.
+
+Die direkte Inhalation von heißen Gasen kann schwere Verbrennungen im Nasen- und Rachenraum auslösen. Da die Gase durch Wasseraufnahme aus den Schleimhäuten rasch abkühlen, finden sich die Verletzungen hauptsächlich im supraglottischen Bereich. Es finden sich begleitende Verletzungen wie versengte Haare, Verbrennungen im Gesicht, Ruß oder Verbrennungen im Rachen. Es kommt je nach Ausmaß der Verletzung zu Stridor, Husten und Atemnot. Es kann sich bis zu 48 Stunden nach dem Trauma ein ausgeprägtes Ödem der oberen Atemwege mit der Gefahr der Atemwegsverlegung bilden. Begleitend können je nach Unfallhergang weitere Verbrennungen am Körper vorhanden sein.
+
+Die Therapie ist symptomorientiert und beinhaltet neben Sauerstoffgabe eine Analgesie. Die früher empfohlene Gabe von inhalativen Corticosteroiden wie Beclometason ist nach aktuellem Wissensstand nicht mehr zu empfehlen.
+
+Das chemische Inhalationstrauma 
+Beim chemischen Inhalationstrauma kommt es zum Einatmen von chemischen Pyrolyseprodukten z. B. bei Verbrennung von Kunststoffen oder Chemikalien. Insbesondere Verbrennungsprodukte der Schwefelsäure, Salpetersäure, Salzsäure, Blausäure, Phosgen, Ammoniak- und Chlorwasserstoffverbindungen sind ursächlich. Gase wie Ammoniak, Chlorwasserstoff oder Schwefelsäure haben den Vorteil, dass sie bereits vor Erreichen von schädlichen Konzentrationen durch Geruch oder einsetzende Reizwirkung bemerkt werden können, so dass sich Personen aus betroffenen Bereichen zurückziehen können. Bei Einatmung von chemischen Reizgasen kann sich auf den Schleimhäuten ein ätzender Flüssigkeitsfilm bilden, der in Abhängigkeit von der lokalen Konzentration zu Gewebeschädigungen wie Reizungen bis hin zu Verätzungen führen kann. Durch niedrig konzentrierte Schadstofffilme kann es durch geringe Beschwerden zu einer langen lokalen Einwirkdauer kommen, die langsam fortschreitende Gewebeschäden verursachen und nach einer Latenzzeit von bis zu 24 Stunden zu einer akuten Dekompensation mit Lungenödem führen kann. In der Folge kann es zu einem Acute Respiratory Distress Syndrome (ARDS) kommen.
+
+Die Schäden liegen unterhalb der Glottisebene und können mittels Laryngoskopie oder Bronchoskopie erkannt werden. Die Therapie ist symptomorientiert und besteht aus Sauerstoffgabe und Analgesie. Zeichnet sich eine schwerere Schädigung ab, ist eine frühzeitige Intubation und Beatmung angezeigt. Im Rahmen einer Bronchoskopie kann eine Bronchiallavage zur Reduktion der lokalen Schadstoffkonzentration durchgeführt werden.
+
+Das toxische Inhalationstrauma 
+Eine Sonderform des chemischen Inhalationstraumas ist das toxische Inhalationstrauma. Hier kommt es zum Einatmen von giftigen Gasen und Verbrennungsprodukten. Während beim chemischen Inhalationstrauma die lokale Wirkung an Atemwegen und Lungen vorliegt, kommt es beim toxischen Inhalationstrauma zu einer systemischen Wirkung von eingeatmeten Gasen und Stoffen. Bei Bränden kommt es häufig zu einer Vergiftung mit Kohlenmonoxid oder Cyanwasserstoff, die zusammen mit Salzsäure als Leitgase im Brandrauch enthalten sind. Gerade eine Kohlenmonoxidvergiftung tritt häufig bei Brandopfern auf und fordert bei Bränden die meisten Todesopfer.
+
+Die Therapie beinhaltet neben symptomatischer Therapie mit Sauerstoffgabe und Beendigung der Giftstoffexposition eine differenzierte Antidot-Therapie, um die systemische Wirkung der bereits aufgenommenen Schadstoffe zu unterbrechen oder abzumildern. Hierfür müssen Informationen über den genauen Unfallhergang beschafft werden, um mögliche Schadstoffe identifizieren zu können.
+
+Im Rahmen der Rettung und Erstversorgung muss auf den Eigenschutz des Feuerwehr- und Rettungsdienstpersonals geachtet werden. Bei hochtoxischen Stoffen kann  für das Rettungsteam eine Gefahr  von kontaminierter Kleidung oder sogar der Ausatemluft des Patienten ausgehen.
+
+Einzelnachweise 
+
+Krankheitsbild in der Notfallmedizin
+Vergiftung

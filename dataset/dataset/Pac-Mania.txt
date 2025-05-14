@@ -1,0 +1,62 @@
+is an isometric maze game that was developed and released by Namco for arcades in 1987. In the game, the player controls Pac-Man as he must eat all of the dots while avoiding the colored ghosts that chase him in the maze. Eating large flashing "Power Pellets" will allow Pac-Man to eat the ghosts for bonus points, which lasts for a short period of time. A new feature to this game allows Pac-Man to jump over the ghosts to evade capture. It is the ninth title in the Pac-Man video game series and was the last one developed for arcades up until the release of Pac-Man Arrangement in 1996. Development was directed by Pac-Man creator Toru Iwatani. It was licensed to Atari Games for release in North America.
+
+Pac-Mania gained a highly-positive critical reception for its uniqueness and gameplay. It was nominated for "Best Coin-Op Conversion of the Year" at the Golden Joystick Awards in 1987, although it lost to Taito's Operation Wolf. Pac-Mania was ported to several home consoles and computers, including the Atari ST, MSX2, Sega Genesis and Nintendo Entertainment System, the last of which being published by Tengen. Several Pac-Man and Namco video game collections also included the game. Ports for the Wii Virtual Console, iOS and mobile phones were also produced.
+
+Gameplay
+
+Pac-Mania is an isometric maze game. The player controls Pac-Man, a yellow circular creature that must eat all of the pellets in each stage while avoiding the five colored ghosts - Blinky, Pinky, Inky, Clyde and Sue. Eating large Power Pellets will cause the ghosts to turn blue and flee, allowing Pac-Man to eat them for bonus points and send them to the house in the middle of the stage. Clearing the stage of pellets will allow Pac-Man to move to the next.
+
+New to this game is the ability to jump over the ghosts, allowing Pac-Man to evade capture. Later areas of the game will introduce two new ghosts - the green ghost Funky and the steel gray ghost Spunky - who also have the ability to jump on later levels. While Pac-Man can still jump over Funky, it is impossible to jump over Spunky. Eating a certain number of pellets will cause a bonus item to appear in the middle of the stage, which Pac-Man can eat up for points. Some of these bonus items are called Special Items, which are items from later levels, or are Red and Green Power Pellets. Red Power Pellets double the point values of blue ghosts (this bonus is lost if Pac-Man loses a life), and Green Power Pellets temporarily increase Pac-Man's speed. If the player makes Pac-Man stay on the same stage for too long, his jump strength weakens until he cannot jump at all, making him unable to jump over Funky as well.
+
+Ports
+Pac-Mania arrived on most of the 8-bit systems in 1988, and a very favourable home conversion appeared on the Commodore 64. The conversions were designed and ported by Teque Software, otherwise known as Peter Harrap (Monty Mole) and Shaun Hollingworth (ex-Gremlin), and the games were published by Grandslam Entertainment. A full screen 32-colour Commodore Amiga version was released in 1988 and highly rated, as was the X68000 version, and Acorn Archimedes. The 16-bit Atari ST conversion ran in 55% of the screen area, and used 16 colours.
+
+Pac-Mania was later ported to the Nintendo Entertainment System in 1990, and the Sega Genesis in 1991 by Tengen, with the NES version being unlicensed. Neither port was released in Japan. The NES port was outsourced to Westwood Associates and the Genesis port was outsourced to Sculptured Software. More recently, a port to the Atari STE, based on the ST version but modified to take advantage of the STE's features, was developed.
+
+Reception
+
+In Japan, Game Machine listed Pac-Mania on their December 15, 1987 issue as being the fifth most-successful table arcade unit of the month. In North America, Atari sold 1,412 arcade cabinets in 1987, earning about $2.82 million ($ million adjusted for inflation) in cabinet sales.
+
+Entertainment Weekly gave the Genesis version a B- in 1991.
+
+The game was runner-up in the category of Best Coin-Op Conversion of the Year at the Golden Joystick Awards, behind Operation Wolf.
+
+Legacy
+The arcade version of Pac-Mania appeared in Namco Museum Volume 5, the 2001 Namco Museum release, Namco Museum: 50th Anniversary and Namco Museum Virtual Arcade. In 2001, it was one of the games included in Pac-Man Collection for the Game Boy Advance. Later, in 2002, the arcade version was re-released and included as an unlockable bonus in Pac-Man World 2. In 2007, Pac-Mania was also released in Namco Museum Remix with Pac & Pal, Pac 'n Roll, Super Pac-Man and other non-Pac-Man games and was re-released in 2010 as part of the follow-up compilation Namco Museum Megamix, along with 17 other Namco arcade games and six remix games, five of which appeared in Namco Museum Remix.
+
+In 2010, the design of Pac-Man and the ghosts from Pac-Mania appear in Pac-Man Championship Edition DX and the game itself is released as an app in the App Store for iOS devices. Pac-Mania was also re-released as part of the Pac-Man's Arcade Party arcade machine in 2010 for Pac-Man's 30th anniversary. In February 2014 it was included in the Pac-Man Museum on the PlayStation 3, Xbox 360 and Windows PC Via Steam. In 2018, it was included in the Pac-Man's Pixel Bash arcade cabinet, along with other Pac-Man, and different Namco games.
+
+The music from Pac-Man's Park was later used in Pac-Man and the Ghostly Adventures as the "power up" theme for "Pac" (the show's version of Pac-Man). The same theme, along with Block Town's music, was remixed and used in Super Smash Bros. for Nintendo 3DS and Wii U and later Super Smash Bros. Ultimate.
+
+Notes
+
+References
+
+External links
+
+Pac-Mania at the Arcade History database
+
+1987 video games
+Acorn Archimedes games
+Amiga games
+Amstrad CPC games
+Arcade video games
+Pac-Man arcade games
+Atari arcade games
+Commodore 64 games
+Maze games
+IOS games
+MSX2 games
+Namco arcade games
+Nintendo Entertainment System games
+Master System games
+Sega Genesis games
+Sharp X68000 games
+Tengen (company) games
+Unauthorized video games
+ZX Spectrum games
+Video games developed in Japan
+Video games scored by Yuriko Keino
+Video games with oblique graphics
+Virtual Console games
+Zeebo games

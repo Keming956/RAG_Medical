@@ -1,0 +1,12 @@
+In der Automatentheorie und bei Schaltwerken versteht man unter einer (Zustands)Übergangstabelle eine Tabelle, die die Folgezustände eines Automaten in Abhängigkeit von seinen Eingangszuständen und dem Input auflistet. Somit stellen Übergangstabellen eine Alternative zu den Zustandsübergangsdiagrammen dar.
+
+Übliche Darstellungsweisen
+
+Eindimensionale Zustandstabellen 
+
+Eindimensionale Zustandstabellen listen die Inputs auf der linken, die Outputs auf der rechten Seite. Hier ist ein einfaches Beispiel eines Zustandsautomaten mit zwei Zuständen und zwei Inputs:
+
+Literatur 
+ Michael Sipser: Introduction to the Theory of Computation. PWS Publishing Co., Boston 1997, ISBN 0-534-94728-X
+
+Automatentheorie

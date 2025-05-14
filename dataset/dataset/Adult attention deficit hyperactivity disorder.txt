@@ -1,0 +1,131 @@
+Adult attention deficit hyperactivity disorder is the psychiatric condition of attention deficit hyperactivity disorder (ADHD) in adults. About one-third to two-thirds of children with symptoms from early childhood continue to demonstrate ADHD symptoms throughout life.
+
+Three types of ADHD are identified in the DSM-5 as:
+ Predominantly Inattentive Type (ADHD-PI or ADHD-I)
+ Predominantly Hyperactive or Hyperactive-Impulsive Type (ADHD-PH or ADHD-HI)
+ Combined Type (ADHD-C)
+In later life, the hyperactive/impulsive subtype manifests less frequently. The hyperactivity symptoms tend to turn more into "inner restlessness", starting in adolescence and carrying on in adulthood.
+
+Adult ADHD is typically marked by inattention and hyperfocus, hyperactivity (often internalised as restlessness), emotional dysregulation, and excessive mind wandering. Specifically, adults with ADHD present with persistent difficulties in following directions, remembering information, concentrating, organizing tasks, completing work within specified time frames and appearing timely in appointments. These difficulties affect several different areas of an ADHD adult's life, causing emotional, social, vocational, marital, legal, financial and/or academic problems.
+
+Diagnosis follows one or several psychiatric assessment which may include examination of personal history, observational evidence from family members or friends, academic reports, often going back to school years, as well as evaluation to diagnose additional possible conditions which often coexist with ADHD, called comorbidities or comorbid disorders.
+
+The condition often runs in families, and while its exact causes are not fully known, genetic or environmental factors are understood to play a part. ADHD  often - but not always - is a childhood-onset condition. Children under treatment will migrate to adult health services if necessary as they transit into adulthood, however diagnosis of adults involves full examination of their history.
+
+Treatment of ADHD is usually based on a combination of behavioral interventions and medication. Stimulant medication is the first line treatment for ADHD in adults, particularly amphetamines. Non-stimulant medications, such as atomoxetine, are also recommended for some ADHD adults. Psychotherapy such as cognitive behavioural therapy is helpful, particularly in combination with medication. Similarly, exercise, sufficient sleep and nutritious food are also known to have a positive effect. Within school and work, reasonable accommodations may be put in place, such as by structuring work tasks, and setting up clear rules and limits for tasks.
+
+Classification
+
+The DSM-5, or Diagnostic and Statistical Manual of Mental Disorders, 2013 edition, defines three types of ADHD:
+ a Predominantly Inattentive presentation
+ a Predominantly Hyperactive-Impulsive presentation
+ a Combined Type, that displays symptoms from both presentation
+
+To meet the diagnostic criteria of ADHD, an individual must display:
+ at least six inattentive-type symptoms for the inattentive type
+ at least six hyperactive-type symptoms for the hyperactive-impulsive type
+ all of the above to have the combined type
+
+The symptoms (see below) were required to have been present since before the individual was seven years old, and must have interfered with at least two spheres of his or her functioning (at home and at school or work, for example) over the last six months. The DSM-IV criteria for ADHD were, however, tailored towards the type of symptoms that children would show, and might therefore have underestimated the prevalence of ADHD in adults. In 2013, the newer DSM-5 reviewed some of these criteria, with more lenient requirements for the diagnosis, especially in adults, and the age limit for symptoms first arising raised to twelve years.
+
+Signs and symptoms
+ADHD is a chronic condition, beginning in early childhood that can persist throughout a person's lifetime. It is estimated that 33–66% of children with ADHD will continue to have significant ADHD-related symptoms persisting into adulthood, resulting in a significant impact on education, employment, and interpersonal relationships.
+
+Individuals with ADHD exhibit deficiencies in self-regulation and self-motivation which in turn foster problematic characteristics such as distractibility, procrastination, and disorganization. They are often perceived by others as chaotic, with a tendency to need high stimulation to be less distracted and function effectively. The learning potential and overall intelligence of an adult with ADHD, however, is no different from the potential and intelligence of adults who do not have the disorder.
+
+Whereas teachers and caregivers responsible for children are often attuned to the symptoms of ADHD, employers and others who interact with adults are less likely to regard such behaviors as a symptom. In part, this is because symptoms do change with maturity; adults who have ADHD are less likely to exhibit obvious hyperactive behaviors. Instead, they may report constant mental activity and inner restlessness as their hyperactivity internalizes.
+
+Symptoms of ADHD (see table below) can vary widely between individuals and throughout the lifetime of an individual. As the neurobiology of ADHD is becoming increasingly understood, it is becoming evident that difficulties exhibited by individuals with ADHD are due to problems with the parts of the brain responsible for executive functions (see below: Pathophysiology). These result in problems with sustaining attention, planning, organization, prioritization, time management, impulse control, and decision making.
+
+The difficulties generated by these deficiencies can range from moderate to extreme, resulting in the inability to effectively structure their lives, plan daily tasks, or think of and act accordingly even when aware of potential consequences. These can lead to poor performance in school and work and can be followed by underachievement in these areas. In young adults, poor driving records with traffic violations may surface.
+
+As problems accumulate, a negativistic self-view becomes established and a vicious circle of failure is set up. Up to 80% of adults may have some form of psychiatric comorbidity, such as depression or anxiety. Many with ADHD also have associated learning disabilities, such as dyslexia, which contributes to their difficulties.
+
+Studies on adults with ADHD have shown that, more often than not, they experience self-stigma and depression in childhood, commonly resulting from feeling neglected and different from their peers. These problems may play a role in the high levels of depression, substance abuse, and relationship problems that affect adults with ADHD later in life.
+
+Gender differences - ADHD in females 
+Meta-analyses of ADHD research has revealed that most previous structural imaging had been done almost exclusively on male subjects with ADHD until recently.
+
+It has been previously thought that ADHD was almost three times more likely in males than females because males make up a majority of diagnosed cases in children. However, researchers suggest that this could be due to bias in the diagnostic criteria of ADHD given that most research has been done on caucasian males. Another theory is that females are two times more likely than males to have ADHD-PI (inattentive-type), meaning that their symptoms are less disruptive and therefore under-diagnosed in childhood. A 2014 literature review found that females are statistically more likely to be diagnosed with ADHD in adulthood when seeking support for other mental health disorders such as depression or anxiety, which they hypothesized to be due to the way ADHD presents itself in females.
+
+With variables such as age, race, income, and education considered, females with ADHD are still three times more likely to suffer from insomnia, anxiety, depression, suicidal ideation, substance abuse, severe poverty, and sexual and physical abuse in childhood than females without ADHD.
+
+More conclusive research needs to be done to determine the extent of how ADHD may affect the sexes differently.
+
+Pathophysiology
+Over the last 30 years, research into ADHD has greatly increased. There is no single, unified theory that explains the cause of ADHD. Genetic factors are presumed important, and it has been suggested that environmental factors may affect how symptoms manifest.
+
+It is becoming increasingly accepted that individuals with ADHD have difficulty with "executive functioning". In higher organisms, such as humans, these functions are thought to reside in the frontal lobes. They enable recall of tasks that need accomplishing, organization to accomplish these tasks, assessment of consequences of actions, prioritization of thoughts and actions, keeping track of time, awareness of interactions with surroundings, the ability to focus despite competing stimuli, and adaptation to changing situations.
+
+Several lines of research based on structural and/or functional imaging techniques, stimulant drugs, psychological interventions have identified alterations in the dopaminergic and adrenergic pathways of individuals with ADHD. In particular, areas of the prefrontal cortex appear to be the most affected. Dopamine and norepinephrine are neurotransmitters which play an important role in brain function. The uptake transporters for dopamine and norepinephrine are overly active and clear these neurotransmitters from the synapse a lot faster than in normal individuals. This is thought to increase processing latency and salience, and diminish working memory.
+
+Diagnosis
+While there is no single medical, physical, or genetic test for ADHD, an evaluation can be provided by a qualified mental health care professional or physician who gathers information from multiple sources. These can include ADHD symptom checklists, standardized behavior rating scales, a detailed history of past and current functions including the person's history of childhood behavior and school experiences, and information obtained from family members, friends, or significant others. The evaluations also seek to rule out other conditions or differential diagnoses such as depression, anxiety, or substance use disorders. Other diseases such as hyperthyroidism may exhibit symptoms similar to those of ADHD, and it is imperative to rule these out as well. Autism is sometimes mistaken for ADHD, due to impairments in executive functioning found in some people with autism. However, autism also typically involves difficulties in social interaction, restricted and repetitive patterns of behavior and interests, and problems with sensory processing, including hypersensitivity. Along with this, the quality of diagnosing an adult with ADHD can often be skewed being that the majority of adults with ADHD also have other complications, ranging from anxiety and depression to substance abuse.
+
+Formal tests and assessment instruments such as IQ tests, standardized achievement tests, or neuropsychological tests typically are not helpful for identifying people with ADHD. Furthermore, no currently available physiological or medical measure is definitive diagnostically. However, psycho-educational and medical tests are helpful in ruling in or out other conditions (e.g. learning disabilities, allergies) that may be associated with ADHD-like behaviors.
+
+The use of neuroimaging is also steadily increasing to help in an ADHD diagnosis. Some of these include:
+
+ single-photon emission computed tomography (SPECT)
+ positron emission tomography (PET)
+ functional magnetic resonance imaging (fMRI)
+
+United States medical and mental health professionals follow the Diagnostic and Statistical Manual of Mental Disorders (DSM) of the American Psychiatric Association; the International Classification of Diseases (ICD) published by the World Health Organisation (WHO) is often used by health professionals elsewhere.
+
+Until recently ADHD in adults was considered as a continuation of child-onset ADHD. It is now established, however, that also an adult-onset version exists. In a large longitudinal study from 2015 it was found that 28 of the 31 persons who had an ADHD-diagnosis at the age of 38 never had received an ADHD-diagnosis when tested at the ages of 11, 13 and 15.
+
+Treatment
+
+As a first step, adults with ADHD should receive psychoeducation about ADHD, so they understand the diagnosis. This is vital to ensure that adults with ADHD can make informed decisions about their treatment, and has other benefits such as improved relationships with others. Treatment often begins with medication selected to address the symptoms of ADHD, along with any comorbid conditions that may be present. Medication alone, while sometimes effective in correcting the physiological symptoms of ADHD, will not address the paucity of skills which many adults will have acquired because of their ADHD (e.g., one might regain ability to focus with medication, but skills such as organizing, prioritizing and effectively communicating have taken others time to cultivate). Suggested treatment for adult ADHD is to include a combined approach of psychosocial interventions (behavioural or cognitive), medication, vocational interventions, and regular follow-up support.
+
+Medications
+Medications to help treat ADHD include psychostimulants and non-stimulants. Guidelines and availability of the different options available for medication may vary depending on what country the person lives in.
+
+Stimulants 
+
+Stimulants have moderate-to-high effects, which have higher average effects than non-stimulant medications. For adults, amphetamines in particular are the most efficacious medications and they (along with methylphenidate) have the least adverse effects. While there is some debate about whether to treat ADHD adults with substance use disorder (SUD) with stimulants, the 2019 Updated European Consensus Statement on diagnosis and treatment of adult ADHD notes that "in SUD patients, treatment of ADHD [with stimulants] can be useful to reduce ADHD symptoms without worsening the SUD, and should not be avoided".
+
+Amphetamine and its derivatives, prototype stimulants, are available in immediate and long-acting formulations. Amphetamines act by multiple mechanisms including reuptake inhibition, displacement of transmitters from vesicles, reversal of uptake transporters and reversible MAO inhibition. Thus amphetamines actively increases the release of these neurotransmitters into the synaptic cleft. In the short term, methylphenidate, a benzylpiperidine and phenethylamine derivative stimulant medication, is well tolerated. As of a 2008 review, long-term studies had not been conducted in adults, although no serious side effects had been reported to regulatory authorities.
+
+In the UK, clinical guidelines recommend that psychostimulants are used as a first-line treatment. For people who cannot be treated with stimulants due to a substance use disorder or other contraindications, atomoxetine is the suggested first line treatment in the UK. In Canada, clinical guidelines suggest that first line treatment be methylphenidate or lisdexamfetamine. Non-stimulant medications are generally second-line treatments in Canada.
+
+Non-stimulant medications 
+The non-stimulant atomoxetine (Strattera), may be an effective treatment for adult ADHD. Although atomoxetine has a half life similar to stimulants it exhibits delayed onset of therapeutic effects similar to antidepressants. Unlike the stimulants which are controlled substances, atomoxetine lacks addictive potential. It is particularly effective for those with the predominantly inattentive concentration type of attention deficit due to being primarily a norepinephrine reuptake inhibitor. It is often prescribed in adults who cannot tolerate the side effects of amphetamines or methylphenidate. It is also approved for ADHD by the US Food and Drug Administration. A rare but potentially severe side effect includes liver damage and increased suicidal ideation.
+
+Bupropion and desipramine are two antidepressants that have demonstrated some evidence of effectiveness in the management of ADHD particularly when there is comorbid major depression, although antidepressants have lower treatment effect sizes.
+
+Psychotherapy
+Psychotherapy, including behavioral therapy, can help an adult with ADHD monitor his or her own behavior and provide the skills for improving organization and efficiency in daily tasks. Research has shown that, alongside medication, psychological interventions in adults can be effective in reducing symptomatic deficiencies. Cognitive behavioral therapy in particular can provide benefits, especially alongside medication, in the treatment of adult ADHD.
+
+Epidemiology
+
+In North America and Europe, it is estimated that three to five percent of adults have ADHD. Of those adults with ADHD, an estimated 10% of those have received a formal diagnosis. It has been estimated that 5% of the global population has ADHD (including cases not yet diagnosed). In the context of the World Health Organization World Mental Health Survey Initiative, researchers screened more than 11,000 people aged 18 to 44 years in ten countries in the Americas, Europe and the Middle East. On this basis they estimated the adult ADHD proportion of the population to average 3.5 percent with a range of 1.2 to 7.3 percent, with a significantly lower prevalence in low-income countries (1.9%) compared to high-income countries (4.2%). The researchers concluded that adult ADHD often co-occurs with other disorders, and that it is associated with considerable role disability. Although they found that few adults are treated for ADHD itself, in many instances treatment is given for the co-occurring disorders.
+
+History 
+
+Early work on disorders of attention was conducted by Alexander Crichton in 1798 writing about "mental restlessness". The underlying condition came to be recognized from the early 1900s by Sir George Still. Efficacy of medications on symptoms was discovered during the 1930s and research continued throughout the twentieth century. ADHD in adults began to be studied from the early 1970s and research has increased as worldwide interest in the condition has grown.
+
+In the 1970s researchers began to realize that the condition now known as ADHD did not always disappear in adolescence, as was once thought. The expansion of the definition for ADHD beyond only being a condition experienced by children was mainly accomplished by refocusing the diagnosis on inattention instead of hyperactivity. At about the same time, some of the symptoms were also noted in many parents of the children under treatment.
+
+Society and culture
+
+ADHD in adults, as with children, is recognized as an impairment that may constitute a disability under U.S. federal disability nondiscrimination laws, including such laws as the Rehabilitation Act of 1973 and the Americans With Disabilities Act (ADA, 2008 revision), if the disorder substantially limits one or more of an individual's major life activities. For adults whose ADHD does constitute a disability, workplaces have a duty to provide reasonable accommodations, and educational institutions have a duty to provide appropriate academic adjustments or modifications, to help the individual work more efficiently and productively.
+
+In a 2004 study it was estimated that the yearly income discrepancy for adults with ADHD was $10,791 less per year than high school graduate counterparts and $4,334 lower for college graduate counterparts. The study estimates a total loss in productivity in the United States of over $77 billion USD.
+
+Controversy
+
+ADHD controversies include concerns about its existence as a disorder, its causes, the methods by which ADHD is diagnosed and treated including the use of stimulant medications in children, possible overdiagnosis, misdiagnosis as ADHD leading to undertreatment of the real underlying disease, alleged hegemonic practices of the American Psychiatric Association and negative stereotypes of children diagnosed with ADHD. These controversies have surrounded the subject since at least the 1970s.
+
+References
+
+Further reading
+
+External links 
+
+ 
+
+Attention Deficit Hyperactivity Disorder
+Attention deficit hyperactivity disorder
+
+ru:Синдром дефицита внимания и гиперактивности#СДВГ у взрослых

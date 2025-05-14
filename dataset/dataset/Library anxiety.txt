@@ -1,0 +1,56 @@
+Library anxiety refers to the "feeling that one’s research skills are inadequate and that those shortcomings should be hidden. In some students this manifests as an outright fear of libraries and the librarians who work there." The term stems from a 1986 article by Constance Mellon, a professor of library science in the U.S. state of North Carolina, titled "Library anxiety: A grounded theory and its development" in the College & Research Libraries journal.
+
+Background 
+
+When Mellon published her article in 1986, the term "library anxiety" was new, but the phenomenon had been observed and reported by previous library researchers. In 1972, Mary Jane Swope and Jeffrey Katzer discovered, through interviews, that students at their university were intimidated by the library and afraid to seek help from library personnel. In 1982, Geza Kosa surveyed university students in Australia and found similar results. None of these researchers had a specific term to apply to the phenomenon they were seeing until Mellon's study.
+
+Mellon's landmark two-year qualitative research study, which included 6,000 students at a Southern university in the United States, found that 75 to 85 percent described their initial response to library research in terms of fear. Mellon used the term "library anxiety" to describe the feelings of discomfort and fear a group of undergraduate English composition students described when they were starting an information search that required using the academic library.  The study revealed four primary reasons to explain feelings of library anxiety. The students:
+
+were intimidated by the size of the library,
+lacked knowledge about where everything was located,
+lacked knowledge about how to begin the research process, and
+lacked knowledge about what to do.
+
+Mellon further discovered that these negative feelings often overwhelmed students to the point that they could not function effectively in the library. It was found that they had a feeling of inferiority when they compared their library skills to those of other students, and that these feelings of inadequacy were a source of shame that made them hesitant to ask library staff for help. Mellon alerted faculty members outside the library that these behaviors constituted problems that needed to be addressed. She likened library anxiety to mathematical anxiety and test anxiety. She suggested that library anxiety should be recognized and the anxious person provided with experiences in which they could succeed.
+
+Mellon advocates the use of qualitative research, as it provided a deeper insight into information behavior. She comments that her study applied the rarely used methods of qualitative research to a library problem, and states that while the study was important, the implications of the research technique were far greater. She used the technique of personal writing or journal writing to collect data in which the writer is "talking on paper" with no concern for audience, style, grammar, or spelling, which allows the writer to tap into a stream of consciousness. The students' personal writing was analyzed for recurrent themes.
+
+Impact 
+
+Ironically, despite Mellon's goal to increase the use of qualitative research methods in library science, library anxiety did not become popular as a research topic until Sharon Bostick created the Library Anxiety Scale, a quantitative tool to measure it, in 1992. Doris J. Van Kampen created a new instrument in 2004, the Multidimensional Library Anxiety Scale (MLAS), to take into account off-campus use of library resources and master's and doctoral student attitudes. Gillian S. Gremmels reexamined Mellon's work and its impact on the library profession in a 2015 article.
+
+Later research 
+
+The rate of research on the topic increased dramatically after 1993.
+
+In a 2007 study of graduate students, Kwon, Onwuegbuzie and Alexander found that "weak critical thinking dispositions in the areas of self-confidence, inquisitiveness and systematicity were particularly associated with high levels of library anxiety." Systematicity was defined as being disposed toward organizing, logical, focused and attentive inquiry. However, the scope of their study did not allow these findings to be generalized to undergraduates.
+
+Another study conducted in 2007 by Melissa Gross and Don Latham also attributed heightened library anxiety to lack of education in information literacy skills. To combat this, Gross and Latham suggest that K-12 programs, along with higher education settings, should equip students with information literacy skills such as the ability to effectively find and navigate information, critically evaluate authentic sources, and use information accurately and creatively.
+
+New York Columbia University librarian Anice Mills reported in 2016 that contributors to library anxiety were also the design and architecture of the building. Patrons may become anxious at the thought of navigating large and seemingly complicated building environments.
+
+Suggestions for dealing with library anxiety 
+
+Most of the literature is written from the point of view of libraries and how they can create more welcoming environments through library instruction programs and other opportunities to interact with librarians; modifying librarian attitudes and behaviors to be seen as visible, approachable and unintimidating; using better signage, wording directions and instructions in jargon-free terminology; and having staff wear name tags. "Personal interaction appears to be the central component of reduction strategies and suggestions aimed at alleviating students' fears of the academic library," according to Heather Carlile.
+
+Rachel A. Fleming-May, Regina N. Mays and Rachel Radom at the University of Tennessee, Knoxville piloted a collaboration with the Volunteer Bridge Program, a summer program aimed improving retention rates of at-risk students. The libraries created a three-session instruction program used in 2012 and 2013, and assessed student learning using a pre-test and post-test. The post-test found that 91 percent of students felt more comfortable with the library after the workshops, and 81 percent reported being more likely to ask a librarian for help with research.
+
+The Washington State University Libraries has a list of strategies to help students overcome this anxiety.
+
+New York Columbia University librarian Anice Mills suggested empathetic one-on-one discussions with students. She also suggested accessibility as an important tool to overcome patron anxiety.
+
+According to a 2011 paper by librarian Leslie J. Brown, Learning Commons can aid in reducing library anxiety in academic library patrons, allowing "users to get the assistance needed by going to only one place, which can be critical to reluctant users". Additionally, virtual reference services, such as Ask a Librarian and similar applications, as well as email reference services, are key for enabling patrons to gain access to library functions when anxiety issues may prevent students from engaging with a librarian at a physical reference desk. Brown notes that an attempt to demonstrate all of the library's services in one go (realizing that library anxiety may prevent the student from returning unless they know everything in the moment) may, paradoxically, overwhelm students, preventing them from returning, due to "user anxiety and feelings of incompetence".
+
+To this end, a 2016 paper by Elizabeth DiPrince, Amber Wilson, Chrissy Karafit, Amanda Bryant, and Chris Springer discusses the need for a print guide to library services as well. While DiPrince et al. note that "Obviously a print handbook cannot meet all need for information literacy instruction, considering the diversity of information needs on a college campus", a simple, easy-to-understand guide to the basics can overcome the need for a web-based guide that users "navigate through a number of pages and links to find the desired information", as websites can contain a lot of what is sometimes termed "library noise". In a test conducted at the University of Central Arkansas, found that a simple, lighthearted Library Survival Guide was successful at developing library engagement, and that students "showed an increase in student awareness of library services after distribution of the survival guides", and that "Both faculty and students informally expressed appreciation for the clear and concise information about library services and research strategies presented in the guide", noting that faculty incorporated the guide into their courses as an introduction to library services.
+
+References
+
+Onwuegbuzie, A. J., Jiao, Q. G., & Bostick, S. L. (2004).  Library anxiety: Theory, research, and applications. Landham, Md.: Scarecrow Press, Inc.
+
+External links
+Library Anxiety and the Distance Learning Graduate Student: A Case Study of Eastern Michigan University
+An Exploratory Case Study of Library Anxiety and Basic Skills English Students in a California Community College District
+The University of Central Arkansas Library Survival Guide
+
+Library science
+Phobias

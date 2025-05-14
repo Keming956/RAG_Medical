@@ -1,0 +1,23 @@
+The Zung Self-Rating Anxiety Scale (SAS) was designed by William W. K. Zung M.D, (1929-1992) a professor of Psychiatry from Duke University, to quantify a patient's level of anxiety.  
+
+The SAS is a 20-item self-report assessment device built to measure anxiety levels, based on scoring in 4 groups of manifestations: cognitive, autonomic, motor and central nervous system symptoms.  Answering the statements a person should indicate how much each statement applies to him or her within a period of one or two weeks prior to taking the test. Each question is scored on a Likert-type scale of 1-4 (based on these replies: "a little of the time," "some of the time," "good part of the time," "most of the time"). Some questions are negatively worded to avoid the problem of set response. Overall assessment is done by total score.   
+
+The total raw scores range from 20-80.  The raw score then needs to be converted to an "Anxiety Index" score using the chart on the paper version of the test that can be found on the link below.  The "Anxiety Index" score can then be used on this scale below to determine the clinical interpretation of one's level of anxiety:  
+
+ 20-44 Normal Range
+ 45-59 Mild to Moderate Anxiety Levels
+ 60-74 Marked to Severe Anxiety Levels
+ 75 and above Extreme Anxiety Levels
+
+See also
+ Zung Self-Rating Depression Scale
+ Diagnostic classification and rating scales used in psychiatry
+ Taylor Manifest Anxiety Scale
+
+References
+
+External links 
+SAS – Online Anxiety Test 
+ Copy of paper version of test with Raw Score-Index Score Conversion table
+
+Psychiatric instruments: anxiety

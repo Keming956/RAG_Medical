@@ -1,0 +1,55 @@
+The Beck Anxiety Inventory (BAI), created by Aaron T. Beck and other colleagues, is a 20-question multiple-choice self-report inventory that is used for measuring the severity of anxiety in children and adults. The questions used in this measure ask about common symptoms of anxiety that the subject has had during the past week (including the day you take it) (such as numbness and tingling, sweating not due to heat, and fear of the worst happening). It is designed for individuals who are of 17 years of age or older and takes 5 to 10 minutes to complete. Several studies have found the Beck Anxiety Inventory to be an accurate measure of anxiety symptoms in children and adults.
+
+The BAI contains 21 questions, each answer being scored on a scale value of 0 (not at all) to 3 (severely). Higher total scores indicate more severe anxiety symptoms. The standardized cutoffs are:
+ 0–7: Minimal
+ 8-15: Mild
+ 16-25: Moderate
+ 26-63: Severe
+
+The BAI has been criticized for its predominant focus on physical symptoms of anxiety (most akin to a panic response). As such, it is often paired with the Penn State Worry Questionnaire, which provides a more accurate assessment of the cognitive components of anxiety (i.e., worry, catastrophizing, etc.) commonly seen in generalized anxiety disorder.
+
+Two factor approach to anxiety
+Though anxiety can be thought of as having several components, including cognitive, somatic, affective, and behavioral components, Beck et al. included only two components in the BAI's original proposal: cognitive and somatic. The cognitive subscale provides a measure of fearful thoughts and impaired cognitive functioning, and the somatic subscale measures the symptoms of physiological arousal.
+
+Since the introduction of the BAI, other factor structures have been implemented, including a four factor structure used by Beck and Steer with anxious outpatients that included neurophysiological, autonomic symptoms, subjective, and panic components of anxiety. In 1993, Beck, Steer, and Beck used a three factor structure including subjective, somatic, and panic subscale scores to differentiate among a sample of clinically anxious outpatients
+
+Because the somatic subscale is emphasized on the BAI, with 15 out of 21 items measuring physiological symptoms, perhaps the cognitive, affective, and behavioral components of anxiety are being deemphasized. Therefore, the BAI functions more adequately in anxiety disorders with a high somatic component, such as panic disorder. On the other hand, the BAI won't function as adequately for disorders such as social phobia or obsessive-compulsive disorder, which have a stronger cognitive or behavioral component.
+
+Clinical use
+The BAI was specifically designed as "an inventory for measuring clinical anxiety" that minimizes the overlap between depression and anxiety scales. While several studies have shown that anxiety measures, including the State-Trait Anxiety Inventory (STAI), are either highly correlated or indistinguishable from depression, the BAI is shown to be less contaminated by depressive content.
+
+Since the BAI only questions symptoms occurring over the last week, it is not a measure of trait anxiety or state anxiety. The BAI can be described as a measure of "prolonged state anxiety", which, in a clinical setting, is an important assessment.
+A version of the BAI, the Beck Anxiety Inventory-Trait (BAIT), was developed in 2008 to assess trait anxiety rather than immediate or prolonged state anxiety, much like the STAI. However, unlike the STAI, the BAIT was developed to minimize the overlap between anxiety and depression.
+
+A 1999 review found that the BAI was the third most used research measure of anxiety, behind the STAI and the Fear Survey Schedule, which provides quantitative information about how clients react to possible sources of maladaptive emotional reactions.
+
+The BAI has been used in a variety of different patient groups, including adolescents. Though support exists for using the BAI with high-school students and psychiatric inpatient samples of ages 14 to 18 years, the recently developed diagnostic tool, Beck Youth Inventories, Second Edition, contains an anxiety inventory of 20 questions specifically designed for children and adolescents ages 7 to 18 years old.
+
+Limitations
+Though the BAI was developed to minimize its overlap with the depression scale as measured by the Beck Depression Inventory, a correlation of r=.66 (p<.01) between the BAI and BDI-II was seen among psychiatric outpatients, suggesting that the BAI and the BDI-II equally discriminate between anxiety and depression.
+
+Another study indicates that, in primary care patients with different anxiety disorders including social phobia, panic disorder, panic disorder with or without agoraphobia, agoraphobia, or generalized anxiety disorder, the BAI seemed to measure the severity of depression. This suggests that perhaps the BAI cannot adequately differentiate between depression and anxiety in a primary care population.
+
+In a study examining the BAI's use on older adults with generalized anxiety disorder, no discriminant validity was seen between the BAI and measures of depression. This could perhaps be due to the increased difficulty in discriminating between anxiety and depression in older adults due to "de-differentiation" of the symptoms of anxiety with the  aging process, as hypothesized by Krasucki et al.
+
+Many questions of the Beck Anxiety Inventory include physiological symptoms, such as palpitations, indigestion, and trouble breathing.  Because of this, it has been shown to elevate anxiety measures in those with physical illnesses like postural orthostatic tachycardia syndrome, when the Anxiety Sensitivity Index did not.
+
+Finally, the mean and median reliability estimates of the BAI tend to be lower when given to a nonpsychiatric population, such as college students, than when given to a psychiatric population.
+
+See also
+ Beck Depression Inventory
+ Beck Hopelessness Scale
+ Diagnostic classification and rating scales used in psychiatry
+ Major Depression Inventory
+
+References
+
+Further reading
+
+External links
+
+ EffectiveChildTherapy.org guidelines on anxiety problems & disorders
+ Society of Clinical Child and Adolescent Psychology
+ EffectiveChildTherapy.Org information on fear, worry, and anxiety
+
+Psychiatric instruments: anxiety

@@ -1,0 +1,11 @@
+OCDS ist die Abkürzung für on chip debug system und wird bei modernen Mikroprozessoren und -controllern dazu verwendet, die Fehlersuche in Hard- und Software zu erleichtern.
+
+OCDS wird über eine erweiterte JTAG-Schnittstelle angesprochen, wobei zwischen dem eigentlichen Debugger und dem Prozessor die Verbindung über ein sogenanntes Link hergestellt wird. Dieses kann z. B. in einem sogenannten Wiggler bestehen, der die JTAG-Schnittstelle mit dem Drucker- oder USB-Port eines PC verbindet.
+
+Der große Vorteil von OCDS gegenüber älteren Systemen zum Test hardwarenaher Programmierung (z. B. spezielle bond-out-Versionen von Chips oder spezielle Emulations-Chips anstelle des Prozessors) besteht vor allem darin, dass sich das Debug-System sowohl in den Prototyping- als auch in den Release-Versionen der Hardware wiederfindet. Damit ist neben einer Fehlersuche in fertigen Seriengeräten z. B. auch eine Programmierung von nichtflüchtigem Speicher per OCDS möglich.
+
+Weblinks 
+ Open OCD Project
+
+Mikroprozessortechnik
+Abkürzung

@@ -1,0 +1,37 @@
+Le cunningham est un dispositif de réglage de voile sur un voilier. Il consiste en une manœuvre courante de type hale-bas servant à régler la position d'un second point d'amure situé au-dessus du point d'amure classiquement fixé au niveau du vit-de-mulet, à l'articulation de la bôme et du mât. Son intérêt est de contribuer à ajuster à volonté le creux de la voile.
+
+Description 
+Ce réglage a été inventé par Briggs Swift Cunnigham II, skipper ayant remporté sur Columbia la coupe de l'America en 1958, et utilisé pour la première fois à cette occasion.
+
+Il est constitué par un cordage formant un palan :
+ une extrémité est fixée sur le mât au point d'amure nominal (à l'angle formé par le mât et la bôme),
+ il passe dans un œillet de cunningham disposé plus haut sur l'envergure de la voile (grand-voile en général), 
+ il revient au point d'amure vers un dispositif permettant de régler sa tension (palan, taquet, winch...).
+
+Le cunningham permet ainsi de choisir la position effective du point d'amure de la grand-voile ; en ramenant plus ou moins l'œillet vers le point d'amure, on modifie la profondeur et la position du creux de la voile afin d'optimiser son rendement propulsif en fonction de la force du vent et des conditions de mer.
+
+Sur les bateaux de compétition, le contrôle du cunningham est souvent ramené au cockpit de façon à pouvoir ajuster en continu le profil de la voile en fonction des allures.
+
+Ce système de réglage n'est pas exclusif aux voiles bermudiennes, il peut aussi être installé sur des grand-voiles à corne.
+
+Principes de réglage 
+Le cunningham joue sur l'élasticité du tissu à voile, plus importante avec les voiles en tissu classique que celles en fims composites (qui cependant s'allongent aussi sous traction) . Sur certaines séries de régate  comme le Laser olympique (illustré en tête d'article) c'est un réglage crucial pour obtenir la vitesse optimum.
+
+Lorsque le vent force la voile s'allonge dans le sens avant arrière et le creux s'accentue et se déplace vers l'arrière, des plis horizontaux apparaissent.
+
+En étarquant le cunningham, on annule cette déformation en appliquant une tension verticale qui rétablit la forme de la voile. Si l'étarquage est trop important un pli vertical apparaît, nuisible à l'écoulement laminaire du vent dans la voile. 
+
+Le cunningham doit donc être réglé pour faire tout juste disparaître les plis horizontaux sans créer de pli vertical. Typiquement il est plus étarqué par grand vent que par faible brise et plus étarqué aux allures de près qu'au grand largue. Un bon barreur modifie plusieurs dizaines de fois ce réglage lors d'une régate disputée par vent irrégulier.
+
+Notes et références
+
+Voir aussi
+
+Liens externes 
+ Site de Briggs Cunningham, inventeur du cunningham
+
+Cordage
+Partie d'un bateau
+Gréement
+Vocabulaire maritime
+Matelotage

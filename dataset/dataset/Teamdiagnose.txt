@@ -1,0 +1,77 @@
+Die Teamdiagnose wird u. a. im Rahmen von Personalentwicklung eingesetzt und ist Teil des Teamentwicklungsprozesses. Sie dient als Grundlage für die Konzeption von Teamentwicklungsmaßnahmen. Ohne eine Teamdiagnose ist die Evaluation einer Teamentwicklungsmaßnahme im Sinne einer Erfolgskontrolle nicht möglich.
+
+Definition 
+Teamdiagnose „ist das zielgerichtete und methodisch geplante Sammeln von Informationen über die Arbeitsgruppe, die Gruppenmitglieder und ihre Beziehungen zum organisationalen Kontext. Sie analysiert Aspekte des Ist-Zustandes bzw. des Soll-Zustandes in der Teamarbeit. Sie dient der Begründung, der Steuerung und der Rückmeldung über geplante oder bereits durchgeführte Interventionen im Rahmen der Teamentwicklung“.
+
+Ziele 
+Die Teamdiagnose hat in der Praxis folgende Ziele:
+ Allgemeine Information über die gegenwärtige Situation der Teams im Unternehmen
+ Initiierung des Dialogs
+ Institutionalisiertes Feedback
+ Stärken-Schwächen-Analyse
+ Bestandsaufnahmen und Bedarfsermittlung für Teamentwicklungsmaßnahmen
+ Planungsgrundlage für einen Teamentwicklungsprozess
+ Initiierung und Begleitung von Teamentwicklungsprozessen
+ Unterstützung von Teamsupervision
+ Unterstützung von Coaches bei ihrer Feedbackfunktion
+ Entwicklung der Teammitglieder zu guten Diagnostikern, Sensibilisierung für gruppeninterne Prozesse
+ Überprüfung bzw. Evaluierung von Teamentwicklungsmaßnahmen
+ Benchmarking
+ Aufzeigen von Ansatzpunkten für Verbesserung
+ Mitglieder lernen, Vorgänge in der Gruppe (Stärken, Schwächen) zu verbalisieren
+
+Diagnoseinstrumente 
+Diagnoseinstrumente legen offen „was beim einfachen Betrachten einer Gruppe oder einer Gruppendiskussion nicht mit bloßem Auge erkennbar ist“. Durch Gruppendiagnoseinstrumente wird ein Erkenntnisfortschritt über die Zusammensetzung einer Gruppe und die in ihr ablaufenden Prozesse erzielt.
+
+Es gibt eine breite Palette an diagnostischen Instrumenten:
+
+ Individuelle Interviews
+ Gruppeninterviews (Gruppendiskussionen) mit dem ganzen Team oder Untergruppen
+ Problemkataloge
+ Sensing Meeting, in denen Vertreter unterschiedlicher Ebenen oder Instanzen in einer Art Rollenspiel berichten, was man über das Team „so denkt oder auch spricht“, worüber „man sich Sorgen macht“ und „was man am liebsten geändert sehen möchte“ o. ä.
+ Einsatz selbst erstellter Fragebogen oder Kurzfragebogen zu bestimmten Problembereichen (z. B. Information, Qualität der Besprechungen, Mitwirkungsmöglichkeiten, Führung im Team o. ä.)
+ Einsatz standardisierter Fragebogen – etwa zur allgemeinen Arbeitszufriedenheit – mit anschließender Diskussion der Ergebnisse in der Gruppe (Survey-Feedback-Methode)
+ Verhaltensbeobachtungen und sogenannte Prozessanalysen, in denen eine bestimmte Arbeitseinheit kritisch betrachtet wird, um daraus für die Zukunft zu lernen und Verbesserungsmöglichkeiten abzuleiten
+ Auswertung von Critical Incidents und Analyse betrieblicher Vorgänge und Abläufe
+ Inhaltsanalyse von betrieblichen Dokumenten (Aktennotizen, Protokolle etc.)
+ Spontanabfragen und Stimmungsbarometer
+ Sogenannte Projektive Verfahren, wie z .B. das Anfertigen einer Karikatur oder Collage („Stellen Sie Ihr Team einmal als Maschine dar“) oder als journalistische Aufgabe („Schreiben Sie einen Bericht über die Verhältnisse in Ihrer Gruppe im Stil der BILD-Zeitung!“)
+ Kraftfeldanalysen zur Durchleuchtung des Einflussfeldes, dem eine Gruppe ausgesetzt ist: auf einer Pinnwand werden alle betroffenen Personen, Gruppen oder Instanzen aufgezeichnet und ihre Querverbindungen und Beziehungen (Erwartungen, Einschätzungen, Machtverhältnisse etc.) eingezeichnet
+
+Diese diagnostischen Instrumente werden in prozess- und strukturanalytische Verfahren eingeteilt. Dabei wird mit Hilfe der prozessanalytischen Verfahren der Verlauf eines Gruppenprozesses beobachtet, während strukturanalytische Verfahren ein Zustandsbild der Gruppe widerspiegeln.
+
+Prozessanalytische Verfahren 
+Zu den prozessanalytischen Verfahren gehören Verhaltensbeobachtungen und Prozessanalysen. Es werden bestimmte Arbeitseinheiten „kritisch unter die Prozesslupe“ genommen, um die Ist-Situation abzubilden und Verbesserungsmöglichkeiten abzuleiten. Dazu kann z. B. eine Besprechung, ein Arbeitstag oder auch ein ganzes Projekt herangezogen werden. Mit Hilfe von strukturierender Fragestellungen wie z. B. „Was war oder klappte gut?“ „Wo hakte es?“ „Wurden auch abweichende Meinungen konstruktiv aufgenommen?“ oder „Was ist gut, was ist weniger gut gelaufen?“ wird die Analyse durchgeführt. Diese Art der Analyse weist eine geringe Standardisierung auf.
+
+Dem gegenübergestellt gibt es standardisierte Verfahren zur Prozessanalyse bzw. Verhaltensbeobachtungen, die der Kleingruppenforschung entspringen, dazu gehören:
+
+ Interaktionsprozessanalyse (IPA)
+ System for the Multiple Level Observation of Groups (Symlog)
+ Konferenzkodierung (KONFKOD)
+ Cognitive Mapping (Kognitive Karte)
+ Kasseler-Kompetenz-Raster (KKR)
+ Act4teams
+ Instrument zur Kodierung von Diskussionen (IKD)1
+
+Außerdem kann mit Hilfe eines prozessanalytischen Verfahrens eine Gruppe in Hinblick auf ihre Struktur untersucht werden. Hierzu werden Interaktions- und Kommunikationsprozesse festgehalten und per Videokamera und Tonband zwecks einer zeitversetzten Analyse dokumentiert. Dieses Material wird anschließend kodiert (Transkripte), um auf diese Weise die Grundlage für systematische Verhaltensbeobachtungen durch geschulte Beobachter zu bieten.
+
+Strukturanalytische Verfahren 
+Zu den strukturanalytischen Verfahren gehören u. a. Fragebogen, Ratingbogen oder Adjektivlisten, die den derzeitigen Zustand eines Teams widerspiegeln. Fragebogen gehören aufgrund ihrer häufigen Anwendung in der Praxis zu den populärsten Verfahren. Es werden Wahrnehmungen der Teammitglieder sowie ihre Verhaltensdispositionen in Bezug auf Lernen, Denken, Problemlösen und Werten abgefragt. Im Gegensatz zu den prozessanalytischen Verfahren basieren die Erkenntnisse der strukturanalytischen Verfahren auf den subjektiven Wahrnehmungen der befragten Teammitglieder.
+Zu den strukturanalytischen Fragebogeninstrumenten gehören:
+ TeamPuls® 2.0,
+ Teamklima-Inventar (TKI),
+ Fragebogen zur Arbeit im Team (FAT),
+ teamCheck
+
+Prozess- vs. strukturanalytische Verfahren 
+Der Einsatz von prozess- und strukturanalytischen Verfahren ist mit bestimmten Vor- und Nachteilen verbunden, die im Folgenden abgebildet werden:
+
+Literatur 
+ Kauffeld, S. (2001): Teamdiagnose. Göttingen, Bern, Toronto, Seattle: Hogrefe.
+ Kauffeld, S.; Schulte, E. M. (2011): Teams und ihre Entwicklung. Arbeits-, Organisations- und Personalpsychologie.
+ Kauffeld, S.; Lehmann-Willenbrock, N. (2008): Teamdiagnose und Teamentwicklung. Erfolgreiche Gruppenarbeit.
+ Balz, H.-J.; Spieß, E. (2009): Kooperation in sozialen Organisationen. Grundlagen und Instrumente der Teamarbeit. In: Module angewandter Psychologie. Hg. von Hartung, J.; Fröhlich-Gildhoff, K.Stuttgart: Kohlhammer.
+
+Einzelnachweise 
+
+Sozialpsychologie

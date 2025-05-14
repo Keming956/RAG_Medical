@@ -1,0 +1,10 @@
+Thermal trauma is any burn-related injury that can potentially lead to serious outcomes. There are various causes of thermal trauma, including fire, radiant heat, radiation, chemical, or electrical contact, that can affect a person in many ways based on factors from anatomical and physiological factors. Depending on the severity of the burns, quick management and transport to an appropriate burn facility may be necessary to prevent loss of life.  Various classification scales exist for use with thermal trauma to determine the severity of the burns, which is used to determine the resources used and for statistical collection. The initial assessment is critical in determining the extent of injuries and what will be needed to manage an injury, and treating immediate life threats.
+
+Classification
+Burn injuries are generally classified by either severity, the location of damage, or a combination of both. Various scales exist to provide a quantifiable metric to measure the severity of burn-related injuries. The value can be used for triaging a patient or for statistical analysis. Burn injury scales measure damage to anatomical parts, physiological values (blood pressure etc.), comorbidities or a combination of those.
+
+References
+
+Medical emergencies
+Burns
+Causes of death

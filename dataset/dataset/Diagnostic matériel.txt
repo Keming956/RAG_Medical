@@ -1,0 +1,30 @@
+Le diagnostic d'un système matériel désigne toute méthode permettant de déterminer si une machine est défaillante ou non et de déterminer l'origine de la panne à partir des informations relevées par observation, contrôles et tests.
+
+Cette méthode peut se présenter sous diverses natures et divers supports. Il peut s'agir :
+ d'un algorithme de détection électronique ou informatique
+ d'un arbre de défaillance ou arbre de localisation de panne
+ d'un simple test visuel
+
+Diagnostic électronique ou informatique
+
+Forme 
+Un diagnostic électronique ou informatique peut prendre plusieurs formes :
+
+Il peut s'agir de détecter directement l'effet du dysfonctionnement à l'aide d'un capteur dédié, comme une sonde mesurant certaines caractéristiques des gaz d'échappement (sonde lambda de mesure du taux d'oxygène restant...).
+
+Il peut s'agir de vérifier la continuité électrique des composants employés par le système, c’est-à-dire détecter les courts circuits ou les circuits ouverts/déconnectés, à commencer par tous les problèmes électriques liés à la connectique. Ces diagnostics électriques se font en surveillant les tensions et courants aux bornes des équipements considérés : un défaut est détecté lorsque la valeur surveillée dépasse les bornes connues de la plage de fonctionnement normale.
+
+Il peut aussi s'agir d'un diagnostic fonctionnel (écart de boucle de régulation, d'une cohérence entre deux informations, de l'évaluation de la plausibilité d'une information...
+
+Confirmation de panne 
+Le diagnostic repose habituellement sur un système de confirmation de la panne. Cela se fait par une répétition de la détection, autrement dit un filtrage temporel (une temporisation) permettant de ne prendre en compte un défaut qu'après un temps jugé suffisant.
+Le réglage (le calibrage) de ce nombre de détections minimal avant prise en compte du défaut est un compromis entre :
+ d'une part la sûreté de fonctionnement du système qui impose de tout mettre en œuvre rapidement pour parer au dysfonctionnement, interdisant les non détections qui pourrait nuire,
+ et d'autre part la volonté d'éviter les actions intempestives (sur un défaut transitoire ou intermittent), de limiter les fausses détections, de manière à maximiser la disponibilité
+
+Ces raisonnements mettent en œuvre les notions de Fiabilité-Maintenabilité-Disponibilité-Sécurité (FMDS).
+
+Voir aussi 
+
+Ingénierie
+Maintenance (science)

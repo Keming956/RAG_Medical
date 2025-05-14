@@ -1,0 +1,33 @@
+The University of California at Los Angeles Posttraumatic Stress Disorder Reaction Index for DSM-5 (abbreviated as the UCLA PTSD-RI) is a psychiatric assessment tool used to assess symptoms of PTSD in children, adolescents, and young adults. This assessment battery includes four measures: the Child/Adolescent Self-Report version; the Parent/Caregiver Report version; the Parent/Caregiver Report version for Children Age 6 and Younger; and a Brief Screen for Trauma and PTSD. Questions may differ among the indexes depending on the target age, however the indexes are identical in format. The target age groups for this assessment are children, adolescents, and young adults between 7-18 and children age 6 and younger. Versions of the UCLA PTSD Reaction Index for DSM-5 have been translated into many languages, including Spanish, Japanese, Simplified Chinese, Korean, German, and Arabic. The DSM-IV version of the UCLA PTSD Reaction Index Index has been updated for DSM-5.
+
+History
+This assessment has evolved since its development in 1985 to include changes made to DSM criteria and to allow for efficiency in assessment. In 1985, Calvin Fredrick worked with the UCLA Trauma Psychiatry Program to develop a measure to screen for PTSD in children and adolescents based on DSM criteria—the UCLA PTSD Reaction Index. This index had 16 "yes" or "no" items. The first major use of this index was used to assess PTSD reactions in elementary school students following a sniper attack on the school. Following the publication of DSM-III, the measure was updated to DSM-III-R version to account for the updated diagnostic criteria of PTSD. This version had 20 items scored on a Likert Scale. The UCLA PTSD Index for DSM-IV is a revised version of the DSM-III-R that reflects the modified diagnostic criteria in the DSM-IV. In the DSM-IV version, child, parent, and adolescent forms and subsequent scoring sheets were developed. The child and adolescent forms were revised to reflect language tailored to children and adolescents in order to combine the child and adolescent forms into one form. The full UCLA PTSD Index was used by the New York State office of Mental health in the Child and Adolescent Treatment Service Programs for children and adolescents affected by the September 11, 2001 attacks in New York City.
+
+In addition, this the assessment has also been proven to be useful across different cultures and in different countries. As a result, it has been translated into many different languages to be administered to children and adolescents that have experienced severe tragedies, such as mass shootings, natural disasters, and terrorism. The assessment was used in Nigeria to measure PTSD in victims of ethno-religious violence. Study found that the UCLA PTSD reaction index was an adequate measure to be used to screen for symptoms of PTSD in children and adolescents in Nigeria. In addition, a study has shown the UCLA PTSD reaction index to be a valid and reliable way of assessing PTSD symptoms in adolescent refugees from Somalia.
+
+Question breakdown and interpretation
+
+Question breakdown
+Each index is composed of several parts. The first section is a comprehensive list of trauma types and asks the respondent to indicate which trauma types from the list they have experienced. It screens for lifetime trauma, allowing for trauma exposure to be categorized into multiple categories. Once the trauma exposure(S) has been categorized and identified, a follow up section asks about trauma specific details and the age(s) over which the trauma was experienced. The symptom scale maps directly on to DSM-5 PTSD symptom criteria and asks the respondent how many days in the past month they experienced each symptom using a Likert scale ranging from 0 (None) to 4 (Most of the time). The final section includes questions regarding the extent to which symptoms cause clinically significant distress and interfere with behavior, functioning, and development.
+
+Psychometrics 
+Reports on psychometric properties for the PTSD index have shown high test-retest reliability and validity, with no significant differences in scores between racial/ethnic groups. Screening results from this index are consistent with the results from other PTSD symptom instruments (PTSD Checklist, PTSD Symptom Scale, and Harvard Trauma Questionnaire).
+
+Changes for DSM-5 criteria 
+In order to accommodate the changes to the PTSD criteria in the DSM-5, the updated UCLA PTSD index contains 11 new questions that cover the 20 DSM-5 criteria for diagnosis. Questions for Criteria B remained the same. Criteria D was changed to address negative cognitions and mood, and items addressing those symptoms that were formerly in Criteria C were moved to this criteria, leaving only two questions addressing avoidance symptoms in Criteria C. In addition, three questions were added to Criteria D. Finally, questions regarding increased arousal were moved to a new Criteria E, which was expanded by one item. The scoring algorithm (and scoring software) for the UCLA PTSD Reaction Index for DSM-5 allows for a determination of whether criteria for PTSD and for Dissociative Subtype are met. The UCLA PTSD Reaction Index for DSM-5 is available at: www.reactionindex.com.
+
+References
+
+External links
+National Child Traumatic Stress Network (NCTSN)
+Information about the DSM-5 version
+Children's DSM-IV version
+Adolescent DSM-IV version
+Parent DSM-IV version
+DSM-IV scoring
+AACAP Practice Parameters for Assessing Children and Adolescents with PTSD
+EffectiveChildTherapy.Org information on PTSD
+Society of Clinical Child and Adolescent Psychology
+
+Post-traumatic stress disorder
+Mental disorders diagnostic procedures

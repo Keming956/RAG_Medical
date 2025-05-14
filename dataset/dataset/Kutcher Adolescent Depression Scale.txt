@@ -1,0 +1,23 @@
+The Kutcher Adolescent Depression Scale (KADS) is a psychological self-rating scale developed by Dalhousie University professor of psychiatry Stan Kutcher, to assess the level of depression in adolescents.
+
+
+Background 
+Because its primary function is to qualify the effectiveness of pharmacological treatments, it is structured so as to be sensitive to changes in depression severity over time. This makes the rating scale well suited to both research and clinical applications.
+
+While there are some variations, the 11-item version of the KADS is the most commonly used and most thoroughly verified for efficacy in monitoring outcomes in adolescents who are receiving treatment for major depressive disorder. Its items are worded using standard and colloquial terminology, and responses are scored on a simple 4 choice scale.
+
+Scoring 
+There are ten questions about depression symptom frequency that the patient rates on a straight 4 point scale according to the following choices: "hardly ever," "much of the time," "most of the time," "all the time," and one question relating to the severity of suicidal ideation.
+
+Scores on the test range from 0 to 33. Unlike some rating scales, there is no threshold for sub-clinical presentation, or ranges for mild, moderate, and severe symptoms. Higher scores simply indicate more severe current depression symptoms.
+
+See also
+Diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links
+ Paper version of the KADS
+ Online version of the KADS
+
+Rating scales for depression

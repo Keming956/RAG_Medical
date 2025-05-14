@@ -1,0 +1,117 @@
+La psychiatrie en France a fortement évolué depuis ses origines, notamment avec la révolution des médicaments psychotropes (invention du premier neuroleptique en 1952), et la mise en place du principe de sectorisation par la circulaire ministérielle du . La baisse des crédits et des effectifs affectés à la psychiatrie hospitalière, et notamment la baisse du nombre de lits disponibles, qui sont passés de  au début des années 80 à  lits en 2011, ont fait l'objet d'un certain nombre de critiques, une partie de la population relevant de soins psychiatriques se retrouvant incarcérée dans des établissements pénitentiaires, ou à la rue ou encore dans des établissements médico-sociaux où ces malades n'ont pas leur place.
+
+La première loi ayant porté sur l'hospitalisation en psychiatrie est la loi du 30 juin 1838 sur les aliénés. Le , une nouvelle loi vient se substituer à la première, avec pour objectif de moderniser et d'adapter la loi du , et de limiter les abus qu'elle permettait en introduisant de nouvelles possibilités de recours pour les personnes hospitalisées sans leur consentement. Ainsi, une batterie d'outils formels (commissions départementales des soins psychiatriques (CDSP), obligation de circonstancier les certificats médicaux, et d'informer les patients sur leur situation juridique et sur leurs droits…), permettent aujourd'hui de mieux préserver la liberté de la personne malade, ainsi que sa sécurité en regard de la maladie dont elle n'accepte pas toujours la réalité. Le , une nouvelle loi sur la psychiatrie a vu le jour, entre une demande sécuritaire toujours plus forte, et une exigence de protection des droits et des libertés des personnes soumises à la contrainte psychiatrique. La loi du  réforme la prise en charge des patients sous contrainte en instaurant notamment un passage obligatoire devant le juge des libertés et de la détention. Elle a été réformée partiellement par la loi du , à la suite d'une décision du Conseil constitutionnel sur une question prioritaire de constitutionnalité du .
+
+Un principe fondamental : la sectorisation 
+En France, la psychiatrie est régie selon le principe de la sectorisation depuis la loi du  qui confirme une politique suivie dès les années 1960. En effet depuis cette date, chaque aire géographique bien délimitée, correspond à un service donné dans un établissement hospitalier de référence. L'aire géographique concernée, d'environ  habitants, est donc « rattachée » à une unité précise, où seront pris en charge, tous les types de pathologies psychiatriques. L'origine géographique déterminant ainsi le lieu de soins. 
+
+La santé mentale est prise en charge selon la modalité de la psychiatrie de secteur avec des structures alternatives à l'hôpital afin d'organiser le suivi médico-psychologique rattachées à un hôpital de référence.
+
+Le principe du secteur psychiatrique a toutefois été remis en cause avec la Loi HPST de 2009 qui a instauré des territoires de santé géographiquement plus vastes que les secteurs psychiatriques.
+
+Les différents modes d'admission à l'hôpital 
+Depuis la loi -803 du , le terme « hospitalisation » a été remplacé par le concept de « soins psychiatriques ». En effet, au bout d'une période de 72 heures après l'admission en soins sous contrainte (obligatoirement en hospitalisation complète), le psychiatre hospitalier peut proposer, au directeur de l'établissement ou au Préfet, de poursuivre les soins, soit en hospitalisation complète, soit en programme de soins (c'est-à-dire des soins alternatifs à l'hospitalisation complète qui peuvent comporter des hospitalisations à temps partiel, des soins ambulatoire ou à domicile).  
+Ainsi, il existe 3 modalités d'admission en soins psychiatriques :
+
+« SL » (soins libres)
+C'est une admission en soin libre, le patient accepte les soins ; 
+
+Il existe deux types d'admission en soins psychiatriques sous contrainte :
+
+« SDRE » (Soins sur Décision du Représentant de l'État)
+C'est un mode d'admission décidé par le représentant de l'État dans le département. Cette modalité intervient si le patient souffre de troubles mentaux qui nécessitent des soins et compromettent la sûreté des personnes ou portent atteinte, de façon grave, à l'ordre public.
+Les pièces nécessaires :
+ le certificat médical d'un médecin, qui ne peut être un psychiatre de l'établissement d'accueil. 
+ un arrêté préfectoral. 
+ En cas d'urgence, le Maire, ou à Paris le Commissaire de police, peuvent décider, au titre des mesures provisoires, l'envoi de la personne en hospitalisation sous contrainte à temps complet. Ces décisions son caduques au bout de 48 heures si elles ne sont pas relayées par un arrêté préfectoral. 
+
+La demande de levée, ou de transformation en programme de soins, des soins sur décision du représentant de l'État peut être faite au préfet par le médecin de l'établissement. Celui-ci accepte ou non la demande de levée. En cas d'acceptation, et dès retour de l'arrêté préfectoral, le patient n'est plus soumis à cette mesure et peut sortir de l'établissement ou choisir de poursuivre des soins libres. 
+
+Il existe une procédure renforcée pour les personnes en soins sur décision du représentant de l'État (SDRE), qui ont été déclarés pénalement irresponsables, pour des faits pour lesquels elles encouraient une peine d'au moins 5 ans de prison, pour les atteintes aux personnes, ou d'au moins 10 ans de prison pour les atteintes aux biens. Cette procédure, instaurée par la loi du , a été réformée et allégée par la loi du , qui a pris acte de la décision de censure partielle de la loi du , prise le  par le Conseil constitutionnel sur une question prioritaire de constitutionnalité. Dans le cadre de ce régime dérogatoire la levée de la mesure de contrainte préfectorale est subordonnée à l'avis d'un collège de trois soignants de l'établissement, ainsi qu'à celui de deux psychiatres experts extérieurs à l'établissement. L'avis collégial et les expertises sont transmis au Préfet, ou au juge des libertés et de la détention en cas de contrôle de légalité, afin que la levée de la mesure ou sa transformation en programme de soins soit ou non décidée. 
+
+« SDT », ou « SPI »  (soins sur demande de tiers ou en cas de péril imminent)
+Utiles lorsque les troubles mentaux de la personne rendent impossible son consentement et que son état mental impose des soins immédiats assortis soit d'une surveillance médicale constante.
+Il existe 2 types de soins sur demande d'un tiers (SDT), auxquels se rajoute le cas des soins en cas de péril imminent sans qu'un tiers ait été trouvé (SPI) :
+l'admission en SDT dite classique pour laquelle il faut :
+une demande manuscrite de tiers (par un membre de la famille du malade ou par une personne justifiant de l'existence de relations avec le malade antérieures à la demande de soins et lui donnant qualité pour agir dans l'intérêt de celui-ci, à l'exclusion des personnels soignants exerçant dans l'établissement prenant en charge la personne malade) ;
+les certificats médicaux circonstanciés de deux médecins dont l'un est extérieur à la structure d'accueil.
+
+l'admission en SDT pour cas d'urgence mise en place lorsqu'il existe un risque grave d'atteinte à l'intégrité du malade, il faut :
+une demande manuscrite de tiers (par un membre de la famille du malade ou par une personne justifiant de l'existence de relations avec le malade antérieures à la demande de soins et lui donnant qualité pour agir dans l'intérêt de celui-ci, à l'exclusion des personnels soignants exerçant dans l'établissement prenant en charge la personne malade) ;
+un certificat médical d'un médecin pouvant provenir d'un médecin de l'établissement d'accueil.
+
+l'admission en cas de péril imminent, qui est dûment constaté par un certificat médical et dans le cas d'une impossibilité d'obtenir une demande de tiers.
+
+Ce certificat constate l'état mental de la personne malade, indique les caractéristiques de sa maladie et la nécessité de recevoir des soins. Le médecin qui établit ce certificat ne peut exercer dans l'établissement accueillant la personne malade. Dans ce cas, le directeur de l'établissement d'accueil informe, dans un délai de vingt-quatre heures sauf difficultés particulières, la famille de la personne qui fait l'objet de soins et, le cas échéant, la personne chargée de la protection juridique de l'intéressé ou, à défaut, toute personne justifiant de l'existence de relations avec la personne malade antérieures à l'admission en soins et lui donnant qualité pour agir dans l'intérêt de celle-ci.
+
+Les soins sur demande d'un tiers, ou en cas de péril imminent, peuvent être levés à tout moment par le directeur de l'hôpital, sur un certificat médical prescrivant la levée de la mesure du psychiatre suivant la personne sous soins sous contrainte. À noter que le directeur de l'hôpital est en « compétence liée » avec le médecin psychiatre, et qu'il doit suivre la prescription médicale de levée. Les membres de la famille du tiers peuvent demander la levée des soins, à laquelle le psychiatre peut s'opposer.
+
+La prise en charge des patients sous contrainte 
+Le patient sous contrainte est obligatoirement admis pendant une durée de 72 heures maximum en hospitalisation complète. Durant cette période dite d'observation et de soins, deux certificats médicaux seront établis: un de 24 heures et un des 72 heures. C'est au cours de cette période d'observation d'un maximum de 72 heures, que le psychiatre pourra choisir entre les différents modes de prise en charge, soins libres, soins sous programmes de soins ou en hospitalisation complète sans consentement. Ensuite un avis sera établi dans les 8 jours à dater de l'admission jour concernant le maintien de la mesure pour le contrôle judiciaire obligatoire de quinzaine. La date butoir du  passe au  au , selon la loi du , réformant partiellement la loi du . Les certificats médicaux qui suivent doivent être effectués mensuellement.
+
+Intervention du juge de la liberté et de la détention 
+C'est à la suite d'une décision du Conseil Constitutionnel du  sur une question prioritaire de constitutionnalité que l'intervention du juge dans les hospitalisations sans consentement à temps complet des patients sous contrainte a été introduite. En effet, l'article 66 de la Constitution instaure le juge judiciaire comme garant de la liberté individuelle. Or les patients sous contrainte, privés de liberté ne bénéficiaient pas, avant cette loi, d'un tel contrôle obligatoire. Ainsi, tous les patients admis en hospitalisation sous contrainte, pris en charge sous le mode de l'hospitalisation complète, voient aujourd'hui la mesure qu'ils subissent contrôlée :
+avant les quinze jours (12 jours à dater du ) qui suivent leur admission ou leur réadmission ;
+puis tous les 6 mois en cas d'hospitalisation complète continue.
+Un arrêt du Conseil d'État du  annule, dans le sens d'une meilleure protection des hospitalisés à la demande d'un tiers, le décret  du  en tant qu’il ne prévoyait pas, au 1° de l'article R. 3211-11 du Code de la santé publique, la transmission systématique au greffe du tribunal de grande instance, dans les cinq jours à compter de l’enregistrement de la requête, de la décision d'admission prise par le directeur de l'établissement. Celle-ci désormais doit être écrite et motivée en droit comme en fait.
+
+Surconsommation de psychotropes 
+La France est un pays dont la population consomme notoirement plus de médicaments psychotropes que les autres pays avancés.
+
+Ainsi on constate :
+ une surconsommation de traitements psychotropes en France 2 fois plus importante que dans les pays d'Europe limitrophes de la France ;
+ durant l'année 1997, 12 % des Français âgés de plus de 15 ans ont consommé un ou plusieurs psychotropes dont 7,9 % un anxiolytique, 4,7 % un hypnotique, 3,6 % un antidépresseur et 1,5 % un neuroleptique. Après 50 ans pour les femmes et après 60 ans pour les hommes, plus d'une personne sur six a consommé un ou plusieurs psychotropes ;
+ trop de Français, en particulier après 60 ans, sont traités sur des durées trop longtemps par des psychotropes : 11 % des Français sont des consommateurs réguliers de psychotropes (au moins une fois par semaine et depuis au moins six mois), 29 % des femmes entre 60 et 69 ans, plus de 34 % des femmes âgées de plus de 80 ans) ;
+ une inadéquation de l'utilisation des antidépresseurs en ville dans un nombre de cas inacceptable. Plus du tiers des antidépresseurs sont prescrits en dehors des indications de l'autorisation de mise sur le marché : environ 20 % des prescriptions ne reposent sur aucun diagnostic psychiatrique étayé ;
+ des prescriptions souvent fondées sur l'existence d'une plainte monosymptomatique : par exemple la tristesse qui est assimilée à une dépression ;
+ de nombreuses prescriptions sont reconduites en l'absence de symptômes. La durée de prescription des antidépresseurs excède un an dans plus de la moitié des cas, contrairement aux recommandations en vigueur ;
+ les coprescriptions, notamment entre antidépresseurs et anxiolytiques ou entre anxiolytiques et hypnotiques sont fréquentes mais rarement justifiées au long cours.
+
+L'irresponsabilité pénale 
+L'article 64 du Code pénal de 1810, en vigueur jusqu'en 1994, établit une distinction nette entre les délinquants ou criminels statués pénalement irresponsables au motif de leur état d'aliénation mentale et ceux considérés responsables de leurs actes, en énonçant qu'. Déjà, la loi des 16 et 24 août 1790 sur l'organisation judiciaire, complétée par le système de l’interdiction civile des furieux, puis par la loi du 30 juin 1838 sur les aliénés, permet l'enfermement des « fous » tout en interdisant leur punition pénale, en raison de leur irresponsabilité. Mais alors que le droit pénal interdit une graduation de la responsabilité, celle-ci va apparaître dans les années 1880, sous la Troisième République, illustrée par les travaux de Gabriel Tarde et Raymond Saleilles. On va alors vers une individualisation des peines et vers la mesure de la « dangerosité » des criminels. Petit à petit, comme le remarque Michel Foucault dans Surveiller et punir (1975), ce n'est plus le crime lui-même qui est puni, mais le criminel.
+
+L'article 64 du code pénal est remplacé, en 1992, par l'article 122-1,  du même code qui maintient le principe de l'irresponsabilité pénale quand le discernement a été aboli, au moment des faits, du fait d'un trouble psychique ou neuropsychique. Toutefois, une gradation est introduite. Ainsi l'article 122-1,  du Code pénal de 1994  énonce que . Cette modification législative, qui a accompagné un changement d'optique des psychiatres experts près les tribunaux favorables à une responsabilisation des prévenus, a eu un certain effet, puisqu'on est passé, en valeur absolue, de 611 décisions d'irresponsabilité pénale prononcées par les juges répressifs en 1989, à 203 en 2004, ce qui a conduit à une augmentation mécanique de la proportion de détenus atteints de troubles psychiatriques.
+
+Par ailleurs, l'expertise psychiatrique aux fins de déterminer la responsabilité ou l'irresponsabilité psychiatrique du prévenu, n'est obligatoire qu'en matière criminelle, alors que près de la moitié des détenus atteints de troubles psychotiques sont incarcérés à la suite d'une condamnation par un tribunal correctionnel.
+
+Dans ce cadre, la loi Perben de 2002 a créé le concept de l'Unité hospitalière spécialement aménagée (UHSA), intégrée  à l'hôpital mais dépendante de l'administration pénitentiaire, dédiée aux détenus atteints de troubles mentaux. Enfin, la loi du 25 février 2008 relative à la rétention de sûreté et à la déclaration d'irresponsabilité pénale pour cause de trouble mental, préparée par la ministre de la Justice Rachida Dati (Union pour un mouvement populaire, UMP), a instauré la mesure controversée de « rétention de sûreté », et créé une audience de déclaration d'irresponsabilité pénale, permettant ainsi un droit à l'audience pour les prévenus devant être déclarés pénalement irresponsables du fait de troubles psychiques ayant aboli leur discernement. Cette même loi a autorisé les juridictions répressives à prononcer, pour ces personnes, sur expertise psychiatrique, des mesures d'hospitalisations d'office, au titre de l'article 706-135 du code de procédure pénale.
+
+Evolutions rencontrées dans la prise en charge du handicap psychique 
+Le secteur psychiatrique, depuis la circulaire de 1960 créant la sectorisation thérapeutique, a été pionnier dans la mise en place d'une approche globale de prise en charge. L'accompagnement social devrait être mis en place dans les structures de proximité et par le secteur, de façon non centrée sur l'hôpital. Le soin comporte l'objectif d'autonomiser la personne ainsi que celui de préparer sa sortie.
+
+Depuis l'ordonnance du 4 septembre 2003 et la loi portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires de 2009, la définition légale des missions de l'hôpital (prévention, diagnostic, soin, réadaptation et réinsertion sociale) a pris fin, et la définition fonctionnelle de celles-ci a été élargie aux professionnels du médico-social et du social.
+
+Comme le préconise la loi pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées de 2005, les domaines du soin et celui du handicap psychique doivent être articulés, avec une évolution vers l'hôpital de jour ainsi que les alternatives à l'hospitalisation, et une coordination des soins. Les soins ne consistuent pas la seule solution dans laquelle se mettra en place le parcours de vie : des types de prise en charge intervenant dans le cadre de la sectorisation comportent les placements familiaux thérapeutiques, les centres d'urgence 24h/24, ainsi que les équipes mobiles.
+
+La seule création de postes dans le domaine de la psychiatrie adulte pour permettre l'adaptation de l'hospitalisation complète ne permet pas de répondre aux besoins dans la mesure où ces postes, dans une large mesure non médicaux, ne sont pas tous pourvus (quoique créés et financés), et les besoins des personnes handicapées psychiques ne relèvent pas prioritairement des soins médicaux mais plutôt d'un travail commun entre le secteur et les services d'accompagnement. 
+
+Le caractère persévérant des rapports conflictuels entre les familles des usagers et les professionnels du soin, devenues parties prenantes des différentes lois (2 janvier et 4 mars 2002, août 2004 et surtout loi du 11 février 2005) rend difficile l'instauration des liens de confiance entre l'équipe soignante, la personne en situation de handicap psychique et sa famille.
+
+Initiatives locales et prise de parole usagère
+
+Lieux alternatifs 
+A Marseille, un « lieu de répit » conçu comme alternatif à l'hospitalisation et soutenu par le financement de l'ARS Paca a été conçu. Il reprend les principes des maisons Soteria et s'inspire des principes de la thérapie Dialogue ouvert.
+
+Prises de position sur l'évolution de la psychiatrie en France 
+L'émission du 22 mai 2019 « L'entonnoir » de Radio Libertaire, appelle à la création d'un « guide de l'usager en psychiatrie ».
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Affaire Romain Dupuy
+ Groupe information asiles
+ Histoire de la psychiatrie
+ Loi du 30 juin 1838 sur les aliénés
+ Loi du 25 février 2008 relative à la rétention de sûreté et à la déclaration d'irresponsabilité pénale pour cause de trouble mental
+ Prison en France
+ Psychanalyse en France
+ Psychiatrie
+ Soins psychiatriques sans consentement en France
+ Unité pour malades difficiles
+
+Liens externes 
+ Cercle de réflexion et de proposition d'actions sur la psychiatrie
+ Plus qu'une pénurie de lits, la psychiatrie souffre d'une mauvaise organisation. Le Monde 9 mars 2012
+Rapport sur la prise en charge psychiatrique en France, par Alain Millon, présenté devant l'Assemblée nationale et le Sénat en 2009

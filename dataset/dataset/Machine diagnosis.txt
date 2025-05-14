@@ -1,0 +1,3 @@
+Machine diagnosis may refer to:
+Machine fault diagnosis, diagnosis made on a machine
+Clinical decision support system, diagnosis assisted by a machine

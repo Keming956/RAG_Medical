@@ -1,0 +1,34 @@
+The Columbia Suicide Severity Rating Scale, or C-SSRS, is a suicidal ideation and behavior rating scale created by researchers at Columbia University, University of Pennsylvania, University of Pittsburgh and New York University to evaluate suicide risk. It rates an individual's degree of suicidal ideation on a scale, ranging from "wish to be dead" to "active suicidal ideation with specific plan and intent and behaviors." Questions are phrased for use in an interview format, but the C-SSRS may be completed as a self-report measure if necessary. The scale identifies specific behaviors which may be indicative of an individual's intent to kill oneself. An individual exhibiting even a single behavior identified by the scale was 8 to 10 times more likely to die by suicide.
+
+Patients are asked about "general non-specific thoughts of wanting to end one’s life/complete suicide" and if they have had "...thoughts of suicide and have thought of at least one method during the assessment period." They are asked if they have "active suicidal thoughts of killing oneself...[and] any intent to act on such thoughts." They are asked how frequently they have these thoughts, how long the thoughts last and whether the thoughts can be controlled. They are asked about deterrent factors, and for the reasons for thinking of suicide. They are asked about "Actual Attempt[s]", which is a "potentially self-injurious act completed with at least some wish to die, as a result of act. "If person pulls trigger while gun is in mouth but gun is broken so no injury results, this is considered an attempt".They are also asked about Aborted Attempt[s], Interrupted Attempt[s] and Preparatory Behavior[s]."
+
+The "Lifetime/Recent version allows practitioners to gather lifetime history of suicidality as well as any recent suicidal ideation and/or behavior." The "Since Last Visit version of the scale assesses suicidality since the patient’s last visit." The "Screener version of the C-SSRS is a truncated form of the Full Version" designed for "first responders, in ER settings and crisis call centers, for non-mental health users like teachers or clergy or in situations where frequent monitoring is required." The "Risk Assessment Page provides a checklist for protective and risk factors for suicidality."
+
+The C-SSRS has been found to be reliable and valid in the identification of suicide risk in several research studies.
+
+Scoring and interpretation
+The Screener contains 6 "yes" or "no" questions in which respondents are asked to indicate whether they have experienced several thoughts or feelings relating to suicide over the past month and behaviors over their lifetime and past 3 months. Each question addresses a different component of the respondent's suicide ideation severity and behavior.
+Question 1: wish to be dead
+Question 2: non-specific suicidal thoughts
+Questions 3-5: more specific suicidal thoughts and intent to act
+Question 6: suicidal behavior over the respondent's lifetime and past 3 months
+If the respondent answers "yes" to Question 2, he/she is instructed to answer Questions 3-5. If the respondent answers "no" to Question 2, he/she may skip to Question 6.
+
+An answer of "yes" to any of the six questions may indicate a need for referral to a trained mental health professional and an answer of "yes" to questions 4, 5 or 6 indicate high-risk.
+
+See also 
+Diagnostic classification and rating scales used in psychiatry
+
+References
+
+Further reading
+
+External links
+
+The Columbia Lighthouse Webpage
+Full C-SSRS
+Screener C-SSRS
+EffectiveChildTherapy.Org information on self-injurious thoughts and behaviors
+
+Mental disorders diagnostic procedures
+Suicide

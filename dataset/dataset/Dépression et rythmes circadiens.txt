@@ -1,0 +1,77 @@
+Tous les organismes vivants ont développé des horloges biologiques endogènes permettant d’anticiper les variations environnement et ainsi favoriser la survie optimale . Le rythme biologique le plus étudié est le rythme circadien qui s’étend sur une période d’environ 24 heures.
+
+Chez l’être humain, les rythmes circadiens sont contrôlés par une horloge principale, appelée noyau suprachiasmatique situé dans l'hypothalamus, qui va agir sur plusieurs autres horloges périphériques localisées dans le reste du corps.
+
+Des perturbations des rythmes circadiens peuvent avoir un impact sur la vie d’un organisme. Des recherches scientifiques montrent de plus en plus qu’il y aurait une association entre les troubles de l’horloge biologique et certaines maladies psychiatriques telles que la dépression. Néanmoins, les recherches sur le sujet n’ont pas encore permis de déterminer si ces perturbations sont des causes ou des conséquences de la maladie .
+
+Aspects descriptifs
+
+Aspects cliniques 
+La dépression peut se manifester de diverses manières notamment par un réveil matinal précoce et/ou une hypersensibilité à la lumière. De même, des troubles tels que la fatigue, un sommeil de mauvaise qualité ou des troubles de la concentration et/ou de la mémoire peuvent en être des symptômes. Le décalage horaire ou le travail posté peuvent d’ailleurs être à l’origines de ces troubles, qui, à long terme, favorisent l’apparition de dépression.
+
+Aspects paracliniques 
+Chez les sujets dépressifs, une disparition des rythmes circadiens est constatée. De même, les sujets présentent souvent une perturbation de leur sommeil : que ce soit au niveau du rythme veille-sommeil , un sommeil de moins bonne qualité et une période de rêve arrivant plus tôt après le début du sommeil (correspondant à la première phase de "Rapide Eye Movement") . Enfin, les dépressifs présentent une fréquence plus importante de réveil en fin et début de cycle de sommeil ainsi qu’une durée moyenne plus courte par rapport à un individu non atteint .
+
+De plus, on retrouve également des perturbations dans le rythme circadien de la mélatonine. En temps normal, le taux de mélatonine sécrété augmente durant la nuit ce qui permet de dormir. Chez un patient dépressif, il y a une baisse importante de mélatonine ce qui provoque une avance de phase .
+
+Altérations des rythmes circadiens
+
+Les neuromédiateurs comme indicateurs physiologiques de l’état clinique 
+Il a été constaté chez les individus souffrant de dépression qu’il existe une perturbation des rythmes circadiens de divers neuromédiateurs tels que le cortisol ou la mélatonine. De même une perturbation dans le rythme circadien de la température corporelle est aussi présente .
+
+En effet, chez les individus dépressifs la sécrétion d’hormones adrénocorticotropes (dont les principaux effets sont de produire et libérer du cortisol) a lieu plus tôt le matin que chez un individu non dépressif . Une association entre sévérité de la dépression et niveaux accrus de cortisol pendant les heures de quiescence a été faite. Cependant, le lien exact entre taux de cortisol élevé et état dépressif reste flou. Une hypothèse suggère que la dépression pourrait être liée à une inhibition réduite de la rétroaction de l’activité de l’axe hypothalamo-hypophyso-surrénalien .
+
+De plus, les individus déprimés montrent une sécrétion et une amplitude du rythme circadien de la mélatonine inférieures à celles des individus non déprimés . Un concept établi est qu’il y a une carence en acide aminé au niveau du cerveau dans les cas de dépression. Une diminution des concentrations de sérotonine et de mélatonine dans le cerveau est plus susceptible de se produire chez les dépressifs et peut ainsi causer une déficience en tryptophane (comme l'hypercortisolémie nocturne qui peut induire l'hypercatabolisme du tryptophane après activation de la pyrrolase) . Enfn, la température corporelle nocturne des individus déprimés est sensiblement plus élevée que celle des individus non atteints .
+
+Les hormones comme indicateurs physiologiques de l’état clinique 
+Les individus atteints de dépression présentent une anomalie dans les rythmes circadiens de diverses hormones. C’est le cas par exemple de la prolactine, des hormones de croissance et des hormones thyroïdiennes . En effet, les individus dépressifs présentent une élévation importante du niveau de prolactine pendant la nuit. Ces anomalies pourraient être impliquées dans les perturbations du sommeil et de la sécrétion hormonale liée au sommeil .
+
+Chez les dépressifs le rythme circadien des hormones thyréotropes possède une amplitude réduite ainsi que de faibles taux de sécrétion. Cette réduction de l’amplitude pourrait être expliquée par le fait que les thyréostimulines des patients déprimés répondent faiblement à la présence des hormones thyréotropes. Cette perturbation dans la réponse aux hormones thyréotropes pourrait être induite par un dérèglement de l’axe hypothalamo-hypophyso-surrénalien .
+
+Par ailleurs, on soupçonne la faible amplitude et le profil aplati du rythme circadien des thyréostimulines observés chez les dépressifs d’être associés à une désynchronisation des horloges internes par rapport à l’environnement.
+
+De plus, il a été constaté que les individus déprimés présentent une hypersécrétion d’hormone de croissance pendant le jour .
+
+Hypothèse chronobiologique de la dépression 
+Des perturbations dans les rythmes circadiens comme des troubles du sommeil et de l’humeur, ou encore une asthénie chronique sont des symptômes communs de la dépression. Plusieurs modèles tentent d’expliquer ces phénomènes d’un point de vue chronobiologique : les modèles physiopathologiques et psychopathologiques.
+
+Modèles physiopathologiques 
+Divers modèles physiopathologiques ont été proposés pour comprendre les altérations des rythmes circadiens . 
+
+ Le modèle du « libre cours » repose sur une analogie entre la dépression et les expériences d’isolement temporel. Dans ce cas-là, on peut observer une désynchronisation des horloges biologiques notamment pour le cycle éveil/sommeil .
+
+ Le modèle d’anomalie de position de phase le plus connu est celui de l’avance de phase. L’importance de l’avance varie selon le rythmes étudiés, l’âge du patient, et la forme de la dépression. Des perturbations des rythmes biologiques (changements de température, synthèse de neurotransmetteurs et de neurohormones) ainsi que des modifications de la durée du sommeil paradoxal sont caractéristiques d’une avance de phase. On a pu remarquer une instabilité de phase, c’est-à-dire une variabilité dans la position de phase, en fonction du moment de l’épisode dépressif : une forte avance de phase est présente au cœur de la dépression alors qu’un retard de phase est souvent observé lors de la sortie de l’épisode dépressif.
+ Le sommeil est un processus à la fois circadien et homéostatique. Le modèle de perturbation de l’homéostasie du sommeil repose sur l’observation chez les sujets dépressifs d’un manque de « pression de veille » dépendant de l’homéostasie, couplée à une perturbation de la période endogène (changements de l’amplitude et de la phase).
+
+ Le modèle de perturbation du sommeil paradoxal repose sur l’effet antidépresseur de la privation du sommeil paradoxal. L’horloge principale située dans le noyau suprachiasmique dépend fortement de la lumière afin d’induire la synthèse de mélatonine par la glande pinéale. La mélatonine va réguler elle-même l’activité du noyau suprachiasmique et induire le sommeil via des récepteurs mélatoninergiques.
+
+Modèles psychopathologiques 
+Des modèles psychopathologiques tentent également de rendre compte des anomalies circadiennes retrouvées dans la dépression .
+
+ Le modèle de l’endokinèse a été décrit par Tellenbach. Il suppose que la dépression, de type mélancolique, apparaît comme une rupture entre le temps de l’organisme et de l’environnement. Cette désynchronisation dévoilerait la matérialité du corps et des rythmes biologiques .
+ Le modèle de la désynchronisation psychosociale a été décrite par Fuchs. Il suppose qu’il y a une désynchronisation entre le rôle social et les rythmes naturels. Ce défaut de couplage avec les synchroniseurs sociaux se manifeste aux dépens du développement personnel d’un sujet dépressif et il y a une grosse rupture entre la désynchronisation et la resynchronisation sociale.
+
+Moyens thérapeutiques 
+Les modèles physiopathologiques et psychopathologiques ont mené à l’exploration de différentes approches thérapeutiques. Certaines de ces approches sont encore expérimentales et nécessitent des études plus approfondies.
+
+Traitements liés aux modèles physiopathologiques 
+Les applications thérapeutiques des modèles physiopathologiques font appel aux manipulations du cycle veille-sommeil, à la luminothérapie ainsi qu’à la mélatonine et ses dérivés.
+
+Les approches chrono-thérapeutiques sont privilégiées pour traiter les patients atteints de dépression. Une des plus courantes est la privation partielle ou totale de sommeil : le temps et le moment de sommeil des patients est contrôlé en empêchant ceux-ci de dormir pendant toute ou une partie de la nuit précédant leur journée. Cette méthode, alternée avec de phases de « rechute de sommeil » durant lesquelles les patients peuvent dormir normalement s’avère être le traitement le plus rapide et le plus efficace pour soigner les symptômes de la dépression chronique . Cependant son effet thérapeutique a une durée limitée chez de nombreux patients , c’est pourquoi les médecins privilégient l’administration d’antidépresseurs ou la photothérapie en complément pour un effet plus durable.
+
+La luminothérapie repose sur le contrôle de l’exposition à la lumière. En effet, la lumière est le Zeitgeber principal de l’horloge interne et a trois effets majeurs sur les rythmes circadiens : elle est capable d’augmenter l’amplitude circadienne, d’induire un décalage de phase et de modifier la synchronisation de phase entre l’horloge interne et l’horloge externe.
+
+La luminothérapie a longtemps été réservée aux patients atteints de dépression saisonnière, cependant des recherches récentes ont démontré qu’elle pourrait être aussi efficace dans le cas de dépression chronique . Les recherches actuelles explorent également la piste de la thérapie par la noirceur .
+
+Les traitements portant sur la régulation des rythmes du cycle veille/sommeil laissent supposer que les antagonistes mélatoninergiques pourraient avoir un rôle thérapeutique, même si les propriétés antidépressives de la mélatonine n’ont pas encore été prouvées. La mélatonine serait capable d’agir sur la température en augmentant la vasodilatation distale et la perte de chaleur afin d’induire le sommeil et la resynchronisation (parfois transitoire) des rythmes circadiens .
+
+L’agomélatine, un agoniste aux récepteurs mélatoninergiques MT1 et MT2 et un antagoniste des récepteurs 5HT2c, permettrait d’induire le sommeil si elle est administrée quelques heures avant le coucher (le soir) .
+
+Traitements liés aux modèles psychopathologiques 
+Les modèles psychopathologiques ont eux aussi aidé au développement de traitements avec l’aménagement d’un espace-temps propre permettant la resynchronisation et au développement des capacités de resynchronisation .
+
+Ce type de traitement requiert un suivi psychologique régulier et personnalisé, et a généralement lieu dans une clinique ou un hôpital. Il est question de proposer aux patients déprimés un espace-temps propre où ils peuvent se reconstruire une existence régulière et rythmée. Le but est de fournir un environnement dans lequel ils sont capables de resynchroniser leurs rythmes internes pour ensuite se réadapter à l’horloge externe et au temps social. Les patients sont encouragés à se fixer des objectifs et à reprendre peu à peu une vie active.
+
+Notes et références 
+
+Rythme circadien

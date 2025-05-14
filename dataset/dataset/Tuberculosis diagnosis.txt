@@ -1,0 +1,177 @@
+Tuberculosis is diagnosed by finding Mycobacterium tuberculosis bacteria in a clinical specimen taken from the patient.  While other investigations may strongly suggest tuberculosis as the diagnosis, they cannot confirm it.
+
+A complete medical evaluation for tuberculosis (TB) must include a medical history, a physical examination, a chest X-ray and microbiological examination (of sputum or some other appropriate sample).  It may also include a tuberculin skin test, other scans and X-rays, surgical biopsy.
+
+Medical history
+The medical history includes obtaining the symptoms of pulmonary TB:  productive, prolonged cough of three or more weeks, chest pain, and hemoptysis. Systemic symptoms include low grade remittent fever, chills, night sweats, appetite loss, weight loss, easy fatiguability, and production of sputum that starts out mucoid but changes to purulent.  Other parts of the medical history include prior TB exposure, infection or disease and medical conditions that increase risk for TB disease such as HIV infection. Depending on the sort of patient population surveyed, as few as 20%, or as many as 75% of pulmonary tuberculosis cases may be without symptoms.
+
+Tuberculosis should be suspected when a pneumonia-like illness has persisted longer than three weeks, or when a respiratory illness in an otherwise healthy individual does not respond to regular antibiotics.
+
+Physical examination
+A physical examination is done to assess the patient's general health. It cannot be used to confirm or rule out TB. However, certain findings are suggestive of TB. For example, blood in the sputum, significant weight loss and drenching night sweats may be due to TB.
+
+Microbiological studies
+
+A definitive diagnosis of tuberculosis can only be made by culturing Mycobacterium tuberculosis organisms from a specimen taken from the patient (most often sputum, but may also include pus, CSF, biopsied tissue, etc.).  A diagnosis made other than by culture may only be classified as "probable" or "presumed".  For a diagnosis negating the possibility of tuberculosis infection, most protocols require that two separate cultures both test negative.
+
+Sputum
+Sputum smears and cultures should be done for acid-fast bacilli if the patient is producing sputum.  The preferred method for this is fluorescence microscopy (auramine-rhodamine staining), which is more sensitive than conventional Ziehl–Neelsen staining. In cases where there is no spontaneous sputum production, a sample can be induced, usually by inhalation of a nebulized saline or saline with bronchodilator solution. A comparative study found that inducing three sputum samples is more sensitive than three gastric washings.
+
+Alternative sampling
+In patients incapable of producing a sputum sample, common alternative sample sources for diagnosing pulmonary tuberculosis include gastric washings, laryngeal swab, bronchoscopy (with bronchoalveolar lavage, bronchial washings, and/or transbronchial biopsy), and fine needle aspiration (transtracheal or transbronchial). In some cases, a more invasive technique is necessary, including tissue biopsy during mediastinoscopy or thoracoscopy.
+
+PCR
+Other mycobacteria are also acid-fast. If the smear is positive, PCR or gene probe tests can distinguish M. tuberculosis from other mycobacteria. Even if sputum smear is negative, tuberculosis must be considered and is only excluded after negative cultures.
+
+Other
+Many types of cultures are available. Traditionally, cultures have used the Löwenstein-Jensen (LJ), Kirchner, or Middlebrook media (7H9, 7H10, and 7H11). A culture of the AFB can distinguish the various forms of mycobacteria, although results from this may take four to eight weeks for a conclusive answer. New automated systems that are faster include the MB/BacT, BACTEC 9000, VersaTREK, and the Mycobacterial Growth Indicator Tube (MGIT).  The Microscopic Observation Drug Susceptibility assay culture may be a faster and more accurate method.
+
+Radiography
+
+Chest X-ray and CT
+
+In active pulmonary TB, infiltrates or consolidations and/or cavities are often seen in the upper lungs with or without mediastinal or hilar lymphadenopathy or pleural effusions ( tuberculous pleurisy). However, lesions may appear anywhere in the lungs. In disseminated TB a pattern of many tiny nodules throughout the lung fields is common - the so-called miliary TB. In HIV and other immunosuppressed persons, any abnormality may indicate TB or the chest X-ray may even appear entirely normal.
+
+Abnormalities on chest radiographs may be suggestive of, but are not necessarily diagnostic of, TB. However, chest radiographs may be used to rule out the possibility of pulmonary TB in a person who has a positive reaction to the tuberculin skin test and no symptoms of the disease.
+
+Cavitation or consolidation of the apexes of the upper lobes of the lung or the tree-in-bud sign  may be visible on an affected patient's chest X-ray.
+The tree-in-bud sign may appear on the chest CTs of some patients affected by tuberculosis, but it is not specific to tuberculosis.
+
+FDG PET/CT
+FDG PET/CT can play several useful roles in patients with confirmed or suspected TB. These roles include detection of active TB lesions, assessment of disease activity, differentiation between active and latent disease, assessment of disease extent (staging), monitoring response to treatment, and identification of potential biopsy target.
+
+Abreugraphy
+
+A variant of the chest X-Ray, abreugraphy (from the name of its inventor, Dr. Manuel Dias de Abreu) was a small radiographic image, also called miniature mass radiography (MMR) or miniature chest radiograph. Though its resolution is limited (it doesn't allow the diagnosis of lung cancer, for example) it is sufficiently accurate for diagnosis of tuberculosis.
+
+Much less expensive than traditional X-Ray, MMR was quickly adopted and extensively utilized in some countries, in the 1950s. For example, in Brazil and in Japan, tuberculosis prevention laws went into effect, obligating ca. 60% of the population to undergo MMR screening.
+
+The procedure went out of favor, as the incidence of tuberculosis dramatically decreased, but is still used in certain situations, such as the screening of prisoners and immigration applicants.
+
+Immunological test
+
+ALS Assay
+
+Antibodies from Lymphocyte Secretion or Antibody in Lymphocyte Supernatant or ALS Assay is an immunological assay to detect active diseases like tuberculosis, cholera, typhoid etc. Recently, ALS assay nods the scientific community as it is rapidly used for diagnosis of tuberculosis. The principle is based on the secretion of antibody from in vivo activated plasma B cells found in blood circulation for a short period of time in response to TB-antigens during active TB infection rather than latent TB infection.
+
+Transdermal Patch 
+A similar approach to the ALS assay. The transdermal patch is a suggested method of detecting active M.tuberculosis circulating within blood vessels of patient. This skin patch contains antibodies recognizing the secreted bacterial protein MPB-64 passing through the blood capillaries of the skin creating an immunological response. If the patch detects this secreted bacterial protein, the surrounding skin will redden.
+
+Tuberculin skin test
+
+Two tests are available: the Mantoux and Heaf tests.
+
+Mantoux skin test
+
+The Mantoux skin test is used in the United States and is endorsed by the American Thoracic Society and Centers for Disease Control and Prevention (CDC).
+
+If a person has had a history of a positive tuberculin skin test, another skin test is not needed.
+
+Heaf test
+
+The Heaf test was used in the United Kingdom until 2005, and is graded on a four-point scale. The Mantoux test is now used.
+
+The equivalent Mantoux test positive levels done with 10 TU (0.1 ml 100 TU/ml, 1:1000) are
+ 0–4 mm induration (Heaf 0 to 1)
+ 5–14 mm induration (Heaf 2)
+ Greater than 15 mm induration (Heaf 3 to 5)
+
+CDC classification of tuberculin reaction
+An induration (palpable raised hardened area of skin) of more than 5–15 mm (depending upon the person's risk factors) to 10 Mantoux units is considered a positive result, indicating TB infection.
+ 5 mm or more is positive in
+ HIV-positive person
+ Recent contacts of TB case
+ Persons with nodular or fibrotic changes on CXR consistent with old healed TB
+ Patients with organ transplants and other immunosuppressed patients
+ 10 mm or more is positive in
+ Recent arrivals (less than 5 years) from high-prevalent countries
+ Injection drug users
+ Residents and employees of high-risk congregate settings (e.g., prisons, nursing homes, hospitals, homeless shelters, etc.)
+ Mycobacteriology lab personnel
+ Persons with clinical conditions that place them at high risk (e.g., diabetes, prolonged corticosteroid therapy, leukemia, end-stage renal disease, chronic malabsorption syndromes, low body weight, etc.)
+ Children less than 4 years of age, or children and adolescents exposed to adults in high-risk categories
+ 15 mm or more is positive in
+ Persons with no known risk factors for TB
+ (Note: Targeted skin testing programs should only be conducted among high-risk groups)
+
+A tuberculin test conversion is defined as an increase of 10 mm or more within a 2-year period, regardless of age.
+
+BCG vaccine and tuberculin skin test
+
+There is disagreement on the use of the Mantoux test on people who have been immunized with BCG.  The US recommendation is that in administering and interpreting the Mantoux test, previous BCG vaccination should be ignored; the UK recommendation is that interferon-γ tests should be used to help interpret positive tuberculin tests, also, the UK does not recommend serial tuberculin skin testing in people who have had BCG (a key part of the US strategy).  In their guidelines on the use of QuantiFERON Gold the US Centers for Disease Control and Prevention state that whereas Quantiferon Gold is not affected by BCG inoculation tuberculin tests can be affected.  In general the US approach is likely to result in more false positives and more unnecessary treatment with potentially toxic drugs; the UK approach is as sensitive in theory and should also be more specific, because of the use of interferon-γ tests.
+
+Under the US recommendations, diagnosis and treatment of latent tuberculosis infection (LTBI) is considered for any BCG-vaccinated person whose skin test is 10 mm or greater, if any of these circumstances are present:
+ Was in contact with another person with infectious TB
+ Was born or has resided in a high TB prevalence country
+ Is continually exposed to populations where TB prevalence is high.
+
+These have been reviewed in detail.
+
+Adenosine deaminase
+In 2007, a systematic review of adenosine deaminase by the NHS Health Technology Assessment Programme concluded "There is no evidence to support the use of ADA tests for the diagnosis of pulmonary TB. However, there is considerable evidence to support their use in pleural fluid samples for diagnosis of pleural TB, where sensitivity was very high, and to a slightly lesser extent for TB meningitis. In both pleural TB and TB meningitis, ADA tests had higher sensitivity than any other tests."
+
+Nucleic acid amplification tests (NAAT)
+
+NAATs for TB are a heterogeneous group of tests that use either the polymerase chain reaction (PCR) technique or transcription-mediated amplification (TMA) or other forms of nucleic acid amplification methods to detect mycobacterial nucleic acid.  These tests vary in which nucleic acid sequence they detect and vary in their accuracy.  In the decade of the 2000s, the two most common commercially available tests were the amplified mycobacterium tuberculosis direct test (MTD, Gen-Probe) and Amplicor (Roche Diagnostics).  In 2007, a systematic review of NAAT by the NHS Health Technology Assessment Programme concluded that "NAAT test accuracy to be far superior when applied to respiratory samples as opposed to other specimens.  Although the results were not statistically significant, the AMTD test appears to perform better than other currently available commercial tests." Xpert ® MTB/RIF and Xpert MTB/RIF Ultra  has high specificity in diagnosing extrapulmonary tuberculosis and is accurate in detecting rifampicin resistance. However, clinicians should rely on clinical judgement to diagnose TB meningitis when culture results are negative.
+
+A 2007 before-after observational study found that use of the MTD test reduces inappropriate tuberculosis therapy. The study found the accuracy of the MTD test as follows:
+
+Overall
+ sensitivity 92%
+ specificity 99%
+
+Smear positive patients
+ sensitivity 99%
+ specificity 98%
+
+Smear negative patients
+ sensitivity 62%
+ specificity 99%
+
+In 2010 the Xpert MTB/RIF test, another NAAT for TB, became commercially available and, as the CDC said in 2015, it began "revolutionizing tuberculosis (TB) control by contributing to the rapid diagnosis of TB disease and drug resistance. The test simultaneously detects Mycobacterium tuberculosis complex (MTBC) and resistance to rifampin (RIF) in less than 2 hours. In comparison, standard cultures can take 2 to 6 weeks for MTBC to grow and conventional drug resistance tests can add 3 more weeks."  The Xpert MTB/RIF Ultra improves upon the Xpert MTB/RIF test.
+
+LAM detection assays 
+Tests based on the detection of mycobacterial lipoarabinomannan (LAM) antigen in urine have emerged as point-of-care tests for tuberculosis (TB). LAM antigen is a lipopolysaccharide present in mycobacterial cell walls, which is released from metabolically active or degenerating bacterial cells and appears to be present only in people with active TB disease. Urine-based testing have advantages over sputum-based testing because urine is easy to collect and store, and lacks the infection control risks associated with sputum collection.
+
+In 2015, WHO recommended the use of the Alere Determine TB LAM Ag assay for people with HIV and a CD4 count below 100 cells/μL and in those defined as seriously ill according to WHO criteria (respiratory rate >30 breaths per min, body temperature >39 °C, heart rate >120 beats per min, or unable to walk unaided). This recommendation was informed by a Cochrane systematic review and meta-analysis of 12 cross-sectional or cohort studies that showed a relatively low pooled sensitivity of 45% and specificity of 92% against a microbiological reference standard. Despite the limited sensitivity, test-guided initiation of anti-TB treatment reduced mortality in immunocompromised, hospitalized PLHIV.
+
+In 2019, an international R&D consortium including FIND, Fujifilm, University of Cape Town, Rutgers University, University of Alberta and Otsuka funded by GHIT completed the development and a first clinical study of the Fujifilm SILVAMP TB point-of-care LAM assay. Compared with the Alere Determine TB LAM Ag assay, the Fujifilm SILVAMP TB LAM assay includes novel monoclonal antibodies directed towards the 5-methylthio-d-xylofuranose (MTX) epitope and a silver amplification technology to enable higher diagnostic sensitivity at high specificity. A study with 968 HIV+ hospital inpatients found the Fujifilm SILVAMP TB LAM test to have a 28.1% higher sensitivity than the Alere Determine TB LAM Ag and the Fujifilm SILVAMP TB LAM could diagnose 65% of patients with active TB within 24 h. A meta-analysis with 1,595 inpatients and outpatients showed 70.7% sensitivity and 90.9% specificity for TB diagnosis in people living with HIV for Fujifilm SILVAMP TB LAM. The test showed a high positive predictive value (95.2%) in HIV-negative outpatients and has the potential to improve rapid, urine-based TB diagnosis in general populations at the point-of-care. Large prospective studies are on the way.
+
+Interferon-γ release assays
+Interferon-γ (interferon-gamma) release assays (IGRAs) are relatively new tests for tuberculosis.  IGRAs are based on the ability of the Mycobacterium tuberculosis antigens for early secretory antigen target 6 (ESAT-6) and culture filtrate protein 10 (CFP-10) to stimulate host production of interferon-gamma. Because these antigens are only present in few non-tuberculous mycobacteria or not in any BCG vaccine strain, these tests are thought to be more specific than the tuberculin skin test.
+
+The blood tests QuantiFERON-TB Gold In-Tube and T-SPOT.TB use these antigens to detect people with tuberculosis. Lymphocytes from the patient's blood are incubated with the antigens.  These tests are called interferon γ tests and are not equivalent.  If the patient has been exposed to tuberculosis before, T lymphocytes produce interferon γ in response.  The QuantiFERON-TB Gold In-Tube uses an ELISA format to detect the whole blood production of interferon γ. The distinction between the tests is that QuantiFERON-TB Gold quantifies the total amount of interferon γ when whole blood is exposed to the antigens(ESAT-6, CFP-10 and TB 7.7(p4)), whereas    Guidelines for the use of the FDA approved QuantiFERON-TB Gold were released by the CDC in December 2005. In October 2007, the FDA gave approval of QuantiFERON-TB Gold In Tube for use in the United States.
+
+The enzyme-linked immunospot assay (ELISPOT) is another blood test available in the UK that may replace the skin test for diagnosis. T-SPOT.TB, a type of ELISpot Assay, counts the number of activated T lymphocytes that secrete interferon γ.
+
+For diagnosing latent TB, three systematic reviews of IGRAs concluded the tests noted excellent specificity for the tests to distinguish latent TB from prior vaccination.
+
+According to a study from Korea, where there is a high prevalence of LTBI, QuantiFERON-TB Gold and T-SPOT.TB have good sensitivity but reduced specificity for diagnosing active TB, due to their ability to detect latent TB. In a recently published metaanalysis, with data from both developed and developing countries, QuantiFERON-TB Gold In Tube had a pooled sensitivity for active TB of 81% and specificity of 99.2%, whereas T-SPOT.TB had a pooled sensitivity of 87.5% and specificity of 86.3%. In head-to-head comparisons, the sensitivity of IGRAs surpassed TST. However, several subsequent studies have reported higher sensitivity for TST than for IGRAs in patients with active TB; one large study reported a sensitivity of 90% for TST and only of 81% for the QuantiFERON-TB Gold assay.
+
+A study at Stanford University confirmed that addition of immune boosters can make the IGRA more reliable in terms of separating positive from negative individuals. A study from the University of Southampton shows that variations in environmental temperatures can have a profound effect on the performance of IGRA. A recently published study from the same group also provided evidence that immunosuppressive agents significantly impair the performance of IGRAs, raising concerns about their reliability in immunosuppressed patients.
+Although, IGRA replaced the TST in most of the clinical settings but the variability is a concern while reading the result
+
+Tuberculosis detection using trained rats
+The international nonprofit organization APOPO has been working with Sokoine University of Agriculture in Tanzania to train African giant pouched rats (Cricetomys ansorgei) to detect the "scent" of tuberculosis. A recent study shows that "rats increased pediatric tuberculosis detection by 67.6%" and that training these creatures could help address the current challenges related to the diagnosis of this illness in children.
+
+Tuberculosis classification system used in the US
+
+The current clinical classification system for TB (Class 0 to 5) is based on the pathogenesis of the disease.
+
+The U.S. Citizenship and Immigration Services has an additional TB classification (Class A, B1, or B2) for immigrants and refugees developed by the Centers for Disease Control and Prevention (CDC).  The (Class) B notification program is an important screening strategy to identify new arrivals who have a high risk for TB.
+
+References
+
+Further reading
+
+Notes
+ Medical Examination of Aliens (Refugees and Immigrants) - Division of Global Migration and Quarantine, CDC (website).
+ Targeted Tuberculin Testing and Treatment of Latent Tuberculosis Infection 2000 ATS/CDC (fulltext, PDF format) (Updates 2001-2003).
+
+External links 
+ University of Washington Molecular Diagnosis, Microbiology Division | PCR-based detection in direct tissue samples
+ Oxford Immunotec Medical Diagnostics|TB Education and Learning Zone
+ Spoligo typing kits ([[Ocimum Bio Solutions)for detection of TB]
+
+Tuberculosis
+Respiratory system procedures

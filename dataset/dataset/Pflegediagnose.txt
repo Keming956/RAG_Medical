@@ -1,0 +1,123 @@
+Mit Pflegediagnosen werden pflegebegründende Aspekte, die sowohl körperliche, seelische als auch soziale Bezüge haben können, beschrieben oder bewertet. Pflegerische Diagnostik ist ein Bestandteil des Pflegeprozesses, sie unterscheidet sich von der ärztlichen Diagnosefindung. Mit einer eigenen Fachsprache sollen international einheitliche typische Pflegephänomene definiert werden, die pflegerisch erkennbar, benennbar und behandelbar sind.
+
+Definition 
+Die verschiedenen Autoren bzw. Pflegeklassifikationssysteme (welche Pflegediagnosen klassifizieren) definieren Pflegediagnosen unterschiedlich. Nachfolgend sind exemplarisch einige Definitionen aufgeführt.
+
+Eine der ersten Definitionen stammt von McManus:
+
+In der Klassifikation PraxisOrientierte Pflegediagnostik – POP werden Pflegediagnosen wie folgt definiert: 
+ Die Definition nach POP orientiert sich an der Definition von Pflege des International Council of Nursing (ICN). Dadurch umfasst die POP-Definition von Pflegediagnosen nicht nur Probleme und Defizite, sondern auch die positiven, gesunden Anteile von Menschen (Ressourcen).
+
+Laut NANDA International ist eine Pflegediagnose wie folgt definiert:
+
+Abderhalden definiert eine Pflegediagnose wie folgt:
+
+Fischer definiert etwas pragmatischer.
+
+Mortensen definiert Pflegediagnosen wie folgt:
+
+Eine ENP-Pflegediagnose ist ein Bestandteil der Pflegeklassifikation European Nursing care Pathways (ENP) und ist wie folgt definiert:
+
+Pflegediagnosen beschreiben die Reaktionen von Menschen auf den aktuellen Gesundheitsstatus und gesundheitsbezogene Ereignisse im Lebensprozess bzw. deren Umgang damit. Die pflegerische Beurteilung richtet sich am Erleben der Gesundheits- oder Krankheitssituationen von Menschen aus. Die medizinische Diagnostik und Therapie beschäftigen sich direkt mit den Krankheiten eines Menschen.
+
+Um die Dokumentation des Pflegebedarfs zu verbessern und sich für DRGs vorzubereiten, führten viele Pflegeeinrichtungen die Pflegediagnostik ein. Die Implementierung von standardisierten Pflegediagnosen, -interventionen und -ergebnissen ermöglicht, die Praktikabilität und Effizienz des Managements von Pflegedaten zu steigern. Das Hinzufügen von NANDA-International Pflegediagnosen zu den DRG-Modellen erhöht deren Erklärungskraft bezüglich Aufenthaltsdauer, Kosten, Sterbewahrscheinlichkeit und Übertritt ins Pflegeheim um 30 Prozent. Sie stellen standardisierte Beschreibungen des Pflegebedarfs dar und ermöglichen, Pflegeleistungen anhand der DRGs gezielt zu begründen. Untersuchungen haben gezeigt, dass dank der Implementierung von NANDA-International Pflegediagnosen die Qualität von Pflegeassessments steigt und der Pflegebedarf gezielter erfasst wird.
+
+Pflegediagnosen sind nicht dazu geeignet den Pflegebedarf in Minutenwerten zu erfassen, da sie insbesondere potentielle Probleme erfassen und als Ziel die Aufmerksamkeit der zuständigen Pflegekräfte auf die Pflegeprobleme richten soll, z. B. bei der Krankenbeobachtung oder dem pflegerischen Handeln.
+
+Arten von Pflegediagnosen 
+Es lassen sich folgende Arten von Pflegediagnosen unterscheiden:
+ Aktuelle Pflegediagnosen definieren eine Situation, die, vergleichbar den medizinischen Diagnosen, durch Symptome nachweisbar und überprüfbar ist. Sie beinhalten den Pflegediagnosetitel, ätiologische Faktoren und Symptome.
+ Hochrisiko- oder Gefährdungspflegediagnosen beziehen sich auf eine noch nicht eingetretene, aber mögliche Situation. Sie geben der Pflege Hinweise, eine Gefährdung für den Bewohner/Patienten zu erkennen und entsprechenden Maßnahmen frühzeitig einzuleiten (etwa Prophylaxe).
+ Syndrompflegediagnosen fassen aktuelle und Hochrisiko- oder Gefährdungspflegediagnosen zu einem Syndrom zusammen.
+ Gesundheits-Pflegediagnosen oder Wellness-Pflegediagnosen dienen der allgemeinen Gesundheitsförderung einer Person. Sie bieten den so beratenen Menschen etwa die Möglichkeit eines verbesserten Ernährungsverhaltens, einer verbesserten Elternschaft oder eines verbesserten Familienlebens.
+ Verdachts-Pflegediagnosen beschreiben mögliche vorliegende Probleme des Patienten, für deren Bestätigung oder Ausschluss jedoch zusätzlich Informationen benötigt werden.
+
+Der diagnostische Prozess (nach Cox) 
+Die wesentlichen Elemente, die eine Pflegeperson für die Formulierung ihrer Diagnosen angeblich benötigt, sind Wahrnehmung, kognitive Verarbeitung, Beschreibung und Mitteilung des Wahrgenommenen. Dazu geht sie nach Cox folgende Schritte:
+ Sammlung der Daten
+ Identifizierung der allgemeinen Probleme
+ Nochmalige Zusammenfassung der Daten (Clusterung gemäß der identifizierten Probleme)
+ Evtl. Sammlung weiterer Daten (problemorientiertes Assessment)
+ Generierung mehrerer diagnostischer Hypothesen
+ Überprüfung der diagnostischen Hypothesen
+ Auswahl der akkuratesten Pflegediagnose
+ Validierung der Pflegediagnose
+ Formulierung der diagnostischen Aussage
+
+Klassifikationssysteme 
+Die Entwicklung von Pflegediagnosen ist insbesondere in Kontext der Entwicklung von Klassifikationen in der Pflege zu verstehen. Diese dienen entweder
+ als übergeordneter, fachsprachlicher Referenzrahmen
+ etwa International Classification of Nursing Practice
+ oder zur konkreten Beschreibung von Teilaspekten des Pflegeprozesses
+ etwa NANDA-International, klassifiziert Pflegediagnosen und ist in Deutsch sowohl als Datenbank zur Einbindung in elektronische Patientenakten sowie als Buchveröffentlichung zugänglich; POP – PraxisOrientierte Pflegediagnostik, klassifiziert Pflegediagnosen und bietet außerhalb der Klassifikation stehend exemplarische Pflegeziele und Maßnahmen zu jeder Pflegediagnose (POP ist ebenfalls als Buchpublikation und als Datenbank für die Nutzung in EDV-gestützten Dokumentationssystemen verfügbar); Nursing Interventions Classification, klassifiziert Pflegemaßnahmen (NIC); Nursing Outcomes Classification (NOC), klassifiziert pflegerische Outcomes; oder ENP European Nursing Care Pathways, die Klassifikation verbindet Pflegediagnosen, -ziele und -maßnahmen in Form von ENP-Praxisleitlinien. Die Praxisleitlinien sind wissenschaftlich entwickelt, Validierungsarbeiten liegen vor und werden kontinuierlich aktualisiert. Sie repräsentieren das aktuelle Pflegefachwissen, so der Anspruch der Entwickler. ENP ist in verschiedenen Sprachen verfügbar (Deutsch, Englisch, Italienisch, Französisch), ENP ist in From einer Datenbank zur Einbindung in elektronische Patientenakten oder als Buch veröffentlicht. Es sei an dieser Stelle angemerkt, dass diese Aufzählung nicht vollständig ist und weitere Pflegeklassifikationssysteme existieren.
+
+Den höchsten Bekanntheits- und Verbreitungsgrad hat dabei bislang die Klassifikation der NANDA International (NANDA-I) erreicht. NANDA-I entwickelt und fördert eine Pflegefachsprache, welche die klinischen Urteile von Pflegefachpersonen genau darstellt. Diese evidenzbasierte Darstellungsweise beinhaltet soziale, psychologische und spirituelle Dimensionen der Pflege. Im Jahr 2003 wurde die NANDA Taxonomiy II mit NIC und NOC zur NANDA-I-NIC-NOC Taxonomie, die auch als NNN-Taxonomie bezeichnet wird, zusammengeführt. Damit wurde eine Gesamtklassifikation für Pflegediagnosen, Pflegeinterventionen und Pflegeergebnisse entwickelt.
+
+Darüber hinaus existieren international noch weitere Klassifikationen, die sich aber nicht wirklich durchsetzen konnten, etwa die Home Health Care Classification von V. K. Saba, die speziell für den Bereich der häuslichen Pflege entwickelt wurde.
+
+Beispiele aus der Altenpflege 
+Die Beispiele von Pflegediagnosen aus der Altenpflege beziehen sich auf einen ATL-/AEDL-Teil-Bereich (Alltagsaktivitäten-Pflegemodell)
+ Anmerkungen: Die nachfolgend aufgeführten „Pflegediagnosen“ sind nicht vollständig und werden erst zu einer pflegediagnostischen Aussage, wenn Kennzeichen und Ursachen mit angegeben werden. Die Formulierungen sind teilweise auf medizinisch orientierte Seiten verlinkt, so dass die Beschreibungen teilweise Symptome beschreiben und keine pflegerisch diagnostische Aussage darstellen. Teilweise haben die Formulierungen Ähnlichkeit mit NANDA-Pflegediagnosen, es sollte geprüft werden ob hier Quellenangaben sinnvoll sind.
+
+ATL Essen und Trinken können 
+ Mangelernährung
+ Dehydratation
+ Schluckstörung
+ Selbstversorgungsdefizit in Bezug auf das Essen
+ Übelkeit
+ Aspirationsgefahr
+
+ATL Soziale Beziehungen und Bereiche sichern und gestalten 
+ Unterbrochene Familienprozesse (vgl. Familie)
+ Gefahr einer Rollenüberlastung pflegender Angehöriger/Laien
+ Rollenüberlastung pflegender Angehöriger/Laien
+ Alkoholismusbedingt gestörte Familienprozesse
+ Vereinsamungsgefahr
+ Soziale Isolation
+
+ATL Sich bewegen können 
+ Gefahr der Immobilität
+ Gefahr einer Unterbrechung der Zirkulation, Sensibilität oder Bewegungsfähigkeit einer Extremität
+
+ Beeinträchtigte Bett-Mobilität
+ Beeinträchtigte Transferfähigkeit (Bett-Stuhl usw.)
+ Beeinträchtigte Rollstuhl-Mobilität
+ Beeinträchtigte Gehfähigkeit
+
+Literatur 
+ Harald Stefan, Franz Allmer, Kurt Schalek et al.: POP – Praxisorientierte Pflegediagnostik. Springer Wien/New York. 2013, ISBN 978-3-7091-1283-0
+ Marylinn E. Doenges, Mary F. Moorhouse, Alice C. Geissler-Murr: Pflegediagnosen und Maßnahmen. Pflegeprozess. 1. korr. Nachdr. der 3. vollst. überarbeit. u. erweit. Auflage, Verlag Hans Huber, Bern 2002, ISBN 3-456-82960-4
+ Marjory Gordon: Handbuch Pflegediagnosen. Das Buch zur Praxis. 4. Auflage. Urban & Fischer, München / Jena. 2003. ISBN 3-437-26442-7
+ Marjory Gordon, Sabine Bartholomeyczik: Pflegediagnosen. Theoretische Grundlagen. 1. Auflage. Urban & Fischer, München / Jena 2001, ISBN 3-437-26380-3
+ Harald Stefan, Franz Allmer, Josef Eberl et al.: Praxis der Pflegediagnosen. Springer, Wien / New York 2004, ISBN 978-3-211-00807-2.
+ Mary C. Townsend: Pflegediagnosen und Maßnahmen für die psychiatrische Pflege. 2. Auflage. Verlag Hans Huber, Bern 2006, ISBN 3-456-83944-8.
+ Wolfram Fischer: Diagnosis Related Groups (DRGs) und Pflege. Grundlagen, Codierungssysteme, Integrationsmöglichkeiten. Verlag Hans Huber, Bern 2002, ISBN 3-456-83576-0.
+ Wolfram Fischer: Die Bedeutung von Pflegediagnosen in Gesundheitsökonomie und Gesundheitsstatistik 2. Aufl. Wolfertswil 1999, ISBN 3-9521232-4-2.
+ Michael Herrmann, Jürgen Georg: NANDA-Pflegediagnosen. Definitionen und Klassifikation 2005–2006. Verlag Hans Huber, Bern 2005, ISBN 3-456-83322-9.
+ Annette Heuwinkel-Otter et al.: Menschen pflegen. (Bd. 1 bis 3, Ausbildungsbegleiter), Springer MedizinVerlag, Heidelberg 2006/2007
+ Annette Heuwinkel-Otter et al.: Menschen pflegen. Der Praxisbegleiter für Pflegeprofis, Springer MedizinVerlag, Heidelberg 2009. ISBN 978-3-540-79320-5
+ Annette Heuwinkel-Otter et al.: Menschen pflegen. Pflegediagnosen für die Kitteltasche, Springer MedizinVerlag, Heidelberg 2011, ISBN 978-3-642-01318-8
+ Jürgen Hollick, Andrea Kerres: Pflege im DRG-System. DRGs – Pflege – Pflegediagnose. Spitta Verlag, Balingen. 2005. ISBN 3-934211-00-3
+ Ingrid Kollak, Margret Georg: Pflegediagnosen. 3. Aufl. Mabuse-Verlag. 1999. ISBN 3-933050-18-9 (Tagungsband)
+ Berta Schrems: Der Prozess des Diagnostizierens in der Pflege. UTB, Heidelberg 2003, ISBN 3-8252-2468-6
+ Cathrin Björvell, R.Wredling, I. Thorell-Ekstrand: Long-term increase in quality of nursing documentation: Effects of a comprehensive intervention. In: Scandinavian Journal of Caring Sciences, 16, 2002, S. 34–42.
+ A. Brune, A. Budde: Ergebnisse aus zwei empirischen Studien zum Stand der Einführung aus Sicht der Patienten und der Pflegenden. In: S. Käppeli (Hrsg.): Pflegediagnostik unter der Lupe: Wissenschaftliche Evaluation verschiedener Aspekte des Projektes Pflegediagnostik am UniversitätsSpital Zürich. Zentrum für Entwicklung und Forschung Pflege, Zürich 2000, S. 62–102.
+ J. Florin, A. Ehrenberg, M. Ehnfors: Quality of nursing diagnoses: evaluation of an educational intervention. In: International Journal of Nursing Terminologies and Classifications, 16(2), 2005, S. 33–43.
+ M. H. Hanson, F. T. Kennedy, L. L. Dougherty, L. J. Bauman: Education in nursing diagnosis: Evaluating clinical outcomes. In: The Journal of Continuing Education in Nursing, 21(2), 1990, S. 79–85.
+ C. F. Johnson, L. W. Hales: Nursing diagnosis anyone? Do staff nurses use nursing diagnosis effectively? In: The Journal of Continuing Education in Nursing, 20(1), 1989, S. 30–35.
+ M. A. Lavin, K. Avant, M. Craft-Rosenberg, T. H. Herdman, K. Gebbie: Contexts for the study of the economic influence of nursing diagnoses on patient outcomes. In: International Journal of Nursing Terminology in Classification, 15(2), 2004, S. 39–37.
+ M. Müller Staub: Qualität der Pflegediagnostik und PatientInnen-Zufriedenheit: Eine Studie zur Frage nach dem Zusammenhang. In: Pflege: Die wissenschaftliche Zeitschrift für Pflegeberufe, 15(3), 2002, S. 113–121.
+ M. Müller-Staub: Förderung der Pflegediagnostik und ihr Beitrag zu patientenorientierten Kostenmodellen. In: W. Oggier, A. Walter, S. Reichlin, M. Egli (Hrsg.): Handbuch Gesundheitswesen Schweiz im Umbruch. Trend Care AG, eHealthCare.ch, Sursee 2008, S. 1–8.
+ M. Müller-Staub, I. Needham, M. Odenbreit, M. A. Lavin, T. van Achterberg: Improved quality of nursing documentation: Results of a nursing diagnoses, interventions and outcomes implementation study. In: International Journal of Nursing Terminology in Classification, 18(1), 2007, S. 5–17.
+ M. Müller-Staub, I. Needham, M. Odenbreit, M. A. Lavin, T. van Achterberg: Pflegediagnosen, -interventionen und -ergebnisse: Anwendung und Auswirkungen auf die Pflegepraxis: Eine systematische Literaturübersicht. In: Pflege: Die wissenschaftliche Zeitschrift für Pflegeberufe, 20(6), 2007, S. 352–371.
+ J. M. Welton, E. J. Halloran: Nursing diagnoses, diagnosis-related group, and hospital outcomes. In: Journal of Nursing Administration, 35(12), 2005, S. 541–549.
+
+Weblinks 
+ Deutschsprachige ICNP-Nutzergruppe
+ ICD-10-Liste für die Pflege (Schlussentwurf, Deutscher Berufsverband für Pflegeberufe, des Diskussionsvorschlag von Experten aus dem Höhenrieder Kreis (HK) im Auftrag des Deutschen Pflegerates (DPR), 2002)
+ Wissenschaftliche Hintergründe zu ENP-Pflegediagnosen
+
+Einzelnachweise 
+
+ 
+Pflegeklassifikation

@@ -1,0 +1,54 @@
+En médecine, le diagnostic est la démarche par laquelle le vétérinaire, médecin, généraliste ou spécialiste, le kinésithérapeute, la sage-femme ou le chirurgien-dentiste, ou encore le psychologue au Canada, détermine l'affection dont souffre le patient, et qui permet de proposer un traitement. Il repose sur la recherche des causes (étiologie) et des effets (symptômes) de l'affection ; on parle aussi de « tableau clinique ».
+
+(voir la page  pour l'étymologie et des généralités sur ce mot)
+
+Le diagnostic du médecin 
+
+Typiquement, le diagnostic se déroule en deux parties :
+ Anamnèse (ou histoire de la maladie) : c'est l'étape la plus cruciale de la consultation. Le médecin y écoute son patient, d'abord librement, puis en l'orientant par des questions. L'anamnèse permet de connaître les antécédents du patient, les symptômes ressentis, l'ancienneté de la maladie et son évolution, les traitements déjà suivis, les attentes du patient…
+ Examen physique (à l'issue de l'anamnèse, le médecin a souvent une idée assez précise de la maladie ; l'examen sert à rechercher des signes physiques, et ainsi apporter des preuves pour appuyer un diagnostic) :
+ prise des constantes vitales : température, tension artérielle, pouls,
+ inspection : morphologie du patient, ulcération, dysmorphie (maladie génétique), morphotype (obésité, maigreur), couleur de la peau,
+ palpation du ventre à la recherche d'un gros foie, d'une grosse rate… Palpation des aires ganglionnaires,
+ test des réflexes : évaluation neurologique,
+ auscultation : écoute des bruits du cœur et des poumons avec un stéthoscope,
+ percussion,
+ examen des tympans, de la gorge,
+ examen gastro-entérologique, gynécologique, rhumatologique… s'il y a lieu.
+
+Il peut se compléter d'examens complémentaires, certains pouvant être faits directement lors de la consultation, d'autres nécessitant des intervenants différents (analyse de sang, d'urine, imagerie médicale…).
+
+Le diagnostic différentiel d'un état morbide est l'ensemble des pathologies présentant éventuellement des symptômes et signes proches.
+
+L'évaluation d'un patient ne concerne pas que le médecin, le chirurgien dentiste ou le maïeuticien. Il existe aussi un diagnostic infirmier, un diagnostic kinésithérapique, un diagnostic psychologique et un diagnostic orthophonique.
+
+Au Canada, les psychologues sont également habilités à poser un diagnostic. Il s'agit alors principalement de définir les troubles psychiques dont souffre le patient et leur implications dans la maladie, mais aussi de déterminer la manière la plus adaptée de réaliser l'ordonnance médicale, ou de choisir la technique et son intensité en fonction de l'état et des capacités du patient.
+
+Diagnostic in vitro et in vivo 
+Il existe deux principaux types de diagnostics médicaux :
+ Le diagnostic in vivo : c'est le diagnostic de la maladie dans le corps du patient. Il s'appuie par exemple sur l'imagerie médicale (imagerie par rayon X, IRM, etc.) ;
+ Le diagnostic in vitro : c'est le diagnostic de la maladie à partir d'un échantillon de fluide corporel (échantillon de sang, d'urine, de lymphe, salive, etc.), d'un échantillon de cellules (frottis), ou de tissus biologiques ou d'organe (biopsie) prélevé sur le corps et étudié in situ ou en laboratoire comme le laboratoire de diagnostic des infections virales. Remarque : des dispositifs électroniques de mesure en direct apparaissent sur le marché (mesure de la température, du taux de sucre, etc.). En Europe, quand il utilise un support ou un matériel électronique (ex microarray), ce type de « dispositif de diagnostic médical in vitro » reste soumis à la législation visant à limiter le risque infectieux, mais peut dérogatoirement échapper à la « Directive RoHS » (uniquement quand ces dispositifs sont destinés à devenir « infectieux » avant leur « fin de vie »).
+
+Raisonnements diagnostiques
+
+Reconnaissance de motifs ou de formes 
+Raisonnement analogique ou reconnaissance de formes.
+
+Hypothético-déductif
+
+Inférence 
+Le raisonnement bayésien construit, à partir d'éléments de l'entretien et de l'observation, une probabilité de la cause du symptôme ou de l'épisode, qui s'affinera de plus en plus. Ainsi le diagnostic indique-t-il qu'une maladie ou une causalité est plus qu'une autre est probablement à l'origine des symptômes du patient; des examens renforcent ou infirment l'hypothèse.
+
+Il semblerait qu'à l'issue de ce type de raisonnement, la plupart des médecins ont tendance à surestimer la probabilité que le patient soit effectivement malade, tant avant qu'après un test diagnostic.
+
+Attention 
+ Ne pas confondre avec le pronostic (estimation du devenir d'un patient).
+ Le diagnostic se retrouve dans d'autres domaines que la médecine, voir la page d'homonymie diagnostic.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes
+
+Liens externes

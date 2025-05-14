@@ -1,0 +1,60 @@
+Nonverbal autism is a subset of autism where the person does not learn how to speak.
+It is estimated that 25% to 50% of children diagnosed with autism spectrum disorder (ASD) never develop spoken language beyond a few words or utterances.
+
+Background 
+Despite the growing field of research on ASD, there is not much information available pertaining to people with autism who never develop oral language; that, in fact, nonverbal autistic individuals are considered to be underrepresented in all of autism research. Because of the limited research on nonverbal autism, there are not many validated measurements appropriate for this population. For example, while they may be appropriate for younger children, they lack the validity for school children and have continued to be a roadblock for nonverbal autism research. Often in autism research, nonverbal autistic individuals are subgrouped with LFA, categorized by learning to make one sound or having minimal verbal language.
+
+Most of the existing body of research in nonverbal autism focuses on early interventions that predict successful language outcomes. Research suggests that acquiring language before age five is a good indicator of positive child development, and the likelihood of acquiring functional language in the future past this age is minimal, that early language development is crucial to educational achievement, employment, independence during adulthood, and social relationships.
+
+The most obvious signs of autism, such as atypical social and language development, and restricted or repetitive behaviors and interests, often present themselves between the ages of two and three, and most children with ASD can be diagnosed in early childhood as a result. Other disorders such as epilepsy, ADHD, gastrointestinal problems, sleep disorders, depression and anxiety also often accompany ASD.
+
+Early predictors
+The causes of nonverbal autism are unknown. However, there appears to be a relationship between joint attention and verbal communication. Joint attention occurs between two individuals when one draws the other’s attention to an object through gesturing (i.e. eye gazing, pointing). The ability to achieve joint attention at an early age plays a significant role in language development, and studies indicate severe lapses in joint attention in children with autism. In one study, researchers suggest that a displayed pattern of delays, absences, or a general impaired response to stimuli (hyporesponsiveness) and a fascination with intense or repetitive stimulation (sensory seeking) is more likely in nonverbal children with autism, suggesting that both hyporesponsiveness and sensory seeking is related to poor communication outcomes in children with ASD.
+
+Potential causes
+
+The amygdala theory
+There is a growing body of tentative evidence indicating the amygdala's involvement in the development of autism. The  focuses on the importance of the amygdala in relation to social functioning and observes that autism is largely a severe impairment of social functioning. The amygdala is thought to be associated with the fight or flight response in animals and its activity is heavily correlated with fear in humans. Additionally, it has been heavily implicated in relation to social functioning in various animal studies. Evidence suggests an amygdala hyperactivity model may be more accurate than one comparing it to a lesion.
+
+Lesion studies have shown that amygdala damage results in severe social impairment among animal models. Vervet monkey mothers with amygdala lesions were shown to be much less caring with their young neglecting and even abusing them. Rats with amygdala ablations become much more docile. Monkeys with lesions to the anterior temporal lobe develop a disorder known as Klüver–Bucy syndrome, characterized by loss of fear, hypersexuality, hyperorality, and an inability to recognize visual objects (often, but not always).
+
+Evidence shows the amygdala accounts for the emotional, oral, and sexual abnormalities listed above. These abnormalities coincide with several characteristics of the diagnostic guidelines for autism, at least passably for an animal model.
+
+Post-mortem analysis of humans shows an increased neuronal density in the amygdala in autism compared to controls, indicating a potential linkage and supporting the hyperactivity model.
+
+Several studies presented subjects with ASD photographs of human eyes and had them report the emotional state of the person in the picture. A smaller amygdala was associated with increased response time but not decreased accuracy. There was also significantly less amygdaloid activation in the brains of those with ASD, than controls. Subjects compensated for this lack of amygdaloid activity with increased activation in the temporal lobe, and are associated with verbally labeling images. This activity is thought to imply less usage of emotional/social cues to identify objects and rather more objective, factually based processing. One may extrapolate from this model that patients with autism may learn that a specific facial configuration represents an emotional state and what that emotional state implies socially, but they may not come to truly understand how that person feels. This supports a theory of mind deficit, or inability to empathize with others – a characteristic symptom of ASD.
+
+Studies conducted specifically on nonverbal autistics provide similar evidence. Brain studies have shown several amygdaloid impairments among those with ASD. The amygdala in those with nonverbal autism have less volume compared to controls, contain a higher density of neurons suggesting hyperconnection, and show a negative correlation between amygdala size and impairment severity among subjects.
+
+Infantile autism is actually associated with an oversized amygdala, there are developmental theories as to how this may occur. Research on major depressive disorder has shown that excessive activation such as stress or fear leads to allostasis, or degeneration of the neurons involved in creating the phenomenon. Initial hypertrophy results in atrophy and reduction of brain size in the given region. Over time, this occurs in patients with severe depression, and they develop a decreased amygdala size. Some scientists theorize that this is happening early during infancy in the autistic brain, accounting for the initial overgrowth and later observed size reduction.
+
+When eye tracking software is employed to record where subjects focus their visual attention on images of human faces, small amygdala volume is associated with decreased eye fixation. Eyes are considered to be especially important for establishing human connection and conveying emotion, thus fixation on them is considered to be a crucial part of identifying people and emotions in a social setting.
+
+In addition to a negative correlation to eye fixation studies showed a smaller amygdala was associated with impairment in nonverbal communication skills as well. This suggests that the amygdala is critical in developing all types of communicative abilities, not just verbal. This suggests the amygdala may play a crucial role in relating to other humans in a way that allows for behavioral mimicry.
+
+Among patients with nonverbal ASD researchers could predict symptom severity based on amygdala activity. Those with the least amygdala activity had the most impaired nonverbal communication abilities, those with the most activity had the strongest communication abilities.
+
+The development of language, similar to the development of most physical skills, relies heavily on mimicry of other humans. ASDs are known to impair one's ability to focus on and relate with people possibly as a result of a damaged amygdala. Nonverbal autistics will often be able to learn more basic communicative skills such as pointing to objects or selecting a picture from a list. These skills are far more simple and do not require the degree of personal connection needed for language development.
+
+It is important to note that these studies must be considered with great caution. Cross-sectional studies can only suggest so much about the pathology of a disorder. Further study, particular longitudinal studies, are needed to gain a more complete understanding. It is also important to recognize that most disorders arise from a complex interworking of the entire brain and restricting a theory to one subsystem would be a mistake, this theory merely suggests how the amygdala may be involved with develop of ASD and provides evidence to support an association.
+
+Language outcomes
+For nonverbal grade school children and adolescents with autism, communication systems and interventions have been implemented to enhance language and communication outcomes.  Speech-generating devices such as tablet computers use visual displays for children who lack verbal language, giving them the task of selecting icons indicating a request or need.  For adolescents with nonverbal autism, interventions can condition them to learn more advanced operations on speech-generating devices that require more steps (i.e. turning on device, scrolling through pages), which would allow them to enhance their communicative abilities independently.
+
+The picture exchange system (PECS) is a form of spontaneous communication for children with autism in which an individual selects a picture indicating a request.  PECS can be utilized in educational settings and at the child’s home.  Longitudinal studies suggest PECS can have long-term positive outcomes for school-aged children with nonverbal autism, specifically their social-communicative skills, such as higher frequencies of joint attention and initiation, and duration of cooperative play, which are all important roles in improving language outcomes.
+
+It has also been suggested that a significant stage in acquiring verbal language is learning how to identify and reproduce syllables of words.  One study found that nonverbal and minimally verbal children with autism are capable of enhancing their oral production and vocalizing written words by isolating each syllable of a word one at a time.  The process of breaking down a syllable at a time and having it visually displayed and audibly available to the child can prompt him or her to imitate and create nonrandom and meaningful utterances.
+
+Most of these studies contain small sample sizes and were pilot studies, making additional research significant to assess whether these findings can be generalized to all age groups of the same population. Furthermore, most studies on nonverbal autism and speech-generating device communication were based on more basic skills, such as naming pictures and making requests for stimuli, while studies in advanced communication are limited.
+
+See also
+ Facilitated communication: a scientifically discredited technique which purports to help non-verbal people communicate
+ Low-functioning autism: verbal abilities may be lacking
+ Language delay and speech delay
+ Late talkers: sometimes mistaken as nonverbal autistics
+ Nonverbal communication
+
+References 
+
+Autism
+Muteness

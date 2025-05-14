@@ -1,0 +1,75 @@
+Geriatric depression is the prolonged occurrence of depression in elderly-aged people.  A meta-analysis done by the University of Liverpool found a 3.86% prevalence rate of depressed elderly in The People's Republic of China, compared to a 12% prevalence in Western Europe. Factors for depression in Chinese elderly are affected by Chinese culture, social expectations, and living conditions.  There is dispute to whether the low-level reported rates are due to differences in culture and traditions.
+
+Symptoms and diagnosis
+The most common used method of measuring depression for many studies on Chinese elderly is the Geriatric Depression Scale (GDS) by Yesavage & Brink.   The Chinese version of the GDS was translated by Chu Lee Hing of the Chinese University of Hong Kong.  A study in Hong Kong found its "[brief] and simple response format [to be] particularly favourable for use among the elderly" and was found to be "satisfactory" for screening depression in elderly Chinese.
+
+The use of the GDS analyzes simple behavior symptoms of crying, loss of appetite, sleep, weight, memory, concentration, energy, and enjoyment, whereas analysis of pure feelings may have different cultural connotations.
+
+The General Health Questionnare (GHQ) was also deemed reliable in another study but not as sensitive as the GDS.  This study also sampled Hong Kong elderly.  Another assessment that has been used among Chinese old-aged is the Geriatric Mental State Schedule (GMS).  It is an interview for assessing psychopathology in 65+ aged patients which classifies by symptom type and any changes over time within that type.  Further detailed diagnosis can made with the Automated Geriatric Examination for Computer Assisted Taxonomy (AGECAT) by using the scores from the GMS.
+
+Cultural differences
+The differences between Chinese and Western definitions of depression have long been studied.  "In traditional Chinese medicine, mental illness is often attributed to maladies of the heart", writes Greg Miller, a mental health journalist for the Science Magazine.  The Harvard Review of Psychiatry found that Traditional Chinese medicine has no conception of emotional disorders; rather, it has a concept of physical imbalance.  It was reported that patients with depression described their being as "emotional...disturbance combined with references to the body, especially the heart...these references were not just metaphors; some patients literally felt their depression as discomfort inside or over the heart" in a Harvard study on the ethnographic differences in depressive experiences.  Phrases like xinhuang (heart panic), xinfan (heart vexed), and xintong (heart pain) are used by depressed patients to describe literal discomfort in the body.
+
+Maoist doctrine teaches that unhappiness in a people is a result of poor politics, and this led to an outlawing of clinical psychology in the mainland during 1950-1980—an attempt to prevent the diagnosis of unhappiness.  The following excerpt illustrates how far politics affected emotional health in a labor camp during the Maoist era:
+
+I never met a man in the camps at this time who talked about his parents, wife, lover or children in warm, earnest, loving terms – not even the shortest sentence ... A mention of one's home, that is one's real home, was bound to be related to receiving a package of things to eat in the mail ... Other than that, home had no place in a man's emotions, because he had lost his emotions.
+
+Patients in the Harvard study rarely described their feelings as sadness, as it is generally viewed as shameful, a sign of weakness in character.  The culturally stoic Chinese, as a result, are more willing to accept physical ailments, such as heart pain or sleeplessness, than emotional problems.
+
+Neurasthenia, "lack of nerve strength", became the preferred diagnosis for mental problems once it was introduced to China in the early 1900s.  Translation of neurasthenia to Chinese, shenjing shuairuo, describes a weakness in the flow of vital energy (qi) throughout the body.  This gave an appeal of physical disease, with physical symptoms of fatigue, nonspecific aches and pains on the body, dizziness, upset stomach, appetite loss, poor memory, and insomnia.  It was not until the pragmatic era of Deng Xiaoping that politics allowed "the demarcation between public and private space to reemerge", thus relaxing the social acceptability to admit to feelings and leading to the study and treatment of emotional disorder.  By the 1980s the shenjing shuairuo labeling was removed and the Western label of "depression" used.
+
+In regards to the elderly
+Chinese culture holds great importance on caring for the elderly.  Physical, financial, and emotional care are traditionally provided by the children as a way to show honor, believed to come from Confucianism.  At the same time, elders' expectations lie heavily on contributing to their community with their advice and service than receiving it themselves—also called renqing.  For elderly who adhere to tradition, old-aged life's purpose and one's self-worth is measured by the positive impact one has on their family.
+
+Regarding Chinese filial culture and the financial care of elderly, of a sample of Mainland Chinese-Canadian immigrants, 23.2% were assessed to have depressive symptoms, and among that depressed group, 17.3% were considered to have an unstable financial status—study done for the Chinese Medical Journal.
+
+Overall it can be said that the number of women sampled in many of the studies, compared to men, was significantly greater.  This may be caused by the socialization in Chinese societies—that men are to suppress emotions and that any need for help with emotional matters is viewed as a sign of weakness.  A study funded by the National Health Research Institute of Taiwan found a high prevalence of depression in Taiwanese elderly, contradictory to many studies held previously in Asia and "comparable to rates reported in some studies of UK samples."  Furthermore, the study found lowly educated widows in urban communities were higher risk for depressive disorders.
+
+Possible factors
+
+Physical
+
+The same study by Chong et al. also observed that the main stress factor for the sampled Taiwanese elderly was health problems.  A separate study found that Chinese elderly who participated in tai chi were found to reduce depressive symptoms in comparison with elderly with no treatment at all, as found in a study for the International Journal for Geriatric Psychiatry  Physical abilities and health problems affect a patient's perceived quality of life which affects level of depression, according to a study done by the Chinese University of Hong Kong.  Confirmed by data from a study published in Stroke, post-stroke depression is common.  Stroke decreased the activities of daily living and had a strong effect on the severity of depression in rural Chinese elderly.  Another study in rural China found that "undetected" hypertension had a significant relation to depression, suggesting that "hypertension screening among older populations may be warranted for preventing depression and cardiovascular disease."
+
+It has also been learned that "current smokers and former smokers are more likely to have depressive symptoms than never smokers", as found in a study on Chinese elderly in Hong Kong.
+
+Living conditions
+
+According to research, the living set-up of most Chinese elderly in 1987 was 65% living with two (and some-times three) generations of family and 18% with one generation, while 11% of couples lived together without their children and only 4% lived alone (although they had children).  2% were alone (i.e. single).  It was observed that loneliness increased prevalence of depression in old-aged women more than old-aged men in Hong Kong.  The study concluded that because of the known trend of older men (who could not find a wife in Hong Kong) marrying women across the border in the mainland, lifestyles adapted to the separation families.
+
+Economic
+
+In 1999, 48% of Chinese elderly relied on their spouses and 40% on their children, indicates Li Hong and Martin Tracy's survey.  "Worry about not having enough money to cover medical care is a new source of stress among urban residents" claims Rongjun Sun of Cleveland State University.  The results of Sun's research show that "adequacy of medical care coverage has a substantial impact" on the elders' well-being and that "of all family support measures, emotional support from children is found to have significant buffering effects on the elders' depression."
+
+Different from income, financial strain—the ability to pay for daily expenses and the worry felt when "the need for unexpected expenditures arise"—affects depression.  This study on Hong Kong elderly further found that women with physical problems were more likely to worsen in depression from financial strain.  Furthermore, it was concluded that a better social support did not necessarily lessen the impact of financial strain on depression—which contradicts Sun's findings (previously mentioned) of "buffering effects".  A 1998 study of Wuhan elders found that "anticipated support" was the source of reduced impact of financial strain on depression.  Anticipated support brought about feelings of security whereas "received support" usually aroused a sense of guilt in the elderly.
+
+Question of depression
+Some sources argue that reported low prevalence of depression is faulty because of the differences in culture while others argue that the difference in cultures is the cause of low-prevalence.  Gordon Parker et al. suggests most Chinese deny depression, that "depression appears to be less evident in the Chinese and more likely to be expressed somatically, as a result of a rich set of interconnecting influences," whereas Mjelde-Mossey et al. suggests that holding onto "tradition was found to be negatively associated with depression and thus a protective factor" against depression.  Three reasons for the lower prevalence of depression give by R. Chen, et al. based on a study on rural Chinese elders:
+
+First, there were higher levels of social support and positive life values among older people in China. Second, working and living environments in rural areas were more relaxed (eg, less stressful work and more physical farming activity). Third, the causes of diseases within populations may differ from the factors that explain differences between populations.
+
+Contributors to low-prevalence rates, from Parker's research:
+low level of reporting depression
+"idiomatic reporting" of neurasthenia
+"lack of criterion-based classification" which leads to problems in detection of depression
+coping mechanisms of stoicism, cultural support, and lower level of urbanization
+
+Frequency distribution of the items in the Chinese tradition scale used in the Mjolde-Mossey study:
+
+Prognosis
+It is predicted that by the middle of the 22nd century, 25% of the world's elderly population will consist of Chinese elders.  With such a statistic, understanding how to prevent depression in Chinese elderly will serve to improve some of the problems that may come in caring for the well-being of the elderly and their families.
+
+Sun's research found that elderly that lived near their children were associated with better well-being than those that lived in the same household as or lived far from their children.  Because of the complex nature of human relationships and the variables that effect measuring methods, it is important to note that family support is not a consistent positive effect on elderly well-being, "nevertheless, [Sun's] study confirms that family ties play a critical role in buffering the impact of undesirable social event."  In regards to China's future family situation, the one-child policy presents an issue for the single child sons/daughters that face two pairs of parents to support.
+
+The previously mentioned study by Mjelde-Mossey et al. concluded that because adherence to traditions is known to reduce depression an elder can achieve a level of mental stability by applying the purpose of their traditional beliefs to whatever non-traditional situations and relationships come into their life.  With this kind of background, Chinese elderly can change the way they are impacted by changes in society—independent children, less contact between family members, and westernized traditions that support youth-self-centeredness.
+
+See also
+Geriatric psychiatry
+
+Citations
+
+References
+
+Geriatrics
+Depression
+Mood disorders

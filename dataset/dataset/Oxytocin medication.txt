@@ -1,0 +1,104 @@
+Synthetic oxytocin, sold under the brand name Pitocin among others, is a medication made from the peptide oxytocin. As a medication, it is used to cause contraction of the uterus to start labor, increase the speed of labor, and to stop bleeding following delivery. For this purpose, it is given by injection either into a muscle or into a vein.
+
+Oxytocin is also available in intranasal spray form for psychiatric, endocrine and weight management use as a supplement. Intranasal oxytocin works on a different pathway than injected oxytocin, primarily along the olfactory nerve crossing the brain blood barrier to the olfactory lobe in the brain, where dense magnocellular oxytocin neurons receive the dose application.
+
+The use of synthetic oxytocin as an injectable medication for inducing childbirth can result in excessive contraction of the uterus that can risk the health of the baby. Common side effects in the mother include nausea and a slow heart rate. Serious side effects include rupture of the uterus and with excessive dose, water intoxication. Allergic reactions including anaphylaxis may also occur.
+
+The natural occurrence of oxytocin was discovered in 1906. It is on the World Health Organization's List of Essential Medicines.
+
+Medical uses 
+An intravenous infusion of oxytocin is used to induce labor and to support labor in case of slow childbirth if the oxytocin challenge test fails. Whether a high dose is better than a standard dose for labor induction is unclear. It has largely replaced ergometrine as the principal agent to increase uterine tone in acute postpartum hemorrhage. Oxytocin is also used in veterinary medicine to facilitate birth and to stimulate milk release.
+
+The tocolytic agent atosiban (Tractocile) acts as an antagonist of oxytocin receptors. It is registered in many countries for use in suppressing premature labor between 24 and 33 weeks of gestation. It has fewer side effects than drugs previously used for this purpose (such as ritodrine, salbutamol and terbutaline).
+
+Oxytocin has not been found to be useful for improving breastfeeding success.
+
+Contraindications
+
+Oxytocin injection (synthetic) is contraindicated in any of these conditions:
+
+ Substantial cephalopelvic disproportion
+ Unfavorable fetal position or presentation (e.g., transverse lies) undeliverable without conversion before delivery
+ Obstetric emergencies where maternal or fetal risk-to-benefit ratio favors surgery
+ Fetal distress when delivery is not imminent
+ Umbilical cord prolapse
+ Uterine activity fails to progress adequately
+ Hyperactive or hypertonic uterus
+ Vaginal delivery is contraindicated (e.g., invasive cervical carcinoma, active genital herpes infection, total placenta previa, vasa previa, cord presentation or prolapse)
+ Uterine or cervical scarring from previous cesarean section or major cervical or uterine (e.g., transfundal) surgery
+ Unengaged fetal head
+ History of hypersensitivity to oxytocin or any ingredient in the formulation
+
+Side effects
+Oxytocin is relatively safe when used at recommended doses, and side effects are uncommon. These maternal events have been reported:
+
+ Subarachnoid hemorrhage
+ Increased blood pressure
+ Cardiac arrhythmia including increased or decreased heart rate, and premature ventricular contraction
+ Impaired uterine blood flow
+ Pelvic hematoma
+ Afibrinogenemia
+ Anaphylaxis
+ Nausea and vomiting
+ Increase fetal blood flow
+
+Excessive dosage or long-term administration (over a period of 24 hours or longer) has been known to result in tetanic uterine contractions, uterine rupture, postpartum hemorrhage, and water intoxication, sometimes fatal.
+
+Oxytocin was added to the Institute for Safe Medication Practices's list of High Alert Medications in Acute Care Settings in 2012. The list includes medications that have a high risk for harm if administered incorrectly.
+
+During pregnancy, increased uterine motility has led to decreased heart rate, cardiac arrhythmia, seizures, brain damage, and death in the fetus or neonate.
+
+Use is linked to an increased risk of postpartum depression in the mother.
+
+Certain learning and memory functions are impaired by centrally administered oxytocin. Also, systemic oxytocin administration can impair memory retrieval in certain aversive memory tasks. However, oxytocin does seem to facilitate learning and memory specifically for social information. Healthy males administered intranasal oxytocin show improved memory for human faces, in particular happy faces.
+
+Pharmacokinetics
+
+Routes of administration
+
+One IU of oxytocin is the equivalent of about 2 μg or mcg of pure peptide.
+
+ Injection: Clinical doses of oxytocin are given by injection either into a muscle or into a vein to cause contraction of the uterus. Very small amounts (< 1%) do appear to enter the central nervous system in humans when peripherally administered. The compound has a half life of typically about 3 minutes in the blood when given intravenously. Intravenous administration requires 40 minutes to reach a steady-state concentration and achieve maximum uterine contraction response.
+ Buccal: Oxytocin was delivered in buccal tablets, but this is not common practice any more.
+ Under the tongue: Oxytocin is poorly absorbed sublingually.
+ Nasal administration: Oxytocin is effectively distributed to the brain when administered intranasally via a nasal spray, after which it reliably crosses the blood–brain barrier and exhibits psychoactive effects in humans. No serious adverse effects with short-term application of oxytocin with 18~40 IU (36–80 mcg) have been recorded. Intranasal oxytocin has a central duration of at least 2.25 hours and as long as 4 hours. 
+ Oral: Oxytocin is destroyed in the gastrointestinal tract, so it is not active orally.
+
+History
+Oxytocin's uterine-contracting properties were discovered by British pharmacologist Henry Hallett Dale in 1906. Oxytocin's milk ejection property was described by Ott and Scott in 1910 and by Schafer and Mackenzie in 1911.
+
+Oxytocin was the first polypeptide hormone to be sequenced or synthesized. Du Vigneaud was awarded the Nobel Prize in 1955 for his work.
+
+Etymology
+The word "oxytocin" was coined from the term oxytocic. Greek ὀξύς, oxys, and τόκος, tokos, meaning "quick birth".
+
+Society and culture
+
+Counterfeits
+In African countries, some oxytocin products were found to be counterfeit medications.
+
+Other uses
+The trust-inducing property of oxytocin might help those with social anxiety and depression, anxiety, fear, and social dysfunctions, such as generalized anxiety disorder, post-traumatic stress disorder, and social anxiety disorder, as well as autism and schizophrenia, among others. However, in one meta-analysis only autism spectrum disorder showed a significant combined effect size.
+
+People using oxytocin show improved recognition for positive social cues over threatening social cues and improved recognition of fear.
+
+ Autism: Oxytocin may play a role in autism and may be an effective treatment for autism's repetitive and affiliative behaviors.
+ Relationship counseling: The use of oxytocin in relationship counseling for well-being has been suggested.
+
+See also
+ Attachment theory
+ List of investigational anxiolytics
+ List of investigational sexual dysfunction drugs
+
+References
+
+Antidiuretics
+Galactagogues
+Obstetric drugs
+Oxytocin receptor agonists
+Peptides
+Peripherally selective drugs
+Wikipedia medicine articles ready to translate
+Vasopressin receptor agonists
+World Health Organization essential medicines
+Women's health

@@ -1,0 +1,22 @@
+Central nervous system (CNS) depression is a physiological state that can result in a decreased rate of breathing, decreased heart rate, and loss of consciousness possibly leading to coma or death.
+
+It is the result of inhibited or suppressed brain activity.
+
+Causes 
+Depression of the central nervous system is generally caused by the use of depressant drugs such as ethanol, opioids, barbiturates, benzodiazepines, general anesthetics, and anticonvulsants such as pregabalin used to treat epilepsy.
+
+Drug overdose is often caused by combining two or more depressant drugs, although overdose is also possible by consuming a large dose of one depressant drug.  Central nervous system depression can also be caused by the accidental or intentional inhalation or ingestion of certain volatile chemicals such as butanone (contained in plastic cement) or isopropyl alcohol.  Other causes of central nervous system depression are metabolic disturbances such as hypoglycaemia.
+
+Comparison
+
+In a study comparing the central nervous depression due to supra-therapeutic doses of triazolam (a benzodiazepine), pentobarbital (a barbiturate) and gamma-hydroxybutyric acid (GHB), it appeared as if GHB had the strongest dose-effect function. Since GHB has a high correlation between its dose and its central nervous system depression, it has a high risk of accidental overdose. In the case of accidental overdose of GHB, patients can become drowsy, fall asleep and may enter a coma. Although GHB had higher sedative effects at high doses as compared to triazolam and pentobarbital, it had less of an amnestic effect. Arousal of subjects who received GHB sometimes even required a painful stimulus; this was not seen in patients who received triazolam or pentobarbital group. During the heavy sedation with GHB, the subjects maintained normal respiration and blood pressure. This is often not the case with opioids as they cause respiratory depression.
+
+Treatment 
+Significant central nervous system depression is treated within a hospital setting by maintaining breathing and circulation. Individuals with reduced breathing may be given supplemental oxygen, while individuals who are not breathing can be ventilated with bag valve mask ventilation or by mechanical ventilation with a respirator. Sympathomimetic drugs may be used to attempt to stimulate cardiac output in order to maintain circulation. Central nervous system depression caused by certain drugs may respond to treatment with an antidote.
+
+There are two antidotes that are frequently used in the hospital setting and these are naloxone and flumazenil. Naloxone is an opioid antagonist and reverses the central nervous depressive effects seen in opioid overdose. In the setting of a colonoscopy, naloxone is rarely administered but when it is administered, its half-life is shorter than some common opioid agonists. Therefore, the patient may still exhibit central nervous system depression after the naloxone has been cleared. Naloxone is typically administered in short intervals with relatively small doses in order to prevent the occurrence of withdrawal, pain, and sympathetic nervous system activation. Flumazenil is a benzodiazepine antagonist and blocks the binding of benzodiazepines to gamma-aminobutyric acid receptors. Similarly to naloxone, flumazenil has a short half-life, and this needs to be taken into account because the patient may exhibit central nervous depression after the antidote has been cleared. Benzodiazepines are used in the treatment of seizures and subsequently, the administration of flumazenil may result in seizures. Therefore, slow administration of flumazenil is necessary to prevent the occurrence of a seizure. These agents are rarely used in the setting of a colonoscopy as 98.8% of colonoscopies use sedatives but only 0.8% of them result in the administration of one of these antidotes. Even if they are rarely used in colonoscopies they are important in preventing the patient from entering a coma or developing respiratory depression when sedatives are not properly dosed. Outside of the colonoscopy setting, these agents are used for other procedures and in the case of drug overdose.
+
+References 
+
+Central nervous system
+Central nervous system disorders

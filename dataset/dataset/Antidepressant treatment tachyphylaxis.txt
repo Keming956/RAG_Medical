@@ -1,0 +1,19 @@
+Antidepressant treatment tachyphylaxis (ADT tachyphylaxis), also known as Prozac poop-out, is a medical condition in which progressive or acute tolerance effects are seen following chronic administration of a drug.  ADT tachyphylaxis specifically refers to a sudden decrease in response to selective serotonin reuptake inhibitors (SSRIs), which are the most commonly prescribed antidepressants.
+
+Characteristics
+Patients affected by ADT tachyphylaxis experience a noticeably sudden progressive decrease in response to SSRIs. The reported rates of this condition vary from 9% to 33% of SSRI users, and the majority of those affected are less responsive to subsequent treatments. In most observational studies, these individuals suffer a recurrence or relapse of depression without changing the previously effective dose.
+
+ADT tachyphylaxis incorporates drug sensitivity as a potential causal factor for the decreased response. However, tolerance provides a more accurate explanation. While the exact cause of ADT tachyphylaxis in individual cases is unknown, drug tolerance is a more comprehensive model, as it includes mechanisms of pharmacodynamic tolerance, metabolic tolerance, and others.
+
+Common examples
+ADT tachyphylaxis specifically occurs in depressed patients using SSRIs and MAOIs. Currently, SSRIs are the preferred treatment for depression among clinicians, as MAOIs, despite being very effective, require a few dietary restrictions and some caution when taking with other medications due to the potential for interactions capable of inducing dangerous side effects.
+
+Treatment
+
+Following a declination or total extinction in response to a previously therapeutic dose of an antidepressant, the issue is clinically addressed as stemming from tolerance development. Several strategies are available, such as exploring drug options from a different drug class used to treat depression. The patient can also choose to switch to another SSRI (or MAOI, if applicable) while maintaining proportionate dose. If tolerance develops in a drug from the same class, the clinician may recommend a regular cycle consisting of all effective treatments within the SSRI or MAOI classes, in order to minimize transitional side effects while maximizing therapeutic efficacy.
+
+Other options include increasing dose of the same medication, or supplementation with another antidepressant. Dual reuptake inhibitors, such as serotonin–norepinephrine reuptake inhibitors and some tricyclic antidepressants, have been preliminarily found to have lower rates of tachyphylaxis.
+
+References
+
+Pharmacodynamics

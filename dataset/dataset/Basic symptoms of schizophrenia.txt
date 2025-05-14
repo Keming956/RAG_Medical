@@ -1,0 +1,32 @@
+Basic symptoms of schizophrenia are subjective symptoms, described as experienced from a person's perspective, which show evidence of underlying psychopathology. Basic symptoms have generally been applied to the assessment of people who may be at risk to develop psychosis. Though basic symptoms are often disturbing for the person, problems generally do not become evident to others until the person is no longer able to cope with their basic symptoms. Basic symptoms are more specific to identifying people who exhibit signs of prodromal psychosis (prodrome) and are more likely  to develop schizophrenia over other disorders related to psychosis. Schizophrenia is a psychotic disorder, but is not synonymous with psychosis. In the prodrome to psychosis, uncharacteristic basic symptoms develop first, followed by more characteristic basic symptoms and brief and self-limited psychotic-like symptoms, and finally the onset of psychosis. People who were assessed to be high risk according to the basic symptoms criteria have a 48.5% likelihood of progressing to psychosis. In 2015, the European Psychiatric Association issued guidance recommending the use of a subscale of basic symptoms, called the Cognitive Disturbances scale (COGDIS), in the assessment of psychosis risk in help-seeking psychiatric patients; in a meta-analysis, COGDIS was shown to be as predictive of transition to psychosis as the Ultra High Risk (UHR) criteria up to 2 years after assessment, and significantly more predictive thereafter. The basic symptoms measured by COGDIS, as well as those measured by another subscale, the Cognitive-Perceptive basic symptoms scale (COPER), are predictive of transition to schizophrenia.
+
+Course 
+There are several factors that interact prior to the development of basic symptoms, including predisposed vulnerability, environmental stressors, and support systems. Recent work in the field of neural oscillation has demonstrated that defective excitatory and inhibitory signalling in the brain during development plays an important role in the formation of basic symptoms. These signalling disturbances can lead to cognitive deficits that result in the future appearance of more complicated symptoms of the disorder. The interaction of these factors increases the risk for development of basic symptoms of schizophrenia. It is important to identify when a person is exposed to these factors to prevent, modify or delay the onset of basic symptoms through early intervention. The recognition of these basic symptoms in the prodromal phase can lead to early intervention in psychosis that aids in the delay or prevention of schizophrenia. Such early interventions include cognitive behavioural therapy (CBT) or the use of antipsychotic drugs.
+
+Basic symptoms often appear several years before the onset of psychosis, but are often preceded by the onset of self-disorders (see supplementary material at ). They may sometimes appear and then disappear before appearing again much later, where they occur as part of an outpost syndrome. At one point, uncharacteristic basic symptoms will appear, which comprise various disturbances of mood, emotions, drive, thought, and attention that can occur in many other disorders, followed by the characteristic basic symptoms, which comprise disturbances of thought, perception, and attention, along with minor reality distortion, that are associated with schizophrenia in particular. Afterward, attenuated symptoms of psychosis or brief periods of psychosis will appear, before culminating in the emergence of full-blown psychosis. At any stage before psychosis, the person will attempt to cope with the basic symptoms, which might conceal the problems from others; once the person reaches the limit of their ability to compensate, however, the problems will become evident to others and cause impairment. Poorer long-term outcomes such as increases in relapses, increases in hospitalizations, and poorer social/occupational functioning are associated with the age of onset of these symptoms, suggesting the importance of early intervention.
+
+After the resolution of psychosis, basic symptoms may follow one of 3 courses: Psychosis and the basic symptoms may resolve completely allowing the restoration of normal functioning; they may remit but remain at an uncharacteristic level, with relapses of psychosis; or the characteristic basic symptoms may remain creating a deficit syndrome dominated by negative symptoms.
+
+Evaluation 
+Basic symptoms are generally evaluated using the Schizophrenia Proneness Instrument (SPI), of which there are both a child and youth version (SPI-CY) and an adult version (SPI-A) (see supplemental material at ); this instrument assesses basic symptoms, both those that are uncharacteristic and those characteristic of psychosis. Out of the items evaluated on the SPI-CY and the SPI-A, there can be derived 2 scales to evaluate specifically the characteristic basic symptoms: the Cognitive Disturbances scale (COGDIS) and the Cognitive-Perceptual Basic Symptoms scale (COPER).
+
+COGDIS criteria are met when at least 2 of the symptoms on the scale (see table below) are present with at least weekly occurrence in the last 3 months, and which were not present during the pre-morbid phase of the illness and do not result from drug use. The European Psychiatric Association (EPA) recommends the use of this scale, along with attenuated psychotic symptoms and brief transient psychosis, to detect at-risk mental states in help-seeking people.
+
+COPER criteria are met when at least 1 of the symptoms on the scale (see table below) is present with at least weekly occurrence in the last 3 months, and the first occurrence of symptoms was more than 12 months prior to evaluation.
+
+Below are the basic symptoms associated with psychosis, along with whether they appear on COGDIS, COPER, or both:
+
+The Examination of Anomalous Self-Experience (EASE) is another scale used to evaluate subjective symptoms of schizophrenia. This is a semi-structured interview scheme that was designed to specifically assess anomalous self-experience.
+
+See also 
+Early intervention in psychosis
+
+References
+
+External links 
+ International Working Group on Basic Symptoms
+
+Psychosis
+Schizophrenia
+Symptoms and signs of mental disorders
+Early psychosis

@@ -1,0 +1,75 @@
+Transference focused psychotherapy (TFP) is a highly structured, twice-weekly modified psychodynamic treatment based on Otto F. Kernberg's object relations model of borderline personality disorder. It views the individual with borderline personality organization (BPO) as holding unreconciled and contradictory internalized representations of self and significant others that are affectively charged. The defense against these contradictory internalized object relations leads to disturbed relationships with others and with self. The distorted perceptions of self, others, and associated affects are the focus of treatment as they emerge in the relationship with the therapist (transference). The treatment focuses on the integration of split off parts of self and object representations, and the consistent interpretation of these distorted perceptions is considered the mechanism of change.
+
+TFP has been validated as an efficacious treatment for borderline personality disorder (BPD), though too few studies have been conducted to allow firm conclusions about its value. TFP is one of a number of treatments that may be useful in the treatment of BPD; however, in a study which compared TFP, dialectical behavior therapy, and modified psychodynamic supportive psychotherapy, only TFP was shown to change how patients think about themselves in relationships.
+
+Borderline personality disorder
+
+TFP is a treatment for borderline personality disorder (BPD). Patients with BPD are often characterized by intense affects, stormy relationships, and impulsive behaviors. Due to their high reactivity to environmental stimuli, patients with BPD often experience dramatic and short-lived shifts in their mood, alternating between experiences of euphoria, depression, anxiety, and nervousness. Patients with BPD often experience intolerable feelings of emptiness that they attempt to fill with impulsive and self-damaging behaviors, such as substance abuse, risky sexual behavior, uncontrolled spending, or binge eating. Further, patients with BPD often exhibit recurrent suicidal behaviors, gestures, or threats. Under intense stress patients with BPD may exhibit transient dissociative or paranoid symptoms.
+
+Theoretical model of borderline personality
+
+According to an object relations model, in normal psychological development mental templates of oneself in relation to others, or object representations, become increasingly more differentiated and integrated. The infant's experience, initially organized around moments of pain ("I am uncomfortable and in need of someone to care for me") and pleasure ("I am now being soothed by someone and feel loved"), become increasingly integrated and differentiated mental templates of oneself in relation to others. These increasingly mature representations allow for the realistic blending of good and bad, such that positive and negative qualities can be integrated into a complex, multifaceted representation of an individual ("Although she is not caring for me at this moment, I know she loves me and will do so in the future"). Such integrated representations allow for the tolerance of ambivalence, difference, and contradiction in oneself and others.
+
+For Kernberg the degree of differentiation and integration of these representations of self and other, along with their affective valence, constitutes personality organization. In a normal personality organization the individual has an integrated model of self and others, allowing for stability and consistency within one's identity and in the perception of others, as well as a capacity for becoming intimate with others while maintaining one's sense of self. For example, such an individual would be able to tolerate hateful feelings in the context of a loving relationship without internal conflict or a sense of discontinuity in the perception of the other. In contrast, in Borderline Personality Organization (BPO), the lack of integration in representations of self and other leads to the use of primitive defense mechanisms (e.g., splitting, projective identification, dissociation), identity diffusion (inconsistent view of self and others), and unstable reality testing (inconsistent differentiation between internal and external experience). Under conditions of high stress, borderline patients may fail to appreciate the "whole" of the situation and interpret events in catastrophic and intensely personal ways. They fail to discriminate the intentions and motivations of the other and thus, perceive only threat or rejection. Thus thoughts and feelings about self and others are split into dichotomous experiences of good or bad, black or white, all or nothing.
+
+Goals
+
+The major goals of TFP are to reduce suicidality and self-injurious behaviors, and to facilitate better behavioral control, increased affect regulation, more gratifying relationships, and the ability to pursue life goals. This is believed to be accomplished through the development of integrated representations of self and others, the modification of primitive defensive operations, and the resolution of identity diffusion that perpetuate the fragmentation of the patient's internal representational world.
+
+Treatment procedure
+
+Contract
+
+The treatment begins with the development of the treatment contract, which consists of general guidelines that apply for all clients and of specific items developed from problem areas of the individual client that could interfere with the therapy progress. The contract also contains therapist responsibilities. The client and the therapist must agree to the content of the treatment contract before the therapy can proceed.
+
+Therapeutic process
+
+TFP consists of the following three steps: 
+ Diagnostic description of a particular internalized object relation in the transference
+ Diagnostic elaboration of the corresponding self and object representation in the transference, and of their enactment in the transference /countertransference
+ Integration of the split-off self representations, leading to an integrated sense of self and others which resolves identity diffusion
+
+During the first year of treatment, TFP focuses on a hierarchy of issues: 
+ Containment of suicidal and self-destructive behaviors
+ Various ways of destroying the treatments
+ Identification and recapitulation of dominant object relational patterns (from unintegrated and undifferentiated affects and representations of self and others to a more coherent whole)
+
+In this treatment, the analysis of the transference is the primary vehicle for the transformation of primitive (e.g., split, polarized) to advanced (e.g., complex, differentiated and integrated) object relations. Thus, in contrast to therapies that focus on the short-term treatment of symptoms, TFP has the ambitious goal of not just changing symptoms, but changing the personality organization, which is the context of the symptoms. To do this, the client's affectively charged internal representations of previous relationships are consistently interpreted as the therapist becomes aware of them in the therapeutic relationship, that is, the transference. Techniques of clarification, confrontation, and interpretation are used within the evolving transference relationship between the patient and the therapist.
+
+In the psychotherapeutic relationship, self and object representations are activated in the transference. In the course of the therapy, projection and identification are operating, i.e., devalued self-representations are projected onto the therapist whilst the client identifies with a critical object representation. These processes are usually connected to affective experiences such as anger or fear.
+
+The information that emerges within the transference provides direct access to the individual's internal world for two reasons. First, it is observable by both therapist and patient simultaneously so that inconsistent perceptions of the shared reality can be discussed immediately. Second, the perceptions of shared reality are accompanied by affect whereas the discussion of historical material can have an intellectualized quality and be thus less informative.
+
+TFP emphasizes the role of interpretation within psychotherapy sessions. As the split-off representations of self and other get played out in the course of the treatment, the therapist helps the patient to understand the reasons (the fears or the anxieties) that support the continued separation of these fragmented senses of self and other. This understanding is accompanied by the experience of strong affects within the therapeutic relationship. The integration of the split and polarized concepts of self and others leads to a more complex, differentiated, and realistic sense of self and others that allows for better modulation of affects and in turn clearer thinking. Therefore, as split-off representations become integrated, patients tend to experience an increased coherence of identity, relationships that are balanced and constant over time and therefore not at risk of being overwhelmed by aggressive affect, a greater capacity for intimacy, a reduction in self-destructive behaviors, and general improvement in functioning.
+
+Mechanisms of change
+
+In TFP, hypothesized mechanisms of change derive from Kernberg's developmentally based theory of Borderline Personality Organization, conceptualized in terms of unintegrated and undifferentiated affects and representations of self and other. Partial representations of self and other are paired and linked by an affect in mental units called object relation dyads. These dyads are elements of psychological structure. In borderline pathology, the lack of integration of the internal object relations dyads corresponds to a 'split' psychological structure in which totally negative representations are split off/segregated from idealized positive representations of self and other (seeing people as all good or all bad). The putative global mechanism of change in patients treated with TFP is the integration of these polarized affect states and representations of self and other into a more coherent whole.
+
+Empirical support
+
+Preliminary research
+
+In early research studying the efficacy of a year-long TFP, suicide attempts were significantly reduced during treatment. Additionally, the physical condition of the patients was significantly improved. When the researchers compared the treatment year to the year prior, it was found that there was a significant reduction in psychiatric hospitalizations and days spent as inpatients in psychiatric hospitals. The dropout rate for the 1-year study was 19.1%, which the authors state as comparable to dropout rates in previous studies assessing the treatment of borderline individuals, including DBT research.
+
+TFP vs. treatment-as-usual (TAU)
+
+Results indicated that the TFP group experienced significant decreases in ER visits and hospitalizations during treatment year, as well as significant increases in global functioning when compared to TAU.
+
+TFP vs. treatment by community experts
+
+A randomized clinical trial compared the outcomes of TFP or treatment by community experts for 104 borderline patients. The dropout rate was significantly higher in the community psychotherapy condition; however, the dropout rate for TFP was 38.5%, which the authors acknowledge as somewhat higher than dropout rates associated with dialectical behavior therapy (DBT) and schema-focused therapy (SFT). The TFP group experienced significant improvement in personality organization, psychosocial functioning, and number of suicide attempts. In this study neither group was associated with a significant change in self-harming behaviors.
+
+TFP vs. DBT vs. supportive treatment
+
+Prior to treatment and at four-month intervals during treatment, patients were assessed in the following domains: suicidal behavior, aggression, impulsivity, anxiety, depression, and social adjustment. Results indicate that patients in all three conditions showed improvement in multiple domains at the one-year mark. Only DBT and TFP were significantly associated with improvement in suicidal behaviors; however, TFP outperformed DBT in anger and impulsivity improvement. Overall, participation in TFP predicted significant improvement in 10 of the 12 variables across the 6 domains, DBT in 5 of 12, and ST in 6 of the 12 variables.
+
+TFP vs. schema focused therapy
+
+Significant improvements were found in both treatment groups on DSM-IV BPD criteria and on all four of the study's outcome measures (borderline psychopathology, general psychopathology, quality of life, and TFP/SFT personality concepts) after 1-, 2-, and 3-years. Schema focused therapy (SFT, or schema therapy as it is now commonly known) was associated with a significantly higher retention rate. After three years of treatment, schema therapy patients showed greater increases in quality of life, and significantly more schema therapy patients recovered or showed clinical improvement on the BPD Severity Index, fourth version. However, the TFP cell contained more suicidal patients and showed less adherence casting doubt on a direct comparison between treatments. The schema therapy group improved significantly more than the TFP group with respect to relationships, impulsivity, and parasuicidal/suicidal behaviour although many of the alliance ratings were made after dropout. It was concluded that schema therapy was significantly more effective than TFP on all outcome measures assessed during the study. A follow-up of this study concluded that both clients and therapists rated therapeutic alliance higher in schema therapy than in TFP.
+
+References
+
+Counseling
+Psychotherapies
+Borderline personality disorder

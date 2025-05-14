@@ -1,0 +1,76 @@
+Das Grimoire des Wahnsinns (Originaltitel: The Big Book of Madness) ist ein kooperatives Brett- und Kartenspiel des französischen Spieleautoren Maxime Rambourg, das 2015 im Verlag Iello auf Englisch und Französisch erschien. 2016 wurde es von Iello in Deutschland zusammen mit dem Heidelberger Spieleverlag auf Deutsch veröffentlicht. Bei dem Spiel versuchen die Spieler in der Rolle von Zauberlehrlingen Monster zu bezwingen, die aus einem von ihnen geöffneten Zauberbuch entfliehen wollen.
+
+Im Jahr 2017 wurde das Spiel auf die Empfehlungsliste des Kennerspiel des Jahres aufgenommen.
+
+Thema und Ausstattung 
+Bei Das Grimoire des Wahnsinns geht es thematisch um den Versuch einer Gruppe von Zauberlehrlingen, Monster zu besiegen, die aus einem von ihnen gegen die Weisung ihrer Lehrer geöffneten Zauberbuch, dem „Grimoire des Wahnsinns“, entfliehen wollen. Um dies zu tun, stehen ihnen einige an die vier Elemente Wasser, Luft, Feuer und Erde gebundene Basiszaubersprüche sowie Energie aus diesen Quellen zur Verfügung, die sie im Laufe des Spiels ausbauen können.
+
+Das Spielmaterial besteht neben der Spielanleitung aus:
+ einem Spielplan mit einer Kartenablage für das Zauberbuch und der Wahnsinns- und Fluchkarten sowie einem Rundenanzeiger
+ 136 Elementkarten, davon je 34 pro Element Wasser, Luft, Feuer und Erde mit den Werten 1, 2 und 3,
+ 35 Wahnsinnskarten,
+ 48 Fluchkarten,
+ 56 Zauberkarten, davon 20 Basiszauber und 36 Bibliothekszauber,
+ 8 Charakterbögen (4 verschiedene Typen, jeweils ein männlicher und ein weiblicher Charakter),
+ 17 Grimoirekarten, davon 4 Buchdeckel, 12 Buchseiten und eine letzte Seite,
+ ein Marker für den aktiven Spieler,
+ 16 Elementmarker,
+ ein Ritualmarker in Form eines hölzernen Buches, und
+ ein Rundenmarker in Form eines Hutes.
+
+Spielweise 
+Das Spiel verläuft über 5 Runden, in denen jeweils eine neue Seite des Zauberbuches aufgeschlagen wird und ein neues Monster mit neuen Flüchen besiegt und gebannt werden muss. Dabei besteht eine Runde immer aus mehreren Zügen, die durch den Ritualmarker als Zeitgeber vorgegeben werden. Auf der letzten Seite des Buches befindet sich dann das stärkste Monster, das als Endgegner besiegt werden muss, um das Spiel zu gewinnen.
+
+Alle Spieler haben ein eigenes Kartendeck in Form eines Nachziehstapels aus Elementkarten, zu denen im Laufe des Spiels mehr und mehr Wahnsinnskarten kommen. Karten zum Ausspielen und Bannen werden vom eigenen Deck gezogen und später in einen jeweils eigenen Ablagestapel abgelegt. Sobald das Deck aufgebraucht ist, wird eine Wahnsinnskarte vom Vorrat auf den Ablagestapel gelegt und der gesamte Stapel wird zum neuen Deck gemischt. Neben dem Deck besitzt jeder Spieler seinen Charakterbogen und ein Set aus bis zu fünf Zaubersprüchen, die er unter Einsatz von Elementen während seines Zuges einsetzen kann. Der Charakterbogen bietet zudem drei Anlegeplätze, an denen Elementkarten angelegt werden können, die alle Mitspieler in ihren Zügen verwenden können.
+
+Spielvorbereitung 
+Zu Beginn des Spiels wird der Spielplan in der Tischmitte platziert. Die Fluchkarten werden nach Elementen sortiert, danach wird jeder Typ einzeln gemischt und verdeckt neben das Spielbrett gelegt. Die Anzahl der benötigten Wahnsinnskarten, abhängig von der Anzahl der Mitspieler, wird abgezählt und die Karten werden auf das Spielbrett gelegt. Auch die Elementkarten werden nach Elementen und nach Zahlen-Angaben sortiert, die 2er- und 3er-Karten werden in insgesamt acht offenen Stapeln neben das Spielfeld gelegt. Aus den Zauberbuch-Karten wird das Zauberbuch zusammengestellt. Es besteht aus der letzten Seite, 5 zufällig gewählten Mittelseiten und einem Buchdeckel. Die Bibliothekszauber werden nach Elementen und Stufen gemischt, dann von oben nach unten aufsteigend auf je einen Stapel pro Element gelegt und ausgelegt, die oberste Karte wird aufgedeckt auf den Stapel gelegt. Die Elementmarker kommen neben das Spielfeld. Der Rundenmarker wird auf die oberste Zeile (Runde 1) des gewählten Schwierigkeitsgrades gestellt und der Ritualmarker kommt auf das Startfeld des Ritualkreises (Ritualfeld ↺). Zuletzt wird ein Startspieler bestimmt.
+
+Jeder Spieler wählt einen Charakterbogen aus und bekommt die auf dem Bogen angegebenen 1er-Elementkarten sowie die vier Basiszauber. Der Spieler legt die vier Basiszauber offen vor sich aus und mischt die Elementkarten zu einem Deck, das er verdeckt vor sich ablegt.
+
+Spielablauf 
+
+ Konzentrationsphase
+ Monsterphase
+ Aktionsphase
+ Regenerationsphase
+
+Das Spiel wird rundenbasiert im Uhrzeigersinn gespielt und beginnt mit einem Startspieler. Jeder Zug besteht aus vier Phasen, in denen der jeweils aktive Spieler und das Monster ihre entsprechenden Aktionen durchführen. Der Zug beginnt mit der Konzentrationsphase, bei der der aktive Spieler alle seine während der letzten Züge verwendeten und damit erschöpften (und um 90° gedrehten) Zauber auffrischt.
+
+Danach startet die Monsterphase, in dem die Zeit vorwärts schreitet und das jeweils aktuelle Monster agiert. Hierbei wird der Ritualmarker um ein Feld vorgezogen und alle Effekte des neuen Feldes und der entsprechend ausliegenden Flüche (Felder 2 bis 5) werden angewendet. Kommt der Marker auf das Ritualfeld mit dem Kreispfeil ↺ (oder steht dort in der ersten Runde), wird überprüft, ob sich Flüche noch auf dem Spielfeld liegen. Ist dies der Fall, erleidet jeder Spieler den Schaden, der auf der rechten Seite des Grimoires beschrieben ist, und das aktuelle Monster entkommt. Danach werden alle übrigen Flüche abgeräumt und unter den Fluchstapel gelegt. Wenn kein Fluch mehr ausliegt, ist es den Spielern gelungen, das aktuelle Monster zu besiegen und zu bannen, und sie erhalten jeweils die ausgeschriebene Belohnung. Danach wird der Ritualmarker sofort auf das nächste Feld (1) gestellt und ein neues Monster wird aufgedeckt, indem die nächste Buchseite aufgeschlagen wird. Alle beschriebenen Ankunftseffekte dieses Monsters werden durchgeführt und betreffen alle Spieler. Der Rundenmarker wird um ein Feld vorgerückt, da mit dem neuen Monster eine neue Runde startet, und gibt an, wie viele zusätzliche neue 4-Elemente-Flüche auf das Spielbrett gelegt werden. Zuletzt werden die monsterspezifischen Flüche ausgelegt.
+
+In der Aktionsphase führt der jeweils aktive Spieler alle ihm zur Verfügung stehenden Aktionen durch. Dabei kann er mit Hilfe seiner Element- und Zauberkarten Zauber wirken, neue Zauber lernen, zusätzliche Elementkarten hinzugewinnen, Flüche bannen und den eigenen Wahnsinn kurieren. Er kann beliebig viele Aktionen und auch einzelne Aktionen mehrfach durchführen, solange er genug Elementkarten auf der Hand oder in den Unterstützungszonen der Mitspieler zur Durchführung zur Verfügung hat. Alle eingesetzten Elementkarten werden auf die jeweiligen Ablagestapel gelegt:
+ Um einen nicht erschöpften Zauber zu wirken, werden zunächst alle Kosten in Form von Elementkarten bezahlt, danach wird der beschriebene Effekt ausgeführt und die Zauberkarte um 90° gedreht (erschöpft). Der Effekt des Zaubers kann verstärkt werden, indem die Elementkosten mehrfach bezahlt und die Zauber entsprechend mehrfach durchgeführt werden. Jeder Zauber kann, einfach oder verstärkt, nur einmal pro Zug durchgeführt werden und bleibt dann bis zum nächsten Zug des Spielers erschöpft.
+ Um einen neuen Zauber aus der Bibliothek zu lernen, muss dieser offen auf dem jeweiligen Stapel liegen. Um ihn zu erhalten, muss der Spieler zwei Elemente vom Typ des Zaubers ablegen und kann ihn dann in seinen Spielbereich auslegen. Dabei darf jeder Zauberlehrling maximal 5 Zauber ausliegen haben. Wird die Zahl überschritten, muss dafür ein anderer Zauber aus dem Spiel genommen werden. Ein neu erlernter Zauber darf im aktuellen Zug sofort eingesetzt werden.
+ Um eine neue Elementkarte hinzuzugewinnen, kann diese für den jeweiligen Wert mit Elementkarten eingekauft werden. Eine 2er-Elementkarte kostet dabei zwei, eine 3er-Elementkarte drei Elemente des entsprechenden Typs. Die eingesetzten Elementkarten werden aus dem Spiel genommen, die neu erworbenen Karten auf den Ablagestapel gelegt und erst beim nächsten Mischen ins Deck gemischt.
+ Um einen Fluch zu bannen, muss ein Spieler die vier auf dem Fluch dargestellten Elemente aus der Hand oder den Unterstützungszonen ablegen. Wird ein Fluch gebannt, wird er vom Spielfeld genommen und der aktive Spieler erhält eine 2er-Elementkarte seiner Wahl als Belohnung.
+ Um den eigenen Wahnsinn zu kurieren, muss der Spieler zwei beliebige Elementkarten einsetzen. Damit kann er eine Wahnsinnskarte von seiner Hand oder aus einer beliebigen Unterstützungszone kurieren und auf den Wahnsinnsstapel zurücklegen.
+
+Auf die Aktionsphase folgt die Regenerationsphase, bei der der Spieler seine Handkarten auf sechs Karten durch Ablegen reduzieren oder durch Nachziehen erhöhen muss. Beim Reduzieren darf ein Spieler keine Wahnsinnskarten ablegen, und wenn ein Spieler am Ende seines Zuges sechs Wahsinnskarten auf der Hand hat, scheidet er aus dem Spiel aus. Nach dieser Phase wird der Spielermarker an den nächsten Spieler weitergegeben.
+
+Spielende 
+Die Spieler gewinnen das Spiel, wenn es ihnen gelingt, durch das gesamte Zauberbuch zu blättern und am Ende den letzten Gegner zu besiegen und zu bannen. Dabei ist es unerheblich, ob auf den vorherigen Runden einzelne Monster entkommen konnten. Sie verlieren das Spiel, wenn
+ ein Spieler eine Wahnsinnskarte ziehen müsste, der Wahnsinnskartenstapel allerdings leer ist,
+ alle Mitspieler dem Wahnsinn verfallen und ausgeschieden sind oder
+ es ihnen nicht gelingt, das finale Monster zu besiegen.
+
+Varianten 
+Das Spiel kann in verschiedenen Schwierigkeitsgraden und zusätzlich in mehreren Varianten gespielt werden. Das normale Spiel entspricht dem Standardspiel gemäß den Regeln, bei der Terror-Variante beginnen alle Spieler mit einer Wahsinnskarte aus dem Wahnsinnskartenstapel und in der Albtraum-Variante ersetzen alle Spieler ihre 2er-Elementkarte im Startdeck durch eine 1er-Elementkarte.
+
+Ausgaben und Rezeption 
+Das Spiel Das Grimoire des Wahnsinns wurde 2015 zu den Internationalen Spieltagen in Essen bei IELLO als The Big Book of Madness in einer englischen und einer französischen Auflage veröffentlicht. 2016 veröffentlichte IELLO das Spiel zudem in Deutschland zusammen mit dem Heidelberger Spieleverlag in deutscher Sprache. Nachfolgend wurde es international von verschiedenen Verlagen auf Spanisch, Italienisch, Polnisch, Tschechisch, Ungarisch, Japanisch und Chinesisch veröffentlicht.
+
+Im Jahr 2017 wurde das Spiel auf die Empfehlungsliste des Kennerspiel des Jahres aufgenommen und von der Jury wie folgt kommentiert:
+
+Belege
+
+Weblinks 
+ Das Grimoire des Wahnsinns beim Heidelberger Spieleverlag (heute Asmodee)
+ The Big Book of Madness bei IELLO Games
+ 
+ 
+
+Spiel 2015
+Brettspiel
+Kooperatives Spiel
+Deck-Building-Spiel

@@ -1,0 +1,183 @@
+Cet article est un des sous-chapitres de l'article Grippe aviaire. Sans avoir vocation à remplacer un traité vétérinaire, il traite des aspects diagnostics et prophylaxie.
+
+Diagnostic clinique et symptômes 
+Les symptômes sont multiples :
+ dépression sévère et diminution de l'appétit ;
+ réduction considérable de la production d'œufs ;
+ Œdème céphalique avec tuméfaction et cyanose de la crête et de la caroncule.
+
+La grippe présente des formes évolutives et cliniques variées, parfois totalement asymptomatiques chez des porteurs qui excrètent pourtant le virus. Chez l'oiseau, elle peut être confondue avec la maladie de Newcastle qui présente les mêmes symptômes. L'isolement du virus en laboratoire ou la confirmation par test sont donc indispensables pour confirmer tout diagnostic.
+
+Formes suraiguës et formes aiguës 
+
+  Elles se traduisent par une atteinte septicémique, avec de nombreux organes affectés par une production trop abondante de cytokines.
+  Elles provoquent la mort en 24 à 48 heures dans 90 % des cas. 
+  Les symptômes listés ci-dessous sont isolés ou diversement associés.
+
+ symptômes généraux (anorexie, prostration…), 
+ symptômes cutanés (œdème, congestion avec parfois hémorragies de la crête et des barbillons)
+ symptômes respiratoires (dyspnée, râles, toux), 
+ symptômes digestifs (diarrhée verdâtres progressant vers le presque totalement blanchâtre ou diarrhées hémorragiques), 
+ symptômes d'attaque systémique des organes internes (se traduisant par des hémorragies, des œdèmes et des pétéchies)
+ symptômes nerveux (incoordination motrice, paralysie des ailes, torticolis…)
+
+Formes subaiguës 
+
+Elles se traduisent par une atteinte de l'état général, avec :
+
+  symptômes respiratoires (gonflement des sinus orbitaires, dyspnée, toux) 
+  réduction des pontes 
+La mortalité peut être élevée
+
+Formes frustes
+
+ troubles respiratoires légers
+ réduction des pontes
+Pas ou peu de mortalité.
+
+Formes asymptomatiques
+L'animal ne présente aucun symptôme apparent, pas de fièvre et aucune mortalité.. mais les analyses mettent en évidence une excrétion parfois très importante de virus. C'est un état finalement beaucoup plus fréquent qu'on ne l'a d'abord pensé, y compris chez les oiseaux sauvages (canards en particulier).
+
+Remarques 
+ On ne parle en général - à tort (?) - de « peste aviaire » que pour les formes à forte mortalité (suraiguës et aiguës principalement), mais un sous-type viral apparemment non-pathogène pour un canard (qui est réellement infecté puisqu'il excrète des quantités significatives, voire très importantes de virus) peut s'avérer mortel pour une autre espèce (dinde, poule ou même chat par ex) ou à la suite d'une mutation.
+ Certains experts pensent qu'il faudrait un monitoring international pour toutes les formes de grippe aviaire de manière à détecter au plus vite les mutations rendant le virus dangereux pour les oiseaux ou l'Homme. Il en est qui pensent qu'il faudrait cultiver toutes les souches possibles pour pouvoir disposer plus rapidement de substances vaccinales en cas de zoonose ou pandémie humaine émergeant brutalement.
+ Dans le cas du H5N1, il serait intéressant, voire prioritaire, de comprendre comment l'oiseau porteur asymptomatique fait pour supporter le virus, sans qu'une tempête de cytokines engendrée par une réaction immunitaire trop violente ne détruise ou affaiblisse son organisme. Il pourrait y avoir là une piste pour de nouveaux moyens de contrôle ou de soin de la grippe
+
+Lésions 
+(parfois absentes en cas de mort subite, et sinon identiques à celles causées par la maladie de Newcastle).
+
+Ex : Chez le poulet
+ Déshydratation
+ Congestion sévère du système musculaire.
+ Œdème sous-cutané (tête, cou et/ou articulations des pattes).
+ Attaque du système respiratoire, avec lésions graves (dont sinusite infra-orbitaire et aéro-sacculite dans les formes subaiguës).. Trachéite hémorragique sévère. Exsudats muqueux importants dans la lumière trachéale. Avec ou sans écoulements (nez et bec).
+ Attaque du systèmes digestif avec pour les formes aiguës et suraiguës : duodénite et pancréatite hémorragiques, hémorragies des amygdales cæcales, follicules ovariens hémorragiques… Pétéchies à la face interne du sternum, sur les séreuses et les tissus adipeux de l'abdomen, sur les surfaces séreuses et dans la cavité splanchnique. Hémorragies de la surface muqueuse de l'estomac glandulaire, notamment à la jonction avec le gésier. Hémorragies et érosions de la muqueuse du gésier. Foyers hémorragiques sur les tissus lymphoïdes de la muqueuse intestinale.
+ Congestion sévère de la conjonctive, s'accompagnant parfois de pétéchies.
+ Congestion rénale sévère, parfois accompagnée de dépôts d'urates dans les tubules.
+ Hémorragies et dégénérescence des ovaires.
+
+Les lésions observées chez les dindons ressemblent à celles des poulets mais parfois moins marquées. 
+
+Les canards infectés par des souches HP (hautement pathogènes) et excrétant des virus ne présentent parfois ni signe clinique ni lésion (porteurs asymptomatiques). Ils peuvent néanmoins excréter longtemps le virus influenza aviaire H5N1 dans leurs selles.
+
+Diagnostic
+
+Diagnostic différentiel
+(ce avec quoi il ne faut pas confondre l'Influenza aviaire) : 
+
+ Choléra aviaire (forme aiguë)
+ Maladie de Newcastle (M.N.) à souches vélogènes 
+L'évolution de la maladie dans un effectif vacciné contre la M.N ou chez des palmipèdes habituellement peu sensibles à la M.N doivent faire suspecter une Influenza, comme l'observation de chutes de pontes associées à des troubles respiratoires chez la dinde doivent faire suspecter une Influenza.
+ Autres maladies respiratoires, notamment laryngotrachéites infectieuses
+
+Diagnostic biologique
+
+Procédures
+
+Identification de l'agent 
+L'identification se fait par inoculation dans la cavité allantoïde d'œufs EOPS embryonnés âgés de 9 à 11 jours, de prélèvements (fèces, trachée, poumons, sacs aériens, rate, cerveau, foie, cœur et sang venant de volailles mortes… ou d'écouvillonnages de cloaque et de trachée de volaille vivante. 
+
+Les œufs inoculés sont incubés pendant 7 jours max. 
+
+Le liquide allantoïde des œufs morts ou tués est ensuite testé en présence de globules rouges à 1 % afin de rechercher la présence d'hémagglutinine. 
+
+Si réaction positive ⇒ identifier l'agent hémagglutinant car l'hémagglutination peut résulter de la présence de bactéries ou d'autres virus (orthomyxovirus et paramyxovirus).
+
+Typage des virus isolés 
+Il se fait par des antisérums spécifiques des différents sous-types H et N dans des tests d'inhibition de l'hémagglutination et de double diffusion en milieu gélosé. L'utilisation d'antisérums H5 ou H7 dans des tests d'inhibition de l'hémagglutination permet une identification rapide des sous-types potentiellement pathogènes.
+
+Evaluation du pouvoir pathogène (évalué in vivo ou in vitro) 
+ Tests in vivo : un index de pathogénicité par voie intraveineuse (IPIV) mesure la pathogénicité du virus. Les virus dont l'IPIV est égal ou supérieur à 1.25 sont dits très pathogène. 
+ Test in vitro : La pathogénicité des virus influenza est directement corrélée au clivage de leur glycoprotéine HA par des protéases cellulaires. L'hémagglutinine des souches pathogènes est clivée par une protéase présente dans tous les types cellulaires alors que celle des souches non pathogènes ne l'est qu'en présence de trypsine dans les cellules épithéliales. Un test de formation de plages de lyse en présence et en absence de trypsine permet un typage rapide des souches sur culture de fibroblastes d'embryon de poulet.
+
+Tests sérologiques 
+ Tests d'hémagglutination et inhibition de l'hémagglutination
+ Immunodiffusion en gélose
+
+Prélèvements
+
+Identification de l'agent 
+ Prélèvements trachéaux et cloacaux par écouvillonnage (ou prélèvements de fèces) chez les oiseaux vivants ou à partir d'organes et de fèces regroupés, provenant d'oiseaux morts
+
+Tests sérologiques 
+ Échantillons de sang coagulé ou sérum
+
+Il n'existe aucun traitement.
+
+Prophylaxie sanitaire
+
+ empêcher les contacts volailles - oiseaux sauvages, notamment avec des oiseaux aquatiques
+ Ne pas introduire dans les élevages des oiseaux dont l'état sanitaire est inconnu
+ Surveiller les contacts avec les personnes
+ Procédures de nettoyage et de désinfection correctes
+ Présence recommandée d'une seule classe d'âge par exploitation
+
+Prophylaxie médicale
+
+On a souvent conseillé de ne pas vacciner les animaux contre la peste aviaire, car certains individus peuvent alors être contaminés et - sans symptômes apparents - disséminer des virus virulents, malgré la vaccination.
+
+ Une mauvaise immunité (vaccin de médiocre qualité ou frelaté…) ou une vaccination continuée sur plusieurs années peuvent favoriser l'émergence de souches épizootiques nouvelles. 
+ Il faut de plus disposer de vaccins efficaces dont la composition a été mise à jour (cf. la pluralité des souches et l'absence de protection croisée entre sous-types). 
+ Au Pakistan et au Mexique, des vaccins à virus inactivés ont été mal utilisés pour combattre la propagation de la maladie.
+ 
+La vaccination est interdite en Europe, mais lorsque la situation sanitaire l'exige, un programme de vaccination peut être proposé à la Commission et approuvé.
+
+Ce fut le cas en Italie, à la suite de l'épizootie de 1999-2000, où l'on a utilisé un vaccin inactivé H7N3 et où on utilise depuis 2003 un vaccin H7N1, permettant de distinguer oiseaux infectés et vaccinés.
+
+A la mi- la France a demandé à l'UE l'autorisation de vacciner dans 3 départements, et dans les zoos et parcs ornithologiques.
+
+Il est important en effet de pouvoir suivre la circulation virale, détectable dans ce cas par la recherche des anticorps dirigés contre la neuraminidase N3 (alors que les oiseaux vaccinés ont des anticorps anti-N1) (détection possible des anticorps anti-neuraminidase par immunofluorescence indirecte).
+
+Une autre stratégie pour distinguer les anticorps post-vaccinaux des anticorps post-infectieux est la recherche des anticorps dirigés contre la protéine non structurale NS1, inexistants lorsque les oiseaux sont vaccinés avec un vaccin à virus inactivé (Jean-Pierre GANIERE, ENVN, 2005)
+
+Si les animaux d'élevages étaient massivement infectés, il serait théoriquement possible d'utiliser une immunothérapie passive des animaux malades, par des anticorps monoclonaux (c'est une des solutions envisagées chez l'Homme, par des chercheurs qui en 2007 testaient déjà son efficacité sur l'animal (souris), avec des résultats laissant penser que des anticorps monoclonaux pourraient être produits à partir du sang d'animaux malades du même virus, et en ayant guéri, ce qui pourrait contribuer à enrayer une épizootie massive (en prophyllaxie unique, ou comme traitement complémentaire). Ce n'est à ce jour qu'une piste de recherche, les filières de production pour l'animal n'existent pas.
+
+Mesures Communautaires de contrôle de l'influenza aviaire : Directive 92/40/EEC du Conseil de l'Europe (), Official Journal L167, 22/06/1992 pp 0001-0016.
+
+Mesures de police sanitaire (en France)
+Cadre : Arrêté du  modifié pour les mesures techniques et arrêtés des  et  (mesures financières). 
+
+Voir aussi la directive 92/40/CEE du  (mesures communautaires de lutte contre l'influenza aviaire).
+
+Prophylaxie médicale
+
+En France 
+Le vétérinaire sanitaire doit informer le DDSV, pratiquer les prélèvements réglementaires et les adresser dans un laboratoire agréé pour l'isolement du virus (La sérologie ne permet pas un diagnostic sûr. Elle ne suffit donc pas à déclencher des mesures de police sanitaire). 
+
+La souche isolée est ensuite adressée au laboratoire national de référence qui détermine l'index de pathogénicité intraveineuse afin d'éliminer une souche faiblement pathogène de virus. 
+
+Dans l'attente de ces résultats, l'élevage est placé sous arrêté préfectoral de mise sous surveillance . 
+
+Les investigations s'arrêtent en cas de résultats négatifs et l'éleveur devra seulement réaliser une désinfection renforcée en fin de bande.
+
+En cas de foyer reconnu (d'une forme réputée contagieuse) 
+En Europe, les autorités sanitaires délimitent un périmètre infecté comprenant une zone de séquestration (exploitation atteinte) et des zones de protection et de surveillance (respectivement d'au moins  et  au autour du foyer).
+
+Mesures mises en œuvre (en zone de séquestration, en Europe)
+ L'exploitation infectée est mise en interdit.
+ L'abattage des oiseaux et la destruction des œufs sont obligatoires, mais indemnisés 
+ Les cadavres sont détruits et les locaux et produits souillés désinfectés (ex : soude à 8‰ ou lait de chaux sodé à 8‰).
+ Une enquête épidémiologique recherche l'origine de la contamination
+ Les exploitations susceptibles d'avoir été infectées à partir du foyer reconnu sont placées sous contrôle officiel pendant 21 jours.
+
+Mesures mises en œuvre (dans la zone de protection et de surveillance)
+
+ Les élevages avicoles sont contrôlés (possibilité de contrôles virologiques et sérologiques par IDG en zone de protection)
+ les déplacements d'oiseaux sont interdits ou réglementés, etc. 
+
+Une vaccination d'urgence peut être envisagée (par la DGAL en France, après accord de la Commission européenne). 
+
+En France, l'A.P. est levé 30 jours après exécution des mesures sanitaires prévues dans l'exploitation atteinte.
+
+Autres mesures 
+ Contrôles relatifs aux introductions en France d'oiseaux et de leurs produits, devant provenir d'élevages indemnes situés dans des zones non infectées.
+ En cas d'épizootie dans un pays voisin : interruption des échanges de volailles et œufs à partir des régions infectées, renforcement des mesures de désinfection des véhicules de transport de volailles et œufs, vigilance accrue dans les élevages éventuellement exposés (information des éleveurs, surveillance des paramètres zootechniques et sanitaires, contrôles sérologiques).
+
+Notes et références
+
+Voir aussi
+
+Lien interne 
+ Grippe aviaire
+
+Grippe aviaire

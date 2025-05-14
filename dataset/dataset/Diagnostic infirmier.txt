@@ -1,0 +1,279 @@
+Le diagnostic infirmier est l'énoncé d'un jugement clinique sur les réactions aux problèmes de santé présents ou potentiels d'une personne, d'un groupe ou d'une collectivité. Il est complémentaire du diagnostic médical et ne s'y substitue pas. D'une façon générale, il est centré sur les besoins de la personne et non directement sur sa pathologie.
+
+
+
+Définitions et généralités 
+
+En matière de promotion de la santé, le diagnostic infirmier répond aussi bien à un problème présent ou à un problème potentiel. (Souvent les diagnostics s'orientant sur des problèmes potentiels commencent par "Risque de...").
+
+Dans la pratique, l'infirmière se sert de la démarche de soins et du raisonnement clinique pour décrire et argumenter le ou les diagnostic(s) posé(s), qu'ils soient travaillés en démarche liée dans le projet de soins infirmiers (i.e. l'objectif général de soins de la personne) ou en tant que cible (i.e. en réaction à un problème ponctuel) dans les transmissions ciblées.
+
+Le diagnostic décrit une procédure de soins infirmiers et se présente et se rédige sous forme trois axes, communément appelés D/A/R (Données/Actions/Résultats). La procédure évolue dans le temps en fonction des signes présentés par la personne et des hypothèses diagnostiques émises.
+
+D'une manière générale, la recherche en soins infirmiers, animée notamment par les infirmiers spécialistes en clinique, a permis d'affiner et de promouvoir au fil du temps la clarification et l'adaptabilité des diagnostics à une pratique infirmière quotidienne. En France, en Belgique et en Suisse, la classification de l'ANADI est utilisée.
+
+Historique du diagnostic infirmier
+
+Quelques faits 
+L'avènement du diagnostic infirmier est en lien direct avec l'histoire de la profession. En corollaire d'étapes clés comme la libération de la femme, l'homogénéisation de la formation, et la validation des connaissances et compétences par un diplôme d'État, les professionnels de l'époque, ainsi reconnus, ont à la fois gagné en liberté et en crédibilité auprès de leurs pairs pour asseoir certaines théories à propos des raisonnements cliniques infirmiers, dont notamment la mise en forme du concept de diagnostic infirmier.
+
+À l'origine basée sur l'observation de la récurrence de certains problèmes de santé dont les personnes soignées souffraient, la réflexion induite a permis petit à petit de hiérarchiser, classer et homogénéiser ces problèmes sous forme de diagnostics pour fournir des réponses réfléchies, structurées et standardisées à la manière des diagnostics médicaux (est entendu par "réponses standardisées", un vocabulaire commun, des concepts facilement reconnaissables par tous). Les modèles conceptuels, comme celui d'Abraham Maslow ont fortement inspiré les recherches, notamment par l'étude du concept de Motivation.
+
+Culturellement, le principe du diagnostic infirmier sous forme de Données/Actions/Résultats s'inspire fortement du modèle économique nord-américain dont il est issu, selon le modèle de l'économie sociale : un patient est aussi un client, à qui le processus de soins infirmiers et le plan de soins infirmier (nursing care plan) est « vendu » comme produit de consommation. L'atteinte du résultat s'évalue aussi comme une satisfaction-client du produit vendu.
+
+Au fil de l'histoire de la profession, la considération du soin infirmier a subi une forte mouvance et le diagnostic infirmier répond, entre autres, à un besoin de la profession infirmière d'acquérir plus d'autonomie, de reconnaissance et de qualité de soins pour la personne soignée. Le diagnostic infirmier devient la mise en mots (et en concepts) du raisonnement clinique infirmier.
+
+Critique du modèle 
+Les détracteurs du diagnostic infirmier lui reprochent souvent de faire référence à une théorie trop poussée, inapplicable à une pratique quotidienne, bien souvent par manque de temps. Certains évoquent l'évidence de plusieurs diagnostics (comme Incapacité d'utiliser les toilettes) dont il apparait absurde voire ridicule de le détailler sous forme de Données/Actions/Résultats. Le mot diagnostic, désapprouvé (parfois même contesté), trouve son sens dans le fait que l'énoncé du diagnostic infirmier repose sur le principe du DAR (Données, Actions, Résultats) :
+la description de données équivalents aux symptômes ;
+l'argumentation d'actions équivalentes aux moyens et actes médicaux ;
+l'évaluation de résultats ;
+Le mot diagnostic désigne stricto sensu la démarche intellectuelle mise en œuvre. Toutefois, ce terme apparait comme étant trop général. En pratique, les formateurs en soins infirmiers ont nécessité d'analyser l'ensemble des processus qui constituent, d'une part, la collecte et le traitement des données par le raisonnement clinique, et, d'autre part, le processus de décision pour le projet de soins individualisé, c'est-à-dire le jugement clinique. En dépit de la difficulté de faire émerger à la conscience les processus cognitifs et métacognitifs du jugement clinique, une ingénierie didactique est spécialement dédiée à l'apprentissage du jugement clinique.
+
+Classifications
+
+Structures des diagnostics 
+
+L'ANADI (NANDA-International) classe les diagnostics en cinq catégories majeures :
+
+Diagnostic actuel - un état présenté par la personne soignée avec présence objective de signes cliniques. Par exemple : Dégagement inefficace des voies respiratoires lié à une fatigue se manifestant par une toux inefficace.
+Diagnostic de type de risque - un état que la personne ne présente pas mais dont la survenue est favorisée par d'autres problèmes actuels. Par exemple : Risque d'altération de l'état cutané (escarres) lié à une mobilité réduite.
+Diagnostic possible - un état que peut présenter une personne mais dont l'hypothèse diagnostic n'est pas validée par suffisamment de critères. Par exemple : Possible déficit en volume liquidien lié à des vomissements fréquents depuis trois jours se manifestant [pour l'instant] par un pouls s'étant élevé.
+Diagnostic de syndrome - lorsque plusieurs états caractéristiques sont présentés par la personne et que tous ont la même origine intrinsèque. Par exemple : Syndrome du déficit de soins personnels lié à l'incapacité d'utiliser les toilettes, lié à l'incapacité de se mouvoir, lié à l'incapacité de s'alimenter, se manifestant par ...
+Diagnostic centré sur le bien-être [le mieux-être] - pour décrire le potentiel d'amélioration d'un état. Par exemple : Potentiel d'amélioration de la prise en charge thérapeutique lié à une observance au traitement acceptée, mais lié à un trouble de la mémoire se manifestant par des oublis de prise.
+
+Taxonomies 
+
+À ce jour, plusieurs taxinomies sont reconnues par l'ANADI pour le classement des diagnostics afin d'en rendre leur approche plus intuitive. La plupart des taxinomies utilisent l'approche par besoins, par modes fonctionnels de santé, par thèmes de santé ou problèmes de santé prédominants.
+
+Par exemple Déficit en auto-soins regroupe Incapacité totale ou partielle d'effectuer la toilette de l'hemicorps, Incapacité totale ou partielle d'utiliser les toilettes, etc)
+
+Certaines taxinomies particulières sont utilisées dans le projet d'intégration des diagnostics infirmiers à la CIM (Classification internationale des maladies) publiée par l'OMS.
+
+La pratique quotidienne retient surtout la classification selon les Quatorze besoins fondamentaux selon Virginia Henderson :
+
+Respirer 
+Dégagement inefficace des voies respiratoires
+Échanges gazeux perturbés
+Intolérance au sevrage de la ventilation assistée
+Mode de respiration inefficace
+impossibilité de maintenir une respiration spontanée
+Risque élevé de suffocation (manque d'air
+Risque de fausse route (ou risque d'inhalation ou d'aspiration)
+Risque d'intoxication
+
+Boire et manger 
+Déficit de soins personnels: s'alimenter
+Alimentation déficiente
+Alimentation excessive
+Risque d'alimentation excessive
+Motivation à améliorer son alimentation
+Denture altérée
+Nausées
+Trouble de la déglutition
+Déficit de volume liquidien (déshydratation)
+Risque de déficit de volume liquidien (déshydratation)
+Risque de déséquilibre du volume liquidien
+Excès de volume liquidien (œdème)
+Risque d'aspiration (fausse route)
+Motivation à améliorer son équilibre hydrique
+Mode d'alimentation inefficace chez le nourrisson/nouveau-né
+Allaitement maternel efficace
+Allaitement maternel inefficace
+Allaitement maternel interrompu
+
+Éliminer 
+Constipation
+Déficit de soins personnels : utiliser les toilettes
+Diarrhée
+Elimination urinaire altérée
+Incontinence fécale
+Incontinence urinaire à l’effort
+Incontinence urinaire complète (ou vraie)
+Incontinence urinaire fonctionnelle
+Incontinence urinaire par besoin impérieux
+Incontinence urinaire réflexe
+Motivation à améliorer son élimination urinaire
+Pseudo-constipation
+Rétention urinaire
+Risque d’incontinence urinaire par besoin impérieux
+Risque de constipation
+
+Se mouvoir et maintenir une bonne posture 
+Capacité intracrânienne diminuée
+Champ énergétique perturbé
+Débit cardiaque diminué
+Désorganisation comportementale chez le nouveau-né/nourrisson 
+Difficulté à la marche
+Difficulté lors d’un transfert
+Fatigue
+Intolérance à l’activité
+Irrigation tissulaire inefficace
+Mobilité physique réduite
+Mobilité réduite au lit
+Mobilité réduite en fauteuil roulant
+Mode de vie sédentaire
+Réceptivité du nouveau-né/nourrisson à progresser dans son organisation comportementale
+Rétablissement post opératoire retardé
+Retard de la croissance et du développement 
+Risque d’intolérance à l’activité
+Risque de croissance anormale
+Risque de désorganisation comportementale chez le nouveau-né/nourrisson
+Risque de dysfonctionnement neuro-vasculaire périphérique
+Risque de retard de la croissance et du développement
+Risque de syndrome d’immobilité
+
+Dormir et se reposer 
+Fatigue
+Habitudes de sommeil perturbées
+Motivation à améliorer son sommeil
+Privation de sommeil
+
+Se vêtir et se dévêtir 
+Déficit de soins personnels : se vêtir/soigner son apparence
+
+Maintenir la température du corps dans les limites de la normale 
+Hyperthermie
+Hypothermie
+Risque température corporelle anormale
+Thermorégulation inefficace
+
+Être propre, soigné et protéger ses téguments 
+Atteinte à l’intégrité de la peau
+Atteinte à l’intégrité des tissus
+Atteinte de la muqueuse buccale
+Déficit de soins personnels : se laver/effectuer les soins d’hygiène
+Denture altérée
+Risque d’atteinte à l’intégrité de la peau
+
+Éviter les dangers 
+Anxiété
+Automutilation
+Chagrin chronique
+Déni non constructif
+Deuil anticipé
+Deuil dysfonctionnel
+Diminution chronique de l’estime de soi
+Diminution situationnelle de l’estime de soi
+Douleur aiguë
+Douleur chronique
+Dysréflexie autonome
+Entretien inefficace au domicile
+Identité personnelle perturbée
+Image corporelle perturbée : Confusion (ou insatisfaction) dans la représentation mentale du moi physique.
+Inadaptation à un changement dans l’état de santé
+Maintien inefficace de l’état de santé
+Motivation à améliorer la prise en charge de son programme thérapeutique
+Motivation à améliorer le concept de soi
+Négligence de l’hémicorps
+Non observance (préciser)
+Peur
+Prise en charge efficace du programme thérapeutique
+Prise en charge inefficace du programme thérapeutique
+Prise en charge inefficace du programme thérapeutique par la famille
+Prise en charge inefficace du programme thérapeutique par une collectivité
+Réaction allergique au latex
+Recherche d’un meilleur état de santé
+Risque d’accident
+Risque d’automutilation
+Risque d’infection
+Risque d’intoxication
+Risque de blessure en péri-opératoire
+Risque de chute
+Risque de diminution situationnelle de l’estime de soi
+Risque de Dysréflexie autonome
+Risque de réaction allergique au latex
+Risque de suicide
+Risque de Syndrome d’inadaptation à un changement de milieu 
+Risque de syndrome de mort subite du nourrisson
+Risque de trauma
+Risque de violence envers les autres
+Risque de violence envers soi
+Syndrome d’inadaptation à un changement de milieu
+Syndrome post-traumatique
+
+Communiquer avec ses semblables 
+Exclusion social
+Communication verbale altérée
+Dysfonctionnement sexuel
+Habitudes sexuelles perturbées
+Interactions sociales perturbées
+Isolement social
+Motivation à améliorer sa communication
+Risque de sentiment de solitude
+ Syndrome du traumatisme de viol
+Syndrome du traumatisme de viol : réaction mixte
+Syndrome du traumatisme de viol : réaction silencieuse
+Troubles de la perception sensorielle (préciser : auditive, gustative, kinesthésique, olfactive, tactile ou visuelle)
+
+Agir selon ses croyances et ses valeurs 
+Angoisse face à la mort
+Conflit décisionnel (préciser)
+Détresse spirituelle
+Motivation à améliorer sa pratique religieuse
+Motivation à améliorer son bien-être spirituel
+Perte d’élan vital chez l’adulte
+Perte d’espoir
+Pratique religieuse perturbée
+Risque de détresse spirituelle
+Risque de perturbation de la pratique religieuse
+Risque de sentiment d’impuissance
+Sentiment d’impuissance
+
+S'occuper en vue de se réaliser 
+Conflit face au rôle parental
+Dynamique familiale dysfonctionnelle : alcoolisme
+Dynamique familiale perturbée
+Exercice du rôle parental perturbé
+Exercice inefficace du rôle
+Motivation à améliorer la dynamique familiale
+Motivation à améliorer ses stratégies d’adaptation
+Motivation d’une collectivité à améliorer ses stratégies d’adaptation
+Motivation d’une famille à améliorer ses stratégies d’adaptation
+Risque de perturbation dans l’exercice du rôle parental
+Risque de perturbation de l’attachement parent-enfant 
+Risque de tension dans l’exercice du rôle de l’aidant naturel
+Stratégies d’adaptation défensives
+Stratégies d’adaptation familiale compromises
+Stratégies d’adaptation familiale inefficaces d’une collectivité
+Stratégies d’adaptation familiale invalidantes 
+Stratégies d’adaptation inefficaces
+Tension dans l’exercice du rôle de l’aidant naturel
+
+Se récréer 
+Activités de loisirs insuffisantes
+absence d’épanouissement
+
+Apprendre 
+Confusion aiguë
+Confusion chronique
+Connaissances insuffisantes
+Errance
+Motivation à améliorer ses connaissances
+Opérations de la pensée perturbées
+Syndrome d’interprétation erronée de l’environnement
+Troubles de la mémoire
+
+Notes et références
+
+Voir aussi
+
+Bibliographie 
+ Carpenito, Lynda Juall, Manuel de Diagnostics infirmiers, traduction de la  Handbook of Nursing Diagnosis et adaptation française par Lina Rahal, diffusion éditions Masson, Paris, France, 2003, 
+ Annie PASCAL et Eliane FRECON VALENTIN Diagnostics infirmiers, interventions et résultats, langage et pratique, , MASSON, collection démarche soignante, Paris, 2006, 
+ NANDA International Diagnostics infirmiers, définitions et classification 2005-2006, traduction française par l'AFEDI et l'AQCSI, MASSON, collection démarche soignante, Paris, 2006, 
+ Helen C. COX et al Applications cliniques des diagnostics infirmiers, l'adulte, l'enfant, la femme en périnatalité, la personne âgée, soins à domicile et en psychiatrie, traduction de la  américaine, DE BOECK, Paris, 2004 
+ Marilynn E. DDOENGES et Mary Fr. MOORHOUSE Diagnostics infirmiers, interventions et bases rationnelles, traduction de la  américaine, DE BOECK UNIVERSITE, Montréal, 2001, 
+ DELCHAMBRE, LEFEVRE, LIGOT, MAINJOT, MARLIERE et MATHIEU Guide d'observation des 14 besoins de l'être humain, orientation diagnostique, DE BOECK, , Bruxelles,  2004,
+
+Articles connexes 
+ Processus de soins infirmiers
+ Relation d'aide en soins infirmiers
+ Éducation thérapeutique du patient
+
+Liens externes 
+ Définitions des diagnostics de l'ANADI
+ Site web de l'AFEDI
+ Site web de l'Association québécoise de classification de soins infirmiers
+
+Science infirmière

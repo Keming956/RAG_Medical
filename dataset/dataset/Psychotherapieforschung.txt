@@ -1,0 +1,150 @@
+Die Psychotherapieforschung beschäftigt sich mit der Wirksamkeit und Wirkweise psychotherapeutischer Verfahren. Angesichts der Vielzahl von Schulen und Methoden der Psychotherapie ist zu beachten, dass die therapeutischen Schulen teils sehr unterschiedliche Kriterien für die Beurteilung eines Therapieerfolgs postulieren. Einige therapeutische Wirkfaktoren sind noch nicht messbar gemacht (operationalisiert) worden und somit empirischer Forschung kaum zugänglich. Deshalb werden manche Ergebnisse kontrovers diskutiert.
+
+Forschungsinhalte und -methoden 
+
+Bei der Ergebnisforschung bzw. Wirksamkeitsprüfung oder (engl.) Outcome-Forschung interessiert die Frage, ob (bzw. in welchem Ausmaß) Psychotherapie wirkt, bzw. ob eine Therapieform wirksamer ist als die andere (Therapievergleichsforschung).
+Hier werden in der Regel quantitative bzw. gruppenstatistische Methoden, aber auch vereinzelt Einzelfalluntersuchungen eingesetzt. Es kann dabei unterschieden werden zwischen Efficacy-Studien (Wirksamkeit von Psychotherapie unter Idealbedingungen) und Effectiveness-Studien (Wirksamkeit von Psychotherapie unter Realbedingungen). Die Standardmethode bei Efficacy-Studien ist das randomisiert-kontrollierte Studiendesign (RCT) mit dem Ziel einer möglichst hohen internen Validität. Die Frage der Effectiveness wird am besten durch systematische naturalistische Studien (quasi-experimentelles Design ohne Randomisierung) beantwortet, mit dem Ziel möglichst hoher externer Validität und Generalisierbarkeit der Ergebnisse auf andere Therapeuten, Patienten und klinische Settings.
+
+Prozessforschung hat dagegen die Prozesse bzw. Wirkungsweisen von Psychotherapie zum Inhalt, analysiert werden z. B. Wirkfaktoren von Psychotherapie wie die therapeutische Beziehung. Hier kommen sowohl quantitative als auch qualitative Forschungsmethoden zum Einsatz.
+
+Prozess-Ergebnis-Forschung untersucht den Zusammenhang zwischen Therapieprozess und -ergebnis.
+
+Meta-Analysen dienen dazu, mit Hilfe quantitativer statistischer Methoden Ergebnisse verschiedener Einzeluntersuchungen zur selben Fragestellung zu aggregieren und zusammenzufassen. Die zentrale Aussage (z. B. Wirksamkeit einer bestimmten Intervention) wird in Form von Effektstärken berichtetS. 34–37.
+
+Zunehmend häufig wird auch die Effizienz (engl. Efficiency) psychotherapeutischer Interventionen mit Hilfe gesundheitsökonomischer Methoden untersucht.
+
+Phasen der Psychotherapieforschung 
+Meyer beschrieb 1990 drei Phasen der Psychotherapieforschung:
+ Die Klassische Phase begann 1895 mit den Einzelfallstudien von Freud und Breuer ("Studien zur Hysterie"), die methodisch auf dem intra-individuellen Vor-Nach-Vergleich beruhen.
+ Die Rechtfertigungs-Phase begann 1952 mit der provokativen These von Hans Jürgen Eysenck, dass Psychotherapie nicht besser wirke als keine oder eine unspezifische Behandlung (s. u.).
+ Die Differentielle Psychotherapie-Effizienz-Forschung behandelt nicht mehr die Frage, ob Psychotherapie wirkt, sondern "welche Behandlungsmaßnahme durch wen, in welchem Zeitpunkt, [...] bei diesem Individuum mit diesem spezifischen Problem unter welchen Bedingungen zu welchem Ergebnis in welchem Zeitpunkt" führt.S. 289
+
+Darauf aufbauend postulierte Klaus Grawe (1992, 1997) folgende vier Phasen der Psychotherapieforschung:
+ Legitimationsphase (engl. legitimation phase): Frage nach der Wirksamkeit ("Ist Psychotherapie effektiv?")
+ Wettbewerbsphase (engl. competition phase): Frage nach der vergleichenden Wirkung ("Welche Form der Psychotherapie ist besser oder am besten?")
+ Verschreibungsphase (engl. prescriptive phase): Frage nach der differentiellen Indikation ("Welche Form der Psychotherapie ist bei wem indiziert?")
+ Prozessforschungsphase (engl. process-research phase): Frage nach der Wirkungsweise ("Auf welche Weise wirkt Psychotherapie?")
+
+Im Handbook of Psychotherapy and Behavior Change beschreiben David Orlinsky et al. vier Phasen der Psychotherapieforschung:
+ späte 1920er bis frühe 1950er Jahre: Beginn der systematischen Therapie-Ergebnisforschung
+ etwa 1955 bis 1970: Suche nach wissenschaftlicher Genauigkeit, Beginn der Prozess-Ergebnisforschung
+ etwa 1970 bis 1985: Phase der „Expansion, Differenzierung und Organisation“, Fokus auf objektive, quantitative und experimentelle Studien, Aufkommen von Meta-Analysen; im Rahmen der Prozess-Forschung vermehrtes Interesse an der therapeutischen Beziehung sowie an therapeutischen Ereignissen während der Sitzungen
+ seit 1985: Phase der „Konsolidierung, Standardisierung und Elaboration, aber auch fundamentaler Kritik, Innovation und Kontroverse“: Publikation verschiedener Langzeitstudien (z. B. die NIMH-Studie zur Behandlung der Depression), Durchführung randomisiert-kontrollierter Studien zu manualisierten Therapien bei Patienten mit spezifischen Diagnosen, Weiterentwicklung statistischer Methoden zur Datenanalyse (z. B. Hierarchisch Lineare Modellierung), aber auch Aufkommen von Kritik an gruppenstatistischen Methoden, Entwicklung alternativer individualisierter Ansätze (z. B. Patient Profiling, s. u.) und Weiterentwicklung und stärkere Verbreitung qualitativer Ansätze, Kontroverse um die evidenzbasierte Psychotherapie (vgl. Evidenzbasierte Medizin) und die am „medizinischen Modell“ beziehungsweise an pharmazeutischen Studien ausgerichteten Methoden, Einbeziehung gesundheitsökonomischer Gesichtspunkte vor dem Hintergrund knapper Ressourcen und neuer Entwicklungen (z. B. Managed Care) im Gesundheitswesen.
+
+Ergebnisse
+
+Wirksamkeit 
+Hans Jürgen Eysenck veröffentlichte 1952 eine Übersichtsarbeit über 24 Psychotherapiestudien (19 zu "eklektischer Psychotherapie", 5 zur Psychoanalyse), deren Erfolgsraten er den in zwei Studien gefundenen spontanen Remissionsraten unbehandelter Patienten gegenüberstellte. Aus den Ergebnissen (Ausmaß der Besserung bei Psychoanalyse 44 %, bei eklektischen Therapien 65 % und weitgehend unbehandelten Patienten 72 %) schloss er, dass es unter Psychotherapie zu keiner Besserung bei neurotischen Störungen kommt ("the figures fail to support the hypothesis that psychotherapy facilitates recovery from neurotic disorder"), d. h. die beobachten Besserungsraten auf Spontanremission zurückzuführen sind. Zudem forderte er gut geplante und durchgeführte experimentelle Studien (mit Kontrollgruppendesign). Während die Forderung nach experimentellen Studien aufgegriffen wurde, wurde seine inhaltliche Schlussfolgerung vielfach in Frage gestellt und unter anderem von Donald J. Kiesler als „Mythos der spontanen Remission“ bezeichnet. In einer Reanalyse konstatierte Allen Bergin 1971 unter anderem nichtvergleichbare Kontrollgruppen, arithmetische Fehler und Fehlinterpretationen der Originaldaten, ein Mangel an vergleichbaren Ergebniskriterien, diagnostische Unklarheiten und Variationen in der Therapiedosis. Cheryl L. McNeilly und Kenneth I. Howard veröffentlichten 1991 eine Reanalyse der Originaldaten von Eysencks' Review unter Berücksichtigung der Therapiedauer. Mit Hilfe von Probitanalysen kamen sie zu dem Ergebnis, dass bei Psychotherapiepatienten die Besserungsrate nach acht Wochen bei 50 % liegt, bei unbehandelten Patienten dagegen nur bei 2 %. Psychotherapie erreiche nach diesem Modell in 15 Sitzungen das, wofür die Spontanremission zwei Jahre benötige ("psychotherapy accomplishes in about 15 sessions what spontaneous remission takes two years to do"). Inzwischen hat sich in Tausenden Studien und Hunderten Meta-Analysen Psychotherapie als wirksam erwiesen. Zum Beispiel analysierten Lipsey und Wilson (1993) 302 Meta-Analysen psychologischer, pädagogischer und behavioraler Therapien und kamen zu einem „überwältigend positiven Ergebnis“ (90 % der Effektstärken lagen über 0.10 und 85 % über 0.20), so dass sie von einem methodischen Artefakt ausgingen. Aber auch eine methodisch strengere Auswahl (156 Meta-Analysen) ergab nach wie vor ein positives Ergebnis mit einer mittleren Effektstärke von 0.47.
+
+Vergleichende Wirkung 
+In einer Überblicksarbeit zu Psychotherapie-Vergleichsstudien von 1975 kamen Lester Luborsky und Kollegen zu dem vielzitierten Ergebnis „jeder hat gewonnen und alle müssen einen Preis bekommen“ (auch bekannt als das „Dodo-Bird-Verdict“, anspielend auf das Zitat aus Alice im Wunderland und einen Artikel von Rosenzweig aus dem Jahr 1936).
+Auch Smith und Glass kamen 1977 in ihrer Metaanalyse an fast 400 Therapie-Vergleichsstudien zu dem Ergebnis, dass Psychotherapie wirkt, die einzelnen Psychotherapieformen jedoch im Ausmaß ihrer Wirksamkeit keine bedeutsamen Unterschiede aufweisen.
+
+Verschiedene Autoren kritisierten jedoch, dass es die Gleichsetzung aller Psychotherapien bezüglich ihrer Wirkung und Wirkungsweise einen „Uniformitätsmythos“ nähre, der der Heterogenität der Patienten und der Vorgehensweise der Therapeuten nicht entspreche. Klaus Grawe kommentierte 1989: „Die Tatsache, dass die bisherige vergleichende Therapieforschung keine durchgängigen Unterschiede in der Wirkung der verschiedenen Therapiemethoden nachweisen konnte, darf nicht so interpretiert werden, dass es solche Unterschiede tatsächlich nicht gibt.“.
+
+Anfang der 1990er Jahre veröffentlichte dann die Arbeitsgruppe um Klaus Grawe die bisher umfangreichste Metaanalyse von Psychotherapie-Vergleichsstudien, in der alle bis 1983/84 durchgeführten psychotherapeutischen Wirksamkeitsuntersuchungen berücksichtigt wurden. Anhand der Ergebnisse seiner Metaanalyse teilte Grawe die Vielzahl psychotherapeutischer Verfahren in vier Gruppen ein:
+ Therapiemethoden, für die jeglicher Wirksamkeitsnachweis ausstand (damals die Analytische Therapie nach C.G. Jung, das Neuro-Linguistische Programmieren, die Primärtherapie nach Janov, Rebirthing usw.);
+ Therapiemethoden, deren Wirksamkeit zwar relativ gut untersucht, aber durch die vorliegenden Befunde eher in Frage gestellt als bestätigt wurde;
+ Therapiemethoden, für die zwar eine gewisse Anzahl von Wirksamkeitsuntersuchungen vorlagen, deren Anzahl aber zu gering und/oder deren Ergebnisse zu uneindeutig waren, um sie zu den bewährten Therapieverfahren mit nachgewiesener Wirksamkeit zählen zu können (damals z. B. Bioenergetische Therapie, Daseinsanalyse, Katathymes Bilderleben, Individualtherapie nach Adler, Musiktherapie, Tanz- und Kunsttherapie, Transaktionsanalyse, Gestalttherapie, Systemische Therapie);
+ Therapiemethoden, deren Wirksamkeit aufgrund einer großen Zahl kontrollierter Wirksamkeitsuntersuchungen zweifelsfrei nachgewiesen war (damals Kognitive Verhaltenstherapie, Gesprächspsychotherapie und Psychoanalytische Therapien kurzer und mittlerer Länge bis zu 100 Sitzungen, in dieser Reihenfolge; kein Wirksamkeitsnachweis lag jedoch vor für psychoanalytische Langzeitbehandlungen mit mehreren hundert Sitzungen).
+
+Diese Ergebnisse, v. a. die Ergebnisaussage, (kognitive) „Verhaltenstherapie ist im Durchschnitt hochsignifikant wirksamer als psychoanalytische Therapie“S. 662, wurden im deutschsprachigen Raum zum Teil sehr kontrovers diskutiert und vor allem von psychoanalytischer Seite in Frage gestellt.
+
+Differentielle Indikation 
+Differentielle Indikation bezeichnet die Frage, welche Form der Psychotherapie bei wem indiziert ist.
+Nach Grawe wurde diese Fragestellung bis Anfang der 1990er Jahre wissenschaftlich nur vereinzelt bearbeitet (erste Studien in den 1970er Jahren) und kann in drei Phasen eingeteilt werden:
+ Im (psychotherapeutischen) „Schulendenken“ verhaftete Indikationsregeln (z. B. frühere Annahme, dass leichte Fälle für Verhaltenstherapie, schwere Fälle für tiefenpsychologische Therapie geeignet wären)
+ Empirische Suche nach Indikationshinweisen (was zu einer Widerlegung der o. g. Indikationsregeln führte, aber auch zu einer zusammenhangslosen und widersprüchlichen großen Anzahl von EinzelbefundenS. 148)
+ Von schulenübergreifenden theoretischen Vorstellungen geleitete differentielle Indikationsforschung. So wurde z. B. gefunden, dass Patienten mit hoher Direktivität (hohem Selbstbestimmungsbedürfnis bzw. hoher „Reaktanz“) mehr von weniger strukturierten, nicht-direktiven Therapien profitieren (wie z. B. der Gesprächstherapie), submissive Patienten dagegen mehr von direktiven Verfahren (wie z. B. der Verhaltenstherapie).S. 148–150
+Seit den 1990er gab es auf dem Gebiet der differentiellen Indikation weitere Entwicklungen. Zum Beispiel konnte eine Meta-Analyse von 53 Studien zur Wirksamkeit von unterschiedlichen Therapieverfahren zeigen, dass speziell bei Depressionen Erwachsener Interpersonelle Therapie am wirksamsten ist, während eine nicht strukturierte Therapie ohne spezifische psychologische Techniken (allgemein unterstützende/beratende Behandlung) am wenigsten wirksam war.
+
+Eine andere Meta-Studie verglich die Wirksamkeit unterschiedlicher Behandlungsformen bei Posttraumatischer Belastungsstörung miteinander. Unter den Psychotherapien waren Verhaltenstherapie und die Desensibilisierung durch Augenbewegungen am wirksamsten.
+
+Laut einer Meta-Analyse von 33 Studien mit insgesamt 2.256 Teilnehmern sind psychodynamische Verfahren und dialektisch-behaviorale Therapie bei Borderline-Persönlichkeitsstörung effektiver als andere Verfahren.
+
+Vorhersage individueller Therapieverläufe 
+Kenneth I. Howard und Kollegen führten 1996 die patientenorientierte Methode des Patient Profiling ein, um die Frage "Wird dieser spezielle Patient von dieser Therapie profitieren?" in der Praxis individuell beantworten zu können. Theoretischer Hintergrund ist das Dosis-Wirkungs-Modell sowie das darauf aufbauende Phasenmodell psychotherapeutischer Veränderung von Howard und Kollegen. Das Dosis-Wirkungs-Modell beschreibt (anhand empirischer Daten) einen durchschnittlichen Gesundungsverlauf, bei dem das Ausmaß der Verbesserung zu Beginn der Therapie am größten ist und dann mit zunehmender Sitzungszahl immer geringer wird. Das Phasenmodell postuliert drei aufeinanderfolgende Phasen psychotherapeutischer Veränderung: (a) Remoralisierung (Verbesserung des Wohlbefindens), (b) Remediation (Symptombesserung) und (c) Rehabilitation (dauerhafte Verhaltensänderung). Aufgrund dieser Modelle wurde ein log-linearer Gesundungsverlauf bei Psychotherapiepatienten angenommen. Bei der Methode des Patient Profiling wird, mit Hilfe Hierarchisch Linearer Modellierung, auf der Basis einer großen naturalistischen Stichprobe von Psychotherapiepatienten sowie der Ausgangswerte des Patienten zu Therapiebeginn, eine Vorhersage des individuellen Therapieverlaufs errechnet. In einer Überprüfung des Log-Linearen-Modells unter Einbeziehung von sieben Patientenmerkmalen (u. a. Symptomschwere und -dauer, Funktionsniveau, Therapieerwartungen) zeigte sich eine Korrelation von r=.57 zwischen vorhergesagten und tatsächlichen Therapieverläufen, wobei bei einigen Patienten die Vorhersage besser gelang als bei anderen. Die Einbeziehung des anfänglichen Verlaufs führte zu einer weiteren Verbesserung der Vorhersage. Vor dem Hintergrund dieses Ansatzes und unter Verwendung des Konzepts der klinisch signifikanten Veränderung wurde untersucht, inwiefern Feedback an Therapeuten und/oder Patienten über den Therapieverlauf zu einer Verbesserung des Therapieergebnisses führt.
+
+Prozess-Ergebnis-Forschung: Wirkungsweise von Psychotherapie 
+Bei der Überprüfung der Wirkungsweise von Psychotherapie kann nach Grawe entweder experimentell oder korrelativ vorgegangen werdenS. 151.
+ Bei der experimentellen Vorgehensweise wird der theoretisch angenommene Wirkungsparameter experimentell variiert und die jeweiligen Auswirkungen analysiert (z. B. experimentelle Untersuchungen zur Behandlung von Angsterkrankungen, die zu Banduras Theorie der Selbstwirksamkeitserwartung führten).
+ Die Überprüfung von experimentell nicht manipulierbaren Variablen (Qualität der Therapiebeziehung, Aufnahmebereitschaft des Patienten etc.) erfolgt meist über die Korrelation von Merkmalen des Therapieprozesses mit dem Therapieerfolg. Es bestehen z. B. deutliche Hinweise darauf, dass die Qualität der Therapiebeziehung bei allen Therapieformen eine wichtige Rolle für das Therapieergebnis spieltS. 150.
+
+Die ersten „echten“ Prozess-Ergebnis-Studien stammen aus den frühen 1950er Jahren. Voraussetzung war die Etablierung systematischer Ergebnisforschung sowie objektiver Methoden der Prozessforschung. Hier spielte vor allem das Aufkommen elektronischer Geräte für Audioaufnahmen ab den 1930er Jahren eine Rolle (später auch Video), mit deren Hilfe Therapiegespräche mitgeschnitten und objektiv analysiert werden konnten. Als weiteres wichtiges Mittel der Prozessforschung kam die Entwicklung von Ratingskalen und Fragebögen zur objektiven Erfassung der subjektiven Erfahrungen von Patienten und Therapeuten hinzu.
+
+Eine Übersicht über Einflussfaktoren auf den Therapieerfolg liefert das (seit 1986 mehrfach überarbeitete) Generic Model of Psychotherapy (dt. „Allgemeines Modell der Psychotherapie“) von David Orlinsky und Kenneth I. Howard Dieses Modell ist nach Grawe ein „Markstein in der Entwicklung der psychotherapeutischen Prozessforschung“ und macht deutlich, „dass man sich die Wirkweise von Psychotherapie grundsätzlich in Form eines Musters mehrerer miteinander in funktionaler Wechselwirkung stehender Einflussfaktoren auf das Therapieergebnis vorzustellen hat“.S. 152–153.
+Den problematischen Annahmen linearer Zusammenhänge zwischen einzelnen Einflussfaktoren und dem Therapieergebnis sowie der Repräsentativität kurzer Therapieabschnitte für das ganze therapeutische Geschehen wurde durch die Entwicklung Mikro- und Makroanalytischer Prozessmodelle begegnet.
+
+Asay und Lambert (2001) kamen bei einer Auswertung empirischer Ergebnisse zu der Schlussfolgerung, dass die Varianz in der therapeutischen Veränderung zu
+
+ 40 % durch Klientenvariablen und extratherapeutische Faktoren,
+ 30 % durch die therapeutische Beziehung,
+ 15 % durch die Therapieform und
+ 15 % durch Erwartung und Placebo-Effekte erklärt wird.
+
+Klientenvariablen 
+Die Persönlichkeit des Patienten hat einen Einfluss auf die Wirksamkeit einer Psychotherapie. So geht beispielsweise erhöhter Neurotizismus, der einen Risikofaktor für viele psychische Erkrankungen darstellt, einher mit einer geringeren Wirksamkeit von Psychotherapie. Das heißt, gerade häufiger von Erkrankungen betroffene Patientengruppen profitieren weniger von Psychotherapie.
+
+Gesundheitsökonomische Aspekte 
+Vor dem Hintergrund steigender Kosten im Gesundheitswesen wurde seit den 1980er Jahren verstärkt gefordert, neben der Effektivität von Psychotherapie auch Kosten-Nutzen-Aspekte zu untersuchen. Baltensperger und Grawe veröffentlichten 2001 eine Sekundäranalyse von 124 Kosten-Nutzen-Studien zur Psychotherapie, die ergab, dass (bei psychisch Kranken) „Psychotherapie im Vergleich zu routinemäßig eingesetzten medizinischen Behandlungsmaßnahmen nicht nur wirksamer, sondern auch kostengünstiger ist“.
+Auch eine Metaanalyse von Chiles, Lambert und Hatch zeigte bei 90 % der 97 einbezogenen Studien einen „Cost-Offset-Effekt“ von Psychotherapie, d. h. eine Kosteneinsparung (durch eine Reduktion der Inanspruchnahme organmedizinischer Untersuchungen oder Behandlungen) infolge einer Psychotherapie.
+
+Weitere Ergebnisse 
+In einer Evaluations-Studie der Universitäten Mannheim und Trier, die im Auftrag der Techniker Krankenkasse durchgeführt wurde, konnte ein störungsübergreifender starker Effekt (Cohen's d=1) von Psychotherapie nachgewiesen werden.
+
+Schwierigkeiten 
+
+Schwierigkeiten bei Wirksamkeitsstudien zur Psychotherapie, vor allem in der vergleichenden Therapieforschung, entstehen daraus, dass die unterschiedlichen therapeutischen Schulen teils sehr unterschiedliche Kriterien für Therapieerfolg postulieren und sehr unterschiedliche therapeutische Wirkmechanismen vermuten. Erschwerend kommt hinzu, dass sowohl therapeutische Wirkfaktoren als auch Erfolgskriterien unterschiedlich und teilweise gar nicht operationalisiert und somit empirischer Forschung nur sehr begrenzt zugänglich sind. Deshalb werden manche Ergebnisse der genannten Metaanalysen – teils leidenschaftlich – diskutiert.
+
+Rezeption 
+Basierend auf Arbeiten anderer Autoren kam eine Analyse zu dem Schluss, dass praktizierende Psychotherapeuten sich kaum für Ergebnisse der Psychotherapieforschung interessieren. Dafür wurden drei Ursachen gesehen. Erstens liefere die Literatur der Psychotherapieforschung keine möglichst klare Instruktion. Aus Wirkfaktoren würden sich keine eindeutigen Handlungsanweisungen ableiten, sondern sie blieben unklar in der Anwendung und müssen interpretiert werden. Dadurch wären sie relativierbar. Zweitens erfahre man nichts von dem Hintergrundgeschehen, mit dem die in einer Forschungsarbeit verwendeten Begriffe ihre spezifische Bedeutung erhalten, z. B. das praktische Training von Ratern im Vorfeld einer Studie, durch das unterschiedliche Interpretationen verringert werden. Drittens werden die Artikel immer kürzer und nüchterner. Sie würden damit an Anschaulichkeit verlieren und nicht inspirieren.
+
+Sonstiges 
+1970 gründeten die Psychotherapieforscher Kenneth I. Howard und David Orlinsky (u. a. mit Beteiligung von Hans Hermann Strupp) die Society for Psychotherapy Research.
+
+In dem seit 1971 erscheinenden Handbook of Psychotherapy and Behavior Change werden regelmäßig die wichtigsten Ergebnisse der Psychotherapieforschung zusammengefasst. Das ursprünglich von Allen E. Bergin und Sol L. Garfield (seit der 5. Auflage von Michael J. Lambert) herausgegebene Standardwerk wird auch als die "Bibel" der Psychotherapieforschung bezeichnet.S. 132
+
+1991 wurde durch die Society for Psychotherapy Research die Fachzeitschrift Psychotherapy Research gegründet, was als „weiterer Markenstein in der Psychotherapieforschung“ angesehen werden kannS. 133.
+
+Psychotherapieforschung im deutschsprachigen Raum 
+Psychotherapieforschung erfolgt in der Regel an Hochschulinstituten oder universitätsnahen Einrichtungen, meist an psychologischen Instituten (im Bereich Klinische Psychologie) oder Einrichtungen einer medizinischen Fakultät (meist im Bereich Psychosomatische Medizin). Häufig gibt es Kooperationen mit (evtl. angegliederten) psychotherapeutischen Ambulanzen (auch Ausbildungsambulanzen), Beratungsstellen oder psychosomatischen Kliniken.
+
+In Deutschland wird Psychotherapieforschung unter anderem durchgeführt an der Universität Trier (Europäisches Zentrum für Psychotherapie und Psychotherapieforschung), der Universität Heidelberg (u. a. Forschungsstelle für Psychotherapie am Zentrum für psychosoziale Medizin) und der Universität Ulm (Psychosomatische Medizin und Psychotherapie), in Österreich z. B. an der Universität Salzburg (Abteilung Klinische Psychologie, Psychotherapie und Gesundheitspsychologie) oder der Sigmund Freud Privatuniversität Wien (die auch einen eigenen Studiengang Psychotherapiewissenschaft anbietet), und in der Schweiz z. B. an der Universität Bern (Abteilung für Klinische Psychologie und Psychotherapie).
+
+Siehe auch 
+Wissenschaftlicher Beirat Psychotherapie
+Society for Psychotherapy Research
+Liste psychotherapeutischer Fachzeitschriften
+Gestalttherapieforschung
+
+Literatur 
+Zum Einstieg wird auf die unten aufgeführten Werke von Gelo et al. und Lambert verwiesen.
+
+ Franz Caspar, Frank Jacobi: Psychotherapieforschung. In: W. Hiller, E. Leibing, F. Leichsenring, S. Sulz (Hrsg.): Lehrbuch der Psychotherapie. Band 1: Wissenschaftliche Grundlagen der Psychotherapie. 4. Auflage. CIP-Medien, 2007, S. 395–410.
+ Louis G. Castonguay, J.C. Muran, Lynne E. Angus: Bringing Psychotherapy Research to Life: Understanding Change Through the Work of Leading Clinical Researchers. American Psychological Association, Washington 2010.
+ Markus Fäh, Gottfried Fischer (Hrsg.): Sinn und Unsinn in der Psychotherapieforschung. Eine kritische Auseinandersetzung mit Aussagen und Forschungsmethoden. Psychosozial-Verlag, Gießen 1998, ISBN 3-932133-29-3.
+ Peter Fonagy, Anthony Roth: What Works For Whom? A Critical Review of Psychotherapy Research. 2. Auflage. Guilford Press, New York NY u. a. 2005, ISBN 1-57230-650-5.
+ Omar Gelo, Alfred Pritz, Bernd Rieken: "Psychotherapy Research - Foundations, Process and Outcome." Springer-Verlag, Wien 2015, ISBN 978-3-7091-1381-3.
+ Klaus Grawe: Psychotherapieforschung zu Beginn der neunziger Jahre. In: Psychologische Rundschau. 43, 1992, S. 132–162. (abstract)
+ Klaus Grawe, Ruth Donati, Friederike Bernauer: Psychotherapie im Wandel. Von der Konfession zur Profession. 5. unveränderte Auflage. Hogrefe, Göttingen u. a. 2001, ISBN 3-8017-0481-5 (bisher umfassendste Meta-Analyse).
+ Hans Kordy: Does Psychotherapy Research Answer the Questions of Practitioners, and Should It? In: Psychotherapy Research. 5 (2), 1995, S. 128–130, 
+ Joachim Kosfelder, Johannes Michala, Silja Vocks, Ulricke Willutzki (Hrsg.): Fortschritte der Psychotherapieforschung. Hogrefe, Göttingen u. a. 2005, ISBN 3-8017-1841-7.
+ Michael J. Lambert (Hrsg.) "Bergin & Garfields Handbuch der Psychotherapie und Verhaltensmodifikation." dgvt-Verlag, Tübingen 2013 ISBN 978-3-87159-280-5 (Übersetzung der 5. Auflage)
+ Michael J. Lambert (Hrsg.): Bergin and Garfield's Handbook of Psychotherapy and Behavior Change. 6. Auflage. John Wiley & Sons, New York NY 2013, ISBN 978-1-118-03820-8 (Standardwerk).
+ Lester Luborsky: The Same and Divergent Views of "Fashions and Preoccupations in Psychotherapy Research". In: Psychotherapy Research. 5 (2), 1995, S. 118–120, 
+ Anthony Ryle: Fashions and Preoccupations in Psychotherapy Research. In: Psychotherapy Research. 5 (2), 1995, S. 113–117, .
+
+Weblinks 
+ Jürgen Kriz: Perspektiven zur „Wissenschaftlichkeit“ von Psychotherapie. In: Matthias Hermer (Hrsg.): Psychotherapeutische Perspektiven am Beginn des 21. Jahrhunderts. Tübingen: DGVT-Verlag, 2000, ISBN 978-3871591433, S. 43–66.
+ Übersicht über den Forschungsstand bezüglich Effektivität und Wirkfaktoren von Psychotherapie bei unipolaren Depressionen: S-3-Leitlinie Depression (PDF, 2,2 MB), Stand Januar 2012, S. 114–137 (abgerufen am 28. Januar 2012)
+ Vortrag: Wirkfaktoren in der (Richtlinien-)Psychotherapie? 
+ Psychotherapieforschung: Dramatisch unterfinanziert, Deutsches Ärzteblatt PP3, Februar 2004, S. 56.
+ Michael B. Buchholz: Qualitative und quantitative Methoden in der Psychotherapieforschung, Vortrag im Rahmen der Lindauer Psychotherapiewochen 2009 (PDF)
+ Gerd Rudolf: Die Beziehung zwischen Psychotherapieforschung und psychotherapeutischer Praxis, Vortrag im Rahmen der Lindauer Psychotherapiewochen 1999 (PDF)
+
+Einzelnachweise 
+
+Forschung
+Forschung (Gesundheit)
+Gesundheitswissenschaft
+!

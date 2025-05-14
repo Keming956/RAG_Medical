@@ -1,0 +1,16 @@
+The trauma triad of death is a medical term describing the combination of hypothermia, acidosis, and coagulopathy. This combination is commonly seen in patients who have sustained severe traumatic injuries and results in a significant rise in the mortality rate. Commonly, when someone presents with these signs, damage control surgery is employed to reverse the effects.
+
+The three conditions share a complex relationship; each factor can compound the others, resulting in high mortality if this positive feedback loop continues uninterrupted.
+
+Severe bleeding in trauma diminishes oxygen delivery, and may lead to hypothermia. This in turn can halt the coagulation cascade, preventing blood from clotting. In the absence of blood-bound oxygen and nutrients (hypoperfusion), the body's cells burn glucose anaerobically for energy, causing the release of lactic acid, ketone bodies, and other acidic compounds into the blood stream, which lower the blood's pH, leading to metabolic acidosis. Such an increase in acidity damages the tissues and organs of the body and can reduce myocardial performance, further reducing the oxygen delivery.
+
+References
+
+External links
+ 
+
+Blood disorders
+Traumatology
+Medical emergencies
+Trauma surgery
+Medical triads

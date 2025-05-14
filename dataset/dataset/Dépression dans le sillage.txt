@@ -1,0 +1,28 @@
+Une dépression dans le sillage est un système dépressionnaire de méso-échelle qui se forme immédiatement en aval d'un obstacle à l'écoulement atmosphérique. Ce phénomène se rencontre surtout à l’arrière d’une ligne de grain orageux, après le passage du front de rafales. L’air dans la dépression est en subsidence et donc s’assèche, dissipant les précipitations et dégageant le ciel.
+
+Ce phénomène est également associé avec des phénomènes violents. La différence de pression entre l’anticyclone de méso-échelle, juste derrière le front de rafales créé par la goutte froide, et la dépression dans le sillage peut produire des vents très forts. Lorsque la ligne de grain est en dissipation, un coup de chaleur peut également se produire dans la dépression. Finalement, lorsque l’activité orageuse se termine, la dépression dans le sillage et l’anticyclone se dissipent en même temps.
+
+Se produisant à petite échelle, il était difficile d’identifier la dépression dans le sillage avec les réseaux classiques de stations météorologiques dont les emplacements se trouvent souvent à plusieurs dizaines ou des centaines de kilomètres l’un de l’autre. Il avait été théorisé par les chercheurs comme Tetsuya Théodore Fujita dès 1955 mais ce n’est qu’avec l’implantation de réseaux plus denses, dits mésonets, qu’il a pu être observé.
+
+Théorie 
+
+Une dépression dans le sillage est la conséquence des mouvements de l’air dans et autour d’un système convectif de méso-échelle. À l’avant de d’un tel système orageux, l’air est chaud et instable et la poussée d’Archimède soulèvent l'air ambiant, menant à la formation d’une ligne d’orages. Sous cette ligne, les précipitations descendent vers le sol et s’évaporent en partie ce qui refroidit l’air et donc le rend plus dense, créant une haute pression locale sous forme de goutte froide. 
+
+De plus, en altitude derrière la ligne, un courant-jet entrant arrière se heurte au mur des nuages et y fait entrer de l’air frais et plus sec. Ce dernier est plus dense que l’air des nuages ce qui crée une poussée d’Archimède vers le bas et entraine le courant-jet vers le sol (voir image à gauche). Ceci ajoute de l’air en surface, augmentant la pression dans la goutte froide. Cette derrière s’étale vers l’avant de la ligne orageuse pour donner un front de rafales.
+
+D’autre part, en descendant le jet se réchauffe et s’assèche ce qui permet une évaporation supplémentaires des précipitations sous le nuage. Une partie de cet air s’étend également vers l’arrière de la ligne où les précipitations cessent (à gauche dans l'image). L’air venant du jet étant plus chaud que l’environnement, il est moins dense et crée une pression plus basse à la limite arrière des précipitations stratiformes. Il est également plus sec et permet de dissiper les nuages et les précipitations sur la bordure arrière du système.
+
+En résumé, un anticyclone de méso-échelle se forme juste à l’arrière du front de rafales, associé avec les précipitations orageuses, et une dépression apparait dans le sillage du système convectif de méso-échelle. Le duo anticyclone-dépression se forme simultanément et l'intensité des deux entités augmentent tant que la descente du courant-jet entrant arrière augmente. Elle atteint son maximum au moment où le système convectif commence à s'affaiblir. Le duo s'effondre par la suite, n'étant plus alimenté. Avec le développement des modèles de prévision numérique du temps à méso-échelle, la théorie de la circulation qui donne le duo a pu être simulée et confirmée.
+
+Effets 
+
+La formation de dépression dans le sillage peut mener à deux effets principaux : l’apparition de vents violents et celui de coups de chaleur.  
+
+Normalement, la zone de vents violents associés avec un orage se situent à l’avant de ce dernier, à la rencontre entre l’air  descendant du nuage et l’air ambiant, ce qui donne le front de rafales et les rafales descendantes. Cependant, un fort gradient de pression s’installe entre la zone de haute pression (anticyclone), résultant de la descente du courant-entrant arrière, et la dépression dans le sillage. L’air se met donc en mouvement entre ces deux entités de méso-échelle. Il est moins dévié par la force de Coriolis, car le tout se passe à méso-échelle, et il est ralenti par la friction sur le relief. Le vent engendré peut donner des rafales violentes vers la zone de basse pression, soit dans une direction différente et souvent opposée aux vents du front de rafales. Les barbules de vent de l’image en tête de l'article montre ainsi des vents de  près de la dépression.
+
+Le coup de chaleur est un phénomène atmosphérique rare qui se caractérise par une augmentation soudaine de température et une chute du point de rosée au passage d’un orage en phase de déclin, surtout la nuit. Il résulte de la pluie tombant dans de l'air sec de la dépression dans le sillage qui s'évapore en donnant de la virga et refroidit l'air environnant. Par conséquent, ce dernier devient plus dense et est accéléré vers le bas. En descendant rapidement, la masse d'air se réchauffe par compression adiabatique alors que la quantité de vapeur d'eau y reste la même, ce qui fait diminuer son humidité relative. Les températures peuvent s'accroître de plus de  en l'espace de quelques minutes. Des températures record ont été enregistrées lors de coups de chaleur ayant largement dépassé les .
+
+Notes et références 
+
+Prévision des orages violents
+Sillage

@@ -1,0 +1,44 @@
+Le suicide quantique est une expérience de pensée initialement imaginée par Hans Moravec et Bruno Marchal à la fin des années 1980, puis reprise, développée et popularisée par Max Tegmark à la fin du  et au début du .
+
+Présentation 
+En substance, l'expérience consiste à s'infliger, de façon répétitive, le sort subi par le chat de Schrödinger. L'expérimentateur commet donc un suicide conditionné par un tirage au sort quantique, par exemple une mesure de spin. À chaque fois que le tirage au sort est favorable, c'est-à-dire que l'expérimentateur n'a pas à se suicider, un nouveau tirage est effectué, et ce ainsi de suite autant de fois que jugé nécessaire. L'expérience peut donc être considérée comme une version quantique de la roulette russe.
+
+Interprétations 
+Selon la plupart des interprétations de la mécanique quantique, par exemple selon l'interprétation de Copenhague, à chaque itération la fonction d'onde de l'expérimentateur s'effondre de telle sorte que la probabilité de survie décroît exponentiellement avec le nombre d'itérations.
+
+Selon l'interprétation des mondes multiples, à chaque itération il existe une série d'univers dans laquelle le tirage est favorable à l'expérimentateur. Pour tous les autres univers, l'expérimentateur est mort. Sous l'hypothèse de l'impossibilité de vivre une quelconque expérience une fois mort, la version où l'expérimentateur survit est la seule qui peut être vécue après un certain temps, de telle sorte que du point de vue de l'expérimentateur, tout se passe comme si le tirage au sort lui est toujours favorable, donnant à l'expérimentateur l'impression d'être immortel, ou du moins invulnérable à cette expérience. L'expression  est parfois utilisée pour désigner cette notion.
+
+Conséquences 
+Si l'objectif initial du suicide quantique est de statuer sur l'existence des univers parallèles, le résultat ne peut être obtenu que de façon subjective, car un observateur extérieur finira toujours par constater la mort de l'expérimentateur dans chaque univers où la mise à mort a bel et bien lieu. Par ailleurs, l'expérience ne peut infirmer l'existence des univers multiples, même pas de façon subjective : car si l'interprétation d'Everett est erronée, le suicide quantique aboutit inexorablement à un suicide pur et simple. Une telle expérience requiert donc de la part de l'expérimentateur soit une confiance absolue dans l'interprétation d'Everett, soit un désir de savoir suffisant pour y risquer sa vie.
+
+En plus de vérifier l'interprétation d'Everett, le suicide quantique offre d'autres possibilités : par exemple l'expérimentateur survivant dans une série d'univers pourrait envisager de parier avec un observateur sceptique, et, dans l'univers où il survit, il gagnerait la mise à chaque itération. L'expérience fait alors office de martingale. Il existe en fait de nombreuses manières de rendre l'expérience lucrative : il suffit en substance d'utiliser le tirage au sort quantique pour décider d'un choix financier quelconque (par exemple l'achat ou la vente d'un actif sur les marchés financiers) et de procéder à la mise à mort lorsque l'opération s'est avérée perdante.
+
+Conditions 
+Max Tegmark mentionne trois conditions nécessaires au succès du suicide quantique :
+ le tirage au sort doit bel et bien être quantique, et non classique, sinon l'expérimentateur n'entre pas dans une superposition d'états ;
+ la mort, ou du moins la perte de conscience, doit intervenir avant qu'il soit possible d'avoir connaissance du résultat du tirage, car sinon il existe au moins une version de l'expérimentateur et/ou son assistance qui se trouve confrontée à l'« échec » de l'expérience, ce qui n'est pas souhaitable ;
+ la mise à mort doit être fiable, c'est-à-dire qu'il ne doit exister aucune possibilité de survie. Cette condition est liée à la seconde sur la simultanéité, afin de rendre impossible le renoncement soudain de l'expérimentateur au dernier moment, après un certain nombre d'itération, car craignant de ne pas se trouver dans l'univers "gagnant".
+
+Techniquement, l'impossibilité de donner la mort de façon quantique rend l'expérience irréalisable, car aucun mécanisme dont le déclenchement est relié à une mesure quantique, telle celle du spin, ne sera jamais suffisamment sophistiqué pour donner la mort de façon absolument certaine. Il existera toujours une infinité de possibilités d'inexécution, tel qu'une défaillance matérielle ou l'interruption par un tiers, croissant exponentiellement au fur et à mesure que le temps passe avec les itérations dans l'univers gagnant.
+
+Idéalement, le sujet humain doit se trouver dans un état de superposition intriqué avec l'état du système utilisé par le tirage au sort, par exemple le spin d'un électron.
+
+Un possible état réalisant le suicide quantique est donc par exemple :
+
+Une telle intrication entre un système macroscopique et une particule élémentaire est très difficile à créer du fait du phénomène de décohérence.
+
+Notes et références
+
+Voir aussi 
+ Chat de Schrödinger
+ Théorie d'Everett
+ Max Tegmark
+
+Liens externes 
+
+  J. Higgo: "Does the 'many-worlds' interpretation of quantum mechanics imply immortality?"
+  The 'Everything' mailing list (and archives), A "discussion of the idea that all possible universes exist".
+  page web de Max Tegmark sur le sujet
+
+Expérience de pensée
+Mécanique quantique

@@ -1,0 +1,26 @@
+The genus Mania comprises a group of tropical and semi-tropical New World moths in the family Sematuridae. The genus has historically been referred to as either Nothus or Sematura, but both of these names are invalid (see below).
+
+Taxonomy
+
+The name Nothus is preoccupied by a genus of Coleoptera(Minet and Scoble, 1999). The genus name Sematura was also commonly in use for this genus, but it was younger (being published in 1825) than Hübner's name Mania from 1821; a petition to conserve the junior name was rejected by the ICZN in Opinion 2352 (2015), so Hübner's name is officially now the valid name for the genus.
+
+Species
+
+Mania aegisthus (Fabricius, 1781) [Jamaica/Surinam]  "Nothus" species 
+=Mania lunigeraria Hübner, 1823 [1825] 
+=Sematura excavatus Walker, 1854 
+=Sematura phoebe Guenée, 1857 
+Mania diana (Guenée, 1857) [Rio de Janeiro] 
+Mania empedocles (Cramer, 1782) [Type locality Surinam]  
+=Mania empedoclaria Hübner, 1823 
+=Sematura selene Guenée, 1857 Dyer/Gentry/"Sematura luna"  
+Mania lunus (Linnaeus, 1758)  
+=Mania caudilunaria Hübner, 1823 [1825] 
+=Sematura actaeon Felder & Rogenhofer, 1874
+
+Biology
+The larvae of Mania lunus were reared in Costa Rica in 2001 and are a bit similar to those of Coronidia, being well camouflaged but bearing small projections rather than long spines one the dorsal surface. Host plants recorded were Pentaclethra macroloba (Fabaceae) and Syzygium longifolium (Myrtaceae).
+
+References
+
+Sematuridae

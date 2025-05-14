@@ -1,0 +1,189 @@
+PTSD is a psychiatric disorder characterized by intrusive thoughts and memories, dreams, or flashbacks of the event; avoidance of people, places, and activities that remind the individual of the event; ongoing negative beliefs about oneself or the world, mood changes, and persistent feelings of anger, guilt, or fear; alterations in arousal such as increased irritability, angry outbursts, being hypervigilant, or having difficulty with concentration and sleep. PTSD is commonly treated with various types of psychotherapy and pharmacotherapy.
+
+Exposure to trauma induces an intense amount of stress as a result of an individual directly or indirectly experiencing some type of threat, also referred to as a Potentially Traumatic Experience (PTE). PTEs can include—but are not limited to—sexual violence, physical abuse, unexpected death of a loved one, witnessing another person badly hurt, exposure to natural disaster, being a victim of a serious crime, car accident, combat, interpersonal violence and many other stressful experiences. PTEs can also include learning that a traumatic event occurred to another person or witnessing the traumatic event; an individual does not have to experience the event themselves to develop Posttraumatic Stress Disorder (PTSD). PTEs are labeled as such because not everyone who experiences one or more of the events listed will develop PTSD. However, PTSD is estimated to develop in about 4% of individuals who experience some type of traumatic experience. Approximately 8% of adults the United States (U. S.) population will have PTSD at some point in their lives. That means about 8 million U.S. adults have PTSD during a given year, which is only a small portion of individuals who experience traumatic events. Biological stress responses can be adaptive at the time of the traumatic event, but prolonged biological stress responses can lead to impairing symptoms known as PTSD.
+
+Medication
+Drug therapy, known as pharmacotherapy, is widely used as a treatment for PTSD. Drug therapy is considered less time consuming and easier to continue than psychotherapy (talk therapy). The only two medications for PTSD that are approved by the FDA are sertraline and paroxetine, both antidepressants of the selective serotonin reuptake inhibitors (SSRI) class.
+
+Medication is conditionally recommended for treatment of PTSD by the American Psychological Association.
+
+Antidepressants
+Antidepressants are widely used in the treatment of PTSD and have consistently shown efficacy, though the magnitude of improvement is often modest. The most popular types of antidepressants are SSRIs, atypical antidepressants, tricyclic antidepressants (TCAs), and monoamine oxidase inhibitors (MAOIs). SSRI are most often used as they are considered safer than TCAs and MAOIs. To date, only sertraline and paroxetine carry FDA approval for PTSD, though in general, all SSRIs seem similarly effective. These medications appear to be helpful across all PTSD symptoms. According to the APA Practice Guidelines, "SSRIs have proven efficacy for PTSD symptoms and related functional problems".
+
+Other medications
+Prazosin, an alpha-adrenoceptor antagonist, is also widely prescribed, particularly for sleep-related symptoms. Early studies had shown evidence of efficacy, though a recent relatively large trial failed to show a statistically significant difference between prazosin and placebo. Antipsychotic medications have also been prescribed to treat PTSD, though clinical trials have not yielded consistent evidence for their efficacy.
+
+Glucocorticoids may be useful for short-term therapy to protect against neurodegeneration caused by the extended stress response that characterizes PTSD, but long-term use may actually promote neurodegeneration.
+
+Cannabinoids 
+As of 2019 cannabis is specifically not recommended as a treatment. However, use of cannabis or derived products is widespread among U.S. veterans with PTSD.
+
+The cannabinoid nabilone is sometimes used for nightmares in PTSD. Although some short-term benefit was shown, adverse effects are common and it has not been adequately studied to determine efficacy. Currently, a handful of states permit the use of medical cannabis for the treatment of PTSD.
+
+MDMA
+
+In 2018, the US Food and Drug and Drug Administration granted "Breakthrough Therapy" designation for MDMA-assisted psychotherapy trials. Initial research on MDMA-assisted psychotherapy has shown the treatment to be efficacious and well tolerated. For example, in a pooled analysis of phase II trials, two-thirds of patients suffering from PTSD assessed 12 months following MDMA-assisted psychotherapy treatment no longer exhibited sufficient symptoms to be diagnosed with PTSD.
+
+Benzodiazepines 
+Benzodiazepines are not recommended for the treatment of PTSD due to a lack of evidence of benefit and risk of worsening PTSD symptoms. Some authors believe that the use of benzodiazepines is contraindicated for acute stress, as this group of drugs can cause dissociation. Nevertheless, some use benzodiazepines with caution for short-term anxiety and insomnia.
+
+While benzodiazepines can alleviate acute anxiety, there is no consistent evidence that they can stop the development of PTSD, and they may actually increase the risk of developing PTSD 2–5 times. Additionally, benzodiazepines may reduce the effectiveness of psychotherapeutic interventions, and there is some evidence that benzodiazepines may actually contribute to the development and chronification of PTSD. For those who already have PTSD, benzodiazepines may worsen and prolong the course of illness, by worsening psychotherapy outcomes, and causing or exacerbating aggression, depression (including suicidality), and substance use. Drawbacks include the risk of developing a benzodiazepine dependence, tolerance (i.e., short-term benefits wearing off with time), and withdrawal syndrome; additionally, individuals with PTSD (even those without a history of alcohol or drug misuse) are at an increased risk of abusing benzodiazepines.
+
+There are a number of other treatments for PTSD that have greater efficacy and fewer risks than benzodiazepines. These include psychotherapy modalities such as prolonged exposure, cognitive processing therapy, eye movement desensitization and reprocessing, cognitive restructuring therapy, trauma-focused cognitive behavioral therapy, narrative therapy, brief eclectic therapy, and stress inoculation training. Some of these are outlined below. Other kids of pharmacological therapy can be more effective than benzodiazepines as well, e.g. serotonergic antidepressants, adrenergic inhibitors such as Prazosin, antipsychotics, and even anticonvulsants). Benzodiazepines should be considered relatively contraindicated until all other treatment options are exhausted.
+
+For those who argue that benzodiazepines should be used sooner in the most severe cases, the adverse risk of disinhibition (associated with suicidality, aggression and crimes) and clinical risks of delaying or inhibiting definitive efficacious treatments, make other alternative treatments preferable (e.g., inpatient, residential, partial hospitalization, intensive outpatient, dialectic behavior therapy; and other fast-acting sedating medications such as trazodone, mirtazapine, amitripytline, doxepin, prazosin, propranolol, guanfacine, clonidine, quetiapine, olanzapine, valproate, gabapentin).
+
+Psychotherapy
+
+Exposure therapy
+Exposure therapy involves exposing the patient to PTSD-anxiety triggering stimuli, with the aim of weakening the neural connections between triggers and trauma memories (aka desensitisation).
+
+Forms include:
+
+Flooding – exposing the patient directly to a triggering stimulus, while simultaneously making them not feel afraid.
+Systematic desensitisation (aka "graduated exposure") – gradually exposing the patient to increasingly vivid experiences that are related to the trauma, but do not trigger post-traumatic stress.
+
+Exposure may involve a real life trigger ("in vivo"), an imagined trigger ("imaginal"), or a triggered feeling generated in a physical way ("interoceptive").
+
+Researchers began experimenting with virtual reality therapy in PTSD exposure therapy in 1997 with the advent of the "Virtual Vietnam" scenario. Virtual Vietnam was used as a graduated exposure therapy treatment for Vietnam veterans meeting the qualification criteria for PTSD. A 50-year-old Caucasian male was the first veteran studied. The preliminary results concluded improvement post-treatment across all measures of PTSD and maintenance of the gains at the six-month follow up. Subsequent open clinical trial of Virtual Vietnam using 16 veterans, showed a reduction in PTSD symptoms.
+
+Cognitive Behavioral therapy
+Cognitive behavioural therapy (CBT) focuses on the relationship between someone's thoughts, feelings, and behaviours. It helps people to understand the discrete nature of their thoughts and feelings, and to be better able to control and relate to them.
+
+It is strongly recommended for treatment of PTSD by the American Psychological Association and when CBT is combined with exposure therapy, there is a high strength of  evidence that together they can reduce PTSD symptoms, lead to a loss of PTSD diagnosis, and reduce depression symptoms.
+
+Cognitive Therapy
+Ehlers and Clark (2000) developed a cognitive model that explains what prevents people from recovering from traumatic experiences and thus why people develop PTSD. The model suggests that PTSD develops when individuals process the traumatic event in a way that makes him/her feel like there is serious current threat. This perception of threat is followed by reexperiencing and arousal symptoms and persistent negative emotions like anger and sadness. Differences in how the individual appraises the event ("I cannot trust anyone anymore" or "I should have prevented what happened") and the most intense moments of the trauma being poorly integrated into memory contribute to the distorted way people with PTSD make sense of what happened to them.
+
+Cognitive therapy involves the therapist helping the patient develop and believe a new, less threatening understanding of their trauma experiences. Patients gain an increased understanding of how they perceive themselves and the world around them and how these beliefs motivate their behavior before beginning the process of changing these cognitions. Thus, three goals drive cognitive therapy for PTSD:
+
+ Modify negative appraisals of the trauma
+ Reduce reexperiencing symptoms by discussing trauma memories and learning how to differentiate between types of trauma triggers
+ Reduce behaviors and thoughts that contribute to the maintenance of the "sense of current threat" stat
+
+One specific practice is imagery rescripting. Adult patients with childhood traumas are encouraged to imagine their trauma from the point-of-view of an adult rescuing and protecting the vulnerable child.
+
+Imagery rehearsal therapy helps people with nightmares. They document their nightmares, then work out how they would like them to change. They then regularly act out the improved dream scenarios.
+
+Cognitive therapy is strongly recommended for treatment of PTSD by the American Psychological Association.
+
+Narrative exposure therapy
+
+Narrative exposure therapy creates a written account of the traumatic experiences of a patient or group of patients, in a way that serves to recapture their self-respect and acknowledges their value. Under this name it is used mainly with refugees, in groups. It also forms an important part of cognitive processing therapy.
+
+It is conditionally recommended for treatment of PTSD by the American Psychological Association.
+
+Relaxation techniques
+Relaxation techniques may be the earliest behavioural treatment for PTSD, and are often included as part of PTSD treatment.
+
+Prolonged exposure therapy
+
+Prolonged exposure therapy (PE) was developed by Edna Foa and Micheal Kozak from 1986. It has been extensively tested in clinical trials. While, as the name suggests, it includes exposure therapy, it also includes other psychotherapy elements. Foa believes this therapy to incorporate all the efficacious elements of other known PTSD cognitive therapies. Foa was chair of the PTSD work group of the DSM-IV.
+
+In prolonged exposure therapy, there will most likely be from 8 to 15 sessions. Patients will first be exposed to a past traumatic memory; following is an immediate discussion about the traumatic memory and, "in vivo exposure to safe, but trauma-related, situations that the client fears and avoids".
+
+Slowed breathing techniques and educational information is also touched on in these sessions.
+
+PE is theoretically grounded in emotional processing theory, which proposes "a hypothetical sequence of fear-reducing changes evoked by emotional engagement with the memory of a significant event, particularly a trauma." While PE has received substantial empirical support for its efficacy (albeit with high dropout rates), emotional processing theory has received mixed support.
+
+The American Psychological Association strongly recommends PE as a first-line psychotherapy treatment for PTSD.
+
+Cognitive processing therapy
+Cognitive processing therapy (CPT) is an evidence-based treatment protocol designed using techniques from Cognitive Behavioral Therapy and is designed specifically for individuals diagnosed with PTSD (). CPT is based on the idea that over time, individuals exposed to trauma will "naturally" recover from traumatic events. For some survivors, however, this natural recovery process has been impaired in some way, thus leading to continued symptoms of PTSD. CPT involves writing and verbally reciting written passages that are either related to why the Client thinks he/she was exposed to the traumatic event or a trauma narrative that outlines the traumatic event in explicit detail. CPT is typically completed over 12 one-hour weekly session with a practitioner[15]. The treatment phases consist of:
+1. Education about PTSD and the role of thoughts and emotions as they relate to cognitive theory
+2. Processing the actual traumatic event or reasons the person believes the event happened to them
+3. Identifying "stuck points" that are holding the person back from recovering from PTSD
+4. Challenging and modifying "stuck points"
+5. Exploration of "stuck points" related to the themes of safety, trust, power and control, esteem, and intimacy.
+ 
+It is strongly recommended for treatment of PTSD by the American Psychological Association.
+
+Eye movement desensitization and reprocessing
+Eye movement desensitization and reprocessing (EMDR) was developed by Francine Shapiro from 1988. It involves a patient thinking of upsetting images while they track a therapist moving their fingers back and forth in front of the patient. Patients are also asked to think of positive thoughts while they follow the fingers back and forth, then they write down what they are thinking. This treatment is found to be similarly effective as exposure therapy.
+
+A proposed neurophysiological basis behind EMDR is that it mimics REM sleep, which plays a vital role in memory consolidation. Imaging studies suggest that "eye movements in both REM sleep and wakefulness activate similar cortical areas." Thus, the reorientation facilitated by EMDR "shifts the brain into a memory processing mode" without "integration of traumatic memories into associative cortical networks without interference from hippocampally mediated episodic recall." The information can then be integrated completely, which consequently weakens the episodic memory of the event and the associations it produced. The restoration of the pathway can lead to recovery from PTSD.
+
+EMDR for PTSD is supported by moderate quality evidence as of 2018.
+
+It is conditionally recommended for treatment of PTSD by the American Psychological Association.
+
+The Australian Psychological Society considers it a Level I (strongest evidence) treatment method.
+
+Brief eclectic psychotherapy
+Brief eclectic psychotherapy for PTSD (BEPP) was developed by Berthold Gersons and Ingrid Carlier from 1994. It has an emphasis on the emotions of shame and guilt. It involves the patient creating a detailed account of the primary trauma experience (narrative exposure therapy) and writing a letter to person or organisation believed to be most responsible for the trauma. This occurs over sixteen sessions.
+
+It is conditionally recommended for treatment of PTSD by the American Psychological Association.
+
+Trauma-focused cognitive behavioral therapy
+Trauma-focused cognitive behavioral therapy (TF-CBT) was developed by Anthony Mannarino, Judith Cohen and Esther Deblinger to help children and adolescents with PTSD. This was done from the mid 1990s.
+
+It involves working through memories of the trauma in a safe and structured environment, trying to change unhelpful beliefs and thoughts, and gradual exposure to triggers which are being avoided. It is held over eight to 25 sessions with the child/adolescent and caregiver.
+
+TF-CBT has repeatedly been demonstrated to be effective and is currently recommended as a first-line treatment for PTSD by the American Psychiatric Association, Australian Centre for Posttraumatic Mental Health, and the National Institute of Clinical Excellence (NICE).
+
+The Australian Psychological Society considers it a Level I (strongest evidence) treatment method.
+
+Stress inoculation training
+Stress inoculation training was developed to reduce anxiety in doctors during times of intense stress by Donald Meichenbaum from 1985. It is a package of techniques (relaxation, thought stopping and real-life exposure to feared situations) that has been used in PTSD treatment.
+
+Occupational therapy 
+Occupational therapy (OT) is a profession that helps all people participate in the meaningful daily activities that occupy their time. OT empowers active engagement in life tasks and teaches skills in order to help people maximize their strengths and overcome barriers in order to live their fullest potential.
+
+Sleep disturbances such as insomnia, night terrors, and inconsistent REM sleep impact the lives of many with PTSD. Occupational therapists are equipped to address this meaningful area through sleep hygiene. Some examples of sleep hygiene are decreasing electronic screen time, creating a night time routine, and creating an environment within the bedroom that is free of light and noise. Another meaningful area is self-care. Occupational therapists provide education and adaptation/modification in self-care to maintain independence and prevent triggers that may cause flashbacks. Occupational therapists help clients with PTSD engage in meaningful life roles (school, work, family) through healthy habit formation and structuring stable daily routines while managing PTSD triggers. Life roles require social engagement which can be challenging to those with PTSD. Occupational therapists work with clients to help build a supportive social network of family and friends who can assist in reducing the need to self-isolate. Occupational therapy interventions also include teaching stress management and relaxation techniques such as deep breathing, mindfulness, meditation, progressive muscle relaxation, and biofeedback.
+
+Dialectical behavioral therapy
+The Australian Psychological Society considers dialectical behavioral therapy (DBT) to be a Level II treatment method.
+
+Emotion-focused therapy
+The Australian Psychological Society considers emotion-focused therapy (EFT) to be a Level II treatment method.
+
+Metacognitive therapy
+The Australian Psychological Society considers metacognitive therapy (MCT) to be a Level II treatment method.
+
+Mindfulness-based stress reduction
+The Australian Psychological Society considers mindfulness-based stress reduction (MBSR) to be a Level II treatment method.
+
+Alternative and complementary psychotherapies
+Alternative medicine is any practice that is put forward as having the healing effects of medicine. Its characteristics are that it does not originate from evidence gathered using the scientific method. Over the last decade, alternative treatment has become increasingly common in treating veterans with post-traumatic stress disorder.  It is often used selectively in clinical trials.  While it is not yet accepted medical treatment, there are often studies being done to test its effectiveness.  Usually, it is used as a last resort due to the failure of conventional treatment.
+
+Yoga therapy treatment
+Yoga may be useful as a treatment for PTSD, but the evidence for this is weak.
+
+Trauma group therapy
+In trauma group therapy, the groups range from 12 to 18 members and are completed over a 10- to 12-week period. Group therapy is cost-effective, and allows the participant to know they are not alone which can help in building another support system beside their family, and help in the development of people skills (communication, adversity, and confidence). Group cognitive behavioral therapy is based on participants connecting and sharing past experiences while developing trust. Since World War II, the method of having soldiers come together and converse amongst each other has been in practice. Patients remember and examine their war experiences and are encouraged to provide a clear picture without hiding or omitting details. In “A Meta-Analytic Review of Exposure in Group Cognitive Behavioral Therapy for Posttraumatic Stress Disorder,” written by Barrera, she mentions that there are some three concerns with group therapy. Barrera mentions that members in the group can develop secondary post-traumatic stress disorder from hearing others traumatic events and that one participant may think their traumatic event is not comparable to another member’s event. These concerns can cause a delay in recovery, and there may not be enough time in a session for participants to talk about their experiences.
+
+Animal-assisted therapy
+Clinicians can recommend animal-assisted therapy (AAT) to PTSD-affected patients when there are issues of isolation, anger management, and difficulty with social interactions. AAT consists of a treatment plan of human-animal therapy interaction. Animals, like dogs, typically interact with individuals or groups who have anxiety, schizophrenia, addiction, and depression. Hospitalized patients are often the most likely candidates for animal-assisted therapy, but AAT can also help people in personal homes, schools, community centers, nursing homes, or rehabilitation centers. “Interaction with the  animals... decrease[s] blood pressure and to have a calming effect on individuals with dissociative disorder.” AAT can also reduce anger and stress. AAT is often overlooked or not considered within PTSD patients treatment options.
+
+Present centered therapy
+Present centered therapy (PCT) is a non-trauma-focused, evidence-based psychotherapy (EBP) for PTSD. 
+According to VA/DOD PTSD treatment guidelines (2015), it is currently a second-line recommended treatment (i.e., “weak-for”) for PTSD.
+
+Other interpersonal psychotherapy approaches
+Other approaches, in particular involving social supports, may also be important. An open trial of interpersonal psychotherapy reported high rates of remission from PTSD symptoms without using exposure. A current, NIMH-funded trial in New York City is now (and into 2013) comparing interpersonal psychotherapy, prolonged exposure therapy, and relaxation therapy.
+
+Multicultural perspectives
+Trauma is ingrained in culture, and different cultures receive and treat trauma in different ways. Some cultures treat trauma with ancient practices such as praying or ritual.
+
+The term “historical trauma” (HT) gained currency in the clinical and health science literatures in the first two decades of the 21st century. It is defined as the psychological injury and ongoing presence of stressors resulting from historical events that occurred several generations ago. Native Americans, African Americans, Holocaust survivors, and Irish people are some examples. 
+ 
+In the case of Native Americans, many therapists use "a return to indigenous traditional practices" as a form of treatment for HT. The principle is quite different to prevailing forms of cognitive-behavioral therapy, since the goal is not “adaptation” or cognitive restructuring of the individual to the prevailing cultural norm, “but rather spiritual transformations and accompanying shifts in collective identity, purpose, and meaning making.”
+
+HT is often overlooked due to mental health professionals working under the impression that it is equivalent to PTSD. This can lead to a misunderstanding of HT, due to an exclusive focus on the individual, rather than historical causes and events.
+
+Researchers at the Stress-response Syndromes Lab at the University of Zurich, Switzerland, use the historical contributions of the Swiss psychologist Carl Gustav Jung to develop culturally sensitive treatments like symbolism and different myth stories to treat PTSD. Jung’s psychology asserts that “the fundamental ‘language’ of the psyche is not words, but images...studying the trinity of myths, metaphors, and archetypes enhances clinical interventions and psychotherapy.”
+
+A combination of Western psychotherapy and Japanese culture is helpful when using psychotherapy as an effective treatment in Japan. "After the Kobe-Awaji earthquake in 1995...Japanese psychologists became acutely aware of the need to receive specialized training in the treatment of posttraumatic stress disorder (PTSD) as well as crisis intervention." Psychotherapy is a recent practice used in Japan in which some practices of western psychotherapy are “modified to suit the Japanese client population” and forms to create a sense of cultural integration. The  two main methods of treatment practices Japanese psychotherapists work with are nonverbal tasks and parallel therapy.
+
+Recommendations
+A number of major health bodies have developed lists of treatment recommendations. These include:
+
+American Psychological Association
+United States Department of Veterans Affairs
+The UK's National Institute for Health and Care Excellence
+Australia's National Health and Medical Research Council
+
+References 
+
+Post-traumatic stress disorder
+Treatment by mental disorder

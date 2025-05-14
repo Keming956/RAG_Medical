@@ -1,0 +1,4 @@
+Ferndiagnose steht für:
+ Diagnose eines Computer- oder Kommunikationssystems über das Netz zur Vorbereitung von Fernwartung
+ Diagnose eines Maschinenparks oder einer Einzelmaschine über das Netz im Rahmen der vorbeugenden Instandhaltungsstrategie
+ Diagnosegespräch von Patient und Arzt über ein Kommunikationsmedium, siehe Telemedizin

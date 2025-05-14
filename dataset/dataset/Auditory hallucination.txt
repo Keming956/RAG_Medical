@@ -1,0 +1,211 @@
+An auditory hallucination, or paracusia, is a form of hallucination that involves perceiving sounds without auditory stimulus. 
+ 
+A common form of auditory hallucination involves hearing one or more talking voices, and this is known as an auditory verbal hallucination. This may be associated with psychotic disorders, most notably schizophrenia, and holds special significance in diagnosing these conditions.  However, individuals without any psychiatric disease whatsoever may hear voices, including (but not limited to) those under the influence of mind-altering substances, such as cannabis, cocaine, amphetamines, PCP, among others.
+
+There are three main categories into which the hearing of talking voices often fall: a person hearing a voice speak one's thoughts, a person hearing one or more voices arguing, or a person hearing a voice narrating their own actions. These three categories do not account for all types of auditory hallucinations.
+
+Hallucinations of music also occur. In these, people more often hear snippets of songs that they know, or the music they hear may be original, and may occur in normal people and with no known cause. Other types of auditory hallucination include exploding head syndrome and musical ear syndrome.  In the latter, people will hear music playing in their mind, usually songs they are familiar with. This can be caused by: lesions on the brain stem (often resulting from a stroke); also, sleep disorders such as narcolepsy, tumors, encephalitis, or abscesses. This should be distinguished from the commonly experienced phenomenon of getting a song stuck in one's head. Reports have also mentioned that it is also possible to get musical hallucinations from listening to music for long periods of time. Other reasons include hearing loss and epileptic activity.
+
+In the past, the cause of auditory hallucinations was attributed to cognitive suppression by way of executive function failure of the frontoparietal sulcus. Newer research has found that they coincide with the left superior temporal gyrus, suggesting that they are better attributed to speech misrepresentations. It is assumed through research that the neural pathways involved in normal speech perception and production, which are lateralized to the left temporal lobe, also underlie auditory hallucinations. Auditory hallucinations correspond with spontaneous neural activity of the left temporal lobe, and the subsequent primary auditory cortex. The perception of auditory hallucinations corresponds to the experience of actual external hearing, despite the absence of any sound itself.
+
+Causes
+
+In 2015 a small survey reported voice hearing in persons with a wide variety of DSM-5 diagnoses, including:
+
+Bipolar disorder
+Borderline personality disorder
+Depression (mixed)
+Dissociative identity disorder
+Generalized anxiety disorder
+Major depression
+Obsessive compulsive disorder
+Post-traumatic stress disorder
+Psychosis (NOS)
+Schizoaffective disorder
+Schizophrenia
+Substance-induced psychosis
+
+However, numerous persons surveyed reported no diagnosis. In his popular 2012 book Hallucinations, neurologist Oliver Sacks describes voice hearing in patients with a wide variety of medical conditions, as well as his own personal experience of hearing voices. Genetic correlations have been identified with auditory hallucinations, but most work with non-psychotic causes of auditory hallucinations is still ongoing.
+
+Schizophrenia
+
+In people with a psychosis, the premier cause of auditory hallucinations is schizophrenia, and these are known as auditory verbal hallucinations (AVHs). In schizophrenia, people show a consistent increase in activity of the thalamic and striatal subcortical nuclei, hypothalamus, and paralimbic regions; confirmed by PET and fMRI scans.  Other research shows an enlargement of temporal white matter, frontal gray matter, and temporal gray matter volumes (those areas crucial to both inner and outer speech) when compared to control groups.  This implies that functional and structural abnormalities in the brain, both of which may have a genetic component, can induce auditory hallucinations.
+
+Auditory verbal hallucinations attributed to an external source, rather than internal, are considered the defining factor for the diagnoses of schizophrenia. The voices heard are generally destructive and emotive, adding to the state of artificial reality and disorientation seen in psychotic patients. The causal basis of hallucinations has been explored on the cellular receptor level. The glutamate hypothesis, proposed as possible cause for schizophrenia, may also have implications in auditory hallucinations, which are suspected to be triggered by altered glutamatergic transmission.
+
+Studies using dichotic listening methods suggest that people with schizophrenia have major deficits in the functioning of the left temporal lobe by showing that patients do not generally exhibit what is a functionally normal right ear advantage. Inhibitory control of hallucinations in patients have been shown to involve failure of top-down regulation of resting-state networks and up-regulation of effort networks, further impeding normal cognitive functioning.
+
+Not all who experience hallucinations find them to be distressing. The relationship between an individual and their hallucinations are personal, and everyone interacts with their troubles in different ways. There are those who hear solely malevolent voices, solely benevolent voices, those that hear a mix of the two, and those that see them as either malevolent or benevolent and not believing the voice.
+
+Mood disorders and dementias
+Mood disorders such as bipolar disorder and major depression have also been known to correlate with auditory hallucinations, but tend to be milder than their psychosis-induced counterpart. Auditory hallucinations are a relatively common sequelae of major neurocognitive disorders (formerly dementia) such as Alzheimer's disease.
+
+Transient causes
+Auditory hallucinations have been known to manifest as a result of intense stress, sleep deprivation, and drug use. Auditory hallucinations can also occur in mentally healthy individuals during the altered state of consciousness while falling asleep (hypnagogic hallucinations) and waking up (hypnopompic hallucinations).
+
+High caffeine consumption has been linked to an increase in the likelihood of experiencing auditory hallucinations. A study conducted by the La Trobe University School of Psychological Sciences revealed that as few as five cups of coffee a day could trigger the phenomenon. Intoxication of psychoactive drugs such as PCP, amphetamines, cocaine, marijuana and others substances can produce hallucinations in general especially in high doses. Withdrawal from certain drugs such as alcohol, sedatives, hypnotics, anxiolytics, and opioids can also produce hallucinations including auditory.
+
+Pathophysiology
+The following areas of the brain have been found to be active during auditory hallucinations, through the use of fMRIs.
+
+ Transverse temporal gyri (Heschl's gyri): found within the primary auditory cortex.
+Left temporal lobe: processes semantics in speech and vision, includes primary auditory cortex.
+Broca's area: speech and language comprehension.
+Superior temporal gyrus: contains primary auditory cortex.
+Primary auditory cortex: processes hearing and speech perception.
+Globus pallidus: Regulation of voluntary movement.
+
+Treatments
+
+Medication
+The primary means of treating auditory hallucinations is antipsychotic medications which affect dopamine metabolism. If the primary diagnosis is a mood disorder (with psychotic features), adjunctive medications are often used (e.g., antidepressants or mood stabilizers). These medical approaches may allow the person to function normally but are not a cure as they do not eradicate the underlying thought disorder.
+
+Therapy
+Cognitive behavioral therapy has been shown to help decrease the frequency and distressfulness of auditory hallucinations, particularly when other psychotic symptoms were presenting.  Enhanced supportive therapy has been shown to reduce the frequency of auditory hallucinations, the violent resistance the patient displayed towards said hallucinations, and an overall decrease in the perceived malignancy of the hallucinations.  Other cognitive and behavioral therapies have been used with mixed success.
+
+Another key to therapy is to help patients see that they do not need to obey voices that they are hearing. It has been seen in patients with schizophrenia and auditory hallucinations that therapy might help confer insight into recognizing and choosing to not obey the voices that they hear.
+
+Others
+Between 25% and 30% of schizophrenia patients do not respond to antipsychotic medication which has led researchers to look for alternate sources to help them. Two common methods to help are Electroconvulsive therapy and repetitive transcranial magnetic stimulation (rTMS).  Electroconvulsive therapy or ECT has been shown to reduce psychotic symptoms associated with schizophrenia, mania, and depression, and is often used in psychiatric hospitals.
+
+Transcranial magnetic stimulation when used to treat auditory hallucinations in schizophrenic patients is done at a low frequency of 1 Hertz to the left temporoparietal cortex.
+
+History
+
+Ancient history
+
+Presentation
+
+In the ancient world, auditory hallucinations were often viewed as either a gift or curse by God, or the gods (depending on the specific culture). According to the Greek historian Plutarch, during the reign of Tiberius (A.D. 14–37), a sailor named Thamus heard a voice cry out to him from across the water, "Thamus, are you there? When you reach Palodes, take care to proclaim that the great god Pan is dead."
+
+The oracles of ancient Greece were known to experience auditory hallucinations while breathing in certain neurologically active vapors (such as the smoke from bay leaves), while the more pervasive delusions and symptomology were often viewed as possession by demonic forces as punishment for misdeeds.
+
+Treatments
+
+Treatment in the ancient world is ill-documented, but there are some cases of therapeutics being used to attempt treatment, while the common treatment was sacrifice and prayer in an attempt to placate the gods. During the Middle Ages, those with auditory hallucinations were sometimes subjected to trepanning or trial as a witch. In other cases of extreme symptomatology, individuals were seen as being reduced to animals by a curse; these individuals were either left on the streets or imprisoned in insane asylums. It was the latter response that eventually led to modern psychiatric hospitals.
+
+Pre-modern
+
+Presentation
+
+Auditory hallucinations were rethought during the enlightenment.  As a result, the predominant theory in the western world beginning in the late 18th century was that auditory hallucinations were the result of a disease in the brain (e.g., mania), and treated as such.
+
+Treatments
+
+There were no effective treatments for hallucinations at this time. Conventional thought was that clean food, water, and air would allow the body to heal itself (sanatorium). Beginning in the 16th century insane asylums were first introduced in order to remove “the mad dogs” from the streets. These asylums acted as prisons until the late 18th century. This is when doctors began the attempt to treat patients. Often attending doctors would douse patients in cold water, starve them, or spin patients on a wheel. Soon, this gave way to brain-specific treatments with the most famous examples including lobotomy, shock therapy, and branding the skull with a hot iron.
+
+Society and culture
+
+Notable cases
+Robert Schumann, a famous music composer, spent the end of his life experiencing auditory hallucinations. Schumann's diaries state that he suffered perpetually from imagining that he had the note A5 sounding in his ears. The musical hallucinations became increasingly complex. One night he claimed to have been visited by the ghost of Schubert and wrote down the music that he was hearing. Thereafter, he began making claims that he could hear an angelic choir singing to him. As his condition worsened, the angelic voices developed into demonic ones.
+
+Brian Wilson, songwriter and co-founder of the Beach Boys, has schizoaffective disorder that presents itself in the form of disembodied voices. They formed a major component of Bill Pohlad's Love & Mercy (2014), a biographical film which depicts Wilson's hallucinations as a source of musical inspiration, constructing songs that were partly designed to converse with them. Wilson has said of the voices: "Mostly [they're] derogatory. Some of it's cheerful. Most of it isn't." To combat them, his psychiatrist advised that he "talk humorously to them", which he says has helped "a little bit".
+
+The onset of delusional thinking is most often described as being gradual and insidious. Patients have described an interest in psychic phenomena progressing to increasingly unusual preoccupations and then to bizarre beliefs "in which I believed wholeheartedly". One author wrote of their hallucinations: "they deceive, derange and force me into a world of crippling paranoia". In many cases, the delusional beliefs could be seen as fairly rational explanations for abnormal experiences: "I increasingly heard voices (which I'd always call ‘loud thoughts’)... I concluded that other people were putting these loud thoughts into my head". Some cases have been described as an "auditory ransom note".
+
+Cultural effects 
+According to research on hallucinations, both with participants from the general population and people diagnosed with schizophrenia, psychosis and related mental illnesses, there is a relationship between culture and hallucinations. In relation to hallucinations, the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) states that “transient hallucinatory experiences may occur without a mental disorder”; put differently, short or temporary hallucinations are not exclusive to being diagnosed with a mental disorder.
+
+In a study of 1,080 people with a schizophrenia diagnosis from seven countries of origin: Austria, Poland, Lithuania, Georgia, Pakistan, Nigeria and Ghana, researchers found that 74.8% of the total participants (n = 1,080) disclosed having experienced more auditory hallucinations in the last year than any other hallucinations from the date of the interview. Further, the study found the highest rates of both auditory hallucinations and visual hallucinations in both of the West African countries, Ghana and Nigeria. In the Ghana sample, n = 76, auditory hallucinations were reported by 90.8% and visual hallucinations were reported by 53.9% of participants. In the Nigeria sample, n = 324, auditory hallucinations were reported by 85.4% and visual hallucinations were reported by 50.8% of participants. These findings are in line with other studies that have found that visual hallucinations were reported more in traditional cultures.
+
+A 2015 published study, “Hearing Voices in Different Cultures: A Social Kindling Hypothesis” compared the experiences of three groups of 20 participants who met criteria for schizophrenia (n = 60) from three places, including San Mateo, California (USA), Accra, Ghana (Africa), and Chennai, India (South Asia). In this study, researchers found distinct differences among the participant's experience with voices. In the San Mateo, CA sample all but three of the participants referred to their experience of hearing voices with “diagnostic labels, and even [used] diagnostic criteria readily”, they also and connected “hearing voices” with being “crazy”. For the Accra, Ghana sample, almost no participants referenced a diagnosis and instead they spoke about voices as having “a spiritual meaning and as well as a psychiatric one”. In the Chennai, India sample, similarly to the Ghana interviewees, most of the participants did not reference a diagnosis and for many of these participants, the voices they heard were of people they knew and people they were related to, “voices of kin”. Another key finding that was identified in this research study is that “voice-hearing experience outside the West may be less harsh”. Finally, researchers found that “different cultural expectations about the mind, or about the way people expect thoughts and feelings to be private or accessible to spirits or persons” could be attributed to the differences they found across the participants.
+
+In a qualitative study of 57 self-identified Māori participants subcategorized within one or more of the following groups including: “tangata Māori (people seeking wellness/service users), Kaumatua/Kuia (elders), Kai mahi (cultural support workers), Managers of mental health services, clinicians (psychiatrists, nurses, and psychologists) and students (undergraduate and postgraduate psychology students)”, researchers interviewed participants and asked them about “[1] their understanding of experiences that could be considered to be psychotic or labelled schizophrenic, [2] what questions they would ask someone who came seeking help and [3] they we asked about their understanding of the terms schizophrenia and psychosis”. The participants were also people who either had worked with psychosis or schizophrenia or had experienced psychosis or schizophrenia. In this study, researchers found that the participants understood these experiences labeled “psychotic” or “schizophrenic” through multiple models. Taken directly from the article, the researchers wrote that there is “no one Māori way of understanding psychotic experiences”. Instead, as part of understanding these experiences, the participants combined both “biological explanations and Māori spiritual beliefs”, with a preference for cultural and psychosocial explanations. For example, 19 participants spoke about psychotic experiences as sometimes being a sign of matakite (giftedness). One of the Kaumatua/Kuia (elders) was quoted as saying:“I never wanted to accept it, I said no it isn't, it isn't [matakite] but it wouldn't stop and in truth I knew what I had to do, help my people, I didn't want the responsibility but here I am. They helped me understand it and told me what to do with it.”An important finding highlighted in this study is that studies done by the World Health Organization (WHO) have found that “developing countries (non-Western) experience far higher rates of recovery from ‘schizophrenia’ than Western countries”. The researchers further articulate that these findings may be due to culturally specific meaning created about the experience of schizophrenia, psychosis, and hearing voices as well as “positive expectations around recovery”.
+
+Research has found that auditory hallucinations and hallucinations more broadly are not necessarily a symptom of “severe mental health” and instead might be more commonplace than assumed and also experienced by people in the general population. According to a literature review, “The prevalence of voice-hearers in the general population: A literature review”, which compared 17 studies on auditory hallucinations in participants from nine countries, found that “differences in the prevalence of [voice-hearing in the adult general population] can be attributed to true variations based on gender, ethnicity and environmental context”. The studies took place from 1894 to 2007 and the nine countries in which the studies took place were the United Kingdom, Philippines, United States, Sweden, France, Germany, Italy, Netherlands, and New Zealand. The same literature review highlighted that “studies that [analyzed] their data by gender report[ed] a higher frequency of women reporting hallucinatory experiences of some kind”. Although generally speaking hallucinations (including auditory) are strongly related to psychotic diagnoses and schizophrenia, the presence of hallucinations does not exclusively mean that someone is suffering from a psychotic or schizophrenic episode or diagnosis.
+
+Audible thoughts
+
+General information
+Audible thoughts, also called thought sonorisation, is a kind of auditory verbal hallucination. People with this hallucination constantly hear a voice narrating one's own thoughts out loud. This idea was first defined by Kurt Schneider, who included this symptom as one of the “first-rank symptoms” in diagnosing schizophrenia. Although the diagnostic reliability of “first-rank symptoms” has long been questioned, this idea remains important for its historical and descriptive value in psychiatry. Audible thoughts is a positive symptom of schizophrenia according to DSM-5, however, this hallucination is not exclusively found among schizophrenics, but also among patients of bipolar disorder in their manic phase.
+
+Types
+Patients who experience audible thought will hear the voice repeating their own thoughts either as or after the thought comes into their minds. The first kind of audible thought, the voice and the thought appear simultaneously, was named by German psychiatry August Cramer as Gedankenlautwerden, a German word stands for “thoughts become aloud".
+
+Example of Gedankenlautwerden:
+
+A 35-year-old painter heard a quiet voice with an ‘Oxford accent'. The volume was slightly lower than that of normal conversation and could be heard equally well with either ear. The voice would say, ‘I can't stand that man, the way he holds his brush he looks like a poof.' He immediately experienced whatever the voice was saying as his own thoughts, to the exclusion of all other thoughts.
+
+And the second kind which the voice comes after the thought appears is called echo de la pensée in French, namely thought echo.
+
+Example of thought echo:
+
+A 32-year-old housewife complained of a man's voice. The voice would repeat almost all the patient's goal-directed thinking, even banalest thoughts. The patient would think ‘I must put the kettle on', and after a pause of not more than one second the voice would say ‘I must put the kettle on'.
+
+If categorized by patients' subjective feelings about where the voices come from, audible thoughts can be either external or internal. Patients report an internal origin of the hallucination claim that the voices are coming from somewhere inside their body, mainly in their own heads, while those report an external origin feel the voice as coming from the environment. The external origins vary in the patients' description:  some hear the voice in front of their ears, some attribute the ambient surrounding noise, like running water or wind, as the source. This sometimes influences patients behaviours as they believe people around them can also hear these audible thoughts, therefore they may avoid social events and public places to prevent others from hearing their thoughts. Besides, study suggests that the locus of the voice may change as the patients' hallucination develop. There's a trend of internalization of external perceptions, which means patients will locate the source of their hallucination from external objects to internal subjectivity over time.
+
+Phenomenological study
+According to the study conducted by Tony Nayani and Anthony David in 1996, about half of the patients(46%) who suffered audible thoughts claimed that the hallucination has somehow taken the place of their conscience in making decisions and judgement. They tend to follow the voice's instruction when confronting dilemmas in their daily lives. The study also suggests that majority of the patients, both male and female, label the sounds they heard as male voices. However, younger patients tend to hear younger voices, which suggests that the voices in the hallucination may share age with the patients but not gender. What's more, voices in the hallucination usually differ from the patients' own voices in accents. They reported the voices they heard as coming from different regions or social classes with them.
+
+Some patients may develop skills to control their hallucination to a certain extent by some kind of cognitive focusing. They can't eliminate the voices, but through cognitive focusing or suggestive behaviours (e.g. swallowing), they can control the onset and offset of their hallucination.
+
+Pathophysiology
+Studies have suggested that damage to specific brain area may relate to the formation of audible thought. Patients who attribute the hallucination to an external locus are more likely to report the voice coming from the right. This unilateral characteristic can be explained by either contralateral temporal lobe disease or ipsilateral ear disease. Researchers also came up with hypotheses that audible thought may result from damage in the right hemisphere, which causes the malfunction of prosodic construction. If this happens, the left hemisphere may misinterpret the patients' own thoughts as alien, leading the patients to misconceive their thoughts as coming from another voice.
+
+Research
+A good amount of the research done has focused primarily on patients with schizophrenia, and beyond that drug-resistant auditory hallucinations.
+
+Auditory verbal hallucinations as symptoms of disordered speech 
+There is now substantial evidence that auditory verbal hallucinations (AVHs) in psychotic patients are manifestations of disorganized speech capacity at least as much as, and even more than, being genuinely auditory phenomena. Such evidence comes mainly from research carried out on the neuroimaging of AVHs, on the so-called “inner” and “subvocal” speech, on “voices” experienced by deaf patients, and on the phenomenology of AVHs. Interestingly, this evidence is in line with clinical insights of the classical psychiatric school (de Clérambault) as well as of (Lacanian) psychoanalysis. According to the latter, the experience of the voice is linked more to speech as a chain of articulated signifying elements than to sensorium itself.
+
+Non-psychotic symptomatology
+There is on-going research that supports the prevalence of auditory hallucinations, with a lack of other conventional psychotic symptoms (such as delusions, or paranoia), particularly in pre-pubertal children.  These studies indicate a remarkably high percentage of children (up to 14% of the population sampled) experienced sounds or voices without any external cause, although "sounds" are not considered by psychiatrists to be examples of auditory hallucinations. Differentiating actual auditory hallucinations from "sounds" or a normal internal dialogue is important since the latter phenomena are not indicative of mental illness.
+
+Methods
+To explore the auditory hallucinations in schizophrenia, experimental neurocognitive use approaches such as dichotic listening, structural fMRI, and functional fMRI. Together, they allow insight into how the brain reacts to auditory stimulus, be it external or internal. Such methods allowed researchers to find a correlation between decreased gray matter of the left temporal lobe and difficulties in processing external sound stimulus in hallucinating patients.
+
+Functional neuroimaging has shown increased blood and oxygen flow to speech-related areas of the left temporal lobe, including Broca's area and the thalamus.
+
+Causes
+The causes of auditory hallucinations are unclear.
+
+It is suspected that deficits in the left temporal lobe attribute that lead to spontaneous neural activity cause speech misrepresentations that account for auditory hallucinations.
+
+Charles Fernyhough, of the University of Durham, poses one theory among many but stands as a reasonable example of the literature.  Given standing evidence towards involvement of the inner voice in auditory hallucinations, he proposes two alternative hypotheses on the origins of auditory hallucinations in the non-psychotic.  They both rely on an understanding of the internalization process of the inner voice.
+
+Internalization of the inner voice
+The internalization process of the inner voice is the process of creating an inner voice during early childhood, and can be separated into four distinct levels.
+
+Level one (external dialogue) involves the capacity to maintain an external dialogue with another person, i.e. a toddler talking with their parent(s).
+
+Level two (private speech) involves the capacity to maintain a private external dialogue, as seen in children voicing the actions of play using dolls or other toys, or someone talking to themselves while repeating something they had written down.
+
+Level three (expanded inner speech) is the first internal level in speech.  This involves the capacity to carry out internal monologues, as seen in reading to oneself, or going over a list silently.
+
+Level four (condensed inner speech) is the final level in the internalization process.  It involves the capacity to think in terms of pure meaning without the need to put thoughts into words in order to grasp the meaning of the thought.
+
+Disruption to internalization
+A disruption could occur during the normal process of internalizing one's inner voice, where the individual would not interpret their own voice as belonging to them; a problem that would be interpreted as level one to level four error.
+
+Re-expansion
+Alternatively, the disruption could occur during the process of re-externalizing one's inner voice, resulting in an apparent second voice that seems alien to the individual; a problem that would be interpreted as a level four to level one error.
+
+Treatments
+Psychopharmacological treatments include anti-psychotic medications. Psychology research shows that the first step in treatment is for the patient to realize that the voices they hear are a creation of their own mind. This realization allows patients to reclaim a measure of control over their lives. Some additional psychological interventions might allow for the process of controlling these phenomena of auditory hallucinations but more research is needed.
+
+See also 
+
+Auditory imagery
+Earworm
+ Hearing Voices Network
+Hypnagogic hallucinations
+Intrusive thought
+Microwave auditory effect
+Speech synthesis
+Tinnitus
+
+References
+
+Further reading
+
+External links 
+
+"Anthropology and Hallucinations", chapter from The Making of Religion
+"The voice inside: A practical guide to coping with hearing voices"
+ A salience dysregulation syndrome, from Jim van Os. The British Journal of Psychiatry, 2009.
+
+Hallucinations
+Effects of psychoactive drugs
+Psychosis
+Medical signs
+Symptoms and signs of mental disorders

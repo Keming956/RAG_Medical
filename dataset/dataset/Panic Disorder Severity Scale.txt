@@ -1,0 +1,13 @@
+The Panic Disorder Severity Scale (PDSS) is a questionnaire developed for measuring the severity of panic disorder. The clinician-administered PDSS is intended to assess severity and considered a reliable tool for monitoring of treatment outcome. Self-report form of the Panic Disorder Severity Scale (PDSS-SR) is used to detect possible symptoms of panic disorder, and suggest the need for a formal diagnostic assessment.
+
+The PDSS consists of seven items, each rated on a 5-point scale, which ranges from 0 to 4. The items assess panic frequency, distress during panic, panic-focused anticipatory anxiety, phobic avoidance of situations, phobic avoidance of physical sensations, impairment in work functioning, and impairment in social functioning. The overall assessment is made by a total score, which is calculated by summing the scores for all seven items. The total scores range from 0 to 28.
+
+The PDSS-SR is used for screening and the scores 9 and above suggest the need for a formal diagnostic assessment.
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+ Panic and Agoraphobia Scale
+
+References 
+
+Psychiatric instruments: anxiety

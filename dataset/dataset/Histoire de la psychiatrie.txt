@@ -1,0 +1,179 @@
+L'histoire de la psychiatrie traite de l'évolution historique des connaissances scientifiques, sociales et médicales du traitement des maladies mentales et psychiques, mise en lien avec l'histoire de la folie ou d'autres données sociales telles que l'évolution des normes autour de différentes époques, l'étude des comportements déviants et de l'expérience individuelle.
+L'appellation psychiatrie est née en 1808 en Allemagne, et s'imposera en France au début du .
+
+En Europe, les maladies mentales sont officiellement distinguées des comportements asociaux (mendicité, vols, meurtres, etc) à partir du début du  et des hôpitaux spécialisés (nommés asiles en France) sont alors ouverts. L'étude et la classification des différentes manifestations des affections mentales occupent les aliénistes (terme utilisé en France jusqu'au début du ) jusqu'à l’avènement des neuroleptiques, au milieu du , qui permettent des rémissions au moins partielles des malades.
+
+Chronologie
+
+Antiquité 
+Dans l'Antiquité, les questions psychiatriques ne sont pas traitées en tant que telles pour deux raisons majeures :
+la pensée religieuse qui englobe tout ne reconnait pas les troubles psychiatriques mais des manifestations du divin ;
+il n'y a pas dans ces époques de différenciation entre psychisme et soma, tout est traité dans le corps.
+
+Hippocrate apportera un début de différenciation en distinguant des troubles mentaux tels la phrénétis, la manie ou la mélancolie et l'hystérie en interprétant ce trouble par un déplacement de l'utérus dans le corps de la femme. Les transes hystériques quasi identiques aux crises d'épilepsie il avait été ainsi établi un lien de nature divine. Il a mis en place la théorie des humeurs.
+
+Moyen Âge 
+Les malades mentaux restent auprès de leurs proches. Pour éviter qu'ils ne s'automutilent ou lors des crises ils sont attachés avec un luxe de précautions pour qu'ils ne blessent pas. Seuls les malades les plus dangereux sont emprisonnés. Des institutions laïques ou religieuses peuvent s'en occuper. L'exorciste est mis à contribution. Des « traitements » fantaisistes fleurissent par exemple l'extraction de la pierre de la folie. Dans certaines situations en cas d'échec c'est le bûcher pour sorcellerie qui est appliqué. Pour l'église, les affections mentales (en particulier l'hystérie, identifiée depuis l'Antiquité) ont longtemps été considérées comme des possessions par une entité démoniaque, diabolique.
+
+Renaissance 
+Les médecins Jean Wier et Juan Luis Vives s'insurgent contre la pratique du bûcher pour les fous. Ils estiment que ces derniers doivent être traités avec bienveillance et qu'il y a espoir de guérison. La folie passe du surnaturel au rang de maladie. Saint Jean-de-Dieu, qui est considéré comme le saint-patron des hôpitaux psychiatriques, fait une publication hospitalière.
+
+Fin du  
+
+Le médecin hygiéniste Jean Colombier, qui a travaillé comme inspecteur général des Hôpitaux, dépôts de mendicité et prisons, en 1780, rencontre à l'hôpital de Bicêtre le surveillant Jean-Baptiste Pussin, dont les conceptions se rapprochent des siennes. Colombier publie en 1785 Instruction sur la manière de gouverner les insensés, et de travailler à leur guérison dans les asyles qui leur sont destinés.
+
+Après la Révolution de 1789 les fous sortent des prisons pour les asiles d'aliénés. Le rôle du personnel se réduit cependant trop souvent à celui des gardiens. Le souhait des aliénistes de l'époque est de faire de ces maisons d'aliénés un lieu de guérison. Philippe Pinel rencontre à son tour le surveillant Jean-Baptiste Pussin à l'asile de Bicêtre lorsqu'il y est nommé en 1793 ; puis, nommé médecin-chef de la Salpêtrière en 1795, avec Pussin qui y fut muté quelques années plus tard, à la demande de Pinel, ils décident de retirer leurs chaînes aux fous après avoir constaté que certains le sont par période et d'autres continuellement. Ils entreprennent de classer les maladies mentales en catégories selon leurs signes cliniques, leur continuité ou discontinuité, les crises de folie, etc. La psychiatrie est née. Cependant, le concept de lésion synonyme de maladie perdure, on ne parle pas encore de maladies à causes psychiques.
+
+L’asile 
+En 1820 Jean-Etienne Esquirol succède à Philippe Pinel à la Salpêtrière. Esquirol reprend les idées de son prédécesseur pour donner naissance à la réglementation psychiatrique de 1838, restée en vigueur jusqu’en 1990. Un hôpital psychiatrique par département et deux mesures d'internement : le placement d'office (PO) et le placement volontaire (PV de par la volonté du peuple). Il s'agit là d'une loi de protection de la société avant tout.
+Un malade peut être hospitalisé avec son consentement. Il est alors en service libre.
+
+La vie dans les grands hôpitaux psychiatriques (ou asiles) était rythmée de façon immuable. Toute transgression était sévèrement punie, les traitements curatifs peu nombreux. Des méthodes comme la saignée, l'utilisation de purgatifs, sédatifs (type bromure de potassium, vomitifs ou de l'eau), la balnéothérapie pour ses vertus relaxantes (techniques relevant de la théorie des humeurs) côtoient des méthodes violentes (comme faire frôler la mort au malade pour provoquer un état de choc). Le choix du personnel commence à évoluer. Ces grands hôpitaux vivent en autarcie. Les malades, le personnel, les médecins vivent ensemble à l'intérieur des murs. Les sorties sont rares et les malades sont souvent internés à vie car la guérison est rare (5 % des patients de la clinique de Passy de l'aliéniste Émile Blanche ressortent guéris), si bien qu'en France le nombre d'aliénés passe de  en 1838 à  en 1939 (époque où les asiles sont huit fois plus peuplés que les prisons de droit commun), le Centre hospitalier général de Clermont-de-l'Oise étant alors le plus grand asile d'Europe. Ce constat pessimiste aboutit au milieu de ce siècle à la théorie de la dégénérescence.
+
+James Frame publie en 1860 The Philosophy of Insanity, dans lequel il témoigne de son expérience à l'asile de Gartnavel à Glasgow en Écosse, et où il évoque les traitements psychiatriques de son époque. 
+
+Jean-Martin Charcot, éminent clinicien et anatomo-pathologiste et chef de file de l'École de la Salpêtrière, déclare à la suite de ses études sur l'aphasie, le sommeil et l'hystérie, que pour certaines affections (des paralysies, principalement), il n'y a aucune lésion organique. Il invente le concept de lésion dynamique fonctionnelle, sans pour autant se prononcer en faveur d'une étiologie purement psychique des maladies mentales. Il fait notamment des représentations pour expliquer le déroulement des crises hystériques, auxquelles Sigmund Freud, alors jeune médecin, assiste. C'est à la suite de cela que Freud étudiera l'effet de pratiques comme l'hypnose sur les malades et, n'étant pas satisfait par cette méthode, décide d'écouter et de faire parler les personnes atteintes de pathologies mentales. Il crée ainsi la psychanalyse.
+
+Au début du  on trouve encore dans certains ouvrages de médecine les traitements suivants : Bromure de potassium, valériane, opium, morphine. Pour le traitement de la crise : Eau froide, compression des ovaires, flagellation.
+
+En 1937, en France, le terme d'« asile » disparait de la terminologie officielle pour être remplacé par celui d'« hôpital psychiatrique ». Le terme d'« aliéné » restera en vigueur jusqu'en 1958.
+
+Sous l'influence de théories eugénistes, des programmes de stérilisation contrainte visant notamment les malades mentaux sont mis en place dans de nombreux pays d'Amérique et d'Europe ainsi qu'au Japon. Le cadre légal qui permet ces pratiques disparait dans les années 1970 en Suède, et dans les années 1980 en Suisse dans le canton de Vaud.
+
+L'Allemagne nazie extermine les malades mentaux dans le cadre de l'Aktion T4. Au Brésil, l'hôpital Colônia de Barbacena est le théâtre de "L'holocauste brésilien", avec plus de 60 000 personnes mortes dans les services de garde à la suite de fautes médicales et de tortures, et ce jusqu'à sa fermeture en 1980.
+
+Selon Max Lafont, le nombre des malades mentaux qui succombent à la famine dans les hôpitaux psychiatriques en France, de 1940 à 1944, est de . Ce bilan s'explique par l'indifférence et l'oubli contre lesquels ne s'élèvent que de très rares et faibles protestations. Les artistes Sylvain Fusco, Camille Claudel et Séraphine de Senlis font partie de ces victimes.
+
+La lobotomie (aussi appelée leucotomie), opération chirurgicale du cerveau qui consiste en une section ou une altération de la substance blanche d'un lobe cérébral, est formalisée en 1935 par les neurologues portugais Egas Moniz et Almeida Lima de l'Université de Lisbonne, ce qui leur vaut un Prix Nobel en 1949. Entre 1933 et 1944, certains médecins allemands nazis s'essaient à la lobotomie, souvent sans anesthésie ni antiseptique, sur les prisonniers des camps de concentration.
+
+La lobotomie connaît son essor après la seconde guerre mondiale, notamment avec l'invention américaine de Walter Freeman : le pic à glace. On estime que quelque  patients furent lobotomisés dans le monde entre 1945 et 1954 dont la moitié aux États-Unis. Freeman parcourt les États-Unis dans les années 1950 dans un autocar équipé pour pratiquer des lobotomies « en série », enfonçant ce pic à glace dans le lobe orbitaire des patients après avoir soulevé la paupière (lobotomie trans-orbitale), moyennant parfois une anesthésie locale. Cette pratique, le plus souvent combinée à des électrochocs, a alors un grand succès (grand mouvement de « l'hygiène mentale ») et on estime que Freeman à lui seul lobotomisa quelque  patients (ou  patients selon l'article « Lobotomie »). La lobotomie est alors utilisée pour traiter les maladies mentales, la schizophrénie, l'épilepsie et même les maux de tête chroniques. Dès les années 1950, de sérieux doutes concernant cette pratique commencent à se faire entendre et avec la découverte des produits neuroactifs plus efficaces et moins dangereux (les neuroleptiques), cette pratique décline dès les années 1960.
+
+Les abus de ces méthodes discréditeront un temps les tenants de la psychiatrie organiciste (en faveur d'une causalité biologique des troubles mentaux et d'un traitement spécifique).
+
+D'autres traitements sont utilisés, comme la cure de Sakel (abandonné aujourd'hui) et la sismothérapie qui n'est plus utilisée aujourd'hui que dans des conditions rigoureuses lors de cas très précis (accès mélancolique grave ou schizophrénie résistant aux traitements médicamenteux).
+
+En 1950, après avoir observé en anesthésie l'effet de distanciation psychique provoqué par un dérivé de phénotiazine, la prométhazine, le chirurgien Henri Laborit demande au chimiste Paul Charpentier au laboratoire Spécia de Rhône-Poulenc une molécule provoquant moins de sédation et plus de distanciation. Le , le RP4560, ou « chlorpromazine » est synthétisé. Il est baptisé « Largactil » pour souligner l'aspect large de son spectre d'action.
+
+« Tu devrais essayer chez tes malades agités de Sainte-Anne. Tu n’aurais plus besoin de camisole de force ».
+
+C'est en ces termes qu'à l'automne 1951, à Paris, à l’issue d’une séance de la Société française d’anesthésie, Henri Laborit présente pour la première fois la chlorpromazine au pharmacologue de l'hôpital psychiatrique Sainte-Anne, Jean Thuillier. Sans succès dans le milieu psychiatrique dans un premier temps, Laborit fait tester le nouveau médicament à l'hôpital militaire du Val-de-Grâce.
+
+Le , à 10 heures du matin, Jacques Lh., 24 ans, est le premier patient au monde à recevoir une injection de  de chlorpromazine. Le , une première publication fera état de ce nouveau traitement à la chlorpromazine.
+
+En , le psychiatre Pierre Deniker demande des échantillons au laboratoire Spécia et effectue les premiers essais cliniques systématiques de la chlorpromazine dans son service à l'hôpital psychiatrique Sainte-Anne. En supprimant la réfrigération et les sédatifs qui accompagnaient son administration et en quadruplant la dose, Pierre Deniker prouve l'action de la chlorpromazine seule dans le traitement des états d'agitation maniaque et les psychoses aiguës. Jean Delay baptise cette nouvelle classe de médicaments « neuroleptiques ».
+
+La psychopharmacologie moderne est née. 
+
+Cependant, dans les établissements psychiatriques américains, le nombre d'admissions restera supérieur au nombre de décharges jusqu'en 1970, soit 15 après l'introduction des neuroleptiques. La diminution du nombre de résidents fut causé par une augmentation du taux de mortalité entre 1955 et 1970, à 9 % par an environ, et une modification progressive de la composition démographique des hôpitaux : moins de psychotiques et moins de déments, notamment.
+
+En 1957, le psychiatre suisse Roland Kuhn découvre le premier antidépresseur (imipramine).
+
+Vers les années 1960 des méthodes comme le packing (méthode d'enveloppement humide) sont également utilisées en traitement des psychoses.
+
+Les techniques de soins par la parole et les psychothérapies se développent.
+
+De nombreux courants d'idées souvent antagonistes apparaissent (psychiatrie organiciste contre psychiatrie psychanalytique, ambulatoire contre institution par exemple).
+
+le soin en psychiatrie 
+Il y a deux visions du soin :
+
+- une approche organiciste, envahissante (c'est-à-dire centrée sur le corps du malade), la neurologie mais aussi très critiquée voir aujourd'hui interdite la lobotomie , le packing. Également les thérapies médicamenteuses neuroleptiques hypnotiques anxiolytiques
+
+- les thérapies non envahissantes ( intervenant sur la psyché) représentées par les psychothérapies dont la psychanalyse , la psychomotricité et le sport adapté, l'ergothérapie dont l'art-thérapie, Toutes ces approches ne sont pas spécifiques de la psychiatrie et peuvent être pratiquées en libéral hors du champ des psychiatres ( médecins, paramédicaux, coachs, thérapeutes non agrées par l'ARS. Elles peuvent être remboursées sécurité sociale ou par la MDPH ou payées uniquement par le client
+
+La réadaptation psychosociale :traditionnellement au XXe le travail est au centre de la réadaptation en psychiatrie ( qu'elle soit carcérale) ou hospitalière. Toutefois ce que l' on nomme aujourd'hui réhabilitation psychosociale correspond aux approches paramédicales et démarches sociales pour réinsérer (réadapter) le patient. Cela évoque la rééducation du handicap physique ou la réadaptation visuelle de la basse vision. Toutes ces formes de réadaptations on ouvert le champ à de nouvelle professions paramédicales surtout depuis les années 1950.
+
+Les psychothérapies 
+il y a deux types d'approches dans les prises en charges psycho-thérapeutiques , celles d' orientation psychanalytique, dont la psychothérapie institutionnelle et/ou thérapies systémiques, et celles d'origine anglo-saxonne neuro-développementales , cognitives et/ou comportementales
+
+Actuellement la HAS préconise dans ses recommandations (conférences de consensus) des approches cognitivo-comportementales TEACCH ect.
+
+St. Alban marque la psychothérapie,  Tosquelles, Bonnafé  sont à l'origine de la notion de psychiatrie de secteur.   Psychanalystes de cette seconde moitié du  vont militer pour une prise en charge plus humaine dans la localité où vit le malade (le secteur) et dans de petits établissements médico-sociaux encadrés par du personnel éducatif .Tony Lainé psychiatre et psychanalyste, en 1957  effectue un stage de plusieurs mois à Saint-Alban. Il devient psychiatre au Pradon à St Geneviève des bois, hôpital de jour soignant des enfants avec autisme. l'hôpital est fermé en 1983 après un conflit sur la prise en charge et le financement RCB , Il va être également influencé par Bruno Bettelheim directeur de l' école orthogénique à Chicago.
+
+En France, la  circulaire ministérielle de  crée la politique de secteur psychiatrique. Les grands hôpitaux psychiatriques et le cadre unique cèdent la place aux petites structures et au maintien des malades mentaux au sein de la cité. Les infirmiers psychiatriques deviennent infirmiers de secteur psychiatriques (dont la formation spécifique s'arrêtera en 1992) et les psychologues deviennent de plus en plus présent dans les services. Peu à peu les aides soignants, les aides médico-psychologique et les agents des services hospitaliers sont inclus dans les services ainsi que du personnel paramédical (ergothérapeutes, assistants sociaux, éducateurs spécialisés). 
+
+Parallèlement, la loi de 1838 va céder la place à celle du  en mettant l'accent sur le soin et le renforcement des droits du malade. Elle conservera toutefois les deux modes d'hospitalisation sans consentement. Le placement d'office est remplacé par l'hospitalisation d'office. Le placement volontaire (sous entendu, par la volonté du peuple) cède la place à l'hospitalisation à la demande d'un tiers. Les patients ayant donné leurs consentements sont en hospitalisation libre.
+
+La psychiatrie est toujours en pleine évolution et doit faire face aux nouveaux maux de la société actuelle entraine une série de réformes comme le plan santé mentale 2005/2008.
+
+En France, des faits divers comme l'Affaire Romain Dupuy à Pau, en 2004 et à Grenoble le  (où un étudiant, Luc Meunier, est tué par un schizophrène), celui de l'affaire Canarelli, au cours de laquelle un psychiatre hospitalier a été poursuivi pour un meurtre commis par un patient, relancent régulièrement les débats sur la prise en charge des malades mentaux et la sécurité. Ainsi, dès le , Nicolas Sarkozy qui veut une réforme du droit pour la psychiatrie, annonce un nouveau un plan de sécurisation des hôpitaux psychiatriques devant un parterre de médecins :
+ 30 millions seront débloqués pour « mieux contrôler les entrées et les sorties des établissements et prévenir les fugues » ;
+ mise en place du « dispositif de géolocalisation » qui, s'il sort du périmètre autorisé par le médecin, déclenchera l'alerte ;
+ des unités fermées, équipées de portes et de systèmes de vidéosurveillance, seront installées dans chaque établissement qui le nécessite ;
+ 200 chambres d'isolement seront aménagées pour les « patients qui peuvent avoir des accès de violence envers le personnel ».
+De nombreuses voix s'élèvent contre ces réformes et cela prend même un tournure politique (opposition du Parti socialiste en particulier). L'affaire de Luc Meunier conduit à une première en France en 2018, la condamnation en appel à 18 mois de prison avec sursis de Lekhraj Gujadhur, psychiatre hospitalier, pour avoir sous-estimé la dangerosité de son patient.
+
+Grands courants de la psychiatrie 
+ Aliénation mentale
+ Phrénologie
+ Psychochirurgie
+ Psychopathologie
+ Structure en psychopathologie
+ Phénoménologie
+ Psychiatrie biologique
+ Antipsychiatrie
+
+Grands noms de la psychiatrie (ordre chronologique)
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Aliénation mentale
+ Psychiatrie
+ Histoire de la folie
+ Hospitalisation sans consentement en France
+ Infirmier de secteur psychiatrique
+ Maladie mentale
+ Santé mentale
+ Psychiatrie de secteur
+ Neuroleptique
+ Histoire de la psychiatrie en Belgique
+
+Bibliographie 
+ Jean Colombier, Instruction sur la manière de gouverner les insensés, et de travailler à leur guérison dans les asyles qui leur sont destinés, Paris, 1785
+ Jacques Hochmann "Histoire de la psychiatrie", PUF, Que Sais-Je 2011
+ Jean-Noël Missa. Naissance de la psychiatrie biologique. Histoire des traitements des maladies mentales au , PUF, 2006, 
+ Jacques Postel et Claude Quetel (sous la direction de), Nouvelle histoire de la psychiatrie, Dunod 
+ Jean-Charles Sournia, Histoire de la médecine, La découverte 
+ Jean Thuillier, La Folie, Histoire et dictionnaire, Robert Laffont, , ().
+ Patrick Coupechoux : Un monde de fous. Comment notre société maltraite ses malades mentaux Ed Seuil, 2006
+ Henri Ey : 
+ Neurologie et psychiatrie, Ed: Hermann, 1998,  
+ Manuel de psychiatrie, Masson,  éd.: 2010, 
+ Marcel Gauchet : Le Sujet de la folie. Naissance de la psychiatrie, précédé De Pinel à Freud, Calamann -Lévy 
+ Gladys Swain, Marcel Gauchet : Dialogue avec l'insensé - A la recherche d'une autre histoire de la folie Éd.: Gallimard, 1994,  
+ Gladys Swain, Marcel Gauchet : La Pratique de l'esprit humain. L'Institution asilaire et la révolution démocratique, Éd: Gallimard 1980  
+ Ian Goldstein Consoler et classifier. L'essor de la psychiatrie française, préf. de Jacques Postel, Ed Les empêcheurs de penser en rond, 1997, traduit par Francoise Bouillot, 
+ German E Berrios & Roy Porter The History of Clinical Psychiatry London, Athlone Press, 1995
+ German E Berrios The History of Mental Symptoms Cambridge Cambridge University Press, 1996
+ .
+ Georges Lanteri Laura : La Chronicité en psychiatrie Ed: Les empêcheurs de penser en rond / Synthélabo, 1997, 
+ Georges Lanteri Laura : Histoire de la phrénologie, PUF, 2000,  
+ Georges Lanteri Laura : Essai sur les paradigmes de la psychiatrie moderne, Le Temps Éditions, 1998,  
+ Georges Lanteri Laura : Recherches psychiatriques coffret, 3 vol., Sciences en situation, 1998,  
+ Georges Lanteri Laura : Psychiatrie et connaissance, Sciences en situation, 1998,  
+ Georges Lanteri Laura : Le temps de la psychose avec coll. Franca Madioni, L'Harmattan, 2000, 
+ Georges Lanteri Laura : Essai sur la discordance dans la psychiatrie contemporaine avec coll. Martine Gros, EPEL, 1992, 
+ Dominique Lecourt (dir.), Dictionnaire de la pensée médicale (2004), réed. PUF/Quadrige, Paris, 2004.
+   
+ Marie Didier, Dans la nuit de Bicêtre, Gallimard, Paris, 2006 ; rééd. Folio, 2008
+
+Histoire médicale 
+ Histoire de la médecine
+ Histoire de la neurologie
+ Histoire de l'anatomie
+ Histoire de l'anesthésie
+ Histoire de l'hôpital
+ Histoire de la chirurgie
+
+Liens externes 
+ Histoire de la psychiatrie en France
+ Histoire de la psychiatrie
+ Lois régissant la psychiatrie en France : Code de la santé publique, Livre II : Lutte contre les maladies mentales : Titre Ier : Modalités de soins psychiatriques, Titre II : Organisation.
+ Exposition virtuelle Scènes de la psychiatrie ordinaire
+
+Histoire de la psychiatrie
+Histoire de la folie
+Histoire de la psychologie

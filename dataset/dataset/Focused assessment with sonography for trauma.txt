@@ -1,0 +1,18 @@
+Der Begriff Focused Assessment with Sonography for Trauma (FAST) beschreibt einen standardisierten sonographischen Untersuchungsgang des Bauches und Beckens und in der Erweiterung auch der Brusthöhle beim schwerverletzten Patienten im Schockraum. Die FAST-Untersuchung kommt regelmäßig bei der Initialphase der Untersuchung von Polytraumapatienten zu Anwendung.
+
+Ziel der FAST-Untersuchung des Schockraumpatienten ist das Erkennen von freier Flüssigkeit als Zeichen einer Verletzung von Organen und Blutgefäßen des Bauchraumes und damit gegebenenfalls die Entscheidung zu sofortigen lebensrettenden Operationen. Ihre Sensitivität und Spezifität betrug dabei in prospektiven Studien nahezu 100 %. Bis Mitte der 1990er Jahre wurde vor allem im angelsächsischen Einzugsbereich die so genannte diagnostische Peritoneallavage (Spülung der Bauchhöhle) zur Einschätzung von freier Flüssigkeit in der Bauchhöhle eingesetzt. Noch Mitte der 1990er Jahre gab es große Unstimmigkeiten, welches Verfahren zu bevorzugen sei. Die Sonographie konnte sich erst Ende der 1990er Jahre endgültig in der Notfalldiagnostik etablieren und stellt seither eine unverzichtbare Untersuchung dar.
+
+Bestandteile
+ Flankenschnittbild rechts: perihepatisch und hepatorenaler Raum (Morison-Pouch)
+ Flankenschnittbild links: perisplenisch und splenorenaler Raum (Koller-Pouch)
+ Längs- und Querschnittbild des Unterbauchs (suprapubisch): kleines Becken (Douglas-Raum)
+ Oberbauch-Querschnittbild nach kranial: Perikard
+ parasternales Längsschnittbild beidseits: Suche nach Pneumothorax
+
+Literatur 
+ F. Walcher, Th. Kirschning, R. Breitkreutz: Sonografie beim Traumapatienten. in: T. Grau (Hrsg.): Ultraschall in der Anästhesie und Intensivmedizin. Deutscher Ärzte-Verlag, 2009. ISBN 978-3-7691-1264-1
+ D. R. Spahn, V. Cerny, T. J. Coats, J. Duranteau, E. Fernández-Mondéjar, G. Gordini, P. F. Stahel, B. J. Hunt, R. Komadina, E. Neugebauer, Y. Ozier, L. Riddez, A. Schultz, J. L. Vincent, R. Rossaint: Management of bleeding following major trauma: a European guideline. In: Critical care. Band 11, Nummer 1, 2007, S. R17, , PMID 17298665, .
+
+Diagnostisches Verfahren in Orthopädie und Unfallchirurgie
+Diagnostisches Verfahren in der Notfallmedizin
+Ultraschall in der Medizin

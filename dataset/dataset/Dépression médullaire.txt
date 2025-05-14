@@ -1,0 +1,36 @@
+La dépression médullaire, également appelée myélotoxicité ou myélosuppression, est la diminution de la production de cellules responsables de l'immunité (leucocytes), transportant l'oxygène (érythrocytes) et / ou celles responsables de la coagulation sanguine normale (thrombocytes). La dépression médullaire est un effet secondaire grave de la chimiothérapie et de certains médicaments affectant le système immunitaire tels que l'azathioprine. Le risque est particulièrement élevé en chimiothérapie cytotoxique pour la leucémie.
+
+Les anti-inflammatoires non stéroïdiens (AINS), dans de rares cas, peuvent également provoquer une dépression médulaire. La diminution du nombre de cellules sanguines ne se produit pas dès le début de la chimiothérapie car les médicaments ne détruisent pas les cellules déjà présentes dans la circulation sanguine (celles-ci ne se divisent pas rapidement). Au lieu de cela, les médicaments affectent les nouvelles cellules sanguines produites par la moelle osseuse. Lorsque la myélosuppression est sévère, on parle de myéloablation.
+
+De nombreux autres médicaments, y compris les antibiotiques courants, peuvent provoquer une dépression médullaire. Contrairement à la chimiothérapie, les effets peuvent ne pas être dus à la destruction directe des cellules souches mais les résultats peuvent être tout aussi graves. Le traitement peut refléter celui de la myélosuppression induite par la chimiothérapie ou peut être de passer à un autre médicament ou de suspendre temporairement le traitement.
+
+Parce que la moelle osseuse est le centre de fabrication des cellules sanguines, la suppression de l'activité de la moelle osseuse provoque une carence en cellules sanguines. Cette condition peut rapidement conduire à une infection potentiellement mortelle, car le corps ne peut pas produire de leucocytes en réponse à des bactéries ou virus envahissants, ainsi qu'à une anémie due à un manque de globules rouges et à des saignements graves spontanés dus à une carence en plaquettes.
+
+Le parvovirus B19 inhibe l'érythropoïèse en infectant lytiquement les précurseurs des globules rouges dans la moelle osseuse et est associé à un certain nombre de maladies différentes allant de bénignes à graves. Chez les patients immunodéprimés, l'infection à B19 peut persister pendant des mois, conduisant à une anémie chronique avec virémie à B19 due à une dépression médullaire chronique.
+
+Traitement 
+La dépression médulaire due à l'azathioprine peut être traitée en le remplaçant par le mycophénolate mofétil (pour les greffes d'organes) ou d'autres médicaments actifs pour la polyarthrite rhumatoïde ou la maladie de Crohn.
+
+Myélosuppression induite par la chimiothérapie 
+
+La dépression médullaire due à la chimiothérapie anticancéreuse est beaucoup plus difficile à traiter et implique souvent l'admission à l'hôpital, un contrôle strict des infections et une utilisation agressive d'antibiotiques par voie intraveineuse dès les premiers signes d'infection.
+
+Le filgrastim (G-CSF) est utilisé cliniquement (voir Neutropénie) mais des tests chez la souris suggèrent qu'il peut entrainer une perte osseuse.
+
+Le GM-CSF a été comparé au G-CSF comme traitement de la myélosuppression / neutropénie induite par la chimiothérapie.
+
+Recherche 
+Lors du développement de nouveaux produits de chimiothérapie, l'efficacité du médicament contre la maladie est souvent mise en balance avec le niveau de myélotoxicité attendu du médicament. Les tests in vitro sur cellules formant des colonies (CFC) avec de la moelle osseuse humaine cultivée dans des milieux semi-solides appropriés tels que ColonyGEL, se sont révélés utiles pour prédire le niveau de myélotoxicité clinique qu'un certain composé pourrait provoquer s'il était administré à l'humain. Ces tests prédictifs in vitro révèlent les effets des composés administrés sur les cellules progénitrices de la moelle osseuse qui produisent les diverses cellules matures dans le sang. Ils peuvent être utilisés pour tester les effets de médicaments  administrés seuls ou en combinaison avec d'autres.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Leucémie
+ Myélome multiple
+ Transplantation de moelle
+ Ponction de moelle osseuse et myélogramme
+
+Histologie
+Sang

@@ -1,0 +1,25 @@
+Die Spatendiagnose ist eine um 1930 von Johannes Görbing entwickelte Methode zur Bestimmung des Bodengefüges bzw. der Bodenfruchtbarkeit. In den 1980er Jahren wurde sie durch die Arbeit von Gerhardt Preuschen und Hampl wieder in der landwirtschaftlichen Praxis etabliert.
+
+Durchführung 
+Bei der Spatendiagnose wird ein Spaten mit scharfem, flachen Blatt senkrecht in den Boden gedrückt. Um auch den Übergang zwischen Oberkrume und Untergrund mitzuerfassen, muss der Spaten eine Länge von 30 cm haben. Bereits aus dem Widerstand beim Eindrücken heraus lassen sich erste Rückschlüsse auf den Bodenzustand gewinnen.
+
+Anschließend hebt man mit einem anderen Spaten parallel zum Spatenblatt des Flachspatens einen kleinen Graben mit senkrecht abgestochener Wand zum Flachspaten hin aus. Rechtwinklig zum Flachspatenblatt werden in einem seitlichen Abstand von rund 10 cm zu den Kanten des Flachspatens zwei Schlitze gestochen. Sodann entnimmt man mit dem Flachspaten den zu untersuchenden Bodenprofilklotz.
+Dieser wird in waagerechter Lage auf den Zustand des Gefüges (locker, mittel, fest, eventuell vorhandene Horizonte), Bodenfeuchte und Parameter wie Wurzelwachstum hin untersucht.
+
+Die Spatenmethode erlaubt mit geringem Aufwand den Gefügezustand eines Bodens hinsichtlich der Größe und Struktur der Fragmente und Bodenaggregate, sowie der Bodenverdichtung, Durchwurzelung und Feuchte einzuschätzen. Sie dient als Entscheidungshilfe für praktische Bewirtschaftungsmaßnahmen. Gegebenenfalls kann durch Abräumen der bereits untersuchten Oberbodenschicht zur weiteren Diagnose eine weitere Spatenprobe im Unterboden erfolgen.
+
+Erweiterung der Spatenmethode 
+Die in Zusammenarbeit mit dem Projekt Ökologische Bodenbearbeitung (PÖB) im Rahmen einer Dissertation an der Justus-Liebig-Universität Gießen von Andrea Beste entwickelte Erweiterte Spatendiagnose (ESD) ist eine Methode zur wissenschaftlichen Bodenbeurteilung. Für die Methodenkombination der ESD wurden eine Gefügebonitur und ein einfacher Test zur Wasserstabilität der Bodenaggregate neu entwickelt. Der größte Vorteil der Methodik – besonders der Gefügebonitur – ist, dass sie auch vom Landwirt selbst vorgenommen werden kann.
+
+Auf EU-Ebene sind im Rahmen des Soil Conservation and Protection in Europe (SCAPE) Projekts Richtlinien für die Empfehlung von Bodenuntersuchungsmethoden (Guidelines for soil assessment) in Planung, die die Aufnahme von Bodendaten erleichtern und vereinheitlichen sollen. Eine Richtlinie zur weiterentwickelten Spatendiagnose als einfacher, praxisnaher Methode ist in Vorbereitung.
+
+Literatur 
+Gerhardt Preuschen: Ackerbaulehre nach ökologischen Grundsätzen. 2. Auflage, Verlag C. F. Müller, Heidelberg 1994, ISBN 3-7880-9873-2, S. 75–116
+Gerhardt Preuschen: Eine Anleitung zur Spatendiagnose. Sonderausgabe der Zeitschrift Ökologie und Landbau, 5. Auflage, Stiftung Ökologie und Landbau, Bad Dürkheim 1990
+
+Weblinks 
+Website der Landwirtschaftskammer NRW mit Informationen und Bildern zur Spatendiagnose
+
+Bodenkunde
+Feldwirtschaft
+Methode im Gartenbau

@@ -1,0 +1,43 @@
+Von einem Knalltrauma spricht man, wenn die Einwirkung eines sehr hohen Schalldrucks auf das Ohr zu einer Schädigung des Innenohres führt. Das ist dann der Fall, wenn der schädigende Schall nur sehr kurz einwirkt (1 bis 3 ms). Längeres Einwirken eines sehr hohen Schalldrucks führt primär zur Verletzung von Trommelfell und Gehörknöchelchen. Das Knalltrauma ist ein Teilaspekt des akustischen Traumas.
+
+Als Explosionstrauma kann zusätzlich zu den Schäden des Knalltraumas auch eine Schädigung des Innenohres auftreten. In der Otologie wird also zwischen Knalltrauma und Explosionstrauma auf Grund der Folgen der Schalleinwirkung und nicht der physikalischen Eigenschaften des einwirkenden Schalls unterschieden. Viele ehemalige Bergarbeiter leiden am Knalltrauma.
+
+Ursachen 
+
+Jedes kurze Schallereignis, das einen gewissen Schalldruckpegel übersteigt, kann ein Knalltrauma verursachen. Beispiele sind Pistolen- oder Gewehrschüsse, Schreckschusswaffen, Knallkörper, Airbag, Sprengungen, Schlag auf das Ohr, zufallende Türen, platzende Reifen und nahe Blitzeinschläge. Der ins Innenohr übertragene Pegel von tiefen Frequenzen wird durch die Maximalauslenkung des Trommelfells begrenzt und es entsteht Übersteuerung. Durch die Übersteuerung entstehen neue Frequenzen1) Geschädigt wird das Gehör im Bereich der neu entstandenen hohen Frequenzen.
+
+Die sehr hohen Frequenzen2) von Schreckgeräten (Marderschreck, Katzenschreck, Fuchsschreck usw.) verursachen bei ungenügendem Abstand bereits im Einschaltmoment irreversible Innenohrverletzungen. Masseträgheit verhindert bei hohen Frequenzen eine Auslenkung von Gehörknöchelchen und Trommelfell in einen kritischen Bereich. Gehörknöchelchen und Trommelfell werden auch bei minutenlanger Beschallung nie beschädigt.
+
+1) Bewegung von Trommelfell ist synchron zu Audiosignal. Deshalb entsteht physikalisch identisches Verhalten, egal ob die Übersteuerung im Audiosignal, bei der Lautsprechermembran oder beim Trommelfell geschieht.
+
+2) Vorausgesetzt die Amplitude ist konstant, steigt die Belastung im Innenohr in der dritten Potenz zur Frequenz.
+
+Symptome 
+ Gefühl eines verstopften Ohres
+ Hörverlust
+ Tinnitus
+ Eventuell kurzer, stechender Schmerz
+ Hyperakusis (Geräuschüberempfindlichkeit)
+ Schwindel bzw. Gleichgewichtsstörungen
+
+Gehörgang und Trommelfell sind nicht beeinträchtigt, das Knalltrauma betrifft allein das Innenohr. Im Tonaudiogramm findet man eine meistens asymmetrische Schallempfindungsschwerhörigkeit in Form einer Senke der Hörschwellenkurve im Hochtonbereich. In der Regel verbessert sich das Hörvermögen wieder in den ersten Stunden und Tagen nach dem Ereignis, häufig bleibt aber eine dauernde Hörstörung bestehen.
+
+Therapie und Prognose 
+Wie bei einem Hörsturz wird als Erstmaßnahme eine hämorheologische Infusionstherapie mit HAES (Hydroxyethylstärke) und Procain angewandt. Cortison kann ebenfalls angewandt werden. Versagen beide Behandlungsmethoden, ist eine hyperbare Sauerstofftherapie angebracht. Ein frühzeitiger Therapiebeginn ist auf jeden Fall für eine günstige Prognose angezeigt. Je früher mit der Therapie begonnen wird, desto geringer ist das Risiko für bleibende Schäden. Operativ muss nur eingegriffen werden, wenn eines oder beide Fenster des Innenohres beschädigt sind oder sich eine Perilympfistel gebildet hat.
+
+Die Prognose eines Knalltraumas ist generell sehr gut. In der Regel erfolgt eine Besserung innerhalb von sechs Wochen nach dem Ereignis, häufig bis zur völligen Wiederherstellung. Zumeist nicht therapierbar sind jedoch Beschwerden, die noch nach Ablauf der sechs Wochen bestehen.
+
+Siehe auch 
+ Schalltrauma
+
+Einzelnachweise
+
+Literatur 
+ Friedrich Pfander: Das Knalltrauma – Analyse, Vorbeugung, Diagnose, Behandlung, Prognose und Begutachtung, Springer-Verlag, 1975, ISBN 978-3-642-86061-4
+
+Weblinks 
+ „Das Knalltrauma“ Sammlung von Belegen auf knalltrauma.ch
+
+Hören
+Ohrkrankheit
+Hörbehinderung

@@ -1,0 +1,21 @@
+La dépression à long terme (DLT) est « une réduction durable de l'efficacité de la transmission synaptique qui fait suite à certains types de stimulation ».
+
+Fonctionnement 
+
+Dans la dépression à long terme l'efficacité synaptique se trouve réduite. Cela est dû au fait que les éléments pré-synaptiques et post-synaptiques des neurones ont une décharge nerveuse asynchrone ou ne déchargent plus d'influx nerveux. La puissance de l'influx nerveux est influencée par la participation des récepteurs NDMA, et de leur influx calcique (Ca²+). Lorsque celle-ci est faible, nous constatons une DLT des synapses, qui est à opposer avec la potentialisation à long terme (PLT). En effet, plus il y a de NDMA présent dans les récepteurs et plus la transmission synaptique (PLT) est renforcée. Quand l'activation des récepteurs NDMA est augmentée, de nouveaux récepteurs appelés AMPA sont insérés dans la dendrite concernée, et l'activité de la synapse s'en voit amplifiée.
+Ainsi, dans la DLT, l'entrée d'ions calcium est réduite, réduisant le taux de récepteurs AMPA, la conséquence à long terme est « l'élimination synaptique ».
+
+De plus, la réduction du nombre de neurones post-synaptiques « stimule la réduction de l'axone pré-synaptique ». Dans le processus de polarisation, quand les synapses sont sujettes à la DLT, cela va affecter le neurone dont l'activité va être réduite d'une part, et dont le potentiel réceptif à d'autres afférences va aussi être réduit d'autre part. Cela va créer une DLT pour les autres synapses qui entrent en contact avec lui.
+
+Cette réduction moléculaire est causée par la privation d'informations venant de l'environnement du sujet, par exemple quand on prive les souris de leur vue, la rétine se trouve privée d'informations visuelles, inhibant les récepteurs NDMA et altérant la survenue de récepteurs AMPA, permettant à l'activité de la synapse de fonctionner. La décharge entre les synapses associée est désynchronisée, amenant la baisse de l'activité synaptique. 
+
+Une transmission synaptique associée à une forte dépolarisation de l'élément post-synaptique amène une PLT de la synapse active, en effet les ions Mg²+ sont supprimés, ce qui permet aux ions Ca²+  d'entrer dans le neurone
+-une transmission synaptique associée à une forte polarisation de l'élément post-synaptique amène un dysfonctionnement  de la synapse active, les ions Mg²+ bloquent l'entrée des ions Ca²+. Cependant, le phénomène de PLT est plus susceptible d'intervenir avant que le potentiel d'action (PA) post-synaptique ait été déclenché. Et le phénomène DLT est plus susceptible d'intervenir après que le PA post-synaptique ait été déclenché.
+
+En reprenant la théorie de Hebb : pour qu'une synapse se développe de façon significative, son activité doit être corrélée avec une « activation intense de l'élément post-synaptique ». Par exemple, en 1992, Serena Dudek et Mark Bear montrent que la stimulation tétanique à basse fréquence (1-5 Hz) des collatérales de Schaffer provoque un affaiblissement de la transmission synaptique.
+
+Les chercheurs estiment que la moitié environ des récepteurs AMPA est remplacée toutes les quinze minutes. Pourtant, tant que PLT et DLT n'interviennent pas, la transmission synaptique reste stable. Cette stabilité est déterminée par la taille d'un complexe appelé protéine slot. Quand cette taille ne change pas, alors l'intensité de la transmission synaptique est inchangée et reste stable. Si la taille grossit ou diminue, alors sa taille vient à s'agrandir ou à baisser. Plus la taille est en hausse et plus la synapse court vers une PLT, à l'inverse, plus la taille est en baisse et plus la synapse tend à être dans une phase de DLT.
+
+Notes et références 
+
+Neurophysiologie

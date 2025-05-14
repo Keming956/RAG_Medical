@@ -1,0 +1,77 @@
+Als Leishmanien (Leishmania, nach William Boog Leishman benannt) bezeichnet man eine Gattung von geißeltragenden Protozoen, die sich im Blut in Makrophagen vermehren (Hämoflagellaten). Leishmanien leben obligat als intrazelluläre Parasiten mit einem Wirtswechsel zwischen Insekten (Sandmücken, Schmetterlingsmücken) und Wirbeltieren (Schafe, Hunde, Menschen).
+
+Das durch Leishmanien hervorgerufene Krankheitsbild bezeichnet man als Leishmaniose.
+
+Verbreitung 
+Leishmanien sind mit Ausnahme von Australien auf der ganzen Welt verbreitet. Sie gelten als Auslöser vieler Tierseuchen. Der Mensch wird von weniger Arten befallen. Nach Schätzungen der WHO gibt es jährlich weltweit etwa 1,5 Millionen Neuerkrankungen an kutaner Leishmaniose und ca. 500.000 an viszeraler Leishmaniose. Etwa zwölf Millionen Menschen sind zurzeit mit Leishmanien infiziert.
+
+Merkmale 
+Wie alle Flagellaten ändern Leishmanien ihre Form und die Position der Geißel je nach Wirt und Entwicklungsstadium (siehe: Trypanosomen). Jedoch sind die Leishmanien im Durchschnitt etwas kleiner (Promastigot: 20 Mikrometer, Amastigot: 2 µm).
+
+Lebenszyklus 
+
+Die Vermehrung der Leishmanien läuft in zwei Wirten ab. Von der Sandmücke werden mit dem Speichel beim Stich promastigote (geißeltragende) Formen abgegeben, die im  Wirbeltier von einem Makrophagen (Fresszelle) phagozytiert werden (passive Invasion) und sich dort in eine amastigote (unbegeißelte) Form umwandeln. In dem Makrophagen findet eine Vermehrung durch Teilung statt. Nach Zerstörung der Wirtszelle werden die amastigoten Formen frei und sind in der Lage, in andere Makrophagen einzudringen. Nimmt eine Sandmücke den Erreger aus dem Gewebe oder dem Blut auf, ist der Kreislauf geschlossen. Im Mückendarm wandeln sich die Leishmanien wieder zur promastigoten Form um. Diese wandert über eine abermals amastigote Form im Darmepithel nun in die Speicheldrüse der Mücke und erneut kann eine Infektion erfolgen.
+
+Schadwirkung 
+
+Bei den Krankheiten, die von Leishmania hervorgerufen werden (Leishmaniosen), unterscheidet man zwischen kutanen Formen („Orientbeule“) und viszeralen Formen („Kala Azar“). Bei der Orientbeule siedeln sich die Leishmanien bevorzugt in Makrophagen unter und im Hautgewebe an. Diese verläuft meist nicht tödlich. Wenn sie jedoch in innere Organe (Milz, Leber, Darm, Lymphknoten und Knochenmark) eindringen und dort Makrophagen befallen, kann es zu Hepatosplenomegalie-Symptomen (krankhafte Vergrößerung von Milz und Leber) kommen, die unbehandelt in 90 % der Fälle durch Störungen der Blutgerinnung und zusätzliche Sekundärinfektionen tödlich verlaufen. Eine überstandene Leishmaniose führt zu einer lang andauernden oder lebenslangen Immunität.
+
+Der Verlauf einer Leishmaniose ist sehr vom Immunstatus des Patienten abhängig. Bei HIV-Patienten gibt es häufig symptomarm verlaufende Infektionen (ohne Splenomegalie), die trotz Therapie und Rezidivprophylaxe eine mittlere Überlebensdauer von etwa einem Jahr zeigen. Die Häufigkeit von tödlich verlaufenden Infektionen ist besonders bei zusätzlicher Unterernährung sehr hoch.
+
+Siehe auch: Parasiten des Menschen
+
+Ablauf der Infektion im Detail
+
+Neutrophile Granulozyten – Trojanische Pferde für Leishmanien 
+Die Strategie des „Trojanischen Pferdes“ als Pathogenitätsfaktor von intrazellulären Mikroorganismen ist es, durch Makrophagen-Clearance von neutrophilen Granulozyten, die durch Apoptose ein „keine Gefahr“-Signal auf ihrer Oberfläche tragen, die Immunabwehr und deren Gedächtnisfunktion geschickt zu umgehen.
+
+Die von der Sandmücke übertragenen Parasiten der Art Leishmania major korrumpieren die Wirkung der ersten Abwehrreaktionen ihres Wirtsorganismus zu ihrem eigenen Nutzen und kehren sie von Fressen/Entzündung/Töten nach Fressen/keine Entzündung/kein Töten um. Sie machen sich die phagozytosefreudigen polymorphonukleären neutrophilen Granulozyten (PMN) entscheidend zu Nutzen für ein trickreiches Versteckspiel, in dem sie unerkannt vom Immunsystem die langlebigen Makrophagen befallen, um sich dort zu vermehren.
+
+Aufnahme und Überleben 
+Bei einer Infektion mit Mikroorganismen im Gewebe treten PMN aus der Blutbahn aus und wandern, angelockt von Chemokinen, in das betroffene Gebiet (Haut nach Insektenstich) ein. Dort beginnen sie unverzüglich mit ihrer Arbeit als „erste Immunabwehrfront“ und phagozytieren die Eindringlinge aufgrund ihrer fremden, aktivierenden Oberflächenstrukturen. Dabei entsteht ein lokaler Entzündungsprozess. Aktivierte PMN sezernieren nun Chemokine, vor allem IL-8, die weitere Granulozyten anlocken und zur Phagozytose anregen. Zusätzlich fördern bei einer Leishmanieninfektion bereits phagozytierte Leishmanien die Bildung von IL-8 durch PMN. Im Sinne der Parasiten klingt dies zuerst unlogisch. Dieser Mechanismus findet sich jedoch auch bei anderen obligat und fakultativ intrazellulären Mikroorganismen. Für solche Erreger gibt es mehrere Wege, innerhalb einer Zelle zu überleben. Überraschenderweise verursacht die Koinjektion von apoptotischen und lebenden Erregern einen weitaus fulminanteren Krankheitsverlauf als die alleinige Injektion mit lebenden Parasiten. Das normalerweise auf der Oberfläche von apoptotischen Zellen gefundene antiinflammatorische Signal Phosphatidylserin schaltet, bei Leishmania major vorkommend, den oxidativen Burst der Granulozyten aus, weshalb kein Töten und kein Abbau der lebenden Erreger erfolgt. Eine Vermehrung in den Granulozyten findet nicht statt, jedoch können die Erreger so unerkannt und daher unbekämpft im primär infizierten Gewebe persistieren. Weiterhin sind die promastigoten Formen der Leishmanien fähig, ein bestimmtes Chemokin zu produzieren, den Leishmania chemotactic factor (LCF), der die Chemotaxis für PMN steigert, nicht aber für andere Leukozyten (NK-Zellen, Monozyten). Dazu wird die Bildung des interferoninduzierbaren Chemokins CXCL 10 in den infizierten PMN gestoppt, was die Aktivierung von NK- und Th1-Zellen zusätzlich verhindert. Während der Phagozytose bleiben die Parasiten am Leben, da ihre primären Wirtszellen (PMN) durch die Ausprägung von apoptotic cell associated molecular patterns (ACAMP) „kein Erreger“ signalisieren.
+
+Persistieren und Anlocken 
+Die natürliche Lebensdauer von Granulozyten ist relativ kurz und beträgt durchschnittlich 6 bis 10 Stunden im peripheren Blut, wonach sie sich einer spontanen Apoptose unterziehen. Bei infizierten PMN mit der Gattung Leishmania major konnte beobachtet werden, dass die Zeitdauer bis zur Apoptose durch eine Hemmung der Caspase-3-Aktivierung um etwa 2 bis 3 Tage verlängert wird. Das begünstigt den Infektionsverlauf, da die eigentlichen Wirtszellen der Leishmanien, die Makrophagen, in welchen auch die Vermehrung und Entwicklung stattfindet, erst 2 bis 3 Tage nach den PMN in das Entzündungsgewebe einwandern. Die Parasiten veranlassen zudem die Granulozyten dazu, die Chemokine MIP-1α / CCL3 und MIP-1β / CCL4 (macrophage inflammatory protein) auszuschütten, um damit die Makrophagen anzulocken.
+
+„Silent Phagocytosis“ 
+Um die Integrität des umliegenden Gewebes vor den Zellgiften und proteolytischen Enzymen aus den Granulozyten zu schützen, werden die apoptotischen PMN von Makrophagen abgeräumt. Das „iss mich“-Signal wird hier von Phosphatidylserin dargestellt, welches sich im Prozess der Apoptose auf die Außenseite der Zytoplasmamembran umlagert. Durch die verzögerte Apoptose werden die in den PMN persistierenden Leishmanien letztendlich über ein völlig physiologisches Abräumgeschehen von den Makrophagen aufgenommen.
+Der Weg über diese „leise Phagozytose“ hat folgende Vorteile für die Infektion:
+
+ Die Aufnahme von apoptotischem Material dämpft die Makrophagenaktivität, wodurch auch keine Abwehrmechanismen gegen den intrazellulären Parasiten aktiviert werden und die Erreger überleben.
+ Intrazellulär in PMN liegende Erreger haben keinen direkten Kontakt zu den Makrophagen-Oberflächenrezeptoren, da diese den Parasiten innerhalb der apoptotischen Zelle nicht wahrnehmen. Somit erfolgt keine Aktivierung der Fresszelle und des Immunsystems.
+
+Arten 
+
+ Leishmania aethiopica
+ Leishmania donovani
+ Leishmania enriettii
+ Leishmania infantum
+ Leishmania major
+ Leishmania mexicana
+ Leishmania amazonensis
+ Leishmania tropica
+ Leishmania tarentolae
+
+ Paleoleishmania proterus. Die Gattung Paleoleishmania wurde als Sammeltaxon für fossile Trypanosomatida errichtet, die mit Sandfliegen assoziiert sind. In kreidezeitlichem Burmesischem Bernstein wurde im Körperinneren einer Sandfliege und einer Stechmücke Blut gefunden, in dem sich Mikroben befanden, die als Paleoleishmania proterus beschrieben worden sind. Dieser Fund war Anlass zu Spekulationen, dass der Krankheitserreger einen Beitrag zum Aussterben der Dinosaurier geleistet haben könnte.
+
+Literatur
+
+Artikelgrundlage 
+ Thomas Berg, Norbert Suttorp (Hrsg.): Infektionskrankheiten. [verstehen, erkennen, behandeln] ; 93 Tabellen. Thieme, Stuttgart 2004, ISBN 3-13-131691-8.
+ Helmut Hahn, Hahn-Falke-Kaufmann-Ullmann, Paul Klein, Konstanze Vogt: Medizinische Mikrobiologie und Infektiologie. 5., vollständig aktualisierte Auflage, Springer, Berlin/ Heidelberg 2005, ISBN 3-540-21971-4.
+
+Weiterführend 
+ Ger van Zandbergen u. a.: „Leishmania“ disease development depends on the presence of apoptotic promastigotes in the virulent inoculum. In: Proceedings of the National Academy of Sciences. (PNAS) Band 103, Nr. 37, September 2006, , S. 13837–13842, .
+ T. Laskay, G. van Zandbergen, W. Solbach: Neutrophil granulocytes – Trojan horses for „Leishmania major“ and other intracellular microbes? In: Trends in microbiology. Band 11, Nr. 5, Mai 2003, , S. 210–214.
+
+Einzelnachweise
+
+Weblinks 
+
+ Webseite der WHO zu Leishmaniose
+ Informationen des Robert Koch-Instituts
+
+Parasit bei Säugetieren
+Euglenozoen
+Tiermedizinische Parasitologie
+Medizinische Parasitologie

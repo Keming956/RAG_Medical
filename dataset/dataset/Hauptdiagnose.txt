@@ -1,0 +1,21 @@
+Im Deutschen DRG-System ist bei einer Krankenhausbehandlung die Hauptdiagnose definiert als:
+
+"Die Diagnose, die nach Analyse als diejenige festgestellt wurde, die hauptsächlich für die Veranlassung des stationären Krankenhausaufenthaltes des Patienten verantwortlich ist."
+
+Dabei bedeutet "nach Analyse", dass der Verlauf der Krankenhausbehandlung und die dabei erhobenen Befunde berücksichtigt werden. Da die Hauptdiagnose jedoch die stationäre Behandlung veranlasst haben muss, kann keine Diagnose als Hauptdiagnose gelten, die sich erst im Verlauf der Behandlung – beispielsweise als Komplikation – entwickelt hat, es sei denn, die Komplikation erbrachte mehr Aufwand als die Aufnahmediagnose.
+
+Beispiel
+Ein Patient wird wegen eines Sturzes im Rahmen eines Schwindelanfalles ins Krankenhaus eingeliefert. Die Aufnahmediagnose ist der Schwindelanfall. Im Verlauf der Untersuchung und Behandlung stellt sich heraus, dass die Ursache des Schwindelanfalles ein entgleister Blutzuckerspiegel war. Daher ist die Hauptdiagnose der Diabetes mellitus (Zuckerkrankheit). Daran ändert sich auch nichts, wenn im Verlauf der Behandlung der Patient wegen Verwirrtheit aus dem Bett fällt, sich das Bein bricht und operiert werden muss. Auch wenn letztlich der Beinbruch und die Operation die aufwändigere und mit höheren Kosten verbundene Behandlung sein sollte, so wurde der Krankenhausaufenthalt nicht dadurch verursacht, sondern weiterhin durch den Schwindelanfall infolge des Diabetes mellitus. Der Diabetes mellitus bleibt Hauptdiagnose, der Beinbruch ist eine Nebendiagnose.
+
+Bedeutung
+Der Begriff der Hauptdiagnose hat in erster Linie keine medizinische Bedeutung, sondern er wurde aus Gründen der Abrechnung von Krankenhausbehandlungen definiert. Mit der Einführung der Fallpauschalen und Sonderentgelte 1996 war es für die Definition der Fallpauschalen erforderlich, eine Hauptdiagnose und eine Hauptleistung zu definieren. Allerdings orientierte sich dabei die Hauptdiagnosendefinition an dem Aufwand für die Behandlung der Diagnose. 
+
+Mit der Verwendung von DRGs zur Abrechnung wurde mit den Deutschen Kodierrichtlinien ein ganzes Regelwerk für die Verschlüsselung von Diagnosen und Leistungen (Prozeduren) entwickelt. Da Haupt- und Nebendiagnosen sowie Prozeduren wesentlich die DRG-Ermittlung beeinflussen und davon wiederum der Preis für die Krankenhausbehandlung bestimmt wird, ist eine einheitliche Verschlüsselung über die Krankenhäuser hinweg erforderlich. Diesem Ziel sollen die Kodierrichtlinien und die darin enthaltene Definition der Hauptdiagnose dienen. 
+
+Aufgrund der Bedeutung für die Abrechnung kam und kommt es um die korrekte Zuordnung der Hauptdiagnose immer wieder zu Auseinandersetzungen zwischen Krankenhäusern und den Krankenkassen bzw. dem Medizinischen Dienst der Krankenkassen (MDK), die in zunehmendem Maße auch über die Sozialgerichte ausgetragen werden.
+
+Einzelnachweise 
+
+Diagnostik
+Gesundheitswesen (Deutschland)
+Krankenhauswesen

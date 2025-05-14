@@ -1,0 +1,32 @@
+cdparanoia ist ein freier CD-Ripper von der Xiph.Org Foundation. Dabei sind als Zielformate rohe Audiodaten (so wie von CD gelesen und mit wählbarer Byte-Reihenfolge der Abtastwerte) und die unkomprimierten Audioformate RIFF WAVE, AIFF und AIFF-C möglich.
+
+cdparanoia ist primär als Back-end für andere, meist grafische Audio-CD-Leseprogramme, genannt CD-Ripper, und CD-Brennprogramme gedacht, die, statt eigene Programmfunktionen für das Lesen von Audio-CDs zu implementieren, auf das lange erprobte cdparanoia oder die darin enthaltene libparanoia zurückgreifen können.
+In dieser Form hat cdparanoia eine erhebliche Bedeutung auf der Linux-Plattform erlangt.
+
+Vorteile/Nachteile 
+Viele Laufwerksmodelle liefern den Audiodatenstrom mit sporadischen Aussetzern und Wiederholungen an den Computer an, wodurch ohne Gegenmaßnahmen Störgeräusche (z. B. Klickgeräusche) hörbar werden können. Da beim Auslesen einer CD (im Gegensatz zum Abspielen) keine Echtzeitanforderung vorliegt und mithin Daten mehrfach ausgelesen werden können, analysiert cdparanoia diese Daten und versucht, daraus einen Datenstrom ohne die beschriebenen Mängel zusammenzusetzen. cdparanoia verzichtet auf die Auswertung bzw. Bewertung der C2-Fehlerkorrektur-Informationen, die ohnehin nur von einigen CD-ROM-Laufwerksmodellen überhaupt (und von noch weniger Modellen zuverlässig) für das Betriebssystem bzw. die Anwendersoftware zur Verfügung gestellt werden. Weiterhin gleicht es den Leseoffset (im Millisekundenbereich liegende modellabhängige Abweichungen der tatsächlichen von der vom Laufwerk angeforderten Leseposition) nicht aus.
+
+Die Notwendigkeit dieses Vorgehens hat seine Ursache in der fehlerbehafteten Firmware der meisten Computer-CD-Laufwerke, die die Rohdaten meist nicht ohne Weiteres zuverlässig als kontinuierlichen Datenstrom bereitstellen können.
+
+Entwicklungsgeschichte 
+Die Xiph.Org Foundation entwickelt cdparanoia und stellt öffentlichen Lesezugriff auf die Versionsverwaltung (Subversion) bereit. cdparanoia begann als eine Sammlung von Anpassungen von cdda2wav. Diese ermöglichten gewisse Fehlerkorrekturmechanismen, deren Wirksamkeit war jedoch begrenzt und die Laufwerksunterstützung war noch sehr beschränkt. Mit der Veröffentlichung von Paranoia III im Januar 1998 wurde es eine eigenständige Bibliothek. Diese läuft jedoch nur auf Linux.
+Die Entwicklung stagnierte jedoch lange Zeit – es gab während mehr als einem Jahr keine Codeveränderungen und die Seite wurde seit 2002 nicht mehr aktualisiert. Im August 2006 wurde die Entwicklung wieder aufgenommen und eine Vorabversion der Version 10.0 herausgegeben.
+Ab Version 10.2 (vom 11. September 2008) wird auch das Übergehen des Laufwerkslesepuffers unterstützt. Die aktuelle Entwicklerversion unterstützt nicht das Auslesen von Metadaten und kann nicht mit CDs umgehen, auf denen sich defekte Metadaten befinden (z. B. ein defektes Inhaltsverzeichnis oder ein Audiotrack, der als Datentrack verzeichnet ist).
+Als libparanoia ist ein Großteil des Funktionsumfangs der cdparanoia wieder in cdda2wav zurückgeflossen.
+
+Ausblick 
+Paranoia IV, die zukünftige Entwicklerversion seit 1999, wurde als flexibler, portabler und leistungsfähiger angekündigt. Einige der geplanten Merkmale waren die Unterstützung von CD-Laufwerken für die parallele Schnittstelle, das Erkennen und Entfernen von Pregaps sowie Portierungen für NetBSD und Solaris. Mittlerweile beschränken sich die Pläne darauf, ein Update für Paranoia III zu schaffen, welches das Auslesen von stark beschädigten Medien und die Fehlerbehandlung verbessert. Bislang ist dazu aber noch kein Code in den Repositories aufgetaucht.
+
+Siehe auch 
+ Audio-CD-Standard
+
+Weblinks 
+ CDDA Paranoia
+ Bedienungsanleitung zu cdparanoia
+ Hydrogenaudio-Seite zu cdparanoia
+
+Einzelnachweise 
+
+Freie Audiosoftware
+Linux-Software
+Xiph.Org Foundation

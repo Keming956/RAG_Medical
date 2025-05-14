@@ -1,0 +1,81 @@
+Eine Gangstörung ist eine Störung des Bewegungsapparats. Die Ursachen liegen entweder auf orthopädischem, neurologischem oder psychiatrischem Gebiet. Synonyme: Abasie, Dysbasie, pathologischer Gang, Gangbildstörung, Gehstörung.
+
+Klinische Prüfung 
+
+Die Gangprüfung erfolgt zunächst klinisch, also ohne technische Hilfsmittel:
+ Prüfung des normalen Gangbildes
+ Gehen: Schrittweite, Geschwindigkeit, Start und Anhalten, Bodenkontakt und Abrollen
+ Bewegung in den großen Gelenken, Abrollen an Fuß und Zehen
+ 180°-Wende (benötigte Schrittzahl)
+ Prüfung unter erschwerten Bedingungen
+ Seiltänzergang (ein Fuß vor den anderen auf einer gedachten Linie)
+ Zehen- bzw. Hackengang (zur Prüfung von Lähmungen)
+
+Weitere Prüfungen sind mit entsprechender Ausrüstung auf einem Laufband oder unter Videometrie möglich, dabei können auch Analysen mittels Computer durchgeführt werden. Dies spielt in der Rehabilitation, mehr aber noch in der Forschung oder Sportmedizin eine Rolle.
+
+Orthopädisch bedingte Gangstörungen 
+
+ Hinken bei angeborener Hüftgelenksdysplasie oder erworbener Luxation des Gelenkes
+
+ Hüfthinken resp. Duchenne-Hinken/Trendelenburg-Hinken, myopathischer Gang (engl.: myopathic gait/waddling gait)Ursachen: Muskeldystrophie Duchenne oder andere MuskeldystrophienBeschreibung: seitliche Neigung des Rumpfes zum betroffenen Standbein, bei Neigung des Beckens zur gesunden Seite: Trendelenburg-Hinken, bei Neigung des Beckens zur kranken Seite: Duschenne-Hinken
+
+ VersteifungshinkenUrsachen: Coxarthrose, Morbus Perthes, bei Gelenkversteifungen oder Schmerzen im Bereich der Hüfte, Knie- oder SprunggelenkBeschreibung: Becken wird beim Gehen unterstützend auf die betroffene Seite gedreht.
+
+Auch Abweichungen beim Abrollen des Fußes können zu einer Gangstörung führen. Das Abrollen erfordert eine Beweglichkeit in der Dorsalextension des Sprunggelenks ebenso wie der Zehen. Ist das Abrollen behindert – etwa aufgrund eingeschränkter Beweglichkeit oder einer Fehlstellung des Fußes –, ändert sich das Gangbild, und es kann zu Schmerzen und einem verstärkten Verschleiß in anderen Körperregionen kommen. Abweichungen von der zu erwartenden Ganglinie (dem Pfad des Schwerpunktes der Druckverteilung beim Abrollen des Fußes) können Hinweise auf mögliche Überlastungsschäden, eine eventuelle frühzeitige Alterung von Knorpelflächen oder ein physiologisches Muskelungleichgewicht sein. So behindert beim Hallux rigidus (auch „Steifzeh“ genannt) eine Versteifung des Großzehengrundgelenkes das Abrollen und führt zu einer Schonhaltung, bei der das Gewicht auf den Außenrand verlagert wird. Auch beim Innengang, der meist infolge eines Senkfußes oder Knicksenkfußes auftritt, rollt der Fuß nicht wie vorgesehen über den Großzeh, sondern über die Außenseite ab. Durch die Fehlbelastungen kann es u. a. zu einem Mittelfußschmerz (Metatarsalgie) und einem verstärkten Gelenkverschleiß kommen.
+
+Neurologisch bedingte Gangstörungen 
+
+ Parkinsonsches Gangbild resp. akinetisch-rigide Gangstörung / kleinschrittiger Gang (engl.: parkinsonian gait/festinating gait/shuffling gait)  Ursachen: Parkinson-Syndromen, Nebenwirkung von Haloperidol oder anderen Wirkstoffen Beschreibung: Generalisierter Rigor & Bradykinesie/Hypokinesie (der Arme beim Gehen), kleinschrittiges, trippelndes Gangbild (marche a petits pas/magnetischer Gang), Tendenz zur Vorwärtsneigung des Kopfes und Propulsion/Retropulsion (Tendenz nach vorne bzw. hinten zu fallen) und dadurch Festination (immer schnelleres Gehen, um nicht nach vorne zu fallen), Schwierigkeit beim Initiieren des Ganges und Drehung auf der Standposition
+
+ Hydrozephalus-bedingte GangstörungUrsachen: Hydrozephalus, Normaldruckhydrozephalus, (dieselbe Symptomatik: Morbus Binswanger)Beschreibung: Ähnelt dem parkinsonschen Gangbild im Bezug auf das kleinschrittiges, trippelndes Gangbild, jedoch ohne Rigor oder Tremor. Variable Symptomatik je nach Schweregrad: mild (vorsichtiges Gehen und Schwierigkeiten beim Seiltänzergang), ausgeprägt (Schwierigkeiten beim normalen Gehen, magnetischer Gang und unstabiles Gangbild) & schwer (Gehen ohne Unterstützung unmöglich). Siehe Hakim-Trias.
+
+ Wernicke-Mann-Gangbild (engl.: hemiparesis/hemiplegic gait)Ursachen: Meist nach Schlaganfall, bei spastischer Halbseitenlähmung (Hemiparese) Beschreibung: Unilaterale Schwäche an der betroffenen Seite, Fuß wird kreisförmig nach vorne geschoben.
+
+ Spastischer Gang resp. Scherengang (engl.: diplegic gait/spastic gait/scissor gait)Ursachen: bilaterale, periventrikuläre Läsion, wie bei der Infantilen ZerebralpareseBeschreibung: Bilaterale Schwäche, Füße werden beim Gehen kreisförmig nach vorne geschoben.
+
+ Ataktischer Gang resp. Gangataxie/torkelnder Gang/Zerebelläre Gangstörung (engl.: ataxic gait)Ursachen: bei Störungen der Kleinhirnfunktion (siehe Ataxie) oder Alkoholintoxikation Beschreibung: beim Stehen & Stillstand; hin und her taumelnder Körper (Titubation), tollpatschig wegen mangelnden Gleichgewichts
+
+ „Steppergang“ resp. Hahnentritt/Storchengang/(Lähmungshinken) (engl.: neuropathic gait/steppage gait/equine gait)Ursachen: HSN, Polyneuropathien, ALS, bestimmte Arten von Bandscheibenvorfällen Beschreibung: fehlende Dorsoextension des Fußes beim Gehen und dadurch kennzeichnende, ausgeprägtere Hebung und Herabhängung des Fußes als Gangbild
+
+ Choreatische Gangstörung (engl.: choreiform gait)Ursachen: Chorea minor, Chorea Huntington und andere Formen von Chorea, Athetosis oder DystonieBeschreibung: hyperkinetische Körperbewegungen; unregelmäßiges und unruhiges Gangbild
+
+ Tabetischer Gang resp. Fuß-Stampfen bzw. durch sensible Ataxie bedingte Gangstörung (engl.: tabetic gait)Ursachen: u. a. Tabes dorsalis, funikuläre Myelose, Primärer Orthostatischer TremorBeschreibung: Mangelnde Propriozeption; dadurch folgt ein härteres Aufschlagen der Füße beim Gehen, um den fehlenden sensorischen Input auszugleichen.
+
+ Sturzattacke (engl.: drop attack)Ursachen: Kataplexie (Narkolepsie), Orthostatischer Tremor (Parkinson, Primärer Orthostatischer Tremor), Klonus (bspw. hepatische Enzephalopathie), Vertigo (bspw. Morbus Menière), zerebrovaskuläre Störungen, Herzerkrankungen. Erkrankung unter Ziegen: Myotonic goatsBeschreibung: Plötzlicher (kurzandauernder) Tonusverlust ohne Bewusstseinsverlust führt zum Hinfallen (bei Ziegen: Hypertonie/Myotonie).
+
+Gangabweichungen nach der Seite treten auch bei Gleichgewichtsstörungen auf, stehen dabei aber meist nicht im Vordergrund.
+
+Psychogene Gangstörungen 
+Psychogene Gangstörungen kommen häufiger vor als gemeinhin angenommen. Sie werden in der Psychiatrie nach dem ICD-10 als dissoziative Bewegungsstörungen unter die dissoziativen Störungen subsumiert. Dissoziative Bewegungsstörungen machen nach Myasaki et al. 2,6 bis 25 % der Bewegungsstörungen in neurologischen Abteilungen aus. Davon wiederum entfielen 32,8 % auf den psychogenen Tremor, 25 % auf die psychogene Dystonie, 25 % auf den psychogenen Myoklonus, 6,1 % auf den psychogenen Parkinsonismus und 10,9 % auf die psychogene Gangstörung.
+
+Nach Feinstein ist die Komorbidität mit anderen psychischen Erkrankungen beträchtlich: 38 % bei Angststörung, 19 % schwere Depression, 12 % Angsterkrankung und Depression. Eine ambulante Psychotherapie könne die Symptomatik signifikant verbessern.
+
+Miyasaki 
+Anamnestische Hinweise auf eine psychogene Gangstörung sind nach Miyasaki plötzlicher Beginn, statischer Verlauf, Spontanremissionen (nicht anhaltend), psychiatrische Auffälligkeiten, multiple Somatisierungen, Patienten im Gesundheitsbereich tätig, finanzielle Entschädigung, sekundärer Krankheitsgewinn, jung und weibliches Geschlecht.
+
+Das klinische Erscheinungsbild der Bewegungen deute dann auf eine psychogene Gangstörung hin, wenn folgende Parameter erfüllt seien: unregelmäßig (Frequenz, Amplitude, Verteilung usw.), paroxysmal, bei Beobachtung vermehrt, bei Ablenkung vermindert, kann durch unübliche oder unphysiologische Interventionen getriggert oder beendet werden, widersprüchliche Schwäche, widersprüchliche Sensibilitätsstörungen, artifizielle Verletzungen, bewusste Langsamkeit, Funktionseinschränkung mit neurologischer Untersuchung im Widerspruch, bizarr, multiple Anteile, schwierig zu klassifizieren.
+
+Hayes 
+Hayes und seine Mitarbeiter stellten 20 Kriterien zusammen, die ihrer Ansicht zufolge auf eine psychogene Gangstörung verweisen könnten, wenn mehrere davon zusammentreffen; darunter multiple Symptome, Widersprüche bei der Bewegungseinschränkung, plötzlicher Beginn und plötzliche Heilung, Beginn mit Verzögerung nach Unfall, Variabilität der Symptome, primärer und sekundärer Krankheitsgewinn, psychiatrische Komorbidität, ein Vorbild für das Vorliegen einer Gangstörung in der Umgebung des Patienten, Fluktuationen, konvulsives Schütteln, „bizarres“ Gangbild, neurologische Untersuchung unauffällig, unphysiologische Sensibilitätsverluste und die Art der Darstellung.
+
+Veränderungen im Rahmen von Syndromen 
+Gangstörungen können bei nachstehenden Erkrankungen auftreten:
+ Arthrogryposis multiplex congenita
+ Cri du Chat
+ Dandy-Walker-Fehlbildung
+ Morbus Gaucher
+ Pierre-Robin-Sequenz
+ Rett-Syndrom
+ Williams-Beuren-Syndrom
+
+Im Alter 
+Im Alter treten häufig Schwindel und Gangunsicherheit auf. Sie sind gut behandelbar, wenn es gelingt, spezifische Defizite zu identifizieren.
+
+Einzelnachweise
+
+Weblinks 
+ 
+ https://stanfordmedicine25.stanford.edu/the25/gait.html
+
+Krankheitsbild in der Neurologie
+Krankheitsbild in Orthopädie und Unfallchirurgie

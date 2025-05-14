@@ -1,0 +1,95 @@
+L'histoire de l'autisme est liée à la terminologie  qui a été plusieurs fois utilisée distinctement au cours de l'histoire pour isoler et définir des observations nouvelles, les deux principales étant : la création du terme dautisme pour désigner une attitude singulière chez le jeune adulte schizophrène, par Eugen Bleuler en 1911, et le réemploi de ce terme pour identifier un trouble infantile, par Leo Kanner et Hans Asperger en 1943.
+
+Deux troubles infantiles ont été identifiés en 1943, l'un par Leo Kanner et l'autre par Hans Asperger. Le second étant un temps tombé dans l'oubli, le terme d'« autisme » a renvoyé à la description faite par Kanner, jusqu'à ce que le second soit redécouvert et qu'une unité soit mise en évidence par Lorna Wing. C'est cet ensemble défini par une triade autistique qui fait référence pour diagnostiquer et définir l'autisme, mais les limites de la notion et le cadre exact de sa définition restent sujets à controverse.
+
+ Limite d'application et terminologie 
+Jacques Hochmann, dans son livre Histoire de l'autisme : de l'enfant sauvage aux troubles envahissants du développement, utilise une acception qui va au-delà des limites couramment données au mot autisme, mais dans l'histoire seule la notion de 1911 donne une définition au mot « autisme » seul, définition qui ne correspond plus à la désignation actuelle.
+
+Les acceptions ultérieures qui ont délimité l'acceptation actuelle d'un trouble infantile précoce ont été nommées distinctement : Léo Kanner parle de trouble autistique du contact affectif puis d'''autisme infantile (précoce), Hans Asperger de psychopathie autistique, et Lorna Wing de continuum autistique renommé spectre autistique. C'est pourtant toujours d'autisme qu'il est plus couramment question y compris dans la recherche, l'épidémiologie, ou encore dans la prise en charge, par exemple en 2012 dans les recommandations pour la pratique professionnelle du diagnostic de l'autisme.
+
+En 2012, cet ensemble est inclus dans les troubles envahissants du développement de la classification internationale des maladies de l'OMS (CIM-10 F84). Cet ensemble tend à devenir celui des « troubles du spectre autistique » dans le DSM à venir courant 2013 et servant d'appui à la prochaine CIM, mais le sujet reste largement débattu.
+
+On remarque ainsi que souvent une distinction est faite entre ce qui serait de l'autisme et ce qui n'en serait pas au sein du sur-ensemble des TED. Les sous-catégories F84.0 (autisme infantile), F.84.5 (syndrome d'Asperger), et F.84.1 (autisme atypique) sont les plus fréquemment incluses dans les décomptes épidémiologique qui donnent généralement un pourcentage de personne autiste, alors que les sous-catégories 2, 3 et 4 de cette catégorie F.84 sont le plus souvent exclues. On retrouve cette même distinction entre Autisme et autres troubles envahissants du développement quand il est question de faire un état des connaissances sur le sujet.
+
+ Étymologie 
+
+Le terme d' est une traduction du mot Autismus créé par le psychiatre Eugen Bleuler en 1911 dans l'ouvrage de langue allemande : Dementia praecox oder Gruppe der Schizophrenien, traduit en français par . Il est créé sur la base du radical grec « αὐτος » qui signifie « soi-même ». Bleuler précise que l'autisme est à peu près la même chose que ce que Sigmund Freud appelle l'auto-érotisme, mais il explique qu'il souhaite en supprimant le radical /éros/ se démarquer de la référence de Freud à une conception élargie de la sexualité qui risque de « donner lieu à de nombreuses méprises ».
+
+Freud en parle avant la parution de l'article fondateur dans la lettre à Carl Jung du . Il y revendique la correspondance avec « sa » notion d'auto-érotisme et témoigne que Bleuler est sciemment opposé à cette appellation : 
+
+Le terme « ipsisme », tiré du latin « ipse » qui signifie également « soi-même » valide la référence étymologique.
+
+ Contexte des schizophrénies 
+ Théories liées à la création du terme 
+
+Eugen Bleuler a créé le mot autisme pour désigner une attitude, une adaptation particulière, secondaire à une problématique décrite dans le cadre des schizophrénies.
+
+Le mot schizophrénie est créé conjointement, et utilisé au pluriel car il était question du « groupe des schizophrénies », un ensemble qui visait à faire évoluer le principe jusque-là utilisé de démence précoce, qui, par opposition à la démence sénile, concernait de jeunes adultes dans le classement établi par Emil Kraepelin. Il désigne par ce groupe des schizophrénies un ensemble de figures cliniques où l'affaiblissement intellectuel n'est pas toujours présent, et qui ont en commun une défaillance du mécanisme associatif. Jacques Hochmann décrit ainsi ce mécanisme : normalement, au moment d'agir, il se crée une « étroitesse de conscience » par une fixation des idées en rapport avec le but poursuivi. L'absence de cet élément régulateur, qui permet selon une théorie partagée avec Freud d'organiser les émotions issues de l'histoire de vie, ferait que la personne reste en prise avec des émotions diverses coexistant parallèlement, et qu'il nomme Ambivalence. Bleuler parle sur cette base de morcellement de la personnalité en fragments, et il utilise le terme allemand Spaltung, que l'on traduit par clivage, ce qui renvoie aussi au syndrome dissociatif, d'où le terme schizophrénie, du grec « σχίζειν » et « φρήν », littéralement « fractionnement de l'esprit ».
+
+Dans ce contexte, il envisage que les symptômes observés au sein de ce groupe puissent être primaires (directement issus d'un dysfonctionnement organique), ou secondaires (issus d'un effet adaptatif au symptôme primaire). Il écrit : . Il distingue dans ces symptômes secondaires trois « stratégies » de confrontation avec la réalité (sous-entendu collective, extérieure, unitaire, commune) :
+ l'écarter ou l'ignorer. C'est ce qu'il appelle lautisme la reconstruire, il évoque des psychoses hallucinatoires de désir
+ la fuir, par un comportement de désocialisation ou de plainte somatique rapprochée à l'hypocondrie
+
+Bleuler insiste sur le fait que le « défaut de rapport affectif » ne correspond pas à une « perte de la fonction du réel », et il précise que si les « schizophrènes autistes », , c'est parce qu'ils cherchent à maintenir un « monde à soi » (d'où le terme autisme du grec auto, soi-même). Il précise que la plupart sont entre les deux et, tout en adhérant à leur conviction autistique, restent perméables à la réalité commune.
+
+ Contexte et évolutions des théories 
+
+Le principe d'une dégénérescence organique de la démence précoce (apparu en 1883) a déjà largement évolué en 1911, mais avec les nouvelles terminologies et une perception du groupe en question qui s'affine au fil du temps, il apparaît la nécessité d'identifier distinctement un trouble infantile, nommé à partir des années 1930 : « schizophrénie infantile ». En 1906, Carl Gustav Jung, assistant d'Eugen Bleuler de 1900 à 1907, publie un essai sur le sujet : Psychologie de la démence précoce. Jung y distingue une fixation des symptômes et une causalité qui ne peut être déterminée, ce sur quoi il postule la mise en cause d'un facteur métabolique ou d'une prédisposition organique cérébrale. Un autre psychiatre suisse, Adolf Meyer, futur directeur de Leo Kanner, propose une interprétation liée à une mécanique psychique en évoquant une « destruction prématurée de la naïveté ».
+
+Plus tard, en 1923, l'autisme est décrit sous la terminologie d'« attitude interrogative », avec un enchaînement de questions caractéristiques. Il est également question d'une perte de contact avec la réalité<ref>A. Antheaume, H. Claude, L'Encéphale, Journal de neurol. et de psych., éd. Delarue,  (source utilisée)</ref>. En 1927, Eugène Minkowski, ancien assistant de Beuler, fait écho aux travaux de ce dernier dans son livre La Schizophrénie . En 1926, Grounia Soukhareva décrit ce qu'elle nomme la psychopathie schizoïde de l'enfance au travers de six cas, ce qui est évoqué comme étant la première contribution à la description du syndrome plus tard décrit par Hans Asperger. Cette parution s'appuie sur une vingtaine de textes publiées depuis 1920 sur la schizophrénie, dont un sur le sujet plus précis du développement dans l'enfance des patients schizophrènes.
+
+En 1930, Mélanie Klein parle de schizophrénie infantile pour décrire des enfants pour lesquels elle évoque notamment un « manque de contact affectif » et des « stéréotypies ». Elle fut la première à publier deux descriptions de ce qui sera ensuite identifié comme l'autisme de Kanner. Soukhareva en 1932, comme Howard Potter en 1933, utilise également les termes de schizophrénie infantile. Lauretta Bender, développementaliste, propose un axe de séparation de la schizophrénie infantile en estimant que le processus biologique est globalement le même, mais qu'il n'a pas le même effet sur un cerveau développé dans toutes ses potentialités et un cerveau immature. Elle exonère également les mères de toute responsabilité directe, estimant que le rôle de l'environnement familial n'est pas premier.
+
+Une femme néerlandaise, sœur Gaudia (Ida Freye), introduit le terme « autisme » en 1937, des années avant que Kanner et Asperger (en 1943) ne parlent d'autisme infantile. Cette femme a ensuite travaillé avec des enfants présentant de graves troubles du développement, avec le psychologue Chorus, dans le sillage des phénoménologues néerlandais de l’époque. Elle a proposé une classification des troubles psychologiques chez les enfants, dans laquelle l'autisme s'inscrivait. Ce n'est pas sans importance, car à l'époque, ils proposaient déjà une combinaison d’un accompagnement mixte orthopédagogique et psychothérapeutique.
+
+Troubles infantiles autistiques 
+La notion clinique d'un trouble infantile, lié au groupe que forme les schizophrénies, mais bien particulier au point qu'il nécessite d'être distingué est donc dans l'air du temps, ce qui explique peut être cette double attribution de la terminologie par deux psychiatres germanophones en 1943 bien qu'ils n'aient pas connaissance de leurs travaux respectifs.
+
+Autisme infantile 
+
+En 1943, à Baltimore (aux États-Unis), le psychiatre Leo Kanner définit le tableau clinique d'un « trouble autistique du contact affectif » . Il réutilise donc un vocabulaire dont il n'ignore pas le préalable, d'abord sous forme d'adjectif pour décrire un « trouble autistique du contact affectif », nommé ensuite « autisme infantile précoce » (on parlera aussi plus tard  d'autisme de Kanner). Alors que Bleuler faisait de l'autisme un symptôme secondaire, .
+
+Cette rupture interprétative est incarnée dans sa présentation par le « cas  »" qu'il suit depuis cinq ans et dont les troubles étaient jusque-là identifiés sous diverses appellations liées aux psychoses de l'enfant; et pour lequel il hésite sur le diagnostic, pense à une forme de schizophrénie, avant finalement de décider qu'il s'agit d'une catégorie distincte. 
+La personne dont il est question a été récemment identifiée, il s'agit de Donald Triplett. C'est resté plus ou moins la définition commune à laquelle renvoie le mot autisme jusque dans les années 1980-1990.
+
+Psychopathie autistique 
+
+Parallèlement, le  à Vienne (en Autriche), le médecin autrichien Hans Asperger décrit la « psychopathie autistique » de quatre enfants qu'il appelle aussi ses « petits professeurs ». Très loin de se limiter à la définition de ce qui serait lacunaire, cette présentation met au contraire l'accent sur les capacités associées, probablement pour protéger ces enfants du régime nazi alors en vigueur. Écrites surtout en allemand et traduites pour la première fois en anglais en 1971, ces observations ne sont vraiment révélées au milieu médical qu'en 1981 grâce à l'étude de Lorna Wing, sous le nom de syndrome d'Asperger.
+
+Critères de références et tendances
+
+Intégration des théories 
+La théorie préalable à Bleuler était en soi issue d'un classement, de la nosographie établie par Kraepelin, et les travaux de Bleuler n'ont fait se substituer à la notion de démence précoce celle de , auquel appartenait l'autisme comme symptôme secondaire et pour certains la schizophrénie infantile comme .
+
+L'identification par Kanner d'un trouble autistique distinct de la schizophrénie intègrera doucement les classements de ces pairs de association américaine de psychiatrie (APA), le DSM : dans le premier en 1952 l'autisme n'apparait pas il est associé à une réaction schizophrénique, en 1968 dans la deuxième version il apparait comme un comportement dans le cadre d'une schizophrénie infantile, et en 1980 il est identifié distinctement sous le nom d'autisme infantile, catégorie renommée trouble autistique en 1987 en raison des polémiques que soulevait le terme infantile.
+
+L'utilisation faite par Asperger est, après sa redécouverte, assez rapidement reconnue distinctement puisqu'elle intègre en 1993 la Classification internationale des maladies (CIM-10), puis en 1994 le DSM-IV de façon sensiblement distincte :
+ la classification internationale des maladies (CIM-10) de l'OMS utilise les termes originaux (et utilise aussi les termes de syndrome de Kanner) et considère les deux diagnostics incompatibles ;
+ la classification américaine Manuel diagnostique et statistique des troubles mentaux (D.S.M. IV) utilise les termes de trouble envahissant du développement (Pervasive Developmental Disorder) et de trouble Asperger (Asperger's Disorder).
+
+La classification française des troubles mentaux de l'enfant et de l'adolescent pour sa part est restée très distante de ces évolutions de critères, car, explique Jacques Hochmann, « si le DSM vise à répertorier de façon consensuel des critères permettant d'obtenir des données statistique », son homologue français suppose « une prise en compte de l'intériorité de l'enfant », et « Le classement du cas n'est jamais définitif ». Cette distance étant sujette à de vives polémiques, en France des recommandations ont été faites pour informer au moins de la correspondance avec les critères de la classification internationale des maladies (la CIM-10 en 2010).
+
+Évolutions et tendances récentes 
+Dans les années 1990, en Amérique, apparaît la distinction d'un « autisme de haut niveau » (de l'anglais ) pour distinguer les personnes pour qui le diagnostic d'autisme est maintenu bien qu'elles aient acquis un niveau de compétence qui semblait auparavant incompatible avec le diagnostic d'autisme en termes d'autonomie et de vie sociale. C'est le cas de la première personne identifiée par Kanner, le « cas  »,Donald Triplett, récemment retrouvé par des journalistes.
+
+Cette possibilité d'évolution en dehors des critères diagnostiques a rendu plus floues les frontières entre les différentes « formes » d'autisme. La notion de « spectre autistique » est apparue dans les années 1990 pour rendre la notion de « continuum autistique », d'une famille de troubles ayant des traits communs, notamment la triade mise en évidence par Lorna Wing en 1982. Mais les limites d'attribution de chaque terminologie, les correspondances, inclusions ou exclusions entre les notions d'« autisme », de « spectre autistique » ou encore la catégorie diagnostique « trouble envahissant du développement » (ou TED), restent sujettes à de très actives controverses.
+
+En 2010, dans les recherches scientifiques, le terme « autisme » tend à être relié à un , en particulier à un défaut des cellules nerveuses au niveau des synapses, dont le caractère héréditaire serait lié à des combinaisons particulières de multiples facteurs génétiques communs. (voir aussi “Héritabilité de l'autisme”).
+
+Voir aussi
+
+Articles connexes 
+ Autisme
+ Eugen Bleuler
+Lorna Wing
+Triade de Wing
+
+Notes et références 
+
+   (Visualisation en ligne)
+
+Autisme
+Histoire de la psychiatrie
+
+de:Autismus#Historisches
+en:Autism#History

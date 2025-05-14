@@ -1,0 +1,46 @@
+Une dépression polaire est un système atmosphérique de basse pression de courte durée de vie, de faible diamètre mais très intense que l'on retrouve dans les eaux arctiques et antarctiques, en général au-delà du front polaire.
+
+Caractéristiques 
+
+Elles ont reçu plusieurs noms : nuage en virgule, cyclone de méso-échelle, tourbillon polaire de méso-échelle, ouragan arctique, dépression arctique et cyclone d'air froid. On réservera ce terme aux systèmes arctiques :
+
+ Donnant au moins des vents de force de coups de vent (35 nœuds ou 17 m/s) et d'un diamètre variant entre 100 et 400 km ;
+ Se formant en moins de 12 heures lorsque de l'air très froid en altitude envahit la bordure entre les glaces et la mer ouverte ;
+ Ayant tendance à se dissiper rapidement par friction et par perte de leur source de chaleur de surface en entrant sur la côte. Ceci ne leur laisse qu'un jour ou deux de vie en général.
+
+Leur développement explosif est surtout dû à la convection qui se produit alors et qui relâche beaucoup de chaleur latente. Des orages peuvent même être imbriqués dans ces systèmes. Des sondes lâchés par avion ont démontré qu'elles ont un "cœur chaud" similaire à un cyclone tropical comme un ouragan et les photos satellitaires montrent un œil de même type.
+
+Elles peuvent donner des vents de plus de 100 km/h près de leur centre dans une zone équivalente au mur de l'œil d'un ouragan. Elles donnent de la neige en quantité relativement faible mais les vents vont la soulever en poudrerie (chasse-neige élevée), réduisant fortement la visibilité et donnant des conditions de blizzard.
+
+Difficultés de signalement 
+Ces systèmes sont très compacts et passent dans des régions peu habitées, il est très difficile de les repérer par les rapports conventionnels de bateaux et de stations météorologiques terrestres. Par exemple, une dépression polaire tient très facilement à l'intérieur de la baie d'Hudson dans le nord du Canada et il est très possible de n'avoir aucun indice des stations côtières sur sa présence. Les marins des mers arctiques ont souvent signalé le passage de tempêtes intenses venues de nulle part même après le développement des télécommunications qui auraient pu les avertir de telles conditions météo. Elles peuvent donc avoir un impact important mais très localisé.
+
+Depuis l'avènement des satellites météorologiques dans les années 1960, leur repérage est devenu courant. Elles sont assez fréquentes à la limite des glaces en mer de Norvège, mer de Barents, mer du Labrador, dans le nord du golfe d'Alaska, dans le détroit de Davis et dans les baies de Hudson et Baffin. Dans ces deux dernières baies, les dépressions polaires ne se produisent pas toute l'année : elles disparaissent lors du gel complet de la banquise. Dans l'hémisphère sud, ces systèmes sont généralement moins forts car le gradient de température y est moins marqué.
+
+On remarque sur les photos plusieurs patrons caractéristiques dont des bras de nuages en spirales autour du centre, des nuages convectifs et un œil sans nuages pour les plus intenses. Celles plus au sud ont une configuration des nuages en virgule comme une dépression mature des latitudes moyennes.
+
+Prévision 
+La prévision du développement et de la trajectoire de ces dépressions est très difficile. En effet, comme elles ont une échelle réduite et sont fortement influencées par la convection, les modèles numériques de prévision ont besoin d'une fine résolution pour tenir compte de leur dynamique. Comme dans le cas des cyclones tropicaux, elles auront également tendance à se déplacer avec une circulation à méso-échelle qu'elles auront aidé à créer.
+
+Les modèles opérationnels actuels, comme le GEM canadien (Service météorologique du Canada) et le NAM américain (NOAA), ont des résolutions de l'ordre de 15 à  entre chaque point de grille. Ils peuvent générer des systèmes cycloniques où on retrouve des dépressions polaires mais généralement les pressions sont bien moins basses que la réalité et ils ont tendance à les déplacer trop rapidement. L'amélioration de la résolution et l'introduction d'une meilleure paramétrisation de la convection devraient aider dans le futur.
+
+Notes et références
+
+Annexes
+
+Bibliographie 
+ Rasmussen, E.A. and Turner, J.(2003). Polar Lows: Mesoscale Weather Systems in the Polar Regions, Cambridge University Press, Cambridge, .
+
+Articles connexes 
+ Cyclone
+
+Liens externes 
+  Étude de cas d'une dépression polaire dans l'arctique canadien
+  Plusieurs cas de dépressions polaires
+  Groupe de recherche européen sur les dépressions polaires
+  Climatologie arctique et météorologie de NSIDC
+  Polar Low Forecasting par MetEd de NCAR
+
+Polaire
+Géographie de l'océan Arctique
+Climat de l'océan Austral

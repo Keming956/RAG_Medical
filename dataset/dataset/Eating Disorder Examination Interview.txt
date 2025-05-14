@@ -1,0 +1,32 @@
+The Eating Disorder Examination Interview (EDE) devised by Cooper & Fairburn (1987) is a semi-structured interview conducted by a clinician in the assessment of an eating disorder.
+
+EDE
+The EDE is a semi-structured interview conducted by a trained clinician to assess the psychopathology associated with the diagnosis of an eating disorder. The EDE is rated through the use of four subscales and a global score. The four subscales are:
+
+1. Restraint
+2. Eating concern
+3. Shape concern
+4. Weight concern 
+ 
+The questions concern the frequency in which the patient engages in behaviors indicative of an eating disorder over a 28-day period. The test is scored on a 7-point scale from 0-6. With a zero score indicating not having engaged in the questioned behavior.
+
+EDE-Q
+
+The Eating Disorders Examination Questionnaire (EDE-Q) was adapted from the EDE. The EDE-Q is a 28 item self-report questionnaire. It retains the format of the EDE including the 4 subscales and global score. It also concerns behaviors over a 28-day time period and retains the scoring system of 0-6, with 0 indicating no days, 1=1–5 days, 2=6–12 days, 3=13–15 days,
+4=16–22 days, 5=23–27 days and 6= every day.
+
+See also
+Body Attitudes Test
+Eating Disorder Inventory
+Body Attitudes Questionnaire
+Eating Attitudes Test
+SCOFF questionnaire
+
+References
+
+Fairburn C, Cooper Z. The eating disorder examination. In: Fairburn C, Wilson G, editors. Binge eating: Nature, assessment, and treatment. 12. New York: Guilford Press; 1993
+
+External links
+ ANAD Anorexia Nervosa and Associated Eating Disorders
+
+Psychiatric instruments: eating disorders

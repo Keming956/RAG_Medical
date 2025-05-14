@@ -1,0 +1,21 @@
+Ein Durchgangston (auch: Durchgangsnote oder Durchgang) füllt den Raum zwischen zwei konsonanten bzw. akkordeigenen Tönen aus. Dies geschieht durch diatonische oder chromatische Schritte („chromatischer Durchgang“) und meist auf unbetonter Taktposition.
+
+So kann zum Beispiel bei einem Dur-Dreiklang auf c der Ton d als Durchgangston zwischen dem Grundton c und dem Terzton e fungieren, f als Durchgangston zwischen dem Terzton e und dem Quintton g, und die Töne a und h als Durchgangstöne zwischen dem Quintton g und dem Grundton c:
+
+Der Durchgang wird (wie die Wechselnote, Antizipation oder abspringende/angesprungene Nebennote) im Gegensatz zum Vorhalt in der Regel auf unbetonten Zählzeiten gesetzt. Eine Ausnahme in dieser Hinsicht ist der von Christoph Bernhard als transitus irregularis bezeichnete Fall, der heute auch als halbschwerer Durchgang bezeichnet wird:
+
+Durchgangsakkorde entstehen aus der Gleichzeitigkeit von Durchgangs- und Akkordtönen (oder ausschließlich Durchgangstönen) in verschiedenen Stimmen.
+
+Literatur 
+ Thomas Daniel: Kontrapunkt. Eine Satzlehre zur Vokalpolyphonie des 16. Jahrhunderts. Dohr, Köln 1997, ISBN 3-925366-43-1.
+ Thomas Daniel: Der Choralsatz bei Bach und seinen Zeitgenossen. Eine historische Satzlehre. Dohr, Köln 2000, ISBN 3-925366-71-7.
+
+Anmerkungen
+
+Weblinks 
+ Klangbeispiele: Durchgangs- und Wechselnoten
+
+Kontrapunkt
+Harmonielehre
+
+en:Nonchord tone#Passing tone

@@ -1,0 +1,31 @@
+Une dépression coupée ou dépression froide est en météorologie une circulation dépressionnaire coupée de la circulation atmosphérique générale et où l'on retrouve une masse d’air froid sans ligne de séparation avec les masses d’air environnantes (sans fronts). Cette configuration météorologique est typique d'une situation de blocage qui peut persister des jours. Bien qu'il puisse se produire en toute saison, on le retrouve surtout au printemps et en automne lorsqu'une masse d'air polaire est amené vers les régions plus méridionales par le courant-jet se déplaçant entre 5 et 9 km d'altitude. Ce phénomène occasionnel peut se produire partout dans les latitudes moyennes et en tout temps, entre autres sur la côte méditerranéenne et les Grands Lacs d'Amérique du nord en avril et octobre.
+
+Formation 
+La circulation atmosphérique propice à la formation d'une dépression froide est un creux barométrique d'altitude ayant une forte composante nord-sud. L'air froid entraîné vers les régions méridionales forme une goutte froide fermée à tous les niveaux en marge de la circulation générale. Il arrive parfois que l’on ne trouve au sol, sous la dépression coupée en altitude, qu’une dépression comparativement faible, voire pas de dépression du tout. 
+
+Lorsque cet air passe au-dessus d'air plus chaud provenant d'un anticyclone plus au sud, l'air est alors particulièrement instable et donne des nuages convectifs.
+
+Évolution 
+
+La dépression froide d'altitude peut persister de quelques jours à plus d'une semaine. Elle peut être absorbée dans la circulation générale alors qu'une autre se reforme au même endroit quelques jours plus tard. L'évolution et le déplacement d'une dépression coupée, comme tout blocage météorologique, sont donc incertains parce qu'il s'agit d'une situation très stable. Pour déplacer ou absorber un tel système, il faut que le flux d'altitude qui descend vers elle soit très puissant et bien synchronisé. Le problème est similaire à la dissipation des tourbillons dans le flot d'une rivière. 
+
+Les météorologues ont développé la règle d'Henry, avant le développement des modèles de prévision numérique du temps, qui donnait une méthode pour évaluer la possibilité de formation et de dissipation des dépressions coupées. Le développement des modèles numériques a fourni une méthode plus objective de prévision mais ils ont longtemps eu tendance à ouvrir et absorber ces systèmes dans la circulation générale très rapidement. L'amélioration des équations utilisées et de la résolution des modèles a considérablement amélioré la prévision de leur comportement qui reste cependant encore souvent erroné.
+
+Conséquences météorologiques 
+
+Les conséquences météorologiques sont diverses. Comme la dépression se déplace lentement et que l'air peut y être très instable, des bandes intenses de précipitations affecteront certains corridors. La pluie/neige peut donc durer des jours et localement donner de très grandes accumulations causant de dommages aux maisons et aux récoltes. La saturation des sols peut amener des glissements de terrain. Selon la profondeur de la dépression de surface et la force des orages imbriqués, les vents peuvent être forts et même occasionnellement violents. Un tel événement s'est produit dans le sud-est des États-Unis en octobre 2015.
+
+Elles peuvent être à l'origine du développement explosif d'une tempête côtière quand un dôme d'air arctique entre dans la base de la dépression et vient l'ouvrir alors que la température de surface de la mer est assez chaude pour former un fort contraste avec l'air du dôme. Ceci produit des bombes météorologiques du style Tempêtes du Cap Hatteras qui apparaissent en général le long des côtes orientales de l'Asie, de l'Amérique du Nord, de l'Afrique australe et de l'Australie.
+
+Les dépressions coupées peuvent également servir à la formation de cyclones subtropicaux. En effet, ces systèmes météorologiques ont à la fois des caractéristiques tropicales et extratropicales. Ils se forment entre l'Équateur et 50 degrés de latitude (nord et sud). Ils comportent une activité orageuse autour du centre, près d'une zone frontale faible, au-dessus des eaux qui seraient normalement trop froides pour donner naissance à des cyclones tropicaux. Le passage d'une dépression coupée dans le secteur crée l'instabilité nécessaire pour la formation des orages. Avec le temps, une tempête subtropicale peut devenir tropicale.
+
+Notes et références
+
+Voir aussi 
+
+ Techniques diagnostiques de prévision météorologique
+ Blocage (météorologie)
+ Goutte froide
+ Onde de Rossby
+
+Circulation atmosphérique

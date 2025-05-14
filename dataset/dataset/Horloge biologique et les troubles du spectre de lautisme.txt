@@ -1,0 +1,45 @@
+Les anomalies du rythme circadien et de la mélatonine jouent un rôle important  dans les troubles du spectre de l'autisme.
+
+Le rythme circadien 
+Les rythmes circadiens sont un système de réglage complexe composé de gènes horloges qui régulent une multitude de processus physiologiques et comportementaux. Une maturation anormale du cycle de sommeil circadien et un dérèglement de la synthèse de mélatonine peut endommager le développement neural, entrainant des symptômes caractéristiques des troubles du spectre de l’autisme.
+
+Rôle de la mélatonine 
+La mélatonine est une neuro-hormone endogène sécrétée par la glande pinéale. Elle joue un rôle dans la régularisation du rythme circadien (activités associées avec le jour, la nuit et le sommeil) et aide à contrôler les émotions. Sa synthèse dépend des synchroniseurs extérieurs et son entrainement est sous l’influence de l’alternance lumière/obscurité et les saisons – et sous contrôle de l’horloge biologique principale situé dans le noyau supra-chiasmatiques. Sa libération est maximale en obscurité, ce qui constitue un puissant synchroniseur des rythmes circadiens. Après sa synthèse, la mélatonine est libérée dans la circulation systémique afin d’atteindre les tissus centraux et périphériques. Ensuite, la mélatonine établit le message nocturnal circadien dans le corps afin de réguler les rythmes physiologiques quotidiens.  
+
+La mélatonine a plusieurs fonctions biologiques telles que la régulation du rythme circadien, et du sommeil, anti-cancer, effet métabolique, fonction anti-inflammatoire et effet antioxydant. Le dérèglement des rythmes circadien de la mélatonine, engendre un délai dans le pic de production de la mélatonine, une réduction de son amplitude, et une altération de l’expression du gène. Cette production anormale peut contribuer à la désynchronisation du cycle de sommeil. Le rôle de la mélatonine dans l’établissement ontogénétique des rythmes circadiens et la synchronisation des horloges nous fait croire que cette hormone est impliquée dans la synchronisation des rythmes moteur, émotionnels et interpersonnelles. Une altération anormale de ces fonctions circadiennes peut diminuer notre communication sociale et nous laisser vulnérable aux troubles psychiatriques comme les troubles du spectre autistique et la schizophrénie.
+
+L'implication de la mélatonine dans l'activité neuronale 
+Le sommeil est primordial à l'activité neuronale. Il a été constaté qu'un dérèglement du rythme veille/sommeil et des anomalies ans le niveau ou la concentration de mélatonine allaient de pair avec un renforcement des symptômes caractéristiques des troubles du spectre de l’autisme. Le développement neural a principalement lieu pendant la phase REM du cycle du sommeil. Plus encore, la sécrétion de la mélatonine prolonge la phase REM, et un manque de cette hormone augmente les périodes de phase NREM. Il a été démontré qu’il existe des mutations dans la région codante de certains gènes horloges incluant NR1D1. Une analyse du rôle de Nr1d1 dans le développement du cortex cérébral dans des souris a démontré un positionnement anormal des neurones corticaux pendant la corticogenèse. Nr1d1 joue donc un rôle important dans la corticogenèse via la régulation de la migration des neurones excitatrices et la formation du système synaptique.
+
+Production de mélatonine fœtale 
+Une variation des rythmes physiologiques, tel qu’une variation dans le rythme cardiaque maternel et une variation des taux hormonaux sont présents pendant le développement fœtal. Il y a plusieurs études qui établissent un lien critique entre la mélatonine et le développement du fœtus par son effet sur le placenta, sur les neurones et cellules gliales, et son rôle dans l’établissement ontogénétique des rythmes diurnes. L’hormone traverse le placenta et atteint la circulation fœtale afin de lui transmettre l’information photopériodique permettant l’établissement d’un cycle de sommeil régulier et des rythmes circadiens essentiels à son développement neural.  Le fœtus est dépendant de l’apport en mélatonine maternel, car la glande pinéale atteint la maturité seulement après la naissance. Le développement neural du fœtus est alors perturbé si la phase REM modulé par la production de mélatonine est anormale.
+
+Troubles du sommeil et TSA 
+L’autisme ou troubles du spectre de l'autisme (TSA) est défini comme un trouble précoce et global du développement, avec altérations des interactions sociales, de la communication verbale et non verbale, et troubles comportementaux. La perturbation biochimique, rencontrée le plus souvent chez les enfants autistes, les anomalies du rythme circadien veille/sommeil avec une durée réduite du sommeil total, une augmentation du temps de latence d’endormissement et des réveils nocturnes et matinaux précoces, suggèrent l’existence de perturbations au niveau de la sécrétion de mélatonine.
+
+Il a été établi que les troubles du spectre de l’autisme (TSA) ont une origine neurobiologique, due principalement à des facteurs génétiques caractérisés par de multiples altérations hétérogènes. En effet, plusieurs études nous mènent à croire que les TSA résultent des interactions entre les gènes et l’environnement qui altère le développement des structures et fonctions du cerveau. 
+
+Des anomalies dans la physiologie de la mélatonine et du rythme circadien ont été observés chez 50 à 80% des personnes avec troubles du spectre autistique (TSA) par rapport à des sujets neurotypiques. Ces anomalies physiologiques comprennent des concentrations plus faibles de métabolites de mélatonine ou de mélatonine dans les TSA par rapport aux témoins. Les difficultés à s’adapter aux changements externes et internes perçues chez les enfants avec troubles autistiques peuvent être dues à des rythmes circadiens dérèglés ou absents. La sécrétion atypique de cette hormone pourrait expliquer en partie la difficulté à initier et maintenir leur sommeil. En effet, une réduction de la production de mélatonine crée des problèmes de rythmicité dans les horloges biologiques avec des effets physiologiques et psychologiques, qui peuvent, selon le modèle de Boucher et la théorie de Wimpory, être impliqués dans les troubles caractéristiques de l’autisme. 
+
+ Le modèle de Boucher suggère que les problèmes de rythmicité des horloges biologiques engendrent les conséquences physiologiques et psychologiques caractéristiques des troubles autistiques.
+
+ L’hypothèse de Wimpory propose que les troubles autistiques reflètent une perturbation des gènes horloges au niveau moléculaire et que ces génes peuvent être importantes dans le développement de ces troubles.
+
+L’activité de l’hormone mélatonine serait insuffisante chez les personnes atteint des TSA. Il a été suggéré qu’il existe une altération de la transmission de la mélatonine (synthèse, libération, activation de ses récepteurs), un dérèglement de son expression circadienne ou une mutation génétique en lien avec l'insuffisance de l'hormone. Une étude génétique réalisée auprès d’une cohorte atteinte de troubles autistiques a retrouvé deux polymorphismes localisés dans la région ASMT d’un gène qui code une enzyme qui catalyse la réaction finale de synthèse de la mélatonine.
+
+L'implication des gènes horloges dans les TSA 
+Les anomalies dans les rythmes circadiens des TSA au niveau du mécanisme de synthèse de mélatonine suggèrent une implication des gènes horloges dans les symptômes caractéristiques de l’autisme.  Les troubles de sommeil et de mémoire sont caractéristiques chez les personnes atteintes d’autisme et plusieurs aspects de notre sommeil et mémoire sont régulés par des gènes horloges. Plusieurs mutations au niveau des gènes impliqués dans la régulation des rythmes circadiens sont plus présentes chez des patients atteints de TSA que des patients contrôles. Plus particulièrement, des mutations qui peuvent endommager la fonction de ces gènes ont été retrouvées chez PER2, PER3 et TIMELESS.
+
+Dans une étude analysant l’implication des gènes horloges dans les troubles autistiques, il a été démontré que l’expression des gènes horloges per1 et npas2 sont impliqués dans le fonctionnement des régions cérébrales habituellement altérées dans les personnes avec TSA : le cervelet, le cerveau antérieur et le système limbique incluant l’hippocampe et l’amygdale.
+
+Sujets connexes 
+
+ Autisme
+ Mélatonine
+ Trouble du sommeil
+ Rythme circadien
+ Chronobiologie
+
+Références 
+
+Autisme

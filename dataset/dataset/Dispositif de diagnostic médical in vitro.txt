@@ -1,0 +1,63 @@
+Un « dispositif médical de diagnostic in vitro » est un « dispositif » permettant à un praticien ou à une personne de poser un diagnostic médical, à partir d'un échantillon de fluide corporel prélevé sur le corps et étudié hors du corps. 
+Ceci est généralement fait en laboratoire d'analyse biomédicale et le plus souvent de manière plus ou moins différée dans le temps, mais il peut aussi être pratiqué sur place par un médecin ou biologiste, voire par le patient lui-même en cas d'autodiagnostic (c'est-à-dire effectué par un « profane », généralement dans un contexte « domestique »).
+
+Remarque : en Europe, quand il utilise un support ou un matériel électronique (ex microarray) un « dispositif de diagnostic médical in vitro » reste soumis à la législation visant à limiter le risque infectieux, mais peut dérogatoirement échapper à la Directive RoHS (uniquement quand ces dispositifs sont destinés à devenir « infectieux » avant leur « fin de vie » ).
+
+En Europe 
+Les déchets infectieux et/ou dangereux d'origine médicale sont soumis à certaines dispositions légales.
+Une directive européenne concerne également les . avec des dispositions particulières quand il s'agit de matériel électronique.
+
+Comme d'autres dispositifs médicaux vendus ou circulant en Europe, ces produits doivent porter le marquage CE indiquant leur conformité aux dispositions de la  directive, pour qu'ils puissent circuler librement dans la Communauté et soient mis en service conformément à leur destination, après que le produit ait été soumis à une évaluation de conformité (sur la base d'une déclaration CE de conformité et  d'évaluation faite conformément à l’article 9 de la directive, ce qui implique notamment un système complet d'assurance de la qualité (y compris pour la production) tel que visé aux annexes IV et VII de la même directive). 
+Tout marquage indu est puni selon la loi des États-membres où le délit est constaté, avec information de la Commission et des autres États membres.
+
+Le fabricant mettant en son nom propre, de tels dispositifs sur le marché européen doit notifier aux autorités compétentes
+de l’État membre où il a son siège social :
+ l’adresse de ce siège (s'il n'a pas de siège dans un état membre, le fabricant doit désigner un  qui doit notifier  aux autorités compétentes de l’État membre dans lequel il a son siège social toutes les indications demandées par la directive ;
+ les informations relatives aux réactifs, produits réactifs, et aux matériaux d’étalonnage et de contrôle, en termes de caractéristiques technologiques communes et/ou de substances à analyser, ainsi que toute modification importante y apportée, y compris la suspension de la mise sur le marché ; pour les autres dispositifs, les indications appropriées.
+
+Les données réglementaires conformes à la directive sont  (Cf. Article 12 de la directive, intitulé Banque de données européennee).
+
+Éléments officiels de définition 
+Ils sont juridiquement important en raison des questions de certification, d'étiquetage, de gestion des déchets et d'application de la législation sur la santé, ainsi que sur les déchets infectieux ou déchets dangereux et/ou déchets électriques et électroniques (DEE)
+
+En Europe, une directive définit précisément deux concepts-clés dans ce domaine :
+ la notion de dispositif médical, en général ;
+ la notion de dispositif médical de diagnostic in vitro ;il s'agit pour la directive de  :
+— concernant un état physiologique ou pathologique ;
+— concernant une anomalie congénitale ;
+— permettant de déterminer la sécurité et la compatibilité avec des receveurs potentiels, ou 
+— permettant de contrôler des mesures thérapeutiques.
+ 
+Tout « récipient pour échantillon » utilisé dans ce cadre est considéré comme faisant partie des « dispositifs médicaux de diagnostic in vitro ». 
+En Europe, on entend par « récipients pour échantillons » tout dispositif, qu’il soit sous vide ou non, spécifiquement
+destinés par leur fabricant à recevoir directement l’échantillon provenant du corps humain et à le conserver en vue d’un examen de diagnostic in vitro.
+Les produits destinés à des usages généraux en laboratoire ne sont pas des dispositifs médicaux de diagnostic in vitro sauf si, eu égard à leurs caractéristiques, ils sont spécifiquement destinés par leur fabricant à des « examens de diagnostic in vitro »;
+
+Accessoires 
+Certains dispositifs nécessitent un ou plusieurs accessoires, définis en Europe comme . 
+Aux sens de la définition européenne, les .
+
+Voir aussi
+
+Articles connexes 
+
+ Laboratoire de diagnostic des infections virales
+ Automates d'analyses médicales
+ Industrie du diagnostic in vitro
+ Diagnostic (médecine)
+ Évaluation
+ Médecine
+ Médecine vétérinaire
+ Micro-array
+ Microscopie
+ Bilan (premiers secours)
+ Bilan (prompt secours)
+
+Liens externes  
+ Les DMDIV sur le site de l'ANSM
+
+Bibliographie
+
+Notes et références 
+
+Diagnostic en médecine

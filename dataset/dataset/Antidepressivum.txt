@@ -1,0 +1,184 @@
+Ein Antidepressivum oder Thymoleptikum ist ein Arzneimittel aus der Klasse der Psychopharmaka, das vornehmlich in der Behandlung von Depressionen verwendet wird. Antidepressiva können darüber hinaus aber auch bei einer Vielzahl von anderen psychischen Störungen eingesetzt werden. Weitere Anwendungsgebiete sind z. B.
+ Zwangsstörungen und Panikattacken,
+ einige Angststörungen oder Phobien, die posttraumatische Belastungsstörung,
+ Essstörungen, chronische Schmerzen und Entzugssyndrome,
+ Schlafstörungen und das prämenstruell-dysphorische Syndrom.
+Mit über 1,4 Milliarden DDD (definierte Tagesdosis) waren Antidepressiva 2016 in Deutschland die mit Abstand am häufigsten ambulant verordnete Gruppe von Psychopharmaka. Die ersten klassischen Antidepressiva wurden in den 1950er Jahren eingeführt.
+
+Wirksamkeit 
+Die Wirksamkeit von Antidepressiva ist stark abhängig vom Schweregrad der Erkrankung. Während bei mildem und mäßigem Schweregrad die Wirksamkeit fehlend bis gering ist, ist sie bei schwerer Depression deutlich. Bei den schwersten Formen profitieren bis zu 30 % der behandelten Patienten über die Placeborate hinaus von Antidepressiva. Metaanalysen weisen darauf hin, dass antidepressive Medikamente in ihrer Wirksamkeit von Patient zu Patient große Unterschiede zeigen und in manchen Fällen eine Kombination verschiedener Medikamente Vorteile haben kann. Die aktuelle S3-Leitlinie weist darauf hin, dass in der Wahrnehmung der (Fach-)Öffentlichkeit die Wirksamkeit von Antidepressiva eher überschätzt wird, da Studien, in denen das Antidepressivum besser als Placebo abschnitt, sehr viel häufiger in Fachjournalen publiziert werden, als solche, in denen das Antidepressivum Placebo nicht überlegen war.
+
+Die verschiedenen Antidepressiva unterscheiden sich hinsichtlich ihres Wirkungsprofils. So können sie neben einer stimmungsaufhellenden Wirkung auch antriebssteigernde (thymeretische), antriebsneutrale oder antriebsdämpfende sowie beruhigende (sedierende) und angstlösende (anxiolytische) Wirkungen entfalten. Die häufigsten Nebenwirkungen der Antidepressiva betreffen das Herz-Kreislauf-System, das Nervensystem und die Sexualität. Auch hier können zwischen einzelnen Antidepressiva beträchtliche Unterschiede bestehen.
+
+Bei einer Vielzahl von Antidepressivatypen entfaltet sich die volle Wirkung erst nach einigen Tagen bis Wochen kontinuierlicher Einnahme. Grund dafür dürfte die neurophysiologische Anpassung des Gehirngewebes sein, die eine gewisse Zeit beansprucht. Dazu gehören Veränderungen in der Empfindlichkeit und Häufigkeit von Rezeptoren und ähnlicher Strukturen. Die dauerhafte Besserung tritt demnach vermutlich indirekt aufgrund zellulärer Anpassungsprozesse unter konstantem Wirkstoffspiegel auf.
+
+In der Praxis werden bei mittelschweren bis schweren depressiven Perioden Antidepressiva als gleichwertig mit einer Psychotherapie angesehen, dies beruht auf verschiedenen psychometrischen Studien und schlägt sich in einer Nationalen Leitlinie nieder. Bei schweren Depressionen wird eine Kombination von Psychotherapie und antidepressiver Medikation empfohlen. Sie können bei schweren Depressionen eine Psychotherapie erst ermöglichen, da in diesen Fällen die, als Voraussetzung einer erfolgreichen Therapie, notwendige Ansprechbarkeit oft nicht gegeben ist. Andererseits bewirkt anscheinend die Psychotherapie auch, dass eine Pharmakotherapie besser möglich ist, indem psychotherapeutisch behandelte Patienten ihre Medikamente regelmäßiger einnehmen.
+
+Die Grundlagenforschung an Mäusen fand in neuerer Zeit Hinweise darauf, dass Antidepressiva ihre Wirksamkeit nicht nur über ihren Einfluss auf die Verschaltung von Nerven (via Neurotransmitter), sondern möglicherweise zu einem Teil auch durch die Erhöhung des Wachstumsfaktors BDNF im Gehirn entfalten.
+
+Einteilung der Antidepressiva
+
+Trizyklische Antidepressiva 
+Trizyklische Antidepressiva, kürzer Trizyklika, leiten ihren Namen (trizyklisch – von griech.: τρία, triá "drei" und κύκλος, kýklos "Kreis, Ring" – drei Ringe) von der dreifachen Ringstruktur dieser Wirkstoffe ab. Strukturelle und damit auch neurophysiologische Unterschiede zeigen sich in der Substitution und in den Seitenketten dieser Aromate. Das erste trizyklische Antidepressivum Imipramin wurde 1956 von Ciba-Geigy entwickelt. Als weitere Substanzen folgten zum Beispiel Clomipramin und Amitriptylin. Sie greifen in mehrere Neurotransmittersysteme gleichzeitig ein, indem sie die Wiederaufnahme von Serotonin, Noradrenalin und Dopamin hemmen und auf Acetylcholin-, Histamin- oder auch Adrenozeptoren wirken. Daher sind bei trizyklischen Antidepressiva auch die Nebenwirkungen vielfältig.
+
+Traditionell werden Trizyklika nach dem (vereinfachten) Kielholz-Schema in drei Grundtypen eingeteilt:
+ Stoffe vom Amitriptylin-Typ wirken eher beruhigend (dämpfend) und sind besonders zur Behandlung der agitiert-ängstlichen Depression geeignet;
+ Stoffe vom Imipramin-Typ sind antriebsneutral und wirken vor allem stimmungsaufhellend, sie können sowohl zur Behandlung des agitiert-ängstlichen als auch des gehemmt-depressiven Depressionstypus eingesetzt werden;
+ Stoffe vom Desipramin-Typ wirken eher wachmachend bzw. antriebssteigernd, sie sind besonders zur Behandlung der gehemmt-depressiven Depression geeignet.
+
+Diese Einteilung stammt aus einer Zeit, als das Wissen um Neuro-Rezeptoren, Neurotransmitter und deren Wirkmechanismen noch relativ gering war und Antidepressiva nach Zielsymptomen eingeteilt wurden. Heute werden auch die trizyklischen Antidepressiva anhand ihrer Wirkung auf die Monoamin-Neurotransmittersysteme in die folgenden vier Gruppen eingeteilt, wobei zu beachten ist, dass für die Einordnung in eine der Gruppen das hauptsächlich beeinflusste System maßgeblich ist, die anderen Neurotransmittersysteme aber immer in unterschiedlichem Maße (von kaum bis erheblich, je nach Substanz) mitbeeinflusst werden:
+ Serotonin-Wiederaufnahmehemmer (SRI, auch SSRI)
+ Noradrenalin-Wiederaufnahmehemmer (NRI)
+ Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI)
+ trizyklische Antidepressiva mit andersartigem oder ungesichertem Wirkmechanismus (TZA)
+
+Wegen dieser nicht selektiven Wirkung werden die trizyklischen Antidepressiva den nicht selektiven Monoamin-Wiederaufnahmehemmern (englisch: non selective monoamino reuptake inhibitors, NSMRI, deutsch Nichtselektive Monoamin-Reuptake-Inhibitoren) zugerechnet.
+
+Beispiele für trizyklische Wirkstoffe sind: Doxepin, Imipramin, Clomipramin, Amitriptylin, Amitriptylinoxid, Trimipramin, Opipramol.
+
+Einige trizyklische Antidepressiva (zum Beispiel Clomipramin) sind bei Angst- und Panikstörungen wirksam und werden auch in der Behandlung von Zwangsstörungen eingesetzt. Manche Trizyklika, vor allem Amitriptylin und Clomipramin, werden in der Schmerztherapie bei neuropathischen oder anderen chronischen Schmerzen eingesetzt. Die schmerzlindernde Wirkung kommt vermutlich durch noradrenerge Aktivierung des absteigenden schmerzhemmenden Systems im Zentralnervensystem zustande und hängt nicht mit der antidepressiven Wirkung zusammen.
+
+Die trizyklischen Antidepressiva sind struktur-chemisch verwandt mit den trizyklischen Neuroleptika. Je nach der dreidimensionalen Konformation des trizyklischen Ringsystems wirken die Substanzen entweder antidepressiv oder dämpfend: Sind die Ringe nahezu eben zueinander angeordnet, ist die neuroleptische Wirkung wahrscheinlicher, sind sie stark gegeneinander verwinkelt, so ist die antidepressive Wirkung wahrscheinlicher.
+
+Bei den tetrazyklischen Antidepressiva (TetraCA) wird durch den vierten Ring die räumliche Struktur der anderen drei Ringe positiv zugunsten der antidepressiv wirksamen Konformation stabilisiert. Die tetrazyklischen Antidepressiva sind sowohl in ihrer Wirkung als auch Struktur den trizyklischen sehr ähnlich; einige Substanzen (zum Beispiel Maprotilin) beeinflussen insbesondere das Noradrenalin stärker. Trotz ihrer engen Verwandtschaft zu den Trizyklika werden sie nicht einfach unter diesen subsumiert und in der Praxis auch nicht in eine eigene Gruppe der Tetrazyklika zusammengefasst. Vielmehr werden sie in die Gruppe Noradrenerges und spezifisch serotonerges Antidepressivum eingeordnet oder – wie im Falle von Maprotilin – als Einzelsubstanz stehen gelassen. Maprotilin kann jedoch wirkungsmäßig den trizyklischen Noradrenalin-Wiederaufnahmehemmern zugeordnet werden.
+
+Aufgrund ihrer Nebenwirkungen (Mundtrockenheit, Sehstörungen, Kreislaufstörungen, Herzrhythmusstörungen, delirante Zustandsbilder und Vergiftungen) sind Trizyklika heutzutage selten Mittel der ersten Wahl. Man greift jedoch bei schweren und/oder chronischen Fällen auf sie zurück, etwa wenn die Patienten nicht auf neuere, vegetativ verträglichere Substanzen (vor allem SSRI) ansprechen. Dann stellen Trizyklika eine Alternative in der medikamentösen Therapie dar. Ältere Menschen und Männer scheinen besonders gut auf TZA anzusprechen.
+
+Serotonin-Wiederaufnahmehemmer (SRI)
+
+Trizyklische SRI wirken vor allem als Serotonin-Wiederaufnahmehemmer. Wirkstoffe sind: Clomipramin.
+
+Noradrenalin-Wiederaufnahmehemmer (NRI)
+
+Trizyklische NRI wirken vor allem als Noradrenalin-Wiederaufnahmehemmer. Wirkstoffe sind: Desipramin, Lofepramin, Nortriptylin. Daneben noch Maprotilin – als Trizyklikum aufgefasst.
+
+Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI)
+
+Trizyklische SNRI wirken vor allem als Serotonin-und-Noradrenalin-Wiederaufnahmehemmer. Wirkstoffe sind: Amitriptylin, Dibenzepin, Doxepin, Imipramin.
+
+TZA mit unsicherem Wirkmechanismus
+
+Trimipramin ist ein trizyklischer Wirkstoff, bei dem die hauptsächliche monoaminerge Wirkkomponente noch nicht sicher geklärt werden konnte.
+
+Genotoxisches Potential der TZA
+
+Einige trizyklische Antidepressiva führten bei der Fruchtfliege zu Erbgutschäden und erhöhen nach neuen Studien möglicherweise das Brustkrebsrisiko. Dazu zählen: Clomipramin, Desipramin, Doxepin, Imipramin, Trimipramin sowie weitere in Deutschland nicht zugelassene trizyklische Antidepressiva.
+
+Bei anderen trizyklischen Antidepressiva konnte kein mutagenes oder karzinogenes Potential nachgewiesen werden. Dazu zählen Amitriptylin und andere, jedoch in Deutschland nicht zugelassene Wirkstoffe.
+
+Selektive Wiederaufnahmehemmer
+
+Selektive Serotonin-Wiederaufnahmehemmer (SSRI) 
+Die SSRI blockieren speziell die Rezeptoren, die für die Wiederaufnahme des Botenstoffes Serotonin zuständig sind. Die durch Eingriff in weitere Transmittersysteme verursachten Nebenwirkungen der trizyklischen Antidepressiva spielen bei der SSRI-Behandlung eine entsprechend geringere Rolle.
+
+Wirkstoffe dieser Gruppe sind zum Beispiel Fluvoxamin, Fluoxetin, Citalopram, Escitalopram, Sertralin, Paroxetin und Vortioxetin, wobei letztgenanntes einen sogenannten "multimodalen Wirkmechanismus" besitzt und somit gleichzeitig an fünf verschiedene Serotonin-Untereinheiten effektiv ist. Mehrere Medikamente dieser Gruppe werden auch zur Behandlung von Angststörungen, Panikattacken, Zwangsstörungen und Bulimie eingesetzt.
+
+SSRI sind die am häufigsten eingesetzten Antidepressiva. Die Wirkung der SSRI auf das depressive Syndrom ist abhängig von der Schwere der Erkrankung. So ist bei leichtgradigen Depressionen häufig keine statistisch nachweisbare Überlegenheit gegenüber der Gabe von Scheinmedikamenten (Placebo) festzustellen. Bei schwerer ausgeprägten Depressionen hingegen sprechen etwa 50–75 % der Patienten auf ein SSRI an, während etwa 25–33 % der Patienten auf Placebo ansprechen.
+
+Schon kurz nach Einführung der ersten Wirkstoffe dieser Gruppe wurde über gewalttätiges Verhalten und Suizide unter SSRI-Medikation berichtet; eine möglicherweise suizidalitätssteigernde Wirkung dieser Substanzen ist bislang weder gesichert noch widerlegt. Beim Absetzen von SSRI nach längerer Einnahme kann sich ein Absetzsyndrom entwickeln. Eine Abhängigkeit von SSRI entsprechend der DSM-IV-Definition ist aber nicht bekannt.
+
+Selektive Noradrenalin-Wiederaufnahmehemmer (SNARI, SNRI) 
+Die NARI hemmen den Transporter, der Noradrenalin nach erfolgter Signalübertragung natürlicherweise wieder zu den Speicherplätzen zurückbefördert. Noradrenalin verbleibt länger am Wirkort, und seine Wirksamkeit als Signalüberträger steigt.
+Wirkstoffe dieser Gruppe sind zum Beispiel Reboxetin und Viloxazin.
+Anwendungsgebiete sind akute depressive Erkrankungen, darunter mit Antriebsstörungen einhergehende Depressionen. Viloxazin wurde im Juli 2006 vom Markt genommen.
+Reboxetin hingegen ist in Deutschland weiterhin auf dem Markt. Jedoch müssen die gesetzlichen Krankenkassen die Kosten für Medikamente mit dem Wirkstoff Reboxetin seit 1. April 2011 nicht mehr tragen. Die Kosten muss der Patient nun selbst bezahlen, falls die Krankenkasse des Patienten keine Ausnahme macht.
+
+Dopamin-Wiederaufnahmehemmer (DRI, DARI) 
+Amineptin ist seit 2005 gemäß BtMG (D) nicht mehr verschreibungsfähig. Es war die einzige verschreibungsfähige, arzneilich als Antidepressivum verwendete Substanz, die eine Abhängigkeit auslösen konnte. Weitere DRI sind Nomifensin und Medifoxamin, die aber wegen starker Nebenwirkungen mittlerweile nicht mehr gebräuchlich sind.
+
+Selektive Serotonin-/Noradrenalin-Wiederaufnahmehemmer (SSNRI) 
+
+Die Serotonin-Noradrenalin-Wiederaufnahmehemmer (SSNRI) hemmen die Wiederaufnahme von Serotonin und Noradrenalin.
+Einsatzgebiete sind Depressionen und Angststörungen.
+
+Wirkstoffe sind Venlafaxin, Duloxetin und Milnacipran.
+
+Selektive Noradrenalin-/Dopamin-Wiederaufnahmehemmer (SNDRI) 
+Die NDRI hemmen die Wiederaufnahme von Noradrenalin und Dopamin. Einsatzgebiete sind Depressionen, vor allem bei Antriebsschwäche, und Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS).
+
+Die bisher einzigen Wirkstoffe in dieser Klasse sind Bupropion, Amineptin und Methylphenidat, wobei letzterer Wirkstoff für die antidepressive Therapie keine Zulassung hat.
+
+Monoaminoxidasehemmer (MAO-Hemmer/MAOI/RIMA) 
+MAO-Hemmer wirken durch  eine Blockade der Monoaminoxidase Enzyme. Diese Enzyme bauen normalerweise Monoamine wie Serotonin, Noradrenalin und Dopamin ab und verringern dadurch deren Verfügbarkeit zur Signalübertragung im Gehirn.
+
+MAO-Hemmer werden in selektiv oder nichtselektiv sowie reversibel oder irreversibel unterteilt. Selektive Inhibitoren der MAO-A (z. B. Moclobemid, reversibel) hemmen nur den Typ A der Monoaminoxidase. Sie zeigen eine antidepressive Wirkung und sind meist gut verträglich. Selektiv MAO-B-hemmende Wirkstoffe (z. B. Selegilin, Rasagilin, beide irreversibel) werden in erster Linie in der Parkinson-Behandlung eingesetzt. Nichtselektive MAO-Hemmer (z. B. Tranylcypromin, irreversibel) hemmen MAO-A und MAO-B und sind wirksam bei Depressionen und Angststörungen. Irreversible MAO-Hemmer binden die MAO-A bzw. MAO-B dauerhaft. Um diese Wirkung aufzuheben, muss das betroffene Enzym vom Körper erst neu gebildet werden, was Wochen dauern kann. Reversibilität bedeutet, dass das Medikament nur schwach an die MAO bindet, und MAO-A bzw. MAO-B spätestens mit dem Abbau des Medikaments wieder intakt frei gibt.
+
+Patienten, die nichtselektive, irreversible MAO-Hemmer einnehmen, müssen eine strenge, tyraminarme Diät halten. Denn in Verbindung mit dem Verzehr bestimmter Lebensmittel (z. B. Käse und Nüssen) kann die Einnahme von nichtselektiven irreversiblen MAO-Hemmern zu einem gefährlichen Blutdruckanstieg führen. Außerdem muss zwischen der Einnahme eines irreversiblen MAO-A-Hemmers und einem anderen Antidepressivum eine Wartezeit eingehalten werden, um schwerwiegende Interaktionen zu vermeiden (zum Beispiel das Serotonin-Syndrom). Deswegen werden heute nach Möglichkeit reversible MAO-A-Hemmer (Reversible Inhibitor of Monoaminooxidase A, RIMA) als Antidepressiva angewendet, etwa Moclobemid. Dieses gilt als gut wirksam und frei von diesen Nebenwirkungen. Nicht-selektive MAO-Hemmer haben zudem eine stärkere noradrenerge Wirkung als selektive MAO-A Hemmer, was erklären könnte, dass sie verglichen mit RIMA und SSRI als wirksamer gelten. Moclobemid und Tranylcypromin werden in etwa gleich oft verschrieben.
+
+Andere Arten von Antidepressiva
+
+Noradrenerge und spezifisch serotonerge Antidepressiva (NaSSA) 
+Diese tetrazyklischen, im Englischen als Noradrenergic and Specific Serotonergic Antidepressants (NaSSA) bezeichneten Wirkstoffe sind Antagonisten an präsynaptischen Auto-Rezeptoren des Alpha-2 Adrenozeptortyps und bewirken dadurch eine verstärkte Ausschüttung von Noradrenalin. Zudem sind sie Antagonisten an spezifischen Serotoninrezeptoren, meist 5-HT2A und 5-HT2C. Meist wirken sie als H1-Antihistaminika sedierend. NaSSA werden bei Depressionen (besonders bei Hemmung, Gewichtsverlust, Schlafstörung und Ängsten), teilweise auch als Schlafmittel eingesetzt. Wirkstoffe: zum Beispiel Mirtazapin und Mianserin.
+
+Serotonin-Antagonist-und-Wiederaufnahmehemmer (SARI) 
+Diese im Englischen Serotonin Antagonist and Reuptake Inhibitor (SARI) heißenden Wirkstoffe sind Antagonisten an Serotoninrezeptoren, meist (5-HT2A). Zudem sind sie meist Antagonisten des Alpha-1 Adrenozeptortyps. Ein Wirkstoff aus dieser Gruppe ist das Trazodon. Es wird eingesetzt zur Behandlung von Depressionen unterschiedlicher Ätiologie mit oder ohne Angstkomponente, anhaltenden Schlafstörungen bei Depressionen sowie zur Behandlung von im Rahmen von Depressionen auftretenden erektilen Dysfunktionen ohne schwerwiegende organische Ursachen.
+
+Glutamerge Modulation 
+Tianeptin hat eine modulierende Wirkung auf glutamerge NMDA- und AMPA-Rezeptoren und scheint auf diese Weise stressbedingte Veränderungen im Hippocampus und präfrontalen Cortex verhindern bzw. rückgängig machen zu können.
+
+Serotonin-(5-HT2)-Antagonist und Melatonin-(MT1- und MT2)-Agonist 
+Agomelatin wirkt agonistisch auf die melatonergen MT1- und MT2-Rezeptoren und antagonistisch auf die serotonergen 5HT2C-Rezeptoren. Die dem Melatonin strukturell verwandte chemische Verbindung aus der Gruppe der Antidepressiva wird in der Behandlung von Episoden einer Major Depression bei Erwachsenen eingesetzt.
+
+Ketamin 
+Bei depressiven Notfällen (Suizidgefährdung) bestätigten mehrere Studien eine schnelle antidepressive Wirkung von Ketamin, einem Antagonisten am Glutamat-NMDA-Rezeptorkomplex. In einer Studie von 2014 mit 21 Patienten mit bipolarer Störung wurden durch bildgebende Verfahren Effekte durch Ketamin in Gehirnregionen registriert, die besondere Bedeutung bei Depressionen haben. Unter anderem war die Besserung der Symptome durch Ketamin korreliert mit Änderungen im rechten ventralen Striatum. Weitere Studienergebnisse zeigten bei einmaliger Gabe eine signifikante Besserung über einen Zeitraum von bis zu sieben Tagen. Für Ketamin besteht keine EU-Arzneimittelzulassung zur Behandlung von Depressionen. Trotz möglicher Nebenwirkungen gibt es Empfehlungen zur off-label Verordnung. Am 12. Februar 2019 empfahl ein unabhängiger Expertenausschuss der US Food and Drug Administration die Zulassung des enantiomerenreinen Eutomers (S)-Ketamin (Freiname: Esketamin) als Nasenspray zur Behandlung von behandlungsresistenter Depression, im März 2019 folgte die Zulassung unter strengen Bedingungen als Spravato.
+
+Phytopharmaka 
+
+Ein Phytopharmakon [griechisch  phyton (Pflanze) und  pharmakon (Arzneimittel)] ist ein in der Phytotherapie verwendetes Fertigarzneimittel, dessen wirksame Bestandteile ausschließlich pflanzlicher Herkunft sind. Ein Phytopharmakon besteht aus einem oder mehreren pflanzlichen Wirkstoffen, wobei die pflanzlichen Wirkstoffe zumeist selbst Vielstoffgemische verschiedener Pflanzeninhaltsstoffe sind.
+
+Hierzu gehört bei den Antidepressiva insbesondere das Echte Johanniskraut (Hypericum perforatum). Johanniskraut ist in verschiedenen Darreichungsformen (zum Beispiel als Tee, Tabletten etc.) erhältlich und teilweise frei verkäuflich. Höher dosierte Präparationen, die gegen Depressionen hilfreich sein könnten, sind apothekenpflichtig.
+
+Standardisierte Johanniskrautextrakte werden bei leichten bis mittelschweren Depressionen eingesetzt. Das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen geht davon aus, dass Johanniskraut einen Effekt bei leichten Depressionen hat. Im Allgemeinen zeigte sich jedoch eine deutliche Abhängigkeit der Effektstärke von der Studienqualität: Je schlechter die Qualität der Studien ist, desto größer stellt sich das Ausmaß der aufgezeigten Effekte dar und umgekehrt. Bei Betrachtung allein derjenigen Studien mit der besten methodischen Qualität zeigt Johanniskraut nur einen sehr geringen Effekt. Weiterhin geht das Institut davon aus, dass Johanniskraut bei schweren Depressionen nicht hilft. Es erwies sich bei schweren Depressionen in keiner Studie als dem Placebo überlegen.
+
+Aminpräkursoren 
+Im Rahmen der Depressionsbehandlung sind mit Aminpräkursoren die Stoffwechsel-Vorstufen der Monoamin-Neurotransmitter Serotonin, Noradrenalin und Dopamin gemeint. Darunter fallen L-Tryptophan, 5-Hydroxytryptophan für Serotonin und L-Phenylalanin, L-Tyrosin und L-DOPA sowohl für Noradrenalin als auch Dopamin.
+
+Psilocybin 
+Im Oktober 2018 hat die Food and Drug Administration (FDA) einer großen Studie über Psilocybin in der Therapie von behandlungsresistenten Depressionen den Status eines beschleunigten Studienprogramms verliehen. Anfang 2020 gewährte die FDA den Status eines „beschleunigten Studienprogramms“ auch einem Programm zur Behandlung von schweren Depressionen (major depression disorder [MDD]) mit Psilocybin zur Durchbruchstherapie. Eine Behandlungsresistenz ist hier keine Voraussetzung mehr für den Psilocybin-Einsatz in der Studie.
+
+Phasenprophylaktika (Stimmungsstabilisatoren) mit antidepressiver Wirkung 
+Für die Prophylaxe von Depressionen werden andere Arzneimittel verwendet als für die Akuttherapie. Dabei wird zwischen monopolarem Verlauf und bipolarem (Wechsel zwischen manisch und depressiv) Verlauf unterschieden.
+ Lithium (in der Regel mit komplexem Wirkungsmechanismus) → Lithiumtherapie
+ Valproat: In mehreren Studien konnte keine signifikante antidepressive Wirkung von Valproat festgestellt werden, jedoch eine gute anti-manische Wirkung.
+ Carbamazepin: Eine eindeutige antidepressive Wirkung wird von mehreren Studien bestätigt; beste Datenlage hinsichtlich eines antidepressiven Effektes unter allen Antikonvulsiva.
+ Lamotrigin: Die vorhandenen Daten sprechen für einen antidepressiven Effekt (bei monopolaren Depressionen) bei diesem Antikonvulsivum, obwohl es nicht viele Studien über eine antidepressive Wirkung von Lamotrigin bei monopolaren Depressionen gibt. Kein Zweifel besteht jedoch an seiner antidepressiven Wirksamkeit im Rahmen einer bipolaren Störung – in Deutschland ist es als Präventionsmittel gegen depressive Episoden bei bipolaren Störungen zugelassen.
+
+Omega-3-Fettsäure Eicosapentaensäure (EPA) 
+
+Es konnte nachgewiesen werden, dass die Omega-3-Fettsäure Eicosapentaensäure (kurz: EPA) einen antidepressiven Effekt bei einer Dosierung von mehr als 1 g/Tag aufweist. Auch auf Schizophrenie hat EPA einen positiven Effekt.
+
+Vitamin D3 
+
+Cholecalciferol (Vitamin-D3) ist genau genommen kein Vitamin, sondern ein Prohormon (der Körper kann es im Gegensatz zu echten Vitaminen selbst bilden). Aus Cholecalciferol wird das Hormon Calcitriol gebildet. Calcitriol (auch Vitamin-D-Hormon genannt) wirkt dabei im Zusammenspiel mit Vitamin-D-Rezeptoren im Körper sehr viel breiter als nur in Zusammenhang mit der bekannten Knochenbildung, u. a. eben auch in Bereichen, die Auswirkungen auf die Stimmungslage haben. Den Ergebnissen einer Studie der Universität Amsterdam zufolge war der Vitamin-D-Gehalt im Blut bei Patienten mit Depressionen durchschnittlich 14 % niedriger als in der Kontrollgruppe. Der Effekt einer Behandlung mit Vitamin D3 ist aber gering.
+
+Nebenwirkungen 
+Während der Behandlung können verschiedene unerwünschte Wirkungen auftreten. Diese hängen aufgrund der großen Unterschiede zwischen den Antidepressiva von der jeweiligen Substanz ab.
+
+Beim Absetzen von einigen Antidepressiva können unter Umständen sowohl Reboundphänomene als auch Absetzerscheinungen auftreten. Die Entzugserscheinungen beim Absetzen werden sehr oft unterschätzt, wie sich in diversen Übersichtsarbeiten zwischen 2011 und 2018 herausstellte. Falls ein Einsatz von Antidepressiva nach einer genauen Analyse der Ursachen erforderlich ist, sollten diese daher nur temporär und optimalerweise in Kombination mit einer Psychotherapie zum Einsatz kommen. Bei der nach Ansicht mancher Betroffenengruppen notwendigen Dosisreduktion in sehr kleinen Schritten kann sich das Absetzen dabei über mehrere Jahre hinziehen.
+
+Hinsichtlich der Anwendung von SSRI und SSNRI bei Kindern und Jugendlichen mit depressiven Störungen liegen aus Studien Hinweise für eine unter dieser Therapie erhöhte Suizidalität vor. Insbesondere das Risiko für suizidale Gedanken und feindselige, gegen die eigene Person oder andere gerichtete Handlungen scheint erhöht zu sein, während vollendete Suizide nicht berichtet wurden. Bei Erwachsenen konnte eine erhöhte Suizidalität unter SSRI nicht nachgewiesen werden. Die Befunde werden in der Psychiatrie kontrovers diskutiert. Die depressive Erkrankung selbst ist der wichtigste Risikofaktor für Suizidalität. Um diesen Hauptrisikofaktor in Hinblick auf die Kausalität herauszurechnen wird in der Meta-Forschung oft der ATT (average treatment effect on the treated) verwendet.
+
+Die Einnahme in der Schwangerschaft kann laut mehreren Studien das Risiko für eine Störung aus dem Spektrum des Autismus beim Kind erhöhen. Dies gilt sowohl für die oft verschriebenen SSRIs, als auch für ältere trizyklische Antidepressiva. Zudem treten laut einer neuen Studie unter Antidepressiva in der späten Schwangerschaft häufiger postpartale Blutungen auf.
+
+Die Einnahme von Antidepressiva erhöht das Risiko, an Demenz zu erkranken. Die gemittelte Risikoerhöhung liegt bei 75 %, für trizyklische Antidepressiva bei 113 % und bei Monoaminoxidasehemmern bei 179 %.
+
+SSRIs und SNRIs können PSSD, eine nach Absetzen der Antidepressiva manchmal dauerhafte sexuelle Funktionsstörung, auslösen.
+
+Bei einigen Antidepressiva (etwa Doxepin, Amitriptylin und Maprotilin) kann es durch eine QT-Syndrom Verlängerung der QTc-Zeit zu Herzrhythmusstörungen kommen.
+
+Schlafstörungen sind bei SSRI häufige unerwünschte Wirkungen. Aber auch bei allen anderen Antidepressiva kommen sie vor. Auf der anderen Seite kann beispielsweise Doxepin als schlaffördernde Substanz eingesetzt werden.
+
+Pharmakoökonomie 
+Zur Behandlung depressiver Störungen wurden in Deutschland im Jahr 2002 etwa 4 Milliarden Euro ausgegeben (direkte Krankheitskosten). Der Anteil der Kosten für Medikamente an den gesamten direkten Kosten ist international vergleichbar und beträgt etwa 4–11 %.
+
+Literatur 
+ Ursula Breyer-Pfaff, Hans J. Gaertner, Pierre Baumann: Antidepressiva. 2005, ISBN 3-8047-2147-8.
+ Otto Benkert, Hanns Hippius: Kompendium der Psychiatrischen Pharmakotherapie. 5. Auflage. Springer, Berlin 2005, ISBN 3-540-21893-9.
+ Brigitte Woggon: Behandlung mit Psychopharmaka. 2. Auflage. Hans Huber, Bern 2005, ISBN 3-456-83538-8.
+ Michael Bauer, Anne Berghöfer, Mazda Adli: Akute und therapieresistente Depressionen – Pharmakotherapie – Psychotherapie – Innovationen. 2., vollständig überarbeitete und erweiterte Auflage. Springer Medizin Verlag, Heidelberg 2005, ISBN 3-540-40617-4.
+ Andrea Cipriani, Toshi A Furukawa u. a.: Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. In: The Lancet. 2018, doi:10.1016/S0140-6736(17)32802-7. dt. Meldung: 
+ Klaus Munkholm, Asger Sand Paludan-Müller, Kim Boesen: Considering the methodological limitations in the evidence base of antidepressants for depression: a reanalysis of a network meta-analysis. In: BMJ Open. 9, 2019, S. e024886, doi:10.1136/bmjopen-2018-024886. dt. Meldung:
+
+Weblinks
+
+Einzelnachweise und Anmerkungen

@@ -1,0 +1,53 @@
+La dépression endogamique, ou dépression de consanguinité, est la réduction de la valeur sélective d'une population donnée liée à la reproduction entre individus apparentés. La reproduction entre individus étroitement apparentés, ou consanguinité, fait apparaître plus de caractères récessifs délétères. Plus les géniteurs sont apparentés et plus les descendants portent des gènes homozygotes délétères, donnant des individus inaptes. Un autre mécanisme responsable de la réduction de la valeur sélective est la superdominance (en) d'allèles hétérozygotes dans une population à nombreux génotypes homozygotes, même s'ils ne sont pas délétères. Pour le moment, lequel de ces deux mécanismes possède l'effet le plus important sur la dépression endogamique n'a pas encore été déterminé. En général, les populations ayant une forte variation génétique ne souffrent pas de dépression endogamique, qui est souvent le résultat d'un goulot d'étranglement génétique. Elle semble présente chez la plupart des groupes d'organismes, mais peut-être davantage chez les espèces hermaphrodites, plus particulièrement chez les plantes (qui sont en majorité hermaphrodites).
+
+Dépression endogamique et sélection naturelle 
+La sélection naturelle ne peut pas éliminer tous les gènes délétères récessifs d'une population pour plusieurs raisons. D'abord, ces gènes apparaissent constamment par mutations au sein d'une population. Ensuite, dans une population où la consanguinité est fréquente, la plupart des descendants possèdent certains caractères délétères, si bien que peu d'entre eux seront plus aptes que les autres à la survie. Les différents caractères délétères n'affecteront cependant probablement pas de la même manière la reproduction. Un caractère récessif particulièrement désavantageux chez un individu homozygote récessif s'éliminera vraisemblablement de lui-même, limitant ainsi l'expression de son phénotype. Enfin, les allèles récessifs délétères seront « masqués » chez les individus hétérozygotes, et ces derniers ne subiront pas la pression sélective (effet de dominance).
+
+Gestion de la dépression endogamique 
+
+Dans le cas des espèces végétales à autogamie préférentielle ou des espèces allogames qui préfèrent, et de loin, la fécondation croisée à l’autofécondation (la plupart des arbres fruitiers, graminées et légumineuses fourragères), la descendance est conduite sur la voie de la consanguinité. . D'où la nécessité pour les agriculteurs le recours à la culture sélective des plantes, à différentes techniques (isolation des parcelles, , encagement des plates entomophiles dans des cages en filet ou en nylon avec des ruches spécifiques, pollinisation manuelle) ou le renouvellement de leurs semences, pour maintenir la pureté variétale.
+
+L'introduction de nouveaux gènes d'une population différente peut contrer la dépression endogamique. Des populations différentes ont des caractères délétères différents, et par conséquent la plupart des locus ne seront pas homozygotes chez les descendants. Cela est connu sous le nom d'hétérosis, pratiqué dans les zoos pour prévenir l'homozygotie. Toutefois, mélanger deux populations différentes peut conduire à des caractères polygéniques indésirables de dépression exogamique.
+
+On peut noter cependant, que dans le cas d'endogamie continue (comme pour les populations de rats de laboratoire, par exemple), la dépression endogamique cesse après un nombre de générations variable selon l'espèce : après cela, les individus (fortement homozygotes) sont pratiquement débarrassés des allèles létaux.
+
+Chez l'humain 
+Bien que les cas de forte consanguinité soient rares chez l'humain, il existe certaines formes apparentes de dépression endogamiques. Comme chez les animaux, ces phénomènes tendent à se produire dans des populations rurales, isolées, coupées à un certain point des autres zones de civilisation.
+Un exemple notoire est constitué par la tribu  du Zimbabwe occidental, dans laquelle le caractère d'ectrodactylie (présence de deux orteils seulement) chez une substantielle minorité des membres de la tribu paraît lié à un pool génique réduit.
+
+Espèces non sujettes à la dépression endogamique 
+Exemples de taxons non sujets à une dépression endogamique significative malgré leur taille de population effective très faible :
+
+Animaux
+ Miro des Chatham
+ Crécerelle de Maurice
+ Castor d'Europe 
+ Rat-taupe nu (mammifère à structure reproductive eusociale et faible variation génétique)
+ Stegodyphus dumicola et certaines autres araignées sociales (vivant dans des colonies fortement consanguines)
+ Thai Ridgeback (race de chien)
+ Chien chanteur (sous-espèce de chien sauvage)
+
+Plantes
+ Le pissenlit se reproduit de manière asexuée par apomixie.
+ Schiedea verticillata
+ Toromiro
+
+Voir aussi
+
+Articles connexes 
+ Hétérosis
+ Population minimum viable
+ Génétique des populations
+ Vadoma
+ Évolution insulaire
+ Dégénérescence variétale
+
+Bibliographie 
+ Charlesworth, D. & Charlesworth, B. (1987). Inbreeding depression and its evolutionary consequences. Ann. Rev. Ecol. @st., 18, 237458
+ Lande, R. & Barrowclough, G. F. (1987). Effective population size, genetic variation, and their use in population management. In Viable populations for conservation, ed. M. E. Soulr. Cambridge University Press, Cambridge, pp. 87-123
+
+Notes, sources et références 
+
+Génétique des populations
+Inceste
+Sélection naturelle

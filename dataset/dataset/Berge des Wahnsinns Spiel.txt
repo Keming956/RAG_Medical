@@ -1,0 +1,58 @@
+Berge des Wahnsinns (engl. Mountains of Madness) ist ein kooperatives Brettspiel des amerikanischen Spieleautoren Rob Daviau, das 2017 im Verlag Iello auf Französisch, Englisch und Deutsch erschien. Es basiert auf der Horror-Geschichte Berge des Wahnsinns von H. P. Lovecraft und handelt von einer Expedition in die Antarktis, bei dem die Teilnehmer nach und nach wahnsinnig werden.
+
+Spielweise 
+Bei Berge des Wahnsinns geht es thematisch um eine Expedition einer Forschergruppe in die Antarktis, bei der die Gruppe auf die Ruinen einer riesigen Stadt trifft. Die Forscher erkunden die Stadt und finden verschiedene Relikte und Artefakte, zugleich verfallen sie jedoch mehr und mehr dem Wahnsinn, der die Kommunikationsfähigkeit der Expeditionsteilnehmer beeinträchtigt. Die Teilnehmer müssen die Expedition erfolgreich beenden, ohne zu viele Verletzungen davonzutragen. Ist die Expedition nicht erfolgreich, verlieren die Spieler als Gruppe das Spiel.
+
+Das Spielmaterial besteht neben der Spielanleitung aus:
+
+Spielvorbereitung 
+Zu Beginn des Spiels wird der Spielplan in die Tischmitte gelegt und jeder Spieler wählt einen Charakter mit einem Spielertableau, das er vor sich ablegt. Die Begegnungskarten werden nach den verschiedenen Typen sortiert und dann zufällig auf die entsprechenden Felder des Spielplans gelegt. Die Verletzungskarten, die Arkanen Ausrüstungen und die Reliktkarten werden jeweils als offener Kartenstapel bereitgelegt. Die Ausrüstungen bilden einen verdeckten Stapel, darauf werden Verletzungskarten entsprechend der Spieleranzahl offen auf den Stapel gelegt. Die Wahnsinnskarten werden nach Stufen des Wahnsinns sortiert und separat als verdeckte Stapel ausgelegt. Jeder Spieler bekommt entsprechend der Spieleranzahl eine Startausrüstung aus drei bis fünf Karten, die sie auf die Hand nehmen und nicht den Mitspielern zeigen dürfen. Die Sanduhr, die Reliktplättchen und der Strafwürfel werden bereitgelegt. Zuletzt wird ein Startspieler bestimmt, der das Schlittentableau mit den sechs Anführermarkern und die Flugzeugfigur erhält. Er verteilt entsprechend der Spieleranzahl jeweils keine oder eine Wahnsinnskarte der ersten Stufe an die Mitspieler und sich selbst.
+
+Spielablauf 
+
+ Flugzeugphase
+ Begegnung
+ Auswertung
+ Nachziehen
+ Ruhe (optional)
+
+Die Spieler spielen in jeder Spielrunde jeweils vier bis fünf Phasen. Sie beginnen mit einer Flugzeugphase, in der sie gemeinsam entscheiden müssen, in welche Richtung ihr nächster Zug gehen soll. In der ersten Runde starten sie mit ihrem Flugzeug auf einem beliebigen Küstenfeld, danach müssen sie in jeder Runde auf ein beliebiges benachbartes Feld mit oder ohne Plättchen ziehen. Dabei kann die Gruppe auf der gleichen Ebene bleiben, eine Ebene aufsteigen oder auch eine Ebene absteigen. Nach der Diskussion entscheidet der Anführer, auf welches Feld gezogen wird und stellt die Flugzeugfigur darauf ab. Liegt auf dem Feld ein Plättchen, nimmt es der Anführer und legt es vor sich ab. Bewegen sich die Spieler auf ein Feld ohne Plättchen, müssen sie die dort verzeichneten Aufgaben erfüllen. Sobald die Gruppe die Ebene „Rand des Wahnsinns“ erreicht hat, kann sie nicht mehr absteigen und muss flüchten. In der Flugzeugphase kann der Anführer einen oder mehrere seiner Anführermarker abwerfen und es damit einem Mitspieler ermöglichen, seine Wahnsinnskarten für diese Runde zu ignorieren.
+
+Nachdem die Spieler ihr Flugzeug abgestellt haben, beginnt die Begegnungsphase. Zu Beginn dieser Phase wird die Sanduhr umgedreht und falls der Anführer ein Plättchen genommen hat, wird dieses umgedreht. In dieser Phase müssen alle Spieler ihre erhaltenen Wahnsinnskarten nutzen und den entsprechenden Anweisungen folgen. Die Begegnungsplättchen und auch die leeren Felder zeigen jeweils zwei bis drei Aufgaben, die von der Gruppe erfüllt werden müssen. Für die Erfüllung haben die Spieler Zeit bis zum Ablauf der Sanduhr. In dieser Zeit müssen sie die geforderte Ausrüstung beschaffen, dafür diskutieren sie miteinander und auch über ihre verfügbaren Karten, dürfen diese jedoch nicht zeigen. Sobald ein Mitspieler Ausrüstungsgegenstände oder auch Verletzungskarten aus seiner Hand verdeckt auf den Schlitten legt, endet die Kommunikation zwischen den Spielern. Die anderen Spieler dürfen weitere Karten hinzulegen, dabei jedoch nicht mehr miteinander kommunizieren – passiert dies doch, müssen sie eine Anführermarke ablegen. Der Anführer kann zudem nach Ablauf der Sanduhr entscheiden, ob er eine Anführermarke ablegt und damit die Diskussion erneut beginnt.
+
+Ist die Sanduhr abgelaufen, beginnt die Auswertungsphase. Der Anführer deckt die auf dem Schlitten liegenden Karten auf und vergleicht sie mit den Herausforderungen. Die Herausforderung gilt als bestanden, wenn die Gesamtwerte der Karten genau den geforderten Werten entsprechen; sind sie höher oder niedriger, erleiden die Spieler einen Fehlschlag. Ist mindestens eine der Aufgaben erfolgreich bestanden, bekommen die Spieler die auf dem Plättchen angegebene Belohnung:
+ Relikt: Der Anführer sucht das entsprechende Relikt aus dem Kartenstapel und gibt es zusammen mit dem entsprechenden Reliktmarker einem beliebigen Spieler, der zusätzlich eine Wahnsinnskarte nehmen muss. Wenn der Anführer das Relikt an sich nimmt, darf er später in der angegebenen Phase keine Anführermarker mehr spielen.
+ Suche: Mit der Fähigkeit Suche können die Spieler ein Feld des Berges untersuchen, bevor sie dorthin reisen. Dafür deckt der Anführer ein beliebiges Plättchen auf und die Spieler haben einen Sanduhr-Durchlauf lang Zeit, sich die Angaben zu merken.
+ Arkane Ausrüstung: Der Anführer wählt eine Karte der Arkanen Ausrüstungen und legt sie auf den Ausrüstungsstapel.
+ Heilung: Die Spieler können eine Verletzungskarte aus dem Ablagestapel entfernen (heilen).
+ Lob: Der Anführer darf bis zu zwei Anführermarker zurücknehmen.
+
+Für jeden Fehlschlag der Begegnung werden die Spieler bestraft. Entweder zieht ein vom Anführer gewählter Spieler eine Wahnsinnskarte oder der Anführer würfelt mit dem Strafwürfel. Wenn ein Spieler eine Wahnsinnskarte ziehen muss, nimmt er immer eine, die um eine Stufe höher ist als eine eventuell bereits vorhandene Karte und tauscht diese aus. Hat er bereits die Wahnsinnsstufe 3 erreicht, darf er vom Anführer nicht mehr für den Erhalt einer Wahnsinnskarte ausgewählt werden (gemäß der in der Regel aufgeführten optionalen Expertenregel behält der Spieler mehrere Wahnsinnskarten). Wenn alle Spieler bereits auf der Wahnsinnsstufe 3 sind, legt der Anführer einen Anführermarker ab oder legt einen abgelegten ganz aus dem Spiel. Würfelt der Anführer den Strafwürfel, können folgende Bestrafungen eintreten:
+ Unfall: Die Spieler nehmen zwei Verletzungskarten vom entsprechenden Stapel und legen sie in den Ablagestapel der Ausrüstungen. Sind keine Verletzungskarten mehr verfügbar, haben die Spieler das Spiel verloren.
+ Verwirrung: Die Spieler ermitteln die Differenz des Gesamtwerts zum Herausforderungswert und werfen entsprechend viele Karten vom Ausrüstungsstapel ab. Sind nicht genug Karten im Ausrüstungsstapel, wird eine Anführermarke aus dem Spiel genommen.
+ Vertrauensverlust: Der Anführer legt zwei Anführermarker vom Schlittentableau ab oder nimmt einen Marker aus dem Spiel, wenn nicht genug Marker vorhanden sind. Sind keine Anführermarker mehr im Spiel, haben die Spieler das Spiel verloren.
+Durch das Ablegen einer Anführermarke kann der Anführer entscheiden, das Ergebnis des Wurfs zu ignorieren und erneut zu würfeln.
+
+Nachdem alle Belohnungen und Bestrafungen durchgeführt sind, werden die in der Phase gespielten Karten abgelegt und das Begegnungsplättchen aus dem Spiel genommen. In der darauf folgenden Nachziehphase können alle Spieler ihre Handkarten entsprechend der Mitspielerzahl wieder aufstocken. Wenn nicht genug Ausrüstungskarten zum Nachziehen vorhanden sind, entscheidet der Anführer über die Verteilung der vorhandenen Karten, ohne diese einzusehen. Durch das Ausspielen eines Anführermarkers kann der Anführer das Handkartenlimit pro Spieler um eine Karte erhöhen. Wenn alle Spieler ihre Karten erhalten haben, kann der Anführer optional eine Ruhephase beschließen. Dafür nimmt er einen Anführermarker aus dem Spiel und bekommt dafür alle Marker vom Ablagestapel zurück auf seinen Schlitten. Zudem werden der Ablagestapel und der Nachziehstapel der Ausrüstungsgegenstände vereint und neu gemischt. Zum Ende der Runde gibt der Anführer das Schlittentableau an den Spieler zu seiner Linken weiter, der dann Anführer der nächsten Runde ist.
+
+Spielende und Auswertung 
+Das Spiel kann aus verschiedenen Gründen enden. Die Spieler verlieren sofort, wenn:
+ die letzte Anführermarke aus dem Spiel genommen werden muss,
+ wenn die Spieler eine Verletzungskarte ziehen müssen und der Stapel dadurch leer wird.
+
+Gelingt es den Spielern, am Ende einer Runde auf dem dritten Fluchtplättchen anzukommen, sind sie dem Berg entkommen. In dem Fall verlieren sie das Spiel allerdings trotzdem, wenn die Anzahl der gesammelten Reliktkarten weniger beträgt als die Anzahl der Verletzungskarten in den Nachzieh- und Ablagestapeln der Ausrüstungskarten und den Handkarten der Spieler. Die Spieler gewinnen, wenn sie gleich viele oder mehr Reliktkarten haben wie Verletzungskarten. Anhand der Differenz zwischen Reliktkarten und Verletzungskarten können die Spieler den Erfolg der Mission messen und bewerten.
+
+Ausgaben und Rezeption 
+Das Spiel Berge des Wahnsinns wurde von Rob Daviau als Mountains of Madness entwickelt und wurde 2017 zu den Internationalen Spieltagen 2017 in Essen bei iello in einer englischen, einer französischen und einer deutschen Auflage veröffentlicht. Dabei wird die deutsche Version von Hutter Trade im deutschsprachigen Raum vertrieben. Zeitgleich erschien das Spiel auf Spanisch bei Devir und auf Japanisch bei Hobby Japan.
+
+Belege
+
+Weblinks 
+ Spielregeln für Berge des Wahnsinns bei iello / Hutter Trade
+ 
+ 
+ Berge des Wahnsinns, Rezension bei Rezensionen für Millionen
+
+Spiel 2017
+Brettspiel
+Werk nach H. P. Lovecraft

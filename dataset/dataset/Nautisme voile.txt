@@ -1,0 +1,104 @@
+Le nautisme à la voile est l'art de naviguer avec l'aide du vent comme force propulsive. Il s'agit d'une activité de loisir ou de compétition, voire un art de vivre, qui se pratique avec différents types d'engins, du simple flotteur comme dans le cas de la planche à voile, au véritable bateau, sur lac ou sur mer.
+
+Généralités 
+
+On peut distinguer plusieurs catégories d'activités :
+ La planche à voile qui consiste à naviguer debout en équilibre sur un flotteur grâce à une voile  qui en assure la propulsion.
+ Le dériveur, petit bateau muni d'une dérive, sorte de quille non lestée et relevable, pour une à quatre ou cinq personnes, pour la promenade ou la compétition en régate. Le plus basique étant l'Optimist destiné aux enfants tout en étant une série de compétition. Les plus évolués étant des supports de régate comme le 470, le 5o5 ou le 49er. Le catamaran léger, apparu plus tard, a souvent remplacé le dériveur pour les activités nautiques ludiques mais aussi pour des compétitions (eurocat ou raids côtiers).
+ Le cabotage ou la croisière côtière à bord de bateaux habitables, dits croiseurs, aussi appelés yachts, nécessitant des compétences en navigation. Les croiseurs peuvent être munis d'une quille (aileron lesté sous la coque pour résister à la poussée latérale), ou d'une derive.
+ La grande croisière et la circumnavigation sur des navires armés pour plusieurs semaines ou mois de navigation.
+ Les grandes compétitions nautiques, utilisant souvent des bateaux prototypes, monocoques appliquant les dernières technologies de l'hydrodynamique pour la Coupe de l'America, ou catamarans et trimarans géants, véritables formules 1 de la mer, dans les courses transatlantiques.
+ La course de vitesse pure, champ d'essai pour la recherche de nouvelles solutions techniques.
+
+Histoire
+
+Époque du yachting 
+
+En Europe, les premiers yachts, petits voiliers construits pour la navigation récréative (de l'aristocratie et la bourgeoisie maritime) remontent au moins au  et  en Angleterre, aux Pays-Bas ou en Russie. La première régate de voiliers serait celle organisée en Angleterre en 1662, remportée par le sloop Jamaïe du roi Charles II. 
+
+Mais l'engouement véritable pour le yachting naît au Royaume-Uni et aux États-Unis, au milieu du , dans la bourgeoisie. Ces premiers yachts sont inspirés des voiliers utilitaires les plus rapides de l'époque et aux bonnes qualités nautiques: les cotres pilotes européens, et les petites goélettes américaines. On retrouve ainsi sur ces yachts les mêmes plans de voilure, et les coques des bateaux de cette époque: un avant très large (maitre-bau avancé), un arrière effilé (poupe) et une quille longue et peu profonde. La propulsion à voile étant abandonnée progressivement pour le transport utilitaire, le yachting devient la seule source d'évolutions techniques des voiliers.
+
+Voile populaire 
+
+En Europe et aux États-Unis, les clubs de voile devinrent populaires à la fin du , quand de petits voiliers commencèrent à être fabriqués à l'échelle industrielle. En France, la voile populaire s'est développée dans les années 70, grâce à des voiliers simples et bien construits comme le Muscadet, le Sangria, le Corsaire ou  le Mousquetaire construit par des chantiers comme Aubin ou Jeanneau et des architectes de renom comme Philippe Harlé ou Jean-Jacques Herbulot. De nombreuses écoles de voiles ont accompagné les clubs et apprendre la voile est devenu de plus en plus simple.
+
+Compétition nautique 
+
+Il existe plusieurs catégories de courses nautiques à la voile :
+
+ Les régates, qui se déroulent dans un espace et un temps limité, les bateaux devant tourner autour de marques de parcours (en général des bouées). La composition des équipages est dépendante des bateaux qui régatent. Il existe 2 grands types de régates : en flotte ou en duel (match-racing).
+ Les courses au large, dite aussi océaniques. Les bateaux doivent rallier un point à un autre (ce qui n'interdit pas l'obligation de passer par certaines marques de parcours). Les courses au large peuvent être en équipage ou en solitaire. Les différentes Transats en sont les plus connues.
+ Les courses à étapes où chaque étape se déroule en un lieu différent ou permet d'atteindre un lieu différent. Ainsi, une étape peut être soit une régate soit une course au large. La Volvo Ocean Race (ex-Withbread) ou course autour du monde en équipage et par étapes en est l'une des plus prestigieuses. Le Tour de France à la Voile (TFV) est aussi organisé selon ce format.
+
+Classement d'une course 
+Il existe deux méthodes de calcul du classement d'une course. En temps réel, pour les monotypes de la même série (tous les concurrents ont un bateau du même type, le premier arrivé est déclaré gagnant) et pour les bateaux de même jauge de course. La jauge de course (ne pas confondre avec les autres jauges dont la jauge de douane) est une formule mathématique basée sur un ensemble de caractéristiques générales définissant une classe de bateaux mais assurant une homogénéité de performance entre ces bateaux. Tous les concurrents ayant un bateau de même jauge, le premier arrivé de la jauge est déclaré gagnant de la jauge.
+
+En temps compensé, à chaque bateau est affecté un handicap de temps en fonction de ses caractéristiques mesurées selon la jauge (formule de calcul basée sur les mesures du bateau). Les concurrents sont classés en fonction du temps compensé par la formule : temps réel x coefficient modificateur (calculé en fonction du handicap selon la jauge). Ainsi, le bateau qui finit premier ne sera pas obligatoirement le vainqueur.
+
+Il existe plusieurs types de jauges dont les formules sont parfois tenues secrètes pour éviter la course à l'armement, par exemple la jauge IRC, l'IRM et les jauges internationales de Offshore Racing Congress reconnues par l'ISAF) ou le Handicap national, jauge française, dont le calcul évolue en fonction de prédictions de vitesses et de statistiques historiques.
+
+Courses célèbres 
+
+Les courses ont été classées suivant les catégories décrites précédemment. Pour chacune d'elles est donné le mode de classement (au pluriel quand il y a plusieurs classements).
+
+Courses au large
+
+Courses à étapes
+
+Courses spécifiques 
+ Sywoc, Coupe du monde de voile des étudiants (monotype)
+ Ariane's Cup, compétition amicale annuelle des industriels du programme Ariane.
+ La semaine du Record SNSM à Saint-Nazaire au profit de la SNSM.
+
+Voile de vitesse 
+Dans cette discipline, ce n'est pas la distance parcourue qui est importante mais la vitesse instantanée.
+La voile de vitesse recourt à toutes les sciences de pointe (aérodynamisme, mécanique des fluides, résistance des matériaux, simulation informatique).
+
+Voir les articles détaillés :
+
+Prototypes et projets 
+
+L'Hydroptère est un des projets les plus aboutis dans ce domaine, grâce à plusieurs foils d'une taille impressionnante ( sur la première version), ce navire « décolle » à une altitude de 2 à . « Hydroptère » est également le nom générique en français des foilers.
+
+Le , l'Hydroptère, voilier à foils imaginé par Éric Tabarly, a traversé la Manche, de Douvres à Calais, à une vitesse moyenne de 33 nœuds (), en 34 minutes. Cette traversée par voie maritime a duré quatre minutes de moins que le record établi par Louis Blériot le  avec son avion. Le , l'Hydroptère, a franchi la barre des 50 nœuds. Il détient aussi le record de vitesse absolue sur . Le  il bat à Hyères le record absolu de vitesse sur  avec .
+
+Le catamaran Techniques Avancées, prototype conçu et réalisé par les élèves de l'ENSTA ParisTech détient depuis 1997 le record du monde de vitesse à la voile en catégorie grande voilure. Il avait alors atteint la vitesse de 42,12 nœuds () sur une course de . Il s'agit d'un catamaran de vitesse asymétrique, muni de foils, inspirés du trimaran à foils  Paul Ricard de Tabarly. Entièrement en fibre de carbone, le catamaran Techniques Avancées est équipé de deux ailes rigides pour la propulsion. Il reste fin 2005 le quatrième bateau le plus rapide ayant navigué.
+
+Multicoques de course 
+Les plus grands multicoques de course, sont par type :
+
+Le plus grand catamaran à voile jamais construit est le Douce France :  de grand luxe, de teck, etc. Sa coque est en aluminium et il possède deux mâts. Il a été fabriqué dans un petit chantier près de Nantes pendant deux ans par une équipe de seulement dix personnes !
+
+Répertoire synoptique par années de création 
+
+ En solitaire 
+
+ En double 
+
+ En équipage
+
+Notes et références
+
+Voir aussi
+
+Bibliographie
+
+Articles connexes 
+ Nautisme en France
+ Fédération française de voile
+ Voile handisport
+ Match racing
+
+Liens externes 
+ 
+ Solosailor - Termes techniques pour les marins en 9 langues
+
+Instances françaises et internationales 
+ Fédération Belge de voile - FFYB
+ Fédération Française de Voile - FFV
+ Union Nationale pour la Course au Large - UNCL
+ Association canadienne de Yachting
+ Voile Québec
+ International Sailing Fédération - ISAF
+
+Vocabulaire maritime

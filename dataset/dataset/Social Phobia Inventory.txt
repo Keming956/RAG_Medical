@@ -1,0 +1,18 @@
+Social Phobia Inventory (SPIN) is a questionnaire developed by the department of Psychiatry and Behavioral Sciences of Duke University for screening and measuring severity of social anxiety disorder. This self-reported assessment scale consists of 17 items, which cover the main spectrum of social phobia such as fear, avoidance, and physiological symptoms. The statements of the SPIN items indicate the particular signs of social phobia. Answering the statements a person should indicate how much each statement applies to him or her.
+
+The SPIN questionnaire is similar to a customer service survey. Each statement of SPIN can be measured by a choice of five answers based on a scale of intensity of social phobia signs ranging from "Not at all" to "Extremely". Each answer is then assigned a number value ranging from least intense to most intense. Overall assessment is done by total score, and the total score higher than 19 indicates on likelihood of social anxiety disorder.
+
+The SPIN is considered as a valid assessment scale for screening social anxiety disorder as well as measuring of social phobia severity and outcome following treatment. Other screening scales are the SPAI-B and the Liebowitz Social Anxiety Scale.
+
+mini-SPIN 
+A shortened version entitled mini-SPIN with only 3 questions has been found to accurately identify 90% of people diagnosed with generalized social anxiety disorder.
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links 
+SPIN - Online Social Phobia Test
+
+Psychiatric instruments: anxiety

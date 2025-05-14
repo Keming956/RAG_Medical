@@ -1,0 +1,168 @@
+Le diagnostic de performance énergétique, ou DPE, est un diagnostic réalisé en France sur des biens immobiliers. C'est l'un des documents faisant partie du dossier de diagnostics techniques (DDT). La durée de validité d'un DPE réalisé après le 1er juillet 2021 est de dix ans. Ceux réalisés avant le 1er juillet 2021 et avant le 31 décembre 2017 sont respectivement valides jusqu'au 31 décembre 2024 et jusqu'au 31 décembre 2022.
+
+Le DPE doit être présenté lors de la vente ou de la location des logements et des bâtiments tertiaires (bureaux, hôtel, etc.). Il vise à informer le futur propriétaire et le locataire de la consommation d'énergie du logement ou du bâtiment tertiaire sur son chauffage, son refroidissement et sa production d'eau chaude sanitaire (ECS). Dans le cadre de la lutte contre l'habitat indigne et la précarité énergétique, la mise en location des logements classés G, F et E, familièrement qualifiés de « passoires thermiques », sera interdite respectivement à partir de 2025 (classe G), 2028 (classe F) et 2034 (classe E). Depuis 2022, les logements de classes F et G font également l'objet d'un gel des loyers pour les locataires déjà titulaires d'un bail comme lors d'une relocation et les annonces de vente ou de location portant sur ces logements doivent obligatoirement porter la mention «  Logement à consommation énergétique excessive ».
+
+Présentation et contenu 
+Le DPE pour un bien immobilier doit comporter quatre parties :
+ Consommation annuelle d'énergie exprimée en kWh et en euros ;
+ Positionnement en consommation d'énergie primaire / m / an et en émission de gaz à effet de serre (GES) / m / an ;
+ Descriptif du local : le bâti (parois verticales, fenêtres, portes, plafond et plancher), et des systèmes (chauffage, eau chaude sanitaire, ventilation et refroidissement).
+ Recommandations d'améliorations énergétiques.
+
+Pratique
+
+Estimation de la consommation annuelle 
+Il existait deux méthodes principales pour réaliser un DPE pour les bâtiments existants (une troisième méthode existe pour la réalisation des DPE construction ou neuf avec la synthèse de l'étude thermique). Depuis l'entrée en vigueur du nouveau DPE au 1er juillet 2021 comme prévu par la loi ELAN de 2018, la méthode des relevés des consommations n'est plus valable et le DPE est devenu pleinement juridiquement opposable à partir du 1er janvier 2022.
+
+Soit à partir d'une méthode de diagnostic conventionnel (type 3CL-DPE), valable uniquement pour les logements à chauffage individuel construits à partir de 1948, en prenant en compte les caractéristiques thermiques du bâtiment (zone climatique, isolation ou pas des parois, vitrage… qui permettront de calculer les déperditions statiques), de la ventilation (déperditions dynamiques) et les caractéristiques des systèmes de chauffage, de production d'eau chaude sanitaire et de refroidissement. De ce bilan peut être déduite l'électricité produite à demeure (soit par des capteurs photovoltaïques soit par une éolienne).
+
+L'ancienne méthode à partir du relevé des consommations (dite « méthode des factures ») en s'appuyant sur les consommations des trois dernières années pour les autres cas (logements avant 1948, appartements chauffés collectivement, bâtiments tertiaires) n'est pas compatible avec l'opposabilité juridique des DPE depuis 1er janvier 2022. Ces factures doivent faire apparaître une consommation et non des euros. Si le DPE est en cours de réalisation ou si le recueil des informations n’a pas été possible alors le DPE est vierge. Celui-ci n’indique aucun classement énergétique. Cette « méthode des factures » n'est plus admise en France à partir du 1er juillet 2021.
+
+Dans tous les cas, le DPE doit obligatoirement être réalisé par un diagnostiqueur professionnel, ayant reçu une certification personnelle. Il revient au propriétaire de vérifier la validité de cette certification directement sur le site web de l'organisme certificateur.
+
+Calcul du DPE (kWhep / m / an) 
+Le calcul respecte des conventions afin d'obtenir le DPE intrinsèque de l'habitat :
+
+ Température à l'intérieur est à  (de 22 heures à 6 heures) la nuit et  le jour (de 6 heures à 22 heures).
+ Prise en compte des températures extérieures moyennes base 18 °C, mesurées sur les trente dernières années. La France est divisée en trois zones.
+ Présence dans le logis des occupants moyen au mètre carré de  par jour en semaine et  le week-end. La résidence inoccupée est à .
+ Énergie pour l'eau chaude sanitaire fonction de la surface habitable (conforme au CCH) et de la zone climatique (H1, H2 ou H3). Le débit d'air renouvelé dépend du volume de l'habitation et du taux de renouvellement d'air lié au type de ventilation. À ce débit est ajouté un taux de renouvellement d'air lié aux défauts d'étanchéité du bâti.
+
+Évaluation des indicateurs   
+Les consommations annuelles d'énergie finale pour toutes les énergies sont ramenées à deux indicateurs. Le premier, un indicateur de consommation d'énergie exprimé en énergie primaire kWhep /(m.an), la surface considérée est la surface habitable en logement ou la surface thermique (Surface utile x 1,1) en tertiaire ; et le second un indicateur d'impact sur les émissions de gaz à effet de serre exprimé en kgeqCO2 /m.an.
+
+Le passage des consommations finales à la consommation d'énergie primaire se fait sur la base des facteurs de conversion suivants : facteur 1 pour tous les combustibles fossiles (fioul, gaz naturel…) ; facteur 0,6 pour le bois (choix politique et non physique, pour soutenir cette filière d'une source renouvelable) et un facteur 2,58 pour l'électricité, de façon à prendre en compte le rendement « global » de l'outil de production de l'électricité en France. Le transport n'est pris en compte pour aucune des énergies. Le passage aux émissions de gaz à effet de serre se fait sur la base de contenu CO2 par type d'énergie. 
+
+L'énergie primaire correspond aux consommations « réelles » de ressources. Par convention, l'énergie consommée pour le transport, raffinage et la distribution des energies fossiles ne sont pas prises en compte (coef : 1). Le facteur 2,58 affecté à l'électricité traduit les pertes en ligne (environ 3 % ), mais surtout les faibles rendements des centrales thermiques (nucléaires ou fossiles).
+
+Positionnement en consommation et gaz à effet de serre (pour les logements) 
+Les deux images avec leur dégradé de couleurs (comme pour les réfrigérateurs, congélateurs) donnent une indication globale visuelle. On passe de la consommation annuelle en énergie finale à une consommation en énergie primaire exprimée en kWh-ep /m .an. Jusqu'à 2021, les classes de consommation étaient définies comme suit :
+
+ 0 - 50 classe A. Les logements les plus performants ; difficilement atteignable en rénovation mais accessible pour la construction neuve au logement conforme au label règlementaire « Bâtiments basse consommation »,
+ 51 - 90 classe B. Atteignable en construction neuve à condition de disposer d'un système de chauffage et d'ECS performant (pompe à chaleur, chaudière à condensation, système solaire…), atteignable en rénovation. Concerne certaines constructions neuves conformes au label réglementaire « Bâtiments Basse Consommation »,
+ 91 - 150 classe C. Standard dans la construction neuve des maisons chauffées au gaz en France (la RT 2005 impose par exemple à Paris au maximum 130 kWh-ep/m/an). 
+ 151 - 230 classe D.  Standard dans la construction neuve des maisons chauffées à l'électricité en France (la RT 2005 impose par exemple à Paris au maximum 250 kWh-ep/m/an)  Standard des années 1980 et 90 pour les chauffages à combustibles. Des améliorations substantielles sont facilement atteignables notamment par le remplacement de chaudière et l'isolation des combles et fenêtres, ou par le passage à une pompe à chaleur pour les systèmes électriques.
+ 231 - 330 classe E. Des logements avant le premier choc pétrolier ou des logements anciens chauffés à l'électricité.
+ 331 - 450 classe F. Des logements anciens généralement construits entre 1948 et 1975. Les économies réalisables sont très importantes, le rendement économique (retour sur investissement) est évident. 
+ 451 - ... classe G        
+
+Le classement pour les bâtiments tertiaires (non explicité dans cet article) descend jusqu'à G également mais avec des variantes d'échelles selon le type de bâtiments. Le dégradé en émissions de gaz à effet de serre (GES) peut être différent en fonction des énergies. Par exemple : le bois a un impact faible en analyse de cycle de vie (13 gCO2eq/kWh) ; le gaz naturel (234 gCO2eq/kWh) a un impact plus faible que le fioul domestique (300 gCO2eq/kWh).
+
+La réforme du DPE appliquée à partir du 1er juillet 2021 modifie les seuils de passage entre ces classes et y introduit la prise en compte des émissions de . Les nouvelles classes sont définies de la façon suivante :
+ Classe A : moins de  et de 
+ Classe B :  et 
+ Classe C :  et 
+ Classe D :  et 
+ Classe E :  et 
+ Classe F :  et 
+ Classe G : plus de  et de 
+Les classes G, F et E sont considérées comme des « passoires énergétiques » et seront interdites à la location respectivement en 2025, 2028 et 2034. Depuis 2022, un gel des loyers est également imposé pour les logements classés F et G. Au début de 2021, le nombre de ces derniers était estimé à . A partir du 1er juillet 2021, le DPE devient opposable : l'occupant du logement peut refaire un diagnostic et se retourner contre le propriétaire du bien qu'il loue, ou le propriétaire du bien qu'il a acheté, pour demander une compensation.
+
+Données clés 
+Cette étape du diagnostic doit être une véritable investigation du technicien qui établit le DPE. Elle comprend : 
+
+ Mur : la nature de la construction : brique pleine (simple ou double), brique creuse, bloc de béton creux (parpaing), béton cellulaire, pans de bois, béton banché, etc. Son épaisseur, s'il est ou non isolé et s'il l'est la résistance thermique de l'isolant ou à défaut son épaisseur ou à défaut l'année à laquelle a été effectuée l'isolation. 
+ Plafond : Nature du plafond (dalle béton, hourdi, plaques de plâtre, etc), sur quel type de local il donne (local chauffé, combles perdus, terrasse, etc), s'il est isolé ou non et, s'il l'est, la résistance thermique de l'isolant en place, ou à défaut son épaisseur, ou à défaut l'année à laquelle a été effectué l'isolation. 
+ Menuiseries : simple ou double vitrage, bois, alu, PVC, en double fenêtre, présence ou non de protection solaire (volets), masque homogène ou non, etc. 
+ Plancher bas : nature du plancher (dalle béton, hourdi avec entrevous isolants ou non, isolant sous la chape ou non) et sur quoi il donne: sur terre plein, sur vide sanitaire, sur local chauffé / non chauffé. 
+ Descriptif des ponts thermiques (5 types de ponts thermiques sont pris en compte en DPE) : mur/plancher bas, mur/plancher haut, mur/plancher intermédiaire, mur/refend et mur/menuiserie. 
+ Système de chauffage et de production d'eau chaude sanitaire (ECS) : chaudière (gaz, fioul, électrique ou bois), PAC (air/air, air/eau, eau/eau, etc.), poêle/insert, cheminée à foyer ouvert, système électrique à effet joule direct (tel que: convecteurs, panneaux rayonnants, etc.). Également le cas échéant le système de refroidissement des locaux.
+ Ventilation : simple flux autoréglable, simple flux hygroréglable de type A ou B, double flux avec ou sans échangeur, puits canadien, ventilation hybride, etc.
+
+Recommandations d'amélioration énergétique 
+ Nouvelle consommation : cette mesure réduit la consommation de x % par rapport à l'état initial (ou successifs).  
+ Investissement : une estimation. 
+ Économies : traduction en euro de la nouvelle consommation (pour les logements individuels à la vente uniquement).
+ Rapidité du retour sur investissement : indication (pour les logements individuels à la vente uniquement).
+ Crédit d'impôt : peut être de 30 % (pour l'isolation ou l'installation d'un système de chauffage performant) selon les mesures.  
+ Pour les personnes au revenu modeste, le Pacte Énergie Solidarité permet d'isoler  de combles pour seulement .  
+
+Des explications peuvent être nécessaires sur l'addition des mesures et les nouvelles consommations, car si le remplacement de la chaudière en exemple réduit la consommation de 23,8 %, l'isolation de la toiture permet d'améliorer l'efficacité de 25 % (sur l'ensemble des pertes) ; l'addition des deux mesures permet une amélioration de 42,8 % et non 48,8 %.
+
+Cadre juridique en France
+
+Origine 
+Il est issu de l'application de la Directive pour la performance énergétique des bâtiments (2002/91/EG), votée en application du protocole de Kyōto par l'Union européenne. Sa transposition dans la loi française est terminée (loi du  et décret du ). Elle est en vigueur depuis le . De nouveaux arrêtés sont signés en 2012 pour relancer et généraliser le DPE dans le secteur public comme privé.
+
+Établissement 
+Le DPE doit être établi par un diagnostiqueur certifié (personnellement et non son entreprise) par un organisme accrédité depuis le .
+
+Celui-ci doit : 
+ présenter des garanties de compétence et disposer d'une organisation et de moyens appropriés ;
+ avoir souscrit une assurance permettant de couvrir les conséquences d'un engagement de sa responsabilité en raison de ses interventions ;
+ n'avoir aucun lien de nature à porter atteinte à son impartialité et à son indépendance.
+
+Il faut compter 30 à 120 minutes pour la réalisation d'un diagnostic énergétique de manière correcte. Le temps d'intervention dépend en partie de la surface du bien à expertiser, du nombre de pièces et de l'accès aux informations. La personne qui établit son diagnostic engage sa responsabilité. On observe une plus grande concentration des valeurs de DPE juste en dessous du seuil D➜E et du seuil E➜ que dans toutes les autres tranches, ce qui pourrait s'expliquer par l'ajustement à la baisse d'un diagnostic en valeur limite pour gagner un cran sur l'échelle des étiquettes, seule marquante pour le client.
+
+Application et controverses 
+Le DPE doit être fourni par le vendeur immobilier à partir du  pour les ventes de bâtiments existants, et pour des logements dont le permis de construire a été déposé après le  pour les locations et les bâtiments neufs. Pour les bâtiments recevant du public de plus de 1000 m (ERP de catégorie 1 à 4), il y a obligation d'affichage à partir du . Sauf pour les bâtiments non chauffés, les lieux de culte, les monuments historiques, les bâtiments individuels dont la SHOB est inférieure à ² et les bâtiments temporaires (utilisation de moins de 24 mois). L'affichage du diagnostic de performance énergétique (DPE) est obligatoire dans les annonces immobilières de particuliers et de professionnels lors de la vente ou la location d'un logement depuis le  relatif à la mention du classement énergétique des bâtiments dans les annonces immobilières. Cette mesure réglementaire a pour objectif de mieux informer les particuliers lors de l'achat ou la location d'un logement. En outre, elle s'inscrit dans la loi Grenelle 2 du  portant 
+
+Comme tout nouveau système de certification, on constate certains abus et la prudence s'impose dans le choix d'un prestataire. Sur 15 contre-expertises réalisées par Afnor Certification en matière de DPE, UFC-Que choisir a constaté 8 erreurs de classement dans une enquête du printemps 2008.  La fiabilité du DPE est remise en cause en raison des différences de résultat constatées sur le terrain pour un même et unique bien. C'est notamment ce que dénonce l'association de consommateurs UFC-Que Choisir en 2011, et différents blogs francophones spécialisés en immobilier qui relayent les faiblesses du diagnostic de performance énergétique. Pour autant, il faut préciser que le DPE n'a légalement qu'une valeur indicative, et n'est donc pas opposable en droit. Il le deviendra au  (loi 2018-1021, ELAN). Contrairement à un contrôle technique automobile par exemple, un acheteur se sentant lésé, y compris avec un gros écart entre l'estimation DPE et la réalité, ne peut se retourner ni contre le diagnostiqueur, ni contre le vendeur, l'agence ou le notaire. Cette disposition unique parmi les diagnostics du DDT, de l’aveu même de nombreux membres de la profession, de divers représentants de l’ADEME et autres spécialistes de l’énergie, a été adoptée face à la trop grande marge d’erreur entre la théorie et la pratique.
+
+Divers membres notoires de l’association négaWatt ont testé certaines de leurs récentes réalisations à très basse consommation et à forte orientation bioclimatique ainsi que des maisons passives sans chauffage, et ont noté une marge d’erreur sur-estimant jusqu’à 300 % les chiffres annoncés par l’algorithme de calcul du DPE par rapport à la réalité. Ceci, car la méthode officielle du DPE ne tient pas compte des apports solaires gratuits, ni de l’inertie thermique des bâtiments, comme le ferait une étude thermique dynamique. En cas de vente, ces bâtiments exemplaires seraient donc classés comme des bâtiments conventionnels classe C et D alors qu'ils sont classés en A dans l'étude thermique. Dans la majorité des cas (maisons conventionnelles non bioclimatiques), le DPE a plutôt tendance à sous-estimer la consommation car en l’état actuel, il se base sur du déclaratif théorique et de simples vérifications à l’œil nu des parties accessibles, et en aucun cas sur de réelles mesures avec des outils professionnels modernes tels que la thermographie infrarouge, ou le test d'infiltrométrie, le comptage poste par poste...etc. Or jusqu’à présent, en l’absence de réelles mesures systématiques, les garanties énergétiques apportées dans la construction ne sont que des garanties de moyens et non des garanties de résultats. Les spécialistes de la performance énergétique du bâtiment insistent désormais beaucoup sur les grands écarts de performance qui peuvent exister avec le même matériau et en même quantité, en fonction de la qualité ou de l'installation de celui-ci.
+Le label BBC Effinergie, devenu la nouvelle réglementation de base RT2012, tend à faire valoir la garantie de résultat, notamment grâce à l'obligation de mesures d’infiltrométrie.
+
+Dans la méthode par 3CL, le DPE est calculé en fonction d’une famille ayant un comportement énergétique dit «standard» au sens statistique, et non en fonction de celle réellement concernée. Et ceci à juste titre puisque s’agissant d’un outils pour la revente ou la location il faut donner un repère le plus équitable possible à tout un chacun. le problème étant de savoir où nous nous situons individuellement vis-à-vis de cette moyenne. et d’un cas à l’autre beaucoup d’ONG environnementales ont relevé des écarts pouvant aller de 1 à 3 et plus. Une part non négligeable de la marge d’erreur est donc liée à la différence comportementale qu’il peut y avoir d’une famille à une autre pour un même bien immobilier. De plus, mathématiquement, cette variation des consommations entre familles se ressent plus fortement dans une maison performante que dans une épave énergétique où les pertes énergétiques liées à la structure sont plus grandes et « noient dans la masse » celles liées aux utilisateurs eux-mêmes. L’autre méthode par analyse des factures énergétiques sur les 3 dernières années, n’est pas non plus exempte d’incertitudes. Par exemple, une famille de 5 membres chauffant toute la maison prenant des bains et douches, ne pourra pas se baser sur les factures d’une personne seule très économe ne chauffant que la pièce de vie afin de prendre une décision bien éclairée et suffisamment précise avant un éventuel achat.
+
+En plus des associations de consommateurs ayant dénoncé beaucoup d’irrégularités dans l’établissement du DPE certaines ONG et de très nombreux spécialistes du domaine ont pointé du doigt le manque de fiabilité de la formation des diagnostiqueurs, leur méconnaissance du bâtiment et leur manque d’indépendance. Selon l’ADEME, les choses s’améliorent et la profession  progressivement, mais, à défaut de n’avoir aucun outil parfait et bon marché et face à l’hétérogénéité des logements et des niveaux qualitatif de mise en œuvre des matériels et matériaux, le DPE actuel reste l’unique moyen de notation et comparaison. Il ne faut donc pas confondre le DPE, avec une étude thermique réglementaire détaillée, exhaustive et obligatoire dans la construction neuve, une simulation thermique dynamique encore plus détaillées et complète, ou un audit énergétique personnalisé et indépendant.
+
+À décharge, il faut comprendre qu'il n'existe pas de  de consommation d'énergie dans un bâtiment ni de résultat absolu qui vaille dans tous les cas et qui l'emporte sur d'autres (pour une même maison : classement de consommation  obtenu via une étude thermique, classement de consommation  via un DPE, classement  via un audit énergétique). Il réside autant de résultats que de méthodes de calcul et d'hypothèses de départ: celui du DPE n'est pas plus ou moins faux qu'un autre. Il peut parfois ne pas être pertinent, comme dans le cas cité plus haut où son résultat s'appuie sur des factures d'un occupant ne consommant que très peu d'énergie, mais il n'en est pas pour autant faux. 
+
+Le résultat de consommation avec la méthode de calcul 3CL caractérise le bâtiment dans un usage standardisé du bien (hypothèses) et non la consommation des occupants actuels ou futurs. A contrario, la méthode sur relevé de factures réelles d'énergies caractérise la consommation des occupants actuels et non celle des futurs occupants ou du bâtiment lui-même. Quels que soient la méthode employée, la pertinence du résultat et le professionnalisme du diagnostiqueur, un effort pédagogique important doit être réalisé auprès des professionnels de l'immobilier et des utilisateurs du DPE pour faire comprendre, suivant les cas, comment est obtenu ce résultat. Il faut bien garder à l'esprit qu'il s'agit d'une méthode réglementaire, c'est-à-dire imposée aux diagnostiqueurs. En , à la télévision française (dans l'émission Capital) a été diffusé un reportage enquête sur les diagnostics immobiliers dont le DPE, en exposant plusieurs des controverses indiquées ci-dessus.
+
+Relance à la suite du Grenelle de l'environnement 
+
+Les discussions du Grenelle ont favorisé la reconnaissance du DPE à travers les COMOP relatifs aux bâtiments existants et neufs alors que les diagnostics collectifs confirment l'archaïsme du parc immobilier français comme celui de Paris. Pour répondre aux recommandations, le décret n° 2008-461 du 15/05/2008 renforce l'obligation du DPE. Quatre arrêtés confirment les nouvelles obligations en vue d'une généralisation du DPE qui devient l'outil technique et pédagogique indispensable d'une .
+
+Selon un communiqué du Premier Ministre,
+
+Réforme de 2021 
+Le 15 février 2021, le ministère chargé du logement présente la réforme du diagnostic de performance énergétique. L'opposabilité de ce diagnostic, prévue à partir du 1er juillet 2021, imposait d'homogénéiser le mode de calcul. Son affichage obligatoire dans les annonces immobilières à compter du 1er janvier 2022 imposait de le rendre plus lisible. Enfin, en devenant la référence de plusieurs dispositions légales et réglementaires, il se devait de devenir un outil plus complet et objectif. La méthode dite « sur facture » n'est donc plus admise. Le DPE s'appuie désormais uniquement sur les caractéristiques physiques du logement comme , et utilise des données d'entrée voulues plus fiables ; la nouvelle méthode intègre de nouveaux paramètres : . L'étiquette énergie est conservée, mais inclut également la production de . Une étiquette climat est néanmoins indiquée en supplément, ainsi qu'une estimation du montant moyen des factures énergétiques du logement, les actions de rénovation énergétique à entreprendre en priorité et des scénarios de travaux. Les seuils des classes A à G ont été revus pour prendre en compte la production de . Ces nouveaux seuils entrainent, d'après le ministère, la sortie des catégories F et G (subissant un gel de loyers dès 2022) pour , dont  chauffés à l'électricité et  à la biomasse (bois, principalement) ; à l'inverse,  logements y entrent avec le nouveau DPE :  chauffés au fioul et  au gaz ; le nombre des logements classés F et G reste donc stable, à . Près de 80 % des logements chauffes à l'électricité actuellement classés F et G le resteront après la réforme.
+
+Mise en œuvre dans d'autres pays européens 
+L'application de la directive installant le DPE était prévue pour le . Beaucoup de pays ont pris un retard dans la transposition. Ceci s'explique par l'ampleur des diagnostics à réaliser, la formation des personnes, la disponibilité des outils de calcul, etc. Il existe déjà au Royaume-Uni (depuis 2004), et en Italie (depuis 2007). En Allemagne, une version antérieure existe, la transposition de la directive DPE a été décidée le  et entre en vigueur en 2007 et 2008.
+
+Sur Internet 
+Il est possible de faire une simulation de DPE sur Internet. Il s’agit d'un moyen de se faire une première idée de la performance énergétique de son habitation (maison ou appartement). Cependant, ils n’ont aucune valeur légale et ne dispensent en aucun cas d’un DPE établi par un professionnel. Il est recommandé de faire une simulation sur un site qui utilise la méthode 3CL développée par l’ADEME. 
+En principe, les simulateurs demandent des informations sur la localisation et sur la description du logement, sur l’enveloppe du logement (toiture, murs, plancher, fenêtres) et sur les équipements (chauffage et eaux chaudes sanitaires). Le simulateur fournit alors l’étiquette énergétique du logement et dans la plupart des cas des solutions d’économies d’énergie adaptées. Concernant la fiabilité des résultats, il faut faire attention aux sites qui sont édités par des professionnels de l’énergie. Ces derniers ont tendance à privilégier les solutions d’économies d’énergie qu’ils sont capables de fournir.
+
+Belgique 
+Le PEB (Performance Energétique des Batiments)  est l'équivalent en Belgique du DPE, le code étant différent pour la Wallonie et Bruxelles.
+
+Canada 
+Au Canada la conformité des bâtiments va être démontré.
+
+Notes et références
+
+Annexes
+
+Articles connexes 
+ ADEME (Agence de l'environnement et de la maîtrise de l'énergie)
+ Bilan carbone
+ Contenu CO2
+ Code de la construction et de l'habitation
+ Performance énergétique des bâtiments
+ Audit énergétique en copropriété
+
+Législation 
+Europe :
+ Directive 2010/31/EU  
+France :
+ Code de la construction et de l'habitation
+ Livre  : Dispositions générales : Articles L.126-26 et suivants ; R.126-15 et suivants
+ Livre II : Statut des constructeurs : Articles L.271-4 et suivants
+ Décret n 2012-1530 du  relatif aux caractéristiques thermiques et à la performance énergétique des constructions de bâtiments NOR : ETLL1240559D
+ Arrêté du 20 juillet 2011 portant approbation de la méthode de calcul Th-B-C-E prévue aux articles 4, 5 et 6 de l'arrêté du  relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments
+ Legifrance.gouv.fr - Obligation de mention de l'étiquette DPE dans les annonces immobilières
+
+Autres liens externes 
+  Maquette pour le diagnostic des logements à chauffage individuel DPE au ministère du logement 
+ Diagnostic de performance énergétique, sur le site service-public.fr
+ Réglementation thermique « RT 2005 »
+  Allemagne EnEV2005, EnEV2007, Energiepass (source : dena gmbH)
+
+Réglementation thermique du bâtiment
+Gestion de la construction
+Droit immobilier en France
+Diagnostic immobilier
+Outil de gestion de l'environnement

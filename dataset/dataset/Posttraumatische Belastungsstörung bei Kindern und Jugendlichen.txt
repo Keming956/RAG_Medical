@@ -1,0 +1,269 @@
+Die Posttraumatische Belastungsstörung (PTBS) bei Kindern und Jugendlichen ist eine gravierende psychische Störung. Forschungsbefunde zeigen, dass bereits Kleinkinder und Vorschulkinder eine PTBS entwickeln können. Die PTBS weist bei Kindern und Jugendlichen eine Reihe von Besonderheiten gegenüber der PTBS bei Erwachsenen auf.
+
+Umgangssprachlich werden sehr viele Situationen, wie z. B. Scheidungen als „traumatisch“ bezeichnet. Diese führen jedoch in der Regel nicht zu den charakteristischen Symptomen der PTBS. Der wissenschaftliche Traumabegriff ist in den diagnostischen Klassifikationssystemen psychischer Störungen (DSM-IV und ICD-10) enger definiert: Es handelt sich um ein Ereignis, bei dem der oder die Betroffene unter großer Furcht und Entsetzen direkt oder indirekt eine Situation erlebt, die eine Bedrohung der körperlichen Unversehrtheit seiner selbst oder eines anderen Menschen beinhaltet. Beispiele sind Amoklauf an einer Schule, Psychoterror (Mobbing), sexuelle und körperliche Gewalt, Unfälle oder Naturkatastrophen. Bei Kindern und Jugendlichen „scheint auch die verbale Vermittlung eines solchen Ereignisses eine PTBS auslösen zu können, z. B. die Nachricht oder Fotografien vom gewaltsamen Tod eines Familienmitglieds“.
+
+Im Anschluss an ein traumatisches Ereignis müssen im Falle einer PTBS Symptome des Wiedererlebens (z. B. Intrusionen und Flashbacks), der Vermeidung und der autonomen Übererregung vorliegen. Die grundlegenden Dimensionen der aufgeführten Symptome sind in Tabelle 1 dargestellt. Sie machen deutlich, dass sich eine PTBS bei Kindern altersspezifisch zeigt und ganz wesentlich vom Stand ihrer kognitiven, affektiven und sozialen Entwicklung bestimmt wird.
+
+Traumatische Ereignisse werden auch eingeteilt in Typ-1-Traumata, d. h. kurzdauernde traumatische Ereignisse und Typ-2-Traumata, d. h. langdauernde, sich wiederholende traumatische Ereignisse. Weiterhin wird häufig zwischen Katastrophen und von Menschen verursachten Ereignissen („man-made disaster“) unterschieden, wobei gilt, dass die langandauernden und von Menschen verursachten traumatischen Ereignisse schwerwiegendere Auswirkungen auf die psychische Gesundheit haben und weit über die in Tabelle 1 aufgeführten Symptome hinausgehen können (s.a.: Trauma (Psychologie): Ereignisfaktoren).
+
+Fallbeispiele 
+Zur Veranschaulichung der Symptome werden zwei Fallbeispiele aufgeführt.
+
+Diagnosekriterien der PTBS bei Kindern und Jugendlichen 
+Vorbemerkungen:
+
+(1) „Die Folgen eines Traumas sind umso größer, je jünger ein Mensch ist.“ (Scheeringa et al., 2003; Steil, 2003, zit. n. Arnold, 2010). (2) Die PTBS-Kriterien wurden auf der Basis der Symptomatik Erwachsener entwickelt. Sie spiegeln aber nur teilweise die Reaktionen im Kindes- und Jugendalter wider. Vor allem im Bereich der DSM-Kriterien C (Vermeidung) und D (Hyperarousal) zeigen Kinder und Jugendliche ähnliche Symptome wie Erwachsene (Arnold, 2010). Im DSM-IV-TR werden Besonderheiten bei Kindern explizit in den Kriterien A und B angegeben. (3) Von einigen Autoren wird vorgeschlagen, dass bei Kindern weniger Symptome als bei Erwachsenen für eine Diagnosestellung ausreichen sollten: Bei Kriterium B ein Symptom, bei Kriterium C ein Symptom und bei Kriterium D zwei Symptome (siehe Scheeringa et al., 2003; Simons & Herpertz-Dahlmann, 2008). (4) Als häufigste Symptome bei traumatisierten Kindern zwischen 7 und 14 Jahren werden „Vermeidung von Gedanken, Gefühlen und Reden über das Trauma“, die „Unfähigkeit sich an alle wichtigen Aspekte des traumatischen Ereignisses zu erinnern“ sowie „belastende Erinnerungen“ und „belastende Träume“ genannt. (Carrion et al., zit. n. Simons & Herpertz-Dahlmann, 2008).
+
+Tabelle 1: Symptome der PTBS bei Kindern und Jugendlichen gemäß DSM-IV
+
+Aktuell diskutiert wird eine neue Störungskategorie als Vorschlag für das DSM-V, die insbesondere die Reaktionen nach multipler interpersoneller Traumatisierung eventuell in Kombination mit Vernachlässigung erfassen soll, die entwicklungsbezogene Traumafolgestörung. Die Kriterien dieser Entwicklungsbezogenen Traumafolgestörung bei komplex traumatisierten Kindern nach van der Kolk et al. (2009) enthält Kasten 1.
+
+Kasten 1: Kriterien der Entwicklungsbezogenen Traumafolgestörung bei komplex traumatisierten Kindern nach van der Kolk et al. (2009)
+
+Pathogenese
+
+Risikofaktoren 
+Es gibt eine Reihe von Faktoren, die die Wahrscheinlichkeit einer posttraumatischen Belastungsstörung vergrößern oder Schutzfaktoren darstellen. Risikofaktoren können in prätraumatisch (Faktoren, mit denen eine Person in die traumatische Situation hineingeht), peritraumatisch (Eigenschaften des Ereignisses und psychische Vorgänge in dieser Situation) und posttraumatisch (Faktoren, die nach der Situation wirken) unterschieden werden. Bei den prätraumatischen Faktoren spielen jüngeres Alter, weibliches Geschlecht, Minoritätenstatus, niedriger sozioökonomischer Status, prätraumatische psychische Morbidität (schon vor dem traumatischen Ereignis bestehende psychische Störungen), Vortraumatisierung, Familienstruktur, Funktionsniveau, schlechteres visuelles Gedächtnis (De Bellis et al., 2010), möglicherweise genetische Prädispositionen (Cortisol oder Catechol-O-methyltransferase) (Kolassa et al., 2010) sowie Substanzmissbrauch (Kingston & Raghavan, 2009) eine Rolle. Die peritraumatischen Faktoren umfassen Stressorschwere, wahrgenommene Lebensgefahr, Tod und Verletzung bekannter Personen, Ressourcenverlust, eigene Verletzung, Umstände des Ereignisses, emotionale Reaktion, Verhalten der Eltern und Aufnahme an einer pädiatrischen Intensivstation (Bronner et al., 2008). Relevante posttraumatische Faktoren sind die Akute Belastungsreaktion (ABR), Psychopathologie, mangelnde soziale Unterstützung, dysfunktionale Bewältigungsstrategien, PTBS der Mutter (Yehuda et al., 2008) oder allgemeiner PTBS eines Elternteils, familiäre Faktoren, hohe Überfürsorglichkeit der Eltern (Bokszczanin, 2008), häufiger Wohnortwechsel und weitere belastende Lebensereignisse. Die mit PTBS am meisten verbundenen Faktoren sind die peritraumatischen Faktoren Stressorschwere, wahrgenommene Lebensgefahr sowie Ressourcenverlust und die posttraumatischen Faktoren akuten Belastungsreaktion, Psychopathologie, mangelnde soziale Unterstützung und weitere belastende Lebensereignisse (Kultalahti & Rosner, 2008). Eine prätraumatische psychische Vorerkrankung steht ebenfalls in einem hohen Zusammenhang mit der Entwicklung der PTBS (Kultalahti & Rosner, 2008). Tabelle 2 vermittelt einen Überblick über die möglichen Risikofaktoren einer PTBS.
+
+Tabelle 2: Mögliche Risikofaktoren einer PTBS bei Kindern und Jugendlichen
+
+Modelle der PTBS 
+
+Zur Erklärung der PTBS wurde eine Reihe von Modellen entwickelt. Sie müssen (a) die Symptomatik (b) Genesung und Heilung und (c) individuelle Unterschiede erklären können (Dalgleish, 2004, zit. n. Steil & Rosner, 2009). Ein adaptierbares Modell der PTBS für den Kinder und Jugendlichenbereich ist das kognitive Modell der PTBS nach Ehlers und Clark (2000).
+
+Modell der PTBS nach Ehlers und Clark 
+
+Beim Modell der PTBS handelt es sich um ein Kognitives Modell. Für die Entstehung einer PTBS sind nach Ehlers und Clark (1999, zitiert nach Ehlers, 1999) zwei verschiedene Faktoren notwendig. Zum einen spielen die Interpretation des traumatischen Ereignisses, andererseits die Charakteristika des Gedächtnisses für traumatische Erinnerungen sowie deren Verbindung zum episodischen und autobiographischen Gedächtnis eine Rolle.
+
+Ehlers und Clark (1999, zitiert nach Ehlers, 1999) nehmen an, dass PTBS-Patienten Schwierigkeiten haben, das traumatische Ereignis willentlich zu erinnern, dass intrusives Erleben überwiegend sensorisch und nicht kognitiv geschieht.
+
+Abbildung 1 zeigt das von Ehlers und Clark (1999, zitiert nach Ehlers, 1999) entwickelte Modell. Die Autoren erklären darin, dass Personen nur dann eine PTBS entwickeln, wenn sie ein traumatisches Ereignis so verarbeiten, dass sie in ihrer Wahrnehmung eine gegenwärtige Bedrohung erleben.
+
+Diagnostik
+
+Besonderheiten der PTBS-Diagnostik bei Kindern und Jugendlichen 
+
+In Anbetracht der möglichen Unterschiede in der PTBS-Symptomatik sowie unterschiedlicher Voraussetzungen ist ein diagnostisches Vorgehen angezeigt, das dem Rechnung trägt.
+
+Bei der Diagnostik müssen sowohl der kognitive als auch sprachliche Entwicklungsstand des Kindes berücksichtigt werden. Dazu zählen z. B. Aspekte des autobiographischen Gedächtnisses und erhöhte Suggestibilität bei Kindern (Cossins, 2010). Aus diesem Grund sollten verschiedene Informationsquellen zu Rate gezogen werden; dazu können neben den Eltern des Kindes auch Betreuer oder Lehrpersonen zählen.
+
+Hinsichtlich des sprachlichen Entwicklungsstandes sollte berücksichtigt werden, dass sich jüngere Kinder auch auf andere Weise mitteilen, z. B. durch Zeichnung oder Spielverhalten (Steil & Rosner, 2009). Aufgrund der kindspezifischen Symptomatik ist die Verwendung darauf abgestimmter diagnostischer Instrumente (Interviews, Fragebögen) notwendig. Für eine ausführliche Diagnostik sind in der Regel 2–5 Sitzungen zu veranschlagen (Steil & Rosner, 2009). Sie dient als Grundlage für eine individuell angepasste Therapieplanung.
+
+Anamnese 
+
+Zu Beginn der Diagnostik steht ein erstes exploratives Gespräch, das unter anderem die aktuelle und frühere psychiatrische Symptomatik von Kind und Eltern, medizinische Anamnese, Charakteristika und Umstände des traumatischen Ereignisses sowie Ressourcen und Risikofaktoren seitens des Kindes mit einschließt. Dieses sollte für Kind und Bezugspersonen getrennt erfolgen (Steil & Rosner, 2009). Beide Perspektiven sollten deshalb berücksichtigt werden, weil Kinder vor allem internalisierende Probleme (z. B. Schuld- und Schamgefühle, Ängste, depressive Verstimmung), Erwachsene eher externalisierende Aspekte (z. B. Trotz- und aggressives Verhalten, Hyperaktivität) berichten (Kolko & Kazdin, 1993) und im Allgemeinen dazu neigen, die Symptomatik des Kindes zu unterschätzen (Ceballo, 2001).
+
+Instrumentelle Erfassung der Art und Schwere der Störung
+
+Diagnostik bei Vorschulkindern 
+Da bei Kindern unter 5 bis 6 Jahren Selbstauskünfte nur bedingt als zuverlässig betrachtet werden können (Cossins, 2010), liegt der Schwerpunkt der Diagnostik in diesem Altersbereich bei der Befragung der Bezugspersonen. Dehon und Scheeringa (2006) verweisen auf die Möglichkeit einer diagnostischen Aussage anhand der Verwendung einer spezifischen Auswahl von 15 Fragen aus der Child Behavior Checklist 1½ – 5 Jahre (CBCL 1½ – 5 Jahre; Arbeitsgruppe Deutsche Child Behavior Checklist, 2002). Dies ist jedoch mit Vorsicht zu interpretieren, da die CBCL eher allgemeine psychische Belastung erfasst, nicht aber speziell PTBS-Symptomatik. Für die Diagnostik von PTBS bei Säuglingen und Kleinkindern liegt ein ins Deutsche übersetztes Interviewverfahren vor (Graf, Irblich & Landolt, 2008).
+
+Diagnostik bei Kindern über 6 Jahren 
+Zur Diagnostik existieren Interview- und Fragebogenverfahren. Generell sind (strukturierte) Interviews vorzuziehen, da auf das kognitive und sprachliche Niveau des Kindes individuell eingegangen werden kann. Offen formulierte Fragen verringern hierbei das Risiko von Suggestionen und erhöhen somit die Wahrscheinlichkeit einer unverfälschten Informationsgewinnung (Cossins, 2010).
+
+Als Goldstandard zur Diagnostik 7- bis 16-Jähriger gelten die Interviews zu Belastungsstörungen (IBS-KJ; Steil & Füchsel, 2006). Bei diesem Verfahren handelt es sich um die deutsche Übersetzung des Clinician Administered PTSD Scale for Children and Adolescents (CAPS-CA; Nader, Blake & Kriegler, 1994). Hiermit werden neben der Art der Störung (Akute Belastungsstörung (ABS), PTBS) nach Kriterien von sowohl ICD-10 als auch DSM-IV, auch Häufigkeit und Intensität der einzelnen Symptome erfasst. Vorzüge des Verfahrens liegen in der guten Verständlichkeit durch kindgerechte Formulierung und die Verwendung visueller Analogskalen. Für das Verfahren liegen Normwerte vor und die Testgüte gilt als gesichert (Steil & Rosner, 2009).
+
+Weitere gebräuchliche Verfahren sind der gleichermaßen als Interview- und Fragebogenverfahren einsetzbare UCLA-PTSD-RI (The University of California at Los Angeles Post-traumatic Stress Disorder Reaction Index; Steinberg, Brymer, Decker & Pynoos, 2004), sowie die reinen Fragebogenverfahren Children‘s Impact of Events Scale (Dyregrov, Kuterovac & Barath, 1996), Child PTSD Symptom Scale (Foa, Johnson, Feeny & Treadwell, 2001; keine deutschsprachige Übersetzung vorliegend) und die Checkliste zur Akuten Belastungsstörung (CAB; Frühe, Kultalahti & Rosner, 2007; speziell zur Diagnostik der Akuten Belastungsreaktion). Die Testgüte der deutschsprachigen Fassungen ist nicht in allen Fällen empirisch überprüft (Steil & Rosner, 2009).
+
+Differentialdiagnose 
+
+Von zentraler Bedeutung ist eine sorgfältige Differentialdiagnose deshalb, weil das Erscheinungsbild der PTBS in vielen Punkten anderen psychischen Störungen ähnelt.
+
+So finden sich Vermeidungssymptome auch im Rahmen von affektiven und Angststörungen und Übererregung als hyperkinetische Symptome einer Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS). Auffälligkeiten aus dem Bereich des Wiedererlebens könnten als Ausdruck einer psychotischen Störung fehlgedeutet werden (Cohen et al., 2010). Auch die Abgrenzung vom klinischen Bild einer komplizierten Trauer, sowie ferner Borderline-Persönlichkeitsstörung, Anpassungsstörung und Essstörungen ist unter Umständen angezeigt (Steil & Rosner, 2009).
+
+Die Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie schlägt ein differentialdiagnostisches Vorgehen gemäß Abbildung 2 vor.
+
+Prävalenz 
+
+Die Häufigkeit, ein traumatisches (und damit potenziell PTBS auslösendes) Ereignis zu erleben, ist regional unterschiedlich (vgl. Darves-Bornoz et al., 2008). Dies ist durch Unterschiede im Vorkommen von Naturkatastrophen, Kriegsgeschehen und dem allgemeinen Gewaltaufkommen in der Gesellschaft zu erklären.
+
+Je nach Definitionskriterien des Ereignisses kann die Häufigkeit bei 13- bis 16-Jährigen auch in nicht von Krieg betroffenen Ländern auf bis zu 90 % ansteigen, wenn negative Lebensereignisse wie Scheidung oder Schwangerschaftsabbruch mit in die Statistik aufgenommen werden (Petersen, Elklit & Olesen, 2010). Die Wahrscheinlichkeit einer PTBS infolge eines traumatischen Ereignisses ist auch abhängig vom Geschlecht – Mädchen entwickeln häufiger eine PTBS als Jungen (Gavranidou & Rosner, 2003) – und von der Art des Ereignisses.
+
+Tabelle 3 bietet einen Überblick epidemiologischer Studien zur PTBS im Kindes- und Jugendalter (nach DSM-IV Kriterien). Zu beachten sind die teilweise stark variierenden Prävalenzen, die auf die erwähnten Unterschiede in den Definitionskriterien eines traumatischen Ereignisses und andere Besonderheiten der jeweiligen Studien zurückzuführen sind.
+
+Tabelle 3: Prävalenzstudien zu traumatischen Ereignissen und PTBS in der Kindheit und Jugend
+
+Eine Studie mit jungen Kindern zwischen 2 und 10 Jahren von Meiser-Stedman et al. (2008), unter Anwendung alternativer Kriterien des DSM-IV für Kinder, zeigte Häufigkeiten von 11,5 % nach traumatischen Verkehrsunfällen. Wenn man demnach davon ausgeht, dass die vermutlich zu eng gefassten DSM-IV Kriterien betroffene Kinder und Jugendliche teilweise von der Diagnose ausschließen, ist von einer tatsächlich höheren Auftretenshäufigkeit der PTBS auszugehen. Dies macht die PTBS im Vergleich zu anderen psychischen Störungen zu einer häufigen Erkrankung bei Kindern und Jugendlichen (Steil & Rosner, 2009).
+
+Verlauf 
+
+Innerhalb der ersten vier Wochen nach einem traumatischen Ereignis kann es zu einer Akuten Belastungsreaktion (nach DSM-IV, entsprechend im ICD-10: F43.0 Akute Belastungsreaktion) kommen. Eine akute Belastungsreaktion besitzt allerdings nur einen mittleren prognostischen Zusammenhang mit der PTBS und ist daher nach wie vor als Prädiktor umstritten (Frühe, Kultalahti, Röthlein & Rosner, 2008). Die PTBS kann ab einem Zeitraum von vier Wochen nach dem traumatischen Ereignis diagnostiziert werden. Wenn die Symptome erst nach sechs Monaten oder später beginnen, spricht man von PTBS mit verzögertem Beginn; dies betrifft circa 10 % der Fälle (Yule et al., 2000).
+
+Das Risiko für eine PTBS ist geringer, wenn psychische Gesundheitsfürsorge in Anspruch genommen wird. Ohne Behandlung ist die Wahrscheinlichkeit eine PTBS oder Depression nach einem traumatischen Ereignis zu entwickeln um ein Vierfaches erhöht (Jia et al., 2010).
+
+Grundsätzlich muss man bei der PTBS von einem hohen Chronifizierungsrisiko ausgehen: Bei 30 % der untersuchten Jugendlichen mit einer diagnostizierten PTBS registrierten Yule et al. (2000) ein Jahr nach einem Schiffsunglück eine Verbesserung im subklinischen Bereich. 34 % der Betroffenen jedoch zeigten mehrere Jahre nach dem Unglück noch das Vollbild einer PTBS. Perkonigg et al. (2006) berichten als Ergebnis einer vierjährigen Langzeitstudie ein Chronifizierungsrisiko von 42,4 % bei 14- bis 17-Jährigen. Auch Landolt et al. (2003) stellten in einer Verlaufsanalyse nicht-therapierter Kinder mit PTBS keine signifikanten Symptomveränderungen innerhalb eines Jahres fest. Tendenziell nahm der Anteil der Diagnosen sogar zu.
+
+Komorbidität 
+
+Bezüglich der Häufigkeitsangaben von Komorbiditäten existieren verschiedene Forschungsergebnisse. Dies ist neben methodischen Gründen vor allem auf Unterschiede bezüglich des Auftretensalters, des Verlaufs und der zeitlichen Abfolge von primärer und sekundärer Störung zurückzuführen (Essau, Conradt & Petermann, 1999).
+
+Berichtete Komorbiditäten der PTBS im Kindes- und Jugendalter sind ADHS, affektive Störungen, Angststörungen, somatoforme Störungen, suizidales Verhalten und Schwierigkeiten bei der Bewältigung des Alltags (Essau, Conradt & Petermann, 1999).
+
+Unabhängig von der konkreten Diagnose wiesen Abram et al. (2007) bei 93 % der von ihnen untersuchten männlichen jugendlichen Häftlinge mit einer PTBS mindestens eine komorbide Störung nach. Dabei wurden bei 54 % zwei oder mehr Komorbiditäten diagnostiziert. Er stellte Depressionsraten von 17 % fest, Angststörungen wiesen 38 % der Untersuchten auf, ADHS 43 % und Substanzmissbrauch 79 % der Probanden. Bei Straftäterinnen zeigten sich unterschiedliche Raten: 24 % waren depressiv, 27 % hatten Angststörungen, 40 % ADHS und 63 % Substanzstörungen (Abram et al., 2007).
+
+Bei Vorschulkindern zeigen sich leicht abweichende Häufigkeiten. So berichten Scheeringa und Zeanah beim Vorhandensein einer PTBS eine allgemeine Komorbiditätsrate von 88,6 % – hierunter fanden sich am häufigsten die oppositionelle Trotzstörung und Angststörungen (Scheeringa & Zeanah, 2008).
+
+Häufig gehen mit einer PTBS auch eine erhöhte Rate körperlicher Erkrankungen einher. So berichten Rohleder und Karl (2006) in einer Überblicksstudie besonders von kardiovaskulären Erkrankungen, Autoimmunerkrankungen und chronischen Schmerzen (vgl. auch Boscarino, 2004). Zu dieser Thematik gibt es jedoch für Patienten im Kindes- und Jugendalter lediglich geringe empirische Evidenz.
+
+Entwicklungsbezogene Traumafolgestörungen 
+Nach intensiver Auseinandersetzung mit der Traumapsyschologie des Kindes- und Jugendalters kam Bessel van der Kolk zu der Erkenntnis, dass Kinder, die anhaltend in ihrer Kindheit traumatischen Erfahrungen ausgesetzt waren (oder immer noch sind), neben der PTBS noch verschiedene andere Erkrankungen aufweisen. Diese können sowohl physischer als auch psychischer Natur sein. Als Ursache dafür, sieht er veränderte neurobiologische Entwicklungen an, die durch Extremstress verursacht wurden (vgl. Krüger & Reddemann 2007, S. 66).
+
+Einige dieser entwicklungsbezogenen Traumafolgestörungen sind (vgl. Krüger & Reddemann 2007, S. 70):
+
+ Exposition & Veränderung der subjektiven Erlebnisqualität (z. B. bezüglich Angst, Schamgefühlen oder Niederlagen)
+ Wiederholte Dysregulationsmuster als Antwort auf Trauma-Trigger (z. B. Selbstattribution, Selbsthass oder Verwirrungszustände)
+ Anhaltend veränderte Attributionen und Erwartungshaltungen (z. B. Misstrauen gegenüber schützender Bezugspersonen, negatives Selbstbild oder mangelnde Gewissensfunktion)
+ Beeinträchtigung sozialer und anderer Funktionen (z. B. in Schule, Beruf oder Freizeit)
+
+Verschiedene Faktoren bedingen die Intensität der Auswirkungen eines Traumas auf die nachfolgende Entwicklung von Kindern. Diese werden im Folgenden aufgezählt (vgl. Streck-Fischer 2006, S. 2):
+
+ Entwicklungsstand zum Zeitpunkt des Traumas
+ Bisherige Bedingungen der Entwicklung
+ Ressourcen auf die das Kind zurückgreifen kann
+ Eingebundenheit in ein stabiles soziales Netzwerk
+ Verfügbarkeit einer Vertrauensperson
+
+Interventionen bei traumatisierten Kindern und Jugendlichen 
+
+Michaela Huber, Luise Reddemann und weitere Therapeuten heben hervor, dass zunächst die Abklärung der Ressourcen wichtig ist, das mit ihnen in Kontakt kommen sowie der Ausbau.
+
+Derzeit gibt es viele verschiedene Interventionen (mindestens 200 laut Streeck-Fischer (2007)), die in der Traumatherapie bei Kindern eingesetzt werden. Allerdings wurden bisher nur sehr wenige Interventionen hinsichtlich ihrer Eignung und Effektivität für Kinder und Jugendliche wissenschaftlich untersucht.
+
+Kinder und Jugendliche, die gerade ein traumatisches Ereignis erlebt haben, sollten in der Akutsituation im Rahmen einer Krisenintervention zuerst medizinisch und anschließend psychosozial versorgt werden. In der psychosozialen Versorgung geht es vor allem darum, wieder ein Stück Normalität herzustellen, indem Grundbedürfnisse wie Hunger, Durst und Müdigkeit gestillt und ein stabiles Sicherheitsgefühl (z. B. durch den Kontakt zu Bezugspersonen, gewohnte Umgebung, gewohnte Tagesroutinen) geschaffen wird (Steil & Rosner, 2009).
+
+Eine weitere mögliche Krisenintervention in der Akutversorgung ist das Einzelsitzungsdebriefing (Psychological Debriefing (Dyregrov, 1979), Critical Incident Stress Debriefing (Mitchell, 1983)). Von diesem ist eher abzuraten, da bisher keine gesicherten Hinweise für die Wirksamkeit von Einzelsitzungsdebriefing bei Kindern gefunden wurden (NICE, 2005; Stallard, 2006).
+
+Kinder und Jugendliche, die ein traumatisches Ereignis erlebt haben, benötigen nach der Krisenintervention eine weitere Intervention, wenn sie eine psychische Störung und zwar insbesondere eine ABS oder eine PTBS entwickeln. Hierfür sind nach aktuellen Forschungsergebnissen traumafokussierte Therapieansätze am Effektivsten. Traumafokussiert heißt, dass die traumatischen Erfahrungen des Kindes in den Mittelpunkt der Therapie gestellt und explizit angesprochen werden (Exposition). Derzeit gelten die traumafokussierte Kognitive Verhaltenstherapie (KVT) und das Eye Movement Desensitization and Reprocessing (EMDR) als am besten untersuchten Methoden (AACAP, 2010; NICE, 2005).
+
+Die traumafokussierte Kognitive Verhaltenstherapie setzt sich aus folgenden Komponenten zusammen:
+
+ Psychoedukation (Vermittlung von allgemeinen Informationen zu möglichen Reaktionen auf traumatische Ereignisse)
+ Stressmanagement (z. B. Erlernen von Entspannungs- und Atemtechniken)
+ Exposition (Konfrontation mit traumaspezifischen Erinnerungen und Situationen, die aufgrund des hohen aversiven Charakters vermieden werden)
+ Kognitive Therapie (Identifikation und Modifikation von nicht hilfreichen Gedanken und Gefühlen)
+
+Vor der therapeutischen Arbeit am Trauma müssen die Ressourcen der Kinder gestärkt werden. Ein wesentlicher Teil dieser Ressourcen sind die Eltern und weitere Bezugspersonen. Laut der American Academy of Child & Adolescent Psychiatry (AACAP) sollten Eltern als Unterstützer einer positiven Veränderung in die Therapie miteinbezogen werden; ebenso Erzieherinnen in Kindertagesstätten, Lehrer und Ärzte des Kindes. Gemeinsames Ziel ist dabei die Förderung der Funktionsfähigkeit, Resilienz und Weiterentwicklung des Kindes (nicht nur eine Verringerung der Symptomatik) (AACAP, 2010). Ein gut erprobtes traumafokussiertes Therapiemanual, das die von der AACAP geforderten Anforderungen erfüllt, ist bspw. die traumafokussierte kognitive Verhaltenstherapie nach dem Manual von Cohen, Mannarino & Deblinger (2006). Diese Therapie hat folgende 10 Komponenten für das traumafokussierte Vorgehen:
+
+In den ersten 5 Komponenten werden basale Informationen und Fähigkeiten vermittelt, in den Komponenten 6 bis 10 geht es um die Traumaexposition und die Vorbereitung der Familie auf die Zeit nach der Therapie:
+
+ Psychoedukation
+ Elternfertigkeiten
+ Entspannung
+ Ausdruck und Modulation von Affekten
+ Kognitive Verarbeitung und Bewältigung
+ Traumanarrativ
+ Kognitives Bewältigen und Durcharbeiten
+ In-vivo-Bewältigung von traumatischen Erinnerungen
+ Gemeinsame Eltern-Kind-Sitzungen
+ Verbesserung zukünftiger Sicherheit und Entwicklung
+
+Das Therapiemanual betont die Wichtigkeit der Sensibilität des Therapeuten beim Aufbau einer vertrauensfördernden therapeutischen Beziehung und beim flexiblen und kreativen Umgang mit dem Therapiemanual (Cohen, 2006).
+
+Als zweites, sehr effektives Verfahren zur Behandlung traumatisierter Kinder und Jugendlicher gilt EMDR. Es basiert auf einem theoretischen Modell, in dem es darum geht, Erinnerungen an Gedanken, Gefühle und körperliche Empfindungen, die in Zusammenhang mit dem traumatischen Ereignis stehen und aversiv sind, vom impliziten Gedächtnis in das explizite Gedächtnis zu verschieben. Damit sind diese Erinnerungen nicht länger von der normalen Informationsverarbeitung abgeschnitten. Sie können wieder in Kontext mit bereits vorhandenen Erinnerungen und Erfahrungen gesetzt und verarbeitet werden und können dadurch ihre starke Aversivität verlieren (NICE, 2005).
+
+In einer EMDR-Sitzung wird der Patient angeleitet, sich an das traumatische Ereignis zu erinnern, während in verschiedenen Phasen der Behandlung bilaterale physische Stimulation (Augenbewegungen, Berührungen, Töne) vom Therapeuten erfolgt. Ziele des EMDR-Verfahrens sind Desensibilisierung, Reduzierung der Erregung sowie das Gewinnen einer neuen Einsicht bzw. einer veränderten Überzeugung hinsichtlich des erlebten traumatischen Ereignisses. Das EMDR-Verfahren enthält also Elemente der gestuften Exposition, der kognitiven Umstrukturierung und des klassischen Konditionierens (NICE, 2005).
+
+Die von Kemp, Drummond und McDermett (2009) durchgeführte Studie weist die Eignung des EMDR-Verfahrens für traumatisierte Kinder und Jugendliche nach.
+
+Neben den bisher genannten Therapieansätzen zeigt die Forschung, dass auch die Narrative Expositionstherapie (NET; Schauer, Neuner & Elbert, 2005) ein vielversprechendes Verfahren bei Kindern und Jugendlichen sein kann. NET zeigte laut Studie bei Kindern und Jugendlichen eine effektive Reduktion der Traumasymptomatik. Eine Verbesserung tritt selbst dann ein, wenn das Umfeld der jungen Patienten instabil, unsicher und unberechenbar bleibt (Robjant & Fazel, 2010). Inzwischen gibt es für die Narrative Expositionstherapie für Kinder und Jugendliche die Bezeichnung KIDNET. Auf der Basis psychologischer und neurowissenschaftlicher Erkenntnisse – vor allem zu Lernen und Gedächtnis – werden traumatische Ereignisse mit dem Ziel der psychischen und autobiografischen Integration aufgearbeitet (Sonnenmoser, 2009). Die Kurzzeittherapie erstreckt sich normalerweise auf acht Phasen (= Sitzungen).
+
+Pharmakotherapie 
+
+In der Behandlung von PTBS bei Kindern und Jugendlichen ist aufgrund von unzureichender Forschung von einer Pharmakotherapie abzuraten (NICE, 2005). Wenn sie in Erwägung gezogen wird, dann nur begleitend zu einer Psychotherapie – beispielsweise, wenn zusätzlich eine starke depressive oder andere Symptomatik besteht, das Kind/der Jugendliche schlecht auf die Therapie anspricht (AACAP, 2010) oder keine Psychotherapie verfügbar ist. Inzwischen konnte für unterschiedliche Wirkstoffe, die je nachdem in welcher Phase der PTBS der Patient ist und welches Ziel erreicht werden soll, eine begrenzte Wirksamkeit gezeigt werden, aber die Forschung ist noch nicht weit genug, um generelle Empfehlungen aussprechen zu können (Huemer, 2010).
+
+Literatur
+
+Monographien 
+ Marylene Cloitre, Lisa Cohen, K. Koenen: Treating Survivors of Childhood Abuse. Guilford, New York 2006, ISBN 1-59385-312-2. (Praxisorientierte umfassende Übersicht über die Auswirkungen von traumatischen Erlebnissen im Kindes- und Jugendalter sowie zum konkreten phasenorientierten Behandlungsansatz).
+ J. Cohen, A. Mannarino, E. Deblinger: Traumafokussierte kognitive Verhaltenstherapie bei Kindern und Jugendlichen. Springer, Berlin 2009, ISBN 978-3-540-88570-2 (Beschreibt die Durchführung einer kompletten Therapie mit verhaltenstherapeutischem Ansatz bei Trauma und Trauer im Kindes- und Jugendalter mit anschaulichen Materialien und Beispielen).
+ A. Krüger: Akute psychische Traumatisierung bei Kindern und Jugendlichen. Ein Manual zur ambulanten Versorgung. Klett-Cotta, Stuttgart 2008, ISBN 978-3-608-89065-5 (Vermittelt grundlegendes Wissen über Traumatisierungen und ihre Auswirkungen sowie die ersten Behandlungsschritte bei Heranwachsenden nach einem akuten Trauma).
+ D. J. Kolko, C. C. Swenson: Assessing and treating physically abused children and their families. Sage Publ., London 2002, ISBN 978-0-7619-2149-3 (Praxisorientierter Ansatz zur Diagnose und Behandlung von physisch missbrauchten Kindern sowie Beschreibungen von Kinder-, Eltern- und Familien-spezifische Behandlungen).
+ M. A. Landolt: Psychotraumatologie des Kindesalters. Hogrefe, Göttingen 2004, ISBN 978-3-8017-2450-4 (Überblick über Entstehung, Diagnostik, Verlauf, Prävention und Behandlung von Posttraumatischen Belastungsstörungen im Kindes- und Jugendalter).
+ M. A. Landolt, T. Hensel: Traumatherapie bei Kindern und Jugendlichen. Hogrefe, Göttingen 2008, ISBN 978-3-8017-2071-1 (Umfassender Überblick über aktuelle Methoden der Traumatherapie im Kindes- und Jugendalter. (TF-CBT, EMDR, Narrative Expositionstherapie, Spieltherapie u. a.)).
+ R. Steil, R. Rosner: Posttraumatische Belastungsstörung. Hogrefe, Göttingen 2009 (Aktuelle Beschreibung der PTB in Kindheit und Jugend, praxisorientierter und umfassender Einblick in die Diagnostik und Behandlung, sowie Übersicht aktueller Forschungsergebnisse und hilfreiche Materialien).
+
+Elternratgeber und Kinderbücher 
+ A. Krüger: Erste Hilfe für traumatisierte Kinder. Patmos, Düsseldorf 2007, ISBN 978-3-8436-0146-7 (Anschaulich und mit vielen Beispielen zeigt dieses Buch, was Erwachsene tun können, um Kindern bei der Bewältigung eines Traumas zu helfen).
+ A. Krüger: Powerbook, Erste Hilfe für die Seele. Elbe & Krueger Verlag, Hamburg 2011, ISBN 978-3-9814282-0-9 (Mit dem Powerbook können betroffene junge Menschen – anhand zahlreicher Fallbeispiele – ihre traumatischen Erfahrungen besser verstehen. In einfacher Sprache und anhand anschaulicher Bilder vermittelt der Autor Möglichkeiten zur Selbstheilung, die zu schneller, spürbarer Entlastung führen).
+ R. Lackner, B. Lueger-Schuster, K. Pal-Handl: Wie Pippa wieder lachen lernte. Ein Bilderbuch für Kinder. Springer, Wien 2005, ISBN 3-211-22415-7 (Betroffene Kinder erhalten mit Hilfe dieses Buches die Möglichkeit sich auszudrücken, Fragen zu stellen und somit traumatische Erlebnisse prozesshaft zu verarbeiten).
+ B. Lueger-Schuster, K. Pal-Handl: Wie Pippa wieder lachen lernte. Elternratgeber für traumatisierte Kinder. Springer, Wien 2004, ISBN 3-211-22416-5 (Der Elternratgeber gibt leicht verständlich dargestellte Tipps zur Trauma- und Trauerverarbeitung und vermittelt hilfreiche Informationen über Beratungsstellen, Webpages und weiterführender Literatur).
+ R. Rosner, R. Steil: Ratgeber Posttraumatische Belastungsstörung. Informationen für Betroffene, Eltern, Lehrer und Erzieher. Hogrefe, Göttingen 2009 (Der Ratgeber liefert verständliche Informationen zum Störungsbild der Posttraumatischen Belastungsstörung in Kindheit und Jugend sowie zu dessen Behandlung).
+ U. Endres: Zart war ich, bitter wars. Sexueller Missbrauch an Jungen und Mädchen. Erkennen, Schützen, Beraten. Kiepenheuer & Witsch, Köln 2001, ISBN 978-3-462-03328-1 (EA Köln 2001; Vermittelt Fakten, Hintergründe, Ursachen und Folgen sexuellen Missbrauchs und bietet konkrete Hilfen an).
+
+Weblinks 
+ Hilfe für Kinder und Jugendliche nach Gewalt und Katastrophen. National Institut of Mental Health, USA, Deutsche Bearbeitung: Dieter Berger, psychotrauma-kinder.de, 24. Mai 2018 (Archiv).
+ Rita Rosner, Regina Steil: Posttraumatische Belastungsstörung bei Kindern und Jugendlichen. DNP – Der Neurologe & Psychiater, 2013; 14(1), S. 2–10, (Archiv).
+ Marion Sonnenmoser: Posttraumatische Belastungsstörung – Ausmaß bei Kindern unterschätzt. Deutsches Ärzteblatt, PP 8, Heft 9, September 2009, S. 413–416, (Archiv).
+ Deutschsprachige Version der Children’s Impact of Event Scale. http://www.childrenandwar.org (Word-Dokument 26 kB; Abgerufen am 2. Oktober 2012, Archiv).
+ Post-traumatic stress disorder aumatic stress disorder. NICE guideline. National Institute for Health Care and Exellence. Published: 5 December 2018, ISBN 978-1-4731-3181-1 (PDF 226kB).
+
+Quellenangaben 
+
+ AACAP: Practice parameter for the assessment and treatment of children and adolescents with posttraumatic stress disorder. In: Journal of the American Academy of Child and Adolescent Psychiatry, Bd. 49 (2010), Heft 4, S. 414–430, .
+ K. M. Abram, J. J. Washburn, L. A. Teplin, K. M. Emanuel, E. G. Romero, G. M. McClelland: Posttraumatic stress disorder and psychiatric comorbidity among detained youths. In: Psychiatric Services,Bd. 58 (2007), Heft 10, S. 1311–1316, .
+ A. Bokszczanin: Parental support, family conflict, and overprotectiveness. Predicting PTSD symptom levels of adolescents 28 months after a natural disaster. In: Stress & Coping. An International Journal, Bd. 21 (2008), Heft 4, S. 325–335.
+ J. A. Boscarino: Posttraumatic stress disorder and physical illness. Results from clinical and epidemiologic studies. In: Annals of the New York Academy of Sciences, Heft 1032 (2004), S. 141–153, .
+ M. B. Bronner, H. Knoester, A. P. Bos, B. F. Last, M. A. Grootenhuis: Posttraumatic stress disorder (PTSD) in children after paediatric intensive care treatment compared to children who survived a major fire disaster. In: Child and Adolescent Psychiatry and Mental Health, Bd. 2 (2008), Heft 9,  (Zugriff am 14. Dezember 2010 unter http://www.capmh.com/content/2/1/9).
+ R. Ceballo, T. A. Dahl, M. T. Aretakis, C. Ramirez: Inner-city children’s exposure to community violence. How much do parents know? In: Journal of Marriage and Family, Bd. 63 (2001), S. 927–940, .
+ Child Behavior Checklist: Elternfragebogen für Klein- und Vorschulkinder (CBCL-1½-5). Deutsche Arbeitsgruppe Kinder-, Jugend- und Familiendiagnostik (KJFD), Köln 2002.
+ J. A. Cohen, O. Bukstein, H. Walter, R. S. Benson, A. Chrisman, T. R. Farchione et al.: Practice parameter for the assessment and treatment of children and adolescents with posttraumatic stress disorder. In: Journal of the American Academy of Child and Adolescent Psychiatry, Bd. 49 (2010), S. 414–430, .
+ J. A. Cohen, M. S. Scheeringa: Post-traumatic stress disorder diagnosis in children. Challenges and promises. In: Dialogues in Clinical Neuroscience, Bd. 11 (2009), S. 91–99, .
+ J. A. Cohen, A. P. Mannarino, E. Deblinger: Treating trauma and traumatic grief in children and adolescents. Guilford, New York 2006, ISBN 978-1-59385-308-2.
+ Judith A. Cohen: Traumafokussierte kognitive Verhaltenstherapie bei Kindern und Jugendlichen. Springer, Heidelberg 2009, ISBN 978-3-540-88570-2.
+ W. E. Copeland, G. Keeler, A. Angold, E. J. Costello: Traumatic events and posttraumatic stress in childhood. In: Archives of General Psychiatry, Bd. 64 (2007), S. 577–584, .
+ J.-M. Darves-Bornoz, J. Alonso, G. de Girolamo, R. de Graaf, J.-M. Haro, V. Kovess-Masfety et al.: Main traumatic events in Europe. PTSD in the European study of the epidemiology of mental disorders survey. In: Journal of Traumatic Stress, Bd. 21 (2008), Heft 5, S. 455–462, .
+ M.D. De Bellis, S. R. Hooper, D. P. Woolley, C. E. Shenk: Demographic, maltreatment, and neurobiological correlates of PTSD symptoms in children and adolescents. In: Journal of Pediatric Psychology, Bd. 35 (2010), Heft 5, S. 570–577, .
+ C. Dehon, M. S. Scheeringa: Screening for preschool posttraumatic stress disorder with the Child Behavior Checklist. In: Journal of Pediatric Psychology, Bd. 31 (2006), S. 431–435, .
+ Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie u. a. (Hrsg.): Leitlinien zur Diagnostik und Therapie von psychischen Störungen im Säuglings-, Kinder- und Jugendalter. 3. Aufl. Deutscher Ärzte Verlag, Köln 2007, ISBN 978-3-7691-0492-9.
+ V. Domanskaité-Gota, A. Elklit, D. M. Christiansen: Victimization and PTSD in a lithuanian national youth probability sample. In: Nordic Psychology, Bd. 61 (2009), Heft 3, S. 66–81, .
+ A. Dyregrov: The process in critical incident stress debriefings. In: Journal of Traumatic Stress, Bd. 10 (1979), S. 589–605, .
+ A. Dyregrov, G. Kuterovac, A. Barath: Factor analysis of the Impact of Event Scale with children in war. In: Scandinavian Journal of Psychology, Bd. 36 (1996), S. 339–350, .
+ A. Ehlers: Posttraumatische Belastungsstörungen (Fortschritte der Psychotherapie; Bd. 8). Hogrefe, Göttingen 1999, ISBN 3-8017-0797-0.
+ C. Essau, J. Conradt und F. Petermann: Häufigkeit der Posttraumatischen Belastungsstörung bei Jugendlichen. Ergebnisse der Bremer Jugendstudie. In: Zeitschrift für Kinder- und Jugendpsychiatrie, Psychotherapie, Bd. 27 (1999), Heft 1, S. 37–45, .
+ C. Essau, J. Conradt, F. Peterman: Frequency, comorbidity, and psychological impairment of anxiety disorders in german adolescents. In: Journal of Anxiety Disorders, Bd. 14 (2000), Heft 3, S. 263–279, .
+ E. B. Foa, K. M. Johnson, N. C. Feeny, K. R. Treadwell: The child PTSD symptom scale. A preliminary examination of its psychometric properties. In: Journal of Clinical Child Psychology, Bd. 30 (2001), S. 376–384, .
+ B. Frühe, T. Kultalahti, R. Rosner: Checkliste zur Akuten Belastung. Ludwig-Maximilians-Universität, München 2007.
+ B. Frühe, T. Kultalahti, H.-J. Röthlein, R. Rosner: Vorhersagbarkeit posttraumatischer Belastung bei Kindern und Jugendlichen nach traumatischen Ereignissen in der Schule. In: Kindheit und Entwicklung, Bd. 17 (2008), Heft 4, S. 219–223, .
+ M. Gavranidou, R. Rosner: The weak sex? Gender and PTSD. In: Depression and Anxiety, Bd. 17 (2003), S. 130–139, .
+ A. Graf, D. Irblich, M. A. Landolt: Posttraumatische Belastungsstörungen bei Säuglingen und Kleinkindern. In: Praxis der Kinderpsychologie und Kinderpsychiatrie, Bd. 57 (2008), S. 247–263, .
+ Th. Hensel: EMDR with children and adolescents after single-incident trauma. In: Journal of EMDR practice and research, Bd. 3 (2009), Heft 1, S. 2–9, .
+ J. Huemer, F. Erhardt, H. Steiner: Posttraumatic stress disorder in children and adolescents. A review of psychopharmacological treatment. In: Child Psychiatry and Human Development, Bd. 41 (2010), S. 624–640, .
+ Z Jia, W. Tian, X. He, W. Liu, Ch. Jin, H. Ding: Mental health and quality of life survey among survivors of the 2008 Sichuan earthquake. In: Quality of Life Research, Bd. 19 (2010), S. 1381–1391, .
+ M. Kemp, P. Drummond, B. McDermott: A wait-list controlled pilot study of eye movement desensitization and Reprocessing (EMDR) for children with post-traumatic stress disorder (PTSD) symptoms from motor vehicle accidents. In: Clinical Child Psychology and Psychiatry, Bd. 14 (2009), .
+ S. Kingston, C. Raghavan: The relationship of sexual abuse, early initiation of substance use, and adolescent trauma to PTSD. In: Journal of Traumatic Stress, Bd. 22 (2009), Heft 1, S. 65–68, .
+ I.-T. Kolassa, S. Kolassa, V. Ertl, A. Papassotiropoulos, D. J.-F. De Quervain: The risk of posttraumatic stress disorder after trauma depends on traumatic load and the catechol-O-methyltransferase Val¹58Met polymorphism. In: Biological Psychiatry, Bd. 67 (2010), Heft 4, S. 304–308, .
+ D. J. Kolko, A. E. Kazdin: Emotional/behavioral problems in clinic and nonclinic children. Correspondence among child, parent and teacher reports. In: Journal of Child Psychology and Psychiatry, Bd. 34 (1993), S. 991–1006, .
+ T. Kultalahti, R. Rosner: Risikofaktoren der Posttraumatischen Belastungsstörung nach Trauma-Typ-I bei Kindern und Jugendlichen. In: Kindheit und Entwicklung, Bd. 17 (2008), Heft 4, S. 210–218, .
+ M. Landolt, M. Vollrath, K. Ribi, K. Timm, F. Sennhauser, H. Gnehm: Inzidenz und Verlauf posttraumatischer Belastungsreaktionen nach Verkehrsunfällen im Kindesalter. In: Kindheit und Entwicklung, Bd. 12 (2003), Heft 3, S. 184–192, .
+ R. Meiser-Stedman, P. Smith, E. Glucksman, W. Yule, T. Dalgleish: The posttraumatic stress disorder diagnosis in preschool- and elementary school-age children exposed to motor vehicle accidents. In: American Journal of Psychiatry, Bd. 165 (2008), Heft 10, S. 1326–1337, .
+ J. T. Mitchell: When disaster strikes… The critical incident stress debriefing. In: Journal of Emergency Medical Service, Bd. 8 (1983), S. 36–39, .
+ A. Perkonigg, R. C. Kessler, S. Storz, H.-U. Wittchen: Traumatic events and post-traumatic stress disorder in the community. Prevalence, risk factors and comorbidity. In: Acta Psychiatrica Scandinavica, Bd. 101 (2000), S. 46–59, .
+ A. Perkonigg, H. Pfister, M. B. Stein, M. Hoefler, R. Lieb, A. Maercke, H.-U. Wittchen: Longitudinal course of posttraumatic stress disorder and posttraumatic stress disorder symptoms in a community sample of adolescents and young adults. In: European Neuropsychopharmacology, Bd. 16, Suppl. 4 (2006), S. 453–454, .
+ T. Petersen, A. Elklit, J. Gytz Olesen: Victimization and PTSD in a Faroese youth total-population sample. In: Scandinavian Journal of Psychology, Bd. 51 (2010), S. 56–62, .
+ K. Robjant, M. Fazel: The Emerging Evidence for Narrative Exposure Therapy. Hogrefe, Göttingen 2010.
+ N. Rohleder, A. Karl: Role of endocrine and inflammatory alterations in comorbid somatic diseases of post-traumatic stress disorder. In: Minerva Endocrinologica, Bd. 31 (2006), Heft 4, S. 273–288, .
+ R. Rosner, M. Hagl: Posttraumatische Belastungsstörung. In: Kindheit und Entwicklung, Bd. 17 (2008), Heft 4, S. 205–209, .
+ H. Saß, H.-U. Wittchen, M. Zaudig: Diagnostisches und Statistisches Manual. Psychischer Störungen, Textrevision, DSM-IV-TR. Hogrefe, Göttingen 2003, ISBN 3-8017-1660-0.
+ M. Schauer, F. Neuner, T. Elbert: Narrative Exposure Therapy. Hogrefe, Göttingen 2005, ISBN 0-88937-290-X.
+ M. S. Scheeringa, C. H. Zeanah: Reconsideration of Harm’s Way. Onsets and comorbidity patterns of disorders in preschool children and their caregivers following hurricane Katrina. In: Journal of Clinical Child & Adolescent Psychology, Bd. 37 (2008), Heft 3, S. 508–518, .
+ M. S. Scheeringa, C. H. Zeanah, M. J. Drell, J. A. Larrieu: Two approaches to the diagnosis of posttraumatic stress disorder in infancy and early childhood. In: Journal of the American Academy of Child and Adolescent Psychiatry, Bd. 34 (1995), S. 191–200, .
+ M. S. Scheeringa, C. H. Zeanah, L. Myers, F. W. Putnam: New findings on alternative criteria for PTSD in preschool children. In: Journal of the American Academy of Child and Adolescent Psychiatry, Bd. 42 (2003), S. 561–570, .
+ M. S. Scheeringa, C. H. Zeanah: Symptom expression and trauma variables in children under 48 months of age. In: Infant Mental Health Journal, Bd. 16 (1995), Heft 4, S. 259–270, .
+ M. Simons, B. Herpertz-Dahlmann: Traumata und Traumafolgestörungen bei Kindern und Jugendlichen: Eine kritische Übersicht zu Klassifikation und diagnostischen Kriterien. In: Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie, Bd. 36 (2008), Heft 3, S. 151–161, .
+ C. Smith Stover, H. Hahn, S. Berkowitz, J. Y. Jamie: Agreement of parent and child reports of trauma exposure and symptoms in the early aftermath of a traumatic event. In: Psychological Trauma. Theory, Research, Practice And Policy, Bd. 2 (2010), Heft 3, .
+ M. Sonnemmoser: Posttraumatische Belastungsstörung. Ausmaß bei Kindern unterschätzt. In: Deutsches Ärzteblatt, Heft 9 (2009), S. 413–416, .
+ P. Stallard: Psychological interventions for post-traumatic reactions in children and young people. A review of randomised controlled trials. In: Clinical Psychology Review, Bd. 26 (2006), S. 895–911, .
+ R. Steil, G. Füchsel: IBS-KJ. Interviews zu Belastungsstörungen bei Kindern und Jugendlichen. Hogrefe, Göttingen 2006.
+ R. Steil, R. Rosner: Ratgeber „Posttraumatische Belastungsstörung“. Hogrefe, Göttingen 2009, ISBN 978-38017-1819-0.
+ A. M. Steinberg, M. J. Brymer, K. B. Decker, R. S. Pynoos: The University of California at Los Angeles post-traumatic stress disorder reaction index. In: Current Psychiatry Reports, Bd. 6 (2004), S. 96–100, .
+ A. Streeck-Fischer: Probleme in der Diagnostik und Behandlung traumatisierter Kinder und Jugendlicher. In: F. Lamprecht (Hrsg.): Wohin entwickelt sich die Traumatherapie? (Leben lernen; Bd. 199). Klett-Cotta, Stuttgart 2007, ISBN 978-3-608-89041-9.
+ E. V. Trask, K. Walsh, D. DiLillo: Treatment effect for common outcomes of child sexual abuse. A current meta-analysis. In: Aggression and violent behaviour, Bd. 16 (2011), Heft 1, S. 6–19, .
+ B. A. Van der Kolk: Developmental trauma disorder. A new, rational diagnosis for children with complex trauma histories. In: Psychiatric Annals, Bd. 35 (2005), S. 401–408, .
+ B.A. Van der Kolk, R. S. Pynoos, C. Cicetti, M. Cloitre, W. D’Andrea, J. D. Ford et al.: Proposal to include a developmental trauma disorder diagnosis for children and adolescents in DSM-V. Inproceedings, February 1, 2009 (Archiv).
+ R. Yehuda, A. Bell, L. M. Bierer, J. Schmeidler: Maternal, not paternal, PTSD is related to increased risk for PTSD in offspring of Holocaust survivors. In: Journal of Psychiatric Research, Bd. 42 (2008), Heft 13, S. 1104–1111, .
+ W. Yule, D. Bolton, O. Udwin, S. Boyle, D. O’Ryan, J. Nurrish: The long-term psychological effects of a disaster experienced in adolescence. The incidence and course of PTSD. In: The Journal of Child Psychology and Psychiatry, Bd. 41 (2000), Heft 4, S. 503–511, .
+
+Einzelnachweise 
+
+Psychische Störung
+Psychosoziale Notfallversorgung

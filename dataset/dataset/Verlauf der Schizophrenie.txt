@@ -1,0 +1,106 @@
+Der Krankheitsverlauf von Schizophrenien ist seit mehreren Jahrzehnten Gegenstand intensiver Forschungsarbeit. Trotz großer methodischer Einschränkungen bei der Vergleichbarkeit der durchgeführten Studien ergab sich eine gewisse Regelmäßigkeit in den Verlaufsbeschreibungen der Erkrankung.
+
+Historische Aspekte 
+
+Kraepelin hat in seiner grundlegenden Studie von 1893 erstmals die „Dementia Praecox“ (Schizophrenie) vom „Manisch-depressiven Irresein“ (Affektive Störung) unterschieden. Kraepelin unterstellte dabei eine ungünstige Prognose für die Schizophrenie.
+Diese Vermutung wurde schon bald kritisiert. Bleuler wies in seiner Studie von 1911 schon zu Recht auf die Heterogenität der Erkrankung hin. In seinen späteren Arbeiten nahm Kraepelin noch Bezug auf diese Kritik. Andere Autoren bestätigten die Vermutung, dass eine vereinfachende Dichotomisierung der klinischen Realität nicht gerecht werde.
+
+Kritik an Kraepelin kam nicht nur aus den Reihen seiner eigenen Schüler (Robert Gaupp (1870–1953) war Oberarzt bei Kraepelin), sondern auch aus konkurrierenden Schulen. Carl Wernicke (1848–1905) unternahm den Versuch, die endogenen Psychosen ähnlich wie neurologische Erkrankungen zu systematisieren. Sein Schüler Karl Kleist (1879–1960), der sich vor allem mit der Erforschung der Katatonie befasste, sowie der sich der Schule Wernickes verbunden verstehende Karl Leonhard (1904–1988) erarbeiteten ein Klassifikationsschema in dem jene Gruppe von Erkrankungen Gestalt annahm, die sie „Zykloide Psychosen“ nannten.
+
+Das der heutigen Psychiatrie geläufige Spektrum der „Endogenen Psychosen“ sieht eine Gruppe von Erkrankungen vor, die erstmals Robert Gaupp in der oben zitierten Arbeit als „Mischpsychose“ bezeichnet hatte und die heute als „Schizoaffektive Psychosen“ bekannt sind (ICD-10 F 25). Diese Erkrankungen unterscheiden sich nicht nur in ihrem Querschnittsbild, sondern auch in ihrem Verlauf und der Prognose. Obwohl diese Tatsachen schon in den 1920er Jahren in der Psychiatrie hinlänglich bekannt waren, änderte sich an der Hospitalisierungspraxis schizophrener Patienten nichts. Retrospektive Untersuchungen zeigten, dass in den 1930er Jahren 40–50 % der schizophrenen Patienten länger als fünf Jahre hospitalisiert waren.
+
+Langzeitstudien zur Schizophrenie 
+
+Die Hospitalisierungsdauer schizophrener Patienten verändert sich ab ca. 1960. Dafür sind zwei Dinge maßgeblich verantwortlich. Einerseits die Entwicklung von Neuroleptika, mit denen erstmals die Positivsymptome einer Schizophrenie vergleichsweise nebenwirkungsarm behandelt werden konnten. Andererseits werden ab 1960 die ersten großen empirischen Verlaufsstudien zu schizophrenen Psychosen veröffentlicht, die bewiesen, dass die pessimistische Prognosevermutung Kraepelins bezüglich der „Dementia praecox“ falsch war.
+
+Die folgende Tabelle zeigt eine Übersicht dieser Studien:
+
+Vergleichbarkeit der Studien 
+
+Die Ergebnisse dieser Untersuchungen sind teilweise sehr unterschiedlich. So wurde der Anteil der Patienten mit einem eher günstigen Verlauf in einer Studie mit 50 % (Marinow 1986) angegeben und in einer anderen Studie mit 0 % (Faergemann 1963). Die Studie von Faergemann enthielt nur 23 Patienten. In ihr wurde die Diagnosestellung vom Verlauf abhängig gemacht: Patienten mit einem günstigen Verlauf wurden nicht als Schizophrenie klassifiziert.
+
+Es gibt drei Metaanalysen von Verlaufsstudien. Ein Mitarbeiter von Hans Häfner (W. an der Heiden) hat 49 Studien aus der Zeit von 1932 bis 1996 untersucht. Eine österreichische Gruppe hat 40 Studien und eine nordamerikanische Untersuchung sieben Studien untersucht. Der Anteil günstiger Verläufe variierte insgesamt zwischen 0 und 68 %.
+
+Wenn man alle größeren Verlaufsstudien vergleicht, so zeigen sich erhebliche Mängel, die die Vergleichbarkeit der Ergebnisse einschränken. Diese sind unter anderem:
+
+ Die Patientenpopulationen sind nicht einheitlich: Manche Studien schließen die schizoaffektiven Psychosen mit ein, andere nicht.
+ Soziale Aspekte wurden unterschiedlich berücksichtigt.
+ Die Beobachtungsdauern reichen von 12 bis 40 Jahren.
+ Die Behandlungssituationen unterscheiden sich gravierend: Manche Studien reichen in die Zeit vor der Verwendung der Neuroleptika. Integrative Behandlungskonzepte wurden nur von den jüngsten Studien berücksichtigt.
+ Es gibt heute keine Studien mehr, in denen der natürliche (unbehandelte) Verlauf der Erkrankung beschrieben wird.
+
+Aufgrund der beschriebenen Mängel hat Häfner vorgeschlagen, nur die Ergebnisse von Studien zusammenzufassen, die vom Design her vergleichbar sind. Wenn man dies bei den Studien aus dem deutschsprachigen Raum tut, (einschließlich einer Studie aus Island) so sind nur wenige gut vergleichbar.
+
+Eine der ersten Studien im deutschsprachigen Raum war die Verlaufsstudie von Manfred Bleuler aus Zürich von 1972 in der 208 Erstaufnahmen über 20 Jahre untersucht wurden. Die Studie von Luc Ciompi aus Lausanne von (1976) befasst sich vor allem mit schizophrenen Patienten im fortgeschrittenen Lebensalter. In ihr wurden insgesamt 289 Erstaufnahmen untersucht. Gerd Huber hat in seiner Bonn-Studie von 1979 502 Patienten beschrieben, die sehr sorgfältig psychopathologisch untersucht wurden. Großer Wert wurde auf die Veränderung der sozialen Situation der Patienten gelegt. Die Arbeitsgruppe um Marneros aus Köln hat 1991 eine Studie vorgestellt mit 355 Patienten, die über durchschnittlich 23 Jahre beobachtet wurden. In dieser Studie wurden enge diagnostische Kriterien angewandt. Hinterhuber aus Innsbruck hat 157 Erstaufnahmen über einen Zeitraum von bis zu 40 Jahren untersucht. Die Arbeit wurde 1973 vorgestellt. Eine kleinere Studie von Helgason aus Island hat 82 Patienten über 6–7 Jahre untersucht, sie stammen aus einer Registerkohorte (alle Erkrankten eines Jahrganges).
+
+In diesen Studien findet man relativ gute Übereinstimmungen beim Anteil von günstigen (22, 5 %) und eher ungünstigen Ausgängen (32, 5 %).
+
+Verlaufsparameter 
+
+In Verlaufsstudien können zahlreiche Parameter berücksichtigt werden. Im Falle der Schizophreniestudien werden an das Studiendesign hohe Anforderungen gestellt. Die Dokumentation der Verläufe muss ausreichend gut sein, um valide Aussagen machen zu können. Dem steht heute schon die Tatsache entgegen, dass Krankenakten nicht länger als 20 Jahre archiviert werden müssen. Für aussagekräftige Langzeitstudien im Falle der Schizophrenie ist ein Verlauf von 20 Jahren allerdings die untere Grenze.
+
+Zunächst muss die Zahl der Krankheitsepisoden gut dokumentiert sein. Eine Zusammenführung von Patientendaten aus unterschiedlichen Einrichtungen ist heute dazu unumgänglich, da die Patienten nicht mehr wie früher in Landeskrankenhäusern behandelt werden, die große Regionen versorgt haben.
+
+Die Dauer der Krankheitsepisoden korreliert heute nicht mehr mit der Dauer der Hospitalisierung: die Patienten sind mit Sicherheit länger erkrankt, als sie stationär behandelt werden. Dies bedingt, dass auch die Dauer der Krankheitszyklen nur dann angegeben werden kann, wenn die Patienten regelmäßig standardisiert untersucht werden.
+
+Aufgrund stark vereinheitlichter Untersuchungsverfahren (ICD- oder DSM-Diagnosen, AMPD-System, PANSS-Score, einheitliche Ausbildung der Untersucher usw.) werden in den modernen Studien Aussagen zum Querschnittsbefund besser vergleichbar sein. Auch wird in modernen Studien aufgrund neuerer Forschungen zunehmend mehr Wert gelegt auf die Dokumentation von Prodromi, Residuen und Negativsymptomen.
+
+Die Zahl und Dauer der Hospitalisierungen ist nicht mehr gut zwischen den Studien vergleichbar. Generell hat die Dauer der Krankenhausbehandlungen abgenommen. Andererseits kann durch eine gemeindenahe Versorgung die Anzahl kurzzeitiger Hospitalisierungen zunehmen. Hinzu kommt, dass es heute eine Anzahl von Behandlungsangeboten gibt, die institutionell zwischen dem klassischen Krankenhausaufenthalt und der ambulanten Versorgung stehen: Tagesklinik, Tagesklinik mit Übernachtungsmöglichkeit, tagesklinische Angebote mit ganztags- oder halbtags-Versorgung, ambulante Ergotherapie, niedrigschwellige Therapieangebote in Tagesstätten, hochfrequente ambulante Behandlungen (Home-Treatment) usw. Vergleich hierzu den Artikel Sozialpsychiatrie.
+
+Die soziale Behinderung der Patienten kann heute teilweise besser beurteilt werden, da vielfältige soziale Hilfsangebote bestehen, die untereinander gut vergleichbar sind: Wohnheim, betreutes Wohnen, Behindertenwerkstatt.
+
+Die Messung oder Abschätzung des Therapieresponse beschränkt sich heute nicht mehr nur auf die Feststellung, ob eine psychotische Episode vorüber ist und wie lange sie ggf. gedauert hat. Auch die Wirkung unterschiedlicher Medikamente oder einer Kombination von verschiedenen Behandlungsverfahren auf psychopathologische Items, kognitive Leistungen, soziale Fertigkeiten und den Grad der Alltagsintegration kann abgeschätzt werden. Damit verlieren aber wiederum die modernen Studien eine Vergleichbarkeit mit älteren Untersuchungen, in denen solch vielfältige Verfahren nicht zur Verfügung standen.
+
+Schließlich gehört auch die Abschätzung direkter und indirekter Kosten zu einem wichtigen Parameter des Langzeitverlaufs von Schizophrenien. Ein wesentliches Argument für die Einrichtung von psychiatrischen Abteilungen an Allgemeinkrankenhäusern war, dass sich die Behandlungszeiten im Gegensatz zu denen der Landeskrankenhäuser verkürzen werden und deshalb die Versorgung der Patienten billiger werden würde. Dies muss man natürlich empirisch beweisen, wenn die Psychiatriereform auch in Zukunft weiter gehen soll. In Deutschland stehen heute immer noch 60 % aller Psychiatriebetten in Landeskrankenhäusern.
+
+Erkrankungsbeginn 
+
+Der Beginn und Frühverlauf der Schizophrenie ist Gegenstand eines eigenständigen Artikels. An dieser Stelle sei nur auf die wesentlichen zusammenfassenden Punkte hingewiesen: Die Schizophrenie beginnt in der Regel chronisch, unbehandelt und mit unspezifischen Vorläufersymptomen. Es dauert im Durchschnitt fünf Jahre von den ersten Vorpostensymptomen bis zum Beginn der ersten psychotischen Symptome und sodann noch einmal ca. ein Jahr bis zur ersten Hospitalisierung im Rahmen einer schweren psychotischen Krise. Die meisten Patienten haben bis zu diesem Zeitpunkt bereits eine soziale Behinderung entwickelt.
+
+Episodenzahl und – frequenz 
+
+Wenn man repräsentative Untersuchungen des Verlaufes von Patienten mit einer Schizophrenie nach der Zahl der Episoden gliedert, ergibt sich folgendes Bild:
+
+In der Studie von Marneros betrug die durchschnittliche Frequenz der psychotischen Episoden 0,2 = eine Episode alle fünf Jahre. Die durchschnittliche Hospitalisierungsdauer pro Episode betrug 60 Tage, die durchschnittliche Arbeitsunfähigkeit pro Episode 76 Tage. Diese Zahlen zeigen eine hohe Schwankungsbreite. Da in den drei Studien aus den 1970er-Jahren von Bleuler, Ciompi und Huber ca. 25 % der untersuchten Patienten nur eine psychotische Episode gezeigt hat, wurde der Begriff der Drittelregel eingeführt: ein Drittel der Patienten kann geheilt werden, ein Drittel erleidet einen chronischen Verlauf mit schwerer Krankheitsausprägung, ein Drittel einen rezidivierenden Verlauf mit mittelschwerer Krankheitsausprägung.
+
+Obwohl sich die Behandlungsmöglichkeiten seither deutlich verbessert haben, lassen aktuellere Zahlen einen eher ungünstigeren Krankheitsverlauf erkennen: Nur etwa 10 % bleiben nach einer ersten Krankheitsphase symptomfrei. Bis zu zwei weitere Phasen erleben weitere 40 % aller Erkrankten, knapp die Hälfte ist von mehr als drei Schüben betroffen.
+
+Langzeitverlauf und Querschnittsbild 
+
+Der Gegensatz von Langzeitverlauf (Wie hat sich die Krankheit entwickelt, wenn man das ganze Leben eines Patienten retrospektiv überblicken kann?) und der Beobachtung des Querschnittsbildes (Wie sieht das Krankheitsbild zu einem konkreten Untersuchungszeitpunkt aus?) prägt die Diskussion über die Natur der Erkrankung seit Kraepelin und Bleuler. In den modernen Langzeitstudien können beide Sichtweisen miteinander verbunden werden. Fasst man die Befunde zusammen, so ergibt sich folgendes Bild:
+
+ Im Langzeitverlauf der Schizophrenie gibt es keine Stabilität der Symptomatik.
+ Diese beiden Befunde verdeutlichen die Notwendigkeit einer syndromalen Beschreibung der Schizophrenie (vgl. den „dimensionalen Ansatz“ nach Liddle)
+ Das Konzept klinischer Unterformen (Subtypen) ist von daher in Frage zu stellen.
+
+Von besonderer Bedeutung ist die Frage des Therapieerfolges im Rahmen von Langzeitbeobachtungen.
+
+ Die besten Therapieergebnisse zeigen die paranoid-halluzinatorischen und die depressiven Symptome.
+ Die schlechtesten Therapieantworten zeigen die psychoorganischen und manischen Symptome.
+ Bis zu 20 % der Patienten zeigen keine therapeutischen Wirkungen.
+
+Die Prodromalphase zu Beginn eines Rezidivs (erneuter Krankheitsschub) ist gegenwärtig Gegenstand intensiver Forschungen. Das große Interesse an den Vorpostensymptomen, die einen erneuten psychotischen Schub einleiten ist darin begründet, dass alle Verlaufsstudien zeigen, dass die Prognose der Erkrankung mit der Anzahl der Krankheitsepisoden schlechter wird. Parallel zur Anzahl der Episoden steigt die zeitliche Dauer der Episoden und verkürzt sich das Episodenintervall. Damit steigt das Risiko des Übergangs in eine chronische Form der Erkrankung im Falle der phasenhaften Verlaufsformen der Schizophrenie.
+
+Verlaufsformen 
+
+Die Langzeit- und Verlaufsstudien der Schizophrenie erlauben es heute, eine Unterteilung der Verlaufsformen der Schizophrenie nach bestimmten Typen vorzunehmen. Schon Manfred Bleuler hat in seiner Langzeitstudie von 1972 Vorschläge für eine solche Typisierung gemacht.
+
+Demnach können zwei Verlaufsformen unterschieden werden. Ein Drittel der Patienten zeigt einfache Verlaufsformen, die jeweils in eine chronische Schizophrenie münden. Zwei Drittel der Patienten zeigen wellenförmige Verläufe. Dieses Drittel zeigt eine grobe Zweiteilung in eine Gruppe mit Heilung und eine Gruppe, deren Erkrankung in einem leichten chronischen Zustand endet. Heute werden teilweise bis zu zehn oder mehr verschiedene Verlaufstypen unterschieden.
+
+Zusammenfassung 
+
+Im Gegensatz zu den eher optimistischeren Ergebnissen der Verlaufsstudien von Manfred Bleuler (Drittelregel) hat sich in jüngeren Verlaufsstudien gezeigt, dass Vollremissionen (Heilungen) seltener sind als noch vor einigen Jahrzehnten angenommen. Der Grund liegt vor allem darin, dass in den älteren Studien Patienten mit schizoaffektiven Störungen eingeschlossen waren. Studien, die keine so engen Diagnosekriterien anlegten, zeigten Raten an Vollremissionen bis zu 22 %. Neuere Studien, die enge Diagnosekriterien verwenden, zeigen, dass Vollremissionen in weniger als 10 % der Fälle auftraten. Zudem fanden sich überdurchschnittlich viele Patienten, die reine Negativsymptome zeigten (48 %). Trotz der erheblichen Verbesserungen der Versorgungsmöglichkeiten bleibt somit die Langzeitprognose bei einem Teil der Schizophrenie-Patienten ungünstig.
+
+Siehe auch 
+
+ Klinische Schizophreniekonzepte
+ Neurobiologische Schizophreniekonzepte
+ Symptome und Diagnose der Schizophrenie
+ Subtypisierung der Schizophrenie
+ Beginn und Frühverlauf der Schizophrenie
+ Spätschizophrenie
+ Therapie der Schizophrenie
+
+Einzelnachweise 
+
+Schizophrenie

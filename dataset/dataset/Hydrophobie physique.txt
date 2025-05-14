@@ -1,0 +1,53 @@
+L’hydrophobie (du grec ,  = eau, et ,  = répulsion) caractérise les surfaces qui semblent repousser l'eau. En réalité, il ne s'agit pas d'une réelle répulsion, mais plutôt du fait que l'eau étant une molécule polaire, elle a une très nette attirance préférentielle pour les autres molécules polaires, ce qui va amener ces molécules à s'assembler entre elles et former des billes qui semblent être repoussées par les molécules non polaires avec lesquelles elles n'ont pas une aussi forte affinité, alors qu'en réalité, ce sont les affinités entre les molécules polaires qui chassent vers l'extérieur de ces billes les molécules qui n'ont pas la même affinité avec elle - un peu de la même façon que le gradient de pression de l'eau chasse de son sein les corps moins denses (qui n'ont donc pas la capacité de générer en leur sein un gradient de pression aussi raide). Ici, les molécules non polaires sont chassées vers la surface des billes formées par les molécules polaires.
+
+Quand les molécules non polaires sont immergées dans une masse polaire sans surfaces proches vers lesquelles s'échapper, elles sont repoussées dans une direction préférentielle dépendant de la gravitation. Les molécules non polaires qui, comme l'huile dans l'eau, sont moins denses que les molécules polaires, vont être repoussées vers la surface, alors que les molécules plus denses comme le mercure, vont couler, et que les molécules de densité similaire à celle du milieu polaire peuvent rester en suspension (émulsion) si leur concentration n'est pas suffisante pour qu'elles soient repoussées les unes vers les autres et former des billes de plus en plus grosses. Ceci se traduit par la non-solubilité des molécules apolaires dans le solvant polaire, menant à une ségrégation du soluté vis-à-vis du solvant (ou inversement). Des molécules comme les alcanes sont hydrophobes.
+
+Il est également intéressant de noter que dans les solvants polaires comme l’eau, de nombreux corps de la chimie minérale, pour être solubles, doivent pouvoir s'ioniser, c'est-à-dire se scinder en deux ions chargés positivement et négativement, qui vont se lier séparément avec les molécules d'eau. Et si les attractions au sein de la molécule organique sont trop fortes pour que le solvant puisse l'ioniser, celle-ci restera insoluble.
+
+Chez les micro-organismes, les propriétés hydrophobes sont dues principalement à la présence d', protéines particulières situées au niveau des membranes cellulaires.
+
+Utilisations 
+
+La propriété d'hydrophobie est essentielle en biochimie (et particulièrement dans la chimie des cellules et des protéines), et est recherchée (ou au contraire, combattue) en chimie des matériaux, et plus particulièrement des revêtements.
+
+Des revêtements hydrophobes sont appréciés pour certains usages :
+ les récipients recouverts de téflon sont moins salissants, et la nourriture n'y adhère pas.
+ la selle des vélos modernes est hydrophobe. Ainsi, à la différence de l'époque où les selles étaient en cuir, elles ne perdent pas, en vieillissant, leur capacité à ne pas s'imbiber d'eau.
+
+La cire et l'huile sont aussi hydrophobes.
+
+Principes physico-chimiques 
+La solubilité d'un composé dans un solvant dépend de manière générale des interactions qui existent entre ses molécules et celles du solvant. Or un composé hydrophobe n'a pas la capacité de créer des liaisons hydrogène avec les molécules d'eau. De plus, il est également souvent apolaire, ou de faible polarité, ce qui signifie qu'il ne peut exister d'interaction électrostatique de type dipôle permanent/dipôle permanent (forces de Keesom) entre ce composé et l'eau.
+
+Un composé hydrophobe est donc un composé qui ne peut pas interagir fortement au niveau moléculaire avec l'eau. Il est alors généralement plutôt soluble dans les solvants organiques, comme l'acétone, les hydrocarbures légers, avec lesquels il peut développer des interactions de Van der Waals de type dipôle induit/dipôle induit (forces de London). C'est une caractéristique de beaucoup de plastiques, qui sont imperméables à l'eau mais détruits par d'autres solvants.
+
+Il a été démontré, grâce à l'analyse d'une interface hydrophile-hydrophobe soumise à un rayonnement synchrotron, que celle-ci est en fait constituée d'un vide de  d'épaisseur.
+
+Les produits hydrophobes sont souvent lipophiles (solubles dans les corps gras), mais insolubles dans l'eau.
+
+Une substance hydrophobe n'est pas nécessairement pauvre en eau. L'eau sèche par exemple, une poudre blanche constituée de gouttelettes d'eau enrobées d'une pellicule de silice, est hydrophobe alors qu'elle contient 95 % d'eau.
+
+Dans le sol 
+L’imperméabilité des sols est dans la nature un phénomène beaucoup plus commun qu'on ne le pensait autrefois ; certains sols naturels ou pollués sont anormalement hydrophobes, en général à cause de la présence de matières huileuses ou cireuses.
+
+Il a été constaté en laboratoire que le comportement de ces sols changeait à l'égard des métaux lourds en solution. Dans un sol imperméable Cr, Pb et Cu sont plus facilement adsorbés dans le sol que Zn, Cd et Ni. Or, pour fertiliser les sols, on peut les arroser avec des eaux grises recyclées (technique courante dans le sud de l'Australie). Avant d’irriguer de la sorte, il est donc important de comprendre la capacité de sorption compétitive du sol et sa capacité de rétention des métaux lourds, en considérant l'origine géochimique du caractère hydrofuge ( cires déposées sur ou entre les particules du sol).
+
+Références
+
+Voir aussi
+
+Articles connexes 
+
+ Hydrophobie / Hydrophilie
+ Effet hydrophobe / Effet hydrophile
+ Surface superhydrophobe / Surface superhydrophile
+ Omniphobe
+ Effet lotus
+ Polarité
+ Molécule Amphipathique
+ Surface nanotexturée
+
+Eau
+Propriété chimique
+Force intermoléculaire
+Chimie physique

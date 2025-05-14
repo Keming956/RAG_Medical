@@ -1,0 +1,64 @@
+RPR (rapid problem resolution) is a method of problem diagnosis designed to determine the root cause of IT problems.
+
+Overview 
+
+RPR deals with failures, incorrect output and performance issues, and its particular strengths are in the diagnosis of ongoing & recurring grey problems. The method comprises:
+
+ Core process
+ Supporting techniques
+
+The core process defines a step-by-step approach to problem diagnosis and has three phases:
+
+ Discover
+ Gather and review existing information
+ Reach an agreed understanding
+ Investigate
+ Create and execute a diagnostic data capture plan
+ Analyse the results and iterate if necessary 
+ Identify root cause
+ Fix
+ Translate diagnostic data
+ Determine and implement fix
+ Confirm root cause addressed
+
+The supporting techniques detail how the objectives of the core-process steps are achieved, and cite examples using tools and techniques that are available in every business.
+
+Standards alignment 
+
+RPR has been fully aligned with ITIL v3 since RPR 2.01 was released in April 2008. RPR fits directly into the  ITIL v3 problem management process as a sub-process. Some organisations handle ongoing recurring problems within incident management, and RPR also fits into the  ITIL v3 incident management process as a sub-process.
+
+COBIT also defines a problem management process (DS10) with key activity of Perform root cause analysis. RPR is a superset of this step in that it defines a process that covers all of the activities needed to perform Problem investigation & diagnosis, including Root Cause identification.
+
+Limitations and considerations
+
+RPR has some limitations and considerations, including:
+
+ RPR deals with a single symptom at a time
+ RPR identifies the technical root cause of a problem, it can't be used to identify the non-technical root cause with people, process, etc.
+ RPR is not a forensic technique and so historical data alone is rarely sufficient
+ The Investigate phase requires the user to experience the problem one more time
+
+History 
+
+The method was originally developed by Advance7 in 1990 as Advanced Network Troubleshooting, with the first fully documented version produced in 1995.  Early versions included problem management guidance but this was removed over time as the method became more closely aligned to ITIL, and the method name was changed to Rapid Problem Resolution (RPR).  RPR is now focused on Problem Diagnosis based on Root Cause Identification. Due to the highly practical nature of the Supporting Techniques and the ever changing IT landscape, Advance7 continues to develop RPR to keep it relevant to current IT environments.
+
+Until November 2007 Advance7 made the RPR material available to its employees only, although a limited number of other IT professionals had been trained in the use of the method. In late 2007 the company announced its intention to make RPR training and material more widely available.
+
+In March 2009 the TSO added a significant amount of RPR information to the ITIL Best Practice Live website within the areas dealing with Problem Management.
+
+In September 2011, Advance7 published RPR: A Problem Diagnosis Method for IT Professionals which fully describes version 2.03 of the method.
+
+See also
+
+  ITIL v3 problem management
+  ITIL v3 incident management
+ COBIT
+ Grey problem
+
+Further reading 
+
+ Offord, Paul (2011). RPR: A Problem Diagnosis Method for IT Professionals. Advance Seven Limited. .
+ RPR presentation to the British Computer Society
+
+Information technology management
+Problem solving

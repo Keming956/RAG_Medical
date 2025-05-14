@@ -1,0 +1,89 @@
+Histopathology of dermatitis can be performed in uncertain cases of inflammatory skin condition that remain uncertain after history and physical examination.
+
+Sampling
+Generally a skin biopsy:
+For punch biopsies, a size of 4 mm is preferred for most inflammatory dermatoses.
+Panniculitis or cutaneous lymphoproliferative disorders: 6 mm punch biopsy or skin excision.
+A superficial or shave biopsy is regarded as insufficient.
+
+Fixation
+Generally: Buffered 4% formaldehyde.
+In suspected immunologic disease: Fixation for immunofluorescence, with for example Michel's solution. For details, see immunofluorescense of skin tissues
+
+Staining
+Generally 3 sections for H&E staining and one section with periodic acid Schiff (PAS)
+If suspected bacterial and fungal microorganisms, consider Gram stain and Gomori methenamine silver stain.
+
+Microscopic evaluation
+One approach is to classify into mainly either of the following, primarily based on depth of involvement:
+Epidermis, papillary dermis, and superficial vascular plexus:
+Vesiculobullous lesions
+Pustular dermatosis
+Non vesicullobullous, non-pustular
+With epidermal changes
+Without epidermal changes. These characteristically have a superficial perivascular inflammatory infiltrate, and can be classified by type of cell infiltrate:
+Lymphocytic (most common)
+Lymphoeosinophilic
+Lymphoplasmacytic
+Mast cell
+Lymphohistiocytic
+Neutrophilic
+Continue in corresponding section:
+
+Non vesicullobullous, non-pustular lesions with epidermal changes
+
+Spongiotic dermatitis
+It is characterized by epithelial intercellular edema. 
+
+In addition to above, an unspecific spongiotic dermatitis can be consistent with nummular dermatitis, dyshidrotic dermatitis, Id reaction, dermatophytosis, miliaria, Gianotti-Crosti syndrome and pityriasis rosea.
+
+Interface dermatitis
+These are sorted into either:
+Interface dermatitis with vacuolar change
+Interface dermatitis with lichenoid inflammation
+
+Interface dermatitis with vacuolar change
+
+An interface dermatitis with vacuolar alteration, not otherwise specified, may be caused by viral exanthems, phototoxic dermatitis, acute radiation dermatitis, erythema dyschromicum perstans, lupus erythematosus and dermatomyositis.
+
+Interface dermatitis with lichenoid inflammation
+
+Interface dermatitis with lichenoid inflammation, not otherwise specified, can be caused by lichen planus-like keratosis, lichenoid actinic keratosis,  lichenoid lupus erythematosus, lichenoid GVHD (chronic GVHD), pigmented purpuric dermatosis, pityriasis rosea, and pityriasis lichenoides chronica. Unusual conditions that can be associated with a lichenoid inflammatory cell infiltrate are HIV dermatitis, syphilis, mycosis fungoides, urticaria pigmentosa, and post-inflammatory hyperpigmentation. In cases of post-inflammatory hyperpigmentation, it is important to exclude potentially harmful mimics such as a regressed melanocytic lesion or lichenoid pigmented actinic keratosis.
+
+Psoriaform dermatitis
+Examining multiple deeper levels is recommended if initial cuts do not correlate well with the clinical history.
+
+Psoriaform dermatitis typically displays:
+Regular epidermal hyperplasia, elongation of the rete ridges, hyperkeratosis, and parakeratosis. 
+Usually:A superficial perivascular inflammatory infiltrate
+Often: Thinning of epidermal cells overlying the tips of dermal papillae (suprapapillary plates), and dilated, tortuous blood vessels within these papillae
+
+Further histopathologic diagnosis is performed by the following parameters:
+
+Non vesicullobullous, non-pustular lesions without epidermal changes
+
+Lymphocytic infiltrate
+
+Lymphoeosinophilic infiltrate
+
+Lymphoplasmacytic infiltrate
+
+Mastocytosis
+
+Lymphohistiocytic infiltrate
+
+These include bacterial infections including leprosy, and the sample should therefore be stained with Ziel-Neelsen, acid fast stains, Gomori methenamine silver, PAS, and Fite stains. If negative, an unspecific lymphohistocytic dermatosis may be caused by drug reactions and viral infections.
+
+Neutrophilic infiltrate
+
+Multinucleated giant cells
+
+Foreign bodies indicate a foreign body granuloma.
+Specific forms of multinucleated giant cells include the Touton giant cell, which contains a ring of nuclei surrounding a central homogeneous cytoplasm, with foamy cytoplasm surrounding the nuclei. The central cytoplasm (surrounded by the nuclei) may be both amphophilic and eosinophilic.
+
+Notes
+
+References
+
+Dermatitis
+Histopathology

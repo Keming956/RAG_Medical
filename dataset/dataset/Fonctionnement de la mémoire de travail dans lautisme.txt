@@ -1,0 +1,80 @@
+L'autisme ou troubles du spectre autistique (TSA) sont des troubles du développement humains caractérisés par une interaction sociale et une communication anormales, avec des comportements restreints et répétitifs.
+
+La mémoire de travail (en anglais : ) est un système de mémoire active qui garde les informations à court terme dans l'esprit où elles peuvent être utilisées. Sa capacité est limitée. Elle fait partie des fonctions exécutives, processus cognitifs qui contrôlent et gèrent d'autres processus comme la planification ou l'attention.
+
+Le lien entre mémoire de travail et l'autisme ou les troubles du spectre autistique est l'objet d'études documentées.
+
+Les individus autistes obtiennent des résultats limités dans l'évaluation des fonctions exécutives, notamment une mémoire de travail généralement faible, bien que certaines études comparatives de QI ont montré que la mémoire de travail n'est pas plus modifiées chez les enfants autistes que sur d'autres enfants témoins. Néanmoins, certaines données suggèrent une déficience minime chez les autistes de haut niveau de fonctionnement () au sens où sont intactes leur capacité d'apprentissage associatif, la mémoire de travail verbale et la mémoire de reconnaissance. Le déficit de la mémoire de travail et une fonction exécutive limitée peuvent aussi être aggravés lors du développement précoce de l'autisme quand des obstacles surgissent dans l'interaction sociale, interaction qui, en l'absence de handicap, améliore à la fois mémoire de travail et fonctions exécutives. En raison d'une capacité limitée à interpréter les comportements sociaux et d'une capacité réduite à traiter et interpréter l'information de façon globale, les personnes autistes ont des fonctions et des performances mémorielles diminuées et confuses.
+
+Étiologie  
+Les causes physiologiques des différences de fonctionnement de la mémoire de travail chez les personnes autistes ont fait l'objet de diverses études.
+
+Un trait propre au cerveau des autistes pourrait être lié au dysfonctionnement du lobe temporal médian, et peut-être plus spécifiquement du complexe amygdalien en raison du rôle du lobe temporal médian, et plus particulièrement de l'hippocampe dans le traitement de l'information.
+
+Un lien entre autisme et hippocampe repose sur le rôle central de celui-ci dans l'encodage de la mémoire et sa consolidation, tout déficit pouvant affecter considérablement les capacités d'une personne autiste à traiter et retenir les informations.
+
+Une activité réduite du gyrus parahippocampique pourrait être en relation avec l'organisation atypique de l'information dans le spectre autistique : les aires gauches parahippocampiques et le gyrus parahippocampique ont un rôle dans le tri, la mise en relation et l'envoi d'informations à l'hippocampe, et donc toute activité anormale ou dysfonctionnement dans ces régions pourraient être liés aux modalités propres aux personnes autistes quant à l'organisation de l'information. Cela correspond à d'autres résultats qui suggèrent une activité non conventionnelle ou un manque d'activité dans les régions de l'hippocampe pouvant expliquer certains aspects du trouble autistique.
+
+D'autres études supposent une déficience dans ce que Brothers  nomment la base neuronale de l'intelligence sociale (), c'est-à-dire l'interprétation globale de l'expression et de l'intention d'autrui. L'interaction entre l'amygdale, le cortex orbitofrontal, le sillon temporal supérieur, et le gyrus temporal supérieur permet à l'individu de traiter l'information sociale en vue d'une interaction avec autrui. Dans l'autisme, il semble y avoir une restriction de fonctionnement qui implique que la personne autiste ne remarque pas et n'a pas conscience de l'expression du visage, du langage corporel, des nuances du langage (par exemple : la moquerie). Cependant, une remédiation ou un entraînement axé sur des aspects spécifiques de l'expression peut partiellement améliorer la compréhension sociale.
+
+Caractéristiques
+
+Mémoire de travail globale 
+Les individus autistes ne s'appuient pas sur des indices sémantiquement semblables (docteur/infirmière opposé à docteur/plage) en négligeant l'exploitation du contexte (comparaison de schémas similaires) pour la consolidation de la mémoire.
+
+Bennetto  ont étudié le degré de déficience cognitive chez les personnes autistes en mettant l'accent sur la période de latence dans le fonctionnement exécutif. Les résultats indiquent une difficulté dans la mémoire temporelle et hiérarchique, une , dans le  et la mémoire de travail. Cependant, les personnes testées ont fait preuve de mémoire à court et à long terme, et de capacité à apprendre des informations nouvelles. In fine est constaté un déficit de mémoire globale de travail et une altération spécifique de l'intelligence sociale, l'un étant influencé par l'autre.
+
+D'autres données indiquent que les individus autistes utilisent des stratégies de mémorisation particulières où ils dépendent moins d'associations sémantiques et de mises en relation conventionnelles (par exemple : orange - pomme). Cela pourrait être dû à des particularités du lobe temporal médian. Uta Frith décrit cette situation par la notion de défaut de cohérence centrale qui repose sur une moindre traitement de l'information contextuelle et de l'intégration du sens abstrait. Ceci expliquerait pourquoi les individus autistes ont la capacité de discerner des détails que rien ne relie.
+
+Dans l'apprentissage du langage, le développement de la syntaxe chez l'enfant suppose l'établissement de corrélations entre les mots ou parties de mots (morphèmes) et leur signification. Ce processus dépendant de la mémoire de travail, le retard de langage chez des enfants autistes, résulterait, pour sa composante neurocognitive, d'une faible mémoire verbale à court terme conjuguée à une mémoire de travail moins sollicitée.
+
+Fonctionnement exécutif 
+Les troubles du spectre autistique sont supposés avoir un rôle dans le dysfonctionnement de la mémoire de travail. L'approche de l'autisme par le   donne des résultats contradictoires. Certaines études montrent que les individus inclus dans ce spectre sont handicapés dans leur fonctionnement exécutif, la mémoire de travail ne fonctionne pas correctement. D'autres recherches n'ont pas démontré de répercussions chez les autistes à haut niveau de fonctionnement. Le test de classement de cartes du Wisconsin (WCST) effectué avec des individus autistes montre une faible capacité à se concentrer sur l'information pertinente et un déficit dans la fonction exécutive de la mémoire de travail. La parenté pourrait jouer un rôle : une étude a montré que des fratries de personnes autistes ont des difficultés à se concentrer sur des catégories nouvelles et à les conceptualiser, et suggèrent que ce que qu'on entend par déficits dans les aptitudes cognitives sont des endophénotypes du spectre autistique.
+
+Aptitude à la catégorisation 
+Les personnes autistes auraient une difficulté à catégoriser. Cependant, l'intégration de catégories est en fait possible et peut apparaître à un niveau cognitif similaire aux non-autistes. Étant donné que les personnes autistes ont une capacité accrue de différenciation et de détection de particularités notables, il est estimé que les personnes autistes, bien qu'ayant besoin de plus de tentatives et de temps pour apprendre, utilisent des stratégies différentes des non-autistes (, TD) ; une fois acquis, le niveau de catégorisation est comparable.
+Les individus dans le spectre autistique auraient une cohérence centrale faible. Cette théorie concorde avec les traits généraux du spectre autistique, mais là encore, cela peut s'expliquer par des styles d'apprentissages différents. Au lieu de voir dans une forêt un ensemble d'arbres, des enfants autistes voient un arbre, puis un autre, puis un autre, ils ont donc besoin d'un temps considérable pour traiter des tâches complexes.
+
+Mémoire visuelle et spatiale 
+Un déficit de la mémoire de travail spatiale semble récurrent chez les personnes autistes et le serait aussi chez leurs proches parents. Les enfants et adultes autistes peuvent avoir des difficultés à reproduire des mouvements effectués par autrui, tâche qui requiert une conscience de l'espace et des aptitudes mémorielles.
+
+Les personnes autistes ont tendance à traiter les informations visuelles de manière locale (détails, éléments) plutôt que dans leur ensemble, y compris dans l'observation d'objets ou d'événements. L'autisme pourrait aussi pénaliser la mémoire visuelle à court terme dans le graphisme.
+
+Des recherches ont montré que le gyrus fusiforme intervient différemment chez les autistes et serait à l'origine de leurs difficultés dans la reconnaissance des visages.
+
+Il est possible d'améliorer la mémoire de travail spatiale des autistes, notamment chez les enfants, par une approche comportementale à base de renforcements positifs.
+
+Mémoire auditive et mémoire phonologique 
+La recherche sur la mémoire de travail phonologique dans l'autisme est vaste et contrastée. Certains résultats indiquent que la mémoire verbale et la parole intérieure () sont relativement épargnées en comparaison avec la mémoire spatiale. D'autres montrent les limites de la parole intérieure chez les individus autistes. D'autres études relèvent un avantage dans le traitement phonologique dans l'autisme par rapport au traitement sémantique et associent ces résultats à une anomalie de développement similaire à celle du syndrome du savant.
+
+Whitehouse  ont montré que des enfants autistes, comparés à des enfants non-autistes d'âge verbal et d'aptitudes à la lecture équivalents, obtiennent de meilleurs résultats quand on leur demande de se rappeler un lot de photos qui leur a été présenté, mais de moins bons résultats quand il s'agit de se rappeler des mots imprimés avec des photos intercalées. Une tâche verbale donnée aux deux groupes d'enfants a aussi fait baisser les résultats du groupe d'enfants témoin par rapport aux enfants autistes ; dans le groupe témoin, la longueur des mots donnés avait également plus d'impact. Ces résultats sont contestés par Williams  qui avancent que le QI verbal est ici plus en cause que les aptitudes verbales et que les groupes n'ont pas été appariés sur l'âge chronologique ; Whitehouse et al n'ont pas trouvé de différences entre les enfants autistes et les enfants du groupe témoin lors d'une tâche de rappel sériel (), privilégiant la similarité phonologique à la longueur des mots dans l'évaluation de la parole intérieure.
+
+Dans l'étude de Joseph , l'épreuve de Petrides et Milne (, SOPT) incluant des stimuli pouvant être mémorisés comme des mots (pelle, chat), appliquée à des enfants autistes, montre un déficit par rapport au groupe témoin non-autiste ; ceci n'est cependant pas visible lors de la même tâche avec des stimuli abstraits. En revanche, des tests de Williams  sur la mémoire spatiale chez les enfants autistes donnent des résultats nettement inférieurs ; ont été aussi examinées les tâches de la mémoire verbale, où ressortent des différences dans la mémoire spatiale, mais pas de différences manifestes dans la mémoire verbale. Une étude a été menée avec des enfants autistes et des adultes autistes pour vérifier si les enfants obtenaient des résultats différents des adultes ; l'autisme étant un trouble du développement, il était envisageable que le parcours de l'adulte autiste s'accompagne d'une altération des performances de la mémoire. Un test conçu spécifiquement pour évaluer la mémoire chez les enfants (, WRAML) a été utilisé spécifiquement pour le groupe d'enfants. Les résultats sont similaires dans tous les groupes d'âge, des différences significatives entre autistes et non-autistes n'étant décelées que dans la mémoire spatiale, et non dans la mémoire de travail verbale.
+
+Dans une étude de Gabig , les enfants autistes obtiennent de moins bons résultats que les enfants non-autistes dans la mémoire de travail verbale et le récit d'une histoire déjà entendue. Dans trois tâches distinctes destinées à évaluer leur mémoire de travail verbale, les résultats des enfants autistes sont inférieurs à ceux attendus pour leur âge ; cependant, un manque de vocabulaire plutôt qu'un déficit de la mémoire de travail peut être la cause de ces résultats.
+
+Des études par imagerie par résonance magnétique fonctionnelle montrent que les personnes autistes, dans certaines tâches de mémoire de travail, choisissent des signaux visuels plutôt que verbaux : le lobe pariétal droit montre une activité plus importante dans un tâche de mémoire de travail de type .
+
+Critiques 
+Nakahachi  soulignent que le type de test choisi pour évaluer les personnes autistes et la manière dont il leur est présenté pourrait avoir un impact significatif sur les résultats.
+
+Des études menées par Ozonoff  ne montrent pas de différence de performances de la mémoire de travail entre les autistes et les non-autistes, les résultats inférieurs des personnes autistes pouvant être induits par l'interaction humaine lors des tests en raison des faibles aptitudes sociables des personnes autistes. Des tests effectués par ordinateur sont susceptibles de fournir des résultats plus précis.
+
+Selon Griffith , la mémoire de travail n'est pas altérée chez les sujets autistes. Une déficience dans certaines fonctions exécutives est possible, mais elle ne concerne pas la mémoire de travail, mais bien plutôt les compétences sociales et langagières.
+
+Références
+
+Articles connexes 
+ Autisme
+ Trouble du spectre autistique
+ Mémoire de travail
+ Fonctions exécutives
+ Catégorisation
+
+Liens externes 
+ Étude du biais perceptif sur le fonctionnement mnésique dans l’autisme
+ Les aspects cognitifs de l’autisme Autisme Suisse romande 31 octobre 2013
+
+Autisme
+Mémoire
+Théorie psychologique

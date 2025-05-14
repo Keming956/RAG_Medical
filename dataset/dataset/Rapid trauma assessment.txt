@@ -1,0 +1,37 @@
+Rapid Trauma Assessment is a quick method (usually 60 to 90 seconds), most commonly used by Emergency Medical Services (EMS), to identify hidden and obvious injuries in a trauma victim.
+The goal is to identify and treat immediate threats to life that may not have been obvious during an initial assessment. After an initial assessment involving basic checks on airway, breathing and circulation, the caregiver considers things like mechanism of injury (how the person was hurt) to determine if a more rapid diagnostic approach is indicated than might otherwise be used.
+
+Indications for rapid trauma assessment
+Generally, rapid trauma assessment is indicated if:
+
+ There was a significant mechanism of injury (for example, a high-speed car accident, falls >20 ft); OR
+ The patient has an altered mental status; OR
+ The medical responder suspects that the patient has multi-systems trauma
+
+If NONE of these criteria are met, the medical provider may go through a slower or more focused trauma assessment.
+
+Identifying life threats
+A standard rapid trauma assessment will check for each of the following life threats, and provide some forms of basic treatment. Treatment that would not be life-saving is not conducted until after the rapid trauma assessment. For each area of the body assessed, it is helpful to review them while addressing the different parts of the mnemonic "DCAP-BTLS." This stands for: Deformities, Contusions, Abrasions, Punctures/Penetrations, Burns, Tenderness, Lacerations, and Swelling.
+
+A rapid trauma assessment goes from head to toe to find these life threats:
+Cervical spinal injury
+Level of consciousness
+Skull fractures, crepitus, and signs of brain injury
+ Airway problems (although these were checked during the initial assessment, they are rechecked during the rapid trauma assessment) such as tracheal deviation
+Penetrating trauma to the neck, distention of the jugular veins, or a break in the tracheal-bronchial tree
+ Signs of serious chest injuries, including penetrating trauma to the chest, which can cause a sucking chest wound; flail chest; tension pneumothorax; and cardiac tamponade
+ Breathing problems (like airway problems, these are also rechecked during the rapid trauma assessment by listening to breath sounds with a stethoscope)
+ Signs of serious abdominal injuries, including evisceration; penetrating or blunt force trauma; or peritonitis from bleeding into the abdomen
+ A fractured pelvis (a person can exsanguinate from a fractured pelvis)
+ Bilateral femur fractures (a person can also exsanguinate from bilateral femur fractures)
+ Lower spinal injury or any other trauma to the back
+
+See also
+SAMPLE history
+DCAP-BTLS
+Advanced Trauma Life Support
+
+References
+
+Emergency medical services
+First aid

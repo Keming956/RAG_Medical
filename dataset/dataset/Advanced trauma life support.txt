@@ -1,0 +1,112 @@
+Advanced Trauma Life Support (ATLS) ist ein Ausbildungskonzept, das standardisierte diagnostische und therapeutische Handlungsabläufe in der frühen innerklinischen Erstversorgung von schwerverletzten (polytraumatisierten) Patienten im Schockraum definiert. Es wurde in den 1970er Jahren vom American College of Surgeons (ACS) entwickelt und wird heute in einer Vielzahl von Ländern ausgebildet und angewendet. Advanced Trauma Life Support / ATLS sind geschützte Begriffe.
+
+Entwicklung 
+Den Anstoß zur Entwicklung des ATLS-Konzeptes gab ein Unfall des US-amerikanischen Unfallchirurgen James Styner, der 1976 mit seiner Familie in einem Privatflugzeug verunglückte. Die notfallmedizinische Erstversorgung war so mangelhaft, dass Styner gravierende Mängel in der ärztlichen Ausbildung zur Versorgung Schwerverletzter konstatierte. Auf seine Initiative gründeten sich verschiedene regionale Arbeitsgruppen, die Konzepte zur Erstversorgung von Verletzten aufstellten. Ende der 1970er Jahre wurde ATLS vom American College of Surgeons auf Grundlage dieser Arbeiten entwickelt. Man bediente sich dabei der didaktischen Konzepte, die die American Heart Association kurz vorher mit dem Advanced Cardiac Life Support eingeführt hatte. ATLS ist seitdem in den Vereinigten Staaten zum Standard bei der Versorgung von Trauma-Patienten geworden. Es wird inzwischen in über 50 Ländern ausgebildet, in Großbritannien, Schweiz, Niederlande und weiteren Ländern ist es Pflichtbestandteil der ärztlichen Ausbildung. Von ATLS wurden inzwischen verschiedene Konzepte zur präklinischen Traumaversorgung durch den Rettungsdienst abgeleitet (International Trauma Life Support, Pre Hospital Trauma Life Support).
+
+Konzept 
+Die Grundidee des ATLS ist, die bedrohlichsten Verletzungen und Störungen der Vitalfunktionen des Patienten schnell zu erfassen und zu behandeln („treat first what kills first“).
+
+Im Falle eines Herz-Kreislauf-Stillstandes wird sofort mit einer Reanimation nach den ERC Richtlinien begonnen.
+
+In allen anderen Fällen beginnt ein diagnostischer und therapeutischer Block („primary survey“), welcher hilft, nach Priorität geordnet, potentiell tödliche Folgen des Polytraumas zu erkennen und zu therapieren. Im Anschluss an diese Erstversorgung werden in einer zweiten, ausführlicheren Phase („secondary survey“) alle relevanten Verletzungen und Erkrankungen diagnostiziert, wobei auch bildgebende Verfahren (Röntgen, CT) zum Einsatz kommen.
+
+Zur Versorgung von Schwerverletzten wurde ein sogenanntes AF-Schema (ABCDEF-Schema) entwickelt, das folgende Behandlungsschritte umfasst:
+ A Sicherung der Atemwege
+ B Beatmung
+ C Circulation (Sicherung eines Minimalkreislaufs)
+ D Disability (Neurologisches Defizit)
+ E Exposure (Exposition, Umfeld)
+ F „Fingers“ (alle weiteren klinischen und laborchemischen Untersuchungen).
+
+In den letzten Jahren wurde der kritische Blutverlust immer mehr in den Mittelpunkt gerückt, sodass nun das <C>ABCDE-Schema immer öfter angewendet wird. Dabei steht das <C> für „Catastrophic Bleeding“ oder „Catastrophic Haemorrhage Control“. So werden massive Blutungsquellen schon vor der Sicherung des Atemwegs mittels Kompression, Druckverband oder Tourniquet gestillt. Alle weiteren Maßnahmen wie die Anlage eines großlumigen peripherer Venenkatheters erfolgen dann wie bisher bei "Circulation".
+
+ABCDE-Schema im Rettungsdienst 
+Das ABCDE-Schema in heutiger Form findet mittlerweile auch Einsatz im Rettungsdienst. In Form einer Handlungsanweisung (SOP = standard operating procedure) ist es eine schnelle, zuverlässige sowie prioritätenorientierte Strategie zur Beurteilung des Patientenzustands und der zielgerichteten Einleitung von Maßnahmen für ärztliches und nicht-ärztliches Personal. Einerseits dient das Schema der raschen Einteilung des Patienten in kritisch oder nicht kritisch. In diesem Sinne bildet es einen festen Algorithmus und folgt dem Leitsatz: "Treat first what kills first". Erst wenn ein höherpriorisiertes Problem (A>B>C>D>E) behoben oder behandelt wurde, wird mit dem nächsten Punkt im Schema weiterverfahren. Anderseits liefert das Schema auch über nicht lebensbedrohlich verletzte oder erkrankte Patienten einen umfassenden Überblick. Grundlegende Vitalparameter sowie ein traumatologischer und neurologischer Erstbefund werden durch das ABCDE-Schema geliefert.
+
+Primary Survey – Erstuntersuchung: „ABCDE-Schema“ 
+Im Primary Survey werden die wichtigsten Folgen eines Polytraumas der Priorität nach geordnet diagnostiziert und behandelt. Solange die Anzahl der behandelnden Personen stark limitiert ist (z. B. Rettungsdienst an der Unfallstelle) ist eine strikte Einhaltung der Reihenfolge notwendig (Es ergibt zum Beispiel keinen Sinn, die Belüftung der Lungen zu verbessern, solange der Patient keinen sicheren Atemweg hat).
+
+Steht genügend Personal zur Verfügung (z. B. Schockraum) kann von der Reihenfolge abgewichen werden solange der Punkt der höchsten Priorität ungehindert behandelt wird (z. B. Chirurg kümmert sich um eine starke Blutung während parallel der Anästhesist den Atemweg sichert).
+
+Das folgende ABCDE-Schema findet sowohl im Schockraum als auch im Rettungsdienst Anwendung. Bei Letzterem wird es als grundsätzlicher Algorithmus auch für nicht lebensbedrohlich Verletzte und Erkrankte herangezogen. Oft wird das ABCDE-Schema zu einem cABCDE-Schema ergänzt.
+
+c – critical bleeding (Kritische Blutungen) 
+Hier werden zuerst starke Blutungen untersucht und diese gestillt.
+
+A – Airway (Atemweg) 
+Hier werden die oberen Atemwege beurteilt. Grundsätzlich sind die Fragen:
+ sind die Atemwege frei und sicher?
+ gibt es ein Halswirbelsäulentrauma?
+ gibt es ein Risiko für Verlegung oder Schwellung?
+ sind die Atemwege verlegt?
+zu beantworten. Gelten die oberen Atemwege als offen und sicher, dann besteht kein A-Problem (mehr) und es kann mit B fortgefahren werden. Gegenteilig dazu kann im Algorithmus nicht zu B übergegangen werden, so lange die Atemwege verlegt oder angeschwollen sind.
+
+→ Blick in den Mund/-Rachenraum
+→ Kopf überstrecken
+→ Guedel-Tubus, Wendl-Tubus
+→ Endotracheale Intubation
+→ Anlage einer Cervicalstütze
+
+B – Breathing (Belüftung) 
+ normale Atmung (Frequenz, Atemtiefe/Tidalvolumen, Atemmuster)?
+ Atemgeräusche, Auskultation?
+ Oxygenierung? Anzeichen einer Zyanose? Sauerstoffsättigung?
+ Atemarbeit (Thoraxbewegungen seitengleich? Nutzung der Atemhilfsmuskulatur?)
+ Hautemphysem, gestaute Halsvenen?
+→ Atemunterstützende Lagerung
+→ Sauerstoffgabe
+→ Intubation, kontrollierte Beatmung
+→ Monaldi-Drainage
+
+C – Circulation (Kreislauf) 
+ Hautfarbe, -temperatur und Rekapillarisierungszeit der Extremitäten?
+ Puls/Blutdruck (Kreislaufschock)?
+ starke Blutungen nach außen?
+ starke innere Blutungen (Abdomen, Oberschenkel, Hämatothorax)?
+ Frakturen großer Knochen (Oberschenkel, Becken)?
+ Focused Assessment with Sonography for Trauma (FAST)
+→ großlumiger peripherer Venenkatheter
+→ Volumengabe
+→ Druckverband, Abbinden
+→ Beckenzwinge, Becken extern komprimieren
+→ Notfalllaparotomie
+
+D – Disability (neurologisches Defizit) 
+ Pupillenreaktion?
+ Bewusstseinslage (Glasgow Coma Scale)?
+ Hinweise auf Intoxikation?
+ Hinweise auf Stoffwechselentgleisungen?
+
+E – Exposure (Exposition, Umfeld) 
+ Vollständige Entkleidung, Ganzkörperuntersuchung
+ Kurzanamnese
+→ Wärmeerhalt
+→ Wundversorgung
+→ Frakturen schienen
+
+Secondary Survey – Zweituntersuchung 
+Nach Abschluss der wichtigsten Diagnostik sowie der Stabilisierung aller Vitalparameter folgt eine genauere Befunderhebung, welche jegliche Verletzungen aufdecken soll. Sie besteht aus Körperlicher Untersuchung, Radiologischer Untersuchung, sowie (Fremd-)Anamnese.
+
+Ausbildung 
+Die Ausbildung von ATLS findet in einem zweitägigen Kurs statt; in Deutschland ist die deutsche Gesellschaft für Unfallchirurgie zur Durchführung zertifiziert. Dazu findet eine theoretische Vorbereitung anhand eines Kurshandbuches statt, der Kurs selbst beinhaltete neben theoretischen Einheiten vor allem praktische Übungen. Nach einer schriftlichen und mündlichen Prüfung wird das Zertifikat ATLS-Provider, das aktuell vier Jahre gültig ist, vergeben.
+
+Bewertungen 
+Nutzen, strukturelle Qualität und die Übernahme des ATLS-Konzeptes nach Europa werden kontrovers diskutiert. Da die Notwendigkeit einer prioritätenorientierten, standardisierten Behandlung allgemein akzeptiert wird, sehen Befürworter des Konzeptes im ATLS ein geeignetes Mittel, Patienten effektiv zu behandeln. Durch die einfache und klare Struktur sei es international problemlos einsetzbar und verbessere die Versorgung schwer traumatisierter Patienten. Kritiker halten dem entgegen, dass ein Nutzen für den Patienten und eine Verbesserung der Prognose bisher jedoch nicht nachgewiesen werden konnte.
+
+Schwächen werden auch bei der Methodik des Konzeptes gesehen. So beinhalte ATLS gemäß den Kriterien des deutschen Instruments zur methodischen Leitlinien-Bewertung (DELBI) Mängel in verschiedenen Bereichen:  Eine interdisziplinäre Zusammenarbeit (Chirurgie, Anästhesie, Radiologie u. a.), wie im Schockraum üblich, ist im chirurgisch ausgerichteten ATLS nicht vorgesehen; als ATLS-Lizenznehmer dürfen nur nationale unfallchirurgische Fachgesellschaften auftreten. Die Aktualisierung der Kursinhalte verlaufe zudem schleppend, eine Adaption an regionale Gegebenheiten werde vom ACS nicht gestattet. Das ATLS-Handbuch sei weiterhin nicht im freien Handel erhältlich, der Inhalt somit nicht offen zugänglich. Kritik wird auch an den kommerziellen Aspekten geübt, da das ACS jährlich große Summen an Lizenzgebühren einnimmt, so dass eine redaktionelle Unabhängigkeit nicht gegeben sei.
+
+Weiter werden verschiedene fachliche Aspekte des Konzeptes kritisiert, die nicht dem aktuellen Wissensstand entsprechen und als veraltet zu betrachten sind, etwa ein ungenügendes Atemwegsmanagement, die Beurteilung der Kreislaufsituation anhand obsoleter Parameter (vgl. Schock-Index) sowie ein unkritisches Einsetzen von Immobilisierungstechniken, aus dem verschiedenen Nebenwirkungen resultieren können.
+
+Die Übernahme des amerikanischen ATLS wird in Europa unterschiedlich bewertet. Während es in verschiedenen Ländern Bestandteil der ärztlichen Aus- und Weiterbildung ist, stehen andere dem Konzept eher ablehnend gegenüber. Nachdem Forderungen britischer Ärzte nach lokalen Adaptionen vom ACLS nicht nachgekommen worden war, wurde im Vereinigten Königreich die Entwicklung eines eigenen Konzeptes diskutiert. Aufgrund der diskutierten Schwächen von ATLS hat auf Initiative des European Resuscitation Council die Europäische Trauma-Arbeitsgruppe, die sich aus Vertretern verschiedener Fachgesellschaften zusammensetzt, ein europäisches interdisziplinäres Alternativkonzept, den europäischen Traumakurs (European Trauma Course) entwickelt.
+
+Siehe auch 
+ Advanced Trauma Care for Nurse
+ Liste rettungsdienstlicher Abkürzungen
+
+Weblinks 
+ ATLS-Kursinformationen auf der Internetpräsenz der DGU
+ ATLS auf der Seite des American College of Surgeons (englisch)
+
+Einzelnachweise 
+
+Therapeutisches Verfahren in der Notfallmedizin

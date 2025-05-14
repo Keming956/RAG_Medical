@@ -1,0 +1,62 @@
+The Clinically Administered PTSD Scale (CAPS) is an in-person clinical assessment for measuring posttraumatic stress disorder (PTSD). The CAPS includes 30 items administered by a trained clinician to assess PTSD symptoms, including their frequency and severity. The CAPS distinguishes itself from other PTSD assessments in that it can also assess for current or past diagnoses of PTSD.
+
+Background 
+The CAPS was originally designed by the National Center for PTSD to assess PTSD. This measure was intended to be clinician-administered, and only administered by those clinicians with prior experience, training, and knowledge of PTSD. Previous measures of PTSD typically included introspective (subjective) self-report measures that the patient fills out without the help of a clinician. The clinically-administered PTSD scale was modeled after the Hamilton Depression Scale (HDRS), a clinician-administered scale to assess depressive features. The HDRS has been subject to criticism.
+
+Some important features of the CAPS are:
+ Allows for a range of symptom severity rather than a dichotomous (yes/no) result. This allows for both a diagnosis as well as a sliding scale for clinicians to assess relative changes. It can be used for weekly changes or for a one-time diagnosis.  
+ Creation of two scales: frequency and severity of symptoms. To fulfill a symptom criteria, a patient needs to have a certain frequency and severity of symptoms. This allows for a more refined level of measurement by measuring both how often a patient has symptoms and how severe they are. 
+ Uniformity - the assessment was created in a way that would promote uniform administration of the assessment through clear questions and probes for interviewers.
+
+Evolution 
+Table 1 – Versions of the CAPS by Diagnostic Statistical Manual version
+
+The CAPS has developed over the years to keep up with changes in the widely used Diagnostic and Statistical Manual of Mental Disorders (DSM). The DSM is currently in its fifth edition (DSM-5, May 2013) and serves as a guide to clinicians in diagnosing mental disorders. It should be noted, however, that the DSM system of psychiatric classifications is problematic in typecasting many relatively normal behavioral issues as "abnormal" (e.g., such as the over-classification of ADHD), promoting and entrenching archaic stereotypical psychiatric nosology, and in reifying subjective suppositions about psychopathology. Detailed critiques of the DSM system of psychiatric classifications have been published.
+
+Currently, there are three versions of the CAPS-5 (Table 1). One version provides responses in the past month, one provides responses in the past week, and the last provides responses for the worst month (lifetime PTSD). There is also a version for children - the CAPS-CA-5 Table 1 also shows the development of the CAPS by DSM version.
+
+The CAPS1 was intended to monitor changes over a one-month period, whereas the CAPS-2 was developed to monitor changes over a week period. The CAPS-1 and CAPS-2 were later changed to the CAPS-DX and CAPS-SX respectively to avoid confusion over future versions. The CAPS-5 has two versions – one that can assess for one-week changes and one that can assess for one-month changes. The one-week changes may be more helpful for treatment providers to see change in symptom scores over time, whereas the one-month changes may be more helpful to assess for baseline PTSD.
+
+The CAPS has been revised to the CAPS-5 to reflect current changes in the DSM-5. The CAPS is currently the gold-standard assessment for PTSD and is used widely through the VA for compensation and pension determinations.  As described in Table 1, there are three versions of the CAPS, one to monitor monthly changes (often used for diagnosis), one to monitor weekly changes (often for assessing for time changes) and worst month (to assess for lifetime PTSD).
+
+Current version and recent changes 
+The current CAPS-5 contains 30 questions relating to PTSD symptoms. Each question asks about both the frequency and the severity of each symptom. These questions are split into categories. Each criterion has several questions, and scores for each criterion are added up at the end. 
+ Criterion A: A traumatic event 
+ Criterion B: Re-experiencing symptoms 
+ Criterion C: Avoidance symptoms 
+ Criterion D: Negative alterations in cognitions and mood 
+ Criterion E: Alterations in arousal and reactivity 
+ Criterion F: Disturbance lasted at least a month 
+ Criterion G: Disturbance causing impairment
+
+Scoring 
+To meet criteria for PTSD, a patient must have:
+ An index trauma/Criterion A event
+ At least one Criterion B symptom (questions 1-5)
+ At least one Criterion C symptom (questions 6-7) 
+ At least two Criterion D symptoms (questions 8-14)
+ At least two Criterion E symptoms (questions 15-20)
+Both criterion F and G must be met as well for a PTSD diagnosis. To meet criteria for a symptom, a patient must meet criteria in both frequency and intensity score for each item. Frequency and intensity and then combined to form a single severity score. Severity scores range from 0-4, with 0 being absent to 4 being extreme/incapacitating.
+
+The National Center for PTSD provides information for clinicians to learn how to administer and score the CAPS. They recommend that, in addition to training, the CAPS be administered by clinicians familiar with PTSD.
+
+Sample question and clinician follow-up
+Sample Question: "In the past month, have you had any unwanted memories of (EVENT) while you were awake, so not counting dreams?") 
+ To calculate frequency, a patient may be asked "In the past month, have you had any unwanted memories of (EVENT) while you were awake, so not counting dreams?" or "How often have you had these memories in the past month?"
+ To calculate intensity, a patient may be asked "How much do these memories bother you" and "Are you able to put them out of your mind and think about something else." 
+These frequency and intensity scores will get calculated together to create a severity score for each question. Total symptom severity is calculated by summing up all the individual item severity scores. For example, in the CAPS-IV scoring, to meet criteria for a symptom, the symptom must have an intensity score of 2 (on a scale or 0-4) or greater and a frequency score of 1 (on a scale of 0–4) or greater.
+
+Psychometric properties
+Test-Retest Reliability: Although relatively high test-retest coefficients have been reported (Time 1 vs. Time 2), no information has been provided about the actual retest time interval. It is not possible to interpret test-retest reliability coefficients in the absence of knowing the retest time interval. Without provision of clear-cut information about the temporal stability of the CAPS-5 over varying intervals of time (e.g., 1 week, 2 weeks, 1 month, 3 months, 6 months, 1 year, 5 years, etc.), administration of the CAPS-5 cannot be recommended for assessment of PTSD in clinical populations.
+
+Validity: The most recent version of the CAPS (CAPS-5) has demonstrated convergent validity with other measures of PTSD including the CAPS-IV and the PTSD Checklist. The CAPS-5 demonstrated discriminant validity with other measures, including measures of anxiety, substance abuse, and depression. It also has been translated into multiple languages, such as the Turkish and German that have also demonstrated validity.
+
+Limitations
+ The CAPS can only assess for one trauma (one Criterion A event). This can present difficulties when a patient may have more than one trauma.
+ The CAPS can be a lengthy interview taking up to 45–60 minutes. It may be difficult to find the personnel and time to conduct these interviews for clinics that have fewer resources available. 
+ The CAPS was constructed using data from military veterans. Although it is used in non-veteran populations, there may be differences in traumatology and symptoms between these populations.
+
+References
+
+Post-traumatic stress disorder
+Mental disorders diagnostic procedures

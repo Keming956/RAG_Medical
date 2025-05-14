@@ -1,0 +1,37 @@
+In biology, outbreeding depression happens when crosses between two genetically distant groups or populations result in a reduction of fitness. The concept is in contrast to inbreeding depression, although the two effects can occur simultaneously. Outbreeding depression is a risk that sometimes limits the potential for genetic rescue or augmentations. Therefore it is important to consider the potential for outbreeding depression when crossing populations of a fragmented species.  It is considered postzygotic response because outbreeding depression is noted usually in the performance of the progeny. Some common cases of outbreeding depression have arisen from crosses between different species or populations that exhibit fixed chromosomal differences.
+
+Outbreeding depression manifests in two ways:
+
+ Generating intermediate genotypes that are less fit than either parental form. For example, selection in one population might favor a large body size, whereas in another population small body size might be more advantageous, while individuals with intermediate body sizes are comparatively disadvantaged in both populations. As another example, in the Tatra Mountains, the introduction of ibex from the Middle East resulted in hybrids which produced calves at the coldest time of the year.
+ Breakdown of biochemical or physiological compatibility. Within isolated breeding populations, alleles are selected in the context of the local genetic background. Because the same alleles may have rather different effects in different genetic backgrounds, this can result in different locally coadapted gene complexes. Outcrossing between individuals with differently adapted gene complexes can result in disruption of this selective advantage, resulting in a loss of fitness.
+
+Mechanisms for generating outbreeding depression 
+The different mechanisms of outbreeding depression can operate at the same time. However, determining which mechanism is likely to occur in a particular population can be very difficult.
+
+There are three main mechanisms for generating outbreeding depression:
+
+ Fixed chromosomal differences resulting in the partial or complete sterility of F1 hybrids.
+ Adaptive differentiation among populations
+ Population bottlenecks and genetic drift
+
+Some mechanisms may not appear until two or more generations later (F2 or greater), when recombination has undermined vitality of positive epistasis. Hybrid vigor in the first generation can, in some circumstances, be strong enough to mask the effects of outbreeding depression.  An example of this is that plant breeders will make F1 hybrids from purebred strains, which will improve the uniformity and vigor of the offspring, however the F2 generation are not used for further breeding because of unpredictable phenotypes in their offspring. Unless there is strong selective pressure, outbreeding depression can increase in further generations as coadapted gene complexes are broken apart without the forging of new coadapted gene complexes to take their place. If the outcrossing is limited and populations are large enough, selective pressure acting on each generation can restore fitness. Unless the F1 hybrid generation is sterile or very low fitness, selection will act in each generation using the increased diversity to adapt to the environment. This can lead to recovery in fitness to baseline, and sometimes even greater fitness than original parental types in that environment. However, as the hybrid population will likely to go through a decline in fitness for a few generations, they will need to persist long enough to allow selection to act before they can rebound.
+
+Examples 
+The first mechanism has the greatest effects on fitness for polyploids, an intermediate effect on translocations, and a modest effect on centric fusions and inversions. Generally this mechanism will be more prevalent in the first generation (F1) after the initial outcrossing when most individuals are made up of the intermediate phenotype. An extreme case of this type of outbreeding depression is the sterility and other fitness-reducing effects often seen in interspecific hybrids (such as mules), which involves not only different alleles of the same gene but even different orthologous genes.
+
+Examples of the second mechanism include stickleback fish, which developed benthic and limnetic forms when separated. When crosses occurred between the two forms, there were low spawning rates. However, when the same forms mated with each other and no crossing occurred between lakes, the spawning rates were normal. This pattern has also been studied in Drosophila and leaf beetles, where the F1 progeny and later progeny resulted in intermediate fitness between the two parents. This circumstance is more likely to happen and occurs more quickly with selection than genetic drift.
+
+For the third mechanism, examples include poison dart frogs, anole lizards, and cichlid fish. Selection over genetic drift seems to be the dominant mechanism for outbreeding depression.
+
+In plants 
+For plants, outbreeding depression represents a partial crossing barrier. Unfortunately, outbreeding depression is not understood well in angiosperms. After observing Ipomopsis aggregata over time by crossing plants that were between 10–100m apart, a pattern was noticed that plants that were farther away spatially had a higher likelihood of outbreeding depression. Some general takeaways from this were that spatial patterns of selection on plant genotypes will vary in scale and pattern, and outbreeding depression reflects the genetic constitution of "hybrid" progeny and the environments in which the parents and progeny grow. This means that although outbreeding depression cannot be predicted in angiosperms yet, the environment has a role in it.
+
+See also
+Dominance versus overdominance
+Haldane's rule
+Heterozygote advantage
+
+References 
+
+Breeding
+Population genetics

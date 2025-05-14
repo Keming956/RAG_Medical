@@ -1,0 +1,14 @@
+Autogamy depression can be defined as the "lowered viability of autogamous progeny relative to geitonogamous progeny”. Viability has also been evaluated in terms of percent fruit set or  seed set rather than reproductive fitness of the progeny. The experimental design for observing the occurrence of autogamy depression is called an "autogamy depression test" which has been described by researchers as analogous to a test for inbreeding depression. The ability for fitness of autogamous progeny to differ from geitonogamous progeny comes from the understanding that plants can accumulate heritable mutational variation through both mitotic division and meiotic division. Because plants have indeterminate growth, the apical meristems that contribute to the development of the reproductive structures of a plant have the potential to undergo continual mitosis resulting in the accumulation of somatic mutations (acquired mutations). It has been demonstrated through research that long lived plants can have higher per generation mutation rate (based on occurrences of more mitotic cell divisions compared to short lived plants). Any deleterious mutations that appear during mitotic growth are filtered out through cell lineage selection, in which deleterious mutations that are subject to developmental selection during mitotic growth are replaced by vigorous cell lineages, however, somatic mutations that are not expressed will not be subject to selection during growth of the plant and will accumulate in the apical meristem.
+
+Phenotypic effects of somatic mutations 
+There is evidence of the phenotypic effects of somatic mutations in increased Chlorophyll mutants of some long-lived plants. Chlorophyll mutants are inherently easy to observe because of the phenotypic effects of the chlorophyll mutations. Because of the highly conserved nature of photosynthetic processes, these chlorophyll mutation rates can be generalized to most angiosperms. Somatic mutations accumulating during vegetative growth have also been found to affect the fitness of seedlings in the next generation.
+
+Expectations of autogamy depression test 
+Individual crowns are treated as, "independent mitotic mutation-accumulation lines" and so the appearance of deleterious somatic mutations in the autogamous crosses will be heterozygous or homozygous at the same locus (~25% homozygous) and the appearance of deleterious somatic mutations in the geitonogamous crosses will be heterozygous. The autogamy depression can be calculated through the simple equation AD = 1-(wa/wg), where AD is the Autogamy Depression, wa is the fitness of the autogamous progeny and wg is the fitness of the geitonogamous progeny. When the fitnesses are equal the AD is 0. The difference can be calculated by the equation, D = wg-wa.
+
+References 
+
+Biology
+Evolution
+Genetics
+Plant reproduction

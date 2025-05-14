@@ -1,0 +1,52 @@
+Subcortical ischemic depression, also known as vascular depression, is a medical condition most commonly seen in older people with major depressive disorder.  Subcortical ischemic depression refers to vascular depression specifically due to lesions and restricted blood flow, known as ischemia, in certain parts of the brain. However, the disorder is typically described as vascular depression in the literature.
+
+There is no formal and accepted definition of vascular depression and the hypothesis requires further research to support the causal link between these vascular lesions and depression. Thus, it is difficult to determine if vascular depression can be considered a distinct sub-type of major depressive disorder (MDD). However, with current criteria, some studies estimate that vascular depression may account for over half of the cases of MDD in the elderly.
+
+Diagnosis
+Vascular depression is typically diagnosed using either magnetic resonance imaging (MRI) or clinically defined criteria. MRI-defined vascular depression is more commonly referred to as subcortical ischemic depression (SID) and emphasizes the relationship between MRI identification of lesions in the brain and depressive symptoms. An alternative definition is  depression executive dysfunction (DED) syndrome and focuses on the link between clinical symptoms of cardiovascular risk and depressive symptoms. Both of these competing definitions are supported in the literature and provide a strategy to diagnose vascular depression.
+
+The criteria for MRI-defined vascular depression focus on the presence and severity of either deep white matter lesions, often referred to as white matter hyperintensities, or subcortical grey matter lesions. The most severe lesion in an individual is scored based on predefined criteria and considered in combination with two measures of depressive symptomology. These white matter lesions are thought to disrupt emotional and cognitive functioning.
+
+Alternatively, clinically defined criteria as proposed initially by Alexopoulos and colleagues (1997) includes dimensions of depressive symptoms, disability, and cognitive impairment. Specifically, DED syndrome has been characterized by a loss of interest in activities, psychomotor retardation, paranoia, and cognitive impairment in the domains of language fluency and visual naming.
+
+Aizenstein and colleagues (2016) proposed diagnostic criteria for vascular depression that incorporate elements of both clinical and MRI-definitions. These diagnostic criteria are:
+Evidence of vascular pathology in elderly subjects with or without cognitive impairment
+Absence of previous depressive episodes preceding obvious cerebrovascular disease
+Presence of cerebrovascular risk factors
+Co-incidence of depression with cerebrovascular risk factors
+Clinical symptoms characteristic of vascular depression such as executive dysfunction, decrease in processing speed, and lethargy
+Neuroimaging data confirming cerebrovascular disease
+
+Studies have not yet been conducted using this set of criteria, so it is unclear whether it provides an advantage over current standards. Some aspects of the criteria are not always necessary to diagnose individuals. For example, one study found that late-onset depression, executive dysfunction, and subcortical gray lesions in individuals were useful for identifying vascular depression, but only the presence of deep white matter lesions was necessary to classify individuals as having the disorder.
+
+Distinction from Major Depressive Disorder
+There is inadequate evidence to support vascular depression as a distinct subtype of major depressive disorder due to mixed results. Specifically, it is difficult to differentiate a diagnosis of vascular depression from similar diagnoses, such as post-stroke or late-life depression. Some researchers suggest that vascular depression may be too restricted in its definition and proposed etiology.
+
+However, there is some evidence of internal validity of vascular depression which provides initial support for its classification as a unique subtype. The most distinctive symptoms of vascular depression compared to non-vascular depression include increased cognitive and executive impairment, proposed to be associated with cerebrovascular risk factors. Additionally, studies have reported that when compared to individuals with non-vascular depression, those diagnosed with vascular depression tend to be older, have a lower family history of mental illness, and have a history of hypertension. Individuals with vascular depression also tend to have more deficits in self-initiation and concentration, higher cardiac illness burden and cerebrovascular risk factors, cognitive impairment (as associated with the severity of white matter lesions in the brain), and increased treatment resistance. Those with vascular depression have also reported increased lassitude, which is described as a difficulty getting started in the morning and may be related to fatigue.
+
+An additional study found that individuals with vascular depression reported greater executive dysfunction and apathy compared to both nondepressed individuals with vascular disease and healthy control participants. This provides support that these symptoms may be a result of vascular depression specifically and not solely individuals’ vascular disease.
+
+Cause
+
+Researchers hypothesize that vascular depression disrupts processes in certain parts of the brain to put individuals at risk for developing depression. Two primary mechanisms have been proposed: one associates white matter lesions (attributed to cardiovascular burden) and cerebrovascular risk factors. These two mechanisms parallel the differences between MRI and clinically defined vascular depression, yet do not necessarily represent contradictory mechanisms.  These brain changes are thought to be reflected in the white matter lesions identified by MRI. Cerebrovascular risk factors for vascular depression include high blood pressure, diabetes mellitus, hyperlipidemia, coronary heart disease, and tobacco smoking. However, these factors do not account for all cerebrovascular changes in individuals as genetics may play a large role as well.
+
+Research has found that white matter lesions are particularly important in predicting future depression. Increasing severity, or magnitude, of these lesions predicts an increase in depression over time (as studied in individuals who were already depressed). Additionally, lesions classified as ‘severe’ demonstrate the strongest association with depression. These white matter lesions also predict future depression risk in individuals that are not currently depressed: non-depressed participants with identified white matter lesions were eight times more likely to develop depression within the next three years compared to those without these lesions. Although the location of these lesions has been studied in connection to late-life depression, more research is needed to determine location’s role in the presentation of vascular depression.
+
+Management
+Several studies show that the lesions associated with vascular depression are linked to poor depression treatment outcomes. A limitation of these studies is that they lack a measurement of cerebrovascular risk factors before and after the experimental interventions. Therefore, it is unknown if these treatments are targeting these factors specifically or the more general categorization of late-onset geriatric depression.
+
+Keeping this in mind, transcranial magnetic stimulation (TMS), nimodipine, citalopram, and carotid stent placements have been shown to be effective treatments for some individuals with vascular depression. Individuals treated with TMS have reported decreased depressive symptoms. However, in one of these studies the results were based on clinically defined vascular depression. When participants were compared according to MRI defined vascular depression, there was no difference in antidepressant outcomes between those fitting this definition and those not.
+
+Controversy
+There are several criticisms regarding the theory of vascular depression. One critique is with regard to the distinction between sufficient and necessary causes for vascular depression. A cause is considered sufficient if its presence is enough to lead to vascular depression, yet it is considered necessary if it is required to develop vascular depression. Some research claims that vascular brain disease is sufficient (but not necessary) for the development of depression, but others have found that ischemic disease may not even be a sufficient causal factor.
+
+A second critique of vascular depression relates to the ambiguity about the causal direction between risk factors and depressive symptoms. It is very difficult to determine if cerebrovascular risk factors cause depressive symptoms or if depressive symptoms instead lead to a worsening of these risk factors, and it may likely be both. White matter lesions, proposed to be a causal risk factor, are common in the elderly and are associated with age. Depression and cerebrovascular risk factors are also common in later life. These factors make it difficult to determine what is the causal factor and to tease apart normal functioning from abnormal in the elderly population.
+
+A final challenge facing the vascular depression hypothesis is its lack of a formal definition. This makes the disorder fundamentally more difficult to study, especially considering that there is still no agreement on diagnostic criteria. Furthermore, some researchers have found that there is no depression symptom profile specific to those with vascular risk factors, calling into question vascular depression’s distinction from other depressive disorders.
+
+History
+Vascular depression was defined in 1997 by Alexopoulos and colleagues, who theorized that cerebrovascular disease can put individuals at risk for the development or increase of depressive symptoms in older adults.
+
+References
+
+Depression (mood)

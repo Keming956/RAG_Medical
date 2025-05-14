@@ -1,0 +1,7 @@
+Une aide au diagnostic médical (ou diagnostic assisté par ordinateur) est un système d'aide à la décision médicale utilisé dans le processus du diagnostic médical, qui est composé d'une base de données et d'un moteur de recherche. Il donne accès aux informations de la base de données, et peut proposer des diagnostics différentiels en fonction de données pré-renseignées après un examen clinique, des estimations pronostiques, ou signaler des informations manquantes pour établir un diagnostic.
+
+Références 
+
+Base de données en médecine
+Bio-informatique
+Algorithme de recherche

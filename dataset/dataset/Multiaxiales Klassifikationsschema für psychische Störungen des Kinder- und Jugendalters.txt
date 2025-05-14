@@ -1,0 +1,47 @@
+Das Multiaxiale Klassifikationsschema für psychische Störungen des Kindes- und Jugendalters ist eine empirisch basierte Weiterentwicklung des ICD – 10 Schemas und wird bei psychiatrischen Störungen im Kindes- und Jugendalter angewandt.
+
+Es wurde entwickelt, da psychiatrische Diagnosen zwangsläufig verschiedene Elemente/Ebenen enthalten. Beispielsweise kann es wichtig sein, intellektuelle Behinderungen mit vorhandenem oder nicht vorhandenem Hirnschaden festzustellen. Die Beschreibungen beziehen sich jeweils auf die aktuelle Situation und aktuelle Schwierigkeiten. Sie beziehen sich nicht auf die Persönlichkeit. Über  die  Prognose oder Angaben über Fortdauer einer Störung werden keine Aussagen gemacht.
+
+Entstehungsgeschichte der multiaxialen Klassifikation 
+
+Schon 1969 wurde eine 3-achsige Klassifikation genutzt. Das psychiatrisch-klinische Syndrom wurde neben dem Intelligenzniveau und den  Umständen der Krankheitsentstehung (Ätiologie), den Körper und die Umwelt betreffend, beschrieben. Die ätiologischen Umstände wurden später auf 2 Ebenen unterteilt. Danach wurde 1976 eine Achse für beschrieben Entwicklungsrückstände eingeführt. Das Schema basierte auf der ICD-9 Kodierung. Die Einführung des multiaxialen Schemas in Deutschland fand im Jahr 1977 statt.
+
+Mit Veröffentlichung der 10. Revision der ICD wurde die 6-achsige multiaxiale Klassifikation ab der 3. Auflage der deutschen Ausgabe übernommen.
+
+Die Achsen des Multiaxialen Klassifikationsschemas
+
+Achse 1 – klinisch-psychiatrisches Syndrom 
+
+In der ersten Achse werden die Diagnosen aus dem Kapitel V des ICD-10 genannt. Ausgenommen sind an dieser Stelle die Klassen F7 (Intelligenzminderung) und F8 (Entwicklungsstörungen) –  F84: (tiefgreifende Entwicklungsstörungen) ist aber in der 1. Achse als Diagnose zulässig.
+
+Achse 2 – Umschriebene Entwicklungsrückstände 
+
+An dieser Stelle werden umschriebene Entwicklungsrückstände (beispielsweise F81.0 Lese- und Rechtschreibstörung) unabhängig von der Ursache beschrieben. Sie liegen nur dann vor, wenn sie aus dem übrigen Entwicklungsniveau des Kindes oder des Jugendlichen herausfallen. Eine Entwicklungsstörung als Teil einer schweren geistigen Behinderung würde hier also nicht beschrieben werden.
+
+Achse 3 – Intelligenzniveau 
+
+Auf dieser Achse wird das psychometrisch (also durch Tests) erfasste oder klinisch eingeschätzte Intelligenzniveau kodiert.
+
+Achse 4 – Körperliche Symptomatik 
+
+Nicht-psychiatrische Krankheiten und Syndrome werden hier auf der 4. Achse genannt. Allerdings wird auch hier nur die aktuelle Situation beschrieben. Ausnahmen können gemacht werden, wenn Symptome mit aktuellen körperlichen Krankheiten zusammenhängen. Diagnosen aus dem 5. Kapitel des ICD-10 dürfen hier also nicht auftauchen.
+
+Achse 5 – Assoziierte aktuelle abnorme psychosoziale Umstände 
+
+Für die Ursache oder den Therapieverlauf wichtige abnorme psychosoziale Umstände (beispielsweise eine Behinderung eines Elternteils) sollten hier kodiert werden.
+
+Achse 6 – Globale Beurteilung des psychosozialen Funktionsniveaus 
+
+Inwieweit die psychologische, soziale oder schul-berufliche Funktion eingeschränkt ist, wird auf der 6. Achse kodiert. Die Beeinträchtigungen müssen als Folge einer psychischen Störung, einer Entwicklungsstörung oder einer intellektuellen Behinderung entstanden sein. Die Angaben sollen an dieser Stelle kompetenz- und nicht defizitbezogen gemacht werden.
+
+Weblinks 
+
+ Vorlesungspräsentation: Kinder- und jugendpsychiatrische Klassifikation, Ätiologie und Pathogenese
+ Präsentation: Multiaxiales Klassifikationsschema
+
+Literatur 
+ Helmut Remschmidt, Martin Schmidt, Fritz Poustka: Multiaxiales Klassifikationsschema für psychische Störungen des Kinder- und Jugendalters nach ICD-10 der WHO – Mit einem synoptischen Vergleich von ICD-10 und DSM-IV. 6. Auflage. Huber Verlag, Bern 2012, ISBN 978-3-456-85102-0.
+
+Einzelnachweise 
+
+Medizinische Klassifikation

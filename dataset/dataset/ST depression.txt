@@ -1,0 +1,51 @@
+ST depression refers to a finding on an electrocardiogram, wherein the trace in the ST segment is abnormally low below the baseline.
+
+Causes
+It is often a sign of myocardial ischemia, of which coronary insufficiency is a major cause. Other ischemic heart diseases causing ST depression include:
+ Subendocardial ischemia or even infarction. Subendocardial means non full thickness ischemia. In contrast, ST elevation is transmural (or full thickness) ischemia
+ Non Q-wave myocardial infarction
+ Reciprocal changes in acute Q-wave myocardial infarction (e.g., ST depression in leads I & aVL with acute inferior myocardial infarction)
+ ST segment depression and T-wave changes may be seen in patients with unstable angina
+
+Depressed but upsloping ST segment generally rules out ischemia as a cause.
+
+Also, it can be a normal variant or artifacts, such as:
+ Pseudo-ST-depression, which is a wandering baseline due to poor skin contact of the electrode
+ Physiologic J-junctional depression with sinus tachycardia
+ Hyperventilation
+
+Other, non-ischemic, causes include:
+ Side effect of digoxin
+ Hypokalemia
+ Right or left ventricular hypertrophy
+ Intraventricular conduction abnormalities (e.g., right or left bundle branch block, WPW, etc.)
+ Hypothermia
+ Tachycardia
+ Reciprocal ST elevation
+ Mitral valve prolapse
+ Central nervous system disease, such as stroke
+
+Mnemonic
+A mnemonic can be used for some causes of ST depression, namely DEPRESSED ST:
+
+D - Drooping valve (mitral valve prolapse) E - Enlargement of the left ventricle P - Potassium loss R - Reciprocal ST depression (e.g. inferior wall MI) E - Encephalon hemorrhage S - Subendocardial infarct S - Subendocardial ischemia E - Embolism (pulmonary) D - Dilated cardiomyopathy S - Shock T - Toxicity (digitalis/quinidine)
+
+Physiology
+
+For non-transmural ischemia (subendocardial ischemia) injured cells are closer to the inside of heart wall, resulting in a systolic injury current. A systolic injury current results from a greater depolarization in healthier cells. Because the subepicardial region is more depolarized (more positive) compared to the endomyocardial cells, the current in the left ventricle flows toward the endomyocardial cells. The current flows from the more positive subepicardium to the less positive subendocardium during phase 2 of the fast fiber type depolarization, which on ECG occurs during ST segment. The positive electrodes on the anterior chest wall detect the movement of positive charge away from the electrode and record it as a downward deflection on the ECG paper.
+
+Measurement
+ST segment depression may be determined by measuring the vertical distance between the patient's trace and the isoelectric line at a location 2-3 millimeters from the QRS complex.
+
+It is significant if it is more than 1 mm in V5-V6, or 1.5 mm in AVF or III.
+
+In a cardiac stress test, an ST depression of at least 1 mm after adenosine administration indicates a reversible ischaemia, while an exercise stress test requires an ST depression of at least 2 mm to significantly indicate reversible ischaemia.
+
+See also 
+ ST segment
+ ST elevation
+
+References 
+
+Cardiac arrhythmia
+Medical mnemonics

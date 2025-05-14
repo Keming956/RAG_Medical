@@ -1,0 +1,45 @@
+The influence of childhood trauma on the development of psychopathology in adulthood remains an active research question. According to Hervey M. Cleckley, a psychopathic person is someone who is able to imitate a normal functioning person, while masking or concealing their lack of internal personality structure. This results in an internal disorder with recurrent deliberate and detrimental conduct. Despite presenting themselves as serious, bright, and charming, psychopathic people are unable to experience true emotions. Robert Hare's two factor model and Christopher Patrick's triarchic model have both been developed to better understand psychopathology; however, whether the root cause is primarily environmental or primarily genetic is still in question.
+
+Although there exists no proven correlation between traumatic childhood experiences and psychopathy, a history of childhood trauma does show some relation with both psychopathic traits and inhibition of altruistic attitudes. Parental behaviors such as rejection, abuse, neglect or over protection show some relationship with the development of detrimental psychopathic traits. Gender differences have also been observed: for example, males may exhibit a stronger association between boldness and the experience of neglect as a child, as well as between meanness and the experience of childhood maltreatment.
+
+Psychopathy 
+Psychopathy or psychopathic personality is a clinical condition that was first researched extensively by the American psychiatrist, Hervey M. Cleckley, who wrote about the personality pathology in his book, The Mask of Sanity. Cleckley describes the psychopathic person as “on the exterior, someone who can flawlessly imitate a normal functioning person, masking or concealing a fundamental lack of internal personality structure (e.g., the organization of the personality in terms of its basic, enduring components and their relationships to one another), resulting in an internal disorder that leads to recurrent deliberate harmful conduct, frequently more detrimental to oneself than to others." Psychopathic people, despite their outward appearance of being serious, bright, and even charming, are unable to experience true emotions. Cleckley wonders if this act of sanity is willingly undertaken in order to conceal a lack of underlying structure, but finds that it conceals a major conceptual neuropsychiatric flaw that has yet to be properly defined.
+
+From Cleckley's work and conceptualization of psychopathy, Canadian psychologist Robert Hare developed the Psychopathy Check List (PCL-R), which was designed to detect and measure the presence of psychopathy. Hare formulated psychopathy into two factors: factor one (primary) which he defines as “selfish, callous and remorseless use of others," and factor two (secondary) which he defines as "chronically unstable, antisocial and socially deviant lifestyle.”
+
+Using a combination of Cleckley and Hare's work along with his own conceptualizations, psychologist Christopher Patrick formulated the triarchic model of psychopathy to better understand psychopathic assessment and to address unsolved issues within the field. Patrick's model formulates psychopathy as encompassing three distinct but interrelated phenotypic dispositions: boldness (social dominance and fearlessness), meanness (﻿aggression towards others) and disinhibition (﻿problems controlling impulses).
+
+The question of what causes someone to develop psychopathy or psychopathic personality traits has been researched for years. A dominating question in the field is whether one's social environment or genetics are more influential in the development of the pathology. Some have argued that genetics is at the core of psychopathy with regards to the emotional dysfunction and reduced emotional responsiveness. However, others claim that environmental and social factors (such as childhood trauma) are at the forefront of the disorder, but dependent on whether they fall into Hare's conceptualization of "primary" or "secondary" psychopathy.
+
+Childhood trauma 
+Childhood trauma can entail a wide variety of experiences including death, divorce, violence, sexual abuse, illness and others. In 2018 the World Health Organization released that per year, 40 million youths under the age of 15 are victims of violence.
+
+There are four commonly defined types of childhood abuse and neglect:
+
+ Physical abuse: the intentional use of physical force that can result in physical injury. Examples include hitting, kicking, shaking, burning, or other shows of force against a child.
+ Sexual abuse: involves pressuring or forcing a child to engage in sexual acts. It includes behaviors such as fondling, penetration, and exposing a child to other sexual activities. 
+ Emotional abuse: the behaviors that harm a child's self-worth or emotional well-being. Examples include name-calling, shaming, rejection, withholding love, and threatening.
+ Neglect: the failure to meet a child's basic physical and emotional needs. 
+ Emotional neglect: not meeting the child's developmental or emotional needs, including inadequate nurturance or affection.
+ Physical neglect: the failure to meet a child's basic physical needs, such as food, clothing, shelter, personal hygiene, and medical care.
+
+Adverse experiences in one's childhood have been linked to a wide array of negative mental health and biological outcomes including:
+
+ Mental Health: Post Traumatic Stress Disorder (PTSD); Depression; Anxiety; Personality pathology
+ Biological: Cardiovascular disease; Diabetes
+
+Influence of childhood trauma on psychopathy 
+Many question the influence that childhood traumatic experiences can have on a person's level of psychopathy. While many have found genetics to contribute to psychopathy, genetics alone cannot account for the etiology of psychopathy. The effects of childhood trauma can be seen in the relation it has with both psychopathic traits and inhibition of altruistic attitudes. In childhood, males who show higher levels of psychopathic traits are more likely to have experienced abuse and neglect, specifically emotional neglect, emotional abuse, physical abuse and sexual abuse. Because psychopathy has been heavily associated with interpersonal and social deficits, the effects of emotional neglect are of importance in assessment. This can bring challenges as emotional neglect does not show the physical signs of damage that physical abuse does, and yet can influence detrimental psychopathic effects. This is not to say that child abuse and neglect cause psychopathy; rather, it is highly unlikely that persons with severe psychopathic features did not suffer from abuse and neglect as children.
+
+A caretaker's interaction with their children is imperative for the children's healthy development and survival. The behavior that a parent exhibits (e.g., rejection, overprotection, emotional warmth) towards their child shows implications towards the development of psychopathic traits. The model of psychopathy created by Christopher Patrick indicates associations between disinhibition, meanness and boldness in response to childhood maltreatment and parental behaviors. Specifically, disinhibition is linked to practically every facet of childhood maltreatment, with the exception of sexual abuse, overprotective parenting, and parental behavior (e.g., rejection and emotional warmth). Emotional neglect and mother overprotection have positive connections with meanness, while maternal and paternal emotional warmth have negative associations. Finally, both emotional maltreatment and physical neglect were linked to characteristics found in boldness.
+
+Gender differences 
+Christopher Patrick's triarchic model of psychopathy suggests that the dispositions of disinhibition and meanness are associated with self-reported childhood maltreatment. The association between boldness and childhood neglect is found to be stronger in males than females; the relationship between disinhibition and meanness and childhood maltreatment is also shown to be stronger in males than females. This shows that males with more marked boldness traits are less likely than females to report or suffer childhood trauma, likely because males with these traits have an advantage in mobilizing resilience and are less likely to perceive past painful events as maltreatment. It's possible that men with higher levels of disinhibition and meanness are more likely to report or experience these consequences.
+
+References 
+
+Adverse childhood experiences
+Psychopathy
+Child and adolescent psychiatry
+
+Wikipedia Student Program

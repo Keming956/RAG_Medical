@@ -1,0 +1,47 @@
+The Autism Treatment Evaluation Scale (ATEC) is a 77-item diagnostic assessment tool that was developed by Bernard Rimland and Stephen Edelson at the Autism Research Institute. The ATEC was originally designed to evaluate the effectiveness of autism treatments, but it may also be beneficial as a screening tool for children. The questionnaire, which is completed by a parent, takes about 10–15 minutes to complete and is designed for use with children ages 5–12. The ATEC is currently available in 17 different languages.
+
+Several research studies support the ATEC as a reliable and valid instrument in the assessment of children’s autism symptoms and improvements. ATEC’s subscale measurements of behavior, cognitive awareness, and communication correlated significantly with other standardized measures of the same characteristics. Research has also found the ATEC to be successful in measuring interventional effects as well as tracking behavioral development over periods of time. However, studies analyzing the cross-cultural validity of the ATEC have yielded mixed results.
+
+History 
+Many psychological measures for autism assess stability over time. However, with the rise of various preventative programs for autism, there is an increased need for these measures to assess change over time. Additionally, not all measures orientated towards infants and toddlers are appropriate for older children as they continue to develop. The ATEC was created to  measure the success of these preventative programs and measures change over time in children of various ages. High quality practice parameters have now been established to help guide the assessment and treatment of ASD.
+
+Scoring and interpretation
+
+Item breakdown
+Questions are divided into four subscales based on content.
+Section 1: speech/language and communication
+Section 2: sociability
+Section 3: sensory and cognitive awareness
+Section 4: physical/health behavior
+
+Scoring
+For Sections 1-3, parents are asked to read the statement in each item and indicate whether it is "not true/descriptive," "somewhat true/descriptive," or "very true/descriptive" of their child. Section 4 asks parents to indicate whether the statements describe something that is "not a problem," a "minor problem," a "moderate problem," or a "serious problem" for their child.
+
+Total scores on the ATEC range from 0-180 and are calculated by summing the scores of each subscale. In general, a higher score
+indicates a greater degree of impairment from symptoms. Responses to each question are assigned a numeric value and then added together.
+In section 1 and section 3, an answer of "not true/descriptive" receives 2 points, an answer of "somewhat true/descriptive" receives 1 point, and an answer of "very true/descriptive" receives 0 points, wheres for section 2 an answer of "not true/descriptive" receives 0 point, an answer of "somewhat true/descriptive" receives 1 point, and an answer of "very true/descriptive" receives 2 points
+In section 4, an answer of "not a problem" receives 0 point, an answer of a "minor problem" receives 1 point, an answer of a "moderate problem" receives 2 points, and an answer of a "serious problem" receives 3 points.
+
+Cutoffs and interpretation
+Both subscale scores and total scores can be used to calculate a percentile of severity that the participant falls under, relative to score distributions provided by the Autism Research Institute. The following criteria for interpreting scores of the ATEC are as follows:
+
+Total scores of less than 30 at the age of five- Indicate that the child possesses somewhat normal behavior patterns and communication skills and has a high chance of leading a normal and independent life exhibiting minimal ASD symptoms. 
+Total scores of less than 50 at the age of five- Indicate that the child will most likely be able to lead a semi-independent life without needing to be placed in a formal care facility. 
+Total scores of 104 or higher- Indicate that the child would fall into the 90th percentile and would be considered severely autistic. He or she will likely need continuous care, perhaps at an institution, and may be unable to achieve any degree of independence from others.
+
+Additional research on the ATEC identifies the various cutoffs and percentiles for subscale and total scores.
+
+See also 
+Autism spectrum disorder
+Diagnostic classification and rating scales used in psychiatry
+
+References
+
+Further reading
+
+External links
+
+Take the ATEC in any of the 17 available languages
+More on ATEC scores, percentiles, and interpretation
+
+Psychiatric instruments: autism

@@ -1,0 +1,33 @@
+Endovascular and hybrid trauma and bleeding management  is a new and rapidly evolving concept within medical healthcare and endovascular resuscitation. It involves early multidisciplinary evaluation and management of hemodynamically unstable patients suffering from traumatic injuries as well as being a bridge to definitive treatment. It has recently been shown that the EVTM concept may also be applied to non-traumatic hemodynamically unstable patients.
+
+Principles
+
+The fundamental principles of trauma care are built around advanced trauma life support (ATLS) guidelines using the mnemonic ABCDE for early assessment of the patient and detection of airway and circulatory problems. This way, life-threatening conditions are identified and resuscitation may be initiated, despite the lack of definitive diagnosis. The EVTM concept of acute trauma care incorporates modern endovascular techniques and procedures as additional adjuncts to this well-established protocol. The new suggested algorithm of AABCDE has emerged for EVTM enabled providers. The additional “A” stands for Access, indicating the importance of gaining early vascular access to the femoral artery (and vein), and is fundamental to this concept of trauma care. As with traditional trauma care, vascular access in the peripheral or central veins allows for blood sampling and administration of drugs or fluids. However, for EVTM enabled providers, early femoral arterial access provides the possibility to use potentially lifesaving endovascular diagnostic and therapeutic tools for temporary management and bridge to definitive endovascular or open surgical treatment, in addition to arterial blood sampling and invasive blood pressure monitoring.
+
+One of the major elements of EVTM is the multidisciplinary team approach. By combining the expertise present allows for optimal treatment not just at the time of patient arrival but also in the pre-hospital setting and later in the operating suite. It is all about teamwork with a common goal, to save the patient. It allows for the hybrid use of open surgery and endovascular methods for hemorrhage control and definitive treatment. In a hemodynamically unstable bleeding patient, traditional treatment is laparotomy with abdominal packing, but an EVTM team might simultaneously gain vascular access and perform REBOA for proximal control or embolization as a part in definitive treatment. An EVTM multidisciplinary approach requires complete transparency, good communication and leadership. It is however also important to remember that just because you can, doesn’t mean that you should use an EVTM approach. EVTM should always be considered but only used in the optimally selected patient at the right time if the expertise and equipment is present to do it safely.
+
+Vascular access
+In the acute setting, the femoral artery is most often the easiest to identify and access thanks to its typically reasonable size. This is however obviously relative to individual anatomical differences and hemodynamic state of the patient. It is in general beneficial to gain early vascular access as the inguinal area is seldom occupied and, if possible, attempt to do this on the contralateral side to a major lower extremity injury. Access may be attempted by ultrasound-guided or blind puncture and surgical cut-down, where ultrasound-guided is the safest and most reasonable alternative for the less experienced. Vascular access is based on the Seldinger technique. After puncturing the vessel with a needle and confirmation of arterial access a wire is advanced, the needle removed and a vascular sheath is introduced. The access is then ready to use.
+
+Endovascular devices
+The use of endovascular modalities for bleeding control and treatment on hemodynamically unstable trauma patients is increasing. Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) for hemorrhage control, angioembolization and stent grafts are highly established tools used for both arterial and venous hemorrhage in both traumatic and non-traumatic patients. To be able to provide an endovascular opportunity for resuscitation requires good organization and a well-established endovascular team.
+
+REBOA
+
+Acute care of a hemodynamically unstable trauma patient is never an ideal task. The emphasis is on stopping blood extravasation and hemodynamic stabilisation without delay, despite if it is pre-hospital, in the emergency department or in a hybrid operating suite. REBOA, also called Aortic Balloon Occlusion (ABO), is a powerful endovascular tool that inflates an intra-aortic balloon occluding the lumen of the vessel and decreased or completely prevents blood flow to the more distal parts. If inflated in the aorta proximal to the identified source of bleeding it may help to diminish or stop blood extravasation, also potentially aiding to increase cardiac afterload. This should increase the central pressure and secure adequate myocardial and cerebral perfusion, hopefully rendering the patient, at least temporarily, more hemodynamically stable. REBOA is used as an endovascular tool for hemodynamic control and as a resuscitation adjunct that may prolong the life of the critical patient. REBOA is not only used from an endovascular resuscitation aspect, but may also to help by allowing more time for definitive treatment.
+
+Embolization
+Embolization is a minimally invasive technique used in EVTM of selected hemodynamically unstable patients with both traumatic and non-traumatic injuries. It is the artificial creation of a thrombus by the introduction of various substances to intentionally occlude a vessel with the aim to stop or diminish blood extravasation and is a critical part of the modern management of arterial injuries.
+
+Stent grafts
+Stent grafts, or endo-grafts, are a more permanent solution in the hemodynamically unstable patient and are an important part of the tool kit for EVTM. They are self-expanding artificial reconstructions of vessels with fabric coating deployed inside the original vessel and help to gain temporary control, stop the hemorrhage and repair the damaged vessel wall. They can be used and positioned, by an experienced surgeon, in every major vessel in the body.
+
+JEVTM
+The Journal of Endovascular Resuscitation and Trauma Management (JEVTM) is an open access platform for publishing peer-reviewed research regarding endovascular hybrid hemorrhage control. The first issue was published August 2017 with continued publications quarterly. The editorial board is made up by clinicians and scientists who are experts within the field.
+
+References 
+
+Traumatology
+Bleeding
+Emergency life support
+Hematology

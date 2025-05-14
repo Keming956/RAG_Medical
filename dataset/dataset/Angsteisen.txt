@@ -1,0 +1,13 @@
+Als Angsteisen werden Teile einer Bewehrung im Stahlbetonbau oder einer metallischen Verstärkung im Holzbau bezeichnet, die tatsächlich aber mutmaßlich aus reinen Vorsichtsgründen eingebaut worden sind. Sie werden baustatisch nicht für die Standsicherheit des Bauteils benötigt, sondern dienen, wenn überhaupt, nur der Kompensation rechnerischer Unsicherheiten in Hinblick auf Materialbeschaffenheit, Lastannahmen, Ausführungsabweichungen oder einem mehr oder weniger hohem Sicherheitsfaktor.
+
+Der Einbau von Angsteisen geht vor allem auf die Zeiten zurück, in denen die Berechnungsmethoden für Tragwerke noch mit größeren Unsicherheiten belegt waren und aus Angst vor dem Versagen einer Konstruktion einfach zusätzliches Material an gefährdeten Stellen eingebaut wurde. Auch kommt es vor, dass in der Statik vorgesehene Bewehrungseisen als mutmaßliche Angsteisen weggelassen werden, um Kosten zu vermeiden.
+
+Weblinks 
+ Beschreibung von Angsteisen in einer Windmühle
+
+Einzelnachweise 
+
+Verbindungselement
+Baustatik
+Bewehrungstechnik
+Holzverbindung

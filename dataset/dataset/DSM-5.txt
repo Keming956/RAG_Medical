@@ -1,0 +1,68 @@
+DSM-5 ist die Abkürzung für die fünfte Auflage des Diagnostic and Statistical Manual of Mental Disorders (DSM;  für „Diagnostischer und statistischer Leitfaden psychischer Störungen“). Das DSM stellt das dominierende psychiatrische Klassifikationssystem in den USA und spielt dort eine zentrale Rolle bei der Definition von psychischen Erkrankungen. Das DSM-5 wird von der Amerikanischen Psychiatrischen Gesellschaft (APA) herausgegeben und ist seit Mai 2013 die aktuell gültige und für die psychiatrische Diagnostik verbindliche Ausgabe.
+
+Damit eine Störung gemäß dem DSM-5 als psychische Störung eingestuft wird, muss diese andauernd oder wiederkehrend sein. Die Symptome dürfen außerdem nicht auf eine Droge oder ein Medikament zurückzuführen sein und müssen in klinisch bedeutsamer Weise Leiden oder Beeinträchtigungen in sozialen, beruflichen oder anderen wichtigen Funktionsbereichen verursachen. Normale Trauer und sozial abweichendes Verhalten (im politischen, sexuellen oder religiösen Sinne) sind nicht als psychische Störung zu werten (siehe auch Grundsätzliches zum DSM).
+
+Entwicklung 
+Die Arbeit am DSM-5 begann 1999. Ab 2000 war Darrel Regier als Forschungsdirektor der APA verantwortlich für die Koordination der Vorbereitungsarbeiten. Seit 2004 gibt es eine eigene Website. Seit 2006 steht die DSM-5-Arbeitsgruppe unter Leitung von David Kupfer, Stellvertreter ist Darrel Regier. Seit 2007 trafen sich regelmäßig Arbeitsgruppen (sog. Task Forces) zu den verschiedenen diagnostischen Kategorien. Außerdem wurden die Forschungsergebnisse zahlreicher Konferenzen und Kongresse eingearbeitet.
+
+Von Beginn der Entwicklung an war auch eine enge Abstimmung mit der ICD-11 geplant. Im Mai 2013 wurde die endgültige Fassung schließlich veröffentlicht und löste damit das DSM-IV von 1994 ab.
+
+Aufbau 
+Das aktuelle DSM-5 ist in folgende Kategorien gegliedert:
+ Störungen der neuronalen und mentalen Entwicklung
+ Schizophrenie-Spektrum und andere psychotische Störungen
+ Bipolare und verwandte Störungen
+ Depressive Störungen
+ Angststörungen
+ Zwangsstörung und verwandte Störungen
+ Trauma- und belastungsbezogene Störungen
+ Dissoziative Störungen
+ Somatische Belastungsstörung und verwandte Störungen
+ Fütter- und Essstörungen
+ Ausscheidungsstörungen
+ Schlaf-Wach-Störungen
+ Sexuelle Funktionsstörungen
+ Geschlechtsdysphorie
+ Disruptive, Impulskontroll- und Sozialverhaltensstörungen
+ Störungen im Zusammenhang mit psychotropen Substanzen und abhängigen Verhaltensweisen
+ Neurokognitive Störungen (NCD)
+ Persönlichkeitsstörungen
+ Paraphile Störungen
+ Andere psychische Störungen
+ Medikamenteninduzierte Bewegungsstörungen und andere unerwünschte Medikamentenwirkungen
+ Andere klinisch relevante Probleme
+
+Veränderungen 
+Veränderungen im DSM-5 betreffen z. B.:
+ Aufgabe des alten multiaxialen Systems
+ strengere Kriterien für eine ADHS-Diagnose
+ Vorstellung eines neuen dimensionalen Alternativmodells für Persönlichkeitsstörungen
+ Streichung der seit Jahrzehnten üblichen Einteilung der Schizophrenie in verschiedene Unterformen
+ Asperger-Syndrom wird als eigenständige Diagnose gestrichen und fällt nun unter Autismus-Spektrum-Störungen
+ Umgestaltung der Einteilung von depressiven und bipolaren Störungen
+ Überarbeitung des Suchtkapitels (Integration von Süchten unter die Abhängigkeitserkrankungen) und eine Einstufung der Diagnosen in „mild“, „mittel“ oder „schwer“
+ Neue Diagnosen wie Binge Eating, Prämenstruelle Dysphorische Störung, die Disruptive Stimmungsdysregulationsstörung und das Zwanghafte Horten.
+ Anzahl der diagnostischen Kategorien jedoch reduziert von 172 (DSM-IV) auf 157 (DSM-5)
+Nach wie vor keine Diagnosen sind: Burnout-Syndrom, komplexe posttraumatische Belastungsstörung und Internetabhängigkeit.
+
+Kritik 
+Die Anzahl der im DSM aufgeführten Krankheiten und Störungen ist stetig von 106 (DSM-I) auf 374 (DSM-5) angestiegen.
+
+Dies könnte u. a. daran liegen, dass viele der ins DSM-5 neu aufgenommenen Diagnosen möglicherweise wissenschaftlich nicht genug überprüft und die Schwellwerte für ältere Diagnosen gesenkt wurden. Eine Studie der University of Massachusetts Boston fand heraus, dass 69 % der DSM-5-Mitarbeiter Verbindungen zur Pharmaindustrie hatten; bei der Arbeitsgruppe zu affektiven Störungen waren es 83 % und bei den für Schlafstörungen zuständigen Autoren waren es 100 %.
+
+Durch die Möglichkeit, jede Verhaltensauffälligkeit als „milde“ Störung zu diagnostizieren, befürchten Kritiker eine Inflation von Diagnosen, die den Betroffenen dann lebenslang anhängen können. Prominentester Kritiker ist der US-amerikanische Psychiater Allen Frances, der ehemalige Vorsitzende der DSM-IV-Kommission. Auch das National Institute of Mental Health (NIMH) mit ihrem Leiter Thomas Insel kritisiert das DSM-5 für einen Mangel an Validität, obwohl er dessen hohe Reliabilität als Stärke anerkennt.
+
+Literatur
+
+Weblinks 
+ 
+ Jana Hauschild: Umstrittenes Psychologie-Werk: Katalog der Störungen. Spiegel Online, 12. Juli 2012.
+
+Einzelnachweise 
+
+Handbuch
+Klinische Psychologie
+Medizinische Klassifikation
+Psychiatrie
+
+it:Manuale diagnostico e statistico dei disturbi mentali#DSM-5

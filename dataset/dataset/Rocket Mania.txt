@@ -1,0 +1,43 @@
+Rocket Mania! is a puzzle video game by Belgian studio Nuclide Games, published by PopCap Games.
+
+Gameplay
+
+In Rocket Mania, players earn points by quickly and skillfully launching fireworks. This is done by rotating fuse segments on a grid in order to form a path between sources of flame on the left and firework rockets on the right. As the two are connected, the rockets launch, earning points. Bonus points can be earned by launching multiple rockets at once, which is possible since the fuse segments often contain 3-way or 4-way junction pieces, effectively splitting the path of the flame. After a rocket launch, all fuse segments which were touched by the flames are eliminated and replaced by new random fuse segments (with existing pieces falling downward to fill any gaps).
+
+Connections are helpfully color-coded in order to easily identify fuse segments which are connected to a source of fire or to one or more rockets. Players often find it helpful to work backwards (from the rockets), allowing setup of multiple rocket launches before making connections with fuse segments already connected to flames.
+
+Items and coins
+The game features bonus items which randomly appear on various fuse segments. These include gems (worth extra points), bombs (which blow up all nearby fuses, but also any items), and clocks (which temporarily freeze the game's countdown timer). These items are earned when the fuse segment they are placed upon is burned.
+
+Coins can be collected in the same fashion, and after each level, the coins are automatically spent to upgrade the point value of some of the rockets, making future launches of these rockets more valuable.  5 coins upgrade one rocket, to a maximum of 1000 points, and for every upgrade the rockets take on new appearances, ultimately ending up as "Dragon Rockets". After all rockets have been fully upgraded (to level 10), every additional coin which is collected is converted into points.
+
+New items are placed onto the existing fuse segments at a faster rate if the player successfully performs large, multi-rocket launches. Larger launches increase the number of coins that drop onto the fuses as well.
+
+Modes
+In addition to the classic mode, the game also includes an arcade mode, and a strategy mode. In the arcade mode, there is no time limit, but new fuse segments continuously fall from the top of the screen, filling up the available play area. Players can somewhat shift the position of falling pieces, but must otherwise quickly launch rockets to consume existing fuse segments. If any column of the board completely fills up, the game ends.
+
+In the strategy mode, the player has only a limited number of matches, and the game ends when all of them have been used. New matches appear on the field whenever the player launches three or more rockets; these must be picked up within three moves by burning the fuse segments on which they appear. Since a single match can launch more than one rocket if the fuses are set up properly, it is to the player's advantage to launch as many as possible at the same time. This mode encourages slower, more deliberate play, with careful planning required in order to extend play time.
+
+Availability
+The online version of Rocket Mania can be played for free at MSN Games and various other websites, but is limited in levels and extras. The Windows version, Rocket Mania Deluxe, is available as a trial download, with the full version able to be unlocked for a nominal fee.
+
+Palm OS and Pocket PC versions are also available.
+
+Reception
+GameZone awarded the Windows version of the title a 9.2 (out of 10) and an "Editor's Choice" award, concluding that it is easy to pick up, addictive, and able to keep one entertained for hours. While the reviewer at GameZone enjoyed the way the difficulty level slowly ramped up, GameSpot felt that the game was a little too simple and that there wasn't any real challenge until the later levels. As such, GameSpot scored the title as only 6.7 (out of 10), although some positives aspects which were noted included an easy control scheme and a decent variety of modes.
+
+The editors of Computer Gaming World nominated Rocket Mania for their 2003 "Puzzle Game of the Year" award, which ultimately went to Bookworm. They wrote, "From Bejeweled to Rocket Mania to Zuma, PopCap has constantly found new ways to spell 'addiction.' "
+
+References
+
+2003 video games
+Flash games
+Palm OS games
+Windows Mobile Professional games
+Windows Mobile Standard games
+PopCap games
+Puzzle video games
+Video games developed in Belgium
+Windows games
+Single-player video games
+Video games set in China

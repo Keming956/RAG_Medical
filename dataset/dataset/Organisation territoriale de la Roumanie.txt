@@ -1,0 +1,103 @@
+L’organisation territoriale de la Roumanie repose aujourd'hui sur quatre niveaux d'organisation territoriale :
+ 4 macro-régions (Macroregiuni) de niveau NUTS I, qui ne sont pas des régions administratives, mais dont le rôle est de coordonner le développement régional et les principales infrastructures.
+ 8 régions de développement (regiuni de dezvoltare) de niveau NUTS II, qui ne sont pas non plus des entités administratives, mais visent à promouvoir le développement économique régional.
+ 41 départements (județe) de niveau NUTS III ;
+ 103 municipalités (municipalități), 208 villes (orașe, pour les zones urbaines) et  communes (, pour les zones rurales) de niveau NUTS IV.
+La capitale Bucarest appelée , a un statut spécial de niveau NUTS III, tandis que ses six arrondissements (sector pourvu d'un maire élu) sont de niveau NUTS IV.
+
+Divisions et subdivisions actuelles
+
+Échelons territoriaux
+
+Macro-régions 
+Les macro-régions de développement représentent le cadre de coordination des infrastructures régionales, ainsi que des cadres d'organisation militaire, sanitaire, académique et autres d'intérêt national, selon les règles européennes définies par Eurostat pour le niveau I de la nomenclature des unités territoriales statistiques (NUTS).
+
+Régions de développement 
+
+Les régions de développement représentent le cadre de récolte de données statistiques particulières, selon les règles européennes définies par Eurostat pour le niveau II de la nomenclature des unités territoriales statistiques (NUTS).
+
+Les régions de développement ont été créées de manière à compter chacune environ le même nombre d'habitants. Chaque région est composée d'environ 6 județe, sauf la région de Bucarest-Ilfov qui est constituée de la municipalité de Bucarest et du județ d'Ilfov.
+
+Județe 
+
+C'est l'équivalent roumain du département en France, pourvu d'un préfet (Prefect) et d'un conseil général (Consiliu județean) élu. Il existe 41 județe (județ au singulier, du latin judicium) qui sont des subdivisions administratives de niveau III selon la NUTS.
+
+Municipalité de Bucarest 
+La capitale Bucarest compte aussi comme subdivision administrative de niveau III sans être un Județ (le județ dans lequel elle se trouve est celui d'Ilfov). On appelle cette subdivision « Municipalité de Bucarest » (): elle est divisée en six secteurs () et chacun de ces secteurs possède son propre maire et une part d'autonomie locale. Les six secteurs sont  des unités administratives locales 1 (anciennement NUTS 4).
+
+Villes, municipalités et communes 
+La Roumanie compte 208 villes () et 103 municipalités (). La différence entre les villes et les municipalités est que les dernières sont plus développées et plus urbanisées, et en général elles ont plus de  à . Il y a  communes, divisées en  villages. Les villages et hameaux n'ont pas d'administration individuelle, et ne sont donc pas des divisions politiques, mais seulement des cantons (ocoluri) administratifs des communes.
+
+Divisions territoriales traditionnelles ou en projet
+
+Organisation territoriale ecclésiastique 
+Dans la mesure où les Églises présentes en Roumanie sont subventionnées par les deniers publics, disposent de chaînes de télévision, de facultés et de séminaires dont les diplômes sont reconnus comme nationaux, et jouent un rôle non négligeable dans la vie scolaire, culturelle et politique du pays, leur organisation territoriale peut être mentionnée ici. Trois églises se partagent le territoire :
+ L'Église orthodoxe roumaine, la principale organisation religieuse du pays, revendique comme fidèles 80 % des citoyens et comporte six métropolies et 24 archevêchés et évêchés en Roumanie, 1 métropolie avec 4 archevêchés et évêchés en Moldavie, et deux évêchés en Hongrie et Serbie.
+ L'Église catholique romaine en Roumanie compte deux provinces ecclésiastiques : l'archidiocèse de Bucarest comportant les diocèses de Iași, Oradea Mare, Satu Mare et Timișoara, et l'archidiocèse d'Alba Iulia qui dépend directement du Saint-Siège et dont la majorité des fidèles sont des Hongrois de Roumanie.
+ L'Église grecque-catholique roumaine comporte deux « archéparchies » et quatre « éparchies suffragantes » : l'archéparchie de Bucarest, l'archéparchie de Făgăraş et Alba Iulia, puis les éparchies de Cluj-Gherla, Lugoj, Oradea et Maramureș-Bucovine.
+
+Régions historiques 
+Le territoire de la Roumanie d'aujourd'hui s'est constitué au cours de l'histoire à partir des régions à majorité roumanophone de l'espace carpatique et danubien, chacune avec son histoire et sa tradition. La Roumanie moderne s'étend donc sur plusieurs régions historiques, héritées de la géographie médiévale, dont certaines appartiennent pour partie à ses voisins. Jusqu'à l'union de 1918, on regroupe en général les régions historiques de la Roumanie, héritées du Moyen Âge, en trois « pays » au sens latin du terme (pays se dit țară en roumain).
+
+ Au nord-ouest, la région appelée globalement Transylvanie (en roumain Transilvania ou Ardeal) comprend l'ancienne Principauté de Transylvanie proprement-dite, vassale de la Hongrie (aujourd'hui au centre de la Roumanie) et, à l'ouest, des parties de régions ayant jadis appartenu au royaume de Hongrie lui-même (partium) : Banat (partagé avec la Serbie : la partie serbe fait partie de la Voïvodine), Crișana (partagée avec la Hongrie : la partie hongroise s'appelle Körösvidék) et Marmatie (partagée avec l'Ukraine : la partie roumaine fait partie du județ de Maramureș, l'ukrainienne fait partie de la Ruthénie subcarpatique).
+La Transylvanie a la particularité d'être une des régions culturellement les plus complexes ; deux villes sont importantes pour la culture roumaine : Sibiu (capitale culturelle de l'Europe en 2007 avec Luxembourg) et Brașov au cœur de la région de Bârsa où se trouve le château de Bran.
+ Au sud, la région appelée globalement Valachie (en roumain Țara românească) comprend l'Olténie, la Munténie et, selon les auteurs, la Dobrogée (d'autres auteurs comptent à part cette région partagée avec la Bulgarie : Dobrogea en roumain et Dobroudja en bulgare).
+ Au nord-est, la région appelée globalement Moldavie (en roumain Moldova) comprend l'ancienne Principauté de ce nom, qui a subi deux partages :
+ le premier, ancien, en a détaché successivement en 1484 et 1538 l'ancienne Bessarabie alors appelée Boudjak, en 1775 la Bucovine qui reçut alors ce nom, et en 1812 la moitié orientale du pays à l'est de la rivière Prut, alors appelée nouvelle Bessarabie ;
+ le second partage, toujours en vigueur, date de 1940 : il laisse en Roumanie la moitié sud de la Bucovine et la moitié Ouest de l'ancienne Principauté, en République de Moldavie les deux tiers de la nouvelle Bessarabie (moitié Est de l'ancienne Principauté), et en Ukraine la moitié Nord de la Bucovine, un fragment de la Moldavie occidentale (Région de Herța) et un tiers de la nouvelle Bessarabie (Hotin au nord, Bugeac au sud).
+En raison de ces changements, la Moldavie a la particularité d'être une des régions historiquement les plus complexes ; deux villes sont importantes pour la culture roumaine : Iași (foyer culturel ancien et ville universitaire majeure) et Chișinău, capitale de la République moldave indépendante depuis la dislocation de l'URSS et proche de la région du Codru que les Moldaves considèrent comme leur refuge historique et leur berceau culturel.
+
+S'il arrive parfois que des partis nationalistes agitent le passé roumain de ces régions, la Roumanie n'a aucune revendication territoriale et a reconnu par des traités avec ses voisins toutes ses frontières.
+
+Dans la partie ukrainienne de l'ancienne Principauté de Moldavie, il n'y a plus, de nos jours, qu'une petite minorité de Moldaves. En Moldavie roumaine, ils sont 98 % de la population et ils peuvent s'affirmer à la fois comme Moldaves (au sens géographique du terme) et Roumains (au sens culturel et linguistique). En République de Moldavie, où ils sont les deux-tiers de la population, la constitution leur interdit de s'affirmer à la fois comme Moldaves et comme Roumains : ils doivent choisir l'un ou l'autre (la plupart, pour ne pas être considérés comme une minorité nationale dans leur propre pays, choisissent l'identité Moldave). 
+
+On fait souvent référence à ces provinces historiques lorsqu'on parle de musique populaire, de plats ou de parlers régionaux, de costumes et d'architecture traditionnelle et plus généralement de particularités culturelles.
+
+Évolution historique du territoire 
+
+Ces régions historiques ont appartenu à divers États depuis le Moyen Âge (voir Histoire de la Roumanie) et les homonymies sont fréquentes. En particulier :
+ Transylvanie ou Ardeal désigne tantôt l'ancienne Principauté de Transylvanie seulement (notamment pour les historiens), tantôt l'ensemble des territoires hongrois avant 1918 ().
+ Vieux Royaume (en roumain : Regatul vechi,  en 1878,  en 1913), ou simplement le Royaume (en roumain : Regatul) désigne la Roumanie d'avant 1918, qui comprend plus ou moins la Moldavie (occidentale), la Valachie et la Dobroudja.
+ Grande Roumanie (en roumain : România Mare) désigne l'ensemble du territoire de la Roumanie dans sa plus grande extension entre les deux guerres mondiales (). C'est la Roumanie actuelle (), plus des régions perdues entre 1940 et 1948 (totalisant ), actuellement bulgares (Dobroudja du Sud), ukrainiennes (Bucovine du nord, Bessarabie du nord et Boudjak) et moldaves (les deux tiers de la Bessarabie).
+ Moldavie désigne soit la partie est (République de Moldavie dont  sous souveraineté moldave et  sous contrôle russe), soit la partie ouest (Région de Moldavie roumaine, ) de l'ancienne principauté de Moldavie ( dont  sont aujourd'hui en Ukraine). Toutefois, les moldavistes de la république de Moldavie, qui se réfèrent à la définition soviétique de la majorité roumanophone, ont réussi à accréditer pour la République de Moldavie, en anglais, allemand, espagnol et même en français officiel (circulaire Juppé), des gentilés différents de ceux de la Moldavie historique : Moldova et Moldawien au lieu de Moldavia, Moldavie et Moldau.
+
+L'étendue territoriale de la Roumanie a ainsi évolué comme suit :
+  en 1878 (année de l'indépendance à l'issue de la guerre russo-turque de 1877-1878) ;
+  en 1913 à l'issue de la Deuxième guerre balkanique (agrandie au détriment de la Bulgarie) ;
+  début 1918 au traité de Bucarest (diminuée au profit de l'Autriche-Hongrie et de la Bulgarie, mais agrandie par la fusion avec la république démocratique moldave) ;
+  fin 1918, à l'issue de la Première Guerre mondiale (agrandie au détriment de l'Autriche-Hongrie et de la Bulgarie) ;
+  en 1940, à l'issue du pacte Hitler-Staline et des diktats de Hitler (diminuée au profit de l'URSS, de la Hongrie et de la Bulgarie) ;
+  en 1947, à l'issue de la Seconde Guerre mondiale, au traité de paix de Paris (récupère le territoire cédé à la Hongrie en 1940) ;
+  depuis 1948 (diminuée de plusieurs îles et de leurs eaux adjacentes au profit de l'URSS, aujourd'hui l'Ukraine).
+
+Au  la Roumanie compte  de plus qu'au moment de son indépendance, issus de la dislocation de l'empire austro-hongrois.
+
+Évolution historique de l'organisation territoriale 
+L'organisation territoriale des principautés ayant précédé la formation de l'État roumain était basée, depuis le Moyen Âge, sur les megieșuri, județe et ținuturi dirigés par un jude (du latin médiéval judex) nommé par les voïvodes transylvains, valaques et moldaves. En 1859 la Principauté de Roumanie, suivie en 1881 par le Royaume de Roumanie et en 1947 par la République populaire roumaine maintient ces divisions, mais le jude est remplacé par un préfet, sur le modèle des départements français.
+
+En 1950, le régime communiste de Roumanie modifia l'organisation territoriale, adoptant le modèle soviétique de régions (dont l'une, où vivaient de nombreux Hongrois, autonome) divisées en raions. Trois ans après son accession au pouvoir, en 1968, Nicolae Ceaușescu réintroduisit des județe, mais avec une nouvelle organisation territoriale, et avec des secrétaires județeni du parti unique à leur tête. En 1981, les județe d'Ilfov de Vlașca et de Ialomița furent réorganisés pour donner la configuration actuelle, avec les județe de Giurgiu, Călărași et Ilfov-Bucarest.
+
+Le pouvoir post-communiste a conservé l'organisation territoriale héritée du régime Ceaușescu, à un détail près : en 1995, l'Ilfov qui dépendait de Bucarest en tant qu'arrondissement rural retrouva son statut de județ à part entière. En revanche, avec le retour progressif à la démocratie, le modèle français fut réintroduit, avec un préfet et un conseil général élu.
+
+Ultérieurement, deux autres niveaux d'organisation administrative ont été ajoutés : les macro-régions (Niveau I) et les régions de développement (Niveau II), mais seuls les județe (Niveau III) sont de véritables unités administratives pourvues d'institutions propres et d'instances décisionnelles locales.
+
+Les județe sont aujourd'hui, en Roumanie, l'équivalent des départements français avant la décentralisation. Ils sont en effet dirigés par un préfet (prefect) assisté d'un Conseil général élu (Consiliul județean) à la tête duquel se trouve un président élu pour quatre ans par les conseillers généraux.
+
+Propositions d'évolution future 
+
+Dès décembre 2001, en prévision de l'intégration du pays dans l'Union européenne, des propositions de réforme de l'organisation territoriale ont été formulée par divers députés, partis et commissions. Toutes affirment vouloir s'intégrer aux normes de l'U.E. comportant cinq niveaux NUTS, mais elles peuvent en gros être classées en deux catégories :
+ celles qui tranchent totalement par rapport au passé (ancien ou récent) et ne tiennent compte d'aucune subdivision ancienne ou actuelle autre que les limites communales : ces propositions sont basées sur des critères exclusivement économiques ou ethniques ;
+ celles qui reprennent en partie d'anciennes ou actuelles subdivisions, notamment pour éviter de chambouler du tout au tout l'administration, le cadastre, les archives, les immatriculations, les préfixes actuels. 
+
+Des partis ethniques (autorisés en Roumanie : voir Communautés ethno-linguistiques de Roumanie) comme l'UDMR ont formulé des propositions visant à établir des Euro-régions où les communautés ethniques soient localement majoritaires.
+
+Johannes Hahn, le Commissaire européen pour la politique régionale, a encouragé la Roumanie à ne pas céder aux tentations d'émiettement communautariste, allant ainsi dans le sens des partis politiques roumains de gauche, de tradition jacobine, qui préfèrent une organisation territoriale basée sur des échelons égaux en droits comme les actuels județe, ne tenant pas compte des communautés ethniques.
+
+Notes
+
+Bibliographie 
+
+ Cornelia Bodea, Liviu Constantinescu, Ștefan Pascu et al. : Atlas Istorico-Geografic, 160 pp., éd. Academiei Române, .
+ Les Structures locales et régionales en Roumanie
+
+Subdivision en Roumanie

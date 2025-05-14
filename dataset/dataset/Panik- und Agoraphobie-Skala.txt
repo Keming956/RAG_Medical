@@ -1,0 +1,12 @@
+Die Panik und Agoraphobie-Skala (PAS) ist ein Fremdbeurteilungsfragebogen zur Einschätzung der Schwere von Panikstörungen oder Agoraphobie. Der Fragebogen stammt von B. Bandelow aus dem Jahr 1997. Eine internationale Fassung wurde 1999 unter dem Titel Panic and Agoraphobia Scale veröffentlicht. Er besteht aus 13 Fragen mit einer fünfstufigen Antwortmöglichkeit. Aus den Antworten werden folgende 5 Skalen gebildet:
+ Panikattacken
+ agoraphobische Vermeidung
+ antizipatorische Angst
+ Einschränkungen (Familie, Partnerschaft, soziale und Freizeitaktivitäten)
+ und Gesundheitsbefürchtungen
+
+Es gibt eine Zusatzfrage, ob die Panikattacken erwartet oder unerwartet auftreten. Es wird ein Gesamtwert gebildet, um den Schweregrad der Erkrankung zu bestimmen. Dabei tragen von jeder Komponente 2 oder 3 Fragen zum Gesamtwert bei. Die Bearbeitungszeit wird auf 15 Minuten geschätzt, beziehungsweise auf 5–10 Minuten bei der Fremdbeurteilung und auf 5–20 Minuten bei der Selbstbeurteilung. Der Fragebogen liegt zur Selbst- und zur Fremdbeurteilung vor, wobei beides mit r=.90 korreliert. Der Fragebogen wird ab 15 Jahren angewendet. Es kann maximal ein Gesamtwert von 52 erreicht werden. Die Fremdbeurteilungsversion hat einen Mittelwert von 23,6 und eine Standardabweichung von 10,6. Die Selbstbeurteilungsversion hat einen Mittelwert von 23,5 und eine Standardabweichung von 10,3.
+
+Einzelnachweise 
+
+Psychologisches Testverfahren

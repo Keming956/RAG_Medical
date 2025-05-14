@@ -1,0 +1,244 @@
+Generalized anxiety disorder (GAD) is a mental and behavioral disorder, specifically an anxiety disorder characterized by excessive, uncontrollable and often irrational worry about events or activities. Worry often interferes with daily functioning, and sufferers are often overly concerned about everyday matters such as health, finances, death, family, relationship concerns, or work difficulties. Symptoms may include excessive worry, restlessness, trouble sleeping, exhaustion, irritability, sweating, and trembling.
+
+Symptoms must be consistent and ongoing, persisting at least six months, for a formal diagnosis of GAD. Individuals with GAD often suffer from other disorders including other psychiatric disorders (e.g., major depressive disorder), substance use disorder, obesity, and may have a history of trauma or family with GAD.  Clinicians use screening tools such as the GAD-7 and GAD-2 questionnaires to determine if individuals may have GAD and warrant formal evaluation for the disorder.  Additionally, sometimes screening tools may enable clinicians to evaluate the severity of GAD symptoms.
+
+GAD is believed to have a hereditary or genetic basis (e.g., first-degree relatives of an individual who has GAD are themselves more likely to have GAD) but the exact nature of this relationship is not fully appreciated.  Genetic studies of individuals who have anxiety disorders (including GAD) suggest that the hereditary contribution to developing anxiety disorders is only approximately 30-40%, which suggests that environmental factors may be more important to determining whether an individual develops GAD.
+
+The pathophysiology of GAD implicates several regions of the brain that mediate the processing of stimuli associated with fear, anxiety, memory, and emotion (i.e., the amygdala, insula and the frontal cortex).  It has been suggested that individuals with GAD have greater amygdala and medial prefrontal cortex (mPFC) activity in response to stimuli than individuals who do not have GAD.  However, the relationship between GAD and activity levels in other parts of the frontal cortex is the subject of ongoing research with some literature suggesting greater activation in specific regions for individuals who have GAD but where other research suggests decreased activation levels in individuals who have GAD as compared to individuals who do not have GAD.
+
+Treatment includes psychotherapy, e.g. cognitive behavioral therapy (CBT) or metacognitive therapy, and pharmacological intervention (e.g., citalopram, escitalopram, sertraline, duloxetine, and venlafaxine).  CBT and selective serotonin reuptake inhibitors (SSRIs) are first line psychological and pharmacological treatments; other options include selective norepinephrine reuptake inhibitors (SNRIs). In Europe, pregabalin is also used. The positive effects (if any) of complementary and alternative medications (CAMs), exercise, therapeutic massage and other interventions have been studied.
+
+Estimates regarding prevalence of GAD or lifetime risk (i.e., lifetime morbid risk (LMR)) for GAD vary depending upon which criteria are used for diagnosing GAD (e.g., DSM-5 vs ICD-10) although estimates do not vary widely between diagnostic criteria.  In general, ICD-10 is more inclusive than DSM-5, so estimates regarding prevalence and lifetime risk tend to be greater using ICD-10.  In regard to prevalence, in a given year, about two (2%) percent of adults in the United States and Europe have been suggested to suffer GAD. However, the risk of developing GAD at any point in life has been estimated at 9.0%.  Although it is possible to experience a single episode of GAD during one's life, most people who experience GAD experience it repeatedly over the course of their lives as a chronic or ongoing condition.  GAD is diagnosed twice as frequently in women as in men.
+
+Diagnosis
+
+DSM-5 criteria
+The diagnostic criteria for GAD as defined by the Diagnostic and Statistical Manual of Mental Disorders DSM-5 (2013), published by the American Psychiatric Association, are paraphrased as follows:No major changes to GAD have occurred since publication of the Diagnostic and Statistical Manual of Mental Disorders (2004); minor changes include wording of diagnostic criteria.
+
+ICD-10 criteria
+The 10th revision of the International Statistical Classification of Disease (ICD-10) provides a different set of diagnostic criteria for GAD than the DSM-5 criteria described above. In particular, ICD-10 allows diagnosis of GAD as follows:
+
+See ICD-10 F41.1 Note: For children different ICD-10 criteria may be applied for diagnosing GAD (see F93.80).
+
+History of diagnostic criteria
+The American Psychiatric Association introduced GAD as a diagnosis in the DSM-III in 1980, when anxiety neurosis was split into GAD and panic disorder. The definition in the DSM-III required uncontrollable and diffuse anxiety or worry that is excessive and unrealistic and persists for 1 month or longer. High rates in comorbidity of GAD and major depression led many commentators to suggest that GAD would be better conceptualized as an aspect of major depression instead of an independent disorder. Many critics stated that the diagnostic features of this disorder were not well established until the DSM-III-R. Since comorbidity of GAD and other disorders decreased with time, the DSM-III-R changed the time requirement for a GAD diagnosis to 6 months or longer. The DSM-IV changed the definition of excessive worry and the number of associated psychophysiological symptoms required for a diagnosis. Another aspect of the diagnosis the DSM-IV clarified was what constitutes a symptom as occurring "often". The DSM-IV also required difficulty controlling the worry to be diagnosed with GAD. The DSM-5 emphasized that excessive worrying had to occur more days than not and on a number of different topics. It has been stated that the constant changes in the diagnostic features of the disorder have made assessing epidemiological statistics such as prevalence and incidence difficult, as well as increasing the difficulty for researchers in identifying the biological and psychological underpinnings of the disorder. Consequently, making specialized medications for the disorder is more difficult as well. This has led to the continuation of GAD being medicated heavily with SSRIs.
+
+Risk factors
+
+Genetics, family and environment
+The relationship between genetics and anxiety disorders is an ongoing area of research.   It is broadly understood that there exists an hereditary basis for GAD, but the exact nature of this hereditary basis is not fully understood.  While investigators have identified several genetic loci that are regions of interest for further study, there is no singular gene or set of genes that have been identified as causing GAD.  Nevertheless, genetic factors may play a role in determining whether an individual is at greater risk for developing GAD, structural changes in the brain related to GAD, or whether an individual is more or less likely to respond to a particular treatment modality.  Genetic factors that may play a role in development of GAD are usually discussed in view of environmental factors (e.g., life experience or ongoing stress) that might also play a role in development of GAD.  The traditional methods of investigating the possible hereditary basis of GAD include using family studies and twin studies (there are no known adoption studies of individuals who suffer anxiety disorders, including GAD).  Meta-analysis of family and twin studies suggests that there is strong evidence of a hereditary basis for GAD in that GAD is more likely to occur in first-degree relatives of individuals who have GAD than in non-related individuals in the same population.  Twin studies also suggest that there may be a genetic linkage between GAD and major depressive disorder (MDD), which may explain the common occurrence of MDD in individuals who suffer GAD (e.g., comorbidity of MDD in individuals with GAD has been estimated at approximately 60%).  When GAD is considered among all anxiety disorders (e.g., panic disorder, social anxiety disorder), genetic studies suggest that hereditary contribution to the development of anxiety disorders amounts to only approximately 30-40%, which suggests that environmental factors are likely more important to determining whether an individual may develop GAD.  In regard to environmental influences in the development of GAD, it has been suggested that parenting behaviour may be an important influence since parents potentially model anxiety-related behaviours.  It has also been suggested that individuals who suffer GAD have experienced a greater number of minor stress-related events in life and that the number of stress-related events may be important in development of GAD (irrespective of other individual characteristics).
+
+Studies of possible genetic contributions to the development of GAD have examined relationships between genes implicated in brain structures involved in identifying potential threats (e.g., in the amygdala) and also implicated in neurotransmitters and neurotransmitter receptors known to be involved in anxiety disorders. More specifically, genes studied for their relationship to development of GAD or demonstrated to have had a relationship to treatment response include:
+
+ PACAP (A54G polymorphism): remission after 6 month treatment with Venlafaxine suggested to have a significant relationship with the A54G polymorphism (Cooper et al. (2013))
+ HTR2A gene (rs7997012 SNP G allele): HTR2A allele suggested to be implicated in a significant decrease in anxiety symptoms associated with response to 6 months of Venlafaxine treatment (Lohoff et al. (2013))
+ SLC6A4 promoter region (5-HTTLPR): Serotonin transporter gene suggested to be implicated in significant reduction in anxiety symptoms in response to 6 months of Venlafaxine treatment (Lohoff et al. (2013))
+
+Pathophysiology 
+
+The pathophysiology of GAD is an active and ongoing area of research often involving the intersection of genetics and neurological structures.  Generalized anxiety disorder has been linked to changes in functional connectivity of the amygdala and its processing of fear and anxiety. Sensory information enters the amygdala through the nuclei of the basolateral complex (consisting of lateral, basal and accessory basal nuclei).  The basolateral complex processes the sensory-related fear memories and communicates information regarding threat importance to memory and sensory processing elsewhere in the brain, such as the medial prefrontal cortex and sensory cortices.  Neurological structures traditionally appreciated for their roles in anxiety include the amygdala, insula and orbitofrontal cortex (OFC).  It is broadly postulated that changes in one or more of these neurological structures are believed to allow greater amygdala response to emotional stimuli in individuals who have GAD as compared to individuals who do not have GAD.
+
+Individuals with GAD have been suggested to have greater amygdala and medial prefrontal cortex (mPFC) activation in response to stimuli than individuals who do not have GAD.  However, the exact relationship between the amygdala and the frontal cortex (e.g., prefrontal cortex or the orbitofrontal cortex (OFC)) is not fully understood because there are studies that suggest increased or decreased activity in the frontal cortex in individuals who have GAD. Consequently, because of the tenuous understanding of the frontal cortex as it relates to the amygdala in individuals who have GAD, it's an open question as to whether individuals who have GAD bear an amygdala that is more sensitive than an amygdala in an individual without GAD or whether frontal cortex hyperactivity is responsible for changes in amygdala responsiveness to various stimuli. Recent studies have attempted to identify specific regions of the frontal cortex (e.g., dorsomedial prefrontal cortex (dmPFC)) that may be more or less reactive in individuals who have GAD or specific networks that may be differentially implicated in individuals who have GAD. Other lines of study investigate whether activation patterns vary in individuals who have GAD at different ages with respect to individuals who do not have GAD at the same age (e.g., amygdala activation in adolescents with GAD).
+
+Treatment
+Traditional treatment modalities broadly fall into two categories - i.e., psychotherapeutic and pharmacological intervention. In addition to these two conventional therapeutic approaches, areas of active investigation include complementary and alternative medications (CAMs), brain stimulation, exercise, therapeutic massage and other interventions that have been proposed for further study. Treatment modalities can, and often are utilized concurrently so that an individual may pursue psychological therapy (i.e., psychotherapy) and pharmacological therapy.  Both cognitive behavioral therapy (CBT) and medications (such as SSRIs) have been shown to be effective in reducing anxiety.  A combination of both CBT and medication is generally seen as the most desirable approach to treatment. Use of medication to lower extreme anxiety levels can be important in enabling patients to engage effectively in CBT.
+
+Psychotherapy 
+Psychotherapeutic interventions include a plurality of therapy types that vary based upon their specific methodologies for enabling individuals to gain insight into the working of the conscious and subconscious mind and which sometimes focus on the relationship between cognition and behavior. Cognitive behavioral therapy (CBT) is widely regarded as the first-line psychological therapy for treating GAD. Additionally, many of these psychological interventions may be delivered in an individual or group therapy setting. While individual and group settings are broadly both considered effective for treating GAD, individual therapy tends to promote longer-lasting engagement in therapy (i.e., lower attrition over time).
+
+Psychodynamic therapy 
+Psychodynamic therapy is a type of therapy premised upon Freudian psychology in which a psychologist enables an individual explore various elements in their subconscious mind to resolve conflicts that may exist between the conscious and subconscious elements of the mind. In the context of GAD, the psychodynamic theory of anxiety suggests that the unconscious mind engages in worry as a defense mechanism to avoid feelings of anger or hostility because such feelings might cause social isolation or other negative attribution toward oneself. Accordingly, the various psychodynamic therapies attempt to explore the nature of worry as it functions in GAD in order to enable individuals to alter the subconscious practice of using worry as a defense mechanism and to thereby diminish GAD symptoms. Variations of psychotherapy include a near-term version of therapy, "short-term anxiety-provoking psychotherapy (STAPP).
+
+Behavioral therapy 
+Behavioral therapy is therapeutic intervention premised upon the concept that anxiety is learned through classical conditioning (e.g., in view of one or more negative experiences) and maintained through operant conditioning (e.g., one finds that by avoiding a feared experience that one avoids anxiety). Thus, behavioral therapy enables an individual to re-learn conditioned responses (behaviors) and to thereby challenge behaviors that have become conditioned responses to fear and anxiety, and which have previously given rise to further maladaptive behaviors.
+
+Cognitive therapy 
+Cognitive therapy (CT) is premised upon the idea that anxiety is the result of maladaptive beliefs and methods of thinking. Thus, CT involves assisting individuals to identify more rational ways of thinking and to replace maladaptive thinking patterns (i.e., cognitive distortions) with healthier thinking patterns (e.g., replacing the cognitive distortion of catastrophizing with a more productive pattern of thinking). Individuals in CT learn how to identify objective evidence, test hypotheses, and ultimately identify maladaptive thinking patterns so that these patterns can be challenged and replaced.
+
+Acceptance and commitment therapy
+Acceptance and commitment therapy (ACT) is a behavioral treatment based on acceptance-based models. ACT is designed with the purpose to target three therapeutic goals: (1) reduce the use of avoiding strategies intended to avoid feelings, thoughts, memories, and sensations; (2) decreasing a person's literal response to their thoughts (e.g., understanding that thinking "I'm hopeless" does not mean that the person's life is truly hopeless), and (3) increasing the person's ability to keep commitments to changing their behaviors. These goals are attained by switching the person's attempt to control events to working towards changing their behavior and focusing on valued directions and goals in their lives as well as committing to behaviors that help the individual accomplish those personal goals. This psychological therapy teaches mindfulness (paying attention on purpose, in the present, and in a nonjudgmental manner) and acceptance (openness and willingness to sustain contact) skills for responding to uncontrollable events and therefore manifesting behaviors that enact personal values.
+
+Intolerance of uncertainty therapy
+Intolerance of uncertainty (IU) refers to a consistent negative reaction to uncertain and ambiguous events regardless of their likelihood of occurrence. Intolerance of uncertainty therapy (IUT) is used as a stand-alone treatment for GAD patients. Thus, IUT focuses on helping patients in developing the ability to tolerate, cope with and accept uncertainty in their life in order to reduce anxiety. IUT is based on the psychological components of psychoeducation, awareness of worry, problem-solving training, re-evaluation of the usefulness of worry, imagining virtual exposure, recognition of uncertainty, and behavioral exposure. Studies have shown support for the efficacy of this therapy with GAD patients with continued improvements in follow-up periods.
+
+Motivational interviewing
+A promising innovative approach to improving recovery rates for the treatment of GAD is to combine CBT with motivational interviewing (MI). Motivational interviewing is a strategy centered on the patient that aims to increase intrinsic motivation and decrease ambivalence about change due to the treatment. MI contains four key elements: (1) express empathy, (2) heighten dissonance between behaviors that are not desired and values that are not consistent with those behaviors, (3) move with resistance rather than direct confrontation, and (4) encourage self-efficacy. It is based on asking open-ended questions and listening carefully and reflectively to patients' answers, eliciting "change talk", and talking with patients about the pros and cons of change. Some studies have shown the combination of CBT with MI to be more effective than CBT alone.
+
+Cognitive behavioral therapy 
+Cognitive behavioral therapy (CBT) is an evidence-based type of psychotherapy that demonstrates efficacy in treating GAD and which integrates the cognitive and behavioral therapeutic approaches. The objective of CBT is to enable individuals to identify irrational thoughts that cause anxiety and to challenge dysfunctional thinking patterns by engaging in awareness techniques such as hypothesis testing and journaling. Because CBT involves the practice of worry and anxiety management, CBT includes a plurality of intervention techniques that enable individuals to explore worry, anxiety and automatic negative thinking patterns. These interventions include anxiety management training, cognitive restructuring, progressive relaxation, situational exposure and self-controlled desensitization.
+
+Other forms of psychological therapy include:
+
+ Relaxation techniques (e.g., relaxing imagery, meditational relaxation)
+ Metacognitive therapy (MCT): The objective of MCT is to alter thinking patterns regarding worry so that worry is no longer used as a coping strategy. It has promising results in treatment of GAD as well as other mental issues.
+ Mindfulness based stress reduction (MBSR)
+ Mindfulness based cognitive therapy (MBCT)
+ Supportive therapy: This is a Rogerian method of therapy in which subjects experience empathy and acceptance from their therapist to facilitate increasing awareness. Variations of active supportive therapy include Gestalt therapy, Transactional analysis and Counseling.
+
+Pharmacotherapy 
+Benzodiazepines (BZs) have been used to treat anxiety starting in the 1960s. There is a risk of dependence and tolerance to benzodiazepines. BZs have a number of effects that make them a good option for treating anxiety including anxiolytic, hypnotic (induce sleep), myorelaxant (relax muscles), anticonvulsant, and amnestic (impair short-term memory) properties. While BZs work well to alleviate anxiety shortly after administration, they are also known for their ability to promote dependence and are frequently used recreationally or non-medically. Antidepressants (e.g., SSRIs / SNRIs) have become a mainstay in treating GAD in adults.  First-line medications from any drug category often include those that have been approved by the Food and Drug Administration (FDA) for treating GAD because these drugs have been show to be safe and effective.
+
+FDA-approved medications for treating GAD 
+FDA-approved medications for treating GAD include:
+
+Non-FDA approved medications 
+While certain medications are not specifically FDA approved for treatment of GAD, there are a number of medications that historically have been used or studied for treating GAD. Other medications that have been used or evaluated for treating GAD include:
+
+ SSRIs (antidepressants)
+ Citalopram
+ Fluoxetine
+ Sertraline
+ Fluvoxamine
+ Benzodiazepines
+ Clonazepam
+ Lorazepam
+ Diazepam
+ GABA analogs
+ Pregabalin
+ Tiagabine
+ Second-generation antipsychotics (SGAs)
+ Olanzapine (evidence of effectiveness is merely a trend)
+ Ziprasidone
+ Risperidone
+ Aripiprazole (studied as an adjunctive measure in concert with other treatment)
+ Quetiapine (atypical antipsychotic studied as an adjunctive measure in adults and geriatric patients)
+ Antihistamines
+ Hydroxyzine (H1 receptor antagonist)
+ Vilazodone (atypical antidepressant)
+ Agomelatine (antidepressant, MT1/2 receptor agonist, 5HT2c antagoinst)
+ Clonidine (noted to cause decreased blood pressure and other AEs)
+ Guanfacine (a2A receptor agonist, studied in pediatric patients with GAD)
+ Mirtazapine (atypical antidepressant having 5HT2A and 5HT2c receptor affinity)
+ Vortioxetine (multimodal antidepressant)
+ Eszopiclone (non-benzodiazepine hypnotic)
+ Tricyclic antidepressants
+ Amitriptyline
+ Clomipramine
+ Doxepin
+ Imipramine
+ Trimipramine
+ Desipramine
+ Nortriptyline
+ Protriptyline
+ Opipramol (atypical TCA)
+ Trazodone
+ Monamine oxidase inhibitors (MAOIs)
+ Tranylcypromine
+ Phenelzine
+ Homeopathic preparations (discussed below, see complementary and alternative medications (CAMs))
+
+Selective serotonin reuptake inhibitors
+Pharmaceutical treatments for GAD include selective serotonin reuptake inhibitors (SSRIs).  SSRIs increase serotonin levels through inhibition of serotonin reuptake receptors.
+
+FDA approved SSRIs used for this purpose include escitalopram and paroxetine. However, guidelines suggest using sertraline first due to its cost-effectiveness compared to other SSRIs used for generalized anxiety disorder and a lower risk of withdrawal compared to SNRIs. If sertraline is found to be ineffective, then it is recommended to try another SSRI or SNRI.
+
+Common side effects include nausea, sexual dysfunction, headache, diarrhea, constipation, restlessness, increased risk of suicide in young adults and adolescents, among others. Sexual side effects, weight gain, and higher risk of withdrawal are more common in paroxetine than escitalopram and sertraline. In older populations or those taking concomitant medications that increase risk of bleeding, SSRIs may further increase the risk of bleeding. Overdose of an SSRI or concomitant use with another agent that causes increased levels of serotonin can result in serotonin syndrome, which can be life-threatening.
+
+Serotonin norepinephrine reuptake inhibitors
+
+First line pharmaceutical treatments for GAD also include serotonin-norepinephrine reuptake inhibitors (SNRIs). These inhibit the reuptake of serotonin and noradrenaline to increase their levels in the CNS.
+
+FDA approved SNRIs used for this purpose include duloxetine (Cymbalta) and venlafaxine (Effexor). While SNRIs have similar efficacy as SSRIs, many psychiatrists prefer to use SSRIs first in the treatment of Generalized Anxiety Disorder. The slightly higher preference for SSRIs over SNRIs as a first choice for treatment of anxiety disorders may have been influenced by the observation of poorer tolerability of the SNRIs in comparison to SSRIs in systematic reviews of studies of depressed patients.
+
+Side effects common to both SNRIs include anxiety, restlessness, nausea, weight loss, insomnia, dizziness, drowsiness, sweating, dry mouth, sexual dysfunction and weakness. In comparison to SSRIs, the SNRIs have a higher prevalence of the side effects of insomnia, dry mouth, nausea and high blood pressure. Both SNRIs have the potential for discontinuation syndrome after abrupt cessation, which can precipitate symptoms including motor disturbances and anxiety and may require tapering. Like other serotonergic agents, SNRIs have the potential to cause serotonin syndrome, a potentially fatal systemic response to serotonergic excess that causes symptoms including agitation, restlessness, confusion, tachycardia, hypertension, mydriasis, ataxia, myoclonus, muscle rigidity, diaphoresis, diarrhea, headache, shivering, goose bumps, high fever, seizures, arrhythmia and unconsciousness. SNRIs like SSRIs carry a black box warning for suicidal ideation, but it is generally considered that the risk of suicide in untreated depression is far higher than the risk of suicide when depression is properly treated.
+
+Pregabalin and gabapentin
+Pregabalin (Lyrica) acts on the voltage-dependent calcium channel to decrease the release of neurotransmitters such as glutamate, norepinephrine and substance P. Its therapeutic effect appears after 1 week of use and is similar in effectiveness to lorazepam, alprazolam and venlafaxine but pregabalin has demonstrated superiority by producing more consistent therapeutic effects for psychic and somatic anxiety symptoms. Long-term trials have shown continued effectiveness without the development of tolerance and additionally, unlike benzodiazepines, it does not disrupt sleep architecture and produces less severe cognitive and psychomotor impairment. It also has a low potential for misuse and dependency and may be preferred over the benzodiazepines for these reasons. The anxiolytic effects of pregabalin appear to persist for at least six months continuous use, suggesting tolerance is less of a concern; this gives pregabalin an advantage over certain anxiolytic medications such as benzodiazepines.
+
+Gabapentin (Neurontin), a closely related medication to pregabalin with the same mechanism of action, has also demonstrated effectiveness in the treatment of GAD, though unlike pregabalin, it has not been approved specifically for this indication. Nonetheless, it is likely to be of similar usefulness in the management of this condition, and by virtue of being off-patent, it has the advantage of being significantly less expensive in comparison. In accordance, gabapentin is frequently prescribed off-label to treat GAD.
+
+Complementary and alternative medicines studied for potential in treating GAD 
+Complementary and alternative medicines (CAMs) are widely used by individuals who suffer GAD despite having no evidence or varied evidence regarding efficacy. Efficacy trials for CAM medications often suffer from various types of bias and low quality reporting in regard to safety. In regard to efficacy, critics point out that CAM trials sometimes predicate claims of efficacy based on a comparison of a CAM against a known drug after which no difference in subjects is found by investigators and which is used to suggest an equivalence between a CAM and a drug. Because this equates a lack of evidence with the positive assertion of efficacy, a "lack of difference" assertion is not a proper claim for efficacy. Moreover, an absence of strict definitions and standards for CAM compounds further burdens the literature regarding CAM efficacy in treating GAD. CAMs academically studied for their potential in treating GAD or GAD symptoms along with a summary of academic findings are given below.  What follows is a summary of academic findings.  Accordingly, none of the following should be taken as offering medical guidance or an opinion as to the safety or efficacy of any of the following CAMs.
+
+ Kava Kava (Piper methysticum) extracts: Meta analysis does not suggest efficacy of Kava extracts due to few data available yielding inconclusive results or non-statistically significant results. Nearly a quarter (25.8%) of subjects experienced adverse effects (AEs) from Kava Kava extracts during six trials. Kava Kava may cause liver toxicity.
+ Lavender (Lavandula angustifolia) extracts: Small and varied studies may suggest some level of efficacy as compared to placebo or other medication; claims of efficacy are regarded as needing further evaluation. Silexan is an oil derivative of Lavender studied in pediatric patients with GAD. Concern exists regarding the question as to whether Silexan may cause unopposed estrogen exposure in boys due to disruption of steroid signaling.
+ Galphimia glauca extracts: While Galphima glauca extracts have been the subject of two randomised controlled trials (RCTs) comparing Galphima glauca extracts to lorazepam, efficacy claims are regarded as "highly uncertain."
+ Chamomile (Matricaria chamomilla) extracts: Poor quality trials have trends that may suggest efficacy but further study is needed to establish any claim of efficacy.
+ Crataegus oxycantha and Eschscholtzia californica extracts combined with magnesium: A single12-week trial of Crataegus oxycantha and Eschscholtzia californica compared to placebo has been used to suggest efficacy. However, efficacy claims require confirmation studies. For the minority of subjects who experienced AEs from extracts, most AEs implicated gastrointestinal tract (GIT) intolerance.
+ Echium amoneum extract: A single, small trial used this extract as a supplement to fluoxetine (vs using a placebo to supplement fluoxetine); larger studies are needed to substantiate efficacy claims.
+ Gamisoyo-San: Small trials of this herbal mixture compared to placebo have suggested no efficacy of the herbal mixture over placebo but further study is necessary to allow definitive conclusion of a lack of efficacy.
+ Passiflora incarnata extract: Claims of efficacy or benzodiazepam equivalence are regarded as "highly uncertain."
+ Valeriana extract: A single 4-week trial suggests no effect of Valeriana extract on GAD but is regarded as "uninformative" on the topic of efficacy in view of its finding that the benzodiazepine diazepam also had no effect. Further study may be warranted.
+
+Other possible modalities discussed in literature for potential in treating GAD 
+Other modalities that have been academically studied for their potential in treating GAD or symptoms of GAD are summarised below.  What follows is a summary of academic findings.  Accordingly, none of the following should be taken as offering medical guidance or an opinion as to the safety or efficacy of any of the following modalities.
+
+ Acupuncture: A single, very small trial revealed a trend toward efficacy but flaws in the trial design suggest uncertainty regarding efficacy.
+ Balneotherapy: Data from a single non-blinded study suggested possible efficacy of balneotherapy as compared to paroxetine. However, efficacy claims need confirmation.
+ Therapeutic massage: A single, small, possibly biased study revealed inconclusive results.
+ Resistance and aerobic exercise: When compared to no treatment, a single, small, potentially unrepresentative trial suggested a trend toward GAD remission and reduction of worry.
+ Chinese bloodletting: When added to paroxetine, a single, small, imprecise trial that lacked a sham procedure for comparison suggested efficacy at 4-weeks. However, larger trials are needed to evaluate this technique as compared to a sham procedure.
+ Floating in water: When compared to no treatment, a single, imprecise, non-blinded trial suggested a trend toward efficacy (findings were statistically insignificant).
+ Swedish massage: When compared to a sham procedure, a single trial showed a trend toward efficacy (i.e., findings were statistically insignificant).
+ Ayurvedic medications: a single non-blinded trial was inconclusive as to whether Ayurvedic medications were effective in treating GAD.
+ Multifaith spiritually-based intervention: a single, small, non-blinded study was inconclusive regarding efficacy.
+
+Lifestyle
+
+Lifestyle factors including: stress management, stress reduction, relaxation, exercise, sleep hygiene, and caffeine and alcohol reduction can influence anxiety levels. Physical activity has shown to have a positive impact whereas low physical activity may be a risk factor for anxiety disorders.
+
+Substances and anxiety in GAD
+While there are no substances that are known to cause generalized anxiety disorder (GAD), certain substances or the withdrawal from certain substances have been implicated in promoting the experience of anxiety.  For example, even while benzodiazepines may afford individuals with GAD relief from anxiety, withdrawal from benzodiazepines is associated with the experience of anxiety among other adverse events like sweating and tremor.
+
+Tobacco withdrawal symptoms may provoke anxiety in smokers and excessive caffeine use has been linked to aggravating and maintaining anxiety.
+
+Comorbidity
+
+Depression
+In the National Comorbidity Survey (2005), 58 percent of patients diagnosed with major depression were found to have an anxiety disorder; among these patients, the rate of comorbidity with GAD was 17.2 percent, and with panic disorder, 9.9 percent. Patients with a diagnosed anxiety disorder also had high rates of comorbid depression, including 22.4 percent of patients with social phobia, 9.4 percent with agoraphobia, and 2.3 percent with panic disorder. A longitudinal cohort study found 12% of the 972 participants had GAD comorbid with MDD. Accumulating evidence indicates that patients with comorbid depression and anxiety tend to have greater illness severity and a lower treatment response than those with either disorder alone. In addition, social function and quality of life are more greatly impaired.
+
+For many, the symptoms of both depression and anxiety are not severe enough (i.e. are subsyndromal) to justify a primary diagnosis of either major depressive disorder (MDD) or an anxiety disorder. However, dysthymia is the most prevalent comorbid diagnosis of GAD clients. Patients can also be categorized as having mixed anxiety-depressive disorder, and they are at significantly increased risk of developing full-blown depression or anxiety.
+
+Various explanations for the high comorbidity between GAD and depressive disorders have been suggested, ranging from genetic pleiotropy (i.e., GAD and nonbipolar depression might represent different phenotypic expressions of a common etiology ) to impaired executive control  or sleep problems and fatigue as potential bridging mechanisms between the two disorders.
+
+Comorbidity and treatment
+Therapy has been shown to have equal efficacy in patients with GAD and patients with GAD and comorbid disorders. Patients with comorbid disorders have more severe symptoms when starting therapy but demonstrated a greater improvement than patients with simple GAD.
+
+Pharmacological approaches i.e. the use of antidepressants must be adapted for different comorbidities. For example, serotonin reuptake inhibitors and short-acting benzodiazepines (BZDs) are used for depression and anxiety. However, for patients with anxiety and a substance use disorder, BZDs should be avoided due to their addictive properties. CBT has been found an effective treatment since it improves symptoms of GAD and substance use.
+
+Compared to the general population, patients with internalizing disorders such as depression, generalized anxiety disorder (GAD) and post-traumatic stress disorder (PTSD) have higher mortality rates, but die of the same age-related diseases as the population, such as heart disease, cerebrovascular disease and cancer.
+
+GAD often coexists with conditions associated with stress, such as muscle tension and irritable bowel syndrome.
+
+Patients with GAD can sometimes present with symptoms such as insomnia or headaches as well as pain and interpersonal problems.
+
+Further research suggests that about 20 to 40 percent of individuals with attention deficit hyperactivity disorder have comorbid anxiety disorders, with GAD being the most prevalent.
+
+Those with GAD have a lifetime comorbidity prevalence of 30% to 35% with alcohol use disorder and 25% to 30% for another substance use disorder. People with both GAD and a substance use disorder also have a higher lifetime prevalence for other comorbidities. A study found that GAD was the primary disorder in slightly more than half of the 18 participants that were comorbid with alcohol use disorder.
+
+Epidemiology 
+GAD is often estimated to affect approximately 3-6% of adults and 5% of children and adolescents.  Although estimates have varied to suggest a GAD prevalence of 3% in children and 10.8% in adolescents.  When GAD manifests in children and adolescents, it typically begins around 8 to 9 years of age.
+
+Estimates regarding prevalence of GAD or lifetime risk (i.e., lifetime morbid risk (LMR)) for GAD vary depending upon which criteria are used for diagnosing GAD (e.g., DSM-5 vs ICD-10) although estimates do not vary widely between diagnostic criteria.  In general, ICD-10 is more inclusive than DSM-5, so estimates regarding prevalence and lifetime risk tend to be greater using ICD-10.  In regard to prevalence, in a given year, about two (2%) percent of adults in the United States and Europe have been suggested to suffer GAD. However, the risk of developing GAD at any point in life has been estimated at 9.0%.  Although it is possible to experience a single episode of GAD during one's life, most people who experience GAD experience it repeatedly over the course of their lives as a chronic or ongoing condition.  GAD is diagnosed twice as frequently in women as in men and is more often diagnosed in those who are separated, divorced, unemployed, widowed or have low levels of education, and among those with low socioeconomic status.  African Americans have higher odds of having GAD and the disorder often manifests itself in different patterns.  It has been suggested that greater prevalence of GAD in women may be because women are more likely than men to live in poverty, are more frequently the subject of discrimination, and be sexually and physically abused more often than men.  In regard to the first incidence of GAD in an individual's life course, a first manifestation of GAD usually occurs between the late teenage years and the early twenties with the median age of onset being approximately 31 and mean age of onset being 32.7.  However, GAD can begin or reoccur at any point in life.  Indeed, GAD is common in the elderly population.
+
+United States 
+United States: Approximately 3.1 percent of people age 18 and over in a given year (9.5 million).
+
+UK 
+5.9 percent of adults were affected by GAD in 2019.
+
+Other 
+
+Australia: 3 percent of adults
+Canada: 2.5 percent
+Italy: 2.9 percent
+Taiwan: 0.4 percent
+
+See also
+Daily Assessment of Symptoms – Anxiety
+
+References
+
+Further reading
+ Brown, T. A., O'Leary, T. A., & Barlow, D. H. (2001). "Generalised anxiety disorder". In D. H. Barlow (ed.), Clinical handbook of psychological disorders: A step-by-step treatment manual (3rd ed.). New York: Guilford Press.
+ Barlow, D. H., & Durand, V. M. (2005). Abnormal psychology: An integrative approach. Australia; Belmont, Calif.: Wadsworth.
+
+External links 
+
+Mayo Clinic – Information on diagnosis and treatment for GAD
+WebMD – Information on symptoms and causes of GAD
+Anxiety Disorders Association of America – Information for families, clinicians, and researchers
+National Institute of Mental Health, Generalized Anxiety Disorder: When Worry Gets Out of Control
+National Center for Complementary and Integrative Health, Anxiety and Complementary Health Approaches
+
+Anxiety disorders

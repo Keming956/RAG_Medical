@@ -1,0 +1,88 @@
+Forensic psychiatry is a subspeciality of psychiatry and is related to criminology. It encompasses the interface between law and psychiatry. According to the American Academy of Psychiatry and the Law, it is defined as "a subspecialty of psychiatry in which scientific and clinical expertise is applied in legal contexts involving civil, criminal, correctional, regulatory, or legislative matters, and in specialized clinical consultations in areas such as risk assessment or employment." A forensic psychiatrist provides services – such as determination of competency to stand trial – to a court of law to facilitate the adjudicative process and provide treatment, such as medications and psychotherapy, to criminals.
+
+Court work
+
+Forensic psychiatrists work with courts in evaluating an individual's competency to stand trial, defenses based on mental disorders (e.g., the insanity defense), and sentencing recommendations. The two major areas of criminal evaluations in forensic psychiatry are competency to stand trial (CST) and mental state at the time of the offense (MSO).
+
+Competency to stand trial
+
+Competency to stand trial (CST) is the competency evaluation to determine that defendants have the mental capacity to understand the charges and assist their attorneys. In the United States, this is seated in the Fifth Amendment to the United States Constitution, which ensures the right to be present at one's trial, to face one's accusers, and to have help from an attorney. CST, sometimes referred to as adjudicative competency, serves three purposes: "preserving the dignity of the criminal process, reducing the risk of erroneous convictions, and protecting defendants’ decision-making autonomy".
+
+In 1960, the Supreme Court of the United States in Dusky v. United States established the standard for federal courts, ruling that “the test must be whether the defendant has sufficient present ability to consult with his attorney with a reasonable degree of rational understanding and a rational as well as factual understanding of proceedings against him." The evaluations must assess a defendant's ability to assist their legal counsel, meaning that they understand the legal charges against them, the implications of being a defendant, and the adversarial nature of the proceedings, including the roles played by defense counsel, prosecutors, judges, and the jury. They must be able to communicate relevant information to their attorney, and understand information provided by their attorney. Finally, they must be competent to make important decisions, such as whether or not to accept a plea agreement.
+
+In England, Wales, Scotland, and Ireland, a similar legal concept is that of "fitness to plead".
+
+As an expert witness
+
+Forensic psychiatrists are often called to be expert witnesses in both criminal and civil proceedings. Expert witnesses give their opinions about a specific issue. Often, the psychiatrist will have prepared a detailed report before testifying. The primary duty of the expert witness is to provide an independent opinion to the court. An expert is allowed to testify in court with respect to matters of opinion only when the matters in question are not ordinarily understandable to the finders of fact, be they judge or jury. As such, prominent leaders in the field of forensic psychiatry, from Thomas Gutheil to Robert Simon and Liza Gold and others have identified teaching as a critical dimension in the role of expert witness. The expert will be asked to form an opinion and to testify about that opinion, but in so doing will explain the basis for that opinion, which will include important concepts, approaches, and methods used in psychiatry.
+
+Mental state opinion
+
+Mental state opinion (MSO) gives the court an opinion, and only an opinion, as to whether a defendant was able to understand what he/she was doing at the time of the crime. This is worded differently in many states, and has been rejected altogether in some, but in every setting, the intent to do a criminal act and the understanding of the criminal nature of the act bear on the final disposition of the case. Much of forensic psychiatry is guided by significant court rulings or laws that bear on this area which include these three standards:
+
+ M'Naghten rules: Excuses a defendant who, by virtue of a defect of reason or disease of the mind, does not know the nature and quality of the act, or, if he or she does, does not know that the act is indeed wrong.
+ Durham rule: Excuses a defendant whose conduct is the product of mental disorder.
+ ALI test: Excuses a defendant who, because of a mental disease or defect, lacks substantial capacity to appreciate the criminality (wrongfulness) of his or her conduct or to conform his conduct to the requirements of law.
+
+"Not guilty by reason of insanity" (NGRI) is one potential outcome in this type of trial. Importantly, insanity is a legal and not a medical term. Often, psychiatrists may be testifying for both the defense and the prosecution.
+
+Forensic psychiatrists are also involved in the care of prisoners, both in jails and prisons, and in the care of the mentally ill who have committed criminal acts (such as those who have been found not guilty by reason of insanity).
+
+Risk management
+Many past offenders against other people, and suspected or potential future offenders with mental health problems or an intellectual or developmental disability, are supervised in the community by forensic psychiatric teams made up of a variety of professionals, including psychiatrists, psychologists, nurses, and care workers. These teams have dual responsibilities: to promote both the welfare of their clients and the safety of the public. The aim is not so much to predict as to prevent violence, by means of risk management.
+
+Risk assessment and management is a growth area in the forensic field, with much Canadian academic work being done in Ontario and British Columbia. This began with the attempt to predict the likelihood of a particular kind of offense being repeated, by combining "static" indicators from personal history and offense details in actuarial instruments such as the RRASOR and Static-99, which were shown to be more accurate than unaided professional judgment. More recently, use is being made also of "dynamic" risk factors, such as attitudes, impulsivity, mental state, family and social circumstances, substance use, and the availability and acceptance of support, to make a "structured professional judgment." The aim of this is to move away from prediction to prevention, by identifying and then managing risk factors. This may entail monitoring, treatment, rehabilitation, supervision, and victim safety planning and depends on the availability of funding and legal powers. These schemes may be based on published assessments such as the HCR-20 (which incorporates 10 Historical, 5 Clinical and 5 Risk Management factors) and the risk of sexual violence protocol from Simon Fraser University, BC.
+
+United Kingdom
+
+In the UK, most forensic psychiatrists work for the National Health Service, in specialist secure units caring for mentally ill offenders (as well as people whose behaviour has made them impossible to manage in other hospitals). These can be either medium secure units (of which there are many throughout the country) or high secure hospitals (also known as special hospitals), of which three are in England and one in Scotland (the State Hospital, Carstairs), the best known of which is Broadmoor Hospital. The other 'specials' are Ashworth hospital in Maghull, Liverpool, and Rampton hospital in Nottinghamshire. Also, a number of private-sector medium secure units sell their beds exclusively to the NHS, as not enough secure beds are available in the NHS system.
+
+Forensic psychiatrists often also do prison inreach work, in which they go into prisons and assess and treat people suspected of having mental disorders; much of the day-to-day work of these psychiatrists comprises care of very seriously mentally ill patients, especially those suffering from schizophrenia. Some units also treat people with severe personality disorder or learning disabilities. The areas of assessment for courts are also somewhat different in Britain, because of differing mental health law. Fitness to plead and mental state at the time of the offence are indeed issues given consideration, but the mental state at the time of trial is also a major issue, and this assessment most commonly leads to the use of mental health legislation to detain people in hospitals, as opposed to their getting a prison sentence.
+
+Learning-disabled offenders who are a continuing risk to others may be detained in learning-disability hospitals (or specialised community-based units with a similar regimen, as the hospitals have mostly been closed). This includes those who commit serious crimes of violence, including sexual violence, and fire-setting. They would be cared for by learning disability psychiatrists and registered learning disability nurses. Some psychiatrists doing this work have dual training in learning disability and forensic psychiatry or learning disability and adolescent psychiatry. Some nurses would have training in mental health, also.
+
+Court work (medicolegal work) is generally undertaken as private work by psychiatrists (most often forensic psychiatrists), as well as forensic and clinical psychologists, who usually also work within the NHS. This work is generally funded by the Legal Services Commission (used to be called Legal Aid).
+
+Canada
+
+Criminal law framework
+In Canada, certain credentialed medical practitioners may, at their discretion, make state-sanctioned investigations into and diagnosis of mental illness. Appropriate use of the DSM-IV-TR is discussed in its section entitled "Use of the DSM-IV-TR in Forensic Settings".
+
+Concerns have been expressed  that the Canadian criminal justice system discriminates based on DSM IV diagnosis within the context of Part XX of the Criminal Code. This part sets out provisions for, among other things, court ordered attempts at "treatment" before individuals receive a trial as described in section 672.58 of the Criminal Code. Also provided for are court ordered "psychiatric assessments".  Critics have also expressed concerns  that use of the DSM-IV-TR may conflict with section 2(b) of the Canadian Charter of Rights and Freedoms, which guarantees the fundamental freedom of "thought, belief, opinion, and expression".
+
+Confidentiality
+The position of the Canadian Psychiatric Association holds, "in recent years, serious incursions have been made by governments, powerful commercial interests, law enforcement agencies, and the courts on the rights of persons to their privacy." It goes on to state, "breaches or potential breaches of confidentiality in the context of therapy seriously jeopardize the quality of the information communicated between patient and psychiatrist and also compromise the mutual trust and confidence necessary for effective therapy to occur."
+
+An outline of the forensic psychiatric process as it occurs in the province of Ontario is presented in the publication The Forensic Mental Health System In Ontario: An Information Guide<ref>Centre for Addiction and Mental Health, [http://www.camh.ca/en/hospital/health_information/the_forensic_mental_health_system_in_ontario/Pages/the_forensic_mental_health_system_in_ontario.aspx The Forensic Mental Health System in Ontario: An Information Guide."]</ref> published by the Centre for Addiction and Mental Health in Toronto. The Guide states:  "Whatever you tell a forensic psychiatrist and the other professionals assessing you is not confidential."  The Guide further states:  "The forensic psychiatrist will report to the court using any available information, such as: police and hospital records, information given by your friends, family or co-workers, observations of you in the hospital." Also according to the Guide:  "You have the right to refuse to take part in some or all of the assessment. Sometimes your friends or family members will be asked for information about you. They have the right to refuse to answer questions, too."
+
+Of note, the emphasis in the guide is on the right to refuse participation. This may seem unusual given that a result of a verdict of "Not Criminally Responsible by reason of Mental Disorder" is often portrayed as desirable to the defence, similar to the insanity defense in the United States. A verdict of "Not Criminally Responsible" is referred to as a "defence" by the Criminal Code.  However, the issue of the accused's mental state can also be raised by the Crown or by the court itself, rather than solely by the defence counsel, differentiating it from many other legal defences.
+
+Treatment/assessment conflict
+In Ontario, a court-ordered inpatient forensic assessment for criminal responsibility typically involves both treatment and assessment being performed with the accused in the custody of a single multidisciplinary team over a 30- or 60-day period. Concerns have been expressed that an accused may feel compelled on ethical, medical, or legal grounds to divulge information, medical, or otherwise, to assessors in an attempt to allow for and ensure safe and appropriate treatment during that period of custody.
+
+Some Internet references address treatment/assessment conflict as it relates to various justice systems, particularly civil litigation in other jurisdictions.  The American Academy Of Psychiatry and the Law states in its ethics guidelines, "when a treatment relationship exists, such as in correctional settings, the usual physician-patient duties apply", which may be seen as contradiction.
+
+South Africa
+In South Africa, patients are referred for observation for a period of 30 days by the courts if questions exist as to CST and MSO. Serious crimes require a panel, which may include two or more psychiatrists. Should the courts find the defendant not criminally responsible, the defendant may become a state patient and be admitted in a forensic psychiatric hospital.
+They are referred to receive treatment for an indefinite period, but most were back in the community after three years.
+
+Training standards
+Some practitioners of forensic psychiatry have taken extra training in that specific area. In the United States, one-year fellowships are offered in this field to psychiatrists who have completed their general psychiatry training. Such psychiatrists may then be eligible to sit for a board certification examination in forensic psychiatry. In Britain, one is required to complete a three-year subspeciality training in forensic psychiatry, after completing one's general psychiatry training, before receiving a Certificate of Completion of Training as a forensic psychiatrist. In some countries, general psychiatrists can practice forensic psychiatry, as well. However, other countries, such as Japan, require a specific certification from the government to do this type of work.
+
+See also
+Forensic psychology
+Daubert v. Merrell Dow Pharmaceuticals, Inc. which established the Daubert standard delimiting the admissibility of scientific expert witness testimony
+Rennie v. Klein - right to refuse treatment
+Kansas v. Hendricks - involuntary civil commitment for sexual predators
+Settled insanity
+Ultimate issue
+Twinkie defense
+Bruneri-Canella case, an early landmark case which introduced new forensic techniques in juridic debate
+
+References
+
+External links
+Studies in Forensic Psychiatry, by Bernard Glueck, Sr., 1916, reprinted 1969, from Project Gutenberg
+The Role of a Forensic Psychiatrist in Legal Proceedings, by Harold J. Bursztajn, MD, 1993, from Journal of the Massachusetts Academy of Trial Attorneys with permission of Harold J. Bursztajn, MD.
+Forensic psychiatry, by Samuel Lézé, Ph.D, 2014, from Andrew Scull (ed.), Cultural Sociology of Mental Illness : an A-to-Z Guide, Sage, pp. 313–14
+MedicoLegal Psychiatry

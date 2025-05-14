@@ -1,0 +1,177 @@
+Fahrzeugdiagnose beschreibt in Anlehnung an den medizinischen Begriff Diagnose die genaue Zuordnung von Befunden zu Fehlern an elektrischen und elektronischen Komponenten an Automobilen. Unter dem Begriff Fahrzeugdiagnose sind eine Reihe von technischen Verfahren und Anwendungen zusammengefasst, welche zum Beispiel bei der Fehleranalyse im Reparaturfall, in der Qualitätssicherung für statistische Auswertungen und bei der Fahrzeugentwicklung angewendet werden. Darüber hinaus dient die Fahrzeugdiagnose zur Information bzw. Warnung des Fahrers über aufgetretene Fehler und zum Einleiten von Deaktivierungen von Fahrzeugeigenschaften, wenn deren Betrieb nicht zweifelsfrei sichergestellt werden kann.
+
+Die Fahrzeugdiagnose kann grundsätzlich aufgegliedert werden in:
+ Diagnosebestandteile innerhalb des Fahrzeugs – On-Board-Diagnose, auch Fahrzeugeigendiagnose
+ Diagnosebestandteile außerhalb des Fahrzeugs – Off-Board-Diagnose (Diagnoseinformationen, Diagnosewerkzeuge)
+
+Im engeren Sinne bedeutet Fahrzeugdiagnose in der Automobilindustrie die (Diagnose-)Kommunikation zwischen einem externen Prüfgerät, dem Diagnose-Tester (siehe auch Fahrzeugdiagnosesystem) und den einzelnen Elektronik-Komponenten, den so genannten Steuergeräten, über ein Diagnoseprotokoll.
+
+Als Bindeglied zwischen Diagnosetester und dem Fahrzeug dienen die Diagnosedaten (inzwischen genormt über ODX), welche die Kommunikation beschreiben und in den Diagnosesystemen der Off-Board-Diagnose vorgehalten werden. Sie beschreiben das verwendete Diagnoseprotokoll, die einzelnen Befehle, deren mögliche Antworten vom Steuergerät und die Interpretation der Daten, z. B. Umrechnung in physikalische Werte.
+
+Fahrzeugeigendiagnose, On-Board-Diagnose
+
+Technische Verfahren 
+Die Fahrzeugeigendiagnose wird unterschieden in 2 Teile:
+ 1. Teil: Ist die Überwachung im Fahrzeug befindlicher, an die Steuergeräte angeschlossener Sensoren und Aktoren;
+ 2. Teil: Die Selbstüberwachung (steuergeräteinterne Diagnose).
+
+In beiden Teilen kommen verschiedene Methoden der Diagnose zum Tragen, welche sich in ihrer Art und Durchführung wie folgt unterscheiden lassen:
+ Die Überwachung der an den jeweiligen Steuergeräteanschlüssen verbundenen elektrischen Sensoren oder Aktoren erfolgt über die elektrische Diagnose.
+ Mit der  Plausibilitätsprüfung, erfolgt eine Bewertung von einem oder mehreren, in einem bestimmten Zusammenhang stehenden Signalen. Hierbei erfolgt die Bewertung durch einen Vergleich mit im jeweiligen Steuergerät hinterlegten Sollwerten, Kennlinien oder Algorithmen.
+ Die Ausfallüberwachung zyklisch eingehender Informationen oder Signalgrößen, wie z. B. angeschlossene Netzwerke und deren Daten.
+ Aktive Prüfung durch Erzeugen von Prüfimpulsen, welche einmalig oder zyklisch gesendet werden, und Auswertung der Reaktion des jeweiligen Sensors oder Aktors.
+
+Dokumentation und Speicherung von Fehlern 
+Wenn bei der Diagnose ein oder mehrere plausible Fehler festgestellt werden, sog. Diagnostic Trouble Codes (DTCs), werden die Vorkommnisse in dem Ereignisspeicher, bei modernen Fahrzeugen in einem Prozessor (MCU) mit einem virtuellen EEPROM, in Älteren in einem separaten EEPROM (beides wird kurz Fehlerspeicher  genannt) im Fahrzeug hinterlegt und können jederzeit ausgelesen werden.
+
+Die im Fehlerspeicher hinterlegten Informationen dokumentieren folgende Ereignisse:
+
+ elektrische Fehler mit Angabe der Fehlerart, z. B. Unterbrechung (einer Leitung), Kurzschluss nach Plus oder nach Masse etc.
+ Ausfall von Stellgliedern
+ Signalwerte die unplausibel sind
+ Ausfall von Botschaften
+ Hinweise auf durchgeführte Schutzfunktionen
+ reguläre Betriebszustände
+
+Systemdiagnose 
+Da in einem hochgradig vernetzten Fahrzeug die Ursachen für Fehlverhalten schwer zu ermitteln sind, gibt es Ansätze zu einer Diagnose des Gesamtsystems, die so genannte systemübergreifende Diagnose.
+Hierbei gibt es mehrere Möglichkeiten:
+ On-Board-seitig: In einem zentralen Steuergerät werden während des Betriebs bestimmte DTCs gesammelt. Dieses Master-Steuergerät dokumentiert die verschiedenen Einzelfehler der Client-Steuergeräte im zeitlichen Zusammenhang.
+ Off-Board-seitig: Die in den jeweiligen Steuergeräten gespeicherten DTCs werden um Zusatzinformationen ergänzt, wie Datum und Uhrzeit, oder auch Fahrzustandsinformationen und bleiben lokal gespeichert. Bei späterem Auslesen werden dann diese Informationen durch die Off-Board-Diagnose ausgelesen, gegenübergestellt und ausgewertet.
+
+Diagnoseinformationen und Diagnosewerkzeuge, Off-Board-Diagnose 
+Hierzu gehören diejenigen Bestandteile und Hilfsmittel, welche zur Unterstützung bei der Fehlerfindung und anschließenden Reparatur herangezogen werden können. Diagnoseinformationen können im weiteren Sinne auch z. B. die Reparaturleitfäden, Servicemanuals, Stromlaufpläne usw. sein. Das gängigste Diagnosewerkzeug für diagnosefähige Systeme im Fahrzeug ist jedoch der Diagnosetester. Aufgrund der hohen Komplexität der diagnosefähigen technischen Systeme im Fahrzeug werden Diagnosetester zum einen mit einer Schnittstelle zur Diagnose-Kommunikation ausgestattet, so dass die DTCs zusammen mit Rahmeninformationen (Freeze-Frame-Daten) ausgelesen und gelöscht werden können. Zum anderen arbeitet der Diagnosetester mit Algorithmen bzw. Expertensystem-Strategien, um Fehlerursachen genauer bestimmen zu können. Eine zuverlässige Fahrzeugdiagnose erfordert die Verknüpfung von Diagnoseinformationen aus der Off-Board-Diagnose mit weiteren Informationsquellen (u. a. Aussagen der Kunden zu den Bedingungen, unter denen der Fehler auftritt, Funktionsübersichten, Berücksichtigung von möglichen Fehlerursachen nicht diagnosefähiger Systeme) durch das Werkstattpersonal und kann bis heute nicht vollautomatisiert durchgeführt werden.
+
+Diagnose und Gesetzgebung 
+Seit Ende der achtziger Jahre wird von immer mehr gesetzgebenden Organen verschiedener Länder und Regionen eine funktionierende, elektronische Fahrzeugdiagnose zur Überwachung der Wirkungsweise emissionsrelevanter Teile im Fahrzeug vorgeschrieben, parallel zur eigentlichen Emissionsreduzierung (genaueres hierzu im Artikel Abgasnorm).
+
+In der Automobilindustrie wird für die elektronische Fahrzeugdiagnose der Begriff On-Board-Diagnose (OBD), European-On-Board-Diagnose (EOBD) und seit kürzerem auch WWH-OBD verwendet. In der Regel überwachen alle im Fahrzeug befindlichen Steuergeräte den Betrieb selbständig, d. h. führen die eigentliche On-Board-Diagnose aus. Der entscheidende Unterschied ist die Tatsache, dass dies bei emissionsrelevanten Komponenten aufgrund gesetzlicher Anforderungen geschieht und die Funktionstüchtigkeit im Rahmen der allgemeinen Straßenverkehrszulassung durch Behörden geprüft wird und im Zuge der regelmäßig durchzuführenden Untersuchung des Motormanagements und Abgasreinigungssystems (UMA).
+
+Zusätzlich ist die Kommunikation mit einem externen Prüfgerät genau geregelt und benutzt einen eigenen Befehlssatz, der als reservierter Bereich in den Diagnoseprotokollen existiert und über ISO 15031 genormt ist. Deshalb wird der Begriff OBD bzw. EOBD auch nur in Verbindung mit diesen elektronischen Steuergeräten verwendet.
+
+Innerhalb der EU ist seit der Verordnung 715/2007, Artikel 3 Begriffsbestimmungen, des Europäischen Parlaments die Verwendung des Begriffs OBD eindeutig geregelt und sollte daher nur noch in diesem Zusammenhang verwendet werden.
+
+Die Verfahren der Betriebsüberwachung werden auch von nicht EOBD-relevanten Steuergeräten angewandt, wobei andere Motivationsgründe vorliegen: Es soll die Fehlersuche und Reparatur erleichtert und zunehmend auch der Austausch von vermeintlich defekten Komponenten auf Kosten des Herstellers (Garantie und Kulanz) verhindert werden. In hochgradig vernetzten Fahrzeugen sind Symptom und Ursache eines Fehlers nicht mehr ausschließlich lokal, sondern verteilt, und ohne Detailkenntnisse kann die Ursache des Fehlers nicht identifiziert werden.
+
+Übersicht der wichtigsten OBD-Regelungen 
+
+Neben dem Einführungsland bzw. der Region setzen oft auch andere Länder auf die existierenden Regelungen auf und übernehmen sie in ihre lokale Gesetzgebung. So kommt z. B. in Israel die EOBD-Regelung der Europäischen Union zur Anwendung. Zu beachten ist ferner, dass die grundsätzlichen Regelungen regelmäßigen Aktualisierungen und Anpassungen unterliegen. So wurde EOBD in der EU mit der Euro-3-Regelung eingeführt und liegt mittlerweile in der dritten, aktualisierten Fassung Euro-6 vor, welche ab 2013 für Typzulassungen gilt.
+
+Anmerkung: Mehr zum Thema OBD im entsprechenden Spezialartikel On-Board-Diagnose
+
+Weitere Einflüsse der Gesetzgebung auf die Fahrzeugdiagnose 
+Innerhalb der Europäischen Union wurden mit Einführung der Euro-5- und Euro-6-Regelungen in der Verordnung (EG) Nr. 715/2007, neben der reinen Emissionsreduzierung und -kontrolle, auch alle weiteren Bestandteile der Fahrzeugreparatur geregelt und ersetzen damit die auslaufende Gruppenfreistellungsverordnung (GVO), in welche die Kfz-Branche 2002 aufgenommen wurde.
+
+Die wesentlichen Neuerungen durch Euro-5 bzw. Euro-6 ist die Regelung des Zugangs zu Reparatur- und Wartungsinformationen (Auszug):
+ uneingeschränkter Zugriff für alle Händler und Werkstätten auf für die Reparatur erforderliche Informationen (folglich Aufhebung der Monopolstellung der Vertragshändler)
+ jederzeitiges und gleichzeitiges Bereitstellen der Informationen durch das Internet in standardisierter Form, nach international gültigem Standard (OASIS-Format), für alle Händler und Werkstätten
+ Informationen über Bauteile, Diagnose und Fehlercodes (inkl. herstellerspezifischer Diagnose-Informationen)
+ Informationen über Datenspeicherung und bidirektionale Kontroll- und Prüfdaten
+
+Für mehr siehe hierzu die Zusammenfassung von Euro-5 und Euro-6 der EU-Gesetzgebung.
+
+Diagnose-Kommunikation 
+Das Bindeglied zwischen der On-Board-seitigen Diagnose und den Off-Board-seitigen Diagnosewerkzeugen ist die Diagnose-Kommunikation. Über standardisierte oder genormte Hardware- und Softwareschnittstellen treten die in einem Fahrzeug verbauten Steuergeräte über die im Fahrzeug verbaute Diagnosebuchse (auch OBD-Buchse genannt) mit dem externen Diagnosegerät in Verbindung.
+Ein Fahrzeugdiagnosesystem kommuniziert über ein so genanntes Diagnoseprotokoll, welches auf einem Transportprotokoll (TP) aufsetzt und auf spezifische Hardwareverbindungen angepasst ist.
+
+Übersicht Kommunikations-Schnittstelle 
+Die folgende Tabelle zeigt die gültigen Kombinationen aus Hardware-Schnittstelle, Transportprotokoll und Diagnoseprotokoll, welche bei verschiedenen Fahrzeugherstellern zum Einsatz kamen oder aktuell kommen:
+
+Anmerkung: Die Tabelle ist noch unvollständig und erfordert noch Erweiterungen für andere Fahrzeughersteller
+
+Die fahrzeuginterne Diagnosekommunikation nutzt die jeweiligen internen Busse im Fahrzeug wie CAN, MOST, LIN oder FlexRay zur Kommunikation, wobei hier häufig die K-Leitung nicht mehr existiert und als virtuelle K-Leitung z. B. über CAN durch ein zentrales Steuergerät abgebildet wird.
+
+Grundfunktionen der Diagnose-Kommunikation 
+Grundsätzlich läuft die Fahrzeug-Diagnosekommunikation als „Frage-Antwort-Spiel“ ab, wobei positive Antworten auch unterdrückt werden können oder der Server als „Response on Event“ spontan Antworten senden kann. Hierbei tritt das Fahrzeugdiagnosesystem über ein Client-Server-Modell mit dem im Fahrzeug verbauten Steuergerät in Verbindung, wobei das Steuergerät als Server agiert.
+Der Client kann über Physikalische Adressierung ein bestimmtes Steuergerät ansprechen oder über Funktionale Adressierung als Broadcast allen einen Befehl senden.
+
+Aktuelle Diagnoseprotokolle stellen folgende Grundfunktionen bereit:
+ Wahl der Diagnose-Betriebsart (Session Handling)
+ Authentifizierungsmechanismen über Challenge-Response-Verfahren
+ Lesen und Schreiben von Speicherbereichen über Identifier und Adressen
+ Ansteuern von Aktuatoren des Steuergeräts (IO Control)
+ Zugriff auf interne Fehlerspeicher (Diagnostic Trouble Codes)
+ Frei definierbare Diagnosedienste (Routinen)
+ Datentransfer für Neuprogrammierung
+ Steuerung des Kommunikationsverhaltens und Fehlerspeichersperre
+ Steuergeräte-Reset
+
+Eine detailliertere Beschreibung befindet sich in Unified Diagnostic Services.
+
+Anwendungen 
+Da die Diagnosekommunikation mit den Steuergeräten ein relativ mächtiges und vielfältiges Mittel ist, wird es nicht nur zur reinen Fehlersuche genutzt, sondern steht auch für eine Reihe weiterer Aufgaben zur Verfügung:
+
+ Anpassungen bzw. Adaptionen neu verbauter Teile
+ Aktivieren oder deaktivieren von bestimmten Funktionen
+ Variantenkodierung – Anpassung des Steuergerätes an die Ausstattungsvariante des Fahrzeugs
+ Kalibrierung – Schreiben von individuellen Abgleichdaten oder Kennlinien
+ Neuprogrammierung von Steuergeräten (Flashen) – Austausch der Betriebssoftware
+ Direkter Zugriff auf Speicher und IO-Ports in der Entwicklungsphase
+ Inbetriebnahme- und Fahrzeugtests in der Fertigung
+
+Neuprogrammierung von Steuergeräten (Flashen) 
+Steuergeräte, die ihre Applikations-Software in einem Flash-Speicher tragen, können direkt über die Diagnose-Kommunikation neu programmiert werden. Dazu ist eine Elementare Basissoftware der so genannte Flashloader notwendig, der die grundlegende Kommunikation und Zugriff auf den Flash-Speicher enthält. Der Flashloader kann entweder gar nicht oder nur über einen komplexeren Ablauf (Transaktionsmechanismus) ausgetauscht werden. KWP2000 und UDS stellen die für das Flashen notwendigen Befehle bereit:
+
+ Session Control – zum Aufruf des Flashloaders
+ Communication Control – reduziert Buslast, um mehr Bandbreite für die Datenübertragung zu haben
+ Control DTC-Setting – verhindert dadurch bedingte Fehlerspeichereinträge auf den anderen Steuergeräten im Fahrzeug
+ Security Access – Schutz vor unautorisiertem Zugriff
+ Request Download – Ankündigung eines Flash-Downloads
+ Request Upload – Ankündigung eines Flash-Uploads, häufig nicht unterstützt
+ Transfer Data – Datenübertragung an das Steuergerät bzw. bei Upload vom Steuergerät
+ Request Transfer Exit – Abschluss einer Übertragung
+
+Weitere Befehle wie Identifikation des Steuergerätes, Löschen des Speichers, Erzeugung von Identifikationsdaten, Prüfsummen und Signatur werden über die gewöhnlichen Diagnose-Services gebildet, wobei die Spezifikation zu UDS dafür Identifier vorschlägt.
+
+In manchen Steuergeräten sind die Routinen zum Löschen und Schreiben des Flash-Speichers nicht Teil des Flashloaders, sondern werden erst bei Bedarf in das RAM des Steuergerätes übertragen und von dort ausgeführt. Dieses Verfahren wird als Software-Interlock bezeichnet und hat zwei Gründe: zum einen kann die Löschroutine nicht unbeabsichtigt laufen, zum anderen können die Parameter für den Flash-Zugriff beeinflusst werden, was allerdings bei modernen Flash-Bausteinen nicht mehr notwendig ist.
+
+Einsatzgebiete 
+Die Fahrzeugdiagnose hat verschiedene Zielgruppen, welche als Mitwirkende oder auch Anforderer für Art und Umfang der Fahrzeugdiagnose mit verantwortlich sind. Hierzu gehören:
+
+ Steuergeräteentwicklung
+ Steuergeräte-Fertigung beim Zulieferer
+ Fahrzeugfertigung
+ Prüfgesellschaften wie Dekra und TÜV
+ Werkstätten
+ Gesetzgeber
+ Zulassungsbehörden
+ Polizei
+ Recycling
+
+Abgesehen vom separaten OBD-Befehlsumfang verwenden alle Zielgruppen dieselben Funktionen (Diagnose-Dienste), wobei nach Abschluss der Entwicklung rein für die Belange der Entwicklungen vorhandenen Befehle und Funktionen deaktiviert oder vollständig entfernt werden.
+
+Normen und Standards auf dem Gebiet Fahrzeugdiagnose 
+ ISO 13209 – Open Test sequence eXchange Format (OTX)
+ ISO 13400 – Diagnostics over Internet Protocol (DoIP)
+ ISO 14229 – Unified Diagnostic Services (UDS)
+ ISO 14230 – KWP2000
+ ISO 15031 – ISO-OBD Protokoll Road vehicles – Communication between vehicle and external equipment for emissions-related diagnostics
+ ISO 15765-2 – Transportprotokoll über CAN (ISO-TP over CAN)
+ ISO 15765-3 – Road vehicles – Diagnostics on controller area network (CAN) – Part 3: Implementation of unified diagnostic services (UDS on CAN); Enthält auch Neuprogrammierung von Steuergeräten (so genannter ISO-Flash-Ablauf)
+ ISO 22900 – MVCI-Server (ASAM MCD3D-Schnittstelle) – API und Objektmodell eines Diagnose-Kernels
+ ISO 22901 – ODX-Daten (ASAM MCD2D-Schnittstelle) – Datenhaltungsformat für Diagnosebeschreibung und Flashware
+ ISO 27145 – WWH-OBD
+
+ SAE J1850 – Automotive Interface Bus Description
+ SAE J1962 – Beschreibung der OBD II Steckverbindung
+ SAE J2534 – Pass-thru Interface
+ SAE J1939 – Netzwerkprotokoll für Nutzfahrzeuge
+
+Literatur 
+ Karl-Heinz Dietsche, Thomas Jäger, Robert Bosch GmbH: Kraftfahrtechnisches Taschenbuch. 25. Auflage. Friedr. Vieweg & Sohn Verlag, Wiesbaden 2003, ISBN 3-528-23876-3.
+ Robert Bosch (Hrsg.): Autoelektrik Autoelektronik. 5. vollständig überarbeitete und erweiterte Auflage. Vieweg & Sohn Verlag, Wiesbaden 2007, ISBN 978-3-528-23872-8.
+ Kurt-Jürgen Berger, Michael Braunheim, Eckhard Brennecke: Technologie Kraftfahrzeugtechnik. 1. Auflage. Verlag Gehlen, Bad Homburg vor der Höhe 2000, ISBN 3-441-92250-6.
+ Kai Borgeest: Elektronik in der Fahrzeugtechnik. 3. Auflage. Springer-Vieweg, Wiesbaden 2013, ISBN 978-3-8348-1642-9.
+ Christoph Marscholik, Peter Subke: Datenkommunikation im Automobil – Grundlagen, Bussysteme, Protokolle und Anwendungen. Hüthig, 2007, ISBN 978-3-7785-2969-0.
+ Werner Zimmermann, Ralf Schmidgall: Bussysteme in der Fahrzeugtechnik – Protokolle, Standards und Softwarearchitektur. 5. Auflage. Springer Vieweg, 2014, ISBN 978-3-658-02418-5.
+ Florian Schäffer: Fahrzeugdiagnose mit OBD. Elektor, ISBN 978-3-89576-173-7.
+ Florian Schäffer: OBD – Fahrzeugdiagnose in der Praxis. 1. Auflage. Franzis, 2012, ISBN 978-3-645-65156-1.
+
+Weblinks 
+ 
+ Fahrzeugdiagnose über Internet-Protokolle
+
+Einzelnachweise 
+
+Automobilelektronik
+Kraftfahrzeugtechnik

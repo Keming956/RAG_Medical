@@ -1,0 +1,24 @@
+Isostatic depression is the sinking of large parts of the Earth's crust into the asthenosphere caused by a heavy weight placed on the Earth's surface, often glacial ice during continental glaciation. Isostatic depression and isostatic rebound occur at rates of centimeters per year. Greenland is an example of an isostatically depressed region.
+
+Glacial isostatic depression 
+Isostatic depression is a phase of glacial isostasy, along with isostatic rebound. Glacial isostasy is the Earth's response to changing surface loads of ice and water during the expansion and contraction of large ice sheets. The Earth's asthenosphere acts elastically, flowing when exposed to loads and non-hydrostatic stress, such as ice sheets, for an extended period of time. The Earth's crust is depressed by the product of thickness of ice and the ratio of ice and mantle densities. This large ice load results in elastic deformation of the entire lithospheric mantle over the span of 10,000-100,000 years, with the load eventually supported by the lithosphere after the limit of local isostatic depression has been attained. Historically, isostatic depression has been used to estimate global ice volume by relating the magnitude of depression to the density of ice and upper mantle material. 
+
+Glacial megalakes can form in regional depressions under the influence of glacial load.
+
+Isostatic depression in Greenland 
+Greenland is isostatically depressed by the Greenland ice sheet. However, due to deglaciation induced by climate change, the regions near the shrinking ice sheet have begun to uplift, a process known as post-glacial rebound. Modeling these glacial isostatic adjustments has been an area of interest for some time now as the entire topography of Greenland is affected by these movements. These movements are unique in that they can be observed on a human time scale unlike other geological processes. Models have been created to assess what future equilibrium states of the Greenland ice sheet will look like.
+
+See also
+Proglacial lake
+Subsidence
+Isostatic rebound
+Greenland ice sheet
+Forebulge
+deglaciation
+aesthenosphere
+
+References
+
+Glaciology
+Geodynamics
+Depressions (geology)

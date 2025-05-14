@@ -1,0 +1,26 @@
+
+
+Introduction 
+
+Recherche  sur  les  méthodes  de  traitement  des  signaux  de  vibrations, application dans le diagnostic des défauts des systèmes mécanique reste un défi pour les chercheurs. Pendant le fonctionnement, un défaut précoce dans le système de transmission génère des oscillations avec des caractéristiques de fréquence différentes. Chaque type de défaut correspond à une fréquence spécifiée. En analysant la spectre des signaux collectés, on peut déterminer ces fréquences.
+
+Méthode utilisée 
+
+Une méthode proposée de   traitement   des   signaux   basés   sur   les   combinaisons   des   avantages   de   la transformation  Hilbert,  de  la  transformation  paquets  d'ondelettes  (wavelet)  et  de l’analyse de densité de spectre (Fourier) pour détecter les défauts dans le système de transmission.  Un DSP (Digital Signal Processor) est utilisé pour exécuter les algorithmes du traitement des signaux programmé par Visual C++ . Une interface utilisateur graphique est intégrée au module de programmation pour afficher les résultats diagnostiqués.
+
+Implémentation 
+Schéma pour l'implémentation expérimentale est décrit par la figure suivante :
+
+Signaux vibratoires causés par un défaut précoce dans le système d'engrenage sont collectés par un capteur de vibration. Ce capteur transforme les vibrations périodiques en signaux électriques.
+
+Méthode de traitement des signaux est appliquée pour retrouver les fréquences portés par les signaux collectés. Figure 3 met en évidence un défaut à la fréquence Fd=231.4Hz porté par un signal de la fréquence de 100Hz.
+
+Références 
+ http://www.cetim-cermat.com/fr/maintenance-predictive/
+ http://www.maxicours.com/soutien-scolaire/mecanique-industrielle/bac-pro/129722.html
+
+Bibliographie 
+  T.DANG, « Les différents aspects des dentures d'engrenages après fonctionnement », CETIM Information, n' 104, pp. 36-43, .
+ J. F. GAILLOCHET, « Méthodes de surveillance de l'état mécanique des machines au moyen de l'analyse des vibrations », Revue d'Acoustique, n' 57, pp. 82-91, 1979.
+
+Génie mécanique

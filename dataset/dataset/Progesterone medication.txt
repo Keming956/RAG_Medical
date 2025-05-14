@@ -1,0 +1,259 @@
+Progesterone (P4) is a medication and naturally occurring steroid hormone. It is a progestogen and is used in combination with estrogens mainly in hormone therapy for menopausal symptoms and low sex hormone levels in women. It is also used in women to support pregnancy and fertility and to treat gynecological disorders. Progesterone can be taken by mouth, in through the vagina, and by injection into muscle or fat, among other routes. A progesterone vaginal ring and progesterone intrauterine device used for birth control also exist in some areas of the world.
+
+Progesterone is well tolerated and often produces few or no side effects. However, a number of side effects are possible, for instance mood changes. If progesterone is taken by mouth or at high doses, certain central side effects including sedation, sleepiness, and cognitive impairment can also occur. The medication is a naturally occurring progestogen and hence is an agonist of the progesterone receptor (PR), the biological target of progestogens like endogenous progesterone. It opposes the effects of estrogens in various parts of the body like the uterus and also blocks the effects of the hormone aldosterone. In addition, progesterone has neurosteroid effects in the brain.
+
+Progesterone was first isolated in pure form in 1934. It first became available as a medication later that year. Oral micronized progesterone (OMP), which allowed progesterone to be taken by mouth, was introduced in 1980. A large number of synthetic progestogens, or progestins, have been derived from progesterone and are used as medications as well. Examples include medroxyprogesterone acetate and norethisterone. In 2019, it was the 188th most commonly prescribed medication in the United States, with more than 3million prescriptions.
+
+Medical uses
+
+Hormone therapy
+
+Menopause
+Progesterone is used in combination with an estrogen as a component of menopausal hormone therapy for the treatment of menopausal symptoms in peri- and postmenopausal women. It is used specifically to provide endometrial protection against unopposed estrogen-induced endometrial hyperplasia and cancer in women with intact uteruses. A 2016 systematic review of endometrial protection with progesterone recommended 100 mg/day continuous oral progesterone, 200 mg/day cyclic oral progesterone, 45 to 100 mg/day cyclic vaginal progesterone, and 100 mg alternate-day vaginal progesterone. Twice-weekly 100 mg vaginal progesterone was also recommended, but more research is needed on this dose and endometrial monitoring may be advised. Transdermal progesterone was not recommended for endometrial protection.
+
+The REPLENISH trial was the first adequately powered study to show that continuous 100 mg/day oral progesterone with food provides adequate endometrial protection. Cyclic 200 mg/day oral progesterone has also been found to be effective in the prevention of endometrial hyperplasia, for instance in the Postmenopausal Estrogen/Progestin Interventions (PEPI) trial. However, the PEPI trial was not adequately powered to fully quantify endometrial hyperplasia or cancer risk. No adequately powered studies have assessed endometrial protection with vaginal progesterone. In any case, the Early versus Late Intervention Trial with Estradiol (ELITE) found that cyclic 45 mg/day vaginal progesterone gel showed no significant difference from placebo in endometrial cancer rates. Due to the vaginal first-pass effect, low doses of vaginal progesterone may allow for adequate endometrial protection. Although not sufficiently powered, various other smaller studies have also found endometrial protection with oral or vaginal progesterone. There is inadequate evidence for endometrial protection with transdermal progesterone cream.
+
+Oral progesterone has been found to significantly reduce hot flashes relative to placebo. The combination of an estrogen and oral progesterone likewise reduces hot flashes. Estrogen plus oral progesterone has been found to significantly improve quality of life. The combination of an estrogen and 100 to 300 mg/day oral progesterone has been found to improve sleep outcomes. Moreover, sleep was improved to a significantly better extent than estrogen plus medroxyprogesterone acetate. This may be attributable to the sedative neurosteroid effects of progesterone. Reduction of hot flashes may also help to improve sleep outcomes. Based on animal research, progesterone may be involved in sexual function in women. However, very limited clinical research suggests that progesterone does not improve sexual desire or function in women.
+
+The combination of an estrogen and oral progesterone has been found to improve bone mineral density (BMD) to a similar extent as an estrogen plus medroxyprogesterone acetate. Progestogens, including progesterone, may have beneficial effects on bone independent of those of estrogens, although more research is required to confirm this notion. The combination of an estrogen and oral or vaginal progesterone has been found to improve cardiovascular health in women in early menopause but not in women in late menopause. Estrogen therapy has a favorable influence on the blood lipid profile, which may translate to improved cardiovascular health. The addition of oral or vaginal progesterone has neutral or beneficial effects on these changes. This is in contrast to various progestins, which are known to antagonize the beneficial effects of estrogens on blood lipids. Progesterone, both alone and in combination with an estrogen, has been found to have beneficial effects on skin and to slow the rate of skin aging in postmenopausal women.
+
+In the French E3N-EPIC observational study, the risk of diabetes was significantly lower in women on menopausal hormone therapy, including with the combination of an oral or transdermal estrogen and oral progesterone or a progestin.
+
+Transgender women
+
+Progesterone is used as a component of feminizing hormone therapy for transgender women in combination with estrogens and antiandrogens. However, the addition of progestogens to HRT for transgender women is controversial and their role is unclear. Some patients and clinicians believe anecdotally that progesterone may enhance breast development, improve mood, and increase sex drive. However, there is a lack of evidence from well-designed studies to support these notions at present. In addition, progestogens can produce undesirable side effects, although bioidentical progesterone may be safer and better tolerated than synthetic progestogens like medroxyprogesterone acetate.
+
+Because some believe that progestogens are necessary for full breast development, progesterone is sometimes used in transgender women with the intention of enhancing breast development. However, a 2014 review concluded the following on the topic of progesterone for enhancing breast development in transgender women:
+
+Our knowledge concerning the natural history and effects of different cross-sex hormone therapies on breast development in [transgender] women is extremely sparse and based on low quality of evidence. Current evidence does not provide evidence that progestogens enhance breast development in [transgender] women. Neither do they prove the absence of such an effect. This prevents us from drawing any firm conclusion at this moment and demonstrates the need for further research to clarify these important clinical questions.
+
+Data on menstruating women shows there is no correlation between water retention, and levels of progesterone or estrogen. Despite this, some theorise progesterone might cause temporary breast enlargement due to local fluid retention, and may thus give a misleading appearance of breast growth. Aside from a hypothetical involvement in breast development, progestogens are not otherwise known to be involved in physical feminization.
+
+In some cases, transgender women use progesterone to alleviate symptoms of estrogen withdrawal. Estrogen must be withdrawn from transgender women's hormonal regime before they undergo sex reassignment surgery.
+
+Pregnancy support
+Vaginally dosed progesterone is being investigated as potentially beneficial in preventing preterm birth in women at risk for preterm birth. The initial study by Fonseca suggested that vaginal progesterone could prevent preterm birth in women with a history of preterm birth. According to a recent study, women with a short cervix that received hormonal treatment with a progesterone gel had their risk of prematurely giving birth reduced. The hormone treatment was administered vaginally every day during the second half of a pregnancy. A subsequent and larger study showed that vaginal progesterone was no better than placebo in preventing recurrent preterm birth in women with a history of a previous preterm birth, but a planned secondary analysis of the data in this trial showed that women with a short cervix at baseline in the trial had benefit in two ways: a reduction in births less than 32 weeks and a reduction in both the frequency and the time their babies were in intensive care.
+
+In another trial, vaginal progesterone was shown to be better than placebo in reducing preterm birth prior to 34 weeks in women with an extremely short cervix at baseline. An editorial by Roberto Romero discusses the role of sonographic cervical length in identifying patients who may benefit from progesterone treatment. A meta-analysis published in 2011 found that vaginal progesterone cut the risk of premature births by 42 percent in women with short cervixes. The meta-analysis, which pooled published results of five large clinical trials, also found that the treatment cut the rate of breathing problems and reduced the need for placing a baby on a ventilator.
+
+Fertility support
+Progesterone is used for luteal support in assisted reproductive technology (ART) cycles such as in vitro fertilization (IVF). It is also used to correct luteal phase deficiency to prepare the endometrium for implantation in infertility therapy and is used to support early pregnancy.
+
+Birth control
+A progesterone vaginal ring is available for birth control when breastfeeding in a number of areas of the world. An intrauterine device containing progesterone has also been marketed under the brand name Progestasert for birth control, including previously in the United States.
+
+Gynecological disorders
+Progesterone is used to control persistent anovulatory bleeding. It is used in non-pregnant women with a delayed menstruation of one or more weeks, in order to allow the thickened endometrial lining to slough off. This process is termed a progesterone withdrawal bleed. Progesterone is taken orally for a short time (usually one week), after which it is discontinued and bleeding should occur.
+
+Other uses
+Progesterone is of unclear benefit for the reversal of mifepristone-induced abortion. Evidence is insufficient to support use in traumatic brain injury.
+
+Progesterone has been used as a topical medication applied to the scalp to treat female and male pattern hair loss. Variable effectiveness has been reported, but overall its effectiveness for this indication in both sexes has been poor.
+
+Breast pain
+Progesterone is approved under the brand name Progestogel as a 1% topical gel for local application to the breasts to treat breast pain in certain countries. It is not approved for systemic therapy. It has been found in clinical studies to inhibit estrogen-induced proliferation of breast epithelial cells and to abolish breast pain and tenderness in women with the condition. However, in one small study in women with cyclic breast pain it was ineffective. Vaginal progesterone has also been found to be effective in the treatment of breast pain and tenderness.
+
+Premenstrual syndrome
+Historically, progesterone has been widely used in the treatment of premenstrual syndrome. A 2012 Cochrane review found insufficient evidence for or against the effectiveness of progesterone for this indication. Another review of 10 studies found that progesterone was not effective for this condition, although it stated that insufficient evidence is available currently to make a definitive statement on progesterone in premenstrual syndrome.
+
+Catamenial epilepsy
+Progesterone can be used to treat catamenial epilepsy by supplementation during certain periods of the menstrual cycle.
+
+Available forms
+
+Progesterone is available in a variety of different forms, including oral capsules; sublingual tablets; vaginal capsules, tablets, gels, suppositories, and rings; rectal suppositories; oil solutions for intramuscular injection; and aqueous solutions for subcutaneous injection. A 1% topical progesterone gel is approved for local application to the breasts to treat breast pain, but is not indicated for systemic therapy. Progesterone was previously available as an intrauterine device for use in hormonal contraception, but this formulation was discontinued. Progesterone is also limitedly available in combination with estrogens such as estradiol and estradiol benzoate for use by intramuscular injection.
+
+In addition to approved pharmaceutical products, progesterone is available in unregulated custom compounded and over-the-counter formulations like systemic transdermal creams and other preparations. The systemic efficacy of transdermal progesterone is controversial and has not been demonstrated.
+
+Contraindications
+Contraindications of progesterone include hypersensitivity to progesterone or progestogens, prevention of cardiovascular disease (a Black Box warning), thrombophlebitis, thromboembolic disorder, cerebral hemorrhage, impaired liver function or disease, breast cancer, reproductive organ cancers, undiagnosed vaginal bleeding, missed menstruations, miscarriage, or a history of these conditions. Progesterone should be used with caution in people with conditions that may be adversely affected by fluid retention such as epilepsy, migraine headaches, asthma, cardiac dysfunction, and renal dysfunction. It should also be used with caution in patients with anemia, diabetes mellitus, a history of depression, previous ectopic pregnancy, venereal disease, and unresolved abnormal Pap smear. Use of progesterone is not recommended during pregnancy and breastfeeding. However, the medication has been deemed usually safe in breastfeeding by the American Academy of Pediatrics, but should not be used during the first four months of pregnancy. Some progesterone formulations contain benzyl alcohol, and this may cause a potentially fatal "gasping syndrome" if given to premature infants.
+
+Side effects
+Progesterone is well tolerated, and many clinical studies have reported no side effects. Side effects of progesterone may include abdominal cramps, back pain, breast tenderness, constipation, nausea, dizziness, edema, vaginal bleeding, hypotension, fatigue, dysphoria, depression, and irritability, among others. Central nervous system depression, such as sedation and cognitive/memory impairment, can also occur.
+
+Vaginal progesterone may be associated with vaginal irritation, itchiness, and discharge, decreased libido, painful sexual intercourse, vaginal bleeding or spotting in association with cramps, and local warmth or a "feeling of coolness" without discharge. Intramuscular injection may cause mild-to-moderate pain at the site of injection. High intramuscular doses of progesterone have been associated with increased body temperature, which may be alleviated with paracetamol treatment.
+
+Progesterone lacks undesirable off-target hormonal activity, in contrast to various progestins. As a result, it is not associated with androgenic, antiandrogenic, estrogenic, or glucocorticoid effects. Conversely, progesterone can still produce side effects related to its antimineralocorticoid and neurosteroid activity. Compared to the progestin medroxyprogesterone acetate, there are fewer reports of breast tenderness with progesterone. In addition, the magnitude and duration of vaginal bleeding with progesterone are reported to be lower than with medroxyprogesterone acetate.
+
+Central depression
+Progesterone can produce central nervous system depression as an adverse effect, particularly with oral administration or with high doses of progesterone. These side effects may include drowsiness, sedation, sleepiness, fatigue, sluggishness, reduced vigor, dizziness, lightheadedness, confusion, and cognitive, memory, and/or motor impairment. Limited available evidence has shown minimal or no adverse influence on cognition with oral progesterone (100–600 mg), vaginal progesterone (45 mg gel), or progesterone by intramuscular injection (25–200 mg). However, high doses of oral progesterone (300–1200 mg), vaginal progesterone (100–200 mg), and intramuscular progesterone (100–200 mg) have been found to result in dose-dependent fatigue, drowsiness, and decreased vigor. Moreover, high single doses of oral progesterone (1200 mg) produced significant cognitive and memory impairment. Intravenous infusion of high doses of progesterone (e.g., 500 mg) has been found to induce deep sleep in humans. Some individuals are more sensitive and can experience considerable sedative and hypnotic effects at lower doses of oral progesterone (e.g., 400 mg).
+
+Sedation and cognitive and memory impairment with progesterone are attributable to its inhibitory neurosteroid metabolites. These metabolites occur to a greater extent with oral progesterone, and may be minimized by switching to a parenteral route. Progesterone can also be taken before bed to avoid these side effects and to help with sleep. The neurosteroid effects of progesterone are unique to progesterone and are not shared with progestins.
+
+Breast cancer
+Breast cell proliferation has been found to be significantly increased by the combination of an oral estrogen plus cyclic medroxyprogesterone acetate in postmenopausal women but not by the combination of transdermal estradiol plus oral progesterone. Studies of topical estradiol and progesterone applied to the breasts for 2 weeks have been found to result in highly pharmacological local levels of estradiol and progesterone. These studies have assessed breast proliferation markers and have found increased proliferation with estradiol alone, decreased proliferation with progesterone, and no change in proliferation with estradiol and progesterone combined. In the Postmenopausal Estrogen/Progestin Interventions (PEPI) trial, the combination of estrogen and cyclic oral progesterone resulted in a higher mammographic breast density than estrogen alone (3.1% vs. 0.9%) but a non-significantly lower breast density than the combination of estrogen and cyclic or continuous medroxyprogesterone acetate (3.1% vs. 4.4–4.6%). Higher breast density is a strong known risk factor for breast cancer. Other studies have had mixed findings however. A 2018 systematic review reported that breast density with an estrogen plus oral progesterone was significantly increased in three studies and unchanged in two studies. Changes in breast density with progesterone appear to be less than with the compared progestins.
+
+In large short-term observational studies, estrogen alone and the combination of estrogen and oral progesterone have generally not been associated with an increased risk of breast cancer. Conversely, the combination of estrogen and almost any progestin, such as medroxyprogesterone acetate or norethisterone acetate, has been associated with an increased risk of breast cancer. The only exception among progestins is dydrogesterone, which has shown similar risk to that of oral progesterone. Breast cancer risk with estrogen and progestin therapy is duration-dependent, with the risk being significantly greater with more than 5 years of exposure relative to less than 5 years. In contrast to shorter-term studies, the longer-term observations (>5 years) of the French E3N study showed significant associations of both estrogen plus oral progesterone and estrogen plus dydrogesterone with higher breast cancer risk, similarly to estrogen plus other progestogens. Oral progesterone has very low bioavailability and has relatively weak progestogenic effects. The delayed onset of breast cancer risk with estrogen plus oral progesterone is potentially consistent with a weak proliferative effect of oral progesterone on the breasts. As such, a longer duration of exposure may be necessary for a detectable increase in breast cancer risk to occur. In any case, the risk remains lower than that with most progestins. A 2018 systematic review of progesterone and breast cancer concluded that short-term use (<5 years) of an estrogen plus progesterone is not associated with a significant increase in risk of breast cancer but that long-term use (>5 years) is associated with greater risk. The conclusions for progesterone were the same in a 2019 meta-analysis of the worldwide epidemiological evidence by the Collaborative Group on Hormonal Factors in Breast Cancer (CGHFBC).
+
+Most data on breast density changes and breast cancer risk are with oral progesterone. Data on breast safety with vaginal progesterone are scarce. The Early versus Late Intervention Trial with Estradiol (ELITE) was a randomized controlled trial of about 650 postmenopausal women who used estradiol and 45 mg/day cyclic vaginal progesterone. Incidence of breast cancer was reported as an adverse effect. The absolute incidences were 10 cases in the estradiol plus vaginal progesterone group and 8 cases in the control group. However, the study was not adequately powered for quantifying breast cancer risk.
+
+Blood clots
+Whereas the combination of estrogen and a progestin is associated with increased risk of venous thromboembolism (VTE) relative to estrogen alone, there is no difference in risk of VTE with the combination of estrogen and oral progesterone relative to estrogen alone. Hence, in contrast to progestins, oral progesterone added to estrogen does not appear to increase coagulation or VTE risk. The reason for the differences between progesterone and progestins in terms of VTE risk are unclear. However, they may be due to very low progesterone levels and relatively weak progestogenic effects produced by oral progesterone. In contrast to oral progesterone, non-oral progesterone—which can achieve much higher progesterone levels—has not been assessed in terms of VTE risk.
+
+Overdose
+Progesterone is likely to be relatively safe in overdose. Levels of progesterone during pregnancy are up to 100-fold higher than during normal menstrual cycling, although levels increase gradually over the course of pregnancy. Oral dosages of progesterone of as high as 3,600 mg/day have been assessed in clinical trials, with the main side effect being sedation. There is a case report of progesterone misuse with an oral dosage of 6,400 mg per day. Administration of as much as 500 mg progesterone by intravenous infusion in humans was uneventful in terms of toxicity, but did induce deep sleep, though the individuals were still able to be awakened with sufficient stimulation.
+
+Interactions
+There are several notable drug interactions with progesterone. Certain selective serotonin reuptake inhibitors (SSRIs) such as fluoxetine, paroxetine, and sertraline may increase the GABAA receptor-related central depressant effects of progesterone by enhancing its conversion into 5α-dihydroprogesterone and allopregnanolone via activation of 3α-HSD. Progesterone potentiates the sedative effects of benzodiazepines and alcohol. Notably, there is a case report of progesterone abuse alone with very high doses. 5α-Reductase inhibitors such as finasteride and dutasteride inhibit the conversion of progesterone into the inhibitory neurosteroid allopregnanolone, and for this reason, may have the potential to reduce the sedative and related effects of progesterone.
+
+Progesterone is a weak but significant agonist of the pregnane X receptor (PXR), and has been found to induce several hepatic cytochrome P450 enzymes, such as CYP3A4, especially when concentrations are high, such as with pregnancy range levels. As such, progesterone may have the potential to accelerate the metabolism of various medications.
+
+Pharmacology
+
+Pharmacodynamics
+
+Progesterone is a progestogen, or an agonist of the nuclear progesterone receptors (PRs), the PR-A, PR-B, and PR-C. In addition, progesterone is an agonist of the membrane progesterone receptors (mPRs), including the mPRα, mPRβ, mPRγ, mPRδ, and mPRϵ. Aside from the PRs and mPRs, progesterone is a potent antimineralocorticoid, or antagonist of the mineralocorticoid receptor, the biological target of the mineralocorticoid aldosterone. In addition to its activity as a steroid hormone, progesterone is a neurosteroid. Among other neurosteroid activities, and via its active metabolites allopregnanolone and pregnanolone, progesterone is a potent positive allosteric modulator of the GABAA receptor, the major signaling receptor of the inhibitory neurotransmitter γ-aminobutyric acid (GABA).
+
+The PRs are expressed widely throughout the body, including in the uterus, cervix, vagina, fallopian tubes, breasts, fat, skin, pituitary gland, hypothalamus, and in other areas of the brain. In accordance, progesterone has numerous effects throughout the body. Among other effects, progesterone produces changes in the female reproductive system, the breasts, and the brain. Progesterone has functional antiestrogenic effects due to its progestogenic activity, including in the uterus, cervix, and vagina. The effects of progesterone may influence health in both positive and negative ways. In addition to the aforementioned effects, progesterone has antigonadotropic effects due to its progestogenic activity, and can inhibit ovulation and suppress gonadal sex hormone production.
+
+The activities of progesterone besides those mediated by the PRs and mPRs are also of significance. Progesterone lowers blood pressure and reduces water and salt retention among other effects via its antimineralocorticoid activity. In addition, progesterone can produce sedative, hypnotic, anxiolytic, euphoric, cognitive-, memory-, and motor-impairing, anticonvulsant, and even anesthetic effects via formation of sufficiently high concentrations of its neurosteroid metabolites and consequent GABAA receptor potentiation in the brain.
+
+There are differences between progesterone and progestins, such as medroxyprogesterone acetate and norethisterone, with implications for pharmacodynamics and pharmacokinetics, as well as for efficacy, tolerability, and safety.
+
+Pharmacokinetics
+
+The pharmacokinetics of progesterone are dependent on its route of administration. The medications is approved in the form of oil-filled capsules containing micronized progesterone for oral administration, termed oral micronized progesterone or OMP. It is also available in the form of vaginal or rectal suppositories or pessaries, topical creams and gels, oil solutions for intramuscular injection, and aqueous solutions for subcutaneous injection.
+
+Routes of administration that progesterone has been used by include oral, intranasal, transdermal/topical, vaginal, rectal, intramuscular, subcutaneous, and intravenous injection. Vaginal progesterone is available in the form of progesterone capsules, tablets or inserts, gels, suppositories or pessaries, and rings.
+
+Chemistry
+
+Progesterone is a naturally occurring pregnane steroid and is also known as pregn-4-ene-3,20-dione. It has a double bond (4-ene) between the C4 and C5 positions and two ketone groups (3,20-dione), one at the C3 position and the other at the C20 position. Due to its pregnane core and C4(5) double bond, progesterone is often abbreviated as P4. It is contrasted with pregnenolone, which has a C5(6) double bond and is often abbreviated as P5.
+
+Derivatives
+
+A large number of progestins, or synthetic progestogens, have been derived from progesterone. They can be categorized into several structural groups, including derivatives of retroprogesterone, 17α-hydroxyprogesterone, 17α-methylprogesterone, and 19-norprogesterone, with a respective example from each group including dydrogesterone, medroxyprogesterone acetate, medrogestone, and promegestone. The progesterone ethers quingestrone (progesterone 3-cyclopentyl enol ether) and progesterone 3-acetyl enol ether are among the only examples that do not belong to any of these groups. Another major group of progestins, the 19-nortestosterone derivatives, exemplified by norethisterone (norethindrone) and levonorgestrel, are not derived from progesterone but rather from testosterone.
+
+A variety of synthetic inhibitory neurosteroids have been derived from progesterone and its neurosteroid metabolites, allopregnanolone and pregnanolone. Examples include alfadolone, alfaxolone, ganaxolone, hydroxydione, minaxolone, and renanolone. In addition, C3 and C20 conjugates of progesterone, such as progesterone carboxymethyloxime (progesterone 3-(O-carboxymethyl)oxime; P4-3-CMO), P1-185 (progesterone 3-O-(L-valine)-E-oxime), EIDD-1723 (progesterone 20E-[O-[(phosphonooxy)methyl]oxime] sodium salt), EIDD-036 (progesterone 20-oxime; P4-20-O), and VOLT-02 (chemical structure unreleased), have been developed as water-soluble prodrugs of progesterone and its neurosteroid metabolites.
+
+Synthesis
+Chemical syntheses of progesterone have been published.
+
+History
+
+Discovery and synthesis
+The hormonal action of progesterone was discovered in 1929. Pure crystalline progesterone was isolated in 1934 and its chemical structure was determined. Later that year, chemical synthesis of progesterone was accomplished. Shortly following its chemical synthesis, progesterone began being tested clinically in women.
+
+Injections and implants
+In 1933 or 1934, Schering introduced progesterone in oil solution as a medication by intramuscular injection under the brand name Proluton. This was the first pharmaceutical formulation of progesterone to be marketed for medical use. It was initially a corpus luteum extract, becoming pure synthesized progesterone only subsequently. A clinical study of the formulation was published in 1933. Multiple formulations of progesterone in oil solution for intramuscular injection, under the brand names Proluton, Progestin, and Gestone, were available by 1936. A parenteral route was used because oral progesterone had very low activity and was thought to be inactive. Progesterone was initially very expensive due to the large doses required. However, with the start of steroid manufacturing from diosgenin in the 1940s, costs greatly decreased.
+
+Subcutaneous pellet implants of progesterone were first studied in women in the late 1930s. They were the first long-acting progestogen formulation. Pellets were reported to be extruded out of the skin within a few weeks at high rates, even when implanted beneath the deep fascia, and also produced frequent inflammatory reactions at the site of implantation. In addition, they were absorbed too slowly and achieved unsatisfactorily low progesterone levels. Consequently, they were soon abandoned, in favor of other preparations such as aqueous suspensions. However, subcutaneous pellet implants of progesterone were later studied as a form of birth control in women in the 1980s and early 1990s, though no preparations were ultimately marketed.
+
+Aqueous suspensions of progesterone crystals for intramuscular injection were first described in 1944. These preparations were on the market in the 1950s under a variety of brand names including Flavolutan, Luteosan, Lutocyclin M, and Lutren, among others. Aqueous suspensions of steroids were developed because they showed much longer durations than intramuscular injection of steroids in oil solution. However, local injection site reactions, which do not occur with oil solutions, have limited the clinical use of aqueous suspensions of progesterone and other steroids. Today, a preparation with the brand name Agolutin Depot remains on the market in the Czech Republic and Slovakia. A combined preparation of progesterone, estradiol benzoate, and lidocaine remains available with the brand name Clinomin Forte in Paraguay as well. In addition to aqueous suspensions, water-in-oil emulsions of steroids were studied by 1949, and long-acting emulsions of progesterone were introduced for use by intramuscular injection under the brand names Progestin and Di-Pro-Emulsion (with estradiol benzoate) by the 1950s. Due to lack of standardization of crystal sizes, crystalline suspensions of steroids had marked variations in effect. Emulsions were said to be even more unreliable.
+
+Macrocrystalline aqueous suspensions of progesterone as well as microspheres of progesterone were investigated as potential progestogen-only injectable contraceptives and combined injectable contraceptives (with estradiol) by the late 1980s and early 1990s but were never marketed.
+
+Aqueous solutions of water-insoluble steroids were first developed via association with colloid solubility enhancers in the 1940s. An aqueous solution of progesterone for use by intravenous injection was marketed by Schering AG under the brand name Primolut Intravenous by 1962. One of its intended uses was the treatment of threatened abortion, in which rapid-acting effect was desirable. An aqueous solution of progesterone complexed with cyclodextrin to increase its water solubility was introduced for use by once-daily subcutaneous injection in Europe under the brand name Prolutex in the mid-2010s.
+
+In the 1950s, long-acting parenteral progestins such as hydroxyprogesterone caproate, medroxyprogesterone acetate, and norethisterone enanthate were developed and introduced for use by intramuscular injection. They lacked the need for frequent injections and the injection site reactions associated with progesterone by intramuscular injection and soon supplanted progesterone for parenteral therapy in most cases.
+
+Oral and sublingual
+The first study of oral progesterone in humans was published in 1949. It found that oral progesterone produced significant progestational effects in the endometrium in women. Prior to this study, animal research had suggested that oral progesterone was inactive, and for this reason, oral progesterone had never been evaluated in humans. A variety of other early studies of oral progesterone in humans were also published in the 1950s and 1960s. These studies generally reported oral progesterone to be only very weakly active. Oral non-micronized progesterone was introduced as a pharmaceutical medication around 1953, for instance as Cyclogesterin (1 mg estrogenic substances and 30 mg progesterone tablets) for menstrual disturbances by Upjohn, though it saw limited use. Another preparation, which contained progesterone alone, was Synderone (trademark registered by Chemical Specialties in 1952).
+
+Sublingual progesterone in women was first studied in 1944 by Robert Greenblatt. Buccal progesterone tablets were marketed by Schering under the brand name Proluton Buccal Tablets by 1949. Sublingual progesterone tablets were marketed under the brand names Progesterone Lingusorbs and Progesterone Membrettes by 1951. A sublingual tablet formulation of progesterone has been approved under the brand name Luteina in Poland and Ukraine and remains marketed today.
+
+Progesterone was the first progestogen that was found to inhibit ovulation, both in animals and in women. Injections of progesterone were first shown to inhibit ovulation in animals between 1937 and 1939. Inhibition of fertilization by administration of progesterone during the luteal phase was also demonstrated in animals between 1947 and 1949. Ovulation inhibition by progesterone in animals was subsequently re-confirmed and expanded on by Gregory Pincus and colleagues in 1953 and 1954. Findings on inhibition of ovulation by progesterone in women were first presented at the Fifth International Conference on Planned Parenthood in Tokyo, Japan in October 1955. Three different research groups presented their findings on this topic at the conference. They included Pincus (in conjunction with John Rock, who did not attend the conference); a nine-member Japanese group led by Masaomi Ishikawa; and the two-member team of Abraham Stone and Herbert Kupperman. The conference marked the beginning of a new era in the history of birth control. The results were subsequently published in scientific journals in 1956 in the case of Pincus and in 1957 in the case of Ishikawa and colleagues. Rock and Pincus also subsequently described findings from 1952 that "pseudopregnancy" therapy with a combination of high doses of diethylstilbestrol and oral progesterone prevented ovulation and pregnancy in women.
+
+Unfortunately, the use of oral progesterone as a hormonal contraceptive was plagued by problems. These included the large and by extension expensive doses required, incomplete inhibition of ovulation even at high doses, and a frequent incidence of breakthrough bleeding. At the 1955 Tokyo conference, Pincus had also presented the first findings of ovulation inhibition by oral progestins in animals, specifically 19-nortestosterone derivatives like noretynodrel and norethisterone. These progestins were far more potent than progesterone, requiring much smaller doses orally. By December 1955, inhibition of ovulation by oral noretynodrel and norethisterone had been demonstrated in women. These findings as well as results in animals were published in 1956. Noretynodrel and norethisterone did not show the problems associated with oral progesterone—in the studies, they fully inhibited ovulation and did not produce menstruation-related side effects. Consequently, oral progesterone was abandoned as a hormonal contraceptive in women. The first birth control pills to be introduced were a noretynodrel-containing product in 1957 and a norethisterone-containing product in 1963, followed by numerous others containing a diversity of progestins. Progesterone itself has never been introduced for use in birth control pills.
+
+More modern clinical studies of oral progesterone demonstrating elevated levels of progesterone and end-organ responses in women, specifically progestational endometrial changes, were published between 1980 and 1983. Up to this point, many clinicians and researchers apparently still thought that oral progesterone was inactive. It was not until almost half a century after the introduction of progesterone in medicine that a reasonably effective oral formulation of progesterone was marketed. Micronization of progesterone and suspension in oil-filled capsules, which allowed progesterone to be absorbed several-fold more efficiently by the oral route, was first studied in the late 1970s and described in literature in 1982. This formulation, known as oral micronized progesterone (OMP), was then introduced for medical use under the brand name Utrogestan in France in 1982. Subsequently, oral micronized progesterone was introduced under the brand name Prometrium in the United States in 1998. By 1999, oral micronized progesterone had been marketed in more than 35 countries. In 2019, the first combination of oral estradiol and progesterone was introduced under the brand name Bijuva in the United States.
+
+A sustained-release (SR) formulation of oral micronized progesterone, also known as "oral natural micronized progesterone sustained release" or "oral NMP SR", was marketed in India in 2012 under the brand name Gestofit SR. Many additional brand names followed. The preparation was originally developed in 1986 by a compounding pharmacy called Madison Pharmacy Associates in Madison, Wisconsin in the United States.
+
+Vaginal, rectal, and uterine
+Vaginal progesterone suppositories were first studied in women by Robert Greenblatt in 1954. Shortly thereafter, vaginal progesterone suppositories were introduced for medical use under the brand name Colprosterone in 1955. Rectal progesterone suppositories were first studied in men and women by Christian Hamburger in 1965. Vaginal and rectal progesterone suppositories were introduced for use under the brand name Cyclogest by 1976. Vaginal micronized progesterone gels and capsules were introduced for medical use under brand names such as Utrogestan and Crinone in the early 1990s. Progesterone was approved in the United States as a vaginal gel in 1997 and as a vaginal insert in 2007. A progesterone contraceptive vaginal ring known as Progering was first studied in women in 1985 and continued to be researched through the 1990s. It was approved for use as a contraceptive in lactating mothers in Latin America by 2004. A second progesterone vaginal ring known as Fertiring was developed as a progesterone supplement for use during assisted reproduction and was approved in Latin America by 2007.
+
+Development of a progesterone-containing intrauterine device (IUD) for contraception began in the 1960s. Incorporation of progesterone into IUDs was initially studied to help reduce the risk of IUD expulsion. However, while addition of progesterone to IUDs showed no benefit on expulsion rates, it was unexpectedly found to induce endometrial atrophy. This led in 1976 to the development and introduction of Progestasert, a progesterone-containing product and the first progestogen-containing IUD. Unfortunately, the product had various problems that limited its use. These included a short duration of efficacy of only one year, a high cost, a relatively high 2.9% failure rate, a lack of protection against ectopic pregnancy, and difficult and sometimes painful insertions that could necessitate use of a local anesthetic or analgesic. As a result of these issues, Progestasert never became widely used, and was discontinued in 2001. It was used mostly in the United States and France while it was marketed.
+
+Transdermal and topical
+A topical gel formulation of progesterone, for direct application to the breasts as a local therapy for breast disorders such as breast pain, was introduced under the brand name Progestogel in Europe by 1972. No transdermal formulations of progesterone for systemic use have been successfully marketed, in spite of efforts of pharmaceutical companies towards this goal. The low potency of transdermal progesterone has thus far precluded it as a possibility. Although no formulations of transdermal progesterone are approved for systemic use, transdermal progesterone is available in the form of creams and gels from custom compounding pharmacies in some countries, and is also available over-the-counter without a prescription in the United States. However, these preparations are unregulated and have not been adequately characterized, with low and unsubstantiated effectiveness.
+
+Society and culture
+
+Generic names
+Progesterone is the generic name of the drug in English and its , , , , , and , while progestérone is its name in French and its . It is also referred to as progesteronum in Latin, progesterona in Spanish and Portuguese, and progesteron in German.
+
+Brand names
+
+Progesterone is marketed under a large number of brand names throughout the world. Examples of major brand names under which progesterone has been marketed include Crinone, Crinone 8%, Cyclogest, Endogest, Endometrin, Estima, Geslutin, Gesterol, Gestone, Luteina, Luteinol, Lutigest, Lutinus, Microgest, Progeffik, Progelan, Progendo, Progering, Progest, Progestaject, Progestan, Progesterone, Progestin, Progestogel, Prolutex, Proluton, Prometrium, Prontogest, Strone, Susten, Utrogest, and Utrogestan.
+
+Availability
+Progesterone is widely available in countries throughout the world in a variety of formulations. Progesterone in the form of oral capsules; vaginal capsules, tablets/inserts, and gels; and intramuscular oil have widespread availability. The following formulations/routes of progesterone have selective or more limited availability:
+
+ A tablet of micronized progesterone which is marketed under the brand name Luteina is indicated for sublingual administration in addition to vaginal administration and is available in Poland and Ukraine.
+ A progesterone suppository which is marketed under the brand name Cyclogest is indicated for rectal administration in addition to vaginal administration and is available in Cyprus, Hong Kong, India, Malaysia, Malta, Oman, Singapore, South Africa, Thailand, Tunisia, Turkey, the United Kingdom, and Vietnam.
+ An aqueous solution of progesterone complexed with β-cyclodextrin for subcutaneous injection is marketed under the brand name Prolutex in the Czech Republic, Hungary, Italy, Poland, Portugal, Slovakia, Spain, and Switzerland.
+ A non-systemic topical gel formulation of progesterone for local application to the breasts to treat breast pain is marketed under the brand name Progestogel and is available in Belgium, Bulgaria, Colombia, Ecuador, France, Georgia, Germany, Hong Kong, Lebanon, Peru, Romania, Russia, Serbia, Switzerland, Tunisia, Venezuela, and Vietnam. It was also formerly available in Italy, Portugal, and Spain, but was discontinued in these countries.
+ A progesterone intrauterine device was previously marketed under the brand name Progestasert and was available in Canada, France, the United States, and possibly other countries, but was discontinued.
+ Progesterone vaginal rings are marketed under the brand names Fertiring and Progering and are available in Chile, Ecuador, and Peru.
+ A sustained-release tablet formulation of oral micronized progesterone (also known as "oral natural micronized progesterone sustained release" or "oral NMP SR") is marketed in India under the brand names Dubagest SR, Gestofit SR, and Susten SR, among many others.
+
+In addition to single-drug formulations, the following progesterone combination formulations are or have been marketed, albeit with limited availability:
+
+ A combination pack of progesterone capsules for oral use and estradiol gel for transdermal use is marketed under the brand name Estrogel Propak in Canada.
+ A combination pack of progesterone capsules and estradiol tablets for oral use is marketed in an under the brand name Duogestan in Belgium.
+ Progesterone and estradiol in an aqueous suspension for use by intramuscular injection is marketed under the brand name Cristerona FP in Argentina.
+ Progesterone and estradiol in microspheres in an oil solution for use by intramuscular injection is marketed under the brand name Juvenum in Mexico.
+ Progesterone and estradiol benzoate in an oil solution for use by intramuscular injection is marketed under the brand names Duogynon, Duoton Fort T P, Emmenovis, Gestrygen, Lutofolone, Menovis, Mestrolar, Metrigen Fuerte, Nomestrol, Phenokinon-F, Prodiol, Pro-Estramon-S, Proger F, Progestediol, and Vermagest and is available in Belize, Egypt, El Salvador, Ethiopia, Guatemala, Honduras, Italy, Lebanon, Malaysia, Mexico, Nicaragua, Taiwan, Thailand, and Turkey.
+ Progesterone and estradiol hemisuccinate in an oil solution for use by intramuscular injection is marketed under the brand name Hosterona in Argentina.
+ Progesterone and estrone for use by intramuscular injection is marketed under the brand name Synergon in Monaco.
+
+United States
+
+, progesterone is available in the United States in the following formulations:
+
+ Oral: Capsules: Prometrium (100 mg, 200 mg, 300 mg)
+ Vaginal: Tablets: Endometrin (100 mg); Gels: Crinone (4%, 8%)
+ Intramuscular injection: Oil: Progesterone (50 mg/mL)
+
+A 25 mg/mL concentration of progesterone oil for intramuscular injection and a 38 mg/device progesterone intrauterine device (Progestasert) have been discontinued.
+
+An oral combination formulation of micronized progesterone and estradiol in oil-filled capsules (brand name Bijuva) is marketed in the United States for the treatment of menopausal symptoms and endometrial hyperplasia.
+
+Progesterone is also available in unregulated custom preparations from compounding pharmacies in the United States. In addition, transdermal progesterone is available over-the-counter in the United States, although the clinical efficacy of transdermal progesterone is controversial.
+
+Research
+Progesterone was studied as a progestogen-only injectable contraceptive, but was never marketed. Combinations of estradiol and progesterone as a macrocrystalline aqueous suspension and as an aqueous suspension of microspheres have been studied as once-a-month combined injectable contraceptives, but were likewise never marketed.
+
+Progesterone has been assessed for the suppression of sex drive and spermatogenesis in men. In one study, 100 mg rectal suppositories of progesterone given five times per day for 9 days resulted in progesterone levels of 5.5 to 29 ng/mL and suppressed circulating testosterone and growth hormone levels by about 50% in men, but did not affect libido or erectile potency in this short treatment period. In other studies, 50 mg/day progesterone by intramuscular injection for 10 weeks in men produced azoospermia, decreased testicular size, markedly suppressed libido and erectile potency, and resulted in minimal semen volume upon ejaculation.
+
+An oil and water nanoemulsion of progesterone (particles of <1 mm in diameter) using micellar nanoparticle technology for transdermal administration known as Progestsorb NE was under development by Novavax for use in menopausal hormone therapy in the 2000s. However, development was discontinued in 2007 and the formulation was never marketed.
+
+See also
+ Estradiol/progesterone
+ Estradiol benzoate/progesterone
+ Estradiol hemisuccinate/progesterone
+
+References
+
+Further reading
+
+ 
+ 
+
+5α-Reductase inhibitors
+AbbVie brands
+Alkene derivatives
+Anticonvulsants
+Antigonadotropins
+Antihypertensive agents
+Antimineralocorticoids
+Diketones
+GABAA receptor positive allosteric modulators
+General anesthetics
+Glucocorticoids
+Glycine receptor antagonists
+Hepatotoxins
+Hypnotics
+Merck brands
+Neuroprotective agents
+Neurosteroids
+Nicotinic antagonists
+Obstetric drugs
+Pregnane X receptor agonists
+Pregnanes
+Progesterone
+Progestogens
+Prolactin releasers
+Sedatives
+Sigma antagonists

@@ -1,0 +1,47 @@
+Tetracyclic antidepressants (TeCAs) are a class of antidepressants that were first introduced in the 1970s. They are named after their tetracyclic chemical structure, containing four rings of atoms, and are closely related to the tricyclic antidepressants (TCAs), which contain three rings of atoms.
+
+List of TeCAs
+
+Marketed
+ Maprotiline (Ludiomil) – can also be classified as a TCA and grouped with the secondary amines
+ Mianserin (Tolvon)
+ Mirtazapine (Remeron)
+ Setiptiline (Tecipul)
+
+Drugs that contain four rings not all fused together but are sometimes still classified as TeCAs include:
+
+ Amoxapine (Asendin) – often classified as a TCA and grouped with the secondary amines
+
+Miscellaneous
+ Benzoctamine (Tacitin) – a tetracyclic compound and is closely related to maprotiline, with the two compounds differing only in the length of their side chain, but benzoctamine is not used as an antidepressant and is instead used as an anxiolytic
+ Loxapine (Adasuve, Loxitane) – a typical antipsychotic that produces amoxapine as a major metabolite and is said to have antidepressant effects, but it is not usually regarded as a TeCA
+
+Drugs that contain four rings not all fused together but could still be classified as tetracyclic include:
+
+ Mazindol (Mazanor, Sanorex) – a monoamine reuptake inhibitor used as an appetite suppressant and with potential antidepressant effects, but not classified as a TeCA
+
+Never marketed
+ Aptazapine (CGS-7525A) – a close analogue of mirtazapine
+ Esmirtazapine (ORG-50,081) – the (S)-(+) enantiomer of mirtazapine
+ Oxaprotiline (C 49-802 BDA) – a close analogue of maprotiline
+
+Drugs that contain four rings not all fused together but could still be classified as tetracyclic include:
+
+ Ciclazindol (WY-23,409) – a close analogue of mazindol
+
+Pharmacology
+
+TeCAs have diverse pharmacology and differ from TCAs in a number of ways. With the exception of amoxapine, TeCAs do not inhibit the reuptake of serotonin. However, aside from mirtazapine, they do inhibit the reuptake of norepinephrine. TeCAs block the serotonin 5-HT2 receptors similarly to TCAs. Besides mirtazapine, they also block the α1-adrenergic receptor. Conversely, whereas TCAs have relatively low affinity for the α2-adrenergic receptor, mianserin and mirtazapine potently antagonize this receptor, and this action is thought to be involved in their antidepressant effects. TeCAs block the histamine H1 receptor similarly to the TCAs, but tend to be even stronger antihistamines than TCAs. On the other hand, in contrast to almost all TCAs, TeCAs have only low affinity for the muscarinic acetylcholine receptors, and for this reason, are associated with few or no anticholinergic side effects. Mianserin and mirtazapine are far less toxic than TCAs in overdose.
+
+Binding profiles
+
+The binding profiles of various TeCAs in terms of their affinities (, ) for various receptors and transporters are as follows:
+
+The TeCAs act as antagonists or inverse agonists of the receptors and as inhibitors of the transporters.
+
+See also
+ Noradrenergic and specific serotonergic antidepressant
+
+References
+
+Chemical classes of psychoactive drugs

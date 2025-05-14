@@ -1,0 +1,19 @@
+Object schizophrenia or self schizophrenia is a complication arising from delegation and related techniques in object-oriented programming, where self/this can refer to more than one object. By way of metaphor with the public confusion of dissociative identity disorder with the psychiatric diagnosis of schizophrenia, the former being associated with "split personalities," this configuration is called object schizophrenia or self schizophrenia in object-oriented programming.
+
+Overview
+An object can be defined as a computing concept combining data and behavior, and having an identity. In class-based programming, objects are built on class systems, where an object is an instance of a class. Classes can in turn be related by inheritance: a base class provides the fundamental or default behavior of an object, and acts as a template for creating objects, while a derived class can be used to override behaviors of a base class, and can be used as a template for objects whose behaviors refine those of the base class.
+
+An alternative to classes and inheritance is prototypes and delegation, which is used in prototype-based programming, and is more dynamic. Instead of using one class to refine another, delegation allows one object to override the behavior of another. The original object a (analogous to the derived class behaviors) can delegate some of its methods to another object b (analogous to the base class behaviors). If a delegates its foo method to the bar method of b, then any invocation of foo on a will cause b'''s bar method to execute. However, bar executes in the context of the a object, for example, its self identifier refers to a rather than to b.
+
+When delegation is used, the question arises: What is the value of self when evaluating a method on object a, which is delegated to a method on object b? The identity is split: it can refer to a or b. Note that while the two objects are separate and have separate physical identity, self (whether used explicitly or implicitly) is ambiguous.
+
+History and discussion
+Herrmann reports that the term was coined by William Harrison, IBM Research, around May 1997 in a set of web pages, which discussed problems incurred by some of the common design patterns (these web pages are no longer publicly available). In the given examples the problem was aggravated by the fact that typical solutions would use a weaker form of delegation (sometimes called forwarding) where knowledge about the original receiver object is actually lost during delegation. Here the use of forwarding is owed to the fact that most mainstream object-oriented programming languages do not support the stronger form of delegation.
+Harrison et al proposed subject-oriented programming as a solution, which by static composition avoids any issues of object schizophrenia. On the other end of the spectrum, Herrmann shows that a language featuring contextual roles can be designed in such a way that potential problems of object schizophrenia are essentially irrelevant despite using delegation as a means to share behavior between a role object and its associated base object''.
+
+See also
+
+References
+
+Object-oriented programming
+Prototype-based programming

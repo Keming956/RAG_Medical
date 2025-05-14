@@ -1,0 +1,152 @@
+La littérature scientifique sur le Trouble de stress post-traumatique (TSPT) en périnatalité est foisonnante et internationale. Pourtant, si l’on en croit les dernières publications scientifiques, ce trouble mental mal connu des professionnels de santé est très répandu. Dans le monde (Organisation Mondiale de la Santé) et en France plus particulièrement, les autorités de santé (Haute Autorité de Santé, Institut National pour la Santé Et la Recherche Médicale, Santé Publique France) s’y intéressent peu. Pourtant, ce trouble encore mal diagnostiqué entraîne des conséquences à moyen terme et à long terme et constitue probablement un problème de santé publique ayant un réel coût pour la société. Il conviendrait de mieux en définir le périmètre afin de mettre en place des actions préventives.
+
+Diagnostic
+
+Prévalence 
+La prévalence du TSPT dans les échantillons normaux est de 3,3% pendant la grossesse, et de 4,0% après la naissance et augmente dans les échantillons à haut risque à 18,9% et 18,5% avant et après la naissance.
+
+En France, peu d’études ont été réalisées, et celles qui sont disponibles sont assez anciennes. Une étude de 2011, réalisée dans le sud de la France indique des taux de TSPT variant de 5% (1 mois post-partum) à 2,9% (9 mois post-partum).
+
+Symptômes 
+Le Trouble Stress Post-Traumatique (TSPT) en périnatalité a encore des contours nosologiques mal définis. Ce trouble n’est ni référencé dans le DSM-5, ni dans la CIM 11. Le TSPT périnatal est un sous ensemble du TSPT, de fait, si on se réfère au DSM-5, le diagnostic de TSPT en périnatalité nécessite la présence de 4 catégories de symptômes cliniquement pénibles et présents pendant plus d'un mois :
+
+ Reviviscence persistante du traumatisme : peut se traduire par des rêves, des pensées ou des flashbacks.
+
+ Evitement comportemental des situations associées au traumatisme.  Par exemple, une patiente peut éviter l'hôpital où elle a accouché pour éviter les sentiments qu'elle a ressentis lors de l'accouchement.
+
+ Changements négatifs d'humeur  (état d'esprit dépressif, sentiments de détachement des autres, vision négative exagérée du monde) et de cognition (incapacité à se souvenir des détails de l'événement).
+
+ Augmentation de l'excitation et de la réactivité.
+
+Une équipe Suisse propose une modélisation du TSPT applicable à la périnatalité:
+
+Tableau des critères diagnostiques du TSPT du postpartum du DSM-5.
+
+Analyse des critères diagnostiques du TSPT survenant lors de l’accouchement (nouveau DSM-5):
+
+Les critères A-B-C-D-E-F-G et H sont conservés et illustrés par des exemples spécifiques à l’accouchement. Le sous-type dissociatif est également exploité. L’évolution de certains critères du DSM-5 est bénéfique. Le critère A (exposition ou menace) inclut également les  partenaires, et prend en compte le vécu subjectif ce qui n’était pas possible auparavant.  
+
+Cette modélisation, bien que innovante possède quelques imprécisions qu’il est important de pointer : absence de standardisation et de consensus d’experts, désaccord sur certaines étiologies qui appartiendraient à d’autres entités nosographiques, comme le cas des mortinaissances où le deuil compliqué, et enfin, focalisation sur un des aspects seulement du TSPT périnatal : le postpartum . En effet, la littérature scientifique étend le TSPT à différents moments de l’histoire de la conception. La question se pose donc de clarifier si les critères diagnostiques pourraient être différents en fonction du contexte qui entoure le trouble (types de déclencheurs, moment de survenue du TSPT). De nombreuses publications ont référencées ces différents cas de figures :
+
+ avant la conception : problème de fertilité .
+ pendant la grossesse : grossesse à haut risque , menace d’accouchement prématuré, fausses couches, diagnostic anténatal.
+ pendant l’accouchement : complications pour la mère (accouchement douloureux), type d’accouchement notamment par césarienne non programmé qui est souvent associé à un risque élevé de TSPT, accouchement prématuré.
+ complications pour l’enfant : naissance prématurée, petit poids de naissance, hospitalisation en Unité de Soins Intensifs Néonataux, mortinaissance .
+
+Diagnostics différentiels 
+Le TSPT partage une importante comorbidité avec d’autres troubles mentaux :
+
+ stress aigu 
+ dépression du post partum. Ces troubles sont souvent confondus entre eux et peuvent conduire à des choix thérapeutiques inefficaces.
+Les deuils compliqués (mort périnatale du fœtus/nourrisson) sont exclus de l'algorithme du TSPT par le DSM-5.
+
+Certains prodromes ont été identifiés : dépression prénatale, anxiété et tendances dissociatives. Ont été identifiés également des facteurs prédictifs qu’il convient également de prendre en compte (vécu subjectif de l’accouchement, les antécédents obstétricaux), tout comme l’isolement social, la personnalité dépendante et le niveau de stress–anxiété.
+
+D’autre part, le TSPT périnatal présenterait des formes et des tableaux cliniques différents du fait de l’influence des facteurs ontogénétiques. Toutes les femmes ne réagissent pas de la même façon, à un même événement traumatique en fonction de leur sensibilité, de leur histoire de vie.
+
+Outils de mesure 
+Des outils de mesures existent afin d’améliorer le dépistage du TSPT périnatal. Certaines études ont montré qu’un risque de naissance prématurée est plus important chez la femme enceinte qui présente un TSPT non traité :
+
+ Mesure du TSPT. PCLS, adaptation française de l’échelle anglo-saxonne. Le PCL-5 est une mesure d'auto-évaluation en 20 éléments qui évalue les 20 symptômes du DSM-5 du TSPT et le Périnatal PTSD Questionnaire (PPQ), une échelle qui permet de capturer les symptômes du TSPT spécifiques du post-partum .
+
+ Mesure de la douleur, le questionnaire de douleur de Saint-Antoine : QDSA- adaptation française du McGill pain questionnaire MPQ. La validité ́ et sa sensibilité dans l'évaluation de la douleur obstétricale ont été démontrés par Morisot et al (2007).
+
+ Mesure de la détresse émotionnelle périnatale, PDI (Peritraumatic Distress Inventory).  La version française présente de bonnes propriétés statistiques.
+
+ Mesure de la dissociation périnatale. Le peritraumatic dissociative expérience questionnaire PDEQ, validé  en français par Birmes et al. (2005).
+
+ Echelle de la dépression du postpartum (Edimburgh Post natal Depression Scale : EPDS).
+
+Facteurs de risque 
+Le TSPT en périnatalité est associé à différents facteurs de risques et à diverses étiologies. L’identification de ces facteurs de risques est essentielle pour mieux prévenir sa survenue et les diverses complications qui lui sont associées.  
+
+Isolement social, faible niveau économique , antécédents médicaux-psychologiques, violences conjugales ou intrafamiliales , viols et abus sexuel dans l’enfance , antécédents obstétricaux, antécédents de fausses couches , de morts fœtales in utero (MFIU), d’interruption volontaire de grossesse (IVG), d’accouchement avec un vécu traumatique ou de grossesse compliquée, la primiparité, grossesses à haut risque (menace d’accouchement prématuré, prééclampsie, diabète gestationnel, grossesse gémellaire, placenta prævia etc.), hémorragie du post-partum , prématurité , césarienne en urgence, extraction instrumentale, vécu subjectif de l’accouchement, douleur, première grossesse.
+
+Personnes à risques 
+
+ Troubles physiques :
+
+  Aujourd’hui en France, 1 à 2% des femmes enceintes sont en obésité morbide. Outre le matériel adapté nécessaire pour pouvoir les accueillir, les risques de complications pour la mère comme pour le bébé, ces femmes se heurtent pour beaucoup à une absence de formation et d’empathie du personnel médical. Des problèmes cardiaques, de diabète, peuvent stresser la mère quant au bon déroulement de son accouchement, et de la bonne santé de son bébé.
+
+  Dans certains cas, une femme paraplégique ne peut accoucher par voie basse sous peine de potentiellement voir son handicap s’aggraver. Elle peut également se heurter à un manque d’empathie et de compréhension du personnel médical, qui peut la juger inapte à s’occuper de son enfant, et porter un jugement dégradant sur elle. 
+
+  En France, 49% des femmes handicapées (tous handicaps confondus) ont un enfant. Il est donc nécessaire que les hôpitaux soient aptes à accueillir des personnes en situation de handicap physique.
+
+ Troubles mentaux :
+
+  Une femme souffrant de stress chronique, de dépression, voit ses chances de souffrir de TSPT périnatal augmenter. De même, une femme ayant déjà subi une grossesse et/ou un accouchement traumatique, une dépression post-partum, va présenter plus de symptômes de stress et être plus sujette au stress post-traumatique. 
+
+ Violences gynécologiques :
+
+ Une femme ayant subi des violences gynécologiques dans sa jeunesse, durant sa grossesse, ou son accouchement, va développer une peur de revivre ses mêmes violences. Ces violences sont traumatisantes (attouchements non consentis, paroles déplacées, violences lors d’un précédent accouchement) et marquent durablement, même toute une vie les femmes qui les ont subies, et génèrent un stress post-traumatique .
+
+Causes 
+Le TSPT périnatal peut aussi apparaître à la suite d’événements survenus lors de l’accouchement. Des événements traumatiques, qui sortent de l’ordinaire. On qualifie ces évènements d’éléments déclencheurs. D’après nos recherches, il existe plusieurs types d’éléments déclencheurs pouvant entraîner un trouble de stress post-traumatique. 
+
+Le manque de soutien social lors de l’accouchement est un  des principaux facteurs favorisant l'arrivée de ce trouble. En effet, lors de l'accouchement, il arrive que beaucoup de femmes se sentent seules, car n’ont pas de partenaire ou sont mal accompagnées par l’équipe médicale. Ce sentiment de solitude peut parfois venir renforcer un niveau d’anxiété déjà très élevé vis-à-vis de la situation d’accouchement .
+
+Le niveau de médicalisation reçu lors de l’accouchement est également un élément déclencheur qui revient souvent. Des recherches montrent que le niveau de douleur perçue par  la femme lors de l’accouchement varie selon le fait qu’il y ai pu avoir une césarienne d’urgence, une intervention nécessitant plusieurs instruments ou encore des complications au niveau obstétrical .
+
+La troisième  grande partie de ces éléments déclencheurs concerne principalement le bébé. Il est  important de relever que lorsque la naissance subit  des complications quelles qu’elles soient; un bébé mort né, une naissance prématurée, une malformation, un handicap au niveau du bébé, des problèmes d’allaitement; cela influe sur les réactions de la maman et peut également contribuer à  l’apparition du syndrome de stress post traumatique..
+
+Conséquences
+
+Conséquences sur la mère 
+Les conséquences sur la mère d’un TSPT périnatal sont assez semblables à celles survenant après n’importe quel autre trauma. Nous retrouvons les flashbacks, cauchemars et pensées intrusives. Ces difficultés peuvent rester dans la durée lorsqu’elles ne sont pas traitées. D’autres symptômes, plus spécifiques au traumatisme post natal peuvent être l’évitement pour la mère de parler de la naissance et de s’isoler des autres femmes, un sentiment de surprotection envers leur bébé et une volonté de devenir une mère parfaite dans le but de « réparer » la naissance de leur bébé qui peut les mener parfois jusqu’à l’épuisement. Le refoulement des souvenirs est également souvent évoqué par les mères souffrant de TSPT périnatal, la mère n’a plus de souvenirs conscients de la naissance et/ou des premiers mois de la vie de son bébé. Le taux d’agressivité et d’anxiété des mères est également très élevé, cette agressivité peut se diriger contre elle-même ou leur compagnon mais aussi parfois leur bébé, entraînant toujours beaucoup de culpabilité. Toutes les relations sociales et affectives peuvent être perturbées. La peur d’enfanter de nouveau est assez souvent présente et peut amener à un renoncement d’une future maternité ou bien à une seconde grossesse vécue dans l’angoisse qui peut mener à l’hospitalisation. La peur d’une future grossesse peut également amener certaines femmes à refuser toute sexualité.  Enfin la dépression et des idées suicidaires sont nettement favorisées dans un contexte de TSPT.
+
+Conséquences sur le lien parent/enfant 
+Les conséquences d’un TSPT causé par une naissance traumatique sur le lien mère-enfant peuvent être très importantes bien que les mécanismes à l’œuvre demeurent obscurs. Les mères peuvent se sentir incapable d’investir la relation avec leur bébé, se sentant déconnecté émotionnellement. Au contraire, le sentiment de culpabilité chez la mère liée à la naissance traumatique peut en faire des mères surprotectrices. Cependant, le lien est souvent plus difficile à construire pour certains pères avec leurs enfants, entraînant inévitablement de la culpabilité
+
+Conséquences sur le père 
+Peu d’études sont menées sur les pères qui assistent à l’accouchement traumatique de leur compagne lors de la naissance de leur enfant alors que les pères sont de plus en plus nombreux à assister à l’accouchement, ils sont donc également plus nombreux à contempler les dangers potentiels (voire le décès) que risquent leur compagne et/ou de leur bébé. Les études existantes tendent à montrer que les conséquences sur le père sont importantes et qu’elles affectent leur santé mentale ainsi que leur vie sociale longtemps après la naissance. Pourtant, leurs traumatismes semblent moins bien reconnu que ceux des mères. Ils ont le sentiment d’être mis à part des préoccupations du corps médical.
+
+Conséquences sur le couple 
+Le couple peut être mis en difficultés par l'arrivée d’un enfant, d’autant plus que la naissance ou la grossesse aura provoqué un TSPT chez les parents. Cependant, il peut aussi sortir renforcé de cette épreuve. En effet, la peur d’avoir pu perdre leur compagne et le fait d’avoir vécu cet événement traumatique ensemble rapproche souvent les parents dans l’adversité.
+
+Traitements 
+Les spécialistes du TSPT réclament une amélioration du repérage, du dépistage et du diagnostic. 
+
+Diverses études montrent que le TSPT est fréquent durant la grossesse et après un accouchement. La littérature scientifique montre qu’il est nécessaire d’améliorer son dépistage, son diagnostic et son traitement.
+
+La réponse thérapeutique est à adapter en fonction du moment de l’apparition du TSPT (pré natal-post natal-TPST Chronique), des caractéristiques individuelles des femmes concernées (primipare, groupes à risque, chronicisation).
+
+Prévention du TSPT périnatal 
+Certains auteurs préconisent d’agir dès la période prénatale, en organisant des actions de prévention primaire à l’adresse :
+
+ Du personnel soignant (Sensibilisation, nosographie, diagnostic différentiel du TSPT). Ces actions de prévention primaire pourraient entre autres permettre une meilleure prise en compte par les équipes soignantes des  différents facteurs de risques associés à l’émergence d’un TSPT (interaction entre l’équipe soignante et la patiente,  facteurs obstétricaux liés à l’accouchement, perception de l’accouchement par la femme, complications maternelles et néonatales).
+ Des parturientes: différents outils favorisant les actions de prévention précoce existent déjà mais ne sont malheureusement pas toujours connus ou utilisés : 
+L’éducation pré-natale ou préparation à la naissance, et l’entretien prénatal, en France ce dispositif est issu du plan de périnatalité 2005-2007. Le fléchage des femmes enceintes vers ces dispositifs d'accompagnement progresse (prévalence de 40,3% en 2012 contre 21,4% en 2010)
+ Réseaux de santé en périnatalité. L'importance de l'entretien prénatal précoce. Prévalence et caractéristiques de l’entretien prénatal précoce : résultats d’une enquête dans les réseaux de santé en périnatalité
+Le projet de naissance avant l’accouchement. En France, un rapport de l’INSERM montre que seule 3,7 % des femmes rédigent un projet de naissance
+
+Traitement du TSPT du post-partum 
+Le TSPT peut entraîner un certain nombre de complications aussi bien pour la mère que pour l’enfant ou le couple. Une prise en charge précoce et le choix d’outils thérapeutiques adaptés aux caractéristiques de la situation sont à considérer (type d'événement traumatique, types de facteurs de risque.) 
+
+Différentes thérapeutiques sont citées dans la littérature scientifique : thérapie psychocorporelle (relaxation), TCC, EMDR, debriefing post natal, thérapie expressive via la technique d’écriture expressive, entretiens psychologiques structurés.
+
+La TCC en traitement de routine et l’ EMDR semblent être efficaces comme traitement du TSPT après l'accouchement. Cependant, les preuves sont encore limitées et des essais plus contrôlés sont nécessaires pour tirer des résultats concluant.
+
+La thérapie par l’écriture expressive peut être efficace en cas de mortinaissance le débriefing post natal n’est pas mis en avant.
+
+Les différentes études ne sont pas consensuelles mais il semblerait que les thérapeutiques les plus prometteuses soient spécifiquement tournées sur l’approche du trauma.
+
+D’autres auteurs insistent sur l’importance de diagnostiquer et de traiter les douleurs somatiques qui sont cliniquement fréquemment associées au TSPT mais également chez la parturiente, les douleurs pouvant survenir secondairement à l’accouchement.
+
+Voir également 
+
+ Fausse-couche
+ Gestion de la douleur pendant l'accouchement
+ Fausse couche et maladie mentale
+
+Les références
+
+Lectures complémentaires 
+
+ 
+ 
+ 
+ 
+ 
+
+Trouble anxieux
+Accouchement

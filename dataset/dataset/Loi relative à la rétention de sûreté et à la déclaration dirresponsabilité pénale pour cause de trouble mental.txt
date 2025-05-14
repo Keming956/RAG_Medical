@@ -1,0 +1,56 @@
+La loi du  relative à la rétention de sûreté et à la déclaration d'irresponsabilité pénale pour cause de trouble mental, présentée par la ministre française de la justice Rachida Dati du gouvernement François Fillon (UMP), introduit notamment un article 706-53-13 dans le Code de procédure pénale (CPP), qui prévoit la possibilité d'une rétention de sûreté, c'est-à-dire d'une privation de liberté qui intervient après l'exécution de la peine. Pour cette raison la loi est particulièrement controversée. La loi prévoit aussi une « surveillance de sûreté », qui peut inclure le placement sous surveillance électronique mobile (PSEM), qui intervient elle aussi après la purgation de la peine, et après l'expiration du suivi socio-judiciaire sous PSEM.
+
+Contexte et critiques 
+
+Inspirée par plusieurs faits divers, dont le drame de Pau, auxquels le gouvernement a jugé nécessaire de répondre en légiférant à nouveau, la loi a été présentée au Conseil des ministres le . La rétention de sûreté est ainsi décrite par la loi:
+
+La loi a attiré de nombreuses critiques, de l'ancien membre du Conseil constitutionnel Robert Badinter, qui déclara « A la justice de liberté fondée sur la responsabilité de l'auteur prouvé de l'infraction, va succéder une justice de sûreté basée sur la dangerosité diagnostiquée de l'auteur potentiel d'un crime virtuel », au professeur de droit Dominique Rousseau ou à l'ancien premier ministre Dominique de Villepin (UMP), qui l'a qualifiée de « monstruosité sur le plan juridique », en passant par de nombreuses associations de défense des droits de l'homme (dont la Ligue des droits de l'homme).
+
+En accord avec sa faculté d'auto-saisine, la Commission nationale consultative des droits de l’homme (CNCDH) a adressée le  au Premier ministre François Fillon, au Garde des Sceaux et ministre de la justice Rachida Dati, au ministre de la Santé Roselyne Bachelot ainsi qu’aux présidents des deux assemblées une note sur le projet de loi relatif à la rétention de sûreté et à la déclaration d’irresponsabilité pour cause de trouble mental. Regrettant d'abord le fait de ne pas avoir été saisi, la CNCDH « [s'inquiète] de l’introduction au cœur de la procédure pénale du concept flou de « dangerosité », « notion émotionnelle dénuée de fondement scientifique » », rappelant « que le système judiciaire français se base sur un fait prouvé et non pas sur la prédiction aléatoire d’un comportement futur, et s’inquiètent de la mise en place de mesures restrictives de liberté sur une base aussi incertaine. » De plus, elle « [regrette] l’assimilation du malade mental à un délinquant potentiel. »
+
+Face à ces critiques, le gouvernement a décidé de le faire adopter, le , en première lecture, par l'Assemblée nationale en utilisant la procédure accélérée (article 45 de la Constitution, aussi appelée « procédure d'urgence »), et par le Sénat, avec modification, le .
+Le texte définitif du projet de loi a été adopté le , le Sénat ayant adopté le texte mis au point par la Commission mixte paritaire, texte déjà adopté par l’Assemblée nationale la veille.
+
+Mais le Conseil constitutionnel a été saisi le  par l'opposition (un recours déposé par plus de 60 députés et plus de 60 sénateurs), mais a validé la loi le  — ce qui a attiré à son tour des critiques à propos de cette institution — en se contentant d'une censure partielle, refusant l'application rétroactive de la rétention de sûreté, en raison du principe constitutionnel de non-rétroactivité de la loi.
+
+Finalement, la loi a donc été promulguée le , et publiée au Journal officiel du .
+
+Le juriste Dominique Rousseau considère ainsi que la rétention de sûreté « heurte de front et violemment des principes de droit les plus fondamentaux ».
+
+Déclaration d’irresponsabilité pénale pour cause de trouble mental 
+Cette loi permet aux familles de victimes d’un malade mental criminel d'obtenir une audience publique qui se tient devant la chambre de l’Instruction : les débats ne portent alors que sur cette question essentielle. À cette audience assistent les parties civiles, les avocats, les experts et même la presse. À l’issue de cette audience, la chambre de l’instruction peut soit renvoyer l’accusé devant la Cour d’assises, si les arguments en faveur de l’irresponsabilité pénale lui paraissent insuffisants, soit rendre un arrêt de déclaration de culpabilité et « d’irresponsabilité pénale pour trouble mental ». Le crime reproché au sujet est alors inscrit à son casier judiciaire, la culpabilité est définitivement établie, même s’il est pénalement irresponsable.
+
+Autres mesures 
+
+Outre la rétention de sûreté, l'article 15 de la loi a accru l'accès au FIJAIS (Fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes), en accordant aux maires, aux présidents de conseil général et aux présidents de conseil régional un accès indirect, via le préfet, à ce fichier, pour ce qui concerne « les décisions administratives de recrutement, d'affectation, d'autorisation, d'agrément ou d'habilitation concernant des activités ou professions impliquant un contact avec des mineurs ainsi que pour le contrôle de l'exercice de ces activités ou professions. » (Article 706-53-7 du CPP)
+
+La loi a aussi réduit les réductions supplémentaires de peine (RSP) pour les auteurs des faits visés à l'article 706-53-13 commis sur des mineurs s'ils refusent les soins qui leur sont proposés en détention (art. 2).
+
+Si le Conseil Constitutionnel (CC) a écarté la rétroactivité pour ce qui concerne la rétention de sûreté, celle-ci pourrait néanmoins s'appliquer à l'hospitalisation dans un établissement affecté aux personnes normalement incarcérées, ainsi qu'à une nouvelle forme de privation de liberté créée par la loi, l'assignation à résidence.
+
+En outre, à la « surveillance judiciaire des personnes dangereuses » (SJPD), la loi ajoute un autre système, la « surveillance de sûreté » (SS). Celle-ci peut inclure le placement sous surveillance électronique mobile (PSEM, ou bracelet électronique), surveillance imposée à l'issue d'un tel placement dans le cadre du suivi socio-judiciaire qui succède lui-même à la purgation de la peine. Autrement dit, la surveillance des personnes dites « dangereuses » peut se prolonger sous différents cadres juridiques de longues années après que la peine a été purgée.
+
+Selon la juriste Martine Herzog-Evans, la réduction des RSP en cas de refus de soin conduirait à réduire le temps de « surveillance judiciaire des personnes dangereuses »: en effet, celle-ci « est assise, pour le calcul de sa durée, sur les réductions de peine obtenues durant la détention (art. 723-29 C. pr. pén.). Ainsi, la durée de SJPD est-elle réduite pour ceux-là mêmes pour lesquels elle est utile. Peu importe dira-t-on, puisque, pour ce qui les concerne la loi a créé la surveillance de sûreté et que, cette fois, le conseil constitutionnel n'a pas remis en cause la rétroactivité. »
+
+L'article 6 de la loi modifie l'article L3711-3 du Code de santé publique, en remplaçant la formulation: « Lorsqu'il a été agréé à cette fin, le médecin traitant est habilité à prescrire au condamné, avec le consentement écrit et renouvelé, au moins une fois par an, de ce dernier, un traitement utilisant des médicaments dont la liste est fixée par arrêté du ministre de la santé et qui entraînent une diminution de la libido, même si l'autorisation de mise sur le marché les concernant n'a pas été délivrée pour cette indication. » par la formulation « Le médecin traitant est habilité à prescrire au condamné, avec le consentement écrit et renouvelé, au moins une fois par an, de ce dernier, un traitement utilisant des médicaments qui entraînent une diminution de la libido. »
+
+Notes et références
+
+Annexes
+
+Articles connexes 
+ Danièle Canarelli 
+ Droit pénal
+ Loi Perben de 2002
+ Loi du 30 juin 1838 sur les aliénés
+ Loi n° 54-439 du 15 avril 1954 sur le traitement des alcooliques dangereux pour autrui
+ Psychiatrie en France
+ Loi tendant à amoindrir le risque de récidive criminelle et portant diverses dispositions de procédure pénale
+
+Liens externes 
+  sur Cairn 
+
+Loi promulguée sous le gouvernement Fillon
+Loi française relative au droit pénal
+Loi française de 2008
+Psychiatrie en France

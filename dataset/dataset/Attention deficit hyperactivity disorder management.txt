@@ -1,0 +1,183 @@
+Attention deficit hyperactivity disorder management options are evidence-based practices with established treatment efficacy for ADHD. The American Academy of Pediatrics recommends different treatment paradigms depending on the age of the person being treated.  For those aged 4–5, the Academy recommends evidence-based parent- and/or teacher-administered behavior therapy, with the addition of methylphenidate only if there is continuing moderate-to-severe functional disturbances.  For those aged 6–11, the use of medication in combination with behavior therapy is recommended, with the evidence for stimulant medications being stronger than that for other classes.  For those aged 12–18, medication should be prescribed with the consent of the treated adolescent, preferably in combination with behavioral therapy.  The evidence for the utility of behavioral interventions in this aged group was rated only "C" quality, however.
+
+There are a number of stimulant and non-stimulant medications indicated for the treatment of ADHD. The most commonly used stimulant medications include methylphenidate (Ritalin LA, Concerta), mixed amphetamine salts (Adderall XR, Mydayis), dextroamphetamine (Dexedrine), dextro-methamphetamine (Desoxyn) and lisdexamfetamine (Vyvanse). Non-stimulant medications with a specific indication for ADHD include atomoxetine (Strattera), guanfacine (Intuniv), and clonidine (Kapvay). Other medicines which may be prescribed off-label include bupropion (Wellbutrin), tricyclic antidepressants, SNRIs, or MAOIs. The presence of comorbid (co-occurring) disorders can make finding the right treatment and diagnosis much more complicated, costly, and time-consuming. So it is recommended to assess and simultaneously treat any comorbid disorders.
+
+A variety of psychotherapeutic and behavior modification approaches to managing ADHD including psychotherapy and working memory training may be used. Improving the surrounding home and school environment with parent management training and classroom management can improve the behavior of children with ADHD. Specialized ADHD coaches provide services and strategies to improve functioning, like time management or organizational suggestions. Self-control training programs have been shown to have limited effectiveness.
+
+As of 2006 there was a shortage of data regarding ADHD drugs' potential adverse effects, with very few studies assessing the safety or efficacy of treatments beyond four months, and no randomized controlled trials assessing for periods of usage longer than two years.
+
+Psychosocial 
+
+There are a variety of psychotherapeutic approaches employed by psychologists and psychiatrists; the one used depends on the patient and the patient's symptoms. The approaches include psychotherapy, cognitive-behavior therapy, support groups, parent training, meditation, and social skills training.  In a 2019 review the effectiveness of social skills training was evaluated in children aged 5 to 18 years.  At the time there was little evidence to support or refute this type of training for the treatment of ADHD in this age group.
+
+Parents and classroom 
+Improving the surrounding home and school environment can improve the behavior of children with ADHD. Parents of children with ADHD often show similar deficits themselves, and thus may not be able to sufficiently help the child with his or her difficulties. Improving the parents' understanding of the child's behavior and teaching them strategies to improve functioning and communication and discourage unwanted behavior has measurable effect on the children with ADHD. The different educational interventions for the parents are jointly called Parent Management Training. Techniques include operant conditioning: a consistent application of rewards for meeting goals and good behavior (positive reinforcement) and punishments such as time-outs or revocation of privileges for failing to meet goals or poor behavior. Classroom management is similar to parent management training; educators learn about ADHD and techniques to improve behavior applied to a classroom setting. Strategies utilized include increased structuring of classroom activities, daily feedback, and token economy. In order for Token Economy to benefit students with ADHD, all staff must be consistent in rewarding the same behaviors. Additionally, establishing classroom routines will help to ensure that students with ADHD remain focused throughout the day.
+
+Cognitive training 
+A 2013 paper published by two researchers from the University of Oslo concluded that working memory training provides short term improvements, but that there was limited evidence that these improvements were sustained or that they were generalized to improved verbal ability, mathematical skills, attention, or word decoding. A 2014 paper published by a group of researchers from the University of Southampton presented the result of meta analysis study of 14 recently published randomized controlled trials (RCTs). The authors concluded that "more evidence from well-blinded studies is required before cognitive training can be supported as a frontline treatment of core ADHD symptoms".
+
+Medications
+
+Stimulants 
+Stimulants are the most commonly prescribed medications for ADHD. The stimulant medications indicated to treat ADHD are methylphenidate (Ritalin LA, Concerta), dexmethylphenidate (Focalin), mixed amphetamine salts (Adderall XR), dextroamphetamine (Dexedrine), lisdexamfetamine (Vyvanse), and in rare cases methamphetamine (Desoxyn). Controlled-release pharmaceuticals may allow once daily administration of medication in the morning. This is especially helpful for children who do not like taking their medication in the middle of the school day. Several controlled-release methods are used.
+
+Stimulants used to treat ADHD raise the extracellular concentrations of the neurotransmitters dopamine and norepinephrine, which increases cellular communication between neurons that utilize these compounds. The therapeutic benefits are due to noradrenergic effects at the locus coeruleus and the prefrontal cortex and dopaminergic effects at the ventral tegmental area, nucleus accumbens, and prefrontal cortex.
+
+Stimulant medications are considered safe when used under medical supervision. Nonetheless, there are concerns that the long term safety of these drugs has not been adequately documented, as well as social and ethical issues regarding their use and dispensation. The U.S. FDA has added black-box warnings to some ADHD medications, warning that abuse can lead to psychotic episodes, psychological dependence, and that severe depression may occur during withdrawal from abusive use.
+
+Stimulants are the most effective medications available for the treatment of ADHD. Seven different formulations of stimulants have been approved by the U.S. Food and Drug Administration (FDA) for the treatment of ADHD: four amphetamine-based formulations, two methylphenidate-based formulations, and dextromethamphetamine hydrochloride. Atomoxetine, guanfacine and clonidine are the only non-controlled, non-stimulant FDA approved drugs for the treatment of ADHD.
+
+Short-term clinical trials have shown medications to be effective for treating ADHD, but the trials usually use exclusion criteria, meaning knowledge of medications for ADHD is based on a small subset of the typical patients seen in clinical practice. They have not been found to improve school performance and data is lacking on long-term effectiveness and the severity of side effects. Stimulants, however, may reduce the risk of unintentional injuries in children with ADHD.
+
+This class of medicines is generally regarded as one unit; however, they affect the brain differently. Some investigations are dedicated to finding the similarities of children who respond to a specific medicine. The behavioral response to stimulants in children is similar regardless of whether they have ADHD or not.
+
+Stimulant medication is an effective treatment for adult attention-deficit hyperactivity disorder although the response rate may be lower for adults than children.
+Some physicians may recommend antidepressant drugs as the first line treatment instead of stimulants although antidepressants have much lower treatment effect sizes than stimulant medication.
+
+Amphetamine 
+
+Amphetamine is a chiral compound which is composed of two isomers: levoamphetamine and dextroamphetamine.  Levoamphetamine and dextroamphetamine have the same chemical formula but are mirror images of each other, the same way that a person's hands are the same but are mirror images of each other. This mirror difference is enough to produce a small difference in their pharmacological properties; levoamphetamine has a slightly longer half-life than dextroamphetamine, but dextroamphetamine is a more potent central nervous system stimulant. Although it is effective in reducing primary ADHD symptoms such as hyperactivity and inattention, multiple adverse side effects presented. Included in these were headaches, anxiety, nausea and insomnia.
+
+Five different amphetamine-based pharmaceuticals are currently used in ADHD treatment: racemic amphetamine, dextroamphetamine, lisdexamfetamine, and two mixed enantiomer products (Adderall and Dyanavel XR). Lisdexamfetamine is an inactive prodrug of dextroamphetamine (i.e., lisdexamfetamine itself doesn't do anything in the body, but it metabolizes into dextroamphetamine). Adderall is a proprietary mixture of (75%) dextroamphetamine and (25%) levoamphetamine salts, which results in very mild differences between their effects. Dyanavel XR contains a similar mixture. Adderall begins to work before dextroamphetamine because of levoamphetamine. Levoamphetamine also provides Adderall with a longer clinical effect than dextroamphetamine. Some children with ADHD and comorbid disorders respond well to levoamphetamine.
+
+Methamphetamine 
+
+The body metabolizes methamphetamine into amphetamine (in addition to less active metabolites). A quarter of methamphetamine will ultimately become amphetamine. After comparing only the common ground between dextroamphetamine and dextromethamphetamine, the latter is said to be the stronger stimulant.
+
+Methylphenidate 
+
+Like amphetamine, methylphenidate (MPH) is a chiral compound which is composed of two isomers: d-threo-methylphenidate (also known as dexmethylphenidate, d-methylphenidate, or d-MPH) and l-threo-methylphenidate (also known as l-methylphenidate or l-MPH). Both isomers have the same chemical formula but are mirror images of each other, the same way that a person's hands are the same but are mirror images of each other. Unlike amphetamine, the difference in pharmacological properties between d-MPH and l-MPH is significant, as l-MPH is markedly inferior to d-MPH in its effects, which is due to a number of major differences between the isomers.
+
+There are two major medications derived from methylphenidate's isomers: a racemic mixture of half d-threo-methylphenidate and half l-threo-methylphenidate called methylphenidate (Ritalin, Concerta), and an enantiopure formulation containing just d-threo-methylphenidate called dexmethylphenidate (Focalin).
+
+Non-stimulants 
+Atomoxetine, guanfacine, and clonidine are drugs approved for the treatment of ADHD that have been classified as "non-stimulant".
+
+ Atomoxetine
+ Atomoxetine is less effective than stimulants for ADHD, is associated with rare cases of liver damage, and carries a U.S. FDA black box warning regarding suicidal ideation. Controlled studies show increases in heart rate, decreases of body weight, decreased appetite and treatment-emergent nausea.
+ Guanfacine
+ The extended release form has been approved by the FDA for the treatment of attention-deficit hyperactivity disorder (ADHD) in children as an alternative to stimulant medications. Its beneficial actions are likely due to its ability to strengthen prefrontal cortical regulation of attention and behavior.
+ Clonidine
+ An α2A adrenergic receptor agonist has also been approved in the US. Clonidine was initially developed as a treatment for high blood pressure. Low doses in evenings and/or afternoons are sometimes used in conjunction with stimulants to help with sleep and because clonidine sometimes helps moderate impulsive and oppositional behavior and may reduce tics. It may be more useful for comorbid Tourette syndrome.
+
+Other 
+Some medications used to treat ADHD are prescribed off-label, outside the scope of their US government approved indications for various reasons. The U.S. FDA requires two clinical trials to prove a potential drug's safety and efficacy in treating ADHD. The drugs below have not been through these tests, so the efficacy is unproven (however these drugs have been licensed for other indications, so have been proven to be safe in those populations) and proper dosage and usage instructions are not as well characterized.
+
+ Bupropion
+ Bupropion is classified as an atypical antidepressant. It is the most common off-label prescription for ADHD. It inhibits the reuptake of norepinephrine, and to a lesser extent dopamine, in neuronal synapses, and has little or no effect on serotonergic reuptake. Bupropion is not a controlled substance. It is commonly prescribed as a timed release formulation to decrease the risk of side effects.
+ Modafinil
+ A wakefulness-promoting agent that operates primarily as a selective, relatively weak, and atypical dopamine reuptake inhibitor. Double-blind randomized controlled trials have demonstrated the efficacy and tolerability of modafinil in pediatric ADHD, however there are risks of serious side effects such as skin reactions and modafinil is not recommended for use in children. In the United States, it was originally pending marketing on-label as Sparlon, but approval was denied by the FDA due to major concerns over the occurrence of Stevens–Johnson syndrome in clinical trials.
+Selegiline
+ Selegiline acts as a monoamine oxidase inhibitor, and increases levels of monoamine neurotransmitters in the brain. At doses under 20 mg/day, selegiline is a selective and irreversible inhibitor of monoamine oxidase B (MAO-B), increasing levels of dopamine in the brain. In clinical trials, Selegiline has been used in the treatment of attention deficit hyperactivity disorder (ADHD). Selegiline may target specific symptoms of ADHD including: sustained attention, the learning of novel information, hyperactivity, and peer interactions. Selegiline has shown to be relatively effective in treating the inattention subtype of ADHD.
+
+Other medications which may be prescribed off-label include certain antidepressants such as tricyclic antidepressants (TCAs), SNRIs, SSRIs, or MAOIs.
+
+Antipsychotic medication 
+Atypical antipsychotic medications, which are approved for the treatment of certain behavioral disorders, are sometimes prescribed off-label as a combination therapy with stimulants for the treatment of comorbid (i.e., co-occurring diseases) ADHD and disruptive behavioral disorders. Canadian clinical practice guidelines only support the use of dopaminergic antipsychotics with selectivity for D2-type dopamine receptors, particularly risperidone, as a third-line treatment for both disorders following the failure of stimulant monotherapy and psychosocial interventions. Combined use of D2-type receptor antagonists and ADHD stimulants for the treatment of ADHD with comorbid behavioral disorders does not appear to have significantly worse adverse effects than ADHD stimulant or antipsychotic monotherapy. Research suggests, but has not yet confirmed, the treatment efficacy of antipsychotic and stimulant combination treatment for both disorders; it is unclear if the combination therapy for both disorders is superior to stimulant or antipsychotic monotherapy. There is no evidence to support the use of any subclass of antipsychotics for the treatment of the core symptoms of ADHD (i.e., inattention and hyperactivity) without comorbid behavioral disorders.
+
+Dopaminergic antipsychotics affect dopamine neurons by binding to postsynaptic dopamine receptors, where they function as receptor antagonists. In contrast, ADHD stimulants are indirect agonists of postsynaptic dopamine receptors; in other words, these stimulants increase levels of synaptic dopamine, which then binds to postsynaptic receptors.  Stimulants increase the concentration of synaptic dopamine by activating certain presynaptic receptors (i.e., TAAR1) or by blocking or altering the function of reuptake transporters (e.g., DAT, VMAT2) in the presynaptic neuron.
+
+Comparison
+
+Concerns regarding stimulants 
+
+Some parents and professionals have raised questions about the side effects of drugs and their long-term use.
+
+Increasing use 
+Outpatient treatment rates have held steady in the U.S. recently. Prior to this, outpatient treatment for ADHD in the U.S. grew from 0.9 children per 100 in 1987 to 3.4 per 100 in 1997. A survey conducted by the Centers for Disease Control and Prevention in 2011–2012 found 11% of children between the ages of 4 and 17 were reported to have ever received a health care provider diagnosis of ADHD at some point (15% of boys and 7% of girls), a 16% increase since 2007 and a 41% increase over the last decade. The CDC notes that community samples suggest the incidence of ADHD in American children is higher than the five percent stated by the American Psychiatric Association in DSM-5, with 8.8% of U.S. children having a current diagnosis in the 2011 survey. However, only 6.1% of children in the 2011 survey were taking ADHD medication, suggesting as many as 17.5% of children with current ADHD were not receiving treatment.
+
+Use in preschoolers 
+Parents of children with ADHD note that they usually display their symptoms at an early age. There have been few longitudinal studies on the long-term effects of stimulant use in children. The use of stimulant medication has not been approved by the FDA for children under the age of six. A growing trend is the diagnosis of younger children with ADHD. Prescriptions for children under the age of 5 rose nearly 50 percent from 2000 to 2003. Research on this issue has indicated that stimulant medication can help younger children with "severe ADHD symptoms" but typically at a lower dose than older children. It was also found that children at this age are more sensitive to side effects and should be closely monitored. Evidence suggests that careful assessment and highly individualized behavioural interventions significantly improve both social and academic skills, while medication only treats the symptoms of the disorder. "One of the primary reasons cited for the growing use of psychotropic interventions was that many physicians realize that psychological interventions are costly and difficult to sustain."
+
+Side effects
+
+Growth delay and weight loss 
+There is some evidence of mild reductions in growth rate with prolonged stimulant treatment in children, but no causal relationship has been established and reductions do not appear to persist long-term. Weight loss almost always corresponds with loss of appetite, which may result from the medication. Severe weight loss is very uncommon though. Loss of appetite is very temporary and typically comes back as daily effects of stimulates wear off. Nausea, dizziness, and headaches, other side effect, can also indirectly affect appetite and result in weight loss.
+
+Cardiovascular 
+There is concern that stimulants and atomoxetine, which increase the heart rate and blood pressure, might cause serious cardiovascular problems. Recent extremely large-scale studies by the FDA indicate that, in children, young adults, and adults, there is no association between serious adverse cardiovascular events (sudden death, myocardial infarction, and stroke) and the medical use of amphetamine, methylphenidate, or other ADHD stimulants.
+
+Psychiatric 
+Many of these drugs are associated with physical and psychological dependence. Sleep problems may occur.
+
+Methylphenidate can worsen psychosis in psychotic patients, and in very rare cases it has been associated with the emergence of new psychotic symptoms. It should be used with extreme caution in patients with bipolar disorder due to the potential induction of mania or hypomania. There have been very rare reports of suicidal ideation, but evidence does not support a link. The long-term effects on mental health disorders in later life of chronic use of methylphenidate is unknown.
+
+A 2009 FDA review of 49 clinical trials found that approximately 1.5% of children in clinical trials of medications for ADHD had experienced signs or symptoms of psychosis or mania. Postmarketing reports were also analyzed, with nearly half of them involving children under the age of eleven. Approximately 90% of cases had no reported previous history of similar psychiatric events. Hallucinations involving snakes, worms or insects were the most commonly reported symptoms.
+
+Long-term use 
+Long-term methylphenidate or amphetamine exposure in some species is known to produce abnormal dopamine system development or nerve damage, but humans experience normal development and nerve growth. Magnetic resonance imaging studies suggest that long-term treatment with amphetamine or methylphenidate decreases abnormalities in brain structure and function found in subjects with ADHD, and improves function of the right caudate nucleus.
+
+Reviews of clinical stimulant research have established the safety and effectiveness of long-term amphetamine use for ADHD.  Controlled trials spanning two years have demonstrated continuous treatment effectiveness and safety.  One review highlighted a 9-month randomized controlled trial of amphetamine in children that found an average increase of 4.5 IQ points and continued improvements in attention, disruptive behaviors, and hyperactivity.
+
+Withdrawal and rebound 
+Tolerance to the therapeutic effects of stimulants can occur, and rebound of symptoms may occur when the dose wears off. Rebound effects are often the result of the stimulant dosage being too high or the individual not being able to tolerate stimulant medication. Signs that the stimulant dose is too high include irritability, feeling stimulated or blunting of affect and personality.
+
+Stimulant withdrawal or rebound reactions can occur and can be minimised in intensity via a gradual tapering off of medication over a period of weeks or months. A small study of abrupt withdrawal of stimulants did suggest that withdrawal reactions are not typical, and may only occur in susceptible individuals.
+
+Cancer 
+Concerns about chromosomal aberrations and possible cancer later in life was raised by a small-scale study on the use of methylphenidate, though a review by the Food and Drug Administration (FDA) found significant methodological problems with the study. A follow-up study performed with improved methodology found no evidence that methylphenidate might cause cancer, stating "the concern regarding a potential increase in the risk of developing cancer later in life after long-term MPH treatment is not supported."
+
+History 
+The first reported evidence of stimulant medication used to treat children with concentration and hyperactivity problems came in 1937. Charles Bradley in Providence, Rhode Island reported that a group of children with behavioral problems improved after being treated with the stimulant Benzedrine. In 1954, the stimulant methylphenidate (Ritalin, which was first produced in 1944) became available; it remains one of the most widely prescribed medications for ADHD. Initially the drug was used to treat narcolepsy, chronic fatigue, depression, and to counter the sedating effects of other medications. The drug began to be used for ADHD in the 1960s and steadily rose in use.
+
+In 1975, pemoline (Cylert) was approved by the U.S. FDA for use in the treatment of ADHD. While an effective agent for managing the symptoms, the development of liver failure in 14 cases over the next 27 years would result in the manufacturer withdrawing this medication from the market. New delivery systems for medications were invented in 1999 that eliminated the need for multiple doses across the day or taking medication at school. These new systems include pellets of medication coated with various time-release substances to permit medications to dissolve hourly across an 8–12 hour period (Metadate CD, Adderall XR, Focalin XR) and an osmotic pump that extrudes a liquid methylphenidate sludge across an 8–12 hour period after ingestion (Concerta).
+
+In 2003, atomoxetine (Strattera) received the first FDA approval for a nonstimulant drug to be used specifically for ADHD. In 2007, lisdexamfetamine (Vyvanse) became the first prodrug for ADHD to receive FDA approval. In March 2019, a Purdue Pharma subsidiary received approval from the FDA for Adhansia XR, a methylphenidate medication to treat ADHD.
+
+Cost-effectiveness 
+Combined medical management and behavioral treatment is the most effective ADHD management strategy, followed by medication alone, and then behavioral treatment. In terms of cost-effectiveness, management with medication has been shown to be the most cost-effective, followed by behavioral treatment, and combined treatment. The individually most effective and cost-efficient way is with stimulant medication. Additionally, long-acting medications for ADHD, in comparison to short-acting varieties, generally seem to be cost-effective. Comorbid (relating to two diseases that occur together, e.g. depression and ADHD) disorders makes finding the right treatment and diagnosis much more costly than when comorbid disorders are absent.
+
+Alternative medicine 
+
+Most alternative therapies do not have enough supporting evidence to recommend them. Moreover, when only the best conducted studies are taken into account results tend to be similar to placebo.
+
+Neurofeedback 
+Neurofeedback (NF) or EEG biofeedback is a treatment strategy used for children, adolescents and adults with ADHD. The human brain emits electrical energy which is measured with electrodes. Neurofeedback alerts the patient when beta waves are present. This theory believes that those with ADHD can train themselves to decrease ADHD symptoms.
+
+No serious adverse side effects from neurofeedback have been reported. Research into neurofeedback has been mostly limited and of low quality. While there is some indication on the effectiveness of biofeedback it is not conclusive: several studies have yielded positive results, however the best designed ones have either shown reduced effects or non-existing ones. In general no effects have been found in the most blinded ADHD measures, which could be indicating that positive results are due to the placebo effect.
+
+Media 
+Preliminary studies have supported the idea that playing video games is a form of neurofeedback, which helps those with ADHD self-regulate and improve learning. On the other hand, ADHD may experience great difficulty disengaging from the game, which may in turn negate any benefits gained from these activities, and time management skills may be negatively impacted as well.
+
+Nature 
+Children who spend time outdoors in natural settings, such as parks, seem to display fewer symptoms of ADHD, which has been dubbed "Green Therapy". But it may be due to reverse causation.
+
+Diet 
+
+There is insufficient evidence to support dietary changes in ADHD and thus they are not recommended by the American Academy of Pediatrics as of 2019. Perhaps the best known of the dietary alternatives is the Feingold diet which involves removing salicylates, artificial colors and flavors, and certain synthetic preservatives from children's diets. However, studies have shown little if any effect of the Feingold diet on the behavior of children with ADHD.
+
+Results of studies regarding the effect of eliminating artificial food coloring from the diet of children with ADHD have been very varied. It has been found that it might be effective in some children but as the published studies have been of low quality results can be more related to research problems such as publication bias.
+The UK Food Standards Agency (FSA) has called for a ban on the use of six artificial food colorings and the European Union (EU) has ruled that some food dyes must be labeled with the relevant E number as well as this warning: "may have an adverse effect on activity and attention in children." Nevertheless, existing evidence neither refutes nor supports the association between ADHD and food colouring.
+
+Dietary supplements and specialized diets are sometimes used by people with ADHD with the intent to mitigate some or all of the symptoms. However a 2009 article in the Harvard Mental Health Letter states, "Although vitamin or mineral supplements [micronutrients] may help children diagnosed with particular deficiencies, there is no evidence that they are helpful for all children with ADHD. Furthermore, megadoses of vitamins, which can be toxic, must be avoided." In the United States, no dietary supplement has been approved for the treatment for ADHD by the FDA.
+
+Some popular supplements used to manage ADHD symptoms:
+ Caffeine – ADHD is associated with increased caffeine consumption, and caffeine's stimulant effects on cognition may have some benefits for ADHD. Limited evidence suggests a small therapeutic effect that is markedly inferior to standard treatments like methylphenidate and dextroamphetamine while still producing similar or greater side effects.
+ Nicotine – The association between ADHD and nicotine intake is well known, and limited evidence suggests that nicotine may help improve some of the symptoms of ADHD, although the effect is generally small.
+ Omega-3 fatty acids – A 2012 Cochrane review found little evidence that supplementation with omega-3 or other polyunsaturated fatty acids provides any improvement in the symptoms of ADHD in children or adolescents. A 2011 meta analysis found a "small but significant benefit", with benefits being "modest compared to the efficacy of currently available pharmacological treatments for ADHD". The review concluded that supplementation may be worth consideration as an augmentative treatment in combination with medication due to its "relatively benign side-effect profile", but not as a primary treatment. Most research on Omega-3 fatty acids is considered to be of very poor quality with widespread methodological weaknesses.
+ Zinc – Although the role of zinc in ADHD has not been elucidated, there is a small amount of limited evidence that lower tissue zinc levels may be associated with ADHD. In the absence of a demonstrated zinc deficiency (which is rare outside of developing countries), zinc supplementation is not recommended as a treatment option for ADHD. 
+ In the 1980s vitamin B6 was promoted as a helpful remedy for children with learning difficulties including inattentiveness; however, a study of large doses of vitamins with ADHD children showed that they were ineffective in changing behavior.
+
+Comorbid disorders 
+Because ADHD comorbidities are diverse and the rate of comorbidity is high, special care must dedicated to certain comorbidities. The FDA is not set up to address this issue, and does not approve medications for comorbidities, nonetheless certain such topics have been extensively researched.
+
+Tic disorders 
+Patients with Tourette syndrome who are referred to specialty clinics have a high rate of comorbid ADHD. Patients who have ADHD along with tics or tic disorders may also have problems with disruptive behaviors, overall functioning, and cognitive function, accounted for by the comorbid ADHD.
+
+The treatment of ADHD in the presence of tic disorders has long been a controversial topic. Past medical practice held that stimulants could not be used in the presence of tics, due to concern that their use might worsen tics; however, multiple lines of research have shown that stimulants can be cautiously used in the presence of tic disorders. Several studies have shown that stimulants do not exacerbate tics any more than placebo does, and suggest that stimulants may even reduce tic severity. A 2011 Cochrane Collaboration review concluded that most major ADHD medications were effective in children with tics, and that stimulants did not generally worsen tics outside of individual cases. Methylphenidate, guanfacine, clonidine, and desipramine were associated with improvement of tic symptoms. Controversy remains, and the PDR continues to carry a warning that stimulants should not be used in the presence of tic disorders, so physicians may be reluctant to use them. Others are comfortable using them and even advocate for a stimulant trial when ADHD co-occurs with tics, because the symptoms of ADHD can be more impairing than tics.
+
+The stimulants are the first line of treatment for ADHD, with proven efficacy, but they do fail in up to 20% of cases, even in patients without tic disorders. Current prescribed stimulant medications include: methylphenidate, dextroamphetamine, and mixed amphetamine salts (Adderall). Other medications can be used when stimulants are not an option. These include the alpha-2 agonists (clonidine and guanfacine), tricyclic antidepressants (desipramine and nortriptyline), and newer antidepressants (bupropion and venlafaxine). There have been case reports of tics worsening with bupropion. There is good empirical evidence for short-term safety and efficacy for the use of desipramine, bupropion and atomoxetine.
+
+See also
+ List of investigational attention deficit hyperactivity disorder drugs
+
+References
+
+External links
+
+ 
+Amphetamine
+Methylphenidate
+
+de:Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung#Behandlung
+fr:Trouble déficitaire de l'attention avec hyperactivité#Traitement

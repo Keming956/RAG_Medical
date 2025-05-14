@@ -1,0 +1,76 @@
+Der Begriff hydrophob stammt aus dem Altgriechischen ( hýdor „Wasser“ sowie  phóbos „Furcht“) und bedeutet wörtlich „wassermeidend“. Nach IUPAC-Definition ist die Hydrophobie der Zusammenschluss unpolarer Gruppen oder Moleküle in einer wässrigen Umgebung, aufgrund der Tendenz von Wasser, unpolare Gruppen oder Moleküle auszuschließen. Mit diesem Fachausdruck aus der Chemie werden Substanzen charakterisiert, die sich nicht mit Wasser mischen und es auf Oberflächen meist „abperlen“ lassen. Wenn eine Oberfläche sehr stark wasserabweisend ist, spricht man auch von Superhydrophobie.
+
+Eigenschaften 
+Unpolare Stoffe wie Fette, Wachse, Alkohole mit langen Alkylresten – also mit Ausnahme von Methanol, Ethanol und Propanol – Alkane, Alkene usw. sind hydrophob.
+Beim Lösen von hydrophoben Stoffen in Wasser tritt generell ein sogenannter hydrophober Effekt auf und bei manchen kleinen, hydrophoben Spezies, wie Methan oder Xenon, bilden sich sogar entropisch ungünstige Klathrat-Strukturen. Deshalb ist generell die Löslichkeit dieser Stoffe in Wasser gering.
+
+Hydrophilie ist das ungefähre Gegenteil der Hydrophobie. Das Maß für den Ausprägungsgrad der Hydrophobie von Stoffen (meist Proteinen) ist die Hydrophobizität.
+
+Hydrophobe Stoffe sind so gut wie immer lipophil, das heißt, sie lösen sich gut in Fett und Öl auf. Hydrophobie ist jedoch nicht immer mit Lipophilie gleichzusetzen, denn manche Stoffe sind gleichzeitig hydrophob und lipophob, z. B. Fluorcarbone, Silikone und manche ionische Flüssigkeiten, wie z. B. BMIIm, welche in der Regel weder wasser- noch fettlöslich sind. Diese Stoffe werden amphiphob genannt.
+
+Moleküle, die sowohl lipophile (= hydrophobe) als auch hydrophile Strukturteile besitzen, bezeichnet man als amphiphil. Diesen Effekt nutzen waschaktive Substanzen, wie beispielsweise Tenside, oder Alkalisalze von Fettsäuren, (Na-Salz = Kernseife und K-Salz = Schmierseife). Indem diese sich an der Grenzfläche zwischen hydrophobem Schmutz und Wasser an beide Substanzen gleichermaßen 'anhaften', kann der Schmutz im Wasser gelöst werden.
+
+Die Größe des Kontaktwinkels zwischen Flüssigkeit und Feststoff hängt ab von der Wechselwirkung zwischen den Stoffen an der Berührungsfläche: je geringer diese Wechselwirkung, desto größer der Kontaktwinkel.
+
+Man bezeichnet die Oberfläche:
+ bei geringen Kontaktwinkeln (ca. 0°, Bild a) als hydrophil ("wasserliebend")
+ bei Winkeln um 90° (Bild b) als hydrophob (wasserabweisend)
+ bei Winkeln über 90° (Bild c) als superhydrophob. Letzteres wird bei sehr hohen Winkeln (ca. 160°) auch als Lotoseffekt bezeichnet und entspricht einer extrem geringen Benetzbarkeit.
+
+Hydrophobe Oberflächen bestehen in der Regel aus hydrophoben Substanzen. Beispiele sind die Beschichtung von Oberflächen mit PTFE (Teflon) oder die Imprägnierung von Isolierstoffen und Textilien mit hydrophoben Stoffen wie Wachs oder Paraffin.
+
+Ein Extrembeispiel für eine hydrophobe Oberfläche ist die Oberfläche von Blättern und Blüten des Lotos. Diese ist rau und zusätzlich mit hydrophoben Substanzen bedeckt. Durch diese Besonderheit weist sie Kontaktwinkel von über 160° auf, sodass Tropfen auf ihr fast rund sind. Von solchen Oberflächen perlt Wasser sehr gut ab. Aufliegende Schmutzpartikel werden sehr leicht weggespült. Dieser Effekt wird Lotoseffekt genannt.
+
+Präzisierung des Begriffs 
+Entgegen der verbreiteten Vorstellung existieren zwischen ungeladenen Molekülen keine abstoßenden Wechselwirkungen. Selbst zwischen der sehr hydrophoben Oberfläche von Teflon und Wasser existiert eine anziehende Wirkung. Ohne eine solche könnten keine Wassertröpfchen an der Unterseite von hydrophoben Oberflächen haften, sondern würden herunterfallen.
+
+Der Grund für hohe Kontaktwinkel gegenüber Wasser ist, dass Wassermoleküle untereinander stärkere Wechselwirkungen (Wasserstoffbrückenbindungen) eingehen, als mit der hydrophoben Oberfläche, mit welcher nur Van-der-Waals-Bindungen möglich sind. Deshalb ist bei hydrophoben Stoffen eine annähernd kugelförmige Gestalt von Wassertropfen energetisch am günstigsten.
+
+Hydrophober Effekt 
+
+Der hydrophobe Effekt entsteht, wenn sich unpolare und elektrisch ungeladene Atome, Moleküle oder Molekülgruppen (als Teile von größeren Molekülen) in wässriger Lösung befinden. Er bezeichnet unter anderem die dann mögliche Zusammenlagerung ("hydrophobe Assoziation") von unpolaren Molekülen im Wasser und wässrigen Lösungen, wie sie z. B. bei Doppellipidschichten und bei Mizellen auftritt. Im Grunde beschreibt der hydrophobe Effekt, dass sich beispielsweise Wasser und Öl (unter normalen Bedingungen) nicht mischen. Eine besondere Bedeutung hat der hydrophobe Effekt für die Faltung von Proteinen, wie erstmals von John Kendrew bei der Strukturanalyse des Myoglobins erkannt wurde.  So findet man bei den meisten Proteinen hydrophobe Aminosäuren im Inneren, während die hydrophilen Aminosäuren an der Oberfläche sitzen. Das Ausmaß des hydrophoben Effekts eines Moleküls in Wasser wird durch die Hydrophobizität beschrieben. Die genauen Ursachen für den hydrophoben Effekt sind Gegenstand wissenschaftlicher Diskussionen und nicht abschließend geklärt. Im Folgenden werden einige der vermuteten Ursachen beschrieben.
+
+Entropie 
+Der hydrophobe Effekt wurde erstmals von Walter Kauzmann mit einer Verringerung der Entropie des Wassers in Verbindung gebracht.
+Das Hauptargument ist die Vermutung, dass die Wassermoleküle in der direkten Nachbarschaft zu einem unpolaren Molekül (zu dem sie keine Wasserstoffbrückenbindungen bilden können) sich untereinander etwas stärker binden als im "freien" Wasser. Diese angrenzenden Wassermoleküle sind also leicht höher geordnet und deshalb eingeschränkter in ihrer translatorischen und rotatorischen Bewegung. Es handelt sich aber, wie unten beschrieben, insgesamt nicht um eine dramatische Einschränkung der lokalen Wasserbeweglichkeit, wie früher vermutet wurde. Man spricht im Zusammenhang mit dieser besonderen Solvatsphäre auch von "hydrophober Hydratation" der inerten Spezies.
+
+Weil nach dem 2. Hauptsatz der Thermodynamik die Entropie in einem abgeschlossenen System nie abnehmen kann, lagern sich mehrere hydrophob hydratisierte, unpolare Moleküle zusammen. Das verringert die Oberfläche zum Wasser und damit die Anzahl der geordneteren Wassermoleküle im Medium. Dadurch steigt die Entropie. Diese hydrophobe Assoziation ist bei bestimmten (z. B. länglichen) Molekülen die Grundlage der Biomembranbildung.
+
+Generell gilt also:
+
+ Die Entropie steigt durch die Freisetzung der Lösungsmittelmoleküle an, aber es resultiert auch ein Enthalpiegewinn durch stärkere Wechselwirkungen zwischen den freigesetzten Lösemittelmolekülen (bei Wasser vor allem Dipol-Dipol-Wechselwirkungen). Es gibt damit einen entropischen und einen enthalpischen Anteil am hydrophoben Effekt.
+ Es gibt demnach keine inner-energetische hydrophobe Kraft, der Effekt basiert auf der Besonderheit des Wasserstoffbrücken-gebundenen Lösungsmittels Wasser. Allerdings lässt sich der hydrophobe Effekt durch die Wirkung einer entropischen Kraft verstehen.
+ Da Druck und Temperatur z. B. einen Einfluss auf Zahl und Lebensdauer von Wasserstoffbrücken und damit auf die Struktur des Wassers haben, ist der entropische Anteil am hydrophoben Effekt auch von Druck und Temperatur abhängig, er nimmt z. B. bei höheren Temperaturen ab.
+
+In der Solvathülle von kleinen unpolaren Teilchen beträgt die Verlangsamung der Wassermoleküle aufgrund der stärkeren Wechselwirkung mit anderen Wassermoleküle bei Zimmertemperatur einige 10 %, zum Beispiel beim Edelgas Xenon 30 %. Bei größeren unpolaren Molekülen kann eine Verlangsamung der Rotation und Diffusion des Wassers in der Solvatsphäre auch um einen Faktor 2 bis 4 vorkommen. Das bedeutet z. B., dass die Umorientierungskorrelationszeit des Wassers bei 25 °C von 2 Picosekunden auf 4 bis 8 Picosekunden ansteigt.
+
+Es wird vermutet, dass bei der Proteinfaltung der hydrophobe Effekt ebenfalls eine wichtige Rolle spielt (hydrophober Kollaps). Denn obwohl die Entropie des Proteins durch dessen Faltung stark abnimmt (), überwiegt (vermuteter Weise) der Entropiegewinn im umgebenden wässrigen Medium (). Daher ist die Gesamtentropieänderung
+
+womit für den entropische Beitrag  gilt. Somit geht die Faltung spontan („von selbst“) und bedarf keiner weiteren Energiezufuhr.
+
+Wasser-Netzwerk 
+Eine andere vermutete Erklärung für den hydrophoben Effekt ist, dass das Netz von Wasserstoffbrücken zwischen Wassermolekülen durch die hydrophoben Teilchen stark gestört wird.
+
+Systematische Erfassungsmöglichkeiten 
+Wesentliche Erkenntnisse über die Wasserstruktur um hydrophobe Teilchen und damit über die Ursachen des hydrophoben Effektes erhält man aus molekulardynamischen Computersimulationen.
+
+Der hydrophobe Effekt kann durch die Bestimmung der Verteilungskoeffizienten von unpolaren Teilchen zwischen Wasser und unpolaren Lösungsmitteln quantifiziert werden. Die Verteilungskoeffizienten können (im NPT Ensemble) in die freie Überführungsenthalpie ΔG = ΔH - TΔS überführt werden, die aus der enthalpischen Komponente ΔH und der entropischen Komponente -TΔS besteht. Diese beiden Komponenten können kalorimetrisch gemessen werden.
+
+Einflüsse 
+Schwächung des hydrophoben Effektes durch Temperatur- und/oder Druckveränderung kann zur Denaturierung von Biomolekülen führen. Bringt man Zusatzstoffe, z. B. Salze, in die wässrige Lösung, so wird der hydrophobe Effekt ebenfalls verändert. Er kann sowohl verstärkt als auch verringert werden. Die Zugabe von z. B. größeren Mengen an Harnstoff, führt zu einer Denaturierung von Proteinen.
+
+Die Stärke des Einflusses von Salzen und damit von im Wasser gelösten Ionen auf den hydrophoben Effekt, wird durch die sogenannte „Hofmeister-Reihe“ charakterisiert, eine schon seit dem 19. Jahrhundert empirisch ermittelte und damit bekannte Ionen-Reihenfolge, welche aber bis heute noch nicht vollständig theoretisch verstanden ist.
+
+Über kernmagnetische Relaxationszeitmessungen zeigte sich, dass Anionen eine Attraktion an die hydrophobe Grenzfläche erfahren, während dies für die Kationen nicht gilt. Dieser Effekt kann möglicherweise Einzelheiten in der sogenannten Hofmeister-Reihe erklären.
+
+Siehe auch 
+ Polarität
+ Grenzflächenspannung
+ Hydrophobietransfer
+
+Einzelnachweise 
+
+Chemische Bindung
+Dispersion (Chemie)
+Biophysik
+Wikipedia:Artikel mit Video

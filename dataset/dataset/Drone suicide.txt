@@ -1,0 +1,60 @@
+Un drone suicide, aussi nommé drone kamikaze, est un drone de combat aérien contenant un explosif : il est conçu pour évoluer au-dessus du champ de bataille et détruire des cibles en plongeant sur elles lors de missions de recherche d'opportunité, c'est-à-dire à la fois de reconnaissance et de combat. Le drone revient à sa base si aucune cible n'a été engagée (une cible engagée entraîne la destruction de celle ci et du drone). La désignation de la cible se fait par vision directe de celle-ci par l'opérateur.
+
+Plutôt que d’emporter une charge offensive, ce drone est en fait la munition principale, c'est pourquoi il est nommé « munition rôdeuse » ou encore « munition vagabonde » (en anglais ). Il convient pourtant de séparer nettement les deux concepts, la cible de la munition vagabonde n'étant pas désignée directement par l'opérateur de celle-ci, mais par d'autres opérateurs.
+
+Histoire 
+Les premiers drones suicide ont été conçus en Israël dans les années 1980. Ils n'étaient pas toujours désignés sous ce nom, mais parfois comme des missiles de croisière d'un type particulier.
+
+Un des premiers usages de drones suicides au combat a eu lieu en avril 2016 lors de la Guerre des Quatre Jours au Nagorno-Karabagh. Les Harop fournis par Israël à l'Azerbaïdjan ont été utilisés contre des bus amenant des soldats arméniens sur le front. Ces drones auraient aussi été utilisés pour détruire un poste de commandement arménien.
+
+L'armée azerbaidjanaise a utilisé à nouveau le Harop lors de la guerre du Haut-Karabagh de 2020 ; cette arme a alors été appelée une innovation stratégique majeure (en , litt. un changeur de jeu).
+
+Modèles
+
+IAI Harop  
+Le Harop a été développé à l'origine pour la suppression de défense aérienne ennemie (SEAD) et est doté d'une très faible signature radar. Il est capable de fonctionner de manière totalement autonome en utilisant son mode de guidage antiradar, ou être guidé par un opérateur humain depuis une station de contrôle.
+
+IAI Harpy
+
+Utilisateurs et producteurs 
+En 2020, des drones suicides sont utilisés ou produits dans les pays suivants :
+
+
+
+En production locale le HRESH, BEEB 1800
+
+IAI Harpy, IAI Harop, Orbiter 1K, STM Kargu
+
+IAI Harpy, CH-901, WS-43, ASN-301
+
+Devil Killer, IAI Harpy
+
+,
+
+
+
+Qasef-1, Raad 85 (UAV) et potentiellement d'autres
+
+Programme d'achats de drones commerciaux et de leur transformation en drones suicides
+
+IAI Harpy, IAI Harop, IAI Green Dragon, IAI Rotem L, Aeronautics Defense Orbiter, Delilah, SkyStriker. — Fabrication locale d'autres types par Israel Aerospace Industries, UVision, Aeronautics Defense, Elbit Systems, et Israel Military Industries
+
+en production locale, sans nom particulier
+
+
+
+WB Electronics Warmate
+
+KUB-E
+
+, NCSIST Fire Cardinal
+
+STM Kargu, STM Alpagu, IAI Harpy
+
+IAI Harpy, IAI Harop
+
+Rebelles Houthis - Qasef-1
+
+Notes et références
+
+Voir aussi

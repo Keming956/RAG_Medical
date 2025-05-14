@@ -1,0 +1,158 @@
+Un traumatisme majeur est une blessure qui peut entraîner une invalidité permanente ou la mort. Il existe de nombreuses causes de traumatismes majeurs comme les chutes, les accidents de la route, les blessures par arme blanche et les blessures par balle. La prise en charge nécessite de la rapidité et le transport en urgence vers un établissement médical spécialisé (appelé ). L'évaluation initiale nécessite de connaître le mécanisme de la blessure; cette évaluation implique aussi un examen clinique qui sera le plus souvent complété par l'utilisation d'outils d'imagerie pour déterminer le types de blessure avec précision et ainsi procurer le traitement adéquat.
+
+À des fins de recherche, la définition est souvent basée sur un score de gravité des blessures supérieur à 15, le score ISS.
+
+Classification 
+Les blessures sont généralement classées selon la gravité et la localisation des blessures. Les traumatismes peuvent également être classés par groupe démographique, comme l'âge ou le sexe. Les blessures peuvent également être classées selon le type de force appliquée au corps, comme un traumatisme contondant ou un traumatisme pénétrant.
+
+Différentes échelles existent pour mesurer la gravité des blessures. La valeur peut être utilisée pour trier un patient ou pour une analyse statistique. Les échelles mesurent les dommages aux parties anatomiques, les valeurs physiologiques (tension artérielle, etc.), les comorbidités ou une combinaison de celles-ci. L'ISS (injury severity score) et l'échelle de Glasgow sont couramment utilisées pour quantifier les blessures dans le but de les trier et permettre à un système de surveiller ou de « suivre » l'état d'un patient dans un contexte clinique. Les données peuvent également être utilisées dans des enquêtes épidémiologiques et à des fins de recherche.
+
+Environ 2% de ceux qui ont subi un traumatisme important ont une lésion de la moelle épinière.
+
+Le traumatisme peut être classifié selon la zone affectée du corps:
+ Polytraumatisme (environ 40 %)
+ Traumatisme crânien (environ 30 %)
+ Traumatisme thoracique (20 %)
+ Traumatisme abdominal (10 %)
+ Traumatisme des extrémités (2 %)
+
+Types 
+
+ La fracture, lésion par rupture d’un os ;
+ L'entorse, lésion des ligaments d'une articulation ;
+ La plaie, rupture de la barrière cutanée ;
+ La brûlure, causée par un excès de chaleur ou un excès de froid ;
+ L'ecchymose, lésion sans rupture de la peau d'une partie molle de l'organisme entraînant un amas de sang sous la peau ;
+ Les traumatismes psychiques (blessure morale - description succincte) : il y a traumatisme quand une blessure (psychique) est bloquée par une représentation négative. Il ne suffit donc pas d'un « simple » vécu douloureux pour dire qu'il y a traumatisme. La représentation négative va « enkyster » la blessure, bloquer sa guérison.
+
+Les causes 
+Les blessures sont causées par des forces externes qui agissent physiquement contre le corps. Les principales causes de décès traumatique sont les traumatismes contondants, les collisions de véhicules à moteur et les chutes, suivis des traumatismes pénétrants tels que les coups de couteau ou les objets empalés.
+
+À des fins statistiques, les blessures sont classées comme intentionnelles (suicide) ou non intentionnelles (accident). Les blessures intentionnelles sont une cause fréquente de traumatismes.
+
+Un traumatisme pénétrant est causé lorsqu'un corps étranger tel qu'une balle ou un couteau pénètre dans les tissus corporels, créant une plaie ouverte. Aux États-Unis, la plupart des décès causés par des traumatismes pénétrants surviennent dans les zones urbaines et 80% de ces décès sont causés par des armes à feu. Une blessure par explosion est une cause complexe de traumatisme car elle comprend généralement à la fois un traumatisme contondant et pénétrant, et peut également être accompagnée d'une brûlure. Un traumatisme peut également être associé à une activité particulière, telle qu'une blessure professionnelle ou sportive.
+
+Physiopathologie 
+Le corps réagit à une blessure traumatique localement au site de la blessure mais aussi sur le plan systémique. Cette réponse systémique à pour but de protéger des organes vitaux tels que le foie en permettant une duplication cellulaire supplémentaire et de guérir les dommages. Le temps de guérison d'une blessure dépend de divers facteurs, notamment le sexe, l'âge et la gravité de la blessure.
+
+Les symptômes d'une blessure peuvent se manifester de différentes manières, notamment :
+
+ Trouble de la conscience
+ Fièvre
+ Tachycardie
+ Œdème généralisée
+ Augmentation du débit cardiaque
+ Augmentation du métabolisme
+
+Divers systèmes d'organes répondent aux blessures pour restaurer l'homéostasie en maintenant la perfusion du cœur et du cerveau. L'inflammation après une blessure se produit afin d'éviter d'autres dommages et afin de déclencher le processus de guérison. Une inflammation prolongée peut provoquer un syndrome de défaillance multiviscérale ou un syndrome de réponse inflammatoire systémique. Immédiatement après une blessure, le corps augmente la production de glucose grâce à la néoglucogenèse et à la consommation de graisse via la lipolyse. Ensuite, le corps essaie de reconstituer ses réserves énergétiques en glucose et en protéines via l'anabolisme. Dans cet état, le corps augmentera temporairement ses dépenses maximales dans le but de guérir les cellules blessées.
+
+Diagnostic 
+
+L'évaluation initiale est essentielle pour déterminer l'étendue des blessures et le traitement.
+
+Examen clinique 
+Un examen clinique primaire est effectué afin d'identifier les blessures vitales, après quoi l'examen clinique secondaire est effectué. Cela peut se produire pendant le transport ou à l'arrivée à l'hôpital. L'examen secondaire consiste en une évaluation systématique des zones abdominale, pelvienne et thoracique, une inspection complète de la surface du corps pour identifier toutes les blessures et un examen neurologique. Les blessures qui peuvent se manifester plus tard peuvent être manquées lors de l'évaluation initiale, par exemple lorsqu'un patient est amené aux urgences d'un hôpital. Généralement, l'examen clinique est effectué d'une manière systématique afin de ne rien oublier.
+
+Imagerie 
+
+Les personnes ayant subi un traumatisme majeur ont souvent des radiographies du thorax et du bassin et, selon le mécanisme de la blessure et la présentation, une évaluation ciblée avec échographie à la recherche d'hémorragie interne (FAST écho : focused assessment with sonography for trauma). Pour ceux qui ont une pression artérielle, une fréquence cardiaque et une saturation en oxygène relativement stables, les tomodensitogrammes sont utiles. Les tomodensitogrammes du corps entier, appelés body-scan, améliorent le taux de survie de ceux qui ont subi un traumatisme majeu. Ces scanners du corps entier (ou body-scan) utilisent des injections intraveineuses par produit de contraste (agent radioactif). On craint que l'administration de produit de contraste intraveineux dans des situations de traumatisme sans confirmation d'une fonction rénale adéquate puisse endommager les reins, mais cela ne semble pas être significatif.
+
+Aux États-Unis, la tomodensitométrie ou l' IRM sont effectuées sur 15% des personnes ayant subi un traumatisme dans les services d'urgence. Lorsque la pression artérielle est basse ou que la fréquence cardiaque augmente  probablement à cause d'un saignement dans l'abdomen  une intervention chirurgicale immédiate en contournant un scanner est recommandée. Les tomodensitogrammes modernes à 64 coupes peuvent exclure, avec un haut degré de précision, des blessures importantes au cou après un traumatisme contondant.
+
+Techniques chirurgicales 
+Les techniques chirurgicales, utilisant un cathéter pour drainer les épanchements péritonéaux ou péricardiques, sont souvent utilisées en cas de traumatisme contondant grave à l'abdomen ou à la poitrine, en particulier lorsqu'une personne présente des signes précoces de choc. Chez les victimes en choc, en raison d'une hémorragie dans la cavité abdominale, une laparotomie d'urgence est indiquée.
+
+La prévention 
+En identifiant les facteurs de risque présents dans une communauté et en créant des solutions pour réduire l'incidence des blessures, les systèmes d'orientation en traumatologie peuvent aider à améliorer la santé globale d'une population. Les stratégies de prévention des blessures sont couramment utilisées pour prévenir les blessures chez les enfants, qui constituent une population à haut risque. Les stratégies de prévention des blessures impliquent généralement d'éduquer le grand public sur des facteurs de risque spécifiques et d'élaborer des stratégies pour éviter ou réduire les blessures. La législation destinée à prévenir les blessures concerne généralement les ceintures de sécurité, les sièges d'auto pour enfants, les casques, le contrôle de l'alcool et l'application accrue de la législation. D'autres facteurs contrôlables, comme la consommation de drogues, y compris l'alcool ou la cocaïne, augmentent le risque de traumatisme en augmentant la probabilité de collisions routières, de violence et d'abus. Les médicaments sur ordonnance tels que les benzodiazépines peuvent augmenter le risque de traumatisme chez les personnes âgées.
+
+Les soins aux personnes gravement blessées dans un système de santé publique nécessitent la participation de témoins, de membres de la communauté, de professionnels de la santé et des systèmes de soins de santé. Il englobe l'évaluation et les soins préhospitaliers des traumatismes par le personnel des services médicaux d'urgence, l'évaluation des services d'urgence, le traitement, la stabilisation et les soins hospitaliers pour tous les groupes d'âge. Un réseau de système de traumatologie (trauma center) est également un élément important de la préparation aux catastrophes communautaires, facilitant la prise en charge des personnes qui ont été impliquées dans des catastrophes qui causent un grand nombre de victimes, telles que les tremblements de terre.
+
+La gestion
+
+Préhospitalière 
+L'utilisation préhospitalière de techniques de stabilisation améliore les chances de survivre au voyage vers l'hôpital le plus proche. Le service d'aide médicale urgente (SAMU) déterminent, par le biais de la régulation médicale, quelles personnes ont besoin d'un traitement dans un centre de traumatologie (trauma center) et si besoin, le service mobile d'urgence et de réanimation (SMUR), fournit une stabilisation primaire en vérifiant et en protégeant les voies respiratoires, la respiration et la circulation, ainsi qu'en évaluant d'autres blessures.
+
+Le maintien en rectitude de la colonne vertébrale en fixant le cou avec un collier cervical et en plaçant la personne sur un matelas coquilles sont d'une grande importance dans le cadre de la médecine préhospitalière afin de prévenir les lésions secondaires de la moelle épinière. Il est important de contrôler rapidement les saignements sévères avec une pression directe sur la plaie et de mettre rapidement en place un pansement compressif hémostatique et un ou des garrots si le saignement persiste. Des conditions telles qu'une obstruction des voies respiratoires, un volumineux hématome cervical ou une perte de conscience nécessitent une intubation. En France, il existe un bénéfice à l'intubation en préhospitalier car des médecins formés à l'intubation sont présents à bord du service mobile d'urgence et de réanimation (SMUR).
+
+Le transport rapide des patients gravement blessés améliore le pronostic du traumatisme. Le transport par hélicoptère réduit la mortalité par rapport au transport terrestre chez les patients traumatisés adultes. Avant l'arrivée à l'hôpital, l'assistance respiratoire avec intubation n'améliore pas considérablement l'issue des traumatismes majeurs par rapport à l'administration d'une assistance vitale de base. Les preuves ne sont pas concluantes pour déterminer le bénéfice du remplissage vasculaire pré-hospitalière, alors que certaines preuves ont montré qu'elle peut être nocive. Les hôpitaux dotés de centres de traumatologie désignés ont de meilleurs résultats par rapport aux autres hôpitaux ainsi les résultats peuvent s'améliorer lorsque les personnes qui ont subi un traumatisme sont transférées directement dans un centre de traumatologie.
+
+À l'hôpital 
+La prise en charge des personnes traumatisées nécessite souvent l'aide de nombreux spécialistes de la santé, notamment des médecins, des infirmières, des kinésithérapeutes et des travailleurs sociaux. La coopération permet de mener à bien de nombreuses actions à la fois. En règle générale, la première étape de la gestion des traumatismes consiste à effectuer une enquête primaire qui évalue les voies respiratoires, la respiration, la circulation et l'état neurologique d'une personne. Ces étapes peuvent se produire simultanément ou dépendre du problème le plus urgent tel qu'un pneumothorax compressif ou un saignement artériel majeur. L'enquête primaire comprend généralement une évaluation du rachis cervical avec une imagerie du rachis cervicale si nécessaire. Une fois que le pronostic vital est écarté, la personne est soit transférée au bloc opératoire pour une intervention chirurgicale immédiate afin de traiter les blessures, soit une enquête secondaire est effectuée, qui consiste en une évaluation plus détaillée de la personne de la tête aux pieds.
+
+Les indications d'intubation comprennent l'obstruction des voies respiratoires, l'incapacité à protéger les voies respiratoires et l'insuffisance respiratoire. Des exemples de ces indications comprennent un traumatisme cervical pénétrant, un hématome cervical en expansion ou une perte de conscience. En général, la méthode d'intubation utilisée est une intubation à séquence rapide suivie d'une ventilation. Mais l'intubation en état de choc hémorragique peut conduire à un arrêt cardiaque et devrait être effectuée après une certaine réanimation chaque fois que possible. La réanimation traumatologique comprend le contrôle des saignements actifs. Lorsqu'une victime est amené en salle de déchocage, les signes vitaux sont vérifiés, un ECG est effectué et, si nécessaire, une voie vasculaire centrale est posée. D'autres tests doivent être effectués pour obtenir une mesure de base de leur biochimie, comme les gaz du sang artériel ou une thromboélastographie. Chez ceux qui sont en un arrêt cardiaque dû à un traumatisme, les compressions thoraciques sont considérées comme futiles, mais toujours recommandées. Corriger la cause sous-jacente comme un pneumothorax ou une tamponnade péricardique, le cas échéant, peut sauver le patient.
+
+Une FAST échographie (Focused assessment with sonography for trauma) peut aider à évaluer les saignements internes. Dans certains traumatismes, tels que les traumatismes maxillo-faciaux, il peut être avantageux d'avoir un médecin oto-rhino-laryngologiste disponible pour protéger les voies respiratoires et un médecin réanimateur pour la ventilation.
+
+Remplissage vasculaire 
+Traditionnellement, des solutés intraveineux à haut volume étaient administrés aux personnes qui avaient une instabilité hémodynamique en raison d'un traumatisme. Ceci est toujours approprié dans les cas de traumatisme isolé des extrémités, de traumatisme thermique ou de traumatisme crânien. Cependant, donner un volume important de solutés intraveineux semble augmenter le risque de décès. Les preuves scientifiques actuelles recommandnte la limitation de l'utilisation de solutés pour les traumtismesa thoraciquse pénétrant et les blessures abdominales; cela correspond à l'hypotension permissive. Les cibles sont une pression artérielle moyenne (PAM) de 60 mmHg, une pression artérielle systolique (PAS) de 70 à 90   mmHg ou le rétablissement des pouls périphériques et un état de conscience satisfaisant. Une solution saline hypertonique a été étudiée et s'est avérée peu différente de la solution saline isotonique.
+
+Comme aucun solutés intraveineux utilisés pour la réanimation initiale ne s'est avéré supérieur, la solution de Ringer lactate réchauffée reste la solution de choix. Si des produits sanguins sont nécessaires, une plus grande utilisation de plasma frais congelé et de plaquettes au lieu de seulement des culots de globules rouges concentrés améliore la survie et réduit l'utilisation globale des produits sanguins; un rapport de 1/1/1 est recommandé. C'est-à-dire 1 plasma frais congelé /  1 culot des plaquettes / 1 culot de globules rouges. Le succès des plaquettes a été attribué au fait qu'elles peuvent empêcher la coagulopathie de se développer. La récupération cellulaire et l'autotransfusion peuvent également être utilisées.
+
+Des substituts sanguins tels que les transporteurs d'oxygène à base d'hémoglobine sont en développement; cependant, depuis 2013, il n'y en avait aucun de disponible pour un usage commercial en Amérique du Nord ou en Europe. Ces produits ne sont disponibles que pour une utilisation générale en Afrique du Sud et en Russie.
+
+Médicaments 
+L'acide tranexamique diminue la mortalité chez les personnes qui présentent des hémorragies, ainsi que celles qui présentent un traumatisme crânien léger à modéré et des signes de saignement intracrânien au scanner cérébral. Cependant, il ne semble être bénéfique seulement s'il est administré dans les trois premières heures suivant le traumatisme.
+
+Pour les saignements sévères, en raison de troubles de la coagulation, le facteur VIIa recombinant (une protéine qui aide à la coagulation du sang) peut être approprié. Bien qu'il diminue la consommation des facteurs de coagulation, il ne semble pas diminuer le taux de mortalité. Chez ceux qui n'ont pas de déficit antérieur en facteur VII, son utilisation n'est pas recommandée en dehors des situations d'essai.
+
+D'autres médicaments peuvent être utilisés en complément d'autres procédures afin de stabiliser la victime. Bien que des médicaments inotropes positifs tels que la noradrénaline soient parfois utilisés en cas de choc hémorragique à la suite d'un traumatisme, il existe un manque de preuves de leur utilisation. Par conséquent, à partir de 2012, ils n'ont pas été recommandés aux États-Unis. Autoriser une pression artérielle basse peut être préférable dans certaines situations.
+
+Chirurgie 
+La décision d'effectuer une intervention chirurgicale est déterminée par l'étendue du dommage et la localisation anatomique de la blessure. Les saignements doivent être contrôlés avant qu'une réparation définitive puisse survenir. La chirurgie de contrôle des dommages (damage control surgery) est une doctrine de soins utilisée pour gérer un traumatisme grave dans lequel survient la triade létale avec un cycle d'acidose métabolique, d'hypothermie et d'hypotension pouvant entraîner la mort, si elle n'est pas corrigée. Cette doctrine est mise en œuvre dans un contexte dégradé, lorsque les moyens sont insuffisants pour prendre en charge de manière complète le patient, notamment dans un hôpital de campagne (médecine de guerre) ou en cas d'afflux massif de victimes, par exemple à l'occasion d'une catastrophe (naturelle, industrielle, ferroviaire, aérienne, carambolage) ou d'une tuerie de masse ou d'un attentat. Typiquement, le blessé reçoit les soins chirurgicaux minimaux : sécurisation des voies aériennes (notamment drainage thoracique, intubation), arrêt des grandes hémorragies, parage des plaies (nettoyage, ablation mndes tissus nécrosés), alignement des fractures et mesures générales de réanimation. Des procédures moins critiques sont laissées pour plus tard en attendant que la victime soit plus stable.
+
+Environ 15% de toutes les personnes traumatisées ont des blessures abdominales, et environ 25% d'entre elles nécessitent une chirurgie exploratoire. La majorité des décès évitables dus à un traumatisme résultent de saignements intra-abdominaux non reconnus.
+
+Pronostic 
+Les décès par traumatisme surviennent à un stade immédiat, précoce ou tardif. Les décès immédiats sont généralement dus à une apnée, à une grave lésion cérébrale ou médullaire élevée, ou à une rupture cardiaque ou de gros vaisseaux sanguins. Les décès précoces surviennent en quelques minutes à quelques heures et sont souvent dus à des hémorragies dans la couche méningée externe du cerveau, des artères déchirées, du sang autour des poumons, de l' air autour des poumons, une rate rompue, une lacération du foie ou une fracture pelvienne. Un accès immédiat aux soins peut être crucial pour éviter la mort des personnes victimes de traumatismes majeurs. Les décès tardifs surviennent plusieurs jours ou semaines après la blessure et sont souvent liés à une infection. Le pronostic est meilleur dans les pays dotés d'un système de traumatologie dédié où les blessés ont un accès rapide et efficace à des installations de traitement appropriées.
+
+Le pronostic à long terme est souvent compliqué par la douleur chronique; plus de la moitié des patients traumatisés ont des douleurs modérées à sévères un an après la blessure. Beaucoup connaissent également une qualité de vie réduite des années après une blessure; 20% des victimes souffrant d'une forme d'incapacité. Un traumatisme physique peut entraîner le développement d'un trouble de stress post-traumatique (TSPT). Une étude n'a trouvé aucune corrélation entre la gravité du traumatisme et le développement du TSPT.
+
+Épidémiologie 
+
+Les traumatismes représentent la sixième cause de décès dans le monde, entraînant cinq millions de décès chaque année ce qui fait aussi 10% de tous les décès annuels. Il s'agit de la cinquième cause d'invalidité importante. Environ la moitié des décès par traumatisme surviennent chez des personnes âgées de 15 à 45 ans et les traumatismes sont la principale cause de décès dans ce groupe d'âge. Les blessures touchent plus d'hommes; 68% des blessures surviennent chez les hommes et les décès dus à un traumatisme sont deux fois plus fréquents chez les hommes que chez les femmes, cela s'explique par le fait que les hommes sont beaucoup plus disposés à s'engager dans des activités à risque. Les adolescents et les jeunes adultes représentent le groupe le plus à risque de blessures. Alors que les personnes âgées sont moins susceptibles d'être blessées, elles sont plus susceptibles de mourir de blessures subies en raison de différences physiologiques car avec la vieillesse le corps à davantage de difficultés à compenser les blessures. Les principales causes de décès traumatique sont les lésions du système nerveux central et les pertes de sang importantes. Diverses échelles de classification existent pour les traumatismes afin de déterminer la gravité des blessures. Ces échelles sont utilisées pour déterminer les ressources à utiliser et, pour la collecte statistique.
+
+Histoire 
+Les restes humains découverts sur le site de Nataruk à Turkana, au Kenya, présenteraient des signes de traumatisme majeur - à la fois contondant et pénétrant - au niveau de la tête, du cou, des côtes, des genoux et aux mains, qui a été interprété par certains chercheurs comme établissant l'existence d'une guerre entre deux groupes de chasseurs-cueilleurs il y a . Les preuves d'un traumatisme contondant à Nataruk ont cependant été contestées et l'interprétation selon laquelle le site représenterait un premier exemple de guerre a été remise en question.
+
+Société et culture
+
+Économie 
+Le coût financier du traumatisme est double avec à la fois le montant d'argent dépensé pour le traitement du traumatisme et à la fois la perte de gain économique potentiel en raison de l'absence du travail. Le coût financier moyen du traitement des traumatismes aux États-Unis est d'environ  par personne, ce qui le rend plus coûteux que le traitement du cancer et des maladies cardiovasculaires. L'une des raisons du coût élevé du traitement des traumatismes est la possibilité accrue de complications, ce qui conduit à la nécessité de recourir à davantage d'interventions. Le maintien d'un centre de traumatologie est coûteux car il est ouvert en permanence et maintient un état de préparation pour recevoir des patients, même s'il n'y en a pas. En plus des coûts directs du traitement, il y a aussi un fardeau sur l'économie en raison de la perte de salaire et de productivité, qui en 2009, représentait, aux États-Unis, environ 694 milliards de dollars.
+
+Pays en développement 
+Les citoyens des pays en développement ont souvent des taux de mortalité par traumatisme plus élevés. Ces pays représentaient 89% de tous les décès dus à des blessures dans le monde. Beaucoup de ces pays n'ont pas accès à des soins chirurgicaux suffisants et beaucoup n'ont pas de système de traumatologie en place. En outre, la plupart des pays en développement ne disposent pas d'un système de soins préhospitaliers, ce qui fait que la plupart des blessés sont transportés par des véhicules privés. De plus, leurs hôpitaux manquent d'équipement approprié, de ressource organisationnelle et du personnel formé.
+
+Populations spécifiques
+
+Enfants 
+
+En raison de différences anatomiques et physiologiques, les blessures chez les enfants doivent être abordées différemment de celles des adultes. Les accidents sont la principale cause de décès chez les enfants de 1 à 14 ans. Aux États-Unis, environ seize millions d'enfants se rendent chaque année aux urgences en raison d'une blessure. Les garçons sont plus fréquemment blessés que les filles dans un sex-ratio de 2:1. Les cinq blessures non intentionnelles les plus courantes chez les enfants, dans le monde en 2008, sont les accidents de la route, les noyades, les brûlures, les chutes et les intoxications.
+
+L'estimation du poids est un élément important de la gestion des traumatismes chez les enfants, car le dosage précis du médicament peut être essentiel pour les efforts de réanimation. Il existe un certain nombre de méthodes pour estimer le poids, y compris le ruban Broselow, la formule de Leffler et la formule de Theron.
+
+Grossesse 
+Le traumatisme survient dans environ 5% de toutes les grossesses, et est la principale cause de décès maternel. De plus, les femmes enceintes peuvent présenter un décollement placentaire, un travail prématuré et une rupture utérine. Il y a des problèmes de diagnostic pendant la grossesse; Il a été démontré que les rayonnements ionisants provoquent des anomalies congénitales bien que les doses utilisées pour les examens typiques soient généralement considérées comme sûres. En raison des changements physiologiques normaux qui se produisent pendant la grossesse, le choc hémorragique peut être plus difficile à diagnostiquer. Lorsque la femme est enceinte de plus de 23 semaines, il est recommandé de surveiller le fœtus pendant au moins quatre heures par cardiotocographie.
+
+Un certain nombre de traitements au-delà des soins traumatologiques typiques peuvent être nécessaires lorsque la patiente est enceinte. Étant donné que le poids de l'utérus sur la veine cave inférieure peut diminuer le retour du sang vers le cœur, il peut être très bénéfique de coucher une femme en fin de grossesse sur son côté gauche. Il est également recommandées d'administrer les immunoglobulines anti-D chez les celles rhésus négatives et les corticostéroïdes chez celles qui sont entre 24 et 34 semaines et qui sont sur le point d'accoucher naturellement ou non. Ce traitement et le même pour celles qui subissent une césarienne à cause d'un arrêt cardiaque.
+
+Recherche 
+La plupart des recherches sur les traumatismes ont eu lieu pendant la guerre et les conflits militaires en raison de l'augmentation des dépenses de recherche sur les traumatismes afin de prévenir les décès liés au combat. Certaines recherches sont en cours sur des patients qui ont été admis dans une unité de soins intensifs ou un centre de traumatologie et qui ont subi un traumatisme qui a entraîné un changement négatif dans leur qualité de vie liée (anxiété, dépression...). De nouveaux produits sanguins conservés font également l'objet de recherches pour une utilisation dans les soins préhospitaliers; il n'est pas pratique d'utiliser les produits sanguins actuellement disponibles en temps opportun dans les régions éloignées, rurales ou sur les théâtres de guerre.
+
+Les références
+
+Bibliographie
+
+Lectures complémentaires
+
+Liens externes 
+
+ International Trauma Conferences (organisme de bienfaisance enregistré en traumatologie fournissant une éducation aux traumatismes pour les professionnels de la santé du monde entier)
+ Trauma.org (ressources de traumatologie pour les professionnels de la santé)
+ Recherche et perspectives en médecine d'urgence (vidéos sur les procédures de médecine d'urgence)
+ Société américaine de traumatologie
+ Journal scandinave de traumatologie, de réanimation et de médecine d'urgence
+
+Cause de décès
+Traumatologie
+Urgence médicale
+Pages avec des traductions non relues

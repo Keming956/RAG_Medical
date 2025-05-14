@@ -1,0 +1,22 @@
+Un flotteur est un réservoir fermé étanche semblable à un réservoir sous pression, destiné à assurer la flottaison d'une structure sur l'eau suivant le principe de la poussée d'Archimède : sa masse est inférieure à celle de son volume équivalent en eau. Il se distingue de la coque d'un navire sur les deux aspects suivants : dépourvu de performance hydrodynamique, son coefficient de traînée n'est pas spécialement optimisé (à l'exception des dériveurs multicoques type « catamaran », cf. infra) ; d'autre part, il n'est pas censé embarquer d'équipement ou de matériel : il ne contient qu'un fluide moins dense que l'eau. Il faut également distinguer le flotteur du ballast, dispositif qui, par échange de fluide, peut être considéré comme un flotteur réglable. Les flotteurs sont principalement utilisés pour la signalisation nautique, les trains d’amerrissage des hélicoptères et hydravions, les pontons flottants, les dromes pare-embâcles et certaines techniques de renflouement d'épaves.
+
+Applications
+Les flotteurs constituent les coques multicellulaires des catamarans et des trimarans, et assurent la flottaison des hydravions et maisons flottantes. Ils servent aussi aux appontements, jetées et estacades flottantes, ainsi que pour ancrer des structures au fond de lac ou de rivières (aérateurs, balises flottantes, amarrages). Enfin, ont utilise des flotteurs gonflables en construction navale ou en renflouement, pour remettre à flot une coque.
+
+Au cours de la Deuxième guerre mondiale, le corps américain du génie a mis au point pour les Seabees un caisson flottant modulaire. C'était un assemblage constitué de cornières et de plats en acier pré-percés, tout à fait semblable au Meccano. Ces éléments ont grandement facilité les opérations amphibies, en particulier le débarquement en Sicile qui semblait impossible. C'est sur ce type de structure que Patton a traversé le Rhin et fait débarquer ses Marines à Okinawa. Il seront encore employés avec succès en Corée à Incheon (1950) puis au Liban en 1958.
+
+Fabrication 
+
+Les flotteurs pour l'industrie navale sont le plus souvent en acier, tandis que ceux destinés aux usages nautiques ou aéronautiques sont typiquement en plastique à renfort de verre injecté. Pour les activités nautiques de plaisance, l'emploi du contreplaqué, voire de bois traditionnel, renforcé ou non de chevilles en métal, conserve une certaine faveur.  Enfin en modélisme, les amateurs taillent souvent eux-mêmes des pièces de bois en creux, qu'ils peuvent injecter de mousse autogonflante.
+
+Voir également 
+Navire semi-submersible
+Outrigger
+Bouée
+Rafting
+ Caisson
+
+Notes 
+
+Hydraulique
+Dispositif mécanique

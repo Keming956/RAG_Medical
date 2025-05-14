@@ -1,0 +1,27 @@
+A Medication Administration Record (MAR, or eMAR for electronic versions), commonly referred to as a drug chart, is the report that serves as a legal record of the drugs administered to a patient at a facility by a health care professional.  The MAR is a part of a patient's permanent record on their medical chart. The health care professional signs off on the record at the time that the drug or device is administered.
+
+Format
+The actual chart varies from hospital to hospital and country to country. However they are typically of the format:
+ Administrative/Demographics
+ Patient Name (often Surname, First name or similar)
+ Treating team details
+ Allergies
+ Other, variable – weight, special diet, oxygen therapy, application time of topical local anaesthetic e.g. EMLA
+ Prescription Details
+ Drug name
+ Dosage strength
+ Route
+ Frequency
+ Medication indication / Diagnosis
+ Prescribing doctor details, signature
+ Day by day chart where carers/nurses administering medications can sign when medication has been given
+
+Kardex
+A kardex (plural kardexes) is a genericised trademark for a medication administration record.  The term is common in Ireland and the United Kingdom. In the Philippines, the term is used to refer the old census charts of the charge nurse usually used during endorsement, in which index cards are used, but has been gradually been replaced by modern health data systems and pre-printed charts and forms. The term derives from an early purveyor of recording cards. American Kardex.
+
+See also
+Personal health record
+
+References 
+
+Medical records

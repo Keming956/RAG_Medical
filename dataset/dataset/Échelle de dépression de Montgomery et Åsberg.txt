@@ -1,0 +1,16 @@
+L'échelle de dépression de Montgomery et Åsberg (MADRS pour ) est un questionnaire diagnostique à 10 éléments utilisé pour évaluer la sévérité de la dépression chez des patients souffrant de troubles de l'humeur. Elle a été conçue en 1979 par Stuart Montgomery et  comme un complément à l'échelle de dépression de Hamilton qui serait plus sensible aux effets des antidépresseurs et autres traitements. Une forte corrélation entre les résultats des deux échelles a cependant été démontrée. Une version auto-évaluée est souvent utilisée par les médecins, avec des résultats proches de ceux obtenus par les praticiens.
+
+Interprétation 
+Plus le score est élevé, plus la dépression est sévère. Le score peut aller de 0 à 60.
+
+Les sous-groupes couramment utilisés sont :
+de 0 à 6 points : patient sain
+de 7 à 19 points : dépression légère 
+de 20 à 34 points : dépression moyenne
+> 34 points : dépression sévère.
+
+Notes et références 
+
+Diagnostic en psychiatrie
+Échelle en médecine
+Dépression (psychiatrie)

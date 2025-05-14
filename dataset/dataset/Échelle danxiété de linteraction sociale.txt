@@ -1,0 +1,43 @@
+L'Échelle d'anxiété de l'interaction sociale (ou Social Interaction Anxiety Scale - AVS), est une échelle basée sur les déclarations personnelles qui mesure la détresse lors de la rencontre et du dialogue avec les autres ; elle est largement utilisée dans les milieux cliniques, et par les chercheurs sur l'anxiété sociale. La mesure évalue le trouble de l'anxiété sociale qui correspond à la peur, ou à l'anxiété, au sujet de l'une, ou plusieurs, des situations sociales auxquelles l'individu est soumis.
+
+Questions détaillées, notation et interprétation 
+Les questions du SIAS évaluent la peur d'interagir dans des situations sociales, mesure les aspects émotionnels de la réaction d'anxiété, et ne se rapporte pas à l'appréhension sociale ou à la préoccupation des opinions des autres dans un sens général. Bien que liées, l'anxiété d'interaction sociale est différente de la phobie sociale, laquelle est définie comme l'anxiété correspondant à la peur d'être examiné dans le contexte d'une situation sociale.
+
+L'échelle contient 20 items. Le candidat note combien chaque item lui correspond, sur une échelle de 5 points, comme suit :
+ 0 points : Pas du tout caractéristique de moi
+ 1 point : Légèrement caractéristique de moi
+ 2 points : Modérément caractéristique de moi
+ 3 points : Très caractéristique de moi
+ 4 points : Extrêmement caractéristique de moi
+Les points correspondant aux choix de réponses sont ensuite additionnés pour produire un score total.
+
+Les items de l'échantillon incluent : "je m'inquiète de ne pas savoir quoi dire dans des situations sociales", ou : "je suis tendu dans un groupe".
+
+Utilisation clinique 
+Le SIAS mesure l'anxiété de l'interaction sociale, qui se réfère à la détresse lors de la rencontre et de la discussion avec d'autres personnes, qu'ils soient amis, membres de l'autre sexe, ou étrangers. Les principales préoccupations sont les craintes de ne pas arriver à s'exprimer, d'être ennuyeux, de paraître stupide, de ne pas savoir quoi dire ou comment réagir, et d'être ignoré. L'échelle évalue spécifiquement l'anxiété vécue lors de l'interaction avec les autres, pas de la phobie sociale, qui est plus spécifiquement la peur d'être scruté lors de l'exécution d'une tâche, ou d'être observé par les autres. Le SIAS est similaire à l'Échelle de Phobie Sociale, qui est une mesure évaluant spécifiquement la phobie sociale. Toutefois, bien que la mesure n'ait pas été créée pour mesurer particulièrement la phobie sociale, les personnes souffrant de phobie sociale obtiennent des scores élevés au SIAS, étant donné que la phobie sociale et l'anxiété de l'interaction sociale sont liées.
+
+La mesure est capable de discriminer une population normale d'une population qui fait l'expérience de l'anxiété de l'interaction sociale, en donnant une utilité clinique substantielle. Elle peut être utilisée dans les cliniques sur la base de déclarations personnelles, comme outil de dépistage. Le SIAS discrimine l'anxiété sociale de l'anxiété générale, et de la détresse générale. Au-delà de l'identification des personnes qui éprouvent une certaine forme d'anxiété sociale, l'échelle peut discriminer les catégories d'anxiété sociale. Les patients atteints de phobie sociale ont des scores plus élevés au SIAS que les autres patients souffrant d'un autre trouble de l'anxiété, tels que le trouble d'anxiété généralisée, ou qui n'ont pas de trouble. En outre, les patients atteints de trouble panique et d'agoraphobie ont des scores plus élevés que les patients atteints de phobie spécifique.
+
+Fiabilité et validité 
+Les scores du SIAS suivent une distribution normale ; les personnes ayant une anxiété de l'interaction sociale obtiennent les scores les plus élevés, ce qui soutient le point de vue selon lequel l'échelle identifie la peur générale concernant les interactions sociales.
+
+Fiabilité 
+Évaluée par le coefficient alpha de Cronbach, le SIAS montre des niveaux élevés de cohérence interne ce qui signifie que les différents items du test sont corrélés. En outre, l'échelle a une haute fiabilité test-retest, étant donné qu'il continue d'identifier correctement l'anxiété sociale et la phobie après une certaine période de temps.
+
+Validité 
+L'échelle a une haute validité discriminante ; il est non seulement capable de discriminer les personnes souffrant de phobie sociale et des volontaires en bonne santé (validité inter-catégorielle), mais il est aussi capable de discriminer les différents types de phobie sociale et d'anxiété (validité intra-catégorielle). Le SIAS est significativement corrélé avec l'Échelle de Phobie Sociale, en accord avec l'observation que l'interaction sociale, les peurs et les phobies sociales de l'examen de Soi co-existent, même s'il s'agit encore de deux différents ensembles de symptômes. Elle est fortement liée à d'autres mesures connexes de l'anxiété sociale et la phobie sociale notamment l'Échelle d'anxiété sociale de Liebowitz, le Mini-inventaire de Phobie Sociale, l'Échelle de l'évaluation négative de la peur, l'Échelle de l'évaluation positive de la peur, et l'Échelle de l'interaction anxieuse. En outre, il existe des corrélations de modérées à fortes entre le SIAS et d'autres échelles testant la peur, la dépression, et le locus de contrôle, qui sont tous liés à l'anxiété sociale.
+
+En outre, le SIAS répond aux changements et aux améliorations des symptômes dus au traitement.
+
+Limitations 
+Bien que le SIAS soit largement utilisé en psychologie clinique, il ne s'en limite pas. Étant donné que l'échelle est basée sur l'auto-déclaration, les sujets sont capables de falsifier des réponses afin d'être socialement désirables. En outre, la plupart des items de l'échelle sont cotés dans la même direction, laissant de la place pour les biais de réponse. Il est également difficile de discriminer les craintes de quelqu'un qui éprouve de l'anxiété sociale des soucis généraux d'un patient souffrant de trouble d'anxiété généralisée, car les patients qui souffrent de ces deux troubles obtiennent des scores plus élevés au SIAS que les personnes présentant seulement des phobies sociales.
+
+Le SIAS est fortement corrélé avec le SPS, ce qui suggère que les sujets ne peuvent pas faire de distinction entre les types de situations évaluées dans les deux échelles. Toutefois, cette limitation n'est pas présente chez les étudiants de premier cycle (préparant une Licence universitaire) ou chez les patients atteints de phobie sociale.
+
+Le SIAS n'a pas été évalué raisonnablement dans la population afro-américaine, ce qui est nécessaire étant donné certaines préoccupations soulevées dans le SIAS ; la perception du contrôle que les autres feraient à propos de Soi peut être associée au fait d'être un membre d'un groupe minoritaire.
+
+Références 
+
+Test psychopathologique
+Pathologie en psychiatrie par groupe diagnostique
+Test de personnalité

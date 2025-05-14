@@ -1,0 +1,93 @@
+Bell’s mania, also known as delirious mania, refers to an acute neurobehavioral syndrome. This is usually characterized by an expeditious onset of delirium, mania, psychosis, followed by grandiosity, emotional lability, altered consciousness, hyperthermia, and in extreme cases, death. It is sometimes misdiagnosed as excited delirium (EXD) or catatonia due to the presence of overlapping symptoms. Pathophysiology studies reveal elevated dopamine levels in the neural circuit as the underlying mechanism. Psychostimulant users as well as individuals experiencing severe manic episodes are more prone to the manifestation of this condition. Management solutions such as sedation and ketamine injections have been discussed for medical professionals and suffering individuals. Bell's mania cases are commonly reported in countries like the United States and Canada and are commonly associated with psychostimulant use and abuse.
+
+Clinical features 
+The majority of Bell’s mania cases studied are triggered by psychostimulant drug usage or preexisting medical or neurological conditions, which impedes the apprehension of this syndrome.  Hence at present, there is still no scientific consensus on the clinical features of Bell’s mania. Researchers are currently working on varying case studies to derive common clinical characteristics. Some frequent signs and symptoms include acute onset of delirium, mania or psychosis. Patients suffering from Bell’s mania have fluctuating severity of symptoms over time with altered consciousness and emotional lability. They tend to be excited, agitated, paranoid, delusional and alarmed. They display impulsive, hostile and destructive behavior towards others that can last for hours to days, as well as unexpected physical strength. Catatonic symptoms such as grimacing, echopraxia, negativism, echolalia and stereotypy are often present. Impaired concentration, memory loss, disorientation, insomnia, auditory and visual hallucinations are additional symptoms that follow. There are shifts from having loud and disorganized speech to mutism.  Some typical physiological signs include hyperthermia, tachycardia, hypertension, and hyperventilation.
+
+Diagnosis 
+This condition is currently not recognized as a diagnosable issue by psychiatric journals such as the Diagnostic and Statistical Manual of Mental Disorders-IV by the American Psychiatric Association or the tenth revision of the International Statistical Classification of Diseases and Related Health Problems by World Health Organization (WHO).
+
+Physical examination 
+When examined, patients with Bell’s mania fail to recall names, recent experiences and are poorly oriented for location, date, and time. Moreover, their blood pressure and respiratory rate are increased. Additionally, mental status examination using questionnaires and three diagnostic tests are taken, including drawing a clock-face, The Face-Hand test and Hidden figures tests. Patients suffering from Bell’s mania tend to make obvious mistakes in these tests, for instance drawing a clock-face with incorrect numbering or missing clock hands.
+
+Differential diagnosis 
+Upon acute onset of the symptoms, an instant investigation for a toxic or systemic cause is undertaken. Prominence of thought disorder, grandiosity and delusional ideation, and catatonic signs indicates the diagnosis of acute schizophrenia, bipolar disorder and catatonia respectively. Diagnostic complications arise as these signs are also often the notable feature of Bell’s mania. With the cause undetermined, Bell’s mania diagnosis is usually justified with the presence of both mania and delirium regardless of the catatonic symptoms.
+
+Distinguishing between Bell's mania and catatonia 
+Bell’s mania and catatonia are regarded as "overlapping syndromes", making differential diagnosis essential when catatonic signs are observed. Thus, researchers must distinguish between excited catatonia and Bell’s mania, and among malignant catatonia, excited catatonia, and neuroleptic malignant syndrome (NMS). When catatonic features are prominent, it is diagnosed as excited catatonia and when absent or subtle, it is identified as Bell’s mania. Alternatively, the presence of delirium is recognized as the discerning factor. A difference between the two is that catatonia is viewed from a movement aspect, whereas delirium from consciousness.
+
+Nevertheless, a formal set of diagnostic criteria is required to distinguish between Bell’s mania and catatonia. Failure to diagnose Bell’s mania appearing as catatonia could lead to deleterious consequences and, in worse cases, death.
+
+Pathophysiology 
+Dopamine is the primary neurotransmitter involved in the pathophysiology of Bell’s mania. Elevated dopamine levels in the neural circuit concerned with neuropsychiatric disorders are postulated to be responsible for the manic and psychosis symptoms and other signs, including fluctuations in body temperatures and fear. Increased extracellular dopamine levels can be caused by low levels of dopaminergic transporters, sensitization of postsynaptic dopaminergic receptors, and dopamine transporters dysfunction.
+
+Role of genetics and signaling pathways 
+Mania is a prominent symptom of both bipolar disorder and Bell's mania. Hence, studying bipolar patients can provide insight into the pathophysiology of this Bell's mania. PET scans of manic patients illustrate anomalous activation of the dorsal anterior cingulate, right inferior frontal cortical regions. Manic symptoms exacerbate with increasing anterior cingulate activation, which is posited to be associated with escalating dopamine transmission in the nucleus accumbens.
+
+Dopamine transporter regulates the reuptake of dopamine to keep the synaptic dopamine levels within normal range. Hence, the elevation of such transporter levels in the striatum decreases neurotransmission. Genetic studies have hypothesized a relationship between low transporter protein levels and the gene for dopamine transporter in bipolar affective patients.
+
+Stimulant elicited responses
+
+Sensitization of postsynaptic dopaminergic receptors 
+
+External sources contributing to the hypothesized hyperdopaminergic mechanism include psychostimulants like cocaine. These substances provoke behavioral changes similar to mania. In chronic users, drug sensitization occurs which induces increased neurotransmission and modified protein expression within the mesolimbic dopamine neurons. Adaptations in dopamine transporters is further triggered causing behavioral sensitization. This phenomenon is not distinct to drug abuse but also other psychomotor stimulants such as stress.
+
+Dopaminergic transporters dysfunction 
+Dopaminergic transporters dysfunction is caused by acute mania of bipolar disorder, psychostimulant use, and environmental stress. It is suggested to be common mechanism in excited delirium (EXD). EXD is commonly observed in psychostimulant abusers as these drugs directly impact the dopaminergic transporters, increasing the extracellular dopamine levels.
+
+Amplified excitation of the dopaminergic systems can induce extreme fear and magnify both approach and avoidance behaviors. The hyperdopaminergic state triggers aggression, agitation and psychomotor excitement. Additionally, CNS dopamine signaling is active in heart rate, respiration and body temperature regulation. Dopamine imbalance can hence result in hyperthermia, tachycardia, hyperventilation, hypertension and sleep disturbance symptoms.
+
+Risk Factors 
+Given that hyperdopaminergic state is postulated to be the underlying mechanism of Bell’s Mania, people prone to dopamine imbalance, sensitization and low levels of dopamine transporters are susceptible.  Furthermore, this syndrome is usually precipitated from prevailing neurological and physiological conditions. Hence, those at risk include
+
+ Psychostimulant users and abusers
+ Patients who are drug withdrawal states or are non-compliant with psychotropic drugs  
+ Undiagnosed/ untreated psychiatric patients
+ People suffering from severe manic episodes
+ Sleep deprivation which can trigger and even worsen acute manic episodes
+ People with medical history of neurological and physiological conditions
+
+Treatment and Management 
+Whilst the scope of Bell’s Mania is extensively studied, there remain some significant challenges that need to be solved with respect to treatment and management.
+
+Recognition 
+Over the course of time the significance of this syndrome has been increasingly recognized in correspondence to the manner of death, specifically because the anatomic cause of death is hard to define during autopsy. Recent studies have elicited neurochemical imbalances resulting in autonomic hyperactivity and increase in dopamine levels in the victims. Emergency personnel need to recognize these symptoms promptly to avoid the individual from spiraling into metabolic acidosis, rhabdomyolysis, multiorgan failure and ultimately death. In light of the clinical findings, some treatments have been described which include effective sedation, followed closely by external cooling, monitoring medical complications and the administration of intravenous (IV) fluids.
+
+Rapid Sedation 
+One management technique is rapid sedation in view of the unpredictable aggressive nature of the patient suffering from Bell’s Mania, especially if the symptoms that need to be handled are associated with the causes like dopamine regulation. Turning off the catecholamine cascade and rapidly sedating the patient using several sedatives like Benzodiazepines or Neuroleptics can help. Several studies also point at the increased effectiveness of combination of two or more sedatives in the treatment of hyper agitated patients.
+
+Intramuscular Ketamine Injections 
+Patients suffering from bell's mania may not have optimum time for the sedatives to start showing effect. Due to this fact, electroconvulsive therapy and Intramuscular Ketamine injections are alternative solutions that have been proposed. With an onset time of 30 seconds to 4 minutes ketamine proves to be more effective than Benzodiazepines. Although adult data on the use of Ketamine on patients isn't readily available, a study by Strayer et al concluded that the use of ketamine for controlling the hyperactivity was reliable and can further facilitate other management techniques with fewer side effects.
+
+Other Preventative Measures 
+Along with sedation techniques, a few other prevention and protection measures can decrease fatal outcomes, some of which are:
+
+ management of catecholamine cascade, 
+ basic medical monitoring of bodily functions, 
+ blood tests, 
+ physical examination and 
+ rapid cooling of the body temperature.
+
+The urgency and medical severity of the condition needs to be given impetus in terms of handling patients with Bell's Mania. Due to the homologous nature of this syndrome with malignant hyperthermia (MH) and neuroleptic malignant syndrome (NMS), Dantrolene is also a probable treatment route owing to its swift acidosis correction. Although more research is needed in correspondence to the cause and consequences of this disease, the significance of the behavioral and physical symptoms  need to be given importance to provide medical institutions as well the constabulary the necessary information to respond to Bell’s Mania appropriately.
+
+Epidemiology 
+The first case of Bell’s Mania was observed by medical examiners during the cocaine epidemic in countries like the United States of America and Canada with some other cases being related to police brutality and restraint. The term Bell’s Mania was first coined to describe the clinical condition with a 75% mortality rate. The prevalence of this condition ranges from 15% to 25% in the society and, is not an infrequent occurrence.
+
+History
+
+First mention of Bell's Mania 
+Bell's Mania is a syndrome with unexplained etiology which was first explained by American psychiatrist Luther Bell in the 1850's after observing institutionalized psychiatric patients. The first clinical reports and descriptions of people suffering from acute exhaustive mania and delirium were provided by a few psychiatrists in the United States of America, France and the United Kingdom. The description of the symptoms seemed to be quite similar to that of schizophrenic patients (hallucinations and delirium) however additional hyperactivity, heightened arousal, and altered sleep cycle was also reported in patients with Bell’s Mania.
+
+First Appearance of Related Symptoms 
+The suggestive symptoms of this disorder were first observed in the 19th century, out of which some of the most significant ones are the onset of aggression, bizarre behavior, violence, excessive shouting, panic, paranoia and increase in body temperature. In 1934, Stauder described a series of acute onset of psychomotor agitation in young people with no history of physical or psychological disturbances.  He termed this description as Lethal Catatonia. Other reasons for the manifestation of Bell’s Mania, points at the use of stimulant drugs in excessive amounts and also psychiatric diseases like depression or schizophrenia.
+
+In 1985, Bell’s Mania was first mentioned in a definitive manner using the term Excited Delirium (EXD). Prior to that year, most cases of death by cocaine intoxication during the cocaine epidemic that happened in a sudden manner. This involved the exposure to highly toxic amounts of the drug due to the bursting of cocaine packets being carried within the body by “body stuffers”. In the same year a series of observations were made by Welti and Fishbain regarding psychosis, cardiorespiratory arrest and sudden death in individuals with cocaine addiction. Since the law enforcement were often called to contain violent behavior exhibited by these individuals. It was speculated that police brutality might be the underlying cause of the misshapen. Upon medical review of the cases related to the use of batons, pepper sprays and restraint methods did not disclose any autonomic cause behind the death, albeit problems like cardiac diseases and trauma was excluded from the extensive evaluation.
+
+See also 
+ Excited Delirium
+ Stimulant Psychosis
+Adrenergic storm
+
+References 
+
+Neuroscience
+Neurology

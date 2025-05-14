@@ -1,0 +1,68 @@
+The Quality of Life In Depression Scale (QLDS), originally proposed by Sonja Hunt and Stephen McKenna, is a disease specific patient-reported outcome which assesses the impact that depression has on a patient's quality of life. It is the most commonly used measure of quality of life in clinical trials and studies of depression.  The QLDS was developed as a measure to be used in future clinical trials of anti-depressant therapy.  
+
+It is a 34 item self-rated questionnaire which consists of dichotomous response questions, with the response being either True/Not True. It is scored binomially (0-1) with higher scores on the QLDS indicating a lower quality of life. Several tests of construct validity and internal consistency have found the QLDS to be a good measure of quality of life.
+
+
+
+Needs-based model  
+
+The QLDS is built around the generally accepted assumption that one's quality of life can only be assessed subjectively. Quality of life tends to be greatly influenced by factors such as depression, anxiety, tension or fatigue.
+
+The QLDS is based around the needs-based model of quality of life. This is derived from the assumption that quality of life is dependent on a person’s ability to fulfil particular human needs.   The QLDS questions centre around a number of needs that were considered crucial in order to suffice a high quality of life. These include but are not limited to; food, sleep, sex, safety, love, enjoyment, self-esteem and self-actualization. 
+
+The QLDS uses a two-point response system with either True or Not True. The high number of items in the questionnaire allows the detection of moderately minor changes in quality of life. 
+
+Items on the QLDS are given a score of 1 when the question is applicable to the respondent and 0 when it is not applicable. The items are totalled to give a score ranging from 0-34.  Low scores act as an indicator towards a high quality of life.
+
+Development 
+
+The QLDS was developed by Galen Research in 1992 and was funded by Lilly Industries. It was developed in the United Kingdom in conjunction with the Netherlands. The QLDS was the first quality of life instrument to be developed in 2 languages simultaneously.   The development of the QLDS coincided with a rising interest on the impact of illness and its treatment on the quality of life of the patient. McKenna and Hunt constructed the QLDS on the basis of providing a measure for this, as well as attempting to overcome contemporary studies concerning low correlations between patient self-assessment and nurse or therapist evaluations.   
+
+The items in the UK English QLDS were derived from statements made in qualitative interviews by 30 depressed or recently recovered patients based in the North West of England and Scotland. Interviews took a conversational approach and lasted between 30 minutes to 2 hours. Interviewees were between the age range of 19-64 years, with 22 females and 8 males. After a refinement process, based on categories of needs proposed by McKenna and Hunt, 426 relevant statements were derived from the interview transcripts. Upon further scrutinization they produced 41 statements for an initial questionnaire. 
+
+A further 35 patients were asked to complete the draft questionnaire and review their experience with it. They were composed of 22 females and 13 males in the age range of 24-72 years. Interviewees expressed a great degree of approval with the questionnaire, although a few mentioned how the binomial system caused difficulty, as it required them to make complete choices. 
+
+Following this, the questionnaire was revised to 34 items and field tested to determine construct validity and reliability.
+
+International development 
+
+The first two languages the QLDS was available in were UK English and Dutch. These were shown to have good reliability, validity and responsiveness.  In 1999, McKenna in collaboration with a team of international researchers developed and tested the QLDS in 9 new languages. This involved translation, followed by field testing for content validity and the new measure's construct validity. 
+
+Across the majority of translations, no major difficulties arose excluding Morocco. Cultural differences between Morocco and the UK provided challenge, alongside a lack of literal equivalents between the two languages. An example of this is the absence of an equivalent for the verb 'to enjoy' in Arabic. Researchers also faced further difficulty due to the contemporarily high rate of illiteracy, as the test could not be self-administrative on as large a scale as anticipated. As a result, although the data demonstrated both reliability and construct validity, they were unable to place confidence in the Arabic adaptation's equivalence to the other developed versions.
+
+Reliability, validity and responsiveness
+
+Testing the Anglo-Dutch project
+
+Following the collaborative Anglo-Dutch project, researchers had to compare the QLDS’ success with established measures of the same concept. No measure of quality of life in depression was available so both versions had to be matched to related measures. In the UK this was the General Well-Being Index (GWBI) whilst in the Netherlands the Sickness Impact Profile (PS-SIP) acted as a comparison.
+
+Reliability and internal consistency 
+
+For use in a clinical trial, an instrument like the QLDS should have a test-retest reliability coefficient of minimum 0.85. Internal consistency also requires a minimum of 0.85 and is assessed using Cronbach’s alpha-coefficient.   
+
+In the UK, the test-retest correlation coefficient for patients with stable depression was 0.94 (n=37). The test-retest correlation coefficient in the Netherlands was 0.87 (n=33).   
+
+For internal consistency the UK recorded a value of 0.95 and the Netherlands a value of 0.92. These results suggested the QLDS produced a low degree of measurement error and high internal consistency.
+
+Content and construct validity 
+
+No missing items applicable to participants were recognised. The relevancy and ease of completion indicated by field-test interviews suggested the high content validity of the QLDS.
+
+The QLDS and GWBI had a correlation score of 0.79 in the UK (n=65). The Dutch adaptation had a correlation of 0.71 with the PS-SIP (n=77). These measurements were anticipated to be slightly lower due to the difference of purpose between measures.
+
+Responsiveness 
+
+The QLDS’ responsiveness was analysed in a general practice population of 540 patients with major depression. Over a 6-month period, substantial progress in the level of depression was seen.   
+
+8 weeks into treatment the mean QLDS score rose by 68%, with patients who continued treatment for the full 6-months recording an increase of 78%. The QLDS was concluded by the researchers to be responsive to change in quality of life throughout successful pharmacological depression treatment.
+
+International use 
+
+Since its development, the QLDS has been adapted and validated in 17 languages other than UK English, including Norwegian, Spanish,  Danish, French, German and Italian.  This has allowed the QLDS to be used in research and clinical studies worldwide. 
+
+Studies utilizing the QLDS include investigations into venlafaxine, duloxetine and bupropion.
+
+References 
+
+Rating scales for depression
+Patient reported outcome measures

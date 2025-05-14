@@ -1,0 +1,155 @@
+Childhood trauma is often described as serious adverse childhood experiences (ACEs). Children may go through a range of experiences that classify as psychological trauma; these might include neglect, abandonment, sexual abuse, emotional abuse, and physical abuse, witnessing abuse of a sibling or parent, or having a mentally ill parent. These events have profound psychological, physiological, and sociological impacts and can have negative, lasting effects on health and well-being such as unsocial behaviors, attention deficit hyperactivity disorder (ADHD), and sleep disturbances. Similarly, children with mothers who have experienced traumatic or stressful events during pregnancy can increase the child's risk of mental health disorders and other neurodevelopmental disorders. Kaiser Permanente and the Centers for Disease Control and Prevention's 1998 study on adverse childhood experiences determined that traumatic experiences during childhood are a root cause of many social, emotional, and cognitive impairments that lead to increased risk of unhealthy self-destructive behaviors, risk of violence or re-victimization, chronic health conditions, low life potential and premature mortality. As the number of adverse experiences increases, the risk of problems from childhood through adulthood also rises. Nearly 30 years of study following the initial study has confirmed this. Many states, health providers, and other groups now routinely screen parents and children for ACEs.
+
+Health 
+
+Traumatic experiences during childhood causes stress that increases an individual's allostatic load and thus affects the immune system, nervous system, and endocrine system. Exposure to chronic stress triples or quadruples the vulnerability to adverse medical outcomes. Childhood trauma is often associated with adverse health outcomes including depression, hypertension, autoimmune diseases, lung cancer, and premature mortality. Effects of childhood trauma on brain development includes a negative impact on emotional regulation and impairment of development of social skills. Research has shown that children raised in traumatic or risky family environments tend to have excessive internalizing (e.g., social withdrawal, anxiety) or externalizing (e.g., aggressive behavior), and suicidal behavior. Recent research has found that physical and sexual abuse are associated with mood and anxiety disorders in adulthood, while personality disorders and schizophrenia are linked with emotional abuse as adults. In addition, research has proposed that mental health outcomes from childhood trauma may be better understood through a dimensional framework (internalizing and externalizing) as opposed to specific disorders.
+
+Psychological impact
+
+Childhood trauma can increase the risk of mental disorders including posttraumatic stress disorder (PTSD), attachment issues, depression, and substance abuse. Sensitive and critical stages of child development can result in altered neurological functioning, adaptive to a malevolent environment but difficult for more benign environments.
+
+In a study done by Stefania Tognin and Maria Calem comparing healthy comparisons (HC) and individuals at clinically high risk for developing psychosis (CHR), 65.6% CHR patients and 23.1% HC experienced some level of childhood trauma. The conclusion of the study shows that there is a correlation between the effects of childhood trauma and the being at high risk for psychosis.
+
+Effects on adults 
+As an adult feelings of anxiety, worry, shame, guilt, helplessness, hopelessness, grief, sadness and anger that started with a trauma in childhood can continue.  In addition, those who endure trauma as a child are more likely to encounter anxiety, depression, suicide and self harm, PTSD, drug and alcohol misuse and relationship difficulties.  The effects of childhood trauma don't end with just emotional repercussions.  Survivors of childhood trauma are also at higher risk of developing asthma, coronary heart disease, diabetes or having a stroke.  They are also more likely to develop a "heightened stress response" which can make it difficult for them to regulate their emotions, lead to sleep difficulties, lower immune function, and increase the risk of a number of physical illnesses throughout adulthood.
+
+Epigenetics 
+
+Childhood trauma can leave epigenetic marks on a child's genes, which chemically modify gene expression by silencing or activating genes. This can alter fundamental biological processes and adversely affect health outcomes throughout life.  A 2013 study found that people who had experienced childhood trauma had different neuropathology than people with PTSD from trauma experienced after childhood. Another recent study in rhesus macaques showed that DNA methylation changes related to early-life adversity persisted into adulthood.
+
+Three main mechanisms of epigenetic modification exist. The first is DNA methylation, which involves the transfer of a methyl group to the DNA base cytosine by DNA methyltransferases. Methylation acts as a protective cover, and most commonly suppresses gene expression through blocking the transcription factor from binding. The second mechanism is through histone modification, where specific modification patterns, in conjunction with other chromatin associated proteins, modify the structure of the chromatin and alter gene expression. Finally, non-coding small RNAs such as miRNAs can induce degradation and cleavage of target mRNA by binding to them via complementary sequences.
+
+Survivors of war trauma or childhood maltreatment are at increased risk for trauma-spectrum disorders such as post-traumatic stress disorder (PTSD). In addition, traumatic stress has been associated with alterations in the neuroendocrine and the immune system, enhancing the risk for physical diseases.  In particular, epigenetic alterations in genes regulating the hypothalamus–pituitary–adrenal axis as well as the immune system have been observed in survivors of childhood and adult trauma.
+
+Traumatic experiences might even affect psychological as well as biological parameters in the next generation, i.e. traumatic stress might have trans generational effects. Parental trauma exposure was found to be associated with greater risk for post-traumatic stress disorder (PTSD) and mood and anxiety disorders in offspring since biological alterations associated with PTSD and/or other stress-related disorders have also been observed in offspring of trauma survivors who do not themselves report trauma exposure or psychiatric disorder. Animal models have demonstrated that stress exposure can result in epigenetic alterations in the next generation, and such mechanisms have been hypothesized to underpin vulnerability to symptoms in offspring of trauma survivors. Enduring behavioral responses to stress and epigenetic alterations in adult offspring have been demonstrated to be mediated by changes in gametes in utero effects, variations in early postnatal care, and/or other early life experiences that are influenced by parental exposure (Yehuda, Daskalakis, Bierer, Bader, Klengel, Holsboer, and Binder, 2015).
+
+These changes could result in enduring alterations of the stress response as well as the physical health risk. Furthermore, the effects of parental trauma could be transmitted to the next generation by parental distress and the pre- and postnatal environment, as well as by epigenetic marks transmitted via the germline. While epigenetic research has a high potential of advancing our understanding of the consequences of trauma, the findings have to be interpreted with caution, as epigenetics only represent one piece of a complex puzzle of interacting biological and environmental factors.
+
+Reference
+ [?]
+
+Socioeconomic costs 
+The social and economic costs of child abuse and neglect are difficult to calculate. Some costs are straightforward and directly related to maltreatment, such as hospital costs for medical treatment of injuries sustained as a result of physical abuse and foster care costs resulting from the removal of children when they cannot remain safely with their families. Other costs, less directly tied to the incidence of abuse, include lower academic achievement, adult criminality, and lifelong mental health problems. Both direct and indirect costs impact society and the economy.
+
+Transgenerational effects
+
+People can pass their epigenetic marks including de-myelinated neurons to their children. The effects of trauma can be transferred from one generation of childhood trauma survivors to subsequent generations of offspring. This is known as transgenerational trauma or intergenerational trauma, and can manifest in parenting behaviors as well as epigenetically. Exposure to childhood trauma, along with environmental stress, can also cause alterations in genes and gene expressions. A growing body of literature suggests that children's experiences of trauma and abuse within close relationships not only jeopardize their well-being in childhood, but can also have long-lasting consequences that extend well into adulthood. These long-lasting consequences can include emotion regulation issues, which can then be passed onto subsequent generations through child-parent interactions and learned behaviors. (see also behavioral epigenetics, epigenetics, historical trauma, and cycle of violence)
+
+Resilience
+
+Exposure to maltreatment in childhood significantly predicts a variety of negative outcomes in adulthood. However, not all children who are exposed to a potentially traumatic event develop subsequent struggles with mental or physical health. Therefore, there are factors that reduce the impact of potentially traumatic events and protect an individual from developing mental health problems after exposure to a potentially traumatic event. These are called resiliency factors.
+
+Research regarding children who showed adaptive development while facing adversity began in the 1970s and continues to this day. Resilience is defined as “the process of, capacity for, or outcome of successful adaptation despite challenging or threatening circumstances." The concept of resilience stems from research that showed experiencing positive emotions had a restorative and preventive effect on the experience of negative emotions more broadly with regards to physical and psychological wellbeing in general and more specifically with reactions to trauma. This line of research has contributed to the development of interventions that focus on promoting resilience as opposed to focusing on deficits in an individual who has experienced a traumatic event. Resilience has been found to decrease risk of suicide, depression, anxiety and other mental health struggles associated with exposure to trauma in childhood.
+
+When an individual who is high in resilience experiences a potentially traumatic event, their relative level of functioning does not significantly deviate from the level of functioning they exhibited prior to exposure to a potentially traumatic event. Furthermore, that same individual may recover more quickly and successfully from a potentially traumatic experience than an individual who could be said to be less resilient. In children, level of functioning is operationalized as the child continuing to behave in a manner that is considered developmentally appropriate for a child of that age. Level of functioning is also measured by the presence of mental health disorders such as depression, anxiety, posttraumatic stress disorder, and so on.
+
+Factors that affect resilience 
+Factors that affect resilience include cultural factors like socioeconomic status, such that having more resources at one's disposal usually equates to more resilience to trauma. Furthermore, the severity and duration of the potentially traumatic experience affect the likelihood of experiencing negative outcomes as a result of childhood trauma. One factor that does not affect resilience is gender, with both males and females being equally sensitive to risk and protective factors. Cognitive ability is also not a predictor of resilience.
+
+Attachment has been shown to be one of the most important factors to consider when it comes to evaluating the relative resilience of an individual. Children with secure attachments to an adult with effective coping strategies were most likely to endure adverse childhood experiences (ACEs) in an adaptive manner. Secure attachments throughout the lifespan (including in adolescence and adulthood) appear to be equally important in fostering and maintaining resilience. Secure attachment to one's peers throughout adolescence is a particularly strong predictor of resilience. Within the context of abuse, it is thought that these secure attachments decrease the extent to which children who are abused perceive others as being untrustworthy. In other words, while some children who are abused might begin to view other people as being unsafe and unable to be trusted, children who are able to develop and maintain healthy relationships are less likely to hold these views. Children who experience trauma but also experience healthy attachment with multiple groups of people (in essence, adults, peers, romantic partners, etc.) throughout childhood, adolescence, and adulthood are particularly resilient.
+
+Personality also affects the development (or lack of development) of adult psychopathology as a result of childhood abuse. Individuals who scored low in neuroticism exhibit fewer negative outcomes, such as psychopathology, criminal activity, and poor physical health, after exposure to a potentially traumatic event. Furthermore, individuals with higher scores on openness to experience, conscientiousness, and extraversion have been found to be more resilient to the effects of childhood trauma.
+
+Enhancing resilience 
+One of the most common misconceptions about resilience is that individuals who show resilience are somehow special or extraordinary in some way. Successful adaptation, or resilience, is quite common among children. This is due in part to the naturally adaptive nature of childhood development. Therefore, resilience is enhanced by protecting against factors that might undermine a child's inborn resilience. Studies suggest that resiliency can be enhanced by providing children who have been exposed to trauma with environments in which they feel safe and are able to securely attach to a healthy adult. Therefore, interventions that promote strong parent-child bonds are particularly effective at buffering against the potential negative effects of trauma.
+
+Furthermore, researchers of resilience argue that successful adaptation is not merely an end result but rather a developmental process that is ongoing throughout a person's lifetime. Thus, successful promotion of resilience must also be ongoing throughout a person's lifespan.
+
+Prognosis
+Trauma affects all children differently (see stress in early childhood). Some children who experience trauma develop significant and long-lasting problems, while others may have minimal symptoms and recover more quickly. Studies have found that despite the broad impacts of trauma, children can and do recover, and that trauma-informed care and interventions produce better outcomes than “treatment as usual”. Trauma-informed care is defined as offering services or support in a way that addresses the special needs of people who have experienced trauma.
+
+Types of trauma
+
+Bullying 
+Bullying is any unprovoked action with the intention of harming, either physically or psychologically, someone who is considered to have less power, either physically or socially.  Bullying is a form of harassment that is often repeated and habitual, and can happen in person or online.
+
+Bullying in childhood may inflict harm or distress and educational harm that can affect the later stage of adolescence. Bullying involvement, as victim, bully, bully/victim, or witness, can threaten the well-being of children. Bullying can be a risk factor for the development of an eating disorder, it can impact the functioning of the HPA axis, and it can impact functioning in adulthood. It increases the risk for physical problems such as inflammation, diabetes, and heart risk, and mental health problems such as anxiety, depression, agoraphobia, panic disorder, substance abuse, and PTSD.
+
+Community violence
+Unlike bullying which is direct, trauma from community violence is not always directly perpetuated on the child, but is instead the result of being exposed to violent acts and behaviors in the community, such as gang violence, school shootings, riots, or police brutality. Community violence exposure whether direct, or indirect, is associated with many negative mental health outcomes among children and adolescents including internalizing trauma-related symptoms, academic problems, substance abuse, and suicidal ideation.
+
+Evidence also indicates that violence tends to beget more violence; children who witness community violence consistently show higher levels of aggression across developmental periods including early and middle childhood, as well as adolescence.
+
+Complex trauma 
+
+Complex trauma occurs from exposure to multiple and repetitive episodes of victimization or other traumatic events. Individuals who are exposed to multiple forms of trauma often display a wide range of difficulties compared to those who have only had one of few trauma exposures. For example, cognitive complications (dissociation), affective, somatic, behavioral, relational, and self-attributional problems have been seen in individuals who have experienced complex trauma.
+
+Disasters 
+Beyond the experience of natural and man-made disasters themselves, disaster-related traumas include the loss of loved ones, disruptions caused by disaster-caused homelessness and hardship and the breakdown of community structures.
+
+Exposure to a natural disaster is a highly stressful experiences that can lead to a wide range of maladaptive outcomes, particularly in children. Exposure to natural disaster constitutes a risk factor for poor psychological health in children and adolescents. Psychological symptoms tend to decline over time after the exposure, it is not a rapid process.
+
+Intimate partner violence 
+Similar to community violence, intimate partner violence-related trauma is not necessarily directly perpetuated on child, but can be the result of exposure to violence within the household, often of violence perpetuated against one or more caregivers or family members.  It is often accompanied by direct physical and emotional abuse of the child. Witnessing violence and threats against a caregiver during early years of life is associated with severe impacts on a child's health and development.
+
+Outcomes for children include psychological distress, behavioral disorders, disturbances in self-regulation, difficulties with social interaction, and disorganized attachment. Children who were exposed to interpersonal violence were more likely to develop long term mental health problems than those with non-interpersonal traumas. The impact of seeing intimate partner violence could be more serious for younger children. Younger children are completely dependent on their caregivers than older children not only for physical care but also emotional care. This is needed for them to develop normal neurological, psychological, and social development. This dependence can contribute to their vulnerability to witnessing violence against their caregivers.
+
+Medical trauma 
+Medical trauma, sometimes called 'paediatric medical traumatic stress' refers to a set of psychological and physiological responses of children and their families to pain, injury, serious illness, medical procedures, and invasive or frightening treatment experiences. Medical trauma may occur as a response to a single or multiple medical events. In children, they are still developing cognitive skills and because of this they process information differently. They might associate pain with punishment and could believe they did something wrong that led to them being in pain or that they somehow caused their injury.
+
+Children may experience disruptions in their attachment with their caregivers due to their traumatic medical experience. This does depend on the age of the child and their understanding of their medical difficulties. For example, a young child may feel betrayed by their parents if they have had to participate in activities that have cause and contributed to the child's pain such as administering medications or taking them to the doctor. At the same time, the parent-child relationship is strained due to parents feeling powerless, guilt, or inadequacy.
+
+Physical abuse 
+Child physical abuse is physical trauma or physical injury caused by slapping, beating, hitting, or otherwise harming a child. This abuse is considered non-accidental. Injuries can range from mild bruising to broken bones, skull fractures, and even death. Short term consequences of physical abuse of children include fractures, cognitive or intellectual disabilities, social skills deficits, PTSD, other psychiatric disorders, heightened aggression, and externalizing behaviors, anxiety, risk-taking behavior, and suicidal behavior. Long-term consequences include difficulty trusting others, low self-esteem, anxiety, physical problems, anger, internalization of aggression, depression, interpersonal difficulties, and substance abuse.
+
+Refugee trauma 
+Refugee-related childhood trauma can take place in the child's country of origin due to war, persecution, or violence, but can also be a result of the process of displacement or even the disruptions and transitions of resettlement into the destination country. Studies of refugee youth report high levels of exposure to war related trauma and have found profound averse consequences of these experiences for children's mental health. Some outcomes from experiencing trauma in refugee children are behavioral problems, mood and anxiety disorders, PTSD, and adjustment difficulty.
+
+Separation trauma 
+Separation trauma is a disruption in an attachment relationship that disrupts neurological development and can lead to death. Chronic separation from a caregiver can be extremely traumatic to a child.
+
+Sexual abuse
+
+Traumatic grief 
+Traumatic grief is distinguished from the traditional grieving process in that the child is unable to cope with daily life, or even remember a loved one outside of the circumstances of their death.  This can often be the case when the death is the result of a sudden illness or an act of violence.
+
+Treatment 
+
+The health effects of childhood trauma can be mitigated through care and treatment. There are many treatments for childhood trauma, including psychosocial treatments and pharmacologic treatments. Psychosocial treatments can be targeted toward individuals, such as psychotherapy, or targeted towards wider populations, such as school-wide interventions. While studies (systematic reviews) of current evidence have shown that many types of treatments are effective, trauma-focused cognitive behavioral therapy may be the most effective for treating childhood trauma. In contrast, other studies have shown that pharmacologic therapies may be less effective than psychosocial therapies for treating childhood trauma. Lastly, early intervention can significantly reduce negative health effects of childhood trauma.
+
+Psychosocial Treatment 
+Cognitive Behavioral Therapy
+
+Cognitive behavioral therapy (CBT) is the psychological treatment of choice for PTSD and is recommended by best-practice treatment guidelines. The goal of CBT is to help patients change their thoughts, beliefs, and attitudes to better control their emotions. Additionally, it is structured to help patients better cope with trauma and improve their problem-solving skills. Many studies provide evidence that CBT is effective for treating PTSD in terms of magnitude of symptom reduction from pre-treatment levels, and diagnostic recovery. Associated treatment barriers include stigma, cost, geography and insufficient treatment availability.
+
+Trauma-focused Cognitive Behavioral Therapy
+
+Trauma-focused cognitive behavioral therapy (TF-CBT) is a branch of CBT designed to treat PTSD cases in children and adolescents.  This treatment model combines the principles of CBT with trauma-sensitive approaches. It helps introduce skills to cope with the symptoms of the trauma for both the child and the parent if available, before allowing the child to process the trauma on their own in a safe space. Studies (systematic reviews) have shown trauma-focused cognitive behavioral therapy to be one of the most effective treatments to minimize the negative psychological effects of childhood trauma, particularly PTSD.
+
+Eye Movement Desensitization and Reprocessing Therapy
+
+Eye movement desensitization and reprocessing therapy (EMDR) is a technique used by therapists to help process traumatic memories. The intervention has the patient recall traumatic memories and use bilateral stimulation such as eye movements or finger tapping to help regulate their emotions. The process is complete when the patient becomes desensitized to the memory and can recall it without having a negative response. A randomized controlled trial showed that EMDR reduced symptoms of PTSD in children who had been exposed to a single-traumatic event, and was cost-effective. Additionally, studies have shown EMDR to be an effective treatment for PTSD.
+
+Dialectical Behavior Therapy
+
+Dialectical Behavior Therapy (DBT) has been shown to be help prevent self-harm and enhance interpersonal functioning by reducing experiential avoidance and expressed anger through a combination of cognitive behavioral and mindfulness techniques.
+
+Real Life Heroes (RLH) Treatment
+
+The Real Life Heroes (RLH) treatment, a sequential, attachment-centered treatment intervention for children with Complex PTSD that focuses on 3 primary components: affect regulation, emotionally supportive relationships, and life story integration to build resources and skills for resilience. A study of 126 children found Real Life Heroes treatment to be effective in reducing symptoms of PTSD and in improving behavioral problems.
+
+Narrative-Emotion Process Coding System (NEPCS)
+
+The Narrative-Emotion Process Coding System (NEPCS) is a behavioral coding system that identifies eight client markers: Abstract Story, Empty Story, Unstoried Emotion, Inchoate Story, Same Old Story, Competing Plotlines Story, Unexpected Outcome Story, and Discovery Story. Each marker varies in the degree to which specific narrative and emotion process indicators are represented in one-minute time segments drawn from videotaped therapy sessions. As enhanced integration of narrative and emotional expression has previously been associated with recovery from complex trauma.
+
+Attachment, Self-Regulation, and Competency (ARC) Framework
+
+The Attachment, Self-Regulation, and Competency (ARC) Framework is an intervention for children and adolescents impacted by complex trauma. The ARC framework is a flexible, component-based intervention for treating children and adolescents who have experienced complex trauma. Theoretically grounded in attachment, trauma, and developmental theories and specifically addresses three core domains impacted by exposure to chronic, interpersonal trauma: attachment, self-regulation, and developmental competencies.  A study using data from the US National Child Traumatic Stress Network found that treatment with the ARC framework was effective, reducing behavioral problems and symptoms of PTSD to a similar degree that of trauma-focused cognitive behavioral therapy.
+
+School-wide Approaches
+
+Many school-wide interventions that have been studied differ considerably from one another, which limits the strength of the evidence in support of school-wide interventions for treating childhood trauma; however, studies of school-wide approaches show that they tended to be moderately effective, reducing trauma symptoms, encouraging behavior change, and improving self-esteem.
+
+Pharmaceutical Treatment 
+Most studies that evaluate the effectiveness of using pharmaceuticals (medications) for treatment of childhood trauma focus specifically on treating PTSD. PTSD is only one health effect that can result from childhood trauma. Few studies evaluate the effectiveness of pharmaceutical treatment for treating other health effects of childhood trauma, besides PTSD.
+
+Selective serotonin re-uptake inhibitors (SSRI) and other anti-depressants are medications that are commonly used to treat the symptoms of PTSD. Studies (systematic reviews) have shown that medications may be less effective than psychosocial therapies for treating PTSD. However, medications have been shown to be effective when paired with another form of therapy such as CBT for PTSD.
+
+See also 
+Center for Child and Family Health, founded 1996
+
+References 
+
+Child and adolescent psychiatry
+Trauma types
+Adverse childhood experiences

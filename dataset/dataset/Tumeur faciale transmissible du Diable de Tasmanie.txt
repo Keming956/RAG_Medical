@@ -1,0 +1,155 @@
+La tumeur faciale transmissible du Diable de Tasmanie ( ou DFTD ou DftD) est une maladie émergente (non virale) découverte en 1996 dont une des composantes est une tumeur de la face évoluant en cancer . C'est l'un des quatre  connus, et le second à avoir été découvert.
+
+En Tasmanie l'épidémie progresse depuis 1996 d'Est en Ouest en se transmettant à un nombre croissant d'individus (via des morsures ou le partage de la nourriture, la consommation d'une carcasse infectée ; actions qui permettent un transfert allogénique de cellules tumorales entre individus non apparentés).
+
+À ce jour la transmission n'est observée qu'entre individus de cette espèce (Sarcophilus harrisii).
+
+Entre 1996 (date de son identification en Australie) et 2008, c'est-à-dire en à peine plus de 20 ans, cette maladie aurait tué la moitié de la population de l'espèce en Tasmanie. 
+À l'heure actuelle, la population aurait chuté de 70 % depuis 1996. 
+En 2010, 80 % de la population était infectée. Là où les populations sont denses ce sont jusqu'à 100 % des animaux qui meurent en 12 à 18 mois. En 2005, 65 % de la surface de la Tasmanie était touchée.
+En 2015, la maladie a touché toute la moitié orientale de la Tasmanie et tend à s’étendre vers l’ouest.
+
+Elle provient vraisemblablement d'une mutation génétique transmissible « horizontalement » (c'est-à-dire d'un individu à l'autre) car alors que le diable de Tasmanie a normalement quatorze chromosomes, on a constaté lors des premières études chez les diables malades que leurs cellules cancéreuses avaient perdu leur paire de chromosomes sexuels et avaient par contre acquis quatre nouveaux chromosomes d'origine inconnue. 
+La mort du sujet contaminé survient entre trois et huit mois (soit par défaillance d'organes vitaux en raison du cancer, soit par mort de faim, l’animal n’étant plus capable de s’alimenter en raison des déformations de sa face par le cancer. Des atteintes des ganglions lymphatiques régionaux et des métastases systémiques sont communes. Le cancer envahit aussi le cœur.
+
+Au rythme actuel de disparition des diables (70 % de réduction depuis 1996), si aucun traitement n'est trouvé, l'espèce s'éteindra dans la nature avant 2035. 
+En raison de la gravité de la menace, l'espèce a été classée comme menacée et pourrait devoir être clonée (sans donc préserver la diversité génétique relictuelle des populations survivantes). Des sujets sains ont été transférés en Australie et des mesures strictes de quarantaine entre réserves imposées.
+Le plan australien vétérinaire (AusVet Plan) de 2005 inclut une stratégie de réponse à la maladie, qui a fait l’objet d’un atelier (29–31 août 2005) et d’un rapport final du . Les recherches pour éradiquer la maladie continuent. Depuis juin 2005 trois puis six femelles ont été trouvés porteuses d'une  ; un élevage en captivité a commencé pour tenter de sauver un échantillon de l'espèce.
+
+Symptômes 
+La DftD débute par des lésions généralement situées autour de la bouche. 
+Elles évoluent en tumeurs, qui se développent ensuite sur et à partir de la face vers l'ensemble du corps, y compris vers des organes internes. Mâles et femelles y semblent également vulnérables.
+
+Les tumeurs sont des masses de tissus mous et indurés présentant des surfaces aplanies, souvent ulcérées en leur centre et présentant des surfaces exsudantes. Elles sont . Au microscope, elles présentent des  .
+
+Les tumeurs peuvent fortement déformer les organes ; elles sont notamment capables de dissoudre les parties du crâne.
+
+Caractéristiques génétiques de la maladie 
+Le génome du diable de Tasmanie est normalement constitué dans chaque cellule de 14 chromosomes. 
+Mais dans la lignée cellulaire la plus ancienne connue de cette tumeur, la cellule tumorale ne contenait plus que treize chromosomes, dont neuf sont reconnaissables et quatre mutés (ces mutations en font des chromosomes  de la tumeur et de la maladie).
+
+Des lignées de cellules tumorales plus récentes montrent une évolution ; certaines lignées de ces cellules cancéreuses ont acquis un chromosome marqueur mutant supplémentaire (ce qui donne à nouveau des cellules à quatorze chromosomes). 
+Parmi les gènes mutés ou manquant figurent les gènes RET, FANCD2, MAST3 et BTNL9-like.
+
+Ce cancer est qualifié de  et caractérisé par des réarrangements chromosomiques identiques dans toutes les cellules cancéreuses.
+
+Les anomalies du caryotype des cellules DftD sont similaires à celles des cellules cancéreuses du seul autre cancer transmissible connu chez les mammifères (une tumeur vénérienne transmissible entre chiens (CTVT), transmis par contact physique lors des accouplements  ;
+
+Parmi les altérations du génome tumoral, plusieurs variantes de mutations ont été trouvées avec de petites insertions et/ou suppressions de gènes, des délétions dans les chromosomes 1, 2 et 3 ou des trisomies en 5p.
+
+Hypothèses explicatives 
+Une hypothèse est que les cellules cancéreuses elles-mêmes agiraient comme un agent infectieux (théorie de l'allogreffe). Elle a été soutenue par  A-M. Pearse, K. Swift, et ses collègues. En 2006, ceux-ci ont analysé les cellules DftD de plusieurs diables provenant de lieux variés : elles étaient toutes génétiquement identiques les unes aux autres, et de plus aussi génétiquement distinctes de leurs hôtes, et de celles de tous les diables de Tasmanie connus. 
+Ce cancer semble donc provenir d'un seul individu. Il se serait ensuite propagé à la manière d'un agent infectieux. Il est à noter que l'origine dans un individu unique a également été faite pour la  connue (et émergente) de cancer transmissible : la leucémie des mollusques bivalves.
+
+Vingt et un sous-types différents de génomes ont ensuite été identifiés par analyse de l'ADN mitochondrial et de l'ADN nucléaire de tumeurs échantillonnées chez 104 diables de Tasmanie.
+
+Des chercheurs ont ensuite été témoins du cas d'un Diable non infecté qui a développé des tumeurs après avoir été blessé par un diable infecté, confirmant que la maladie se propage par allogreffe et qu'une transmission peut se faire par morsure, grattage, activité sexuelle et agressions interindividuelles.
+
+L'Université de Sydney a montré que ce cancer profite de la faible diversité des  du diable. Ces mêmes gènes se trouvent dans les tumeurs, faisant que le système immunitaire du diable ne reconnaît pas les cellules tumorales comme étrangères.
+
+Évolution et virulence 
+Au cours de l'épidémie, le cancer a évolué (pour son nombre de chromosomes, la nature des gènes et son niveau de ploïdie). 
+Quatre souches en ont été observées, et il en existe probablement plus. Cela laisse penser que le génome des lignées tumorales peut encore évoluer, et peut-être devenir encore plus virulent.
+
+Cette multiplication des formes et souches de cancer complique la recherche et rend plus difficile la recherche d'un vaccin ou d'un éventuel traitement anticancéreux. 
+ 
+Les souches tumorales semblent (un peu comme des microbes) répondre aux pressions de leur environnement. Ainsi comme la ploïdie ralentit la vitesse de croissance de la tumeur, Ujvari et al. postulent que le programme de suppression de la maladie a sélectionné des génomes produisant des tumeurs à croissance plus lente, et que les programmes d'éradication de la maladie pourraient conduire à de nouvelles évolutions de la maladie, avec un risque de voir apparaitre des souches capables de franchir la barrière des espèces et toucher des espèces apparentées comme le Chat marsupial moucheté Dasyurus viverrinus 
+
+En janvier 2010, un article de la revue Science  écrit par une équipe internationale de chercheurs estime - sur la base d'indice écoépidémiologiques et génétiques forts - que ce cancer pourrait avoir comme origine une mutation des cellules de Schwann d'un seul diable. 
+Après avoir échantillonné 25 tumeurs les chercheurs ont constaté (comme d'autres avant eux) que les tumeurs étaient génétiquement identiques. Ils ont aussi utilisé une technologie de séquençage en profondeur. Celle-ci a révélé (par profilage du transcriptome des tumeurs) l'ensemble des gènes actifs dans les tumeurs. Les transcriptomes de ces gènes étaient étroitement appariés à ceux des cellules de Schwann.
+Plusieurs marqueurs spécifiques ont été identifiés à cette occasion par l'équipe, dont les gènes PBM et PRX qui permettront plus facilement aux vétérinaires de distinguer le DftD d'autres types de cancer, et éventuellement d'aider à identifier une voie génétique de traitement de ce cancer.
+
+Réponse évolutive du diable de Tasmanie 
+Alors que depuis 20 ans environ leur espérance de vie diminue à cause de la DftD, les diables ont commencé à se reproduire de manière très précoce (mais souvent néanmoins une seule fois, pour une seule saison de reproduction juste avant qu'ils ne soient emportés par le cancer). 
+Au lieu d'attendre 2 ou 3 ans, les femelles se reproduisent maintenant généralement dès l'âge d'un an, et meurent de tumeurs peu après.
+
+Faux espoir avec la découverte d'une lignée de cellules cancéreuses tétraploïdes 
+Mais en 2015, une nouvelle lignée de ces cellules cancéreuses a été décrite par Dr Rodrigo Hamede de l'Université de Tasmanie. Cette variante est tétraploïde et non diploïde comme dans les principales forme de ce cancer. 
+Cette forme tétraploïde a été reliée à des taux de mortalité beaucoup plus bas, ce qui a suscité un grand espoir  ; une hypothèse a en effet été que cette lignée pourrait en quelque sorte entrer en compétition avec les lignées induisant une mortalité élevée (cette dernière ayant plus de chance de disparaitre avec ses porteurs puisqu'elle les tue), mais c'est l'inverse qui a été observé. La souche diploïde s'est répandue dans la poche de population qui semblait résistante et l'a décimée. Cette étude aura néanmoins permis pour la première fois, de relier la génétique des tumeurs aux modèles épidémiques de la maladie et à des taux d'infection et à des effets en termes de dynamique de population.
+
+Veille écoépidémiologique et actions de protection 
+L'effondrement du nombre de diables pose aussi un problème écologique, car on pense que c'était sa présence dans les écosystèmes forestiers de Tasmanie qui a permis que le Renard roux (introduit illégalement en Tasmanie en 2001 et susceptible d'y devenir invasif) n'y pénètre pas. Les diables adultes ne vivent pas longtemps et sont souvent déjà malades quand ils se reproduisent, même s'ils se reproduisent plus précocement qu'autrefois. Les adultes peuvent moins protéger leurs jeunes, qui sont a priori vulnérables à la prédation par le Renard roux introduit.
+
+Les populations sauvages de diables de Tasmanie sont surveillés afin de suivre la propagation de la maladie, et d'identifier d'éventuels changements dans la prévalence de la maladie. Mi-2009 un test de diagnostic sanguin est apparu, qui permet de mieux dépister la maladie, avant l'apparition des tumeurs visibles.
+
+Le suivi de terrain est basé sur le piégeage régulier de diables dans des zones d'étude pour vérifier la présence (ou l'absence) de la maladie, et pour  évaluer le nombre d'animaux touchés dans la zone. Le même secteur est ensuite périodiquement visité pour caractériser la propagation de la maladie. 
+Jusqu'à présent, cette veille a partout montré que les effets à court terme de la maladie peuvent être graves aux échelles locales et régionales. 
+La surveillance à long terme est essentielle pour déterminer si ces effets persistent, ou si les populations peuvent récupérer. 
+Les agents de terrain doivent aussi tester l'efficacité d'une méthode de piégeage avec élimination des diables malades, avec l'espoir que la suppression des diables malades dans les populations sauvages pourrait diminuer la prévalence de la maladie et permettre à plus de diables de survivre au-delà de leurs jeunes années afin qu'ils se reproduisent. 
+Une étude a estimé que le système actuel de l'abattage n'a pas empêché la propagation de la maladie.
+
+Deux petites populations de diables exempts de maladies ont été placées dans un centre situé dans la banlieue de Hobart Taroona et de Maria Island au large de la côte est de la Tasmanie. 
+L'élevage en captivité dans les zoos du continent est aussi une possibilité envisagée.
+
+47 Diables ont été expédiés dans des parcs zoologiques de présentation de la faune australienne à travers le continent pour contribuer à préserver une certaine diversité génétique au sein de l'espèce. 
+Le plus important de ces efforts est l'opération  à Barrington Tops, en Nouvelle-Galles du Sud ; une initiative de l'« Australian Reptile Park ». Ce projet vise à créer une population de 1 000 diables génétiquement représentatif de l'espèce. Il est maintenant un axe majeur de la politique de préservation de l'espèce.
+En outre, la péninsule tasmane est considérée comme pouvant devenir une « zone propre » protégée par un étroit et unique point d'accès, contrôlable par des barrières physiques (au risque de poser des problèmes d'insularisation écologique pour les autres espèces qui y vivent). Le ministère de Tasmanie chargé des industries primaires et de l'eau estime que l'expérimentation sur l'abattage des animaux infectés a donné des signes de succès.
+
+Une étude a suggéré que la création d'une banque d'ovocytes pourrait contribuer à l'effort de conservation de l'espèce. Le taux de survie des ovocytes dans cette étude (court terme) était de 70 %. Avec le même objectif, une autre étude (publiée dans les Actes de l'Académie nationale des sciences, le 27 juin 2011) a suggéré de capturer et protéger un stock de reproducteurs génétiquement divers (⇒ diversité à vérifier par séquençage génomique).
+
+Recherche d'animaux naturellement résistants à la maladie 
+ En 2008, on a cru avoir trouvé un Diable (baptisé Cédric) doté d'une immunité naturelle lui permettant de résister à la maladie, mais fin 2008 il a néanmoins développé deux tumeurs de la face. Elles ont été chirurgicalement retirées et les responsables de l'opération pensaient que l'animal était en voie de guérison en septembre 2010, quand il a été découvert que le cancer avait atteint ses poumons. Il a été euthanasié. 
+ Deux ans plus tard (début 2010) des scientifiques pensent avoir trouvé des Diables de Tasmanie, surtout dans le nord-ouest de la Tasmanie, dont le génome est assez différent de celui des lignées tumorales en circulation pour que leur système immunitaire soit apte à distinguer ce cancer comme étranger à eux-mêmes (cf. complexe majeur d'histocompatibilité).
+
+Recherche de médicaments et/ou d'un vaccin 
+En 2010, il y a eu un espoir que l'EBC-46, un antitumoral efficace contre les tumeurs faciales du chien, du chat et des chevaux, puisse aussi être efficace chez le Diable de Tasmanie.
+
+La vaccination avec des cellules cancéreuses irradiées a été tentée, mais sans faire ses preuves.
+
+En 2011, le Gouvernement de Tasmanie a subventionné un projet de recherche visant à trouver des agents de chimiothérapie appropriés à cette maladie.
+
+En 2013, une étude basée sur des souris de laboratoire (utilisée comme modèle animal a suggéré qu'un vaccin ou un traitement de la DFTD pourraient être possibles et bénéfiques.
+
+En 2015, une étude basée sur l'injection d'un mélange de cellules DftD mortes avec une substance inflammatoire a réussi à provoquer une réponse immunitaire chez 5 Diables sur six ayant reçu l'injection, relançant l'espoir d'un possible vaccin contre la DFTD. 
+Des essais sur le terrain d'un vaccin potentiel sont entrepris via un projet associant l'Institut Menzies pour la recherche médicale et le programme , dans le cadre du programme . Ces essais visent à tester le vaccin mais aussi le protocole d'immunisation comme outil pour assurer la survie à long terme du diable dans la nature.
+
+Histoire épidémiologique 
+
+Cette histoire semble commencer avec un foyer d'épidémie détecté à l'Est de la Tasmanie, qui depuis se propage régulièrement vers l'Ouest (à partir de 2007 surtout).
+
+En 1996, un photographe néerlandais fait plusieurs images de Diables avec des tumeurs du visage près de Mount William dans le nord-est de la Tasmanie. 
+Vers la même époque, des agriculteurs tasmaniens signalent à l'est de l'île une diminution importante du nombre de Diables.  
+Menna Jones s'intéresse à la maladie en 1999 près de Little Swanport et en 2001 capture (dans la péninsule Freycinet) trois diables avec des tumeurs de la face. La population des diables sur la péninsule s'effondre de façon spectaculaire.
+
+En mars 2003 Nick Mooney écrit une note d'alerte, notamment destinée à être distribuée dans les aires protégées de Tasmanie et dans les administrations chargées de la protection de la faune. Ce document appelait à davantage de fonds pour étudier la maladie. Mais l'appel à financement est publié avant même que le mémo ne soit présenté à Bryan vert (à l'époque Ministre de la Tasmanie pour les industries primaires, l'eau et l'environnement).
+
+En avril 2003, un groupe de travail est formé par le gouvernement tasmanien pour répondre à la maladie.
+
+En septembre 2003, dans le quotidien tasmanien The Mercury Nick Mooney  rend publique l'information sur la maladie et propose une mise en quarantaine des diables de Tasmanie en bonne santé (à l'époque, on pensait encore à un rétrovirus comme cause possible). 
+David Chadwick du laboratoire d'État sur la santé animale dit que le laboratoire n'a pas les ressources nécessaires pour travailler sur un rétrovirus. 
+L'ONG Conservation Trust de Tasmanie critique le gouvernement de Tasmanie qui ne fournit pas  suffisamment de fonds pour la recherche, et suggère que la DFTD pourrait être zoonotique (et alors être aussi une menace pour le bétail, certains animaux domestiques, voire les humains). 
+Le 14 octobre 2003, un atelier de travail est organisé à Launceston.
+
+En 2004, Kathryn Medlock trouve dans des musées européens 3 crânes de diable de forme irrégulière (laissent supposer qu'ils ont pu mourir de ce même cancer, et que la maladie est déjà ancienne). Elle trouve aussi une description d'un diable mourant au zoo de Londres, qui présente des similitudes avec la DftD.
+
+L'hypothèse virale initialement mise en avant, s'essouffle car après plusieurs années, aucune trace d'un tel virus n'a pu être détectée dans les nombreux prélèvements de cellules cancéreuses. On cherche donc d'autres explications ; Calicivirus, fluoroacétate de sodium très utilisé en Australie comme poison pour réguler certaines espèces (dont le Diable est aussi prédateur), plus connu sous son nom commercial 1080, pesticides agricoles, problèmes génétiques dus à la fragmentation et insularisation écologique de ses habitats, combiné à un rétrovirus ou non. On a aussi suspecté des toxines environnementales mutagènes auxquelles l'espèce seraient peut-être particulièrement vulnérable ou sensible.
+
+En mars 2006, un diable s'est échappé d'un parc situé dans une zone infectée par la DFTD. Il a pu être retrouvé et repris, mais il portait des marques de morsure sur la face. Il a été replacé avec les autres diables du parc et y a blessé un mâle. En octobre les deux diables avaient une DftD, qui a ensuite été étendue à deux autres. Cet incident a confirmé la viabilité de la théorie de la transmission par allogreffe.
+La même année (2006) la maladie est classée à déclaration obligatoire (Liste B en vertu de la Loi en vigueur en Tasmanie sur la santé animale de 1995) et une stratégie de développement d'une population captive et protégée de la maladie est mise en place.
+
+Une étude de 2007 sur le système immunitaire des diables a conclu que lorsqu'il lutte contre d'autres agents pathogènes, la réponse du système immunitaire du Diable est normale, mais non dans le cas de la DFTD, ce qui laisse suspecter que le Diable est dans ce cas incapable de détecter les cellules cancéreuses comme « non-soi ». 
+ 
+En 2008, la stratégie a été réévaluée en 2008 et des analyses ont mis en évidence des taux élevés de produits chimiques potentiellement cancérigènes (ignifuges) dans les  tissus adipeux des diables de Tasmanie (niveaux élevés d'hexabromobiphényle (BB153) et  de décabromodiphényle-éther (BDE209).
+
+Chez d'autres animaux 
+Les formes de « cancer transmissible », causés par un clone de cellules malignes (plutôt que par un virus) sont extrêmement rares. 
+On n'en connaît que 3 autres dans l'histoire de la médecine humaine ou vétérinaire, récemment découverts : 
+  une tumeur canine vénérienne transmissible (CTVT, transmise sexuellement, par contournement du système immunitaire), uniquement constatée chez les chiens ;
+ un sarcome contagieux à cellules de réticulum, qui ne touche que le Hamster doré (Mesocricetus auratus), espèce à très faible diversité génétique. (maladie qui peut être transmis par l'intermédiaire des piqûres de moustiques (Aedes aegypti) ;
+ la leucémie des mollusques bivalves, qui semble aussi être une maladie émergente, et qui franchit la barrière des espèces (tout en n'infectant que des mollusques bivalves).
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Diable de Tasmanie
+ Faune de l’Australie
+ Néoplasie hémocytaire des mollusques
+
+Liens externes 
+
+Dasyuridae
+Faune endémique d'Australie
+Maladie émergente
+Cancer

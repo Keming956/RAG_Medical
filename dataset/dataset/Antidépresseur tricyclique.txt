@@ -1,0 +1,98 @@
+Les antidépresseurs tricycliques (abréviation ATC ou ADT) sont une classe d'antidépresseurs utilisés pour la première fois vers la fin des années 1950. Leur nom vient de leurs structures moléculaires composées de trois anneaux d'atomes, tout comme les antidépresseurs tétracycliques, à la différence qu'eux en ont quatre.
+
+Mode d'action 
+
+La majorité des antidépresseurs tricycliques vont agir principalement comme inhibiteur de la recapture de la sérotonine et de la noradrénaline. Cela a pour conséquence d'augmenter la concentration de ces neurotransmetteurs dans la fente synaptique, ce qui améliore la neurotransmission. Les antidépresseurs tricycliques ont par contre un impact presque nul sur la recapture de la dopamine. Il a été démontré que la sérotonine et la noradrénaline jouent un rôle clé dans la dépression, ainsi, l'augmentation de la concentration de ces deux neurotransmetteurs favorise un état psychologique «normal».
+
+Les tricycliques auront également des effets atropiniques centraux et périphériques à l'origine de nombreux effets indésirables.
+
+On va retrouver trois types d'activité chez les antidépresseurs tricycliques :
+ les molécules sédatives ou anxiolytiques : maprotiline et amoxapine par exemple.  Il faut donc les administrer le soir.  Elles sont utiles dans le cas de dépression anxieuse, agitée, réactionnelle, ou si le risque suicidaire est élevé ;
+ les molécules antalgiques : amitriptyline par exemple. La dose antalgique sera alors minorée par rapport à la dose antidépressive (consensus entre 20- le soir) ;
+ les molécules intermédiaires ou psychotoniques : clomipramine et imipramine par exemple.  Dans ce cas, on les prendra avant 17 heures.  Elles sont utilisées dans le cas d'inhibition psychomotrice, d'asthénie, mais sont à éviter si le risque suicidaire est élevé car on observe une levée des inhibitions.
+
+Principales indications 
+ Dépression, quelle que soit son intensité, et prévention des rechutes dépressives (toutes les molécules)
+ Trouble panique (prévention de la récurrence des attaques de panique, clomipramine et imipramine)
+ Trouble obsessionnel compulsif (clomipramine)
+ Antalgique dans les algies rebelles et céphalées de tension (amitriptyline, clomipramine et imipramine)
+ Énurésie de l'enfant (amitriptyline et imipramine)
+ Troubles bipolaires (anciennement troubles maniaco-dépressifs)
+ Hyperactivité
+
+Effets secondaires 
+
+ Effets anticholinergiques périphériques : sécheresse buccale, constipation, rétention urinaire, mydriase, vision trouble et tachycardie.
+ Effets anticholinergiques centraux : confusion mentale, tremblements des extrémités, risques épileptogènes.
+ Blocage α2 adrénergique périphérique : risque d'hypotension orthostatique, de tachycardie réactionnelle.
+ Effets anti H1 (histamine) central : sédation, prise de poids car inhibition du centre de la satiété.
+ Levée de l'inhibition suicidaire : il sera nécessaire d'associer un neuroleptique sédatif si on a des craintes pour le patient.
+ Dyskinésie tardive (mouvements anormaux involontaires du corps, en particulier du visage permanents même après l'arrêt du traitement), surtout associée à l'amoxapine (Asendin), à l'amitriptyline (Elavil) et à l'imipramine (Tofranil)
+ Troubles sexuels: baisse de la libido, anorgasmie, troubles de l'érection…
+ Avitaminose B
+
+Tous ces effets secondaires sont observés à des doses thérapeutiques.
+
+Certains effets secondaires tels la dyskinésie tardive ou l'akathisie peuvent devenir permanents, même en cas d'arrêt du traitement.
+
+Contre-indications
+
+Contre-indications absolues 
+hypertrophie bénigne de la prostate et antécédents de rétention aiguë d'urine
+glaucome aigu à angle fermé
+infarctus du myocarde récent, coronaropathie non stabilisée 
+insuffisance cardiaque décompensée
+bloc auriculo-ventriculaire de haut degré
+association avec les IMAO non sélectifs
+allaitement
+
+Contre-indications relatives 
+insuffisance rénale et hépatique
+épilepsie
+grossesse ( surtout)
+
+Interactions médicamenteuses 
+Les principales interactions :
+ avec le sultopride : neuroleptique utilisé dans le traitement de l'agressivité.  Il y a ici un risque de torsades de pointe ;
+ avec les IMAO non sélectifs dont l'iproniaside reste le seul encore utilisé.  C'est un antidépresseur très puissant à marge thérapeutique très étroite.  Associé à un tricyclique, il existe un risque de syndrome sérotoninergique induisant des problèmes de tension, des problèmes confusionnels, un risque létal cardiaque, et un risque de coma ;
+ avec le flumazénil, utilisé classiquement comme antidote pour l'annulation des effets thérapeutiques ou toxiques des benzodiazépines, l'association des deux entraine un risque d'épilepsie.
+
+Surdosage 
+
+En cas de surdosage aux antidépresseurs tricycliques, on observera deux effets principaux :
+ une cardiotoxicité : l'effet atropinique et l'effet  (la quinidine est un antiarythmique) vont entraîner une augmentation du temps de conduction cardiaque et provoquer une arythmie. L'électrocardiogramme montre une tachycardie, un élargissement des QRS. Le décès, dans les intoxications massives, peut survenir en quelques heures ;
+ des convulsions : cela s'observe même chez les patients non épileptiques, et principalement en cas de surdosage à la maprotiline.
+
+Le diagnostic peut être fait par la recherche de tricycliques dans les urines. Toutefois, ce test peut être positif en absence de surdosage.
+
+Le traitement repose sur l'alcalinisation du sang (perfusion de bicarbonates), sur les vasopresseurs en cas de chute tensionnelle. L'administration en intraveineuse d'émulsion de lipides ou de lidocaïne peut avoir un intérêt. les convulsions peuvent être traitées par des antiépileptiques.
+
+Molécules/Dénominations communes internationales et noms commerciaux 
+ amitriptyline (Laroxyl, Elavil)
+ amoxapine (Défanyl)
+ clomipramine (Anafranil, Clomipramine Merck)
+ désipramine (Pertofran) : retiré du marché français en 
+ chlorhydrate de dosulépine  (Prothiaden)
+ doxépine (Quitaxon)
+ imipramine (Tofranil)
+ maprotiline (Ludiomil)
+ nortriptyline+fluphénazine (Motival) : retiré du marché français en 
+ opipramol (Insidon) : retiré du marché français en 
+ quinupramine (Kinupril) : retiré du marché français en 
+ trimipramine (Surmontil)
+ mélitracène associé à un antipsychotique typique : le flupentixol (Deanxit)
+
+Syndrome de discontinuation associé aux antidépresseurs 
+
+L'arrêt ou la réduction marquée d'un traitement antidépresseur tricyclique peut provoquer un syndrome de discontinuation associé aux antidépresseurs.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes
+
+Liens externes 
+
+ 
+Médicament prescrit dans les cas d'autisme

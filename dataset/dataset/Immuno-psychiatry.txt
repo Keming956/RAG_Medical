@@ -1,0 +1,59 @@
+Immuno-psychiatry, according to Pariante, is a discipline that studies the connection between the brain and the immune system. It differs from psychoneuroimmunology by postulating that behaviors and emotions are governed by peripheral immune mechanisms. Depression, for instance, is seen as malfunctioning of the immune system.
+
+History
+
+History Tying The Immune System to Psychosis 
+Since the late 1800’s scientists and physicians have noticed a possible link between the immune system and psychiatric disorders.  In 1876 Alexandar Rosenblum, and later in the 1880s Dr. Julius Wagner-Jauregg, observe patients with neurosyphilis, syphilis that had spread to the nervous system, have decreased symptoms of psychosis after contracting malaria.  Then from the 1920s, Karl Menninger notices how many patients recovering or recovered from influenza have psychosis similar to that seen in patients with schizophrenia.  Moritz Tramer then reports how schizophrenia is associated with a child being born in the winter or spring months (when influenza is most commonly contracted).  Later in 1980s, much research is conducted associating increased rates of schizophrenia in patients with a history of prenatal, postnatal infection, and especially childhood central nervous system infections.
+
+History: Tying Inflammatory States to Changes in Mood 
+William Osler in the 1890s observed that when animals are sick, they became sleepy, depressed, less active, and generally with a lower appetite.  Then in the 1890s, investigation into the similarity in these animal “sick behavior” and persons with depression led to more and more studies showing elevated levels of pro-inflammatory cytokines among persons with depression.  Many of these early studies in sickness behavior showed significant differences in the many pro-inflammatory cytokines reviving interest into the role that the immune system played in psychiatric disorders.
+
+Modern immuno-psychiatry model 
+Modern immuno-psychiatry theory now focuses on some variation of this model of how the environment leads to biological changes which affect the peripheral immune system and later affect the mind, mood, behavior, and response to psychiatric treatment. Stress leads to processing by the sympathetic nervous system which releases catecholamines (dopamine and norepinephrine) that increase the number of monocytes, which respond to inflammatory signals (DAMPS/MAMPs), which causes the release of pro-inflammatory cytokines, which then later reach the brain and lead to changes in neurotransmitter metabolism neuronal signaling, and ultimately behavior.
+
+Support For The Role of The Immune System Affecting Mood and Behavior
+
+How Cytokines Can Reach The Brain And Central Nervous System 
+
+ Passing through more leaky areas of the blood brain barrier, near the circumventricular organs.
+ Active transport of cytokines in the blood to bypass the Blood Brain Barrier.
+ Activation of endothelial cells lining the brain's vasculature which later release cytokines into the central nervous system.
+ Cytokines binding receptors on peripheral afferent nerves which then conduct a message to the central nervous system in specialized regions of the brain which release their own cytokines.
+ Recruitment of monocytes in the blood which then travel to the brain and release cytokines.
+
+How Cytokines Can Cause Changes To Neurotransmitter levels Which Can Sometimes Be Reversed. 
+Pro-inflammatory cytokines alter the metabolism of neurotransmitters and has been documented to effect decrease levels of  serotonin, increase indolamine-2,3-dioxygenase (IDO) activity(which normally catabolizes tryptophan and consequentially decrease serotonin synthesis), increased levels of kynurenine (leading to decreased glutamate and dopamine release), decrease dopamine as well as decreased levels of expression of tyrosine hydroxylase (which is required to make dopamine),  increased levels of quinolinic acid, leading to more NMDA receptor activation and oxidative stress leading to excitotoxicity and neurodegeneration.
+
+Additionally, cytokines interferon-alpha and IL-6 can cause reversible reductions in brain levels of tetrahydrobiopterin (used in the serotonin, dopamine, and norepinephrine synthesis pathways).  However, inhibition of nitric oxide synthase, one of the down stream effects of interferon-alpha, can lead to a reversal of this decrease in tetrahydrobiopterin.
+
+How Cytokines Can Cause Molecular And Cellular Changes Similar to Those Seen In Patients With Mood Disorders 
+Microglia make the most cytokines of all cells in the brain, respond to stress, and are likely important in the stress response as they are found to be increased in density (yet decreased in overall number) in different parts of the brain of persons who had killed themselves with major depressive disorder, bipolar disorder, and schizophrenia.
+
+On a molecular level, cytokines effect the glutamate metabolism of the nervous system and can lead to structural changes involving microglia similar to those seen in depressed patients.  TNF-alpha and IL-1, through oxidative stress via increased release of reactive oxygen and nitrogen species, impair re-uptake and transport of glutamate by glial cells, increasing release of glutamate by astrocytes and microglia, leading to an excitotoxic state. This loss of oligodendrocytes (the astrocytes and microglia mentioned before) are a key marker in structural analysis of the brains of depressed patient populations.
+
+How Inflammatory Cytokines Can Disrupt Cortisol Signaling And The HPA-axis Seen in Psychopathologies 
+The hippocampus helps regulate the HPA-axis' secretion of cortisol and has the largest number of glucocorticoid receptors in the brain.  This makes it making it especially sensitive to stress and stress related increases to cortisol.  Additionally, the neuroendocrine response by the HPA-axis is effected by the regulation of glucocorticoid receptor expression in the different regions of the brain.  And multiple studies have shown that “altered HPA stress responsivity being associated with increased risk of psychopathology” such as in the study of human brain cell, gathered post-mortem, mRNA was harvested in patients who had killed themselves with either a history or a lack of a history of early childhood stresses revealed significant epigenetic changes in glucocorticoid receptor expression.
+
+Patients with elevated levels chronic inflammatory cytokines, (such as those with chronic hepatitis C and others undergoing injections of interferon-alpha, cause changes in glucocorticoid receptors and cortisol release similar to patients with major depression.  Both exhibit a loss of the normal cortisol rhythm of secretion throughout the day, and both show a loss of functional glucocorticoid receptors which would otherwise decrease the inflammation in the body.
+
+Associated findings in Major Depressive Disorder 
+Following studies of patients with significant chronic inflammation, like those undergoing interferon-alpha therapy for hepatitis C showing an association with depressive symptoms, not unlike Osler's "sickness behavior", more studies into major depressive disorder and its link to inflammation have been done.  There have been many studies inferring a link between inflammation and major depressive disorder from correlating levels of cytokines in the blood, correlating genes linked to inflammation to treatment response, and changes in cytokines to antidepressant therapy.
+
+Many studies investigating the role of the immune system in patients with major depressive disorder found that such patients had decreased immune cell activity of natural killer cells and lymphocytes despite reliably having elevated levels of pro-inflammatory cytokines(IL-6, TNF-alpha, and C-reactive protein). Depression is also associated with a decreasein regulatory T cells which secrete anti-inflammatory IL-10 and TGF-beta.  Different studies have shown the that persons with depression also have lower circulating levels of IL-10, TGF-beta, in addition to the mentioned elevated levels of pro-inflammatory IL-6 in their blood stream.
+
+Antidepressants have been used to infer a link between inflammation and major depressive disorder. In human studies associating the link between inflammation and depression found that giving antidepressants prior to an expected inflammatory insult decreased observed severity of depression.  For example, giving paroxetine prior to treatment for malignant melanoma and hepatitis C was found to decrease depressive symptoms compared to persons not given paroxetine (an antidepressant).  Additional experimental support of giving an antidepressant prior to injection of endotoxin, a substance known to cause systemic inflammation) was also found to reduce self-reported symptoms of depression. In studies of antidepressant use, some persons show return to normal cytokine levels with depression treatment.  Patients with major depressive disorder treated with antidepressants have an increase in regulatory T cells and a decrease in inflammatory IL-1 beta. And even more strongly replicated, patients with increased levels of pro-inflammatory cytokines, or even genes tied to increased pro-inflammatory activity, are more likely to have antidepressant resistant depression.
+
+Through all these studies there seems to be a slight difference in symptoms of major depressive disorder with and without inflammation. Inflammation related depression tends to have less guilt/self negativity and increased slowness and lack of appetite compared to depression in persons without increased levels of systemic inflammation.
+
+Proposed roles of the immune system in Schizophrenia and Psychotic Disorders 
+There are ties to episodes of psychosis, and persons at risk for schizophrenia, severity of schizophrenia, and with antipsychotic therapy especially with levels of IL-6 in the blood as well as the cerebrospinal fluid of patients with schizophrenia.
+
+Following studies revealing kynurenic acid's uniqueness as being the NMDA receptor's only endogenous (naturally found in the body) antagonist, and the fact that psychosis can be elicited from NMDA receptor antagonism, multiple studies investigated and confirmed change levels of this kynurenic acid may be related to psychosis.  Later drug studies have found that COX1 inhibition, which increases kynurenic acid,  has been reported to cause psychotic symptoms.  COX2 selective inhibitors like celecoxib, which reduce kynurenic acid, were found to reduce clinical severity of schizophrenia in non-randomized, unblinded clinical trials.  While encouraging, these results remain to be confirmed in randomized clinical trials with confirmatory results before they are even considered for off-label usage.
+
+Overall impact for clinical medicine 
+The overall results for the many clinical trials of combinations of NSAIDS and antidepressants, proposed to more thoroughly treat standard major depressive disorder and treatment-resistant major depressive disorder, shows that the current degree of importance of addressing the inflammatory component of mood disorders is unclear.  Mixed results of some or no improvement in such studies, and the relative lack of studies recruiting sufficient numbers of patients with treatment resistant depression, a lack of studies of patients with chronic inflammation and treatment depression, and a lack of a standardized definition of an elevated chronic inflammatory state leaves more studies to be desired in pursuing the understanding of inflammation and psychiatric disorders.
+
+References
+
+Immunology
+Psychiatric assessment

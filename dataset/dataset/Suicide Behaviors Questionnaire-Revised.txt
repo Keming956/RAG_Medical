@@ -1,0 +1,26 @@
+The Suicide Behaviors Questionnaire-Revised (SBQ-R) is a psychological self-report questionnaire designed to identify risk factors for suicide in children and adolescents between ages 13 and 18. The four-question test is filled out by the child and takes approximately five minutes to complete. The questionnaire has been found to be reliable and valid in recent studies. One study demonstrated that the SBQ-R had high internal consistency with a sample of university students. However, another body of research, which evaluated some of the most commonly used tools for assessing suicidal thoughts and behaviors in college-aged students, found that the SBQ-R and suicide assessment tools in general have very little overlap between them. One of the greatest strengths of the SBQ-R is that, unlike some other tools commonly used for suicidality assessment, it asks about future anticipation of suicidal thoughts or behaviors as well as past and present ones and includes a question about lifetime suicidal ideation, plans to commit suicide, and actual attempts.
+
+Question breakdown, scoring, and interpretation 
+
+Each of the four questions addresses a specific risk factor: the first concerns presence of suicidal thoughts and attempts, the second concerns frequency of suicidal thoughts, the third concerns the threat level of suicidal attempts, and the fourth concerns likelihood of future suicidal attempts. The first item has often been used on its own in order to assign individuals to a suicidal and a non-suicidal control group for studies. Each question has an individual scale, and each response corresponds to a certain point value.
+
+Domain breakdown 
+A maximum score of 18 is possible on the SBQ-R, and the following responses to the 4 questions correspond to the following point values:
+
+Interpretation of subscale scores
+
+A total score of 7 and higher in the general population and a total score of 8 and higher in patients with psychiatric disorders indicates significant risk of suicidal behavior.
+
+See also
+ Suicide
+
+References
+
+Further reading
+
+External links
+ Full SBQ-R and scoring
+ EffectiveChildTherapy.org guidelines for self-injurious thoughts and behaviors
+
+Suicide
+Psychiatric instruments: child and adolescent psychiatry

@@ -1,0 +1,28 @@
+The goal of currently available glaucoma therapy is to preserve visual function by lowering intraocular pressure (IOP) below a level that is likely to produce further damage to the nerve. The treatment regimen that achieves the goal of preserving function with the lowest risk, fewest adverse effects, and least disruption of the patient's life, taking into account the cost implications of treatment, should be the approach taken.
+
+The more advanced the glaucomatous process on initial presentation, the lower the target range generally needs to be to prevent further progression. This more aggressive target is meant to minimize the risk of progressive glaucoma damage and vision loss. Once the optic nerve is damaged, it is more likely to incur more damage, and if severe visual loss is present, there is greater impact on the patient from any additional damage that may occur.
+
+An initial reduction in the intraocular pressure of 20% from baseline is suggested. However, reduction of IOP to the target pressure range does not guarantee that progression will not occur. Therefore, the target pressure range needs to be constantly reassessed and changed as dictated by IOP fluctuations, optic nerve changes, and/or visual field progression.
+
+Medical uses 
+Medications are divided into several groups based on chemical structure and pharmacologic action. Agents in common clinical use include:
+
+ Prostaglandin analogs
+ Parasympathomimetic (miotic) agents, including cholinergic and anticholinesterase agents
+ Carbonic anhydrase inhibitors (oral and topical)
+ Adrenergic antagonists (nonselective and selective Beta1-antagonists)
+ Alpha 2 agonists 
+ Hyperosmotic agents
+
+When comparing people with primary open-angle glaucoma and ocular hypertension, medical intraocular pressure lowering treatment slowed down the progression of visual field loss.
+
+Comparison table
+
+Combinations
+ Fotil is a combination drug consisting of:
+Pilocarpine, a parasympathomimetic
+Timolol, a beta-adrenergic receptor antagonist
+
+References
+
+Glaucoma

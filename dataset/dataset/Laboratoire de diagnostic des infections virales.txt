@@ -1,0 +1,90 @@
+Le laboratoire de diagnostic des infections virales est un laboratoire de biologie médicale qui réalise les tests diagnostiques pour connaitre la présence ou l'absence d'un virus d'un échantillon. 
+
+En cas de suspicion et dans le cadre du programme de lutte et de surveillance des maladies, un échantillon est envoyé à une installation de recherche scientifique, le laboratoire de diagnostic.  
+
+La virologie progresse grâce à la multiplication des méthodes et  techniques moléculaires et l'amélioration de la sensibilité clinique des tests sérologiques. 
+
+Les résultats obtenus participent à la surveillance et au contrôle des maladies humaines et animales.
+
+Échantillon 
+Une grande variété d'échantillons peut être utilisée pour les tests virologiques. Le type d'échantillon envoyé au laboratoire dépend souvent du type d'infection virale diagnostiquée et du test requis. Une technique d'échantillonnage appropriée est essentielle pour éviter les erreurs pré-analytiques potentielles.  
+
+Par exemple, différents types d'échantillons doivent être collectés dans des tubes appropriés pour maintenir l'intégrité de l'échantillon et stockés à des températures appropriées (généralement 4 °C) pour préserver le virus et empêcher la croissance bactérienne ou fongique. Parfois, plusieurs sites peuvent également être échantillonnés. 
+
+Les types d'échantillons comprennent: 
+
+ Sang (liquide ou en tache séchée) 
+ Peau 
+ Crachats, gargarismes et lavages bronchiques 
+ Urine 
+ Sperme 
+ Selles 
+ Liquide cérébro-spinal 
+ Tissus (biopsies ou autopsie)
+
+Isolement de virus 
+Les virus sont souvent isolés de l'échantillon initial pour permettre de cultiver le virus en plus grandes quantités et de produire un plus grand nombre de tests.  
+
+Ceci est particulièrement important pour les échantillons contenant des nouveaux virus ou rares pour lesquels des tests de diagnostic ne sont pas encore développés. 
+
+De nombreux virus peuvent être cultivés en culture cellulaire en laboratoire. Pour ce faire, l'échantillon de virus est mélangé à des cellules, un processus appelé adsorption, après quoi les cellules sont infectées et produisent plus de copies du virus. 
+
+Bien que différents virus ne se développent souvent que dans certains types de cellules, il existe des cellules qui participent à la croissance d'une grande variété de virus et sont un bon point de départ, avec par exemple les cellules de rein de singe africain (cellules Vero), les fibroblastes pulmonaires humains (MRC- 5), et des cellules de carcinome épidermoïde humain (HEp-2).  
+
+Un moyen de déterminer si les cellules répliquent avec succès le virus est de vérifier un changement de morphologie cellulaire ou la présence de mort cellulaire à l'aide d'un microscope. 
+
+D'autres virus peuvent nécessiter des méthodes de croissance alternatives telles que l'inoculation d'œufs de poule embryonnés (par exemple les virus de la grippe aviaire) ou l'inoculation intracrânienne de virus à l'aide de souris nouveau-nés (par exemple les lyssavirus).
+
+Méthodes à base d'acide nucléique 
+Les techniques moléculaires sont les tests de diagnostic les plus spécifiques et les plus sensibles. Ils sont capables de détecter le génome viral entier ou des parties du génome viral. Dans le passé, les tests d'acides nucléiques ont été principalement utilisés comme test secondaire pour confirmer des résultats sérologiques positifs. Cependant, à mesure qu'ils deviennent moins chers et plus automatisés, ils deviennent de plus en plus le principal outil de diagnostic .
+
+Réaction en chaîne par polymérase 
+La détection des génomes viraux d'ARN et d'ADN peut être effectuée en utilisant la réaction en chaîne par polymérase. Cette technique fait de nombreuses copies du génome du virus à l'aide de sondes spécifiques au virus. Des variations de la PCR telles que la PCR de transcriptase inverse imbriquée et la PCR en temps réel peuvent également être utilisées pour déterminer les charges virales dans le sérum du patient. Ceci est souvent utilisé pour surveiller le succès du traitement dans les cas de VIH .
+
+Séquençage 
+Le séquençage est la seule méthode de diagnostic qui fournit la séquence complète d'un génome viral. Par conséquent, il fournit le plus d'informations sur les très petites différences entre deux virus qui auraient la même apparence à l'aide d'autres tests de diagnostic.  
+
+Actuellement, le séquençage est utilisé lorsque cette largeur d'information est nécessaire. Par exemple, le séquençage est utilisé lorsque des mutations spécifiques chez le patient sont testées afin de déterminer la thérapie antivirale et la sensibilité à l'infection.  
+
+Cependant, comme les tests deviennent moins chers, plus rapides et plus automatisés, le séquençage deviendra probablement le principal outil de diagnostic à l'avenir.
+
+Méthodes basées sur la microscopie
+
+Immunofluorescence ou immunoperoxydase 
+Les tests d'immunofluorescence ou d'immunoperoxydase sont couramment utilisés pour détecter si un virus est présent dans un échantillon de tissu. 
+
+Ces tests sont basés sur le principe que si le tissu est infecté par un virus, un anticorps spécifique à ce virus pourra s'y lier. Pour ce faire, des anticorps spécifiques à différents types de virus sont mélangés à l'échantillon de tissu. Une fois que le tissu est exposé à une longueur d'onde spécifique de lumière ou à un produit chimique qui permet de visualiser l'anticorps. 
+
+Ces tests nécessitent des anticorps spécialisés qui sont produits et achetés auprès d'entreprises commerciales. Ces anticorps commerciaux sont généralement bien caractérisés et sont connus pour se lier à un seul type spécifique de virus. Ils sont également conjugués à un type spécial d'étiquette qui permet de visualiser l'anticorps en laboratoire, ce qui signifie qu'il émettra de la fluorescence ou une couleur. Par conséquent, l'immunofluorescence se réfère à la détection d'un anticorps fluorescent (immuno) et l'immunoperoxydase se réfère à la détection d'un anticorps coloré (la peroxydase produit une couleur brune foncée).
+
+Microscopie électronique 
+La microscopie électronique est une méthode qui peut prendre une photo d'un virus entier et révéler sa forme et sa structure. Il n'est généralement pas utilisé comme test de diagnostic de routine car il nécessite un type hautement spécialisé de préparation d'échantillons, de microscope et d'expertise technique.  
+
+Cependant, la microscopie électronique est très polyvalente en raison de sa capacité à analyser tout type d'échantillon et à identifier tout type de virus.  
+
+Par conséquent, il reste l'étalon-or pour identifier les virus qui n'apparaissent pas dans les tests de diagnostic de routine ou pour lesquels les tests de routine présentent des résultats contradictoires.
+
+Détection des anticorps 
+Une personne récemment infectée par un virus produira dans son sang des anticorps qui reconnaîtront spécifiquement ce virus. C'est ce qu'on appelle l'immunité humorale.  
+
+Deux types d'anticorps sont importants.  
+
+  Le premier appelé IgM est très efficace pour neutraliser les virus mais n'est produit par les cellules du système immunitaire que pendant quelques semaines.  
+ La seconde, appelée IgG, est produite indéfiniment. Par conséquent, la présence d'IgM dans le sang de l'hôte est utilisée pour tester une infection aiguë, tandis que l'IgG indique une infection dans le passé. Les deux types d'anticorps sont mesurés lors des tests d'immunité.
+
+Le dépistage des anticorps est devenu largement disponible. Cela peut être fait pour des virus individuels (par exemple en utilisant un test ELISA) mais les panels non automatisés qui peuvent dépister de nombreux virus à la fois deviennent de plus en plus courants.
+
+Test d'hémagglutination 
+Certains virus se fixent aux molécules présentes à la surface des globules rouges, par exemple le virus de la grippe.   
+
+En conséquence, à certaines concentrations, une suspension virale peut lier ensemble (Dispositif de diagnostic médical in vitro) les globules rouges, les empêchant ainsi de se déposer hors de la suspension.
+
+Voir aussi 
+Dispositif de diagnostic médical in vitro
+
+Références 
+ 
+
+Diagnostic en médecine
+Technique de laboratoire
+Maladie virale

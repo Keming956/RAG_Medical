@@ -1,0 +1,12 @@
+Le diagnostic QSE (Qualité-Sécurité-Environnement) est le travail préalable à toute démarche QSE dans une entreprise. Il permet d'inventorier les dispositions existantes et d'évaluer le niveau de mise en place afin de se donner des objectifs de travail. Contrairement à l'audit, le diagnostic ne mesure pas l'efficacité du système. Il est constitué de questions fermées et doit être fait par un expert. À la suite de ce diagnostic, on met en place un plan d'actions : on identifie les actions et on les cote par priorité. Quand les actions sont mises en place, on effectue un audit pour évaluer l'efficacité des actions et pour s'améliorer dans la démarche. Pour nous aider à établir le diagnostic, on peut utiliser la norme ISO 9001 pour la qualité, le code du travail ou le référentiel MASE pour la sécurité et la norme ISO 14001 pour l'environnement.
+
+Le diagnostic prend généralement la forme d'un audit, mais d'autres outils peuvent  y être combinés
+
+Voir aussi
+
+Articles connexes 
+ Qualité, hygiène, sécurité, environnement
+ Système de management Intégré
+
+Test
+Qualité-sécurité-environnement

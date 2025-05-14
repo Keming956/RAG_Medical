@@ -1,0 +1,26 @@
+Die MS-Diagnosekriterien werden in der Neurologie zur Diagnose der multiplen Sklerose verwendet. Hauptprinzip einer MS-Diagnose ist der Nachweis einer räumlichen und zeitlichen Streuung (Dissemination) von entzündlich-entmarkenden Herden (auch als Plaques bezeichnet) im Zentralnervensystem.
+
+Geschichtlich finden sich vier bedeutsame genauere Ausarbeitungen der Diagnosekriterien, deren Wandel den Eingang neuer Untersuchungstechniken in die MS-Diagnostik reflektiert. Die Schumacher-Kriterien von 1965 und die Rose-Kriterien von 1976 stützten sich vorwiegend auf anamnestisch und klinisch-neurologisch erhobene Befunde. Die Poser-Kriterien von 1983 bezogen zusätzlich Befunde ein, die durch die Untersuchung des Hirnwassers (Liquor cerebrospinalis) gewonnen werden können. Die 2001 veröffentlichten McDonald-Kriterien betonten die Bedeutung bildgebender Befunde der MRT-Untersuchung. 2005 wurden diese Kriterien erneut überarbeitet. Sie werden seitdem als „revidierte McDonald-Kriterien“ bezeichnet.
+
+Diagnosekriterien nach Rose 1976 
+Diesen Regeln entsprechend wurden Kriterien für eine eindeutige, eine wahrscheinliche und eine mögliche klinische Diagnose aufgestellt. Die eindeutige klinische Diagnose stützt sich dabei auf den Nachweis eines typischen Verlaufs disseminierter Läsionen bei jüngeren erwachsenen Patienten. Die wahrscheinliche Diagnose darf beim Nachweis eines Schubes mit einem dokumentierten häufig vorkommenden Symptom gestellt werden. Eine mögliche Diagnose darf dann gestellt werden, wenn ein Krankheitsschub dokumentiert ist, die Symptome aber nicht eindeutig einer zentralen Läsion zugeordnet werden können.
+
+Diagnosekriterien nach Poser 1983 
+Ein jüngerer Diagnosealgorithmus sah zusätzlich vor, dass man eine sichere klinische Diagnose stellen darf, wenn diese durch Laborbefunde (MRI, Liquor und EP) gestützt werden kann. Demzufolge darf man eine sichere klinische Diagnose stellen, wenn man zwei unzusammenhängende zentrale Läsionen entweder im zeitlichen Verlauf oder im Rahmen einer aktuellen Untersuchung findet. Findet sich klinisch nur eine Läsion, darf die sichere Diagnose auch gestellt werden, wenn man eine zweite Läsion durch Laboruntersuchungen (EP oder MRI) nachweisen kann: z. Bsp. Paraspastik der Beine und pathologische VEPs (Visuell evozierte Potentiale). Dabei sollte der Liquorbefund immer pathologisch sein.
+
+McDonald-Kriterien von 2001 und ihre Revision von 2005 und 2010 
+2001 schlug ein internationales Expertengremium neue Kriterien zur Diagnose der MS vor, die neben klinischen die Bedeutung bildgebender Befunde (MRT) betont (McDonald-Kriterien). Auch paraklinische Befunde (Liquordiagnostik und evozierte Potentiale) wurden berücksichtigt; sie verloren jedoch gegenüber bildgebenden Befunden an Bedeutung. Aufgrund von Untersuchungen, die sich mit der Empfindlichkeit und Spezifität der McDonald-Kriterien befassten, erfolgte 2005 und 2010 eine Überarbeitung. Diese revidierten McDonald-Kriterien zeichnen sich insgesamt durch eine erleichterte Diagnosestellung der MS aus. Wichtig ist die Feststellung, dass die Diagnose einer MS nicht gestellt werden darf, wenn die erhobenen pathologischen Befunde von einer anderen Erkrankung besser erklärt werden können.
+
+Die folgende tabellarische Übersicht zeigt die genaue Fassung der revidierten McDonald-Kriterien:
+
+Falls die Kriterien erfüllt sind und keine bessere Erklärung für die klinische Präsentation besteht, ist die Diagnose MS. Falls der Verdacht besteht, die Kriterien jedoch nicht vollständig erfüllt sind, lautet die Diagnose mögliche MS. Falls während des Diagnoseprozesses eine andere Diagnose die Befunde der klinischen Präsentation besser erklärt, lautet die Diagnose keine MS.
+
+2010 erfuhren die McDonald-Kriterien eine erneute Überarbeitung:
+
+Einzelnachweise und Anmerkungen
+
+Literatur 
+ Thomas Brandt, Johannes Dichgans, Hans-Christoph Diener: Therapie und Verlauf neurologischer Erkrankungen. Kohlhammer, Stuttgart 2007, ISBN 3-17-019074-1.
+ Rudolf M. Schmidt, Frank Hoffmann: Multiple Sklerose. Urban & Fischer, München 2006, ISBN 3-437-22081-0.
+
+Diagnostisches Verfahren in der Neurologie

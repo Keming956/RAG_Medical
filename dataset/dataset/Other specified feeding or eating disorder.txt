@@ -1,0 +1,45 @@
+Other specified feeding or eating disorder (OSFED) is a DSM-5 category that, along with unspecified feeding or eating disorder (UFED), replaces the category formerly called eating disorder not otherwise specified (EDNOS) in the DSM-IV-TR.  It captures feeding disorders and eating disorders of clinical severity that do not meet diagnostic criteria for anorexia nervosa (AN), bulimia nervosa (BN), binge eating disorder (BED), avoidant/restrictive food intake disorder (ARFID), pica, or rumination disorder. OSFED includes five examples: 
+
+ atypical anorexia nervosa,
+ atypical bulimia nervosa of low frequency and/or limited duration, 
+ binge eating disorder of low frequency and/or limited duration, 
+ purging disorder, and 
+ night eating syndrome (NES).
+
+Classification
+
+The five OSFED examples that can be considered eating disorders include atypical AN, BN (of low frequency and/or limited duration), BED (of low frequency and/or limited duration), purging disorder, and NES. Of note, OSFED is not limited to these five examples, and can include individuals with heterogeneous eating disorder presentations (i.e., OSFED-other). Another term, Unspecified Feeding or Eating Disorder (UFED), is used to describe individuals for whom full diagnostic criteria are not met but the reason remains unspecified or the clinician does not have adequate information to make a more definitive diagnosis.
+
+Atypical anorexia nervosa In atypical AN, individuals meet all of the criteria for AN, with the exception of the weight criterion: the individual's weight remains within or above the normal range, despite significant weight loss.
+Atypical bulimia nervosa In this sub-threshold version of BN, individuals meet all criteria for BN, with the exception of the frequency criterion: binge eating and inappropriate compensatory behaviors occur, on average, less than once a week and/or for fewer than 3 months.
+Binge-eating disorder of low frequency and/or limited duration In this sub-threshold version of BED, individuals must meet all criteria for BED, with the exception of the frequency criterion: binge eating occurs, on average, less than once a week and/or for fewer than 3 months.
+Purging disorder In purging disorder, purging behavior aimed to influence weight or shape is present, but in the absence of binge eating.
+Night eating syndrome In NES, individuals have recurrent episodes of eating at night, such as eating after awakening from sleep or excess calorie intake after the evening meal. This eating behavior is not culturally acceptable by group norms, such as the occasional late-night munchies after a gathering. NES includes an awareness and recall of the eating, is not better explained by external influences such as changes in the individual's sleep-wake cycle, and causes significant distress and/or impairment of functioning. Though not defined specifically in DSM-5, research criteria for this diagnosis proposed adding the following criteria (1) the consumption of at least 25% of daily caloric intake after the evening meal and/or (2) evening awakenings with ingestions at least twice per week.
+
+Treatment
+
+Few studies guide the treatment of individuals with OSFED. However, cognitive behavioral therapy (CBT), which focuses on the interplay between thoughts, feelings, and behaviors, has been shown to be the leading evidence-based treatment for the eating disorders of BN and BED. For OSFED, a particular cognitive behavioral treatment can be used called CBT-Enhanced (CBT-E), which was designed to treat all forms of eating disorders. This method focuses not only what is thought to be the central cognitive disturbance in eating disorders (i.e., over-evaluation of eating, shape, and weight), but also on modifying the mechanisms that sustain eating disorder psychopathology, such as perfectionism, core low self-esteem, mood intolerance, and interpersonal difficulties. CBT-E showed effectiveness in two studies (total N = 219) and well maintained over 60-week follow-up periods. CBT-E is not specific to individual types of eating disorders but is based on the concept that common mechanisms are involved in the persistence of atypical eating disorders, AN, and BN.
+
+Epidemiology
+
+Few studies to date have examined OSFED prevalence. The largest community study is by Stice (2013), who examined 496 adolescent females who completed annual diagnostic interviews over 8 years. Lifetime prevalence by age 20 for OSFED overall was 11.5%. 2.8% had atypical AN, 4.4% had subthreshold BN, 3.6% had subthreshold BED, and 3.4% had purging disorder. Peak age of onset for OSFED was 18–20 years. NES was not assessed in this study, but estimates from other studies suggest that it presents in 1% of the general population.
+
+A few studies have compared the prevalence of EDNOS and OSFED and found that though the prevalence of atypical eating disorders decreased with the new classification system, the prevalence still remains high. For example, in a population of 215 young patients presenting for ED treatment, the diagnosis of EDNOS to OSFED decreased from 62.3% to 32.6%. In another study of 240 females in the U.S. with a lifetime history of an eating disorder, the prevalence changed from 67.9% EDNOS to 53.3% OSFED. Although the prevalence appears to reduce when using the categorizations of EDNOS vs. OSFED, a high proportion of cases still receive diagnoses of atypical eating disorders, which creates difficulties in communication, treatment planning, and basic research.
+
+History
+
+In 1980, DSM-III was the first DSM to include a category for eating disorders that could not be classified in the categories of AN, BN, or pica. This category was called Atypical Eating Disorder. Atypical Eating Disorder was described in one sentence in the DSM-III and received very little attention in the literature, as it was perceived to be uncommon compared to the other defined eating disorders. In DSM-III-R, published in 1987, the Atypical Eating Disorder category became known as Eating Disorder Not Otherwise Specified (EDNOS). DSM-III-R included examples of individuals who would meet criteria for EDNOS, in part to acknowledge the increasingly recognized heterogeneity of individuals within the diagnostic category.
+
+In 1994, DSM-IV was published and expanded EDNOS to include six clinical presentations. These presentations included individuals who:
+ met criteria for AN, but continued to menstruate,
+ met criteria for AN, but still had weight in the normal range despite significant weight loss,
+ met criteria for BN but did not meet frequency criterion for binge eating or purging,
+ engaged in inappropriate compensatory behavior after eating small amounts of food, or
+ repeatedly chewed or spit out food, or who binged on food but did not subsequently purge.
+A disadvantage of DSM-IV's broad EDNOS category was that people with very different symptoms were still classified as having the same diagnosis, making it difficult to access care specific to the disorder and conduct research on the diversity of pathology within EDNOS. Furthermore, EDNOS was perceived as less severe than AN or BN, despite findings that individuals diagnosed with EDNOS share similarities with full-threshold AN or BN in the degree of eating pathology, general psychopathology, and physical health. This perception prevented people in need from seeking help or insurance companies from covering treatment costs. DSM-5, published in 2013, sought to address these issues by adding new diagnoses and revising existing criteria.
+
+References
+
+External links 
+
+Eating disorders

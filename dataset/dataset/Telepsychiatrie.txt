@@ -1,0 +1,21 @@
+Telepsychiatrie bezeichnet medizinische Beratungen im Fachbereich Psychiatrie und Psychosomatik, die über das Medium der Bildtelefonie/Videokonferenz, vergleichbar mit dem Vorgehen bei der Teleneurologie, erfolgen.
+
+Voraussetzung ist eine flüssige Bild- und Tonübertragung in Echtzeit, die z. B. durch eine VPN-getunnelte Internetverbindung mit Verschlüsselungstechnik ausreichend abgesichert werden kann. Telepsychiatrisch durchgeführte Fachkonsilien in Krankenhäusern und Pflegeeinrichtungen, die bisher keine oder nur mangelhafte Versorgung durch Fachärzte bieten konnten, erschließen den psychisch Erkrankten durch eine telepsychiatrische Vernetzung eine zeitnahe, entfernungsunabhängige, ökonomisch und ökologisch günstige fachmedizinische Versorgung. Die Telepsychiatrie ermöglicht eine engere Vernetzung aller medizinischen Einrichtungen, die psychiatrischen Beratungsbedarf haben. Eine nahezu sofort verfügbare Fachberatung über eine telepsychiatrische Anbindung steigert vor allem bei Krankenhäusern, Hausarztpraxen und Heimen in ländlichen Regionen die Behandlungsqualität. Beim Stroke-Unit versorgenden TEMPiS-Projekt konnte mit vergleichbarer Technik eine kostensparende Therapieverbesserung nachgewiesen werden.
+
+Literatur 
+
+ Telemedicine in Gerontopsychiatry. European J Medical Research 7 Suppl, I, 7th Int Conf on the Med Aspects of Telemed - Integration of Health, Telematics into Med Pract, Regensburg, Sept 2002, p 84, Szecsey A, Koch HJ
+ Szecsey A et al.: Telemedizinische Konsile in der Gerontopsychiatrie: Ein Pilotprojekt. NeuroGeriatrie 2004; 1 (1): 32-34. Zusammenfassung
+ P. E. Ruskin, M. Silver-Aylaian, M. A. Kling, S. A. Reed, D. D. Bradham, J. R. Hebel, D. Barrett, F. Knowles, P. Hauser: Treatment outcomes in depression: comparison of remote treatment through telepsychiatry to in-person treatment. In: Am J Psychiatry 161, 2004, S. 1471–1476, PMID 15285975.
+ R. Currell, C. Urquhart, P. Wainwright, R. Lewis: Telemedicine versus face to face patient care: effects on professional practice and health care outcomes. In: Nurs Times 97, S. 35–35, PMID 11957594.
+ C. De Las Cuevas, M. T. Arredondo, M. F. Cabrera, H. Sulzenbacher, U. Meise: Randomized clinical trial of telepsychiatry through videoconference versus face-to-face conventional psychiatric treatment. In: Telemed J E Health 12, 2006, S. 341–350, PMID 16796502.
+ R. O'Reilly, J. Bishop, K. Maddox, L. Hutchinson, M. Fisman, J. Takhar: Is telepsychiatry equivalent to face-to-face psychiatry? Results from a randomized controlled equivalence trial. In: Psychiatr Serv 58, 2007, S. 836–843, PMID 17535945.
+ S. P. Singh, D. Arya, T. Peters: Accuracy of telepsychiatric assessment of new routine outpatient referrals. In: BMC Psychiatry 7, 2007, S. 55–55, PMID 17919329 .
+ S. R. Levine, K. M. McConnochie: Telemedicine for acute stroke: when virtual is as good as reality. In: Neurology 69, 2007, S. 819–820, PMID 17724282.
+ S. Schwab, B. Vatankhah, C. Kukla, M. Hauchwitz, U. Bogdahn, A. Fürst, H. J. Audebert, M. Horn: Long-term outcome after thrombolysis in telemedical stroke care. In: Neurology 69, 2007, S. 898–903, PMID 17724293.
+
+Weblinks 
+ https://tempis.de/
+
+Psychiatrie
+Telematik

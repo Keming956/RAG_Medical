@@ -1,0 +1,28 @@
+The Childhood Autism Spectrum Test, abbreviated as CAST and formerly titled the Childhood Asperger Syndrome Test, is a tool to screen for autism spectrum disorder in children aged 4–11 years, in a non-clinical setting. It is also called the Social and Communication Development Questionnaire.
+
+Development
+The questionnaire was developed by the Autism Research Centre at the University of Cambridge, by Fiona J Scott, Simon Baron-Cohen, Patrick Bolton, and Carol Brayne.
+
+Pilot Study
+The pilot study was used to discern the preliminary cutoff scores for the CAST. Parents of 13 children with Asperger Syndrome and 37 typically developing children completed the CAST questionnaire. There were significant differences in average scores, with the Asperger Syndrome sample average of 21.08 (range 15–31) and the typical sample average of 4.73 (range 0–13).
+
+Main Study
+Parents of 1,150 primary school aged children were sent the CAST questionnaire, with 199 responders and 174 taking part in the full data analysis. The results suggested that, compared to other screening tools currently available, the CAST may be useful for identifying children at risk for autism spectrum disorders, in a mainstream non-clinical sample.
+
+Additional Research
+Research is ongoing to establish accurate sensitivity data, validity, reliability, to replicate current findings in a larger and geographically more diverse sample, and to study the epidemiological issues in greater detail. The PhenX Toolkit uses CAST as its child protocol for symptoms of autism spectrum disorders.
+
+Format
+The CAST questionnaire contains 39 yes-or-no questions about the child's social behaviors and communication tendencies. It also contains a separate special needs section that asks about other comorbid disorders that the child might have.
+
+See also
+ List of diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links
+ CAST questionnaire - PDF format
+ CAST questionnaire - Online format
+
+Psychiatric instruments: autism
+Psychiatric instruments: child and adolescent psychiatry

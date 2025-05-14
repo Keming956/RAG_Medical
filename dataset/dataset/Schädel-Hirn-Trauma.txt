@@ -1,0 +1,139 @@
+Als Schädel-Hirn-Trauma (, Abkürzung SHT oder TBI für engl. traumatic brain injury) oder Schädel-Hirn-Verletzung (auch Hirnverletzung) bezeichnet man jede Verletzung des Gehirns aufgrund einer äußeren Ursache (Krafteinwirkung). Der Begriff bezieht sich jedoch nicht auf gegebenenfalls damit verbundene Schädelfrakturen oder Kopfplatzwunden. Oft wird wegen der Möglichkeit von Hirnblutungen oder anderen Komplikationen bei einem Schädel-Hirn-Trauma eine Beobachtung im Krankenhaus empfohlen, selbst bei einem nur leichten Schädel-Hirn-Trauma, das oft auch als „Gehirnerschütterung“ bezeichnet wird. Eine Verletzung des Schädels durch stumpfe Gewalt und nur geringen Symptomen bezeichnet man als Kopfprellung (Contusio capitis) oder Schädelprellung. Unterschieden werden gedeckte und offene Schädel-Hirn-Traumen.
+
+Ursachen 
+Menschen erleiden Schädel-Hirn-Traumata bei Unfällen, häufig bei Arbeitsunfällen, Verkehrsunfällen, Haushalts- und Sportunfällen.
+
+Helme (z. B. Schutzhelme, Fahrradhelme, Sporthelme) können das Verletzungsrisiko vermindern.
+
+Manche Sportarten bergen ein besonders hohes Risiko eines Schädel-Hirn-Traumas, zum Beispiel durch den Bodycheck beim Eishockey und American Football. 42 % aller Verletzungen, die Eishockeyspieler erleiden, sind direkt auf einen Bodycheck zurückzuführen. Etliche professionelle Eishockey-Spieler mussten nach Kopfverletzungen ihre Sportlerlaufbahn beenden. Die Deutsche Eishockey Liga gab 2012 an, Checks gegen den Kopf- und/oder Nackenbereich härter als früher zu verfolgen. In den Vereinigten Staaten leiden ehemalige Football-Spieler gehäuft an chronischen Hirnkrankheiten.
+
+Einteilungen 
+Man unterteilt das SHT mittels Glasgow-Koma-Skala (GCS):
+ leichtes SHT: GCS 15–13
+ mittelschweres SHT: GCS 12–9
+ schweres SHT: GCS 8–3
+
+Man unterscheidet weiterhin das
+ gedeckte SHT und das
+ offene SHT: Perforation von Kopfhaut, Schädelknochen und Zerreißung der harten Hirnhaut (Dura mater).
+
+Früher erfolgte eine Einteilung nach Tönnies und Loew in drei Schweregrade, ausgehend von der Dauer der Bewusstlosigkeit, der Rückbildung der Symptome und den Spätfolgen:
+ SHT 1. Grades (Commotio cerebri oder Gehirnerschütterung): leichte, gedeckte Hirnverletzung mit akuter, vorübergehender Funktionsstörung des Gehirns. Sie geht mit sofortiger kurzfristiger Bewusstseinsstörung von einigen Sekunden bis zu maximal zehn Minuten einher. Weitere typische Symptome sind retrograde Amnesie (Gedächtnislücke für das Unfallereignis und einen Zeitraum vor dem Unfallgeschehen), Übelkeit und/oder Erbrechen. Eine anterograde Amnesie (Gedächtnisverlust für die Zeit nach dem Unfallgeschehen) tritt selten auf (sie ist in der Regel Zeichen einer höhergradigen Hirnverletzung). Neurologische Ausfälle treten nach Abklingen der Bewusstlosigkeit nicht auf. Beschwerden wie etwa Apathie, Leistungsminderung, Kopfschmerzen, Schwindel und Übelkeit können im Rahmen eines so genannten postkommotionellen Syndroms mehrere Wochen fortbestehen.
+ SHT 2. Grades (Contusio cerebri, Gehirnprellung oder Hirnprellung): Es handelt sich um eine gedeckte Verletzung bzw. Zerstörung von Gehirnsubstanz durch stumpfe Gewalt. Die Bewusstlosigkeit dauert länger als zehn Minuten. Spätfolgen sind von der Lokalisation der Hirnverletzung abhängig. Keine Perforation der Dura mater. Die Contusio tritt sehr oft mit einer Commotio cerebri zusammen auf.
+ SHT 3. Grades (Compressio cerebri oder Gehirnquetschung): Die Bewusstlosigkeit dauert länger als 60 Minuten und ist verursacht durch Einklemmung des Gehirns durch Blutungen (etwa bei einem Epiduralhämatom), Ödeme oder ähnliche Vorgänge. Das Gehirn ist der einzige große Körperteil des Menschen, der fast vollständig von Knochen umgeben ist. Dieser besondere Schutz kann jedoch bei raumfordernden Prozessen zur Gefahr werden, da das gesamte Gehirn unter dem Druckanstieg und der folgenden Einklemmung leiden kann. Die Folge ist oftmals ein lang andauerndes Koma (das oft künstlich verlängert wird), ein komaähnlicher Zustand oder gar der Tod. Zur Druckentlastung kann eine temporäre Entfernung eines Teils der Schädeldecke (einige Monate) angewandt werden. Dauerhafte Hirnverletzungen sind zu erwarten, aber nicht zwangsläufig.
+
+Die Einteilung ist sehr schematisch. Beispielsweise hat eine traumatische Verletzung des Frontalhirns nicht unbedingt eine Bewusstlosigkeit zur Folge, kann aber zu einer dauernden Hirnverletzung führen (Frontalhirnsyndrom). Meist wird heute nur noch zwischen leichtem, mittelschwerem und schwerem Schädel-Trauma differenziert (gemäß Glasgow-Koma-Skala). Eine leichtere Beschwerden wie Kopfschmerzen und Schwindel verursachende Schädelverletzung durch stumpfe Gewalt, ohne dass das vollständige Bild einer Gehirnerschütterung hervorgerufen wird, bezeichnet man als Kopfprellung (Contusio capitis) oder Schädelprellung.
+
+Pathophysiologie 
+Bei einem SHT erfolgt die Beschädigung neuronaler Strukturen in zwei Phasen. Die erste Phase betrifft die akute Verletzung: Die Schädigung neuronaler Strukturen kann hier nicht mehr verhindert werden. Die zweite Phase der Hirnschädigung beginnt erst später: Durch verschiedene pathophysiologische Prozesse kommt es zu einer verspäteten und nicht-mechanischen neuronalen Schädigung, die durch eine adäquate Therapie möglicherweise abgemildert werden kann.
+
+Symptome 
+Die folgenden Symptome können auf ein Schädel-Hirn-Trauma hindeuten. Einige der genannten Symptome können sich teilweise auch erst einige Zeit nach dem Trauma entwickeln. Dies wird als Latenz oder Latenzzeit (Zeitraum zwischen Auftreten des Traumas und des Symptoms) bezeichnet.
+
+ Bewusstseinsstörung, eventuell mit zunehmender Eintrübung, bis zur Bewusstlosigkeit
+ Kopfschmerzen bestehen bei bis zu 95 % der Patienten und können auch verzögert, bis sieben Tage nach dem Trauma auftreten. Sie können für Wochen bis Monate bestehen, nach drei Jahren litten in einer Fallserie noch 13 % unter persistierenden Kopfschmerzen.
+ Schwindel und Gleichgewichtsstörungen
+ Liquorfluss aus dem Ohr
+ Austritt von Hirnmasse
+ Schielen (Déviation conjuguée)
+ Augenzittern
+ Pupillendifferenz (unterschiedlich große Pupillen)
+ Pupillenstarre
+ Lähmungen an Armen oder Beinen
+ Krämpfe, Krampfanfälle, Streckstarre
+ Atemstörung, etwa durch Verlegung der Atemwege durch Zurückfallen der Zunge
+ Übelkeit und Erbrechen
+ Wortfindungsstörungen (Amnestische bzw. anomische Aphasie)
+ Erinnerungslücken (Amnesie)
+ visuelle Halluzinationen (Photopsien)
+
+Die Pupillendifferenz (Anisokorie) und zunehmende Bewusstseinsstörungen sind besondere ernst zu nehmende Warnzeichen, da sie Hinweise auf eine Blutung innerhalb des Schädels sein können. Tritt nach einer unmittelbar posttraumatischen, zunächst zeitlich begrenzten Bewusstlosigkeit später eine zweite Phase von Bewusstseinsstörung auf, bezeichnet man die dazwischenliegende Phase klareren Bewusstseins als freies Intervall. Ein solcher Verlauf wird als Anzeichen einer epiduralen oder subduralen Hirnblutung gewertet.
+
+Diagnostik 
+Das Schädel-Hirn-Trauma ist eine potentiell lebensbedrohende Erkrankung. Daher muss der Patient umgehend untersucht werden:
+ Klinisch-neurologische Untersuchung: Prüfung der Bewusstseinslage (einschließlich Sprache und Gedächtnis), der Hirnnerven (Auge, Ohr, Mimik, Zunge und Rachen), der Bewegungsfähigkeit (Kraft, Koordination) und der Sensibilität. Dabei Einschätzung der Glasgow-Koma-Skala und Prüfung der Indikation für eine Computertomographie. Da das SHT oft im Rahmen eines Polytraumas auftritt, müssen auch alle anderen Körperregionen untersucht werden.
+ Computertomographie (CT) des Kopfes: Mittels des Röntgenverfahrens kann festgestellt werden, ob und wo Blutungsherde, Gewebeschäden oder Hirndruckzeichen vorhanden sind. Bei Kindern ist zu prüfen, ob die CT wegen der Strahlenbelastung durch die Magnetresonanztomographie ersetzt werden kann.
+ Bei Beuge- und/oder Strecksynergismen am Unfallort, arterieller Hypotension und höherem Lebensalter besteht die Indikation zur Anlage eines invasiven Hirndruckmonitorings mittels einer intraventrikulären ICP-Sonde.
+ Die Analyse des Proteins S100 aus dem Blut kann zur Ausschlussdiagnose des leichten Schädel-Hirn-Traumas verwendet werden, ist aber kaum verfügbar.
+Danach müssen die unmittelbaren (akuten) Therapieentscheidungen getroffen werden: Indikation für Operation, Intensivmedizin, weitere fachärztliche Untersuchungen (Augenarzt, HNO-Arzt usw.), stationäre Überwachung oder Entlassung (z. B. bei Schädelprellung ohne SHT).
+
+Im Intervall sind oft weitere Untersuchungen sinnvoll:
+ Magnetresonanztomographie (MRT): Die Bilder lassen bereits kleine Schäden an verschiedenen Hirngebieten erkennen. Auch ist eine frühe Aussage zur Prognose beim schweren SHT möglich. Voraussetzung für diese Untersuchung ist die Ruhelage des Patienten.
+ Das Elektroenzephalogramm (EEG): Damit werden die Hirnströme, also die Funktion des Gehirns gemessen (Frage nach epileptischen Anfällen, Prüfung der Reaktion auf Außenreize beim schweren SHT).
+ Evozierte Potentiale: Nervenbahnen werden auf ihre Durchlässigkeit überprüft. Auge, Ohr und Haut werden elektrisch gereizt. Reaktionen darauf lassen auf Störungen an bestimmten Schaltstellen schließen. Besonders SEP und AEP erlauben oft Aussagen zur Prognose beim schweren SHT.
+ Der augenärztliche Befund: Klärung zusätzlicher Verletzungen des Auges (Einblutung, Perforation, Netzhautablösung).
+ Post mortem finden sich als Hinweise auf ein schweres SHT bei einer Autopsie Plaques jaunes.
+
+Mit Hilfe von MicroRNAs aus dem Speichel ergeben sich Hinweise auf den Schweregrad einer Gehirnerschütterung, insbesondere bei Kindern, wie Forscher um Steven Hicks von der Pennsylvania State University festgestellt haben. Etwa ein Drittel der Kinder, die eine Gehirnerschütterung erleiden, entwickeln länger andauernde Gehirnerschütterungssymptome. Die Speichel-MicroRNAs stellen leicht messbare, physiologisch relevante und genaue potentielle Biomarker für ein Schädel-Hirn-Trauma dar, die eine Vorhersage der Symptomatik erlauben.
+
+Auswirkung auf das Gangbild
+
+Bei Patienten bei denen sich durch das Schädel-Hirn-Trauma eine Lähmung der Beine in Form einer spastischen Hemiplegie oder Diplegie entwickelt hat, lassen sich verschiedene Gangbilder beobachten, die in der genauen Ausprägung nur mithilfe von komplexen Ganganalysesystemen beschrieben werden können. Um bei Therapiebesprechungen eine fachübergreifende Kommunikation im interdisziplinären Team zwischen Betroffenen, Ärzten, Physiotherapeuten und Orthopädietechnik-Mechanikern zu erleichtern ist eine einfache Beschreibung des Gangbildes sinnvoll. J. Rodda und H. K. Graham haben bereits im Jahr 2001 beschrieben, wie sich Gangbilder leichter erkennen lassen und haben Gangtypen definiert, die sie in einer Klassifikation gegenübergestellt haben. Sie beschrieben auch, dass die Gangbilder mit zunehmendem Alter variieren können. Darauf aufbauend wurde an der freien Universität in Amsterdam, dem VU medisch centrum, die Amsterdam Gait Classification entwickelt. Eine Besonderheit dieser Klassifikation ist, dass sie unterschiedliche Gangbilder sehr einfach erkennbar macht und bei Patienten angewendet werden kann, bei denen sowohl nur ein Bein als auch beide Beine betroffen sind. Die Amsterdam Gait Classification wurde zur Betrachtung von Patienten mit Cerebralparese entwickelt. Sie lässt sich aber genauso gut bei Patienten mit Schädel-Hirn-Trauma anwenden. Nach der Amsterdam Gait Classification werden fünf Gangtypen beschrieben. Zur Beurteilung des Gangbildes wird der Patient visuell oder über eine Videoaufzeichnung von der Seite des zu beurteilenden Beines betrachtet. Zu dem Zeitpunkt an dem sich das zu betrachtende Bein in der mittleren Standphase (englisch Mid stance) befindet und das nicht zu betrachtende Bein in der mittleren Schwungphase (Mid swing), wird einerseits der Kniewinkel und zusätzlich der Kontakt des Fußes zum Boden beurteilt.
+
+Klassifizierung des Gangbildes nach der Amsterdam Gait Classification: Beim Gangtyp 1 ist der Kniewinkel normal und der Fußkontakt vollständig. Beim Gangtyp 2 ist der Kniewinkel überstreckt und der Fußkontakt vollständig. Beim Gangtyp 3 ist der Kniewinkel überstreckt und der Fußkontakt unvollständig (nur auf dem Vorfuß). Beim Gangtyp 4 ist der Kniewinkel gebeugt und der Fußkontakt unvollständig (nur auf dem Vorfuß). Beim Gangtyp 5 ist der Kniewinkel gebeugt und der Fußkontakt vollständig.
+
+Die Gangtypen 3 und 4 werden auch als Steppergang bezeichnet und der Gangtyp 5 wird auch Kauergang genannt.
+
+Behandlung 
+Die Behandlung eines Schädel-Hirn-Traumas kann sich je nach Schweregrad und Begleitverletzungen unterscheiden. Die Sofortmaßnahmen, die noch am Unfallort ergriffen werden, konzentrieren sich darauf, die Herz-Kreislauffunktion zu stabilisieren und alle Zustände zu beseitigen, die mit Blutdruckabfall (Hypotension) und verminderter Sauerstoffkonzentration (Hypoxie) im Blut einhergehen. Es müssen also Maßnahmen ergriffen werden, um die Sauerstoffversorgung des Gehirns sicherzustellen. Bewusstlose Patienten werden daher intubiert, und atemrelevante Begleitverletzungen wie Pneumothorax müssen ebenfalls behandelt werden.
+
+Bei einem SHT ersten Grades (und wenn keine Begleitverletzungen vorliegen) ist dazu nur die symptomatische Behandlung von Übelkeit und Erbrechen, Bettruhe und eine stationäre Überwachung von 12–24 Stunden nötig.
+
+Bei einem SHT zweiten oder höheren Grades sind weitere Maßnahmen erforderlich: Die Sicherung der Atmung durch Sauerstoffgabe und Intubation, Flüssigkeitsersatz je nach Verlust, Schockbehandlung (falls erforderlich), Hirndruckbekämpfung durch Oberkörperhochlagerung, Intubation, milde Hyperventilation, (starke) Sedierung mittels Benzodiazepin und Propofol und ggf. Barbiturat, da diese Substanzen gleichzeitig den Hirndruck senken und den zerebralen Stoffwechsel reduzieren. Chirurgische Maßnahmen kommen unmittelbar in Betracht, wenn raumfordernde Blutungen entstanden sind.
+
+Zur weiteren Behandlung und Überwachung muss der Patient ins nächste Krankenhaus, das über ein CT verfügt, transportiert werden.
+
+Steigt der Hirndruck trotz maximaler konservativer Therapie zu stark an, empfiehlt sich eine Entlastungskraniektomie. Bei dieser Operation werden Teile des Schädels entfernt, um dem angeschwollenen Gehirn mehr Platz zu verschaffen und so zur Hirndrucksenkung beizutragen. Die entfernten Schädelteile können nach dem Rückgang der Schwellung, üblicherweise nach 4 Wochen bis 6 Monaten, wieder eingesetzt werden.
+
+Die Rückbildung der Symptome bei einer Gehirnerschütterung kann 10 bis 25 Tage dauern, in weniger schweren Fällen auch nur 3–7 Tage. Sie wird unterstützt durch Ruhe sowie Vermeiden von Fernsehen, Lärm und Stress.
+
+Übt ein Betroffener nach einer im Kontakt-Sport erlittenen Gehirnerschütterung seinen Sport unmittelbar weiter aus, verdoppelt sich die Zeit für die Rückbildung seiner Symptome.
+
+Im Rahmen des SHT können verschiedene Komplikationen auftreten, deren Therapie jeweils gesondert beschrieben sind: Bewusstlosigkeit, Hirndruck, Epiduralblutung, Subduralblutung und Schädelbasisbruch.
+
+Hypothermie 
+In der Theorie soll eine kurz nach dem Trauma eingeleitete Hypothermie, also künstliche Absenkung der Körpertemperatur, den Energie- und Sauerstoffbedarf des Gehirns senken, die Entzündungsreaktion (Enzephalitis) und das Risiko von bleibenden Hirnschäden reduzieren. Die ersten beobachtenden experimentellen Studien zeigten auch deutliche neuroprotektive Ergebnisse. Inzwischen liegt mit der POLAR-Studie von 2018 aber die vierte große multizentrische randomisierte Studie vor, die eindeutig zeigt, dass eine Hypothermie keine protektive Wirkung entfaltet.
+In dieser Studie mit 466 Patienten nach schwerer, traumatischer Hirnschädigung erfolgte die Hypothermie im Durchschnitt 1,8 Stunden nach der Hirnverletzung. Nach 22,5 Stunden erfolgte eine langsame Wiedererwärmung. Nach 6 Monaten wurde das Ergebnis mithilfe der Glasgow Outcome Scale überprüft. Mit Hypothermie war in 48,8 % das Ergebnis günstig, ohne Hypothermie in 49,1 % (relatives Risiko  RR=0,99, nicht signifikant). Unter Hypothermie waren Lungenentzündungen (55 % gegen 51,3 %) und intrakranielle Blutungen (18,1 % gegen 15,4 %) häufiger.
+
+Integration von Orthesen in das Therapiekonzept 
+
+Zur Verbesserung des Gangbildes können Orthesen in das Therapiekonzept einbezogen werden. Die Orthesenversorgung kann die physiotherapeutische Behandlung dabei unterstützen, die richtigen motorischen Impulse zu setzen, um neue cerebrale Verknüpfungen zu schaffen. Die Orthese muss den Anforderungen der ärztlichen Verordnung entsprechen. Außerdem muss sie vom Orthopädietechnik-Mechaniker so konstruiert werden, dass sie die zum Gangbild passenden erforderlichen Hebelwirkungen erzielt, um die propriozeptiven Ansätze der Physiotherapie zu unterstützen. Die orthetischen Versorgungskonzepte orientieren sich an den Konzepten zur Versorgung von Patienten mit Cerebralparese. Dabei spielt die Charakteristik der Steifigkeit der Orthesenschalen und die einstellbare Dynamik im Knöchelgelenk eine entscheidende Rolle. Die Entwicklung von Orthesen hat sich aufgrund dieser Anforderungen in den letzten Jahren, insbesondere seit ca. 2010 stark verändert. Ungefähr zeitgleich wurden Versorgungskonzepte entwickelt, die sich intensiv mit der orthetischen Versorgung der unteren Extremität bei Cerebralparese beschäftigen. Moderne Materialien und Funktionselemente ermöglichen die gezielte Anpassung der Steifigkeit an die Anforderungen, die sich aus dem Gangbild des Patienten ergeben. Die Anpassung der Steifigkeit hat entscheidenden Einfluss auf die Beeinflussung des Gangbildes und auf den Energieeinsatz beim Gehen.
+
+Sonstiges 
+Es gibt ein Konsenspapier des IOC und der FIFA, das konkrete Richtlinien zum diagnostischen Vorgehen nach dem Auftreten einer leichten Kopfverletzung im Sport sowie Empfehlungen für die Kriterien zur schrittweisen Rückkehr ins Trainings- und Spielgeschehen enthält (, SCAT).
+
+Neben dem GCS sind folgende Kontrollfragen aufgeführt, die u. a. zur Bewertung herangezogen werden:
+Kopfschmerzen, Druck im Kopf, Nackenschmerzen, Übelkeit oder Erbrechen, Schwindelgefühl, verschwommenes Sehen, Gleichgewichtsstörungen, Licht- oder Lärmempfindlichkeit, das Gefühl „alles ist langsamer“, man fühlt sich „wie im Nebel“, man fühlt sich nicht „beieinander“, Konzentrationsschwierigkeiten, Erinnerungslücken, Müdigkeit oder niedrige Energie, Verwirrtheit, Schläfrigkeit, Probleme beim Einschlafen (falls zutreffend), mehr Emotionen/Reizbarkeit/Traurigkeit, Nervosität und Ängstlichkeit.
+
+Eine wissenschaftliche Longitudinal-Studie an 235.110 Patienten mit einer Gehirnerschütterung ergab, dass 667 von diesen später (median 9,3 Jahre danach) Suizid begingen. Das entspricht jährlich 31 Selbsttötungen unter 100.000 Patienten oder 3fach mehr Suiziden als in der Normalbevölkerung.
+
+Siehe auch 
+Chronisch-traumatische Enzephalopathie
+
+Literatur 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rainer Fritz Lick, Heinrich Schläfer: Unfallrettung. Medizin und Technik. Schattauer, Stuttgart / New York 1973, ISBN 978-3-7945-0326-1; 2., neubearbeitete und erweiterte Auflage, ebenda 1985, ISBN 3-7945-0626-X, S. 188–190 (Schädel-Hirn-Verletzungen).
+
+Weblinks 
+
+ Unterschätzter Befund. Forscher warnen vor Verharmlosung von Gehirnerschütterungen. Spiegel Online, 18. Januar 2010.
+ Ratgeber Schädelhirntrauma
+ Projekt zum Thema „Leichte Kopfverletzungen im Sport“ in Deutschland. sportneuropsychologie.de
+ Heads Up: Concussion in Youth Sports
+ Fact Sheet (PDF; 265 kB)
+
+Einzelnachweise 
+
+Krankheitsbild in der Neurologie
+Krankheitsbild in Orthopädie und Unfallchirurgie
+Krankheitsbild in der Neurochirurgie
+Kindertraumatologie
+Krankheitsbild in der Notfallmedizin
+Gehirn
+
+fr:Traumatisme crânien#La commotion cérébrale

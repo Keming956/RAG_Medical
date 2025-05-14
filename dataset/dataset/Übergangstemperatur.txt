@@ -1,0 +1,16 @@
+Die Übergangstemperatur (Englisch: Nil-ductility temperature NDTT oder ductile–brittle transition temperature DBTT) bezeichnet eine Temperatur zwischen Hoch- und Tieflage eines Werkstoffes in Bezug auf seine Zähigkeitseigenschaften. Bei Abkühlung unter die Übergangstemperatur kommt es zu einem starken Abfall der Schlagarbeit, die an einem Prüfkörper im Kerbschlagbiegeversuch verbraucht wird.
+
+Von Bedeutung ist dies besonders bei Standardstählen mit kubisch raumzentriertem Kristallsystem (krz), da sie unterhalb der Übergangstemperatur sprödbrechend werden. Das muss bei der Konstruktion von Werkstücken aus diesem Material in Hinblick auf die voraussichtliche Einsatztemperatur berücksichtigt werden.
+
+Die Übergangstemperatur wird beeinflusst durch die chemische Zusammensetzung (insbesondere durch die „Stahlschädlinge“ Wasserstoff und Stickstoff), Korngröße, Wärmebehandlungszustand etc. Da es sich um einen kontinuierlichen Übergang handelt, wurden verschiedene Definitionen erarbeitet (z. B. 27 J im Kerbschlagbiegeversuch oder 50 % Sprödbruchanteil im Battelle-drop-weight-tear-Test).
+
+Historisch wurde dieses Thema in der Technik besonders untersucht, als Kriegsschiffe der Liberty-Klasse auf ihrer Nordroute im Polarmeer oder sogar noch im Hafen häufig ohne Feindeinwirkung verloren gingen.
+
+Siehe auch 
+ Glasübergangstemperatur
+ Spaltbruchspannung
+
+Werkstoffeigenschaft
+Ubergangstemperatur
+
+en:Ductile-brittle transition temperature

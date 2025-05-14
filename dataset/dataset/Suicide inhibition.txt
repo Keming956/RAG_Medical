@@ -1,0 +1,29 @@
+In biochemistry, suicide inhibition, also known as  suicide inactivation or mechanism-based inhibition, is an irreversible form of enzyme inhibition that occurs when an enzyme binds a substrate analog and forms an irreversible complex with it through a covalent bond during the normal catalysis reaction. The inhibitor binds to the active site where it is modified by the enzyme to produce a reactive group that reacts irreversibly to form a stable inhibitor-enzyme complex. This usually uses a prosthetic group or a coenzyme, forming electrophilic alpha and beta unsaturated carbonyl compounds and imines.
+
+Examples
+Some clinical examples of suicide inhibitors include:
+ Disulfiram, which inhibits the acetaldehyde dehydrogenase enzyme.
+ Aspirin, which inhibits cyclooxygenase 1 and 2 enzymes.
+ Clavulanic acid, which inhibits β-lactamase: clavulanic acid covalently bonds to a serine residue in the active site of the β-lactamase, restructuring the clavulanic acid molecule, creating a much more reactive species that attacks another amino acid in the active site, permanently inactivating it, and thus inactivating the enzyme β-lactamase.
+ Penicillin, which inhibits DD-transpeptidase from building bacterial cell walls. 
+ Sulbactam, which prohibits penicillin-resistant strains of bacteria from metabolizing penicillin.
+ AZT (zidovudine) and other chain-terminating nucleoside analogues used to inhibit HIV-1 reverse transcriptase in the treatment of HIV/AIDS.
+ Eflornithine, one of the drugs used to treat sleeping sickness, is a suicide inhibitor of ornithine decarboxylase.
+ Nerve agent and related pesticides such as parathion are organophosphorus suicide inhibitors of acetylcholinesterase with aging times dependent on the lability of leaving groups present on the organophosphorus moiety of the molecule.
+5-fluorouracil acts as a suicide inhibitor of thymidylate synthase during the synthesis of thymine from uridine. This reaction is crucial for the proliferation of cells, particularly those that are rapidly proliferating (such as fast-growing death cancer tumors). By inhibiting this step, cells die from a thymineless death because they have no thymine to create more DNA. This is often used in combination with methotrexate, a potent inhibitor of dihydrofolate reductase enzyme.
+O6-Benzylguanine, a drug which depletes O6-alkylguanine-DNA alkyltransferase by virtue of its similarity to the DNA repair protein's target lesion. 
+Exemestane, a drug used in the treatment of breast cancer, is an inhibitor of the aromatase enzyme.
+Selegiline, although in the attached reference the compound is called a 'suicide inactivator' (not inhibitor).
+Vigabatrin, an anticonvulsant, is a suicide inhibitor of GABA-T.
+
+Rational drug design
+Suicide inhibitors are used in what is called "rational drug design" where the aim is to create a novel substrate, based on already known mechanisms and substrates. The main goal of this approach is to create substrates that are unreactive until within that enzyme's active site and at the same time being highly specific. Drugs based on this approach have the advantage of very few resulting side effects.
+
+See also 
+Metabolic trapping
+
+References 
+ 
+
+Enzyme inhibitors
+Covalent inhibitors

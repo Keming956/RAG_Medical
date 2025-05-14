@@ -1,0 +1,17 @@
+Die Hospital Anxiety and Depression Scale (HADS) ist ein Fragebogen zur Selbstbeurteilung von depressiven Symptomen und Angstsymptomen. Er umfasst 14 Fragen mit vierstufigen Antwortmöglichkeiten. Die englische Version stammt von A. S. Zigmond und R. P. Snaith aus dem Jahr 1983. Die deutsche Fassung (HADS-D) wurde 1991 von Ch. Herrmann, U. Buss und R.P. Snaith im Jahr 1995 veröffentlicht. Der Test wird als Screeningverfahren bezeichnet, das auf leichtere Störungsformen abzielt. Auf „intrusive Items“ und Fragen nach körperlichen Indikatoren für psychische Störungen werde verzichtet, um zu vermeiden, dass das Ergebnis durch organische Krankheiten konfundiert wird. Die Angstskala bilde vor allem Ängste ab, die generalisiert sind und Panikattacken. Das deutet darauf hin, dass Phobien möglicherweise weniger erfragt werden.
+
+Der Test besteht aus 14 Fragen, wovon 7 sich auf Angst und 7 sich auf Depression beziehen und thematisch abwechselnd dargeboten werden. Für jede Antwort gibt es Punktewerte von 0 bis 3. Durch Addition der Einzelurteile kann eine Angstskala und eine Depressionsskala gebildet werden.
+
+Die Werte werden wie folgt interpretiert:
+ 0–7 unauffällig
+ 8–10 suspekt
+ >10 auffällig
+Es sei auch eine Dichotomisierung möglich.
+
+Testentwicklung 
+Der Test sei an die Hamilton Anxiety Scale und an den Abschnitt über Angst im Present-State-Examination-Interview angelehnt. Ziegmond und Snaith hätten 1983 die interne Konsistenz einer längeren Form der HADS an 100 Patienten einer medizinischen Poliklinik geprüft und anschließend trennschwache Fragen entfernt. Die daraus resultierende besteht aus 14 Fragen. Die Ergebnisse dieser Form hätten sie dann mit Expertenurteilen als Außenkriterium verglichen (Validierung). Dieser Frageboden wurde dann ins Deutsche übersetzt.
+
+Einzelnachweise 
+
+Psychologisches Testverfahren
+Depressionsfragebogen

@@ -1,0 +1,86 @@
+Le matelas immobilisateur à dépression (MID) est un dispositif permettant d'immobiliser entièrement une personne, et en particulier la hanche et la colonne vertébrale. Il est aussi utilisé pour conditionner les grands brûlés, afin de limiter leurs mouvements (qui sont douloureux) et de les isoler du froid. Il a été inventé par Jean Loeb et Charles Haeberlé, qui lui ont donné le nom de « matelas coquille ».
+
+Il se compose d'une enveloppe de toile étanche, lavable et désinfectable, qui contient des billes de polystyrène, et d'une vanne. Lorsque le matelas est sous air, les billes bougent librement et on peut mouler le matelas autour de la victime. Lorsque l'on aspire l'air avec une pompe, la pression atmosphérique plaque les billes les unes contre les autres et le matelas devient rigide.
+
+Préparation 
+
+Avant de l'utiliser, il faut répartir les billes qui ont pu se tasser durant le transport ; une partie pauvre en bille ne sera pas suffisamment rigide. On peut aussi volontairement concentrer les billes à un endroit afin que cette partie là soit plus rigide ; par exemple, si l'on veut maintenir une personne à plat-dos les cuisses fléchies, on peut concentrer les billes au niveau du bassin pour permettre de supporter le poids.
+
+Le MID est posé sur un brancard, ou éventuellement un plan dur, afin de le protéger des aspérités du sol : une fois déchiré, on ne peut plus faire le vide. Les sangles du MID sont glissées entre celui-ci et le brancard afin qu'elles ne gênent pas lors de la manœuvre de relevage.
+
+On pose en général un drap sur le MID, pour trois raisons :
+ cela protège le matelas, la victime pouvant avoir des bijoux ou des bouts de verre sur les vêtements ;
+ afin d'éviter le contact direct de la peau de la victime avec la toile caoutchoutée, notamment pour des raisons d'hygiène (sudation) ;
+ cela facilite le transfert de la victime sur le lit d'hôpital.
+
+Pour permettre de rabattre le drap sur la victime, on peut utiliser la technique de pliage suivante :
+ on place le drap sur le matelas, la grande dimension étant dans l'axe du brancard ;
+ on prend un côté que l'on replie vers le centre, pour laisser quelques centimètres du matelas visible ;
+ la partie centrale est rabattue vers l'extérieur pour dépasser légèrement du matelas ; le drap a ainsi un profil en S ;
+ le coude de la partie pliée est rabattue vers l'extérieur, ce qui inverse le S ;
+ on fait la même opération pour l'autre côté.
+
+Conditionnement 
+
+En cas de suspicion de traumatisme du rachis, on posera toujours un collier cervical. Les pieds de la victime doivent être du côté de la vanne. Pour le confort et l'hygiène de la victime, on placera un drap sur le « coquille ».
+
+On peut relever la victime directement sur le MID & brancard, en utilisant un pont amélioré (en raison des traumatismes supposés), ou éventuellement un pont néerlandais (si aucune autre solution n'est possible, ou bien, si l'état le permet). Si l'on fait un pont néerlandais, le ou les secouristes qui enjambent le brancard font bien attention à replier le MID pour poser le pied sur la hampe du brancard, et non pas sur la toile du matelas. Si l'on utilise un plan dur comme intermédiaire de relevage, il faudra ensuite soulever la victime (avec un pont amélioré) pour retirer la planche : en effet, celle-ci gène le moulage et fait perdre une grande partie de son efficactité au MID. Cependant, dans ce cas-là, on peut envisager aussi une immobilisation directement sur le plan dur (calage latéral de tête et sanglage).
+
+Une fois la victime posée sur le MID, on tire les bords du drap pour recouvrir la victime, en laissant les lésions ainsi qu'au moins une main apparente, ce qui permet de poursuivre la surveillance (et notamment la prise de pouls).
+Puis, on serre les sangles prépositionnées pour assurer un moulage autour de la victime, celui-ci étant complété par l'action des mains des secouristes, et on fait le vide ; on fera attention à ne pas mouler le dessus de la tête ; en effet, un phénomène de rétraction appuierait sur la tête et aggraverait un éventuel traumatisme. En revanche, on moule les côtés de la tête. Si l'on a suffisamment de secouristes, on peut faire un moulage uniquement manuel et serrer les sangles après la mise en dépression, pour améliorer la rigidification. Une fois le vide fait, on pose une couverture si nécessaire (en laissant les parties critiques visibles). 
+
+La procédure canadienne recommande en outre d'utiliser le drap pour faire un rembourrage entre les jambes, et de sangler la tête au MID.
+
+En cas de carence de personnel (trois secouristes disponibles) et en absence de civière à aubes, on peut envisager une méthode de rotation pour relever la victime. Cette méthode est une sorte d'adaptation de la méthode utilisée pour le relevage avec un portoir souple, mais avec une contrainte : l'épaisseur du matelas coquille ne permet pas de le plier. On procède donc comme suit :
+ le MID est placé sur une bâche protectrice à côté de la victime, et mis en légère dépression (trois coups de pompes), ce qui le rigidifie et le rend mois épais ; un drap est positionné sur le MID, décalé vers la victime ;
+ la victime est tournée sur le côté à l'opposé du MID, selon une méthode similaire à la PLS à trois ;
+ le MID est rapproché de la victime par le secouriste qui était aux pieds, la bâche facilitant le glissement ;
+ la victime est remise plat-dos, à cheval sur le bord du MID ; le drap est déplié de dessous elle ;
+ la victime est tirée pour la recentrer sur le MID, le drap facilitant le glissement.
+Si les méthodes de pont présentent des risques de flexion de la colonne vertébrale, cette méthode de rotation présente des risques de torsion, ainsi qu'un certain nombre de manipulations hasardeuses comme le fait de tirer la victime pour la recentrer.
+
+Beaucoup de secouristes mettent en place un MID sur une victime alors qu'elle est déjà conditionnée sur plan dur. Cette précaution est inutile pour deux raisons :
+Aucune amélioration de l'immobilisation n'est effective.
+Elle mobilise deux moyens d'immobilisation en même temps, alors qu'un seul suffit.
+
+Transport 
+
+Le MID est muni de poignées qui facilite sa manutention. Toutefois, la rigidité longitudinale n'est pas suffisante : le poids du corps et l'effet de levier font fléchir le matelas en son centre, ce qui est à proscrire en cas de suspicion de traumatisme du rachis. Donc on placera donc toujours la « coquille » sur un brancard (même à toile souple) : le matelas n'est alors plus en traction sur les poignées, mais posé. Pour de courtes manutentions, on peut se contenter d'utiliser les poignées en employant six équipiers : deux équipiers tenant les poignées du centre, cela évite la flexion. On peut aussi envisager une manutention à quatre équipiers, les équipiers se faisant face et tenant la poignée d'une extrémité d'une main, et une poignée centrale de l'autre.
+
+Lorsqu'il n'y a pas de notion de traumatisme rachidien, on peut se servir du coquille comme portoir dans les endroits peu praticables comme les escaliers en colimaçon. Il permet une inclinaison sans risque de glisser et sans nécessité de sangler la victime (en dehors des sangles du matelas lui-même), avec un grand confort et une sensation de sécurité pour la victime (elle est « enveloppée »).
+
+S'il y a une suspicion de traumatisme rachidien et qu'il faut effectuer un brancardage difficile, on peut envisager de sangler le MID sur un plan dur. On a ainsi une excellente rigidité longitudinale sans pour autant être gêné par les poignées du brancard.
+
+En cas de carence de personnel (deux secouristes disponibles pour lever), on peut positionner les secouristes face-à-face, chacun maintenant la poignée côté tête et celle côté bassin. Toutefois, le poids des jambes risque de créer une flexion du rachis vers le haut (mise en antéversion du bassin). On réservera donc cette méthode à un léger levage, par exemple pour permettre de faire glisser une planche sous le MID par une troisième personne.
+
+Déconditionnement à l'arrivée au service des urgences 
+
+Le MID est transparent aux rayons X, on peut donc faire une radio du rachis et du bassin avec la victime dans le MID. Mais arrivera un moment où la victime devra être déconditionnée pour recevoir les soins hospitaliers.
+
+Une technique possible pour le déconditionnement consiste
+ à aligner le lit et le chariot porte-brancard,
+ à ouvrir la vanne du matelas pour le rendre souple,
+ à lever la victime en saisissant le drap, par exemple en roulant les bords du draps pour améliorer la préhension, avec deux personnes de chaque côté,
+ puis à enlever le brancard pour glisser le lit dessous.
+Si l'équipe doit se rendre disponible rapidement, il est possible d'effectuer cette opération dès l'arrivée.
+
+Avantages et inconvénients 
+
+Le MID est fragile (risque de déchirure), encombrant et lourd à transporter. Par ailleurs, lorsqu'une victime est relevée avec une planche, il impose une manipulation supplémentaire pour retirer la planche.
+
+En revanche, le MID offre un meilleur confort que la planche, une bonne isolation thermique, et c'est le seul dispositif permettant d'immobiliser la hanche. L'immobilisation se faisant sans compression, on réduit le risque de douleur et d'aggravation de traumatisme.
+
+En enrobant la victime, il offre une sensation de sécurité, et il permet d'immobiliser la victime dans la position où elle se trouve, sans qu'il soit nécessaire de la mettre droite. On peut par exemple l'utiliser pour allonger une personne debout (on moule le « coquille » comme une carapace). Si une victime tombe inconsciente alors qu'elle est coquillée, on peut la tourner sur le côté (en position latérale de sécurité).
+
+Notes
+
+Voir aussi
+
+Bibliographie
+
+Liens externes 
+ Lésions de la colonne vertébrale, document des Forces armées terrestres suisses, 25 pages 
+ Manuel du premier répondant, module 9 et module 9-2 « Techniques »
+  A photographic guide to prehospital spinal care, 235 pages  
+
+Matériel de prompt secours

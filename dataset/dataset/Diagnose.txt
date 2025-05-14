@@ -1,0 +1,93 @@
+In der Medizin stellt die Diagnose nach allgemeinem Verständnis die Feststellung oder Bestimmung einer Krankheit dar. Das Wort ist abgeleitet von , ‚Entscheidung‘ (bestehend aus  und , ‚Urteil‘).
+
+Eine Diagnose entsteht durch die zusammenfassende Gesamtschau und Beurteilung der erhobenen Befunde. Dabei kann es sich beispielsweise um einzelne Beschwerden und Krankheitszeichen (Symptome) oder typische Symptomkombinationen (Syndrom) handeln. Auch Normalbefunde oder nicht krankhafte Normabweichungen können zur Diagnosestellung beitragen. Diese Befunde werden durch systematische Befragung (Anamnese), durch eine körperliche Untersuchung sowie durch chemische oder apparative Untersuchungen erhoben. Die Diagnose ist entscheidend für die weitere Vorgehensweise bei der Behandlung.
+
+In medizinischen Klassifizierungssystemen, wie der Internationalen Klassifikation der Krankheiten (ICD), werden Diagnosen schematisch in Gruppen eingeteilt und so grob abgebildet. Auch in der Psychologie wird der Begriff Diagnose verwendet (siehe Psychologische Diagnostik). Im pflegerischen Bereich wird als Pflegediagnose ein Zustand oder ein gesundheitliches Problem bezeichnet, das Pflegemaßnahmen begründet oder beeinflusst.
+
+Wege zur Diagnose 
+Der Weg zur Diagnose, die Diagnosefindung, wird auch als Diagnostik bezeichnet und endet typischerweise mit der Benennung des gefundenen Krankheitsbildes. In die Benennung gehen häufig auch Vorstellungen über Krankheitsursache und -entstehung (Ätiologie und Pathogenese) ein. Die Diagnostik kann rein klinisch erfolgen (bereits in den Hippokratischen Schriften grundlegend dargestellt). Meist jedoch handelt es sich um die gezielte Abfolge verschiedener Untersuchungen, z. B. Psychologische Diagnostik oder Bildgebende Diagnostik.
+
+Mit dem Begriff Routinediagnostik kann gemeint sein:
+ eine ohne besonderen Aufwand, ohne extra Anforderung, durchführbare Maßnahme (z. B. bei Laboren)
+ eine Abfolge von ohne konkreten Verdacht durchgeführten Maßnahmen (z. B. bei Screening, „mal durchchecken“)
+ eine in Behandlungsleitlinien für klinische Symptome (z. B.: Hinterwandinfarkt) durchzuführende Maßnahme
+ eine in Behandlungsprotokollen in festen Zeitabständen durchzuführende Maßnahme
+
+Arten von Diagnosen 
+Im Idealfall fügen sich die erhobenen Einzelbefunde zu einem einheitlichen Bild zusammen und lassen nur eine einzige sichere Diagnose zu. Nicht in allen Fällen können jedoch sichere Diagnosen herausgearbeitet werden, daher haben sich bestimmte traditionelle Begriffe eingebürgert, die sich auf den Grad der Sicherheit einer Diagnose beziehen.
+
+Ausschlussdiagnose 
+
+Die Ausschlussdiagnose () ist eine Diagnose, die sich aus dem schrittweisen Ausschluss aller anderen möglichen Erkrankungen mit denselben Symptomen ergibt, bis nur noch die Ausschlussdiagnose übrig bleibt.
+
+Verdachts- und Arbeitsdiagnose 
+Liefern weder Diagnostik noch Differenzialdiagnostik ein sicheres Ergebnis, dann wird der vermuteten Diagnose ein V. a. (Verdacht auf) vorangestellt. Die Begriffe Verdachts- und Arbeitsdiagnose werden häufig synonym verwendet. Sie sind grundsätzlich Ausgangspunkt weiterer Untersuchungen, um einen Verdacht zu erhärten oder auch zu verwerfen. In der Notfallmedizin wird der Begriff der Arbeitsdiagnose für Symptomenkomplexe verwendet, die im Rahmen einer notärztlichen Versorgung oder in einer Notaufnahme nur zeitverzögert näher differenziert werden können, weil dazu nötige Labor- oder andere Untersuchungen, wie Computertomographie oder konventionelle Röntgendiagnostik, entsprechend Zeit benötigen. Beispiele hierfür sind das akute Koronarsyndrom und das Polytrauma.
+
+Gründe, sich nur auf einen begründeten Verdacht zu beschränken, also keine exakte Diagnose zu stellen, liegen typischerweise darin, dass weiterführende Untersuchungen in keinem sinnvollen Verhältnis zu der therapeutischen Konsequenz stehen, vom Patienten abgelehnt werden oder für diesen ein Gesundheitsrisiko bergen. Auch ein Mangel an Möglichkeiten oder Zeit (beispielsweise im Notfall) oder Kostengründe können dagegenstehen. So ist beispielsweise die Diagnose grippaler Infekt immer eine Verdachtsdiagnose, solange keine virologische Untersuchung durchgeführt wurde. Ebenso hat sich in der Notfallmedizin der Begriff des akuten Koronarsyndroms eingebürgert, unter dem letztlich alle Symptome einer Minderdurchblutung des Herzens zusammengefasst werden. Die Differenzierung, ob es sich also konkret um eine Angina Pectoris oder einen Herzinfarkt handelt, erfolgt dann zweizeitig.
+
+Selbstdiagnose 
+
+Die Selbstdiagnose (auch: Eigendiagnose) ist die medizinische und in der Regel laienhafte Beurteilung von Beschwerden und Symptomen, die eine Person mithilfe von Fachliteratur, Internet (Dr. Google) und anderen Quellen oder Hilfsmitteln an sich selbst vornimmt.
+
+Differentialdiagnose 
+Als Differentialdiagnose (auch Differenzialdiagnose; auf Befundschreiben abgekürzt DD) bezeichnet man die Gesamtheit aller Diagnosen, die alternativ als Erklärung für die erhobenen Symptome (Krankheitszeichen) oder medizinischen Befunde in Betracht zu ziehen sind oder in Betracht gezogen worden sind. Eine systematische Differentialdiagnostik als Lehrgegenstand der Nosologie findet sich erstmals in den Schriften des römischen Arztes Caelius Aurelianus im 5. Jahrhundert.
+
+Diagnose ex juvantibus 
+
+Bei nicht sicher gestellter Diagnose kann gelegentlich durch eine probeweise Therapieanwendung anhand einer beobachteten Verbesserung des klinischen Bildes oder einer Heilung ex post auf die Richtigkeit einer ursprünglichen Diagnose geschlossen werden. Man nennt dies Diagnosis ex juvantibus (Diagnose vom Heilerfolg her).
+
+Fehldiagnose 
+
+Eine falsch gestellte Diagnose wird als Fehldiagnose bezeichnet. Die Ursachen können zum Beispiel an falschen Anwendungen bei den Labormethoden liegen. Häufig wird eine falsche Diagnose den Ärzten angelastet. 2010 wurden durch die Gutachterstellen der Ärzteschaft bei 2.199 Patienten falsche Diagnosen oder Behandlungen festgestellt, in deren Folge 87 Patienten starben. Nach Aussage von Fachleuten ist die Fehlerquote angesichts von rund 400 Millionen Arzt-Patienten-Kontakten pro Jahr jedoch gering.
+
+Vorgehensweise bei der Erarbeitung einer Diagnose (Diagnostik) 
+Bereits beim Erstkontakt kann anhand von Anamnese und körperlicher Untersuchung eine Arbeitsdiagnose erstellt werden. Letztere ist Ausgangspunkt für das weitere Vorgehen, mit dem Ziel notwendige, ergänzende Informationen zu erlangen. Anhand der hinzugekommenen Informationen wird dann im ersten Schritt die Arbeitsdiagnose bestätigt oder verworfen bzw. verändert. Zur Erlangung einer gesicherten Diagnose kann es manchmal mehrerer solcher Schritte bedürfen.
+
+Die Auswahl der notwendigen diagnostischen Methoden richtet sich auch nach der Wahrscheinlichkeit, Therapierbarkeit und Bedrohlichkeit der verbleibenden Differenzialdiagnosen und nach dem mit der Maßnahme verbundenen Aufwand und Risiko. Der Vorgang endet, wenn nur noch eine Diagnose in Frage kommt. Häufig wird der Vorgang vorher aber (vernünftigerweise) abgebrochen – und zwar dann, wenn die verbleibenden Differenzialdiagnosen nur noch Entitäten enthalten, die entweder
+ nicht therapierbar sind,
+ nicht therapiebedürftig sind oder
+ alle die gleiche (dann oft symptomatische) Therapie nahelegen.
+
+Eine Herausforderung der medizinischen Diagnostik ist im Notfall der Zeitmangel.
+
+Grundlegende Diagnostik 
+Die wichtigsten Methoden zur Diagnostik (Herausfinden einer Diagnose) sind die Anamnese (Vorgeschichte, z. B. durch Befragung des Patienten oder anderer Personen aus dem Umfeld), körperliche Untersuchung (Untersuchung des Patienten unter Einsatz der Sinne und einfacher Hilfsmittel, vor allem durch Inspektion, Palpation, Perkussion und Auskultation) sowie die Berücksichtigung des Patientenumfeldes. Dabei können beispielsweise herumliegende Spritzen oder Medikamente am Ort eines Notfalles oder der Zustand der Patientenwohnung wichtige Hinweise geben.
+
+Apparative Diagnostik 
+Die einfachen Untersuchungsmethoden sind in den meisten Fällen hinreichend genau, um Krankheiten mit lebensbedrohlichen Konsequenzen erkennen oder ausschließen zu können. Der Einsatz apperativer Methoden muss bezüglich des zu erwartenden Nutzen-Risiko-Verhältnisses (z. B. bei belastenden Röntgenstrahlen) und Nutzen-Aufwand-Verhältnisses (z. B. bei kostenintensiven MRT-Untersuchungen) abgewogen werden. Apparative Diagnostik kann dann sinnvoll sein, wenn sich daraus Erkenntnisse für die Behandlung des Patienten gewinnen lassen. Ausnahmen hiervon sind etwa Obduktionen zur Klärung von berufsgenossenschaftlichen oder rechtlichen Fragen. Auch im Rahmen der Qualitätssicherung zukünftiger Behandlungen anderer bzw. beim Feststellen genetischer Ursachen einer Erkrankung, um ggf. Angehörige frühzeitig behandeln zu können, kann Apparative Diagnostik hilfreich sein.
+
+Beispiele für Apparative Diagnostik sind Labordiagnostik (Untersuchung von Blut, Urin usw.), Gewebs- und Zelldiagnostik mittels Histologie oder Zytologie, bildgebende Verfahren (Sonografie, Endoskopie, Röntgen, CT, MRT und Nuklearmedizinische Bildgebung), Messung elektrischer Felder des Körpers (EKG, EEG, EMG und ENG), Funktionsuntersuchungen (Lungenfunktionstest, Druckmessungen in Gefäßen und Schließmuskeln), Reflexuntersuchung, Provokations- und Belastungstests (Leistungstests (Ergometrie) und Glukosetoleranztest).
+
+Insbesondere auch die Augenheilkunde bedient sich einer ganzen Reihe von apparativen Untersuchungsgeräten.
+
+Anforderungen an eine Diagnose 
+Ob eine Diagnose sinnvoll und zielführend ist, hängt auch von der Qualität der Definition der zugrundeliegenden Kategorien ab. Einer wohldefinierten Kategorie (zum Beispiel Knochenbruch am Unterarm) lässt sich ein Krankheitsbild anhand weniger Kriterien (Sturz in der Anamnese, Schmerzen (siehe auch: automatisierte Schmerzerkennung), Funktionsausfall des betroffenen Arms, Diskontinuität des Knochens im Röntgenbild) zuordnen und damit einer adäquaten Therapie zuführen (z. B. Gipsschiene).
+
+Im Rahmen der Notfallmedizin kommt es darauf an, in sehr kurzer Zeit Erkenntnisse hinsichtlich der ersten Maßnahmen zu gewinnen. Das ist zum Beispiel gerade bei lebensbedrohlichen Situationen wie dem Herzinfarkt unbedingt erforderlich.
+
+Bei Krankheiten, deren Kategorien weniger scharf definiert, umstritten oder komplex sind, ist das Risiko einer Fehldiagnose und damit einer Fehlbehandlung größer. Dieses Problem betrifft zum Beispiel die Psychiatrie. Insbesondere die Persönlichkeitsstörungen sind hier problematische Kategorien.
+
+Gewöhnlich muss die Aussagekraft eines Diagnoseverfahrens einer Überprüfung nach wissenschaftlicher Methode standhalten können, um von der Hochschulmedizin und der Krankenkasse als anerkannt zu gelten. Nicht alle Diagnosen werden zum Beispiel von den gesetzlichen Krankenkassen in Deutschland bezahlt. Die evidenzbasierte Medizin hat weitere Kriterien dazu entwickelt. Vor allem außerhalb von Krankenhäusern und Arztpraxen werden oft Methoden eingesetzt, die nicht den wissenschaftlichen Kriterien genügen, etwa in der Alternativmedizin und Naturheilkunde.
+
+Klassifizierung 
+Im Rahmen des gesetzlichen Abrechnungssystems (G-DRG) muss für die Verschlüsselung der Diagnosen in Deutschland die ICD-10 verwendet werden (die internationale Klassifikation der Krankheiten). Hierzu gibt das Deutsche Institut für medizinische Dokumentation und Information (DIMDI) eine deutsche Version heraus, die ICD-10-GM (German Modification).
+
+Die ambulanten Kodierrichtlinien (AKR) wurden durch das GKV-Versorgungsstrukturgesetz (GKV-VStG) zum 31. Dezember 2011 abgeschafft.
+
+Siehe auch 
+ Triage, die Ersteinschätzung vor der ersten Diagnose aufgrund krisenhaftem Zeitdruck
+ Fehlerdiagnose
+
+Literatur 
+ Medizinische Diagnostik in Geschichte und Gegenwart. Festschrift für Heinz Goerke zum sechzigsten Geburtstag. Hrsg. von Christa Habrich, Frank Marguth und Jörn Henning Wolf unter Mitarbeit von Renate Wittern. München 1978 (= Neue Münchner Beiträge zur Geschichte der Medizin und Naturwissenschaften: Medizinhistorische Reihe, 7/8).
+ Rudolf Gross: Medizinische Diagnostik: Grundlagen und Praxis. Berlin / Heidelberg / New York 1969 (= Heidelberger Taschenbücher, 48).
+ Walter Siegenthaler: Differentialdiagnose innerer Krankheiten. 15. Auflage. Thieme Verlag, Stuttgart / New York 1984, ISBN 3-13-344815-3.
+
+Weblinks 
+
+ dimdi.de – Übersetzungshilfe für Diagnosen: ICD-10 (German Modification – Version 2013)
+
+Einzelnachweise 
+
+!
+Klinische Psychologie

@@ -1,0 +1,94 @@
+Diagnosis Related Groups (englisch; abgekürzt DRG; deutsch: diagnosebezogene Fallgruppen) bezeichnen ein Klassifikationssystem für ein pauschaliertes Abrechnungsverfahren, mit dem Krankenhausfälle (Patienten) anhand von medizinischen Daten Fallgruppen zugeordnet werden. Zur Fallgruppenbestimmung werden methodische Ähnlichkeiten, die sogenannten Leistungsbezeichner herangezogen. Dies sind etwa Haupt- und Nebendiagnosen, Prozedurenkodes oder demographische Variablen.
+
+DRGs werden seit Mitte der 1980er Jahre in verschiedenen Ländern zur Steuerung der Finanzierung des Gesundheitswesens verwendet. Während in den meisten Ländern die DRGs krankenhausbezogen zur Verteilung staatlicher oder versicherungsbezogener Budgets verwendet werden, wurde in Deutschland das 2003 eingeführte G-DRG-System zu einem Fallpauschalensystem umgestaltet und wird seither zur Abrechnung von Preisen für die einzelnen Behandlungstypen der einzelnen Behandlungsfälle verwendet. Jede Neuaufnahme eines Patienten in Krankenhaus, Rehabilitation und Pflege definiert jeweils einen neuen Fall, der die weitere Behandlung kennzeichnet. Die festgestellten DRG, mit Haupt- und Nebenklassen, werden vom Leistungsträger zum Kostenträger als Abrechnungsgrundlage gemeldet.
+
+Die Bemessung der Pauschalen erfolgt in Deutschland ebenfalls auf der Grundlage der Verteilung des verfügbaren Gesamtbudgets. Diese Fallgruppen werden nach dem für die Behandlung im Vorjahr ermittelten durchschnittlichen betrieblichen Aufwand bewertet und abgerechnet. Die auf DRG reduzierten Pauschalen stellen ein konsensbasiertes Umlagemodell dar. Sie dienen nicht der Kostenerfassung und nicht der Preisbildung nach den tatsächlichen betriebswirtschaftlichen Kosten der Behandlung.
+
+In der Schweiz wurde das Fallpauschalen-System SwissDRG und die damit verknüpfte neue Spitalfinanzierung am 1. Januar 2012 eingeführt. Die Schweizer Version basiert auf dem System German DRG (G-DRG) und wurde angepasst an die Besonderheiten des föderalistisch strukturierten Gesundheitssystems der Schweiz. Zuständig für die Erarbeitung und Weiterentwicklung sowie die Anpassung und Pflege des Schweizer Fallpauschalen-Systems ist die SwissDRG AG.
+
+Grundlagen 
+Im DRG-System werden Patienten anhand medizinischer (Diagnosen, durchgeführte Behandlungen) und demographischer Daten (Alter, Geschlecht sowie das Aufnahmegewicht in Gramm bei Kindern, die jünger sind als 1 Jahr) für Zwecke der Abrechnung in Fallgruppen klassifiziert. Die Fallgruppen dienen jedoch nicht der Bestimmung der medizinischen Behandlung, sondern die Differenzierung erfolgt aufgrund des in der Vorperiode ermittelten typischen Aufwandes (Behandlungskosten). Diese Fallgruppen werden mit einer sogenannten Bewertungsrelation (BR) (engl. cost weight (cw)) bewertet, in der sich die unterschiedlichen Behandlungskosten der jeweiligen Fallgruppe widerspiegeln.
+
+Pauschalabrechnung im Einzelfall 
+Maßgebliche Kriterien für die Zuordnung des Behandlungsfalles zu einer diagnosebezogenen Fallgruppe sind:
+ die Hauptdiagnose (bei den GDRG: die für die Krankenhausaufnahme aus der Retrospektive hauptverantwortliche Diagnose, häufig die Grunderkrankung),
+ im Krankenhaus durchgeführte Prozeduren (Operationen, aufwändige Untersuchungen),
+ Nebendiagnosen und Komplikationen, die den Behandlungsverlauf maßgeblich (indem ihnen ein Aufwand anzurechnen ist) beeinflussen,
+ die Beatmungszeit und
+ patientenbezogene Faktoren wie Alter, Geschlecht der Patienten oder das Geburts- bzw. Aufnahmegewicht bei Frühgeburten und Säuglingen.
+ sowie Verweildauer, Aufnahmeart (Zuverlegung, Einweisung) und Entlassart (Abverlegung, Tod …)
+
+Folgende Schlüsselsysteme werden im Zusammenhang mit den DRG in Deutschland verwendet:
+ ICD-Schlüssel für die Diagnosen nach der deutschen Anpassung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (WHO ICD-10, Variante in D. ICD-10-GM) für die Zwecke des  SGB V (Begutachtung und Beratung) verschlüsselt werden.
+ OPS-Prozeduren-Schlüssel nach dem  „Operationen- und Prozedurenschlüssel“ (OPS) für die Zwecke des  SGB V (Krankenhäuser) nach der Internationalen Klassifikation der medizinischen Prozeduren (ICPM) verschlüsselt werden.
+ DRG-Umschlüsselung aus den genannten Basisdaten ICD und OPS in DRG wird veröffentlicht und mit spezieller und in Deutschland auch zwingend zertifizierter Grouper-Software für die Abrechnung.
+
+Ärzte und pflegendes Personal in deutschen Kliniken sind aufgrund der Arbeitsbelastung sowie wachsenden Komplexität und Entwicklung der DRGs, ICD und OPS zunehmend auf die Hilfe von speziell ausgebildetem Fachpersonal angewiesen. Dieses sollte idealerweise eine Kombination aus medizinischem Hintergrundwissen, weiterführenden Kenntnissen zum DRG-System, betriebswirtschaftlichem Sachverstand sowie praxisorientierten EDV-Kompetenzen vereinen. Um den erheblichen abrechnungstechnischen und medizinischen Anforderungen gerecht zu werden, hat sich eine Weiterbildung bereits ausgebildeten medizinischen Fachpersonals oder geeigneten Abrechnungspersonals zur Medizinischen Kodierfachkraft (MKF) etabliert. Hierbei können Absolventen ein Zertifikat der Industrie- und Handelskammer als Qualifikationsnachweis erwerben. So konnte seit 2013 ein strukturierter Ausbildungsstandard etabliert werden. Bereits im Berufsfeld tätige Fachkräfte können bei entsprechender Eignung das IHK-Zertifikat im Rahmen einer Qualifikations-Prüfung erlangen.
+
+Geschichte
+
+Entwicklung in den Vereinigten Staaten und Australien 
+DRG wurden in den USA an der Yale-Universität von Robert Barclay Fetter und John Devereaux Thompson ab 1967 entwickelt. Sie wurden ursprünglich allerdings nicht als Vergütungssystem entwickelt, sondern als ein reines Patientenklassifikationssystem, das als Managementwerkzeug die Messung, Evaluierung und Steuerung der Behandlungen im Krankenhaus ermöglichen sollte.
+
+Die heute verwendeten und entwickelten Lösungen wurden beispielsweise ab 1983 erstmals als prospektives Vergütungssystem und zur Erfassung der beanspruchten Vergütung im Medicare-Programm der USA eingesetzt (Accounting). In Australien wurde die erste Version 1992 im Bundesstaat Victoria freigegeben. Diese Fassung diente als Referenz für die Implementierung einer gleichartigen Lösung in Deutschland.
+
+DRG dienten in den USA zunächst zur Klassifikation medizinisch ähnlicher Patientenkollektive, erst später wurden daraus Entgeltsysteme durch Hinterlegung mit der Bewertung des Schweregrades der Behandlung und dem Bezug auf die typischen Kosten. Es kam dadurch zur Verschiebung von Anteilen stationärer Leistungen zu ambulanten Leistungen. Die amerikanischen DRG der Centers for Medicare & Medicaid Services (frühere Health Care Financing Administration, HCFA) werden in voller Breite nur für die Bevölkerung über 65 Jahre, die durch das staatliche Medicare-Programm versichert ist, angewendet.
+
+Das Konzept der DRG wurde ursprünglich von Fetter und Thompson ab 1967 auch zur Steuerung klinischer Dienste und zur Messung der Leistung und der Qualität der medizinischen Leistung entworfen. Der anfangs enthaltene Steuerungsaspekt (Scheduling) ist in allen heute international bekannten Lösungen verloren gegangen.
+
+Adaption in Deutschland 
+
+Die Selbstverwaltungsorgane des deutschen Gesundheitswesens wurden im Jahr 2000 durch die Politik aufgefordert, ein bereits existierendes DRG-System als Grundlage des aufzubauenden deutschen Systems auszuwählen. Die Entscheidung fiel auf das System des australischen Bundesstaates Victoria, genannt 'Australian Refined Diagnosis Related Groups' (AR-DRG). Durch Überarbeitung in jährlichen Abständen soll eine Anpassung an die deutsche Behandlungswirklichkeit erreicht werden. Beauftragt ist damit das im Mai 2001 gegründete Institut für das Entgeltsystem im Krankenhaus (InEK GmbH) in Siegburg.
+Seit erster Definition der DRG-Methode gibt es weder im Ursprungsland USA noch in dem als Vorbild betrachteten Australien und auch nicht in Deutschland einen wissenschaftlichen Nachweis, dass das Verfahren die Kosten im Gesundheitswesen dämpft. Zu beobachten ist allenfalls ein Verzögern des Anstiegs ohne Änderung der Dynamik.
+
+Kritik in Deutschland 
+
+Das deutsche DRG-System wird seit seinem Inkraftsetzen 2003 unter anderem deswegen kritisiert, da es zu einer Kommerzialisierung des Gesundheitswesens und einer damit verbundenen deutlichen Erhöhung der Arbeitsbelastung von Pflegekräften und Ärzten führte. Heidrun Gitter, die Vizepräsidentin der Bundesärztekammer beurteilt das Fallpauschalensystem als „schlecht für die Patientensicherheit“. Zuvor hatte schon Günther Jonitz als Präsident der Berliner Ärztekammer geäußert, dass im Gegensatz zu Australien „in Deutschland die DRGs von Beginn an nicht für die Optimierung, sondern zur Dezimierung von Krankenhäusern implementiert“ worden seien. „Die DRGs waren von Beginn an nicht ausfinanziert und zentrale Bereiche wie Personalentwicklungskosten fehlen vollständig.“ Das DRG-System rege, wie Boris Augurzky vom RWI – Leibniz-Institut für Wirtschaftsforschung kritisiert, dazu an, möglichst viele stationäre Fälle zu behandeln, und so „in ein Hamsterrad“ führe.
+
+Homogenität der Kosten 
+
+Oberstes Ziel bei der jährlichen Weiterentwicklung des G-DRG Systems ist die Wahrung einer möglichst hohen Homogenität in den Fallgruppen in Bezug auf die Kosten und die Verweildauer. Zeitgleich ist das Institut für das Entgeltsystem im Krankenhaus angehalten, eine möglichst geringe Komplexität des Systems anzustreben, was mit einer geringen Anzahl an diagnosebezogenen Fallgruppen einhergeht. Diese beiden Parameter bedingen einander, was die Berechnung der Homogenität im Zeitverlauf verdeutlicht. Seit Herausnahme der Pflegepersonalkosten im Jahr 2020 und der gezielten Reduktion der Fallpauschalen im Jahr 2021, konnte zwar das Ziel der möglichst geringen Komplexität gewahrt werden, die Homogenität der Kosten jedoch sank.
+
+Umgehungsstrategien 
+Die inzwischen an einigen Krankenhäusern eingeführten so genannten Prä-Kliniken betreiben keine Triage und auch keine Ersteinschätzung, sondern haben die Bestätigung oder Korrektur der Einweisungsdiagnose gegenüber den strukturierten pauschalen Abrechnungsverfahren zum Inhalt. Formal wird der Patient beim Verlassen der Prä-Klinik und Aufnahme in der normalen Klinik unabhängig von der Einweisungsdiagnose als Fall neu und ökonomisch passend zu dem vorgegebenen strukturierten pauschalen Abrechnungsverfahren klassifiziert.
+
+Adaption in der Schweiz 
+
+Im Dezember 2005 entschied sich das zuständige Gremium der Schweiz zur Einführung eines DRG-Systems auf Grundlage des deutschen Modells. Durch den Prozess der Helvetisierung (Anpassung an die schweizerische Behandlungswirklichkeit) sind daraus die SwissDRG entstanden.
+
+Casemix 
+
+im DRG-System erhält jeder stationäre Patientenfall ein Kostengewicht (Relativgewicht oder Bewertungsrelation), das den ökonomischen Schweregrad der Behandlung beschreibt. So beträgt beispielsweise das Kostengewicht eines Endoprotheseneingriffes am Kniegelenk (DRG I44B) ohne schwere Komplikationen und Komorbiditäten 2,272, während das Kostengewicht einer Hysterektomie (DRG N21B) ohne schwere Komplikationen und Komorbiditäten bei 1,032 liegt. Der Casemix bezeichnet die Summe aller erbrachten DRG-Gewichte eines Krankenhauses und gibt Aufschluss darüber, wie viele Patienten mit welchem ökonomischen Schweregrad behandelt wurden.
+
+Die Grafik zeigt sowohl die absolute als auch die auf Bundesländer verteilte Entwicklung des Casemixvolumens vom Jahr 2010 bis zum Jahr 2018 in Deutschland. Bis zum Jahr 2017 wurde korrelierend mit den steigenden stationären Fallzahlen in Deutschland ein Anstieg des Casemixvolumens verzeichnet. Im Jahr 2018 war diese Entwicklung erstmals rückläufig.
+
+Casemix-Entwicklung der Hauptdiagnosegruppen 
+Die Casemix-Entwicklung in Deutschland der einzelnen Hauptdiagnosegruppen (englisch Major Diagnostic Categories, kurz MDCs) ist in der folgenden Tabelle aufgeführt.
+
+Siehe auch 
+ Base Rate
+ PCCL
+ Pflegediagnose
+
+Literatur 
+ R. Bartkowski, H. Bauer, J. Witte: G-DRG Praxiskommentar zum Deutschen Fallpauschalen-System. ecomed Medizin, 2007, ISBN 978-3-609-10500-0.
+ Wolfram Fischer: Diagnosis Related Groups (DRGs) und Pflege. Grundlagen, Codierungssysteme, Integrationsmöglichkeiten. Huber, Bern 2002, ISBN 3-456-83576-0.
+ Jens Flintrop: Auswirkungen der DRG-Einführung – Die ökonomische Logik wird zum Maß der Dinge. In: Deutsches Ärzteblatt. 46 (2006), 3085  Online-Ausgabe
+ Peter Indra: Die Einführung der SwissDRGs in Schweizer Spitälern und ihre Auswirkungen auf das schweizerische Gesundheitswesen. Verlag Schweiz. Gesellschaft für Gesundheitspolitik SGGP, Zürich 2004, ISBN 3-85707-803-0.
+ InEK GmbH (Hrsg.): G-DRG Fallpauschalenkatalog 2008. ISBN 978-3-940001-11-5.
+ InEK GmbH (Hrsg.): Deutsche Kodierrichtlinien Version 2008. ISBN 978-3-940001-12-2.
+ Ludwig Kuntz, Stefan Scholtes, Antonio Vera: DRG Cost Weight Volatility and Hospital Performance. In: OR Spectrum. Jahrgang 30, Nr. 2, 2008, S. 331–354.
+ Thomas Müller: DRG-Basiswissen für Ärzte und Kodierer. Eine kurze Anleitung. Medizificon Verlag, Mannheim 2007, ISBN 978-3-9810027-5-1.
+ Boris Rapp: Praxiswissen DRG – Optimierung von Strukturen und Abläufen. Kohlhammer-Verlag, 2007, ISBN 978-3-17-019396-3.
+
+Weblinks 
+ Die DRG-Familie (ZIM)
+ Patientenklassifikationssysteme: Grundlagen (ZIM)
+ Swiss DRG
+ Literatursammlung zu G-DRG und Begleitforschung
+
+Einzelnachweise 
+
+Krankenversicherungswesen
+Krankenhauswesen
+Rechnungswesen

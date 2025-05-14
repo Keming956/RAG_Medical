@@ -1,0 +1,42 @@
+En France, depuis le , un diagnostic électrique doit être réalisé à l'occasion de la vente de tout ou partie d'un bien immobilier à usage d'habitation (article L. 134-7 du code de la construction et de l'habitation) lorsque cette installation a été réalisée depuis plus de . Cet état de l’installation électrique doit dater de moins de trois ans, être joint au dossier de diagnostics techniques et être annexé à la promesse de vente ou à défaut de promesse, à l’acte authentique.
+
+Le Décret n°2016-1105 du 11 août 2016 prévoit l'obligation aux propriétaires-bailleurs de fournir un diagnostic électrique daté de moins de  aux nouveaux locataires de tout logement situé dans un immeuble collectif dont le permis de construire a été délivré avant le  à compter du , et aux nouveaux locataires de tout autre logement à compter du .
+
+Le diagnostic est réalisé sur l’ensemble de l’installation électrique privative des locaux à usage d’habitation et de leurs dépendances.
+
+D'après l'ONSE,  d'installations électriques sont considérées à risque et  sont considérées comme représentant un danger grave.
+
+Contenu du diagnostic 
+L'état de l'installation intérieure d'électricité relève l’existant et décrit, au regard des exigences de sécurité, les caractéristiques :
+ d'un appareil général de commande et de protection (AGCP) et de son accessibilité ;
+ d'au moins un dispositif différentiel de sensibilité approprié aux conditions de mise à la terre, à l'origine de l'installation électrique ;
+ d'un dispositif de protection contre les surintensités adapté à la section des conducteurs, sur chaque circuit ;
+ d'une liaison équipotentielle et d'une installation électrique adaptées aux conditions particulières des locaux contenant une baignoire ou une douche (notamment les distances de protection minimales entre les points d'eau et le matériel électrique).
+
+L'état de l'installation intérieure d'électricité identifie :
+ les matériels électriques inadaptés à l'usage ou présentant des risques de contacts directs avec des éléments sous tension ;
+ les conducteurs non protégés mécaniquement.
+
+Document de référence 
+
+En 2011, l'UTE a élaboré la norme expérimentale XP C 16-600 afin de définir le contenu, la méthodologie et les modalités de réalisation de ce diagnostic. Elle précise, en outre, le rôle des différents acteurs concernés (opérateur de diagnostic et donneur d’ordre) ainsi que les éléments devant figurer dans le rapport de visite.
+
+L'arrêté du 10 août 2015 indique que la nouvelle norme pour le diagnostic électrique devra être utilisée à partir du . Le diagnostic électrique se base désormais sur le fascicule de documentation  FD C16-600.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Terre (électricité)
+ Liaison équipotentielle
+ Norme XP C 16-600
+
+Liens externes 
+ Décret n° 2008-384 du 22 avril 2008 relatif à l'état de l'installation intérieure d'électricité dans les immeubles à usage d'habitation
+ Décret n° 2016-1105 du 11 août 2016 relatif à l'état de l'installation intérieure d'électricité dans les logements en location
+ Liste des points composant le « diagnostic électrique » sur Repère ELEC
+
+Diagnostic immobilier
+Sécurité électrique
+Droit immobilier en France

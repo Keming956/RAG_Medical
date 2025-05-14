@@ -1,0 +1,14 @@
+Die Reinvermögenszugangstheorie ist eine finanzwissenschaftliche Einkommenstheorie, die auch unter Schanz-Haig-Simons-Konzept bekannt ist. 
+Sie geht auf Definitionen von Georg von Schanz (1896) zurück und wurde unter Haig (1921) und Simons (1938) weiterentwickelt.
+
+Bei der Reinvermögenszugangstheorie setzt man im Gegensatz zur Quellentheorie die Regelmäßigkeit der Einkünfte nicht voraus, sondern das Einkommen ist definiert als maximaler Konsum einer Periode ohne Vermögenseinbußen. Somit werden auch Gewinne, Schenkungen und Erbschaften hinzugezählt, Schuldzinsen oder Vermögensverluste jedoch abgezogen. Somit ist das Einkommen einer Periode der Vermögenszuwachs zuzüglich Konsum.
+
+Siehe auch 
+ Quellentheorie
+ Markteinkommenstheorie
+
+Literatur 
+ 
+
+Finanzwissenschaft
+Einkommen

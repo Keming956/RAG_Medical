@@ -1,0 +1,163 @@
+En France, le programme « Valorisation de l'activité en psychiatrie » vise à rendre compte de l'activité psychiatrique des hôpitaux français dans le cadre de la gestion de l'assurance maladie et de la maîtrise de ses coûts.
+
+Historique et enjeux 
+
+Depuis 1989, des travaux sont en cours pour la mise en œuvre, en psychiatrie, d’un Programme de médicalisation des systèmes d'information (PMSI) spécifique. Avec la mise en œuvre de la Tarification à l’activité (T2A) en MCO (médecine, chirurgie, obstétrique), il est apparu indispensable de doter rapidement la psychiatrie d’un outil de valorisation médico-économique de l’activité, qui permette de faire évoluer son mode de financement. Mais la construction d’un système d’information médico-économique en psychiatrie est plus complexe qu’en MCO. 
+
+En 1990, le « groupe des 13 », constitué de psychiatres du public, est chargé par le Ministère de travailler sur la gestion de l'information médicale en psychiatrie. Le , ce groupe achevait sa mission en remettant à la « mission PMSI » de la Direction des Hôpitaux son rapport d'orientation sur les modalités possibles d'extension du PMSI aux activités de psychiatrie.
+
+De 1995 à 1998, la « mission PMSI » en association avec le « groupe des 13 » constituent une banque de données issues d'établissements et de services de psychiatrie, destinée notamment à tester les propositions contenues dans le rapport de 1994. Deux modélisations sont alors envisagées pour décrire l'activité de psychiatrie :
+ une classification à la journée pondérée 
+ l'identification de trajectoires de soins
+En 1999 sont obtenus les premiers résultats concernant ces deux modèles.
+
+En octobre-, 30 services suivent une formation et un test de faisabilité du Recueil d'information standard (RIS). En  interviennent la formation des formateurs et la publication de la circulaire sur les étapes du lancement du recueil prévu pour le , sur le cahier des charges et les formats des fichiers à constituer.
+
+Quatre régions pilotes (Rhône-Alpes, Aquitaine, Lorraine, La Réunion) ainsi que des établissements volontaires situés en dehors de ces régions sont désignés pour participer à l'expérimentation. Formés en 2001, ils bénéficient de la mise à disposition d'un logiciel de saisie gratuit et commencent l'expérimentation en 2002. Les objectifs de l'expérimentation sont les suivants :
+ travailler sur les trajectoires
+ revoir la classification
+ préparer l'échelle de pondération
+ définir les modalités de contrôle de qualité des données.
+
+Pour le suivi de l'expérimentation sont mis en place de groupes de travail :
+ un comité de suivi
+ un comité consultatif associé (syndicats)
+ un groupe technique « évolution de l'outil » (à majorité de psychiatres)
+ un groupe technique « qualité des données » (à majorité de représentants des départements d'information médicale)
+ un groupe technique « échelle de pondération » (à majorité financier-comptable).
+
+En , le comité de pilotage du PMSI en psychiatrie s’est vu confier, par le Ministre, la mission de lui proposer un modèle pluraliste de financement. Le PMSI-PSy, alors renommé « Valorisation de l’activité en psychiatrie » (VAP), est mis en place.
+
+En 2005 est effectuée l’étude des données transmises par les établissements expérimentateurs. En septembre, une nouvelle proposition est élaborée : le Recueil d'informations médicalisées en psychiatrie (RIM-P) qui recueille les données d’activité, concernant :
+ les séjours en hospitalisation à temps complet (et toutes les autres prises en charge à temps complet, comme le séjour en post-cure psychiatrique, l'hospitalisation à domicile, le placement familial, les centres de post-cure psychiatriques) ; 
+ les séjours à temps partiel (hospitalisation de nuit, hospitalisation de jour, atelier thérapeutique et CATTP (Centre d'accueil thérapeutique à temps partiel) ; 
+ les données concernant l'ambulatoire (en psychiatrie le terme ambulatoire n'est pas un exact synonyme de l'ambulatoire en MCO. Il s'agit de tous les soins qui ne se font pas intra-muros, c'est-à-dire, en dehors de l'hospitalisation)
+
+Ce recueil d'information RIM-P est mis en application au  pour les établissements disposant d'un système d'information permettant la saisie des éléments nécessaires à son élaboration ; et en 2007, tous les établissements ayant une activité de psychiatrie ont l'obligation de mise en place du RIM-P.
+
+La VAP : élaboration   
+
+La VAP est un modèle de financement qui tient compte de la montée en charge de la tarification à l'activité sur d’autres secteurs d’activité, tout en étant respectueux des spécificités des diverses activités en psychiatrie, pour répondre aux besoins de la population dans un souci d’équité et d’efficacité. Elle repose sur une expérimentation large, dans le cadre d’une démarche participative s’inscrivant dans la durée, qui a permis de dégager des objectifs réalistes et partagés. La VAP est  composée de quatre compartiments :
+
+ un compartiment décrivant des coûts en relation avec l’activité, à partir d’un recueil harmonisé, le RIM-P
+ un compartiment géo-populationnel prenant en compte les facteurs géographiques, épidémiologiques et socio-démographiques sur le plan régional, territorial et sectoriel
+ un compartiment décrivant des missions d’intérêt général (MIG)
+ un compartiment pour les médicaments onéreux
+
+Le poids respectif de ces différents compartiments est déterminé à l’issue des travaux techniques entrepris, et en concertation avec les professionnels. Pour chaque compartiment, il faut identifier les fonctionnements, vérifier la capacité d’en rendre compte de manière homogène et systématique, et identifier les coûts. Pour ce faire, il faut donc déterminer des indicateurs médico-économiques fiables et reconnus.
+
+Quatre groupes Ministère/Experts ont été formés à cet effet :
+ Le groupe « Contrôle qualité et exploitation », chargé d’identifier l’activité grâce à la montée en charge du RIM-P
+ Le groupe « géo-pop » chargé d’identifier l’activité et les facteurs de coûts spécifiques liés aux critères géo-populationnels 
+ Le groupe MIG chargé d’identifier l’activité et les facteurs de coûts spécifiques liés aux missions d’intérêt général
+ Le groupe RTC (« Retraitement comptable ») chargé d’évaluer les coûts grâce à l’exploitation des retraitements comptables.
+Ces groupes rendent compte au comité de pilotage (COPIL) en concertation avec le Centre consultatif associé (CCA).
+
+Expérimentation : travaux préalables et recueil des données, recommandations
+
+Les MIG 
+
+Les missions d’intérêt général répondent à des impératifs de santé publique. Les ressources consommées ne sont pas directement affectées à un patient dans le cadre d'une pathologie définie par l'activité, ou sont supérieures aux coûts standards pour des raisons justifiées. Les définitions des MIG dans le cadre de la VAP sont le plus souvent partagées avec celles des autres champs (MCO, Soins de suite et réadaptation ou SSR), mais certaines spécifiques à la psychiatrie peuvent également être identifiées.
+
+Il est en 2008 proposé quatre grands types de MIG : 
+ les missions de permanence des soins : Centres médico-psychologiques (CMP), permanences téléphoniques...
+ les missions d’interventions hors établissement : psychiatrie d’urgence et de crise (interventions dans les services d’urgences ; équipes mobiles d’intervention en urgence ; cellules d’urgences psychologiques, crises en milieu scolaire), psychiatrie de liaison, travail de suite après hospitalisation, équipes mobiles en addiction ou en précarité, soins aux détenus...
+ les missions de coordination (Régulation, supervision des équipes dans les établissements pour personnes âgées en MCO, collaboration avec la Justice ou l’Éducation nationale), de prévention et d’expertise (Prévention primaire, éducation pour la santé, prévention secondaire, participation à des réseaux de santé)
+ les missions de prise en charge spécifiques (Hospitalisation sous contrainte, patients sous tutelle ou sauvegarde de justice, scolarisation des enfants hospitalisés), dans des structures spécifiques (Maisons des adolescents, unités spécifiques pour patients difficiles, soins ambulatoires sous contrainte de justice), avec des techniques spécifiques (sismothérapie, stimulation magnétique...)
+
+Les MIG sont mises en place en trois étapes :
+
+ C’est le groupe MIG qui définit la liste des MIG.
+ Le groupe RTC assure la cohérence entre définition des MIG et expression comptable.
+ Retour des dépenses observées des établissements pour une première estimation du « poids » de l’enveloppe MIG.
+
+Les critères géo-populationnels 
+
+Pour les déterminer, il faut repérer les paramètres de variations de coûts de la psychiatrie en liaison avec des facteurs géographiques ou socio-démographiques qui ne peuvent être financés ni sous forme de MIG ni par l’activité.
+Puis il faut définir les coefficients d’une équation prenant en compte les facteurs reconnus comme significatifs.Enfin, il faut s’appuyer sur le RTC et des études ad hoc pour déterminer le niveau de la dotation.
+
+Les médicaments onéreux 
+
+En psychiatrie, les dépenses en médicaments sont relativement faibles au regard du budget total. Mais l’existence de cette catégorie « médicaments onéreux » dans la VAP a pour but de préserver l'avenir en cas d'apparition de nouvelles molécules affectant gravement le coût de certains séjours, mettant alors en cause l'homogénéité des coûts par activité tels qu’ils seront mis en évidence par la future étude nationale des coûts (ENC).
+
+Le RIM-P 
+
+Afin de procéder à l’analyse médico-économique de l’activité de soins réalisée en leur sein, les établissements de santé titulaires d’une autorisation d’activité de soins en psychiatrie mettent en œuvre pour tous les patients qu’ils prennent en charge des traitements automatisés de données médicales à caractère personnel suivants : Résumés par séquence (RPS) pour tous les patients admis en hospitalisation, avec ou sans hébergement, et Résumés d’activité ambulatoire (RAA) pour toutes consultations ou soins externes.
+
+Ces RAA mentionnent le type d’intervenant :
+ M : médecin 
+ I : infirmier(e) 
+ P : psychologue 
+ A : assistante sociale 
+ R : rééducateur 
+ E : éducateur 
+ S : autres intervenants 
+ X : plusieurs intervenants, dont médecins 
+ Y : plusieurs intervenants sans médecins
+
+Il est également transmis la date, le lieu de l'acte, le type d'acte : Entretien, démarche, groupe, accompagnement, ou réunion (EDGAR). Le nombre d'intervenants est précisé (dépendant de l'établissement) ainsi que le numéro de séjour.
+
+Après avoir été rendues anonymes, les informations des résumés par séquence et des résumés d’activité ambulatoire sont communiquées aux agences régionales de l’hospitalisation. La communication de ces données se fait sous forme de résumés par séquence anonymes (RPSA) chaînables et résumés anonymes d’activité ambulatoire (R3A) chaînables. Cette anonymisation est obtenue grâce à un algorithme de hachage qui a reçu l'accord de la CNIL pour le caractère sécurisé et la quasi impossibilité mathématique de retrouver les caractères qui ont généré la chaîne anonyme.
+
+Depuis 2008, les RIM-P sont saisis et sont envoyés de façon trimestrielle. La transmission s’effectue par une méthode de télétransmission agréée par les services de l’État concernés. Ces fichiers de données cumulatives sont relatifs, pour le fichier des RPSA, aux séquences de séjours d’hospitalisation dont la date de fin de séquence est à l’intérieur du trimestre civil considéré et, pour le fichier des R3A, aux actes de consultation et soins externes réalisés au cours du trimestre civil considéré, augmenté respectivement des séquences et actes du ou des trimestres précédents de la même année civile. Ils sont transmis un mois au plus tard après la fin du trimestre concerné.
+
+Les mesures d’accompagnement prévues par le ministère 
+
+Formations à la production du RIM-P
+
+En , des « formations de formateurs » régionaux ont été organisées par la Direction de l'Hospitalisation et de l'Organisation des soins (DHOS) et l’Agence technique de l'information sur l'hospitalisation (ATIH) avec l’appui de l’École nationale de santé publique (ENSP). Les formateurs régionaux doivent désormais former des formateurs locaux, à charge pour ces derniers de former à leur tour les utilisateurs finaux.
+
+Les formateurs pourront s’appuyer sur les documents pédagogiques mis à jour et mis à leur disposition par le ministère, en les adaptant aux conditions locales des établissements.
+
+Mobilisation des éditeurs de logiciels
+
+Des recommandations ont été adressées aux éditeurs de logiciels afin qu’ils accélèrent l’évolution des logiciels dans des délais courts, ces recommandations s’adressant plus particulièrement aux éditeurs qui ont pour clients les hôpitaux mixtes, psychiatrie et MCO.
+
+Accompagnement financier, sous une double forme
+
+ Des crédits d’investissement : une  a été allouée par le Fonds pour la modernisation des établissements de santé publics et privés (FMESPP) en 2005pour mettre en place les outils informatiques. Une  sera notifiée très prochainement ; 
+ Des crédits d’exploitation : un financement sera attribué pour chaque fiche valide transmise aux ARH via la plateforme de télétransmission sécurisée e-PMSI à l'occasion de la transmission trimestrielle des résumés anonymes. Il s'agit donc d'un financement dont le montant sera prochainement fixé. Cela nécessitera un avenant aux contrats pluriannuels d'objectifs et de moyens (CPOM) des établissements.
+
+Outil de transposition des données de l’ancien PMSI conçu par l’ATIH 
+
+Un utilitaire permettant la récupération des données de l’ancien « PMSI psy » expérimental et leur mise au format RIM-P a été réalisé par l’ATIH. Il permet notamment de retraiter les données recueillies en 2006 par les établissements expérimentateurs.
+
+Mise à disposition des outils de télétransmission sécurisée 
+
+L’ATIH a développé sur la plateforme d’échanges « e-PMSI » la partie nécessaire pour permettre des échanges sécurisés et facilités entre les établissements et les ARH, pour l’activité psychiatrique. Tous les échanges doivent passer par cette voie et les établissements doivent s’y inscrire. Les outils d’anonymisation des données du RIM-P ont également été développés par l’ATIH et mis à disposition de tous les établissements par envoi de CD-ROM en .
+
+Rôle du correspondant régional VAP 
+
+Il lui revient d’organiser une commission régionale VAP, associant les acteurs locaux et organisant la diffusion des informations et des expériences, l'objectif étant de réunir régulièrement au minimum deux membres de chaque établissement. Il est possible, dans le cas de régions ne comportant que quelques établissements, de s'associer à une région voisine pour former une commission inter-régionale. Dans les régions de grande taille, des aménagements peuvent être institués afin de garder au dispositif un caractère opérationnel. Des réunions nationales seront organisées pour des échanges sur les pratiques et les difficultés éventuelles.
+Pour cette commission peuvent être sollicités notamment les directeurs, les RSIO (Responsable du système d'information et d'organisation), les directeurs financiers, les présidents de commission médicale d'établissement (CME) et les DIM. La collaboration avec le Comité Technique Régional de l'Information Médicale (COTRIM) est encouragée, et un responsable du COTRIM est désigné ès qualités dans cette commission VAP. La participation de tous les établissements, et notamment celle des établissements de petite taille, est encouragée, un des buts étant de s'assurer de l'exhaustivité de la montée en charge du RIM-P.
+
+La commission VAP s'attache notamment, avec l'aide de l'ARH :
+ à organiser une réponse mutualisée aux difficultés rencontrées sur le terrain en termes d'organisation du recueil, de relation avec les Sociétés de services spécialisées en ingénierie (SSII), et la circulation des solutions apportées par les acteurs locaux ;
+ à encourager la diffusion de bonnes pratiques, aussi bien en ce qui concerne le RIM-P que le retraitement comptable ;
+ à favoriser une bonne coopération entre les directions et le corps médical, et plus spécifiquement entre le DIM et la direction des affaires financière des établissements. Cette coopération est un facteur crucial du succès de la réforme ;
+ à faciliter la mise en commun des moyens, notamment en ce qui concerne les petits établissements.
+
+Calendrier  
+ Concernant les compartiments MIG et géo-populationnel : 
+Les facteurs à prendre en compte ont été déterminés notamment à partir des informations issues des retraitements comptables fournis par les établissements ;
+
+ Concernant le compartiment « Médicaments onéreux » : 
+Il a fait  l’objet d'une enquête et a donné lieu à la mise en œuvre du contrat de bon usage (CBU) ;
+
+ Concernant le compartiment RIM-P : 
+ 2007 a vu le RIM-P s’installer progressivement dans les établissements.
+ La période 2007-2008 a consisté à explorer l’exploitation au niveau des autorités sanitaires, en concertation avec les professionnels, sans impact dans un premier temps sur les modalités d’allocation des ressources.
+ En 2008, l’objectif était de fiabiliser le RIM-P en le faisant évoluer autant que nécessaire, au vu des premiers résultats, de sorte à obtenir une exhaustivité des données. Une réflexion sur l’organisation de l’étude nationale de coût avec les établissements volontaires a également été lancée.
+ À partir de , confrontation RIM-P et RTC grâce aux données RIM-P 2008.
+ Fin 2009, redéfinition d’une classification et des tarifs associés.
+À partir du , mise en place du PMSI.
+
+Voir aussi
+
+Articles connexes 
+ Programme de médicalisation des systèmes d'information
+ Tarification à l'activité
+
+Liens externes 
+
+Psychiatrie en France

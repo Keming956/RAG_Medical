@@ -1,0 +1,34 @@
+En biologie de l'évolution, on parle de dépression hybride quand la descendance d'un croisement entre individus de populations différentes a une valeur sélective (ou  en anglais) moins importante que les deux parents.
+
+La distance génétique entre deux individus est une variable continue qui affecte la valeur sélective de leur descendance avec un optimum.
+ Si les parents sont trop proches, la descendance souffre de dépression de consanguinité.
+ Si les parents sont issus de deux populations trop éloignées, les individus souffrent de dépression hybride.
+ Et enfin, si les parents présentent entre eux une distance génétique optimale, la descendance peut présenter une valeur sélective supérieure à celle de chacun des deux parents ou à la moyenne de leurs valeurs sélectives : c’est la vigueur hybride ou hétérosis.
+
+Lorsque deux populations se retrouvent isolées reproductivement, la distance génétique entre les individus des deux groupes augmente au cours du temps jusqu'à ce que la descendance hybride soit affectée de vigueur hybride puis de dépression hybride jusqu'aux cas extrêmes de dépression hybride que sont la stérilité ou l’inviabilité des hybrides (définition « classique » de l’espèce).
+
+Mécanismes 
+
+Les causes de la dépression hybride peuvent être la rupture d’associations entre gènes (rupture des interactions épistatiques au sein d’un ensemble de gènes coadaptés), entre les génomes nucléaires, mitochondriaux et éventuellement chloroplastiques ou entre génome et environnement (phénotype mal adapté).
+
+Les effets délétères peuvent n’apparaître qu’à certaines étapes du cycle de vie et le sexe hétérogamétique (dans le système XY, le sexe mâle) est également plus susceptible d’être affecté, conformément à la .
+
+La dépression hybride ne se manifeste pas toujours dans la première génération d’hybrides mais peut n’apparaître qu’à la deuxième, voire exceptionnellement à la troisième génération : les hybrides F1 ne présentent alors pas de problèmes car ils possèdent une copie complète de chacun des génomes parentaux. La sélection naturelle peut ensuite retenir des combinaisons de gènes avantageuses issues de l’hybridation, et la valeur sélective de la population hybride peut remonter au bout de quelques générations.
+
+Il peut être difficile de différencier la dépression hybride de la dépression de consanguinité car des individus peuvent être affectés simultanément par les deux phénomènes. Enfin, des éléments tendent à montrer que la dépression hybride est moins importante dans un environnement stressant, par exemple par un avantage des hétérozygotes.
+
+Comparativement à la dépression de consanguinité, la dépression hybride a été peu étudiée mais le rythme de publication d’articles s’y rapportant a augmenté dans la deuxième moitié des années 2000. Elle a cependant été rapportée pour une grande variété d’espèces animales : insectes, mollusques, poissons, batraciens, bovidés… et peut affecter de nombreuses composantes de la valeur sélective : mortalité infantile, performance des spermatozoïdes, taux d’éclosion, structure du chant nuptial, survie, efficacité du système immunitaire, plasticité phénotypique, synthèse d’ATP, taux de malformation…
+
+Il faut noter que les mammifères ont été très peu étudiés par rapport aux poissons ou aux invertébrés. La dépression hybride est pourtant susceptible d’affecter les stratégies de dispersion et de choix du partenaire et sa connaissance est cruciale pour la gestion des populations d’espèces menacées et la lutte contre la dépression de consanguinité par introduction de nouveaux individus.
+
+Voir aussi 
+ Valeur sélective
+ Vigueur hybride
+ Dépression de consanguinité
+ Dégénérescence variétale
+
+Source 
+  Suzanne Edmands, «  »,  (2007) 16, 463–475.
+
+Génétique des populations
+Hybride

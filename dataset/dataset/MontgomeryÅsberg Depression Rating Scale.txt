@@ -1,0 +1,31 @@
+Die Montgomery–Åsberg Depression Rating Scale (MADRS) ist ein Fragebogen zur Fremdbeurteilung des Schweregrads eines depressiven Syndroms. Der Beurteilungszeitraum bezieht sich auf die vergangene Woche. Der Fragebogen besteht aus 10 Fragen. Die Fragen werden auf einer 7-stufigen Skala von 0 bis 6 bewertet. Der Gesamtwert kann nach dem Aufsummieren zwischen 0 und 60 liegen. Die Bearbeitungszeit wird auf 10 bis 15 Minuten geschätzt. Der Fragebogen sollte Schwächen der Hamilton-Skala verbessern.
+
+Die MADRS wurde 2020 im Rahmen einer Metastudie als "Goldstandard" unter den klinischen Beurteilungsskalen für Depression bezeichnet.
+
+Testentwicklung 
+Aufgangspunkt der Entwicklung war die Comprehensive Psychopathological Rating Scale (CPRS). Davon wurden 10 Fragen ausgewählt, die sich in einer Vorher-Nacherstudie bei einer Medikamentenstudie als veränderungssensitiv erwiesen. Hauptreferenz sei die Originalveröffentlichung der Autoren. Es gibt kein Manual, weshalb die Testgütekriterien aus der Vielzahl an Studien entnommen werden müssten.
+
+Interpretation 
+Ein höherer MADRS-Score zeigt eine stärkere Depression. Jede Frage hat dabei einen Wert zwischen 0 und 6 Punkten. Die Gesamtpunktezahl liegt dabei in einem Wertebereich von 0 bis 60 Punkten.
+
+Das Formular enthält Fragen zu folgenden Symptomen:
+ Sichtbare Traurigkeit
+ Mitgeteilte Traurigkeit
+ Innere Anspannung
+ Reduzierter Schlaf
+ Reduzierter Appetit
+ Konzentrationsschwierigkeiten
+ Antriebsmangel
+ Gefühl der Gefühllosigkeit
+ Pessimistische Gedanken
+ Suizidgedanken
+
+Der übliche Wertebereich ist:
+0 bis 6 – Keine Depression /symptom absent
+7 bis 19 – Leichte Depression
+20 bis 34 – Mäßige Depression
+>34 – Schwere Depression.
+
+Einzelnachweise 
+
+Depressionsfragebogen

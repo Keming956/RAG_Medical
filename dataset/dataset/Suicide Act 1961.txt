@@ -1,0 +1,32 @@
+The Suicide Act 1961 (9 & 10 Eliz 2 c 60) is an Act of the Parliament of the United Kingdom. It decriminalised the act of suicide in England and Wales so that those who failed in the attempt to kill themselves would no longer be prosecuted.
+
+The text of sections 1 and 2 of this Act was enacted verbatim for Northern Ireland by sections 12 and 13 of the Criminal Justice Act (Northern Ireland) 1966. The Act did not apply to Scotland, as suicide was never an offence under Scots Law. Assisting a suicide in Scotland can in some circumstances constitute murder or culpable homicide, but no modern examples of cases devoid of direct application of intentional or unintentional harm (such as helping a person to inject themselves) seem to be available; it was noted in a consultation preceding the introduction of the Assisted Suicide (Scotland) Bill that "the law appears to be subject to some uncertainty, partly because of a lack of relevant case law".
+
+Analysis
+Suicide is defined as the act of intentionally ending one's own life. Before the Suicide Act 1961, it was a crime to commit suicide, and anyone who attempted and failed could be prosecuted and imprisoned, while the families of those who succeeded could also potentially be prosecuted. In part, that criminalization reflected religious and moral objections to suicide as self-murder. Augustine and Thomas Aquinas had formulated the view that whoever deliberately took away the life given to them by their Creator showed the utmost disregard for the will and authority of God and jeopardized their salvation, encouraging the Church to treat suicide as a sin. By the early 1960s, however, the Church of England was re-evaluating its stance on the legality of suicide, and decided that counselling, psychotherapy and suicide prevention intervention before the event took place would be a better solution than criminalisation of what amounted to an act of despair in this context.
+
+Sir Charles Fletcher-Cooke was the principal figure behind the emergence, introduction and passage of this legislation. Before it was introduced in July 1961, Fletcher-Cooke had been unsuccessfully trying to introduce such a bill for the decriminalisation of suicide for over a decade beforehand. While Home Secretary Rab Butler supported the bill, Prime Minister Harold Macmillan did not. In the event, the bill passed into law easily, decriminalising suicide, but creating an offence of "assisting, aiding or abetting suicide", which later became a pivotal clause for future debates about voluntary euthanasia several decades later.
+
+The Suicide Act was, however, a significant piece of legislation for, while section 1 treated the previous legal rule that suicide is a crime as "abrogated", section 2(1) stated:
+
+This created a new offence of "complicity in suicide", but the effect is unparalleled in this branch of the law because there is no other instance in which an accessory can incur liability when the principal does not commit a criminal offence. The situation with a conspiracy to assist a suicide is likewise unique: if an individual incapable of committing suicide for him or herself enlists the aid of an outside party in performing the act, that party may be charged with conspiracy. The wording of s1(1) Criminal Law Act 1977 provides that a conspiracy will come into being if, when everything has been done to realize the agreement, some conduct:
+
+No offence will necessarily be committed by the suicide victim if the agreement is carried out, but the fact that it is legally impossible to commit the crime of suicide is irrelevant under the Criminal Attempts Act 1982
+
+Human Rights Act 1998
+
+The first human rights challenge to s2(1) was mounted in 2001 under the European Convention on Human Rights (ECHR) in Pretty v Director of Public Prosecutions (2002) 1 AC 800 with the ECHR rejecting the application in Pretty v. UK (2346/02) shortly before her death by natural causes . Diane Pretty was suffering from motor neurone disease and was paralysed from the neck down, had little decipherable speech and was fed by a tube. She had only a few weeks to live, claimed to be frightened and distressed by the suffering and indignity, and wanted her husband to provide her with assistance in ending her life when she felt unable to bear it any longer, although she intended to perform the final act herself. Because giving this assistance would expose the husband to liability under s2(1), the DPP was asked to agree not to prosecute. When this agreement was refused, the case began. Article 2 of the Convention provides:
+1. Everyone's right to life shall be protected by law. No-one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
+
+This direct challenge to the legislation sought to assert an individual's right of autonomy against public policies protecting the sanctity of human life. Mrs. Pretty's full capacity for informed, rational consent was not disputed by opposing counsel.  In Re B (Adult: Refusal of Medical Treatment) (2002) 2 AER 449 the court had already decided that a patient could refuse treatment knowing that this would result in death. However, the court in this case drew a distinction between passively allowing death through omission and active assistance in suicide, as per R v Brown (1993) 2 All ER 75 (the famous Spanner case), which ruled that a person cannot lawfully consent to anything more than the infliction of minor injury. Thus, the standing adjudication in English common law is that, as dying is an inevitable consequence of life, the right to life under the Convention necessarily implies the obligation to have nature take its course.
+
+References
+
+External links
+
+The Suicide Act 1961, as amended from the National Archives.
+
+English criminal law
+United Kingdom Acts of Parliament 1961
+Suicide in the United Kingdom
+Mental health law in the United Kingdom

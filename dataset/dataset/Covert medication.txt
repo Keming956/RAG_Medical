@@ -1,0 +1,81 @@
+Covert medication (also called concealed, hidden or surreptitious medication), the covert administration of medicines is when medicines are administered in a disguised form, usually in food or drink, without the knowledge or consent of the individual receiving the drug.
+
+Medical use 
+
+It can be inferred from the Universal Declaration of Human Rights that all persons have the right to refuse medication, and this right is often enshrined in national law. In some situations, patients may lack capacity to make decisions about accepting or refusing medication. In these situations, it may be appropriate to covertly administer medication, after other measures have been attempted.
+
+Medication is only likely to be administered covertly where: 
+ The patient actively refuses their medicine
+ It is determined to be essential to the patient's mental or physical health, and therefore in their best interest
+ The patient is deemed to lack capacity to understand the repercussions of refusing the medication.
+
+Covert administration of medication is practised in a range of medical specialities and across a variety of care settings including psychiatry, paediatrics, geriatric medicine and care homes.
+
+In the care of paediatric patients, young children may be unwilling to take medication with an unpleasant taste or smell, or due to fear of the unfamiliar. In these cases, the medication is mixed with food or drink to make it more acceptable.
+
+In dementia, patients suffer from memory loss and can have impaired decision-making skills. As a result, their capacity to consent to medication is impaired. In these cases medication may need to be covertly administered, as is the case in nursing homes.
+
+Impaired capacity is also seen in patients with intellectual disability. These patients may exhibit behaviours that challenge or symptoms of mental ill health, for which medication is needed to reduce risk of harm to self or others. Medication is covertly given with respect to best interest when these patients refuse treatment.
+
+Patients with mental health disorders, such as schizophrenia or bipolar affective disorder, may lack insight into their mental health symptoms. They refuse medication due to the belief it is not needed.
+
+Medicolegal implications 
+Covert medication has many medicolegal and ethical aspects to it.
+
+Human Rights Act in the United Kingdom
+The Human Rights Act, part of UK law, incorporates the European Convention of Human Rights and has several implications for mental health patients. Relevant articles concerning mental health and covert medicine administration in the Human Rights Act are listed below:
+
+Article 3
+
+"No one shall be subjected to torture or to inhumane or degrading treatment or punishment"
+
+Article 5
+
+"Right to liberty and security"
+
+5(1) "Everyone has the right to liberty and security of person save ... (e)the lawful detention...of persons of unsound mind..."
+
+5(2) "Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest..."
+
+5(4) "Everyone who is deprived of his liberty...shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful."
+
+Article 8
+
+"Right to respect for private and family life"
+
+Mental Health Act
+
+The Mental Health Act is an Act passed through Parliament in the United Kingdom which applies to people in England and Wales. In specific circumstances, this overrides certain fundamental human rights mentioned above. For example, those with mental health problems can be sectioned under the Mental Health Act to be kept in hospital, possibly against their wishes, particularly if they are at risk of harm to themselves, harm to others and harm from others. The Mental Health Act is limited to treatments of a patient's mental health. Under the Mental Health Act, it is not appropriate to give medicines covertly to treat physical health, only mental health.
+
+Mental Capacity Act 2005
+Generally, to receive any kind of health treatment, you need to give consent. In England and Wales, the Mental Capacity Act 2005 sets out legislation criteria and procedure for patients who do not have the capacity to make decisions for themselves. In this situation, a management plan is agreed in the best interests of the patient. This involves a meeting with healthcare professionals, care home staff and an independent reviewer, such as a family member, friend or independent mental capacity advocate.
+
+Capacity should be assessed each time a new medical decision is made, as the ability to give valid consent can fluctuate, particularly in those with mental health disorders.
+
+Covert administration is only necessary and appropriate where:
+ A person actively refuses a medicine.
+ It is safe to do so
+ The medication is deemed essential to their health and wellbeing.
+ The person is judged not to have the capacity to understand the consequences of their refusal, determined by the Mental Capacity Act 2005.
+
+The Mental Capacity Act applies to the administration of medication and treatment for any condition covertly. This is in contrast to the Mental Health Act, which applies to mental health, as above.
+
+Application 
+
+In the UK, NHS trusts may publish guidelines concerning administration of covert medication. Guidelines often include flowcharts to aid decision making.
+
+"Covert administration should be: A last resort – only implemented when there is no viable alternative; Medicine specific – the need must be identified for each medicine prescribed; Time limited – it should be used for as short a time as possible, and the need should be reviewed regularly."
+
+The decision-making process should be in the best interests of the patient, transparent and inclusive.
+
+NICE recommends care home providers have a care home medicines policy that includes guidance on covert administration of medications by care home staff.
+
+Pharmacology 
+Covert administration of medication typically involves mixing the medication with food or drink. This can have an impact on the absorption of the drug. Absorption of some medicines, such as antibiotics, can be reduced when mixed with food, particularly dairy products. Some medicines are incompatible with various minerals including calcium, iron, magnesium, and zinc, all of which may reduce absorption. Crushing slow-releasing tablets or enteric coated medicines may also reduce absorption of the medicines.
+
+Mixing medications with food or drink may also affect the metabolism of the drug. For example, grapefruit juice changes the bioavailability of many medicines by decreasing the rate of elimination. This alters drug levels in the blood which may cause side effects or make the drug less effective.
+
+References
+
+Ethically disputed medical practices
+Medication pharmacology

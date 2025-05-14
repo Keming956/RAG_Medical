@@ -1,0 +1,44 @@
+Elasto Mania is a platform motorbike video game released in 2000. It explores the notion of elastic motorcycles. The goal of each level is to touch the flower. Some require the player to collect apples spread throughout it before doing so. There is online competition in trying to finish the levels as fast as possible and setting new world records. Time improvements have often shown to rely on finding new ways to solve the levels. Betterment also relies on polishing known styles.
+
+Gameplay
+The player controls a motorbike rider, and has to restart the level if their head or bike's wheels touch a rotating spiky wheel, or their head touches a solid structure (such as a wall). All the apples in a level must be collected before the player can touch the flower and proceed to the next level. Only the head and wheels of the driver interact with the level, their body being able to overlap walls without injury.
+
+The physical model, such as the elasticity of the bike frame, permits a wide range of tricks to be performed. These range from subtle manoeuvres to increase speed to more dramatic effects, such as an exploit of a reproducible bug in the physical model, allowing for the bike to be propelled some distance up in the air.
+
+Versions
+Elasto Mania was created by Balázs Rózsa as a sequel to the 1997 game titled Action SuperCross. The main differences between both games are the slight change in physics and the addition of twelve internal levels. The demo version contains 18 official levels, while the full one contains 54. In addition to these official "internal" levels, many "external," fan-created levels can be found online, in some cases gathered in level packs.
+
+The latest official patch for Elasto Mania is v1.11a. Development of unofficial patches have given rise to v1.3, which features online multiplayer.
+
+In August 2014, Elasto Mania 2 was released as an official iOS app.
+
+In 2017, Elasto Mania 2 was released on Microsoft Windows.
+
+In May 2020, an updated version of the original Elasto Mania was released on the Steam gaming platform.
+
+A version for the Nintendo Switch was released in 2022
+
+Online content
+In the early 2000s, players could join the IRC channel "#battle" and compete for the fastest completion time in player-designed levels. Replays of fast completion times were shared on the IRC channel with other players.
+
+A community-driven game patch was released since 2006, allowing players to see each other and compete in real-time. A website was launched conjointly with the development of online versions of the game, which features statistics and the ability to browse previously battled levels, examining their layout, commenting them, checking their all-time standings, and downloading their associated replays.
+
+See also
+ Trials – a similar series of games originally released as a browser game
+ X-Moto – a similar game for Linux, Windows, and OS X
+ Bike or Die! - a similar game for Palm OS and iOS
+
+References
+
+External links
+
+2000 video games
+BeOS games
+Racing video games
+Indie video games
+IOS games
+Motorcycle video games
+Puzzle video games
+Video games developed in Hungary
+Windows games
+Multiplayer and single-player video games

@@ -1,0 +1,91 @@
+Als komplexe posttraumatische Belastungsstörung (komplexe PTBS, K-PTBS) wird ein psychisches Krankheitsbild bezeichnet, das sich infolge schwerer sowie anhaltender und/oder wiederholter Traumatisierungen (Misshandlungen, sexueller Kindesmissbrauch, Kriegserfahrungen, Folter, Naturkatastrophen, existenzbedrohende Lebensereignisse, physische oder emotionale Vernachlässigung in der Kindheit, destruktive Beziehungen als Erwachsener u. ä.) entwickeln kann. Dabei handelt es sich in den meisten Fällen um Formen zwischenmenschlicher Gewalt.
+
+Die traumatisierte Person durchlebt Situationen katastrophalen Ausmaßes, auf die sie – gerade als Kind – nicht angemessen vorbereitet ist und die jegliche Bewältigungskompetenzen überfordern. Es kann sowohl direkt im Anschluss an die Traumata als auch mit erheblicher zeitlicher Verzögerung (Monate bis Jahrzehnte) in Erscheinung treten.
+
+Im Unterschied zur klassischen Posttraumatischen Belastungsstörung (PTBS) ist die Komplexe PTBS nicht durch ein Einzelereignis verursacht, sondern durch ein breites Spektrum kognitiver, affektiver und psychosozialer Beeinträchtigungen gekennzeichnet, die meist über einen längeren Zeitraum bestehen bleiben. Der Begriff Komplexe PTBS (engl. Complex PTSD, C-PTSD) wurde für dieses Krankheitsbild erst 1992 durch die amerikanische Psychiaterin Judith Herman eingeführt und ist im deutschen Sprachraum bislang noch nicht vollständig etabliert.
+
+In der ICD-11, die 2022 in Kraft tritt, gibt es erstmals die eigenständige Diagnose komplexe posttraumatische Belastungsstörung (KPTBS). Neben den Hauptsymptomen der klassischen PTBS leiden die Betroffenen der komplexen PTBS zusätzlich unter Affektregulationsstörungen, negativer Selbstwahrnehmung und Beziehungsstörungen.
+
+Begriffsgeschichte 
+Der Begriff geht zurück auf eine kritische Auseinandersetzung mit der Definition und den diagnostischen Kriterien der Posttraumatischen Belastungsstörung (PTBS), die 1980 in der dritten Ausgabe des Diagnostischen und Statistischen Manuals Psychischer Störungen (DSM-III) der American Psychiatric Association (APA) publiziert wurden. Die diagnostischen Kriterien der PTBS konzentrierten sich auf Symptome, die bei Kriegsteilnehmern beobachtet worden waren und eigneten sich nicht dazu, auch die Störungsbilder zu beschreiben, die bei missbrauchten Kindern beobachtet werden konnten. Insbesondere eigneten sich die PTBS-Kriterien nicht zur Diagnostik von psychischen Problemlagen, die sich etwa als Spätfolgen des Kindesmissbrauchs im Jugend- und Erwachsenenalter entwickelten.
+
+Basierend auf den daraufhin von der DSM-Arbeitsgruppe der APA initiierten Felduntersuchungen ließ sich ein komplexeres Krankheitsbild identifizieren, das im Gefolge besonders schwerer oder wiederholten bzw. langanhaltenden Traumatisierungen wie psychischer, körperlicher oder sexueller Gewalterfahrungen, aber auch bei Kriegs- und Foltererfahrungen oder Entführungen entsteht und als „Störung durch Extrembelastung, nicht anderweitig bezeichnet“ („Disorder of Extreme Stress Not Otherwise Specified“ (DESNOS), Anhang DSM IV) begrifflich gefasst wurde. Diese Kategorie soll voraussichtlich in der nächsten Überarbeitung des DSM als „Komplexe Posttraumatische Belastungsstörung“ neu gefasst und aufgenommen werden. (S. 48) Ein sehr ähnliches Krankheitsbild wird in der ICD-Diagnose F62.0 „Andauernde Persönlichkeitsänderung nach Extrembelastung“ beschrieben. Nach den klinischen Beschreibungen und diagnostischen Leitlinien der ICD-10 „sollen“ die „späten chronischen Folgeerscheinungen von verheerenden Belastungen, d. h. die, die sich erst Jahrzehnte nach der belastenden Erfahrung entwickeln, […] unter F62.0“ (übersetzt aus dem Englischen) klassifiziert werden.
+
+Erscheinungsbild, Häufigkeit und Verlauf
+
+Symptome 
+Im Rahmen einer komplexen Posttraumatischen Belastungsstörung können im Verlauf der Erkrankung eine Vielzahl von Symptomen auftreten. Legt man die diagnostischen Kriterien zugrunde, mit denen die sehr ähnliche DESNOS beschrieben wurde, lassen sich die Symptome aber sechs übergeordneten Bereichen zuordnen:
+Veränderungen in der Regulation von Affekten und Impulsen (Affektregulation, Umgang mit Ärger, autodestruktives Verhalten, Suizidalität, Störungen der Sexualität, exzessives Risikoverhalten)
+Veränderungen in Aufmerksamkeit und Bewusstsein (Amnesien, zeitlich begrenzte dissoziative Episoden und Depersonalisationserleben)
+Veränderungen der Selbstwahrnehmung (Ineffektivität, Stigmatisierung, Schuldgefühle, Schamhaftigkeit, Isolation und Bagatellisierung, Verlust des Selbstwertgefühls)
+Veränderungen in Beziehungen zu anderen (Unfähigkeit anderen Personen zu vertrauen, Reviktimisierung, Viktimisierung anderer Personen)
+Somatisierung (Gastrointestinale Symptome, chronische Schmerzen, kardiopulmonale Symptome, Konversionssymptome, sexuelle Symptome)
+Veränderungen von Lebenseinstellungen (Verzweiflung und Hoffnungslosigkeit, Verlust früherer stützender Grundüberzeugungen)
+
+Für die Diagnose nach ICD-10 ist es erforderlich, dass mindestens zwei der folgenden Persönlichkeitsänderungen beschrieben werden:
+ feindliche oder misstrauische Haltung
+ sozialer Rückzug
+ andauerndes Gefühl von Leere und Hoffnungslosigkeit (das ggf. mit einer gesteigerten Abhängigkeit von anderen, der Unfähigkeit, negative oder aggressive Gefühle zu äußern, oder anhaltenden depressiven Symptomen einhergehen kann)
+ andauerndes Gefühl von Nervosität oder von Bedrohung ohne äußere Ursache (das ggf. zu Gereiztheit oder Substanzmissbrauch führen kann)
+ andauerndes Gefühl der Entfremdung (anders als die anderen zu sein), ggf. verbunden mit dem Gefühl emotionaler Betäubung.
+Die beschriebene Symptomatik darf vor dem traumatischen Ereignis nicht vorhanden gewesen sein und nicht durch eine andere psychische Störung (z. B. Depression) bedingt sein. Die beschriebene Persönlichkeitsänderung muss seit mindestens zwei Jahren bestehen. Im Falle einer vorangegangenen Posttraumatischen Belastungsstörung (PTBS) sollte eine anhaltende Persönlichkeitsänderung nur angenommen werden, wenn die PTBS vorher mindestens zwei Jahre lang erfüllt war (das heißt, die Diagnose erfordert hier mindestens zwei Jahre PTBS plus mindestens zwei Jahre Persönlichkeitsänderung).
+
+Häufigkeit 
+Unter anderem wegen der nicht abschließend geklärten Überschneidungen mit anderen psychischen Krankheitsbildern existieren nur wenige Erkenntnisse über die Prävalenz der komplexen PTBS. Die Lebenszeitwahrscheinlichkeit einer „einfachen“ PTBS liegt in der deutschen Allgemeinbevölkerung nach derzeitigem Erkenntnisstand zwischen 2 und 7 %; amerikanische Studien sprechen von 5 bis 10 %. Für etwa zwei Drittel dieser Personen besteht das Risiko einer Chronifizierung.
+
+Unter den schwer traumatisierten Personen finden sich in den westlichen Industriestaaten etwa doppelt so viele Frauen wie Männer, was sich in dem deutlich höheren Anteil von jungen Mädchen und Frauen unter den Opfern sexuellen Missbrauchs gründen könnte.
+
+Verlauf 
+Die Komplexität und Individualität des Krankheitsbildes spiegelt sich vor allem in dem sehr variablen Verlauf und den unterschiedlichen Ausprägungen wider. Häufig zeigen sich die Auswirkungen der Traumata lange Zeit gar nicht oder nur mit einzelnen Symptomen. Bei den leichteren Formen dieses Krankheitsbildes gelingt es den Betroffenen daher oft über lange Zeit, sich damit zu arrangieren – sofern sie über psychische und soziale Ressourcen zur Bewältigung und Kompensation (sog. protektive Faktoren) verfügen.
+Insgesamt besteht jedoch eine hohe Chronifizierungsneigung. Nach den Ergebnissen des US-amerikanischen „National Comorbidity Survey“ kam es nur bei ungefähr einem Drittel der in der Studie erfassten PTBS-Fälle bereits nach einem Jahr zu einem deutlichen Symptomrückgang, bei den anderen zwei Dritteln konnten hingegen auch noch nach zehn Jahren Symptome auftreten. Spätfolgen eines Traumas können in neuen Lebensabschnitten, wie nach der Geburt eines Kindes oder einer Scheidung erstmals in Erscheinung treten. Außerdem lagen bei ca. 80 % der Fälle Begleitstörungen vor, welche die psychische Belastung erhöhten.
+
+Aufgrund der Heterogenität des Störungsbildes werden bei den Betroffenen oftmals abweichende Diagnosen gestellt, die sich lediglich an Einzelsymptomen, beispielsweise Angststörungen oder Depressionen orientieren. Wie aus einer Studie mit Psychiatriepatienten hervorging, erfüllte ein größerer Teil von ihnen die Kriterien für eine PTBS, als die aufnehmenden Ärzte ursprünglich erkannt hatten. Traumapatienten können durch das Übersehen ihrer komplexen Problemlage daher im Lauf der Zeit auch mehrere verschiedene Diagnosen erhalten.
+Unbehandelte oder falsch behandelte Traumaschäden verschwinden jedoch nicht von selbst. Sie bleiben grundsätzlich bestehen, auch wenn sich die Symptome verändern oder teilweise kompensiert werden können.
+
+Ein weiterer, die Problematik verstärkender Faktor resultiert aus den ungünstigen Lebenssituationen, die für die Betroffenen durch ihre psychischen Probleme entstehen. Da das Verhalten der Betroffenen häufig ablehnende Reaktionen anderer Menschen auslöst, sind die sozialen Beziehungen (z. B. die Beziehungen mit ihren eigenen Kindern) und das Berufsleben nicht selten beeinträchtigt, was ihre psychischen Probleme wie in einem Teufelskreis verstärken und zu nachhaltigen sozialen und beruflichen Problemen führen kann. Gerade bei Kindern, die Opfer von Misshandlungen oder Missbrauch wurden, kann auch die schulische Entwicklung in hohem Maße gefährdet sein.
+
+Das Syndrom einer PTBS kann durch adäquate psychotherapeutische Verfahren und ggf. medikamentöse Symptombehandlung in den meisten Fällen deutlich gemildert werden, sodass z. B. Traumatisierte lernen können, mit wiederkehrenden Symptomen besser umzugehen. Es existieren verschiedene integrative psychotherapeutische Ansätze zur spezifischen Behandlung von komplexen PTBS.
+
+Zusammenhänge mit anderen Krankheitsbildern 
+Die Symptome der komplexen PTBS zeigen große Überschneidungen mit anderen Krankheitsbildern (siehe Komorbidität) – insbesondere der Borderline-Persönlichkeitsstörung und dissoziativen Störungen –, weswegen schon früh die Frage aufgeworfen wurde, ob diesen Krankheitsbildern nicht überwiegend eine komplexe PTBS zugrunde liegen könnte. Die bislang vorliegenden empirischen Befunde sind in dieser Hinsicht jedoch nicht eindeutig: Dissoziative Störungen sind in den allermeisten Fällen auf Traumata zurückführbar (sie können geradezu als „normaler“ Bewältigungs- bzw. Schutzmodus angesehen werden). Dazu kommt jedoch, dass bei allen schweren Fällen von Borderline-Störungen auch besonders ausgeprägte dissoziative Symptome vorhanden sind. Die auch immer vorhandenen Triggererlebnisse sind ebenfalls nur durch Traumatisierungen erklärbar. Der allgemeine Konsens unter den meisten Psychologen ist, dass sich im Falle der Borderline-Störung trotz einiger dahingehender Bemühungen von Seiten der Traumaforschung bislang kein derartig enger und eindeutiger Zusammenhang mit einer früheren Traumatisierung nachweisen ließ. Einige Traumaforscher (u. a. Judith Herman, Michaela Huber) behaupten allerdings explizit das Gegenteil. Von ihnen wird gesagt, der eindeutige Zusammenhang zwischen einer Traumatisierung und dem Auftreten einer Borderline-Störung sei schon mehrfach nachgewiesen. Nicht alle Betroffenen könnten sich an die ursächlichen Traumata erinnern, weil die schwersten Traumatisierungen oft in der frühen Kindheit vorkommen (in den ersten beiden Lebensjahren besteht die größte Empfindlichkeit für Traumatisierungen), und zudem bei solchen Ereignissen ein völliger oder teilweiser Ausfall der Erinnerungsabspeicherung (die sog. infantile Amnesie reicht oft bis weit über das zweite Lebensjahr hinaus) besteht.
+
+Zu beachten ist allerdings, dass trotz der deutlichen Überschneidung hinsichtlich der Symptomatik und der oft schwierigen Differentialdiagnostik zwischen Borderline-Störungen und komplexer PTBS das Symptomspektrum bei idealtypischer Ausprägung erhebliche Unterschiede aufweist (insbesondere in den Bereichen Sozialverhalten, Emotionalität, Angst vor Zurückweisung, Selbstschädigung – lt. DSM-5 ist die Borderline-Störung durch… „ein tiefgreifendes Muster von Instabilität in zwischenmenschlichen Beziehungen, im Selbstbild und in den Affekten sowie von deutlicher Impulsivität“ gekennzeichnet, das bei der komplexen PTBS fehlen kann, vgl. → Diagnosekriterien der komplexen PTBS und Borderline-Persönlichkeitsstörung nach ICD-10 und DSM-5), weshalb die meisten Psychiater die Unterscheidung zwischen den beiden Störungsbildern für sinnvoll halten. Die mit der komplexen PTBS im Zusammenhang stehenden und auch bei der Mehrzahl der Borderline-Störungen zu findenden Formen der Traumatisierungen stellen ein massives Risiko für die weitere psychosoziale Entwicklung dar – unabhängig davon, welche Störungen in ihrem Gefolge entstehen.
+
+Siehe auch 
+ posttraumatische Belastungsstörung (PTBS)
+ dissoziative Identitätsstörung
+ Borderline-Persönlichkeitsstörung
+ psychisches Trauma
+ Akute Belastungsreaktion
+ Psychotraumatologie
+
+Literatur 
+Fachartikel
+ C. Courtois: Complex Trauma, Complex Reactions: Assessment and Treatment. (PDF; 130 kB) In: Psychotherapy: Theory, Research, Practice, Training. 2004, 41, S. 412–425 doi:10.1037/0033-3204.41.4.412
+ M. Driessen, T. Beblo, L. Reddemann: Ist die Borderline-Persönlichkeitsstörung eine komplexe posttraumatische Störung? In: Nervenarzt. 2002, 73, S. 820–829.
+ D. Korn, A. Leeds: Preliminary evidence of efficacy for EMDR Resource Development and Installation in the stabilization phase of treatment of complex posttraumatic stress disorder. In: Journal of Clinical Psychology. 2002, 58, S. 1465–1487.
+ D. Kunzke, F. Güls: Diagnostik einfacher und komplexer posttraumatischer Störungen im Erwachsenenalter. In: Psychotherapeut. 2003, 48, S. 50–70.
+ M. Sack: Diagnostische und klinische Aspekte der komplexen posttraumatischen Belastungsstörung. In: Nervenarzt. 2004, 75, S. 451–459.
+ A. Streeck-Fischer: „Trauma und Entwicklung“ Folgen von Traumatisierunge in Kindheit und Jugend. In: Psychiatria Danubina, 2004, 16 (4), S. 269–278; psychiat-danub.com (PDF; 225 kB)
+
+Bücher
+ C.A. Courtois & J.D. Ford (Hrsg.): Komplexe traumatische Belastungsstörungen und ihre Behandlung, Junfermann 2011, ISBN 978 3 87387 753 5
+ G. Fischer, P. Riedesser: Lehrbuch der Psychotraumatologie. Ernst-Reinhardt-Verlag (UTB), 1998, ISBN 3-8252-8165-5.
+ Judith Lewis Herman: Trauma and Recovery: The Aftermath of Violence. Basic Books, New York 1992, ISBN 0-465-08765-5.
+ Michaela Huber: Wege der Traumabehandlung (2). Junfermann, Paderborn 2003, ISBN 3-87387-550-0.
+ Michaela Huber: Viele sein – ein Handbuch: Komplextrauma und dissoziative Identität – verstehen, verändern, behandeln. ISBN  978-3873877825
+ Otto Kernberg, B. Dulz, Ulrich Sachsse u. a.: Handbuch der Borderline-Persönlichkeitsstörungen. Schattauer, Stuttgart 2000, ISBN 3-7945-1850-0.
+ B. van der Kolk, A. Mc Farlane, L. Weisaeth: Traumatic Stress. Junfermann, Paderborn 2000, ISBN 3-87387-384-2.
+ A. Matsakis: Wie kann ich es nur überwinden. Junfermann, Paderborn 2004, ISBN 3-87387-592-6.
+ I. Özkan, Annette Streeck-Fischer, Ulrich Sachsse: Trauma und Gesellschaft. Vandenhoeck&Ruprecht, Göttingen 2002, ISBN 3-525-45893-2.
+ 
+ M. Sack, Ulrich Sachsse, J. Schellong: Komplexe Traumafolgestörungen. Diagnostik und Behandlung von Folgen schwerer Gewalt und Vernachlässigung. Schattauer, Stuttgart 2013, ISBN 978-3-7945-2878-3
+ B. Hudnall Stamm: Sekundäre Traumastörungen. Junfermann, Paderborn 2002, ISBN 3-87387-489-X.
+
+Weblinks 
+ Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften – Posttraumatische Belastungsstörung archiviert vom Original am 29. Juni 2019; abgerufen am 4. Juli 2021.
+ Komplexe posttraumatische Belastungsstörung – Deutschsprachige Gesellschaft für Psychotraumatologie
+
+Einzelnachweise 
+
+Psychische Störung

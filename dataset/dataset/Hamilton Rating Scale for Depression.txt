@@ -1,0 +1,43 @@
+The Hamilton Rating Scale for Depression (HRSD), also called the Hamilton Depression Rating Scale (HDRS), sometimes also abbreviated as  HAM-D, is a multiple-item questionnaire used to provide an indication of depression, and as a guide to evaluate recovery. Max Hamilton originally published the scale in 1960 and revised it in 1966, 1967, 1969, and 1980. The questionnaire is designed for adults and is used to rate the severity of their depression by probing mood, feelings of guilt, suicide ideation, insomnia, agitation or retardation, anxiety, weight loss, and somatic symptoms.
+
+The HRSD has been criticized for use in clinical practice as it places more emphasis on insomnia than on feelings of hopelessness, self-destructive thoughts, suicidal cognitions and actions. An antidepressant may show statistical efficacy even when thoughts of suicide increase but sleep is improved, or for that matter, an antidepressant that as a side effect increase sexual and gastrointestinal symptom ratings may register as being less effective in treating the depression itself than it actually is. Hamilton maintained that his scale should not be used as a diagnostic instrument.
+
+The original 1960 version contained 17 items (HDRS-17), but four other questions not added to the total score were used to provide additional clinical information. Each item on the questionnaire is scored on a 3 or 5 point scale, depending on the item, and the total score is compared to the corresponding descriptor. Assessment time is about 20 minutes.
+
+Methodology 
+The patient is rated by a clinician on 17 to 29 items (depending on version) scored either on a 3-point or 5-point Likert-type scale. For the 17-item version, a score of 0–7 is considered to be normal while a score of 20 or higher  (indicating at least moderate severity) is usually required for entry into a clinical trial. Questions 18–20 may be recorded to give further information about the depression (such as whether diurnal variation or paranoid symptoms are present), but are not part of the scale. A structured interview guide for the questionnaire is available.
+
+Although Hamilton's original scale had 17 items, other versions included up to 29 items (HRSD-29).
+
+Unstructured versions of the HDRS provide general instructions for rating items, while structured versions may provide definitions and/or specific interview questions for use. Structured versions of the HDRS show more reliability than unstructured versions with informed use.
+
+Levels of depression 
+The National Institute for Health & Clinical Excellence of the UK established the levels of depression in relation to the 17 item  HRSD compared with those suggested by the APA. 
+
+APA 2000 (NIHCE 2019):
+ Not depressed: 0–7
+ Mild (subthreshold): 8–13  
+ Moderate (mild): 14–18
+ Severe (moderate): 19–22
+ Very severe (severe): >23
+
+Other scales 
+Other scales include the Montgomery-Åsberg Depression Rating Scale (MADRS), the Beck Depression Inventory (BDI), the Zung Self-Rating Depression Scale, the Wechsler Depression Rating Scale, the Raskin Depression Rating Scale, the Inventory of Depressive Symptomatology (IDS), the Quick Inventory of Depressive Symptomatology (QIDS), and other questionnaires.
+
+See also
+ Diagnostic classification and rating scales used in psychiatry
+ Diagnostic and Statistical Manual of Mental Disorders
+ List of psychology topics
+ Receiver operating characteristic
+
+Notes
+
+External links
+ HRSD online calculator
+  
+ Clinically Useful Psychiatric Scales: HAM-D (Hamilton Depression Rating Scale). Accessed March 6, 2009.
+ Hamilton Depression Rating Scale - Original scientific paper published in 1960 in Psychiatry out of Print website. Accessed June 27, 2008.
+ Commentary on the HRSD by Max Hamilton, July 10, 1981, in "This Week's Citation Classic", Current Contents 33: 325 (August 17, 1981), in website of Eugene Garfield, Ph.D.. Accessed June 27, 2008.
+ Side-by-side comparison of the MADRS and the HDRS-24 in  "Description of the Hamilton Depression Rating Scale (HAMD) and the Montgomery-Asberg Depression Rating Scale (MADRS) by the U.S. Food and Drug Administration, 2007. Accessed June 27, 2008.
+
+Rating scales for depression

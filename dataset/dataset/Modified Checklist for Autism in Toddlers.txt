@@ -1,0 +1,43 @@
+The Modified Checklist for Autism in Toddlers (M-CHAT) is a psychological questionnaire that evaluates risk for autism spectrum disorder in children ages 16–30 months. The 20-question test is filled out by the parent, and a follow-up portion is available for children who are classified as medium- to high-risk for autism spectrum disorder. Children who score in the medium to high-risk zone may not necessarily meet criteria for a diagnosis. The checklist is designed so that primary care physicians can interpret it immediately and easily. The M-CHAT has shown fairly good reliability and validity in assessing child autism symptoms in recent studies.
+
+Question breakdown, scoring, and interpretation 
+
+The first section of the M-CHAT identifies 20 behavioral characteristics of the autism spectrum and asks if the child has experienced any of them. If the parent reports a sufficient number of characteristics for the child in this section, a follow-up form outlining specific questions pertaining to that characteristic would be administered by the researcher. It does not have to be completed for characteristics the child does not possess. The follow-up form asks questions based on a flow-chart format, ultimately categorizing the child as “pass” or “fail” for each characteristic.
+
+Domain breakdown
+For the first section, a response of “no” for all questions except 2, 5, and 12 indicate risk of autism spectrum disorder. A response of “yes” indicates ASD risk for the remaining three questions.
+
+For the follow-up section, the flowchart format will direct the researcher in determining whether or not the child’s behavior is suggestive of ASD. If the parent describes abnormal behavior, the child will fail that item.
+
+Interpretation of subscale scores 
+A total score of 2 and below on the first part of the M-CHAT indicate low autism risk, but children under 24 months should nevertheless be tested again after their second birthday. A total score of 3-7 indicates medium risk and prompts administration of the follow-up form. Even with the follow-up form, some children who fail the M-CHAT will not be diagnosed with ASD, but may still be at risk for other developmental disorders. A total score of 8 or higher indicates high autism risk, and the follow-up form can be bypassed for immediate referral to a professional for diagnosis.
+
+The follow-up form has its own scaling. If the child fails at least two items, the child should be referred to a professional for diagnosis.
+
+Psychometrics
+
+Reliability and validity 
+The revised version of M-CHAT, known as the M-CHAT-R/F, has been demonstrated to have high validity and reliability for screening toddlers for autism spectrum disorder. A child whose score was greater than 3 at the first screening (18 months) and greater than 2 at the followup (24 months) had a 47.5% risk of being diagnosed with autism spectrum disorder.
+
+Limitations 
+The M-CHAT suffers from the same problems as other self-report inventories, in that scores can be easily exaggerated or minimized by the person completing them. Like all questionnaires, the way the instrument is administered can have an effect on the final score. If a patient is asked to fill out the form in front of other people in a clinical environment, for instance, social expectations have been shown to elicit a different response compared to administration via a postal survey.
+
+The M-CHAT is a screener for potential symptoms for autism spectrum disorder in children, and cannot be administered as a diagnostic tool. Many pediatricians have been found to underdetect cognitive and emotional/behavioral disorders in children. This underdetection is due to failure to use standardized test, reliance on clinical impressions, the restricted sample of behavior obtained, and the atypical behavior of children in a doctor's office.
+
+Factors such as socioeconomic status and parent education level have been found to impact the generalizability of both the M-CHAT and the Checklist for Autism in Toddlers (CHAT) as a reliable and valid screener for children of all backgrounds.
+
+Controversies 
+Longitudinal studies suggest that the M-CHAT may be a poor screening tool for children 18 months of age and younger.
+
+See also
+ Autism
+ Pervasive developmental disorders
+
+References
+
+External links
+
+ 
+
+Psychiatric instruments: autism
+Neurological disorders in children

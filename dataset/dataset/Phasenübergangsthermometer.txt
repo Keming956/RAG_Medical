@@ -1,0 +1,16 @@
+Als Phasenübergangsthermometer werden spezielle hochgenaue Thermometer bzw. Kalorimeter bezeichnet. Als Messgröße wird der elektrischen Widerstand eines bis zur Grenze zur Supraleitung abgekühlten Stoffes herangezogen, weshalb sie auch als Kalorimetrische Tieftemperaturdetektoren bezeichnet werden. In der Nähe dieser Sprung- oder Phasenübergangstemperatur (daher der Name des Verfahrens) ändert sich der Widerstand des Stoffes selbst bei kleinsten Änderungen der Temperaturen sehr stark, was sich in einer sehr steilen Widerstands-Temperatur-Kennlinie ausdrückt.
+
+Mit Hilfe solcher Thermometer können Temperaturänderungen im Bereich von Millionstel Grad Celsius gemessen werden, was in der Teilchenphysik zum Nachweis von einzelnen Teilchen (das Auftreffen bewirkt eine winzige Temperaturerhöhung im Material), wie zum Beispiel Photonen oder Dunkle Materie, benutzt wird. Als Widerstandsmaterial wird häufig eine aufgedampfte Wolfram-, Iridium- oder Goldschicht benutzt.
+
+Siehe auch 
+Kalorimeter (Teilchenphysik)
+Supraleitende Tunneldioden
+
+Weblinks 
+ Max-Planck-Institut für Physik – Jahrbuch 2003: Suche nach Dunkler Materie im Universum (mit Hilfe eines Phasenübergangsthermometers; PDF; 878 kB)
+Hochauflösende Spektroskopie mit Kryodetektoren
+
+Thermometer
+Laborgerät
+Kältetechnik
+Teilchendetektor

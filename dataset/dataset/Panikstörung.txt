@@ -1,0 +1,73 @@
+Die Panikstörung (auch Paniksyndrom genannt) ist eine Form der Angststörung. Die Betroffenen leiden dabei unter plötzlichen Angstanfällen, ohne dass objektiv gesehen eine reale Gefahr besteht. Diese Angstanfälle treten in Form von Panikattacken auf, die eine extreme körperliche Angstreaktion („Bereitstellungreaktion“) aus scheinbar heiterem Himmel darstellen und von den Betroffenen als extreme Bedrohung ihrer Gesundheit erlebt werden.
+
+Verbreitung 
+Das Auftreten vereinzelter Panikattacken im Leben stellt an sich noch keine Erkrankung dar. Erst wenn mehrere Panikattacken im Monat auftreten und sich vermehrt eine „Angst vor der Angst“ – die sogenannte Erwartungsangst – entwickelt, diese über einen längeren Zeitraum anhält (mindestens einen Monat) und zu Beeinträchtigungen im täglichen Leben führt, spricht man gemäß den Kriterien der Weltgesundheitsorganisation (WHO, ICD-10) von einer Panikstörung.
+
+Die Angst davor, plötzlich eine Panikattacke zu erleben in einer Situation, der man nicht schnell entfliehen kann oder in der keine Hilfe verfügbar ist, führt häufig dazu, dass Betroffene beginnen, enge Räume, Menschenansammlungen oder weite Reisen zu vermeiden. In schweren Fällen können sie die eigene Wohnung nicht mehr allein verlassen.
+
+Etwa 3,5 Prozent (Studie von 1994) bis 4,7 Prozent (Studie von 2005) aller Menschen erkranken im Laufe ihres Lebens an einer Panikstörung. Die Störung bricht in der Regel zwischen dem 15. und 24. Lebensjahr aus, kann sich jedoch – insbesondere bei Frauen – auch erst im dritten oder vierten Lebensjahrzehnt herausbilden. So sind Frauen auch häufiger von der Störung betroffen als Männer. Wie eine Studie ergab, nimmt die Prävalenz in jüngeren Generationen zu. Die Angst äußert sich oft in Gedanken, plötzlich zu sterben, oder der Vorstellung, verrückt zu werden.
+
+Symptome 
+Körperliche Reaktionen bei der Panikstörung sind unter anderem Hyperventilation, Enge in der Brust mit Erstickungsgefühlen, Herzrasen oder -stolpern, gelegentlich auch Herzschmerzen, Zittern, Schweißausbrüche, Taubheitsgefühle oder Kribbeln, Übelkeit und andere Beschwerden. In der Regel bessern sich die Symptome analog zum Adrenalin-Abbau nach etwa 15 bis 20 Minuten. Psychische Symptome der Panikstörung sind Schwindelgefühle, Derealisation und Depersonalisation, Angst vor Kontrollverlust, verrückt zu werden oder „auszuflippen“, und die Angst zu sterben. Allgemeine Symptome sind Hitzegefühle oder Kälteschauer mit Gänsehaut.
+
+Diagnose nach ICD-10 
+Für die Diagnose einer Panikstörung nach ICD-10 (F41.0) müssen wiederholte Panikattacken vorliegen und eine organische Ursache medizinisch ausgeschlossen worden sein. Eine eindeutige Diagnose setzt voraus, dass innerhalb eines Monats mehrmals ein schwerer vegetativer Angstanfall erfolgt ist. Die Situationen, in denen die Angstanfälle auftreten, müssen frei von objektiven Gefahren sein. Ebenso dürfen die Angstanfälle sich nicht auf Situationen beziehen, in denen bekannterweise oder vorhersagbar Angst auftritt. Angstfreie Zeitintervalle zwischen den Panikattacken gehören ebenfalls zu den diagnostischen Leitlinien, wobei hier die häufig auftretende Angst vor der nächsten Panikattacke berücksichtigt werden muss.
+
+Eine Panikattacke wird definiert als einzelne Episode von intensiver Angst oder Unbehagen, die abrupt beginnt, innerhalb weniger Minuten ein Maximum erreicht, mindestens einige Minuten dauert und von mindestens vier (aus einer Liste von vierzehn) Angstsymptomen begleitet wird. Mindestens ein Symptom davon muss vegetativer Art sein (Herzklopfen/-rasen, Schweißausbrüche, Zittern oder Mundtrockenheit). Die Panikstörung wird häufig in Zusammenhang mit einer Agoraphobie diagnostiziert und dann unter F40.01 (Agoraphobie mit Panikstörung) klassifiziert.
+
+Differentialdiagnose 
+Bevor die Diagnose einer Panikstörung im Sinne einer psychischen Störung gestellt werden kann, müssen körperliche Ursachen wie bspw. endokrinologische, neuropsychiatrische, kardiologische oder onkologische Erkrankungen medizinisch ausgeschlossen werden. Panik kann als Symptom im Rahmen zahlreicher körperlicher Erkrankungen auftreten. Es handelt sich dann nicht um eine psychische Störung, sondern um ein neuropsychiatrisches Symptom einer körperlichen Störung. Insbesondere gilt dies für endokrinologische Erkrankungen sowie Erkrankungen des zentralen Nervensystems, der Schilddrüse, des Herzens, der Nebennieren sowie bei zahlreichen Tumorerkrankungen wie z. B. dem Phäochromozytom. Diesen Erkrankungen ist gemeinsam, dass sie auf verschiedenen Wegen zu Veränderungen der Aktivität des Sympathikus und/oder einer veränderten Ausschüttung von Adrenalin, Noradrenalin und/oder Cortisol führen, die auch labortechnisch nachweisbar sind und die Paniksymptome verursachen. Bei Vorliegen von organischen Ursachen handelt es sich diagnostisch um eine organische Angststörung (ICD 10: F06.4). Die Therapie organisch bedingter Paniksymptome erfolgt medizinisch durch die Beseitigung der verursachenden Erkrankung.
+
+Diagnostisch abzugrenzen sind im nächsten Schritt auch Panikattacken, die im Zusammenhang mit Phobien oder im Kontext einer depressiven Störung auftreten.
+
+Entstehung und Ursachen
+
+Vererbung 
+Zwillingsstudien zeigen eine familiäre Häufung, wobei eine spezifische genetische Weitergabe des Paniksyndroms bisher nicht nachgewiesen wurde. Es wird eher davon ausgegangen, dass eine unspezifische genetische Vulnerabilität für „neurotische Störungen“ vererbt wird, deren Ausformung durch Umweltfaktoren bestimmt wird. Als physiologische Disposition wird auch eine erhöhte Sensitivität der α2-adrenergen-Rezeptoren und der zentralen Chemorezeptoren angenommen.
+
+Auslöser 
+Die erste Panikattacke kann oft als Folge von stressbehafteten Erlebnissen wie dem Verlust einer nahestehenden Person, Beendigung einer wichtigen Beziehung, Arbeitsplatzverlust oder krimineller Viktimisierung auftreten. Häufige Auslöser für Panikattacken können sein: Zug-, Schiff- und Autofahrten sowie Flüge. Die Betroffenen erleben ein Gefühl der Enge und es fehlt an Fluchtmöglichkeiten, bzw. besteht die latente Angst, nicht schnell genug medizinische Hilfe erreichen zu können.
+
+Aversive Lernerfahrungen können zum Aufbau einer Angst vor den eigenen Angstsymptomen (auch Angstsensitivität) führen, die als bedeutender Risikofaktor für die Entwicklung einer Panikstörung gilt.
+
+Verhaltenspsychologisches Modell 
+Verschiedene Forscher entwickelten psychologische, psychophysiologische bzw. kognitive Modelle zur Erklärung des Paniksyndroms. Panik wird hier als besonders intensive Form der Angst gesehen, die im Rahmen eines „Teufelskreises“ aufgeschaukelt wird:
+ Körperliche oder psychische Veränderung, z. B. Veränderung der Herzrate, Schwindel, Konzentrationsprobleme (infolge interner oder externer Stressoren, z. B. Hitze, Koffein)
+ Wahrnehmung dieser Veränderung.
+ Assoziation mit Gefahr (infolge von interozeptiver Konditionierung /Typ B Konditionierung oder kognitiven Bewertungsprozessen, z. B. „Ich bekomme einen Herzinfarkt“).
+ Angst/Panik.
+Die Angstreaktion geht wiederum mit körperlichen und psychischen Veränderungen einher (siehe Punkt 1), die wahrgenommen werden usw. Dadurch kommt es schnell zu einem Aufschaukelungsprozess (positiver Rückkoppelungsprozess) mit Zunahme der Panik. Dieser Kreislauf kann mehrmals durchlaufen werden und läuft in der Regel sehr schnell ab. Er kann unterbrochen werden durch
+ negative Rückkoppelungsprozesse: z. B. Habituation, Ermüdung, respiratorischer Reflex bei Hyperventilation
+ Bewältigungsstrategien: Hilfesuchendes Verhalten, Vermeidungsverhalten, flaches Atmen, Ablenkung auf externe Reize, Reattribution von Körperempfindungen
+Der Prozess kann auch bei Punkt 2 (Wahrnehmung) beginnen, z. B. wenn der Betroffene sich hinlegt und dadurch den eigenen Herzschlag besser wahrnimmt, ohne dass dieser sich verändert hat.
+
+Behandlung
+
+Psychotherapie 
+Die psychogene Panikstörung lässt sich in der Regel sehr gut psychotherapeutisch behandeln, vor allem kognitiv-verhaltenstherapeutische Behandlungsmethoden haben sich als wirksam erwiesen. Der Patient muss aufgeklärt werden, dass die Angstanfälle eigengesetzlich verlaufen und nach einiger Zeit von allein wieder abklingen – und, dass er zu keinem Zeitpunkt während der Angstattacke ernstlich gefährdet ist. Er wird nicht umfallen, nicht den Verstand verlieren, das Herz wird nicht stehen bleiben, es wird nichts dergleichen passieren. Diese Voraussage seines Therapeuten/Arztes muss er sich während der Attacke immer wieder in Erinnerung rufen.
+
+Das langfristige Ziel der Therapie ist, dass Betroffene wieder lernen, ihrem Körper zu vertrauen. Sie lernen, die Aufmerksamkeit weg von der ständigen Selbstbeobachtung auf äußere Ereignisse zu lenken, aber auch die Körperreaktionen nicht gleich als Anzeichen beispielsweise eines Herzinfarkts zu bewerten. Daneben lernen Betroffene, ihren Körper bewusst durch Atmung und Entspannungsverfahren zu entspannen. Das mit der Erwartungsangst häufig verbundene Vermeidungsverhalten wird in diesem Rahmen mit einer sogenannten Expositions- bzw. Konfrontationstherapie in der Regel erfolgreich behandelt (siehe Interozeptive Konditionierung).
+
+Psychopharmaka 
+Parallel zur Verhaltenstherapie wird meistens ein Antidepressivum verschrieben, da es die übermäßige Angst unterdrückt, bis der Patient in der Lage ist, die Panikstörung als solche zu erkennen und der Angst mit psychotherapeutischen Methoden effektiv zu begegnen. Es gibt verschiedene Arten bzw. Klassen an Antidepressiva. Selektive Serotonin-Wiederaufnahmehemmer (SSRI) und Serotonin-Noradrenalin-Wiederaufnahmehemmer (SNRI) sind für die Behandlung der Panikstörung am besten untersucht und nachweislich am wirkungsvollsten. Beispiele für Medikamente: SSRIs: Paroxetin; Citalopram, Escitalopram; Fluvoxamin, Fluoxetin, Sertralin; SNRI: Venlafaxin. Außerdem werden Trizyklika verschrieben. Nach dem Absetzen der Medikamente ist die Wahrscheinlichkeit eines Rückfalles im Allgemeinen hoch.
+
+Bei einer schweren Panikstörung können vorübergehend auch Anxiolytika (angstlösende Medikamente) wie beispielsweise Benzodiazepine zum Einsatz kommen. Da es durch eine regelmäßige Einnahme von Benzodiazepinen zur Entwicklung einer Abhängigkeit kommen kann, ist deren Anwendung auf die Akuttherapie (für eine Dauer von maximal vier bis sechs Wochen) beschränkt.
+
+Panikstörung in der Schwangerschaft 
+Es kann bei Patientinnen, die vorher nur wenig ausgeprägte Ängste hatten, in der Schwangerschaft zu einer massiven Häufung von schweren Panikattacken kommen.
+
+Siehe auch 
+ Angstsensitivität
+ Flashback (Psychologie)
+ Phobische Störung
+
+Literatur 
+ Jürgen Margraf, Silvia Schneider: Paniksyndrom und Agoraphobie. In: J. Margraf: Lehrbuch der Verhaltenstherapie. Band 2, 2. Auflage. 2005, ISBN 3-540-66440-8, S. 1–27.
+
+Weblinks 
+ Informationen zu Krankheitsbild und Forschung beim bundesweiten Forschungsverbund Panik-Netz (BMBF)
+ Spezialambulanz der Charité Berlin für Angsterkrankungen Diagnostik und Behandlung von Panikstörung
+
+Einzelnachweise 
+
+Psychische Störung

@@ -1,0 +1,36 @@
+Hauptdiagnosegruppe – engl.: Major Diagnostic Category (MDC) – bezeichnet die Kapiteleinteilung des deutschen DRG-Kataloges. Die Hauptdiagnosegruppen gliedern die DRGs nach dem Organsystem oder der  Ursache der Erkrankung.
+
+Insgesamt gibt es 24 Hauptdiagnosegruppen sowie Sonderfälle und Fehler-DRGs. Die Zuordnung zu einer MDC erfolgt in den meisten Fällen über die nach ICD-10 kodierten Diagnosen.
+
+Tabelle Hauptdiagnosegruppen:
+Prä MDC Sonderfälle (Beatmungsfälle, Transplantationen u. ä.)
+MDC 01 Krankheiten und Störungen des Nervensystems
+MDC 02 Krankheiten und Störungen des Auges
+MDC 03 Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses (HNO)
+MDC 04 Krankheiten und Störungen der Atmungsorgane
+MDC 05 Krankheiten und Störungen des Kreislaufsystems
+MDC 06 Krankheiten und Störungen der Verdauungsorgane
+MDC 07 Krankheiten und Störungen an hepatobiliärem System und Pankreas
+MDC 08 Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe
+MDC 09 Krankheiten und Störungen an Haut, Unterhaut und Mamma
+MDC 10 Endokrine, Ernährungs- und Stoffwechselkrankheiten
+MDC 11 Krankheiten und Störungen der Harnorgane
+MDC 12 Krankheiten und Störungen der männlichen Geschlechtsorgane
+MDC 13 Krankheiten und Störungen der weiblichen Geschlechtsorgane
+MDC 14 Schwangerschaft, Geburt und Wochenbett
+MDC 15 Neugeborene
+MDC 16 Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems
+MDC 17 Hämatologische und solide Neubildungen
+MDC 18A HIV
+MDC 18B Infektiöse und parasitäre Erkrankungen
+MDC 19 Psychische Krankheiten
+MDC 20 Alkohol- und Drogengebrauch und alkohol- und drogeninduzierte psychische Störungen
+MDC 21A Polytrauma
+MDC 21B Verletzungen, Vergiftungen und toxische Wirkungen von Drogen und Medikamenten
+MDC 22 Verbrennungen
+MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens
+MDC 24 Sonstige DRG
+Fehler-DRG
+
+Diagnostik
+Krankenhausfinanzierung (Deutschland)

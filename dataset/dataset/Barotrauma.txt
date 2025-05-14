@@ -1,0 +1,107 @@
+Ein Barotrauma („Druckverletzung“, aus  ‚Schwere‘, ‚Gewicht‘, und  ‚Wunde‘) ist eine Verletzung bzw. Läsion, die durch Änderungen des Umgebungsdrucks und dessen Auswirkungen auf luft- oder gasgefüllte Hohlräume und deren Hüllen bei Lebewesen einschließlich des Menschen verursacht wird.
+
+Neben dem Ausmaß der Druckänderung ist auch die Geschwindigkeit der Druckänderung für das Entstehen eines Barotraumas verantwortlich. Beim Menschen können alle luft- oder gasgefüllten Hohlräume und deren Umhüllung betroffen sein, unabhängig davon, ob die Hohlräume natürlichen, künstlichen oder krankhaften Ursprungs sind. Hierzu zählen Lungen, Mittelohr (Trommelfell), Nasennebenhöhlen, Karieshöhlen und gasgefüllte Hohlräume zwischen fest anliegenden Kleidungsstücken und Haut (zum Beispiel Taucheranzug oder Tauchmaske).
+
+Entsprechend den betroffenen Hohlräumen werden verschiedene Formen von Barotraumata (oder Barotraumen) unterschieden. Im engeren Sinne werden mit Barotraumata Schädigungen (Druckanstiegsschäden) bezeichnet, welche durch die Exposition gegenüber Überdruck entstehen. Barotraumata entstehen aber auch durch Exposition gegenüber Unterdruck. Medizinische Bedeutung hat das Barotrauma mit unterschiedlichen Formen beim Tauchen, Fliegen, Wasserspringen und der maschinellen Beatmung. Auch die medizinische Anwendung von Überdruck (im Rahmen der hyperbaren Sauerstofftherapie oder Rekompressionsbehandlung) und Unterdruck können zu Barotraumen führen. Eine häufige Ursache beim Trommelfell ist die Ohrfeige.
+
+Ursache und Pathomechanismus 
+Grundlegend für die Entstehung eines Barotraumas ist der physikalische Zusammenhang zwischen Druck und Volumen (Rauminhalt) von Gasen oder Gasgemischen wie Luft. Nach dem physikalischen Gesetz von Boyle und Mariotte verhalten sich Druck und Volumen umgekehrt proportional zueinander, wenn die Temperatur konstant ist. Dies bedeutet, dass bei ansteigendem äußerem Druck das Volumen von Gasen oder Gasgemischen wie Luft sinkt. Umgekehrt steigt bei Minderung des äußeren Drucks das Volumen. Je stärker sich der Druck ändert, desto stärker ändert sich auch das Volumen.
+
+Im Wesentlichen gilt dieser Zusammenhang auch für Hohlräume, welche mit Gas oder Gasgemischen befüllt sind. Im Falle des Menschen wären dies beispielsweise Lunge, Nasennebenhöhle, Mittelohr und Magen-Darm-Trakt. In Ergänzung zum Zusammenhang zwischen Druck und Volumen spielt die Umhüllung oder Begrenzung der Hohlräume hier noch eine wesentliche Rolle: je nach Beschaffenheit (Muskelstarre, Elastizität, Compliance) der Hülle kann eine Druckänderung (und damit eine Volumenänderung) mehr oder weniger ohne Schaden toleriert werden. Maßgeblich ist auch die Zeitspanne, in welcher die Druck- und damit auch Volumenänderung vorgenommen wird. Prinzipiell sind schnell ablaufende Änderungen von Druck und Volumen schädlicher als langsame.
+
+Ein Barotrauma entsteht somit immer dann, wenn durch eine Änderung des Umgebungsdrucks eine Volumenänderung des luft- oder gasgefüllten Hohlraums bewirkt wird, welcher der Hohlraum selbst oder seine Umhüllung nicht standhalten kann. Je nach Verhältnis der Drücke und Volumina im Hohlraum und dessen Umgebung können zwei Formen des Barotraumas unterschieden werden:
+ Wird der Umgebungsdruck um einen gas- oder luftgefüllten Hohlraum erhöht, so resultiert eine Volumenminderung (Schrumpfung) des gas- oder luftgefüllten Hohlraumes. Auf die Umhüllung des Hohlraumes wird während dieses Vorgangs Druck von außen und Sog von innen ausgeübt. Entsprechend dem anliegenden Umgebungsdruck wird diese Form als Überdruck-Barotrauma bezeichnet.
+ Ist der Umgebungsdruck um einen Hohlraum niedriger als in ihm selbst, so resultiert eine Ausdehnung des Hohlraumes. Während des Vorgangs wird Druck von innen und Sog von außen auf die Hohlraumumhüllung ausgeübt. Dementsprechend wird diese Form als Unterdruck-Barotrauma bezeichnet.
+
+Beim Menschen kann nur auf Basis der Symptome allein nicht sicher zwischen beiden Formen unterschieden werden; hierzu sind oft Angaben über den Hergang und Ablauf der Symptome (Anamnese) erforderlich.
+
+Formen des Barotraumas 
+Je nach betroffenem luft- oder gasgefüllten Hohlraum beim Menschen können verschiedene Formen des Barotraumas unterschieden werden.
+
+Barotrauma der Lunge 
+Die Lunge kann im Zusammenhang mit Tauchen, Fliegen, maschineller Beatmung, hyperbarer Sauerstofftherapie oder Bronchoskopie ein Barotrauma erleiden.
+Das Barotrauma der Lunge durch maschinelle Beatmung ist dabei häufiger als das Barotrauma der Lunge, welches im Rahmen des Tauchens auftritt. Die Barotraumata der Lunge durch Fliegen, hyperbare Sauerstofftherapie und Bronchoskopie sind sehr selten.
+
+Barotrauma der Lunge (Tauchen) 
+Das Barotrauma der Lunge im Rahmen des Tauchens ist eine für die Auftauchphase (Dekompression) typische Verletzung (englisch: pulmonary barotrauma of ascent). Es kann auch – aber deutlich seltener – während des Abtauchens (Kompression) vorkommen. Während des Auftauchens wird der Umgebungsdruck des Tauchers reduziert (abnehmende Wassertiefe). Folgerichtig dehnt sich der Rauminhalt beider Lungen entsprechend aus und dehnt die elastische Lungenbegrenzung beziehungsweise -Hülle (Pleura). Erfolgt bei fortgesetzter Druckminderung der Umgebung (abnehmende Wassertiefe) keine Ausatmung aus der Lunge, so verbleibt die Luft oder das Gas in der Lunge und dehnt diese entsprechend dem abnehmenden Umgebungsdruck weiter aus. Überschreitet die Volumenausdehnung der Lunge die elastische Kapazität der Pleura, wird diese an ihrem schwächsten Punkt mehr oder weniger zerstört. Vereinfachend gesprochen, kommt es zu einem Lungenriss.
+
+Sofern die Pleuraverletzung (Lungenriss) klein ist und nicht in Verbindung mit dem Pleuraspalt (Pleuraraum) oder dem Blutgefäßsystem der Lunge steht, kann das Barotrauma der Lunge folgenlos bleiben. Typischer ist aber eine Verbindung zwischen der Pleuraverletzung und dem Gefäßsystem der Lunge, insbesondere Lungenvenen. Dies führt bei zumeist fortgesetzter Druckminderung (Auftauchen) und damit Ausdehnung der Luft in der Lunge zu einem Übertritt von Luft in die Lungenblutgefäße. Ist eine Lungenvene mit der Lunge über eine Pleuraverletzung verbunden, so gelangt Luft (oder anderes Gasgemisch) über die Lungenvene in das Herz. Von dort aus wird die Luft- oder Gas- oder Gasgemischblase durch die linke Hauptkammer in den arteriellen Blutkreislauf gepumpt. Je nach Lage des Tauchers oder Größe der Luft- bzw. Gasblase wird diese zunächst in die Aorta (Hauptschlagader) gepumpt und kommt in Arterien mit kleinerem Durchmesser unter Umständen zum Stillstand und verschließt diese teilweise oder vollständig. Dies können die Arterien des Gehirns, des Rückenmarks, die Herzkranzgefäße oder jedes andere arterielle Blutgefäß sein.
+
+Entsprechend dem Ort des Stillstands oder Liegenbleibens der Luft- oder Gasblase resultiert eine Symptomatik: ist das Gehirn betroffen, ist eine zerebrale Gasembolie (CAGE; cerebral arterial gaseous embolism) eingetreten. Die Schädigung entspricht einem embolischen Schlaganfall. Ist das Rückenmark betroffen, ist eine spinale Gasembolie (SAGE; spinal arterial gaseous embolism) eingetreten. Auch diese Schädigung entspricht einem Schlaganfall des Rückenmarks. Bei Stillstand der Gasblasen in den Herzkranzgefäßen und Verschluss dieser tritt ein Herzinfarkt durch die Gasblasen auf.
+
+Wenn die Pleuraverletzung durch das Barotrauma der Lunge eine Verbindung zwischen Pleuraspalt und Lunge herstellt, so gelangt Luft bzw. Gas in den Pleuraspalt. Damit wird der dort gegenüber dem Lungeninhalt bestehende relative Unterdruck aufgehoben: es entsteht ein Pneumothorax.
+Hierbei wird durch die Aufhebung des relativen Unterdrucks im Pleuraspalt die Lunge nicht mehr gedehnt gehalten und – vereinfachend – fällt in sich zusammen. Dadurch wird die zum Gasaustausch zur Verfügung stehende Fläche schlagartig vermindert. Da bei Fortsetzung der Dekompression nicht nur die Lunge, sondern auch die „fehlerhaft“ im Pleuraspalt sich befindende Luft an Volumen zunimmt, kommt es zu einer Verschiebung der zusammengesunkenen Lunge hin zum Mittelfell (Mediastinum). Im weiteren Verlauf wird auch das Mediastinum selbst in Richtung der nicht betroffenen Lunge geschoben. Diese Situation ist die eines Spannungspneumothorax.
+
+Im Gegensatz zur Dekompressionskrankheit ist das Risiko der Entstehung eines Barotraumas am größten in niedrigen Tiefen (0 bis 10 Meter Wassertiefe). In diesem Tiefenbereich bewirkt die Drucksteigerung um ca. 1 bar die größte Volumenänderung (bis zu 50 %). Erfolgt insbesondere in diesem Tiefenbereich ein sehr schnelles Auftauchen ohne Atmung (kein „Ablassen der ausgedehnten Luft in den Lungen“), ist ein Barotrauma der Lunge besonders wahrscheinlich.
+
+Barotrauma der Lunge (Beatmung) 
+Ein Barotrauma der Lunge ist eine Lungenschädigung durch einen erhöhten intrathorakalen Druck (Druck im Brustkorb) und kann im Rahmen einer maschinellen Beatmung auftreten. Häufige Manifestationen des Barotraumas können interstitielles Emphysem oder Weichteilemphysem sowie Pneumothorax und Pneumomediastinum sein, seltener auch Pneumoperikard, Pneumoperitoneum und Gasembolie.
+
+Barotrauma der Lunge (Fliegen) 
+Ein Barotrauma der Lunge kann auch während des Fliegens mit einem Verkehrsflugzeug und der damit verbundenen Absenkung des Umgebungsdrucks auftreten.
+Es ist deutlich seltener als Barotraumata der Lunge, welche im Zusammenhang mit Tauchen oder maschineller Beatmung entstehen. Ein wesentlicher Grund für diese Häufigkeitsverteilung ist, dass die Druckunterschiede beim Fliegen durch Exposition gegenüber Unterdruck in der Höhe geringer sind als bei Exposition gegenüber Überdruck beispielsweise im Wasser.
+
+Barotrauma der Lunge (hyperbare Sauerstofftherapie) 
+Im Rahmen der Anwendung der hyperbaren Sauerstofftherapie (HBO) kann ein Barotrauma der Lunge auftreten. Analog zum Tauchen ist das Barotrauma der Lunge insbesondere in der Dekompressionsphase der HBO-Behandlungseinheit (umgangssprachlich „Tauchfahrt“) möglich.
+Das Barotrauma der Lunge ist im Rahmen der hyperbaren Sauerstofftherapie eine seltene bis sehr seltene, dafür sehr ernsthafte Nebenwirkung.
+
+Barotrauma der Zähne 
+
+Ein Barotrauma der Zähne bzw. eines Zahnes kann bei vollständig gesunden Zähnen nicht vorkommen. Auch kann ein Barotrauma bei fehlerfreien Füllungen, Brücken und Implantaten nicht vorkommen, da hier kein luft- oder gasgefüllter Hohlraum mit fehlender Verbindung zur Umgebung vorhanden ist.
+
+Wenn bei einem Zahn beispielsweise infolge einer Karies sich ein luft- oder gasgefüllter Hohlraum bildet (siehe Bild 1), dann kann bei fehlender oder versperrter Verbindung zur Mundhöhle kein Druckausgleich mehr stattfinden. Es resultiert bei zunehmendem Umgebungsdruck eine Verkleinerung des Luft- oder Gasvolumens im Hohlraum (zum Beispiel eine Karieshöhle) im Zahn. Da der Zahn, beispielsweise im Gegensatz zur Lunge, aus nicht-elastischem Material besteht, sinkt der Druck im Hohlraum des Zahnes und führt bei Überschreitung der Toleranzgrenzen der Zahnsubstanz zu einer Implosion.
+
+Parallel hierzu existiert ein Barotrauma der Zähne, welches in Zusammenhang mit einer Dekompression auftritt. In diesem Fall kommt es ebenfalls unter fehlender oder verschlossener Verbindung beispielsweise einer Karieshöhle zum Mundraum bei abfallenden Umgebungsdruck zur Volumenausdehnung im Zahnhohlraum. Diese ist aber begrenzt durch die Starrheit des Zahnmaterials, so dass der Druck sich in der Zahnhöhle steigert. Überschreitet der Druck in der Zahnhöhle den Toleranzpunkt der Zahnsubstanz, wird diese im Gefolge aufgebrochen. Bei sehr schneller Senkung des Umgebungsdrucks (und damit Steigerung der Druckdifferenz) kann der Zahn explodieren. Betrifft der Zahnhohlraum eine Füllung oder Brücke, kann diese ebenfalls brechen.
+
+Das Barotrauma der Zähne kommt vor allem beim Tauchen vor.
+Es ist – wie andere Formen des Barotraumas auch – seltener beim Fliegen.
+
+Barotrauma des Mittelohres 
+Das häufigste Barotrauma überhaupt ist das Barotrauma des Mittelohres, auch Baro-Otitis oder Aero-Otitis genannt.
+
+Das Barotrauma des Mittelohres tritt fast immer nur während eines Druckanstiegs in der Umgebung (Abstieg beim Tauchen, Landeanflug beim Fliegen, Aufprall beim Wasserspringen oder Wasserskifahren) auf, da bei Druckminderung in der Umgebung (Auftauchen, Start beim Fliegen) der relative Überdruck im Mittelohr zur passiven Öffnung der Tube führt und damit ein Druckausgleich hergestellt wird. Bei einem plötzlichen und starken Druckabfall in der Umgebung („explosive Dekompression“) ist ein Barotrauma des Mittelohres samt Trommelfellzerreißung auch bei Druckminderung möglich. Zu unterscheiden vom Barotrauma durch Druckminderung ist die Dekompressionskrankheit, die auch zu einer Mitbeteiligung des Innenohres führen kann.
+
+Bei Überdruck in der Umgebung muss zum Druckausgleich die Tube (Eustachi-Röhre) aktiv durch Muskeln (Musculus tensor veli palatini, Musculus salpingo-pharyngeus) entweder durch Schlucken oder Kauen oder auch – wenn möglich – willentlich geöffnet werden, was bei einem Unterdruck von 80 bis 90 mm Hg im Mittelohr nicht mehr möglich ist. Allerdings gelingt es unter Umständen noch mit einem Valsalva-Manöver oder Einpressen von Luft mit einem Politzer-Ballon die Tube zu öffnen, (Tubensprengung). Mit zunehmendem Außendruck, beziehungsweise Unterdruck im Mittelohr wird, abhängig von Ausmaß und Dauer des Druckunterschiedes, die Schleimhaut – schmerzhaft – ödematös und es kommt allmählich zum Austritt eines blutig-fibrinösen Exsudates aus der Schleimhaut, was auch zu einer Hörstörung führt. Die Flüssigkeitsansammlung führt schließlich zu einer Vorwölbung des Trommelfelles, das hochrot erscheint und Einblutungen zeigt. Eine Trommelfellruptur ist bei raschem und starkem Druckanstieg möglich. Eine Baro-Otitis wie auch ein Trommelfellriss heilen meist folgenlos ab. Schmerzstillende Medikamente sind zu empfehlen. Bei einer Baro-Otitis ist eine antibiotische Behandlung sinnlos und daher zu unterlassen. Bei einer Trommelfellperforation kann Eindringen von Wasser aber eine bakterielle Mittelohrentzündung zur Folge haben, die antibiotisch zu behandeln ist.
+
+In Einzelfällen wurden auch Barotraumata des Mittelohres im Zusammenhang mit einer Distickstoffmonoxid-Narkose (Lachgas) beobachtet.
+
+Barotrauma des Mittelohres durch Tauchen 
+Wird der Umgebungsdruck im Rahmen des Abtauchens (Kompression) erhöht, so sinkt das Volumen der im Mittelohr hinter dem Trommelfell enthaltenen Luft (oder Gas bzw. Gasgemisch). Als Folge dieser Verhältnisse wird das Trommelfell durch das Wasser in Richtung des Mittelohres gepresst. Kann der Druck im Mittelohr nicht über die Zuführung von Luft oder Gas durch die Eustachische Röhre erhöht werden, kommt es unter zunehmenden Schmerzen zu den oben geschilderten Veränderungen im Mittelohr. Wird die Elastizität des Trommelfells überschritten, reißt das Trommelfell ein (Trommelfellriss). Beim Tauchen gelangt dann Wasser in das Mittelohr, was aufgrund der zumeist gegenüber dem Körper niedrigeren Wassertemperatur zu einem kalorischen Nystagmus mit Schwindel durch Reizung des Gleichgewichtsorgans im betroffenen Ohr führt.
+
+Alle Blockierungen der Eustachischen Röhre wie beispielsweise durch Schnupfen, Mittelohrentzündungen, Tubenkatarrh oder angeborene oder erworbene Verengungen erschweren oder verhindern vor allem das Einströmen von Luft oder Gas in das Mittelohr (Tubenbelüftungsstörung). Ein Druckunterschied bzw. eine Volumenänderung kann dann nicht durch Zufuhr von Luft ausgeglichen werden, was zum Trommelfellriss führen kann.
+
+Ein Trommelfellriss geht mit einer zeitweiligen Hörminderung einher.  Wiederholte Trommelfellrisse können aufgrund der resultierenden Vernarbungen bei Abheilung zu dauerhaften Hörminderungen führen. Trommelfellverletzungen wie Rötungen und Einblutungen heilen in aller Regel folgenlos ab.
+
+Barotrauma des Mittelohres durch hyperbare Sauerstofftherapie 
+Im Rahmen der hyperbaren Sauerstofftherapie treten Barotraumata des Mittelohres (Trommelfelle) vor allem während der Kompressionsphase („Abtauchen“) in Analogie zum Tauchen auf. Das Barotrauma des Mittelohres ist die häufigste Nebenwirkung der hyperbaren Sauerstofftherapie, wenn auch selten schwerwiegend im Sinne eines Trommelfellrisses.
+Auch Patienten, welche nicht in der Lage sind den Druck im Mittelohr an den Umgebungsdruck anzugleichen (beispielsweise beatmete Patienten), erleiden gehäuft Barotraumen des Mittelohres bzw. Trommelfells.
+
+Barotrauma des Mittelohres durch Fliegen 
+Während eines Fluges mit einem Verkehrsflugzeug bestehen zwei „Gelegenheiten“ ein Barotrauma des Mittelohres (Trommelfells) zu erleiden. Im Vergleich zu den Barotraumata während des Tauchens ist das Barotrauma durch Dekompression zu Beginn eines Fluges, das Barotrauma durch Kompression am Ende eines Fluges vorzufinden.
+
+Nach dem Start wird der Kabineninnendruck mit steigender Flughöhe auf ca. 0,75–0,85 bar abgesenkt, was einem Höhenniveau von 1500 bis  entspricht. Vor allem bei sehr schnell vorgenommener Drucksenkung des Kabineninnendrucks kann – wenn auch äußerst selten – ein Barotrauma des Mittelohres (Trommelfells) dann auftreten, wenn eine Blockierung der Eustachischen Röhre vorliegt.
+Blockierungen der Eustachischen Röhre sind insbesondere bei Kindern im Verhältnis zu Erwachsenen häufig anzutreffen.
+Die zweite „Gelegenheit des Erwerbs“ eines Mittelohr-(Trommelfell)-Barotraumas besteht während der Landung. Hier wird der Kabineninnendruck wieder auf das Niveau des Umgebungsdrucks gebracht; entspricht der Umgebungsdruck dem Atmosphärendruck bei Normalnull, resultieren Druckanstiege von 0,15 bis 0,25 bar. Besonders betroffen sind wiederum Menschen, welche aufgrund von Blockaden der Eustachischen Röhre keine regelrechte Belüftung des Mittelohres erzielen können. Um einem Barotrauma auf Flugreisen vorzubeugen, kann der Einsatz eines abschwellenden Nasensprays von Nutzen sein.
+
+Barotrauma des Verdauungstrakts 
+Ein Barotrauma des Verdauungstrakts (Magen, Darm) ist selten.
+
+Barotrauma der Haut 
+Weniger verbreitet ist das Barotrauma der Haut, das beim Tauchen mit einem Trockentauchanzug entstehen kann. Dieses Barotrauma wird auch Anzug-Squeeze genannt und entsteht, wenn beim Abtauchen der im Anzug entstandene Unterdruck nicht rechtzeitig ausgeglichen wird, indem Luft eingelassen wird. Falten im Anzug führen dann zu Hautquetschungen.
+
+Barotrauma des Auges 
+
+Eine weitere, jedoch leichtere Form kann sowohl beim Sporttauchen mit Gerät als auch beim Apnoetauchen auftreten, das Barotrauma des Auges. Hier entsteht beim Abtauchen im Hohlraum zwischen Auge und Tauchmaske ein Unterdruck, der sich auf die Augen auswirkt. Der Taucher fühlt einen Schmerz in den Augen. Abhilfe kann er sich verschaffen, indem er eine geeignete Tauchmaske trägt und regelmäßig leicht durch die Nase ausatmet und so den Unterdruck ausgleicht.
+
+Weblinks
+
+Quellen 
+Lehrbücher
+ C. Edmonds, C. Lowry, J. Pennefather, R. Walker: Diving and subaquatic medicine. 4. Auflage. Hodder Arnold Publishing, London 2002, ISBN 0-340-80629-X.
+
+Original- und Übersichtsarbeiten
+
+Krankheitsbild in Orthopädie und Unfallchirurgie
+Krankheitsbild in der Intensivmedizin
+Tauchmedizin
+Ohrkrankheit

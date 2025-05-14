@@ -1,0 +1,76 @@
+Die generalisierte Angststörung (GAS; englisch Generalized anxiety disorder (GAD)) ist eine psychische Störung aus dem Spektrum der Angststörungen. Zentral ist eine anhaltende irrationale Angst oder Besorgtheit, die nicht auf einen speziellen Auslöser zurückzuführen ist. Diese Sorgen beeinträchtigen das alltägliche Leben und können sich in Ruhelosigkeit, Schlafstörungen, Erschöpfung, Reizbarkeit, Schwitzen und Zittern äußern.
+
+Symptome 
+
+Der Patient erlebt eine generalisierte und anhaltende Angst, die nicht (wie bei den phobischen Störungen) auf bestimmte Umgebungsbedingungen beschränkt ist.
+
+Inhalt der Ängste sind häufig unbegründete Sorgen und Befürchtungen vor zukünftigen Unglücken oder Erkrankungen, die den Erkrankten selbst oder Angehörige betreffen, sowie eine große Anzahl weiterer Sorgen und Vorahnungen. Typische Sorgenbereiche sind: Familiäre- und soziale Beziehungen, Arbeit und Leistung, Gesundheitssorgen, Finanzen. Angstzustände bis hin zur Panik können auftreten. Es kann zu Konzentrationsstörungen, Schlafstörungen, Derealisation- und Depersonalisationszuständen kommen. Die Angst manifestiert sich oft auch durch körperliche Beschwerden wie Zittern, Herzrasen, Schwindel, Übelkeit, innere Unruhe, Unfähigkeit sich zu entspannen, Hitzewallungen, Muskelverspannungen.
+
+Personen mit generalisierter Angststörung leiden häufig unter zusätzlichen anderen psychischen Störungen wie einer depressiven Erkrankung, einer sozialen Phobie oder einem Substanzmißbrauch.
+
+Wer unter einer generalisierten Angststörung leidet, sucht meist wegen seiner körperlichen Beschwerden den Arzt auf. Die körperlichen Beschwerden der Betroffenen sind meist die Folge ihrer negativen Gedanken, ihrer Sorgen und Grübeleien. Oftmals dauert es viele Jahre, bis erkannt wird, dass sich hinter seinen körperlichen Beschwerden chronische Angst verbirgt.
+
+Patienten sind in der Bewältigung ihrer alltäglichen Aufgaben deutlich beeinträchtigt. Der Verlauf ist unterschiedlich, neigt aber zu Schwankungen und Chronifizierung.
+
+Diagnose 
+Nach den ICD-10 Kriterien müssen vorherrschende Anspannung, Besorgnis und Befürchtungen in Bezug auf alltägliche Ereignisse sowie zusätzlich mindestens vier der folgenden Symptome mindestens 6 Monate lang an den meisten Tagen erfüllt sein (davon mindestens ein vegetatives Symptom):
+
+ Vegetative Symptome (Schwitzen, Tachykardie oder Tachypnoe, Schwindelgefühle, Mundtrockenheit, Zittern)
+ Symptome in Thorax oder Abdomen (Atembeschwerden, Beklemmung, Schmerzen, Übelkeit oder Kribbeln im Magen)
+ Psychische Symptome (Gefühl von Schwindel, Unsicherheit und Benommenheit, Derealisation und Depersonalisation, Angst vor Kontrollverlust, Angst zu sterben)
+ Allgemeine Symptome (Hitzewallungen oder Kälteschauer; Gefühllosigkeit oder Kribbelgefühle)
+ Anspannungssymptome (Muskelverspannung, Ruhelosigkeit, Unfähigkeit zu entspannen, Nervosität, Kloßgefühl im Hals oder Schluckbeschwerden)
+ Unspezifische Symptome (erhöhte Schreckhaftigkeit, Konzentrationsschwierigkeiten oder Leere im Kopf, anhaltende Reizbarkeit, Einschlafstörungen)
+
+Es darf keine organische Verursachung vorliegen oder die Kriterien für eine phobische Störung, Zwangsstörung, Panikstörung oder hypochondrische Störung zutreffen.
+
+Die Feststellung einer generalisierten Angststörung kann über Screening mittels Fragebogen zu GAD-7 oder GAD-2 erfolgen, wobei auch eine Bestimmung des Schweregrades möglich ist.
+
+Differentialdiagnose 
+Zur diffentialdiagnostischen Abklärung ist der Ausschluss somatischer Erkrankungen wie Lungenerkrankungen, Herz-Kreislauferkrankungen, neurologische Erkrankungen, oder endokrine Erkrankungen notwendig. Zum Ausschluss einer organischen Ursache sollten folgende Untersuchungen durchgeführt werden: Blutbild, Blutzucker, Elektrolyte (C++, K+), Schilddrüsenstatus (TSH), EKG mit Rhythmusstreifen, ggf. Sauerstoffsättigung, ggf. kranielle Bildgebung, ggf. EEG.
+
+Ebenso ist die differentialdiagnostische Abgrenzung zu anderen psychischen Störungen zu überprüfen: z. B. zu Zwangsstörungen, Depressionen, Somatisierungsstörungen, Anpassungsstörungen, Suchterkrankungen, emotional instabile Persönlichkeitsstörungen, Psychosen.
+
+Häufigkeit 
+Schätzungen bezüglich der Prävalenz von GAS variieren je nachdem, welche Kriterien für die Diagnose verwendet werden (z. B. DSM-5 oder ICD-10). Die Prävalenz wird auf etwa 2 % der Erwachsenen geschätzt. Die Wahrscheinlichkeit in seinem Leben an GAS zu erkranken wird  auf 9,0 % geschätzt. Obwohl es möglich ist, im Laufe des Lebens lediglich eine Episode von GAS zu erleben, ist in den meisten Fällen eine Wiederholung in Form einer chronischen oder anhaltenden Erkrankung zu beobachten. Frauen werden doppelt so häufig mit GAS diagnostiziert wie Männer.
+
+Ursachen 
+Als ursächlich für die Entstehung der Generalisierten Angststörung werden genetische und soziale Faktoren angenommen. Die GAS wird jedoch nicht spezifisch vererbt; es scheint eher eine vererbbare biologische Vulnerabilität zur Entwicklung pathologischer Angst zu existieren. Diese biologische Vulnerabilität für das Erleben von Ängsten kann zu Stress führen, der durch soziale Faktoren bedingt ist. Stresserzeugende soziale Faktoren sind meist kritische Lebensereignisse. Der erlebte Stress kann zu der für die GAS charakteristischen Erwartungsangst (Sorgen) führen. Diese Erwartungsangst ist gekennzeichnet durch negative Gefühle, die mit „der wahrgenommenen Unfähigkeit zusammenhängen, in bevorstehenden Ereignissen oder Situationen erwünschte Ergebnisse vorherzusagen, kontrollieren oder erreichen zu können“.
+Dies führt vor allem zu einer Verlagerung der Aufmerksamkeit auf internale, selbstbewertende Inhalte und einer übermäßigen Wachsamkeit gegenüber angstauslösenden Reizen. Die Wachsamkeit führt dann wiederum dazu, dass viele verschiedene Lebensumstände als bedrohlich wahrgenommen werden. Nach Borkovec und Kollegen dämpft der Prozess des Sorgens die emotionale Verarbeitung angstauslösender Reize und führt auch zu somatischen Suppressionseffekten: die angstauslösenden Reize werden rationalisiert und die Person wird durch das Sich-Sorgen ruhiger. Diese kurzfristige Verbesserung des emotionalen und physischen Befindens wirkt negativ verstärkend und somit Angst wird aufrechterhaltend.
+
+Weitere diskutierte kognitive Faktoren sind internale und externale Fehleinschätzungen, die sich aus den vom Patienten an sich selbst beobachteten Veränderungen wie geringerer Konzentrationsfähigkeit und Störung des Arbeitsgedächtnisses ergeben: "Ich bin der Aufgabe nicht gewachsen, besitze wenig Kontrolle oder Fähigkeiten zur Meisterung schwieriger Situationen, die Sorgen schaden mir". Die negativen Metasorgen können zu Kontrollverhalten führen, welches die Häufigkeit der Sorgen weiter steigert und Vermeidungs- und Rückversicherungsverhalten auslöst. Aber auch positive Metasorgen wie: „Sorge ist gleich Vorsorge“ können den Sorgenprozess verstärken. Durch Kontrolle, Vermeidung und Rückversicherung kann keine Gewöhnung und damit kein Ende des Sorgenprozesses stattfinden. Häufig wird eine Vorgeschichte von Traumata beschrieben.
+
+Die Beobachtung, von Familien, in denen GAS häufiger vertreten ist führte zur Annahme einer genetischen Grundlage. Inwieweit jedoch der Einfluss spezifischer Familienkulturen diese Häufung erklären, wurde bisher nicht geklärt. Genetische Studien über Personen mit Angststörungen, darunter auch welche mit GAS, legen nahe, dass der erbliche Beitrag zur Entwicklung von Angststörungen etwa 30-40 % beträgt, was darauf hindeutet, dass vor allem äußere Einflüsse einen großen Beitrag zur Entwicklung sämtlicher Angststörungen leisten.
+
+Pathophysiologie 
+Die Pathophysiologie der GAS impliziert mehrere Regionen des Gehirns, die für die Verarbeitung von Reizen verantwortlich sind, die mit Furcht, Angst, Gedächtnis und Emotionen in Verbindung stehen (darunter Amygdala, Insula und der präfrontale Cortex). Es wurde vermutet, dass Personen mit GAS eine größere Aktivität der Amygdala und des medialen präfrontalen Cortex (mPFC) als Reaktion auf Reize aufweisen als Personen ohne GAS. Die Beziehung zwischen GAS und Aktivitätsniveaus in anderen Teilen des präfrontalen Cortex ist jedoch Gegenstand laufender Forschungen, wobei einige Literatur eine stärkere Aktivierung in bestimmten Regionen für Personen mit GAS nahelegt, während andere Forschungen ein verringertes Aktivierungsniveau bei Personen mit GAS im Vergleich zu Personen ohne beschreiben.
+
+Therapie 
+
+Die S3-Leitlinie zur wirksamen Behandlung von Angstörungen empfiehlt bei generalisierten Ängsten Psychotherapie und Pharmakotherapie.
+
+Psychotherapie 
+An erster Stelle wird die kognitive Verhaltenstherapie im Einzel- oder Gruppensetting empfohlen. Sind Panikzustände oder agoraphobische Symptome Bestandteil des Syndroms ist der Einsatz von Expositionsverfahren sinnvoll. Zur Unterstützung einer Psychotherapie oder zur Überbrückung bis zum Beginn einer solchen können Selbsthilfebücher mit Audiomaterial oder auf kognitiver Verhaltenstherapie basierende Internetangebote hilfreich sein.
+
+In einer Kognitiven Verhaltenstherapie besteht das erste Ziel darin, dass der Patient durch eine Verhaltensanalyse und die Vermittlung seines individuellen Störungsmodells ein Verständnis für seine Störung erlebt und dadurch die Bereitschaft entsteht, an verhaltenstherapeutischen Interventionen wie der Konfrontation mit der Angst in sensu (gedanklich) oder in vivo (im richtigen Leben, d. h. in der konkreten Situation) teilzunehmen. Dadurch kann er neue Verhaltensmuster erlernen, indem er sich seiner Angst stellt und praktisch erlebt, dass die von ihm befürchteten Folgen ausbleiben. Durch kognitive Therapieelemente wie die kognitive Umstrukturierung, die Realitätsprüfung, das Entkatastrophisieren oder die Bearbeitung der Metasorgen soll der Patient eine neue Lebenseinstellung bzw. eine neue Sicht auf die eigenen Fähigkeiten erwerben. Zu den wichtigsten Weiterentwicklungen der kognitiven Verhaltenstherapie für die Behandlung der generalisierten Angststörungen zählt die metakognitive Therapie, deren Wirksamkeit durch Meta-Analysen belegt werden konnte. Ein wichtiges Therapieelement stellen Entspannungsverfahren dar.
+
+Eine tiefenpsychologische Psychotherapie kommt in Frage, wenn sich eine KVT nicht als wirksam erwiesen hat, nicht verfügbar ist oder wenn eine diesbezügliche Präferenz des informierten Patienten besteht. Es existieren psychodynamische Kurzzeitpsychotherapien zur Behandlung der GAS.
+
+Bei schweren Fällen, die zu einer Psychotherapie nicht in der Lage sind, da ihre Ängste und Anspannungen zu groß sind, bietet sich eine Kombinationsbehandlung mit Medikamenten an, um eine Therapiefähigkeit zu erreichen.
+
+Pharmakotherapie 
+Bei der pharmakologischen Behandlung stehen selektive Serotonin-Wiederaufnahmehemmer (SSRI) wie Citalopram, Escitalopram und Sertralin im Vordergrund. Andere Optionen umfassen selektive Noradrenalin-Wiederaufnahmehemmer (SNRI) wie Duloxetin und Venlafaxin. In Europa kommt stellenweise auch Pregabalin zum Einsatz.
+
+Viele Klienten mit einer generalisierten Angststörung suchen Hausärzte auf, um sich wegen ihrer Nervosität und somatischen Beschwerden behandeln zu lassen. In diesem Fall werden oft fälschlicherweise Benzodiazepine verschrieben, um die Nervosität zu lindern. Es gibt jedoch schnell Gewöhnungseffekte. Benzodiazepine erzeugen zudem schnell eine Abhängigkeit, was das Absetzen der Medikation schwierig macht.
+
+Literatur 
+ H. Mitterhammer: Psychiatrie für Mediziner. Servicebetrieb OEH Uni Graz, 1997, S. 35f.
+ E. Becker, J. Margraf: Generalisierte Angststörung. Beltz, 2002.
+ J. Hoyer u. a.: Ratgeber Generalisierte Angststörung. Hogrefe, 2007.
+ M. Linden, H.-J. Möller: Taschenatlas GAD: Generalisierte Angststörung in Klinik und Praxis. 1. Auflage. Aesopus, 2006.
+ S. Schmidt-Traub: Generalisierte Angststörung: Ein Ratgeber für übermäßig besorgte und ängstliche Menschen. 1. Auflage. Hogrefe-Verlag, 2008.
+
+Einzelnachweise 
+
+Psychische Störung
+Angst und Furcht

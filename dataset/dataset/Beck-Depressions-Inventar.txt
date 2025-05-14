@@ -1,0 +1,86 @@
+Das Beck-Depressions-Inventar (BDI – Beck, Ward, Mendelson, Mock & Erbaugh, 1961) ist ein psychologisches Testverfahren, das die Schwere depressiver Symptomatik im klinischen Bereich erfasst. Dabei soll nicht die Depression an sich, sondern lediglich der Schweregrad der Depression erfasst werden (Beispiel BDI-FS). Als Screeningverfahren in der Normalbevölkerung kann das Verfahren deshalb nicht eingesetzt werden, weil eine entsprechende repräsentative Stichprobe fehlt. Laut S3-Leitlinie für Unipolare Depression werden als Screening folgende Fragebögen empfohlen: „WHO-5-Fragebogen zum Wohlbefinden“, „Gesundheitsfragebogen für Patienten (Kurzform PHQ-D)“ sowie die Allgemeine Depressionsskala (ADS). Eine weitere Möglichkeit der schnellen Erfassung einer möglichen depressiven Störung ist der so genannte „Zwei-Fragen-Test“. Das BDI und BDI-II werden aber zur Verlaufsdiagnostik empfohlen.
+
+Das BDI wurde vom US-amerikanischen Psychiater Aaron T. Beck entwickelt und nach ihm benannt. In dem Fragebogen mit 21 Fragen bestimmt der Teilnehmer, welche der vier Aussagen für ihn/sie in dieser Woche am zutreffendsten ist. Zur Auswertung werden die Summenwerte der einzelnen angekreuzten Aussagen addiert.
+Im Laufe der Zeit wurde das zuerst als standardisiertes Interview gedachte Verfahren zu zwei bearbeiteten Formen weiterentwickelt, dem BDI-1A (1978) und dem BDI-II (1996).
+Ergänzend zu diesen beiden Formen gibt es seit Herbst 2013 eine Kurzform des BDI-II in deutscher Sprache, die sich BDI-FS (FS steht für "FastScreen") nennt und die Schwere einer Depression auf Basis der nicht-somatischen Symptome erfasst. Aufgrund der verschiedenen Versionen ist der Vergleich verschiedener Forschungsarbeiten erschwert, weshalb immer die verwendete Version angegeben werden sollte.
+
+Entwicklung und Geschichte 
+Das Beck-Depressions-Inventar wurde 1961 aufgrund von Beobachtungen depressiver Patienten und deren Klagen entwickelt. Im Fragebogen wurden dann Symptome beschrieben, die von depressiven Patienten häufig geschildert wurden und von nichtdepressiven Patienten nicht. Um das BDI den veränderten Diagnosekriterien des DSM-IV anzupassen, gab es 1996 eine Revision der amerikanischen Fassung des BDI, die BDI-II genannt wird.
+
+Eine erste Adaption des BDI wurde 1994 von Martin Hautzinger, Maja Bailer, Hellgard Worall, Ferdinand Keller veröffentlicht. 1995 wurde eine zweite überarbeitete Auflage des BDI von denselben Autoren veröffentlicht. Die deutsche Adaption des BDI-II stammt von Martin Hautzinger, Ferdinand Keller, Christine Kühner.
+Schmitt und Maes haben 2000 einen Vereinfachungsversuch im Rahmen eines DFG-geförderten Längsschnittprojekts unternommen. Zum einen haben sie auf die Frage nach Gewichtsverlust verzichtet, da diese Frage laut Studien die geringste Trennschärfe besitzt (Hautzinger et al., 1994; Kammer, 1983), und zum anderen haben sie die vier Antwortalternativen jeweils durch eine sechsstufige Skala ersetzt (von 0/nie bis 5/fast immer).
+
+BDI 
+In der ursprünglichen amerikanischen Version von 1961 wurden die Probanden gefragt, wie sie sich gerade jetzt fühlen. Erst in der Version von 1978 wurden sie rückblickend für eine Woche gefragt. Die ersten Übersetzungen von Lukesch (1974) und Kammer (1983) sind nicht ganz identisch und beziehen sich auf die erste Version von 1961.
+
+Die Übersetzung von Hautzinger und Mitarbeiter im Jahr 1994 bezog sich auf die amerikanische Version von 1978. Diese Übersetzung von 1994 besteht entsprechend aus 21 Fragen darüber, wie sich der Patient in der letzten Woche gefühlt hat. Zu jeder Frage gibt es jeweils vier Antwortmöglichkeiten, die nach ihrer Intensität geordnet sind.
+
+Beispiel:(0) Ich bin nicht traurig.
+
+(1) Ich bin traurig.
+
+(2) Ich bin die ganze Zeit traurig und komme nicht davon los.
+
+(3) Ich bin so traurig oder unglücklich, dass ich es kaum noch ertrage.
+
+Die Addition der einzelnen Punkte kann BDI-Summenwerte zwischen 0 und 63 ergeben.
+
+Die zweite überarbeitete Auflage der deutschen Übersetzung von 1995 ist für eine Altersgruppe zwischen 18 und 80 Jahre normiert. Die Bearbeitungsdauer liegt zwischen 10 und 15 Minuten. Im Rahmen der Einzelfalldiagnostik sei es jedoch nicht gerechtfertigt, allein aufgrund eines hohen BDI-Wertes, die Diagnose einer Depression zu stellen, obwohl im Manual von 1994 Werte von 18 und darüber als klinisch bedeutsam eingeschätzt werden.
+
+BDI-1A 
+Das BDI-1A ist eine Revision der Originalversion. In dieser Version erleichterte Beck in den 1970er Jahren die Bearbeitung der Fragen durch vereinfachte Antwortmöglichkeiten. Die interne Konsistenz dieser überarbeiteten Fassung war sehr gut, mit einem Cronbachs Alpha von 0,85. Leider behandelte der Fragebogen nicht alle der neun diagnostischen Kriterien aus dem DSM–III.
+
+BDI-II 
+Für die 1996 veröffentlichte revidierte Version BDI-II der Ursprungsversion wurden einerseits speziell auf die DSM-IV-Kriterien für major depression passende Items konstruiert und andererseits schon bestehende Items gezielt auf bessere Verständlichkeit und höheren Informationsgewinn umformuliert. Die vier Fragen wurden durch neue ersetzt, die Symptome der Unruhe, Wertlosigkeit, Konzentrationsschwierigkeiten und Energieverlust erfassen. Die Fragen nach Schlaf- und Appetitstörungen wurden so umformuliert, dass sie Veränderungen in beide Richtungen erfassen. Items zu den Symptomen Veränderungen des Körperbilds, intensive Beschäftigung mit körperlichen Symptomen, Gewichtsverlust und Arbeitsschwierigkeiten wurden aus dem Verfahren eliminiert. Im Gegensatz zum BDI wurde der erfragte Zeitraum im BDI-II auf zwei Wochen ausgedehnt. Es wurden neue Schwellenwerte berechnet. Die deutsche Übersetzung stammt von Hautzinger, Keller und Kühner aus dem Jahr 2006. Im Manual wurden aber keine eigenen Befunde zur deutschen Übersetzung berichtet.
+
+Das Instrument wird heutzutage nicht nur in der Praxis, sondern auch in der Forschung als diagnostisches Mittel eingesetzt und international verwendet. Es wurde in mehrere europäische Sprachen sowie in das Arabische, das Chinesische, das Japanische und das Persische übersetzt.
+
+Grenzwerte für das BDI-II:
+ 0–8: Keine Depression
+ 9–13: Minimale Depression
+ 14–19: Leichte Depression
+ 20–28: Mittelschwere Depression
+ 29–63: Schwere Depression
+
+BDI-FS 
+Die 2013 veröffentlichte Kurzform der BDI-II stammt im Original von Aaron T. Beck, Gregory K. Brown und Robert A. Steerder und wurde im Jahr 2000 veröffentlicht. Die Kurzform des Depressions-Inventars klammert für die Diagnose einer Major Depression nach DSM-IV und DSM-5 die somatischen Kriterien einer Depression aus. Der Fragebogen arbeitet als Folge daraus mit lediglich sieben Items. Die Bearbeitungsdauer beträgt ebenso wie die Auswertung jeweils 5 Minuten. Das Weglassen der Items zu somatischen Beschwerden und zur Leistungsfähigkeit soll die Diagnostik bei Patienten mit medizinischen Problemen verbessern, bei denen das Einbeziehen der somatischen Kriterien im BDI-II zu einer fälschlichen Erhöhung der Prävalenz von Depressionen geführt hat. Das Testverfahren ist somit in der Praxis für Patientengruppen mit spezifischen Erkrankungsbildern, wie Multiple Sklerose, Krebserkrankungen, chronischen Schmerzen, Suchterkrankungen, HIV, aber auch mit gemischten medizinischen Grunderkrankungen gedacht.
+
+Durchführung 
+Für das Ausfüllen des Tests (mit Papier und Bleistift oder am Computer) gibt es keine Zeitvorgabe. Es wird lediglich die Beantwortungsdauer jedes einzelnen Items vermerkt. Es besteht also kein Zeitdruck bei der Bearbeitung. In der deutschen Version des BDI gibt es zu jeder Aussage vier Antwortmöglichkeiten. Die Durchführungsdauer beträgt durchschnittlich 5 bis 10 Minuten inklusive Instruktion.
+
+Auswertung 
+Zur Auswertung werden alle Werte der einzelnen Aussagen addiert und dann mit Grenzwerten (Cut-off-Werten) verglichen. Sollte ein Proband bei einer Frage mehrere Antwortalternativen markiert haben (beispielsweise 1 und 2), wird die Markierung mit dem höchsten Punktwert gewertet (in diesem Beispiel also 2). Auf eine getrennte geschlechts- oder altersspezifische Betrachtung der Werte wurde im BDI verzichtet, da keine systematischen Geschlechts- oder Altersunterschiede gefunden wurden, die nicht auch durch Zufall erklärbar wären.
+
+Laut BDI weisen Werte zwischen 11 und 17 Punkten auf eine "milde bis mäßige Ausprägung depressiver Symptome" hin. Als klinisch relevant werden im BDI erst Werte von 18 und darüber gewertet, da dieser Wert zwei Standardabweichungen über dem Mittelwert von Gesunden liege. Im Rahmen der Einzelfalldiagnostik sei es jedoch nicht gerechtfertigt, allein aufgrund eines hohen BDI-Wertes, die Diagnose einer Depression zu stellen, obwohl im Manual von 1994 Werte von 18 und darüber als klinisch bedeutsam eingeschätzt werden. Auch im BDI-II sollte die Diagnosestellung anders erfolgen und der BDI-II nur zur Schweregradmessung verwendet werden.
+
+Laut Anhang 1 der S3-Leitlinie/Nationale Versorgungsleitlinie unipolare Depression gelten für das BDI folgende Werte:
+ 0–9: keine Depression bzw. klinisch unauffällig oder remittiert
+ 10–19: leichtes depressives Syndrom
+ 20–29: mittelgradiges depressives Syndrom
+ ≥ 30: schweres depressives Syndrom
+Laut Anhang 1 der S3-Leitlinie/Nationale Versorgungsleitlinie unipolare Depression gelten für das BDI-II folgende Werte:
+ 0–12: keine Depression bzw. klinisch unauffällig oder remittiert
+ 13–19: leichtes depressives Syndrom
+ 20–28: mittelgradiges depressives Syndrom
+ ≥ 29: schweres depressives Syndrom
+
+Siehe auch 
+
+ Beck-Angst-Inventar
+ Hamilton-Depressionsskala (HAMD)
+ Inventar depressiver Symptome
+ Depressions-Inventar für Kinder und Jugendliche – Dieser Test wurde angelehnt an das Beck-Depressions-Inventar entwickelt.
+
+Literatur 
+ M. Hautzinger, M. Bailer, H. Worall, F. Keller: BDI Beck-Depressions-Inventar Testhandbuch. 2., überarbeitete Auflage. Verlag Hans Huber, Bern 1995.
+ M. Hautzinger, F. Keller, Ch. Kühner: BDI-II. Beck-Depressions-Inventar. Revision. 2. Auflage. Pearson Assessment, Frankfurt 2009.
+ Aaron T. Beck, Gregory K. Brown, Robert A. Steer: Beck-Depressions-Inventar-FS (BDI-FS). Manual. Deutsche Bearbeitung von Sören Kliem & Elmar Brähler. Pearson Assessment, Frankfurt am Main 2013.
+
+Einzelnachweise
+
+Weblinks 
+ Auszug aus dem BDI-II Manual (PDF 3,1 MB), Abruf am 18. Juli 2019
+ Auszug aus dem BDI-FS Manual (PDF 3,8 MB), Abruf am 18. Juli 2019
+ Beck-Depressions-Inventar (BDI). Online-Test
+
+Depressionsfragebogen

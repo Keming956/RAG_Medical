@@ -1,0 +1,225 @@
+An estrogen (E) is a type of medication which is used most commonly in hormonal birth control and menopausal hormone therapy, and as part of feminizing hormone therapy for transgender women. They can also be used in the treatment of hormone-sensitive cancers like breast cancer and prostate cancer and for various other indications. Estrogens are used alone or in combination with progestogens. They are available in a wide variety of formulations and for use by many different routes of administration. Examples of estrogens include bioidentical estradiol, natural conjugated estrogens, synthetic steroidal estrogens like ethinylestradiol, and synthetic nonsteroidal estrogens like diethylstilbestrol. Estrogens are one of three types of sex hormone agonists, the others being androgens/anabolic steroids like testosterone and progestogens like progesterone.
+
+Side effects of estrogens include breast tenderness, breast enlargement, headache, nausea, fluid retention, and edema among others. Other side effects of estrogens include an increased risk of blood clots, cardiovascular disease, and, when combined with most progestogens, breast cancer. In men, estrogens can cause breast development, feminization, infertility, low testosterone levels, and sexual dysfunction among others.
+
+Estrogens are agonists of the estrogen receptors, the biological targets of endogenous estrogens like estradiol. They have important effects in many tissues in the body, including in the female reproductive system (uterus, vagina, and ovaries), the breasts, bone, fat, the liver, and the brain among others. Unlike other medications like progestins and anabolic steroids, estrogens do not have other hormonal activities. Estrogens also have antigonadotropic effects and at sufficiently high dosages can strongly suppress sex hormone production. Estrogens mediate their contraceptive effects in combination with progestins by inhibiting ovulation.
+
+Estrogens were first introduced for medical use in the early 1930s. They started to be used in birth control in combination with progestins in the 1950s. A variety of different estrogens have been marketed for clinical use in humans or use in veterinary medicine, although only a handful of these are widely used. These medications can be grouped into different types based on origin and chemical structure. Estrogens are available widely throughout the world and are used in most forms of hormonal birth control and in all menopausal hormone therapy regimens.
+
+Medical uses
+
+Birth control
+
+Estrogens have contraceptive effects and are used in combination with progestins (synthetic progestogens) in birth control to prevent pregnancy in women. This is referred to as combined hormonal contraception. The contraceptive effects of estrogens are mediated by their antigonadotropic effects and hence by inhibition of ovulation. Most combined oral contraceptives contain ethinylestradiol or its prodrug mestranol as the estrogen component, but a few contain estradiol or estradiol valerate. Ethinylestradiol is generally used in oral contraceptives instead of estradiol because it has superior oral pharmacokinetics (higher bioavailability and less interindividual variability) and controls vaginal bleeding more effectively. This is due to its synthetic nature and its resistance to metabolism in certain tissues such as the intestines, liver, and uterus relative to estradiol. Besides oral contraceptives, other forms of combined hormonal contraception include contraceptive patches, contraceptive vaginal rings, and combined injectable contraceptives. Contraceptive patches and vaginal rings contain ethinylestradiol as the estrogen component, while combined injectable contraceptives contain estradiol or more typically an estradiol ester.
+
+Hormone therapy
+
+Menopause
+
+Estrogen and other hormones are given to postmenopausal women in order to prevent osteoporosis as well as treat the symptoms of menopause such as hot flashes, vaginal dryness, urinary stress incontinence, chilly sensations, dizziness, fatigue, irritability, and sweating. Fractures of the spine, wrist, and hips decrease by 50 to 70% and spinal bone density increases by approximately 5% in those women treated with estrogen within 3 years of the onset of menopause and for 5 to 10 years thereafter.
+
+Before the specific dangers of conjugated estrogens were well understood, standard therapy was 0.625 mg/day of conjugated estrogens (such as Premarin). There are, however, risks associated with conjugated estrogen therapy. Among the older postmenopausal women studied as part of the Women's Health Initiative (WHI), an orally administered conjugated estrogen supplement was found to be associated with an increased risk of dangerous blood clotting. The WHI studies used one type of estrogen supplement, a high oral dose of conjugated estrogens (Premarin alone and with medroxyprogesterone acetate as Prempro).
+
+In a study by the NIH, esterified estrogens were not proven to pose the same risks to health as conjugated estrogens. Menopausal hormone therapy has favorable effects on serum cholesterol levels, and when initiated immediately upon menopause may reduce the incidence of cardiovascular disease, although this hypothesis has yet to be tested in randomized trials. Estrogen appears to have a protector effect on atherosclerosis: it lowers LDL and triglycerides, it raises HDL levels and has endothelial vasodilatation properties plus an anti-inflammatory component.
+
+Research is underway to determine if risks of estrogen supplement use are the same for all methods of delivery. In particular, estrogen applied topically may have a different spectrum of side effects than when administered orally, and transdermal estrogens do not affect clotting as they are absorbed directly into the systemic circulation, avoiding first-pass metabolism in the liver. This route of administration is thus preferred in women with a history of thromboembolic disease.
+
+Estrogen is also used in the therapy of vaginal atrophy, hypoestrogenism (as a result of hypogonadism, oophorectomy, or primary ovarian failure), amenorrhea, dysmenorrhea, and oligomenorrhea. Estrogens can also be used to suppress lactation after child birth.
+
+Synthetic estrogens, such as 17α-substituted estrogens like ethinylestradiol and its C3 esters and ethers mestranol, quinestrol, and ethinylestradiol sulfonate, and nonsteroidal estrogens like the stilbestrols diethylstilbestrol, hexestrol, and dienestrol, are no longer used in menopausal hormone therapy, owing to their disproportionate effects on liver protein synthesis and associated health risks.
+
+Hypogonadism
+Estrogens are used along with progestogens to treat hypogonadism and delayed puberty in women.
+
+Transgender women
+
+Estrogens are used along with antiandrogens and progestogens as a component of feminizing hormone therapy for transgender women and other transfeminine individuals.
+
+Hormonal cancer
+
+Prostate cancer
+
+High-dose estrogen therapy with a variety of estrogens such as diethylstilbestrol, ethinylestradiol, polyestradiol phosphate, estradiol undecylate, estradiol valerate, and estradiol has been used to treat prostate cancer in men. It is effective because estrogens are functional antiandrogens, capable of suppressing testosterone levels to castrate concentrations and decreasing free testosterone levels by increasing sex hormone-binding globulin (SHBG) production. High-dose estrogen therapy is associated with poor tolerability and safety, namely gynecomastia and cardiovascular complications such as thrombosis. For this reason, has largely been replaced by newer antiandrogens such as gonadotropin-releasing hormone analogues and nonsteroidal antiandrogens. It is still sometimes used in the treatment of prostate cancer however, and newer estrogens with atypical profiles such as GTx-758 that have improved tolerability profiles are being studied for possible application in prostate cancer.
+
+Breast cancer
+
+High-dose estrogen therapy with potent synthetic estrogens such as diethylstilbestrol and ethinylestradiol was used in the past in the palliation treatment of breast cancer. Its effectiveness is approximately equivalent to that of antiestrogen therapy with selective estrogen receptor modulators (SERMs) like tamoxifen and aromatase inhibitors like anastrozole. The use of high-dose estrogen therapy in breast cancer has mostly been superseded by antiestrogen therapy due to the improved safety profile of the latter. High-dose estrogen therapy was the standard of care for the palliative treatment of breast cancer in women up to the late 1970s or early 1980s.
+
+About 80% of breast cancers, once established, rely on supplies of the hormone estrogen to grow: they are known as hormone-sensitive or hormone-receptor-positive cancers.
+
+ Prevention of the actions or production of estrogen in the body is a treatment for these cancers.
+
+Hormone-receptor-positive breast cancers are treated with drugs which suppress production or interfere with the action of estrogen in the body. This technique, in the context of treatment of breast cancer, is known variously as hormonal therapy, hormone therapy, or antiestrogen therapy (not to be confused with hormone replacement therapy). Certain foods such as soy may also suppress the proliferative effects of estrogen and are used as an alternative to hormone therapy.
+
+Other uses
+
+Infertility
+Estrogens may be used in treatment of infertility in women when there is a need to develop sperm-friendly cervical mucous or an appropriate uterine lining.
+
+Pregnancy support
+Estrogens like diethylstilbestrol were formerly used in high doses to help support pregnancy. However, subsequent research showed diethylstilbestrol to be ineffective as well as harmful.
+
+Lactation suppression
+Estrogens can be used to suppress lactation, for instance in the treatment of breast engorgement or galactorrhea. However, high doses are needed, the effectiveness is uncertain, and high doses of estrogens in the postpartum period can increase the risk of blood clots.
+
+Tall stature
+Estrogen has been used to induce growth attenuation in tall girls.
+
+Estrogen-induced growth attenuation was used as part of the controversial Ashley Treatment to keep a developmentally disabled girl from growing to adult size.
+
+Acromegaly
+Estrogens have been used to treat acromegaly. This is because they suppress growth hormone-induced insulin-like growth factor 1 (IGF-1) production in the liver.
+
+Sexual deviance
+High-dose estrogen therapy has been used successfully in the treatment of sexual deviance such as paraphilias in men but has been found to produce many side effects (e.g., gynecomastia, feminization, cardiovascular disease, blood clots) and so is no longer recommended for such purposes. It works by suppressing testosterone levels, similarly to high-dose progestogen therapy and gonadotropin-releasing hormone analogue (GnRH analogue) therapy. Lower dosages of estrogens have also been used in combination with high-dose progestogen therapy in the treatment of sexual deviance in men. High incidence of sexual dysfunction has similarly been associated with high-dose estrogen therapy in men treated with it for prostate cancer.
+
+Breast enhancement
+
+Estrogens are involved in breast development and may be used as a form of hormonal breast enhancement to increase the size of the breasts. However, acute or temporary breast enlargement is a well-known side effect of estrogens, and increases in breast size tend to regress following discontinuation of treatment. Aside from those without prior established breast development, evidence is lacking for a sustained increase in breast size with estrogens.
+
+Depression
+Published 2019 and 2020 guidelines from the North American Menopause Society (NAMS) and European Menopause and Andropause Society (EMAS) have reviewed the topic of estrogen therapy for depressive symptoms in the peri- and postmenopause. There is some evidence that estrogens are effective in the treatment of depression in perimenopausal women. The magnitude of benefit appears to be similar to that of classical antidepressants. There is also some evidence that estrogens may improve mood and well-being in non-depressed perimenopausal women. Estrogens do not appear to be effective in the treatment of depression in postmenopausal women. This suggests that there is a window of opportunity for effective treatment of depressive symptoms with estrogens. Research on combined estrogen and progestogen therapy for depressive symptoms in the peri- and postmenopause is scarce and inconclusive. Estrogens may augment the mood benefits of antidepressants in middle-aged and older women. Menopausal hormone therapy is not currently approved for the treatment of depressive symptoms in the peri- or postmenopause in either the United States or the United Kingdom due to insufficient evidence of effectiveness. More research is needed on the issue of estrogen therapy for depressive symptoms associated with menopause.
+
+Schizophrenia
+Estrogens appear to be useful in the treatment of schizophrenia in both women and men.
+
+Acne
+Systemic estrogen therapy at adequate doses is effective for and has been used in the treatment of acne in both females and males, but causes major side effects such as feminization and gynecomastia in males.
+
+Available forms
+
+Estrogens that have been marketed come in two major types, steroidal estrogens and nonsteroidal estrogens.
+
+Steroidal estrogens
+Estradiol, estrone, and estriol have all been approved as pharmaceutical drugs and are used medically. Estetrol is currently under development for medical indications, but has not yet been approved in any country. A variety of synthetic estrogen esters, such as estradiol valerate, estradiol cypionate, estradiol acetate, estradiol benzoate, estradiol undecylate, and polyestradiol phosphate, are used clinically. The aforementioned compounds behave as prodrugs to estradiol, and are much longer-lasting in comparison when administered by intramuscular or subcutaneous injection. Esters of estrone and estriol also exist and are or have been used in clinical medicine, for example estrone sulfate (e.g., as estropipate), estriol succinate, and estriol glucuronide (as Emmenin and Progynon).
+
+Ethinylestradiol is a more potent synthetic analogue of estradiol that is used widely in hormonal contraceptives. Other synthetic derivatives of estradiol related to ethinylestradiol that are used clinically include mestranol, quinestrol, ethinylestradiol sulfonate, moxestrol, and methylestradiol. Conjugated estrogens (brand name Premarin), an estrogen product manufactured from the urine of pregnant mares and commonly used in menopausal hormone therapy, is a mixture of natural estrogens including estrone sulfate and equine estrogens such as equilin sulfate and 17β-dihydroequilin sulfate. A related and very similar product to conjugated estrogens, differing from it only in composition, is esterified estrogens.
+
+Testosterone, prasterone (dehydroepiandrosterone; DHEA), boldenone (δ1-testosterone), and nandrolone (19-nortestosterone) are naturally occurring androgens/anabolic steroids (AAS) which form estradiol as an active metabolite in small amounts and can produce estrogenic effects, most notably gynecomastia in men at sufficiently high dosages. Similarly, a number of synthetic AAS, including methyltestosterone, metandienone, normethandrone, and norethandrolone, produce methylestradiol or ethylestradiol as an active metabolite in small quantities, and can produce estrogenic effects as well. A few progestins, specifically the 19-nortestosterone derivatives norethisterone, noretynodrel, and tibolone, metabolize into estrogens (e.g., ethinylestradiol) and can produce estrogenic effects as well.
+
+Nonsteroidal estrogens
+
+Diethylstilbestrol is a nonsteroidal estrogen that is no longer used medically. It is a member of the stilbestrol group. Other stilbestrol estrogens that have been used clinically include benzestrol, dienestrol, dienestrol acetate, diethylstilbestrol dipropionate, fosfestrol, hexestrol, and methestrol dipropionate. Chlorotrianisene, methallenestril, and doisynoestrol are nonsteroidal estrogens structurally distinct from the stilbestrols that have also been used clinically. While used widely in the past, nonsteroidal estrogens have mostly been discontinued and are now rarely if ever used medically.
+
+Contraindications
+Estrogens have various contraindications. An example is history of thromboembolism (blood clots).
+
+Side effects
+The most common side effects of estrogens in general include breast tenderness, breast enlargement, headache, nausea, fluid retention, and edema. In women, estrogens can additionally cause vaginal bleeding, vaginal discharge, and anovulation, whereas in men, estrogens can additionally cause gynecomastia (male breast development), feminization, demasculinization, sexual dysfunction (reduced libido and erectile dysfunction), hypogonadism, testicular atrophy, and infertility.
+
+Estrogens can or may increase the risk of uncommon or rare but potentially serious issues including endometrial hyperplasia, endometrial cancer, cardiovascular complications (e.g., blood clots, stroke, heart attack), cholestatic hepatotoxicity, gallbladder disease (e.g., gallstones), hyperprolactinemia, prolactinoma, and dementia. These adverse effects are moderated by the concomitant use of a progestogen, the type of progestogen used, and the dosage and route of estrogen used.
+
+Around half of women with epilepsy who menstruate have a lowered seizure threshold around ovulation, most likely from the heightened estrogen levels at that time. This results in an increased risk of seizures in these women.
+
+Long-term effects
+
+Endometrial hyperplasia and cancer
+Unopposed estrogen therapy stimulates the growth of the endometrium and is associated with a dramatically increased risk of endometrial hyperplasia and endometrial cancer in postmenopausal women. The risk of endometrial hyperplasia is greatly increased by 6 months of treatment ( = 5.4) and further increased after 36 months of treatment ( = 16.0). This can eventually progress to endometrial cancer, and the risk of endometrial cancer similarly increases with duration of treatment (less than one year,  = 1.4; many years (e.g., more than 10 years),  = 15.0). The risk of endometrial cancer also stays significantly elevated many years after stopping unopposed estrogen therapy, even after 15 years or more ( = 5.8).
+
+Progestogens prevent the effects of estrogens on the endometrium. As a result, they are able to completely block the increase in risk of endometrial hyperplasia caused by estrogen therapy in postmenopausal women, and are even able to decrease it below baseline ( = 0.3 with continuous estrogen–progestogen therapy). Continuous estrogen–progestogen therapy is more protective than sequential therapy, and a longer duration of treatment with continuous therapy is also more protective. The increase in risk of endometrial cancer is similarly decreased with continuous estrogen–progestogen therapy ( = 0.2–0.7). For these reasons, progestogens are always used alongside estrogens in women who have intact uteruses.
+
+Cardiovascular events
+Estrogens affect liver protein synthesis and thereby influence the cardiovascular system. They have been found to affect the production of a variety of coagulation and fibrinolytic factors, including increased factor IX, von Willebrand factor, thrombin–antithrombin complex (TAT), fragment 1+2, and D-dimer and decreased fibrinogen, factor VII, antithrombin, protein S, protein C, tissue plasminogen activator (t-PA), and plasminogen activator inhibitor-1 (PAI-1). Although this is true for oral estrogen, transdermal estradiol has been found only to reduce PAI-1 and protein S, and to a lesser extent than oral estrogen. Due to its effects on liver protein synthesis, oral estrogen is procoagulant, and has been found to increase the risk of venous thromboembolism (VTE), including of both deep vein thrombosis (DVT) and pulmonary embolism (PE). Conversely, modern oral contraceptives are not associated with an increase in the risk of stroke and myocardial infarction (heart attack) in healthy, non-smoking premenopausal women of any age, except in those with hypertension (high blood pressure). However, a small but significant increase in the risk of stroke, though not of myocardial infarction, has been found in menopausal women taking hormone replacement therapy. An increase in the risk of stroke has also been associated with older high-dose oral contraceptives that are no longer used.
+
+Menopausal hormone therapy with replacement dosages of estrogens and progestogens has been associated with a significantly increased risk of cardiovascular events such as VTE. However, such risks have been found to vary depending on the type of estrogen and the route of administration. The risk of VTE is increased by approximately 2-fold in women taking oral estrogen for menopausal hormone therapy. However, clinical research to date has generally not distinguished between conjugated estrogens and estradiol. This is of importance because conjugated estrogens have been found to be more resistant to hepatic metabolism than estradiol and to increase clotting factors to a greater extent. Only a few clinical studies have compared oral conjugated estrogens and oral estradiol. Oral conjugated estrogens have been found to possess a significantly greater risk of thromboembolic and cardiovascular complications than oral estradiol ( = 2.08) and oral esterified estrogens ( = 1.78). However, in another study, the increase in VTE risk with 0.625 mg/day oral conjugated estrogens plus medroxyprogesterone acetate and 1 or 2 mg/day oral estradiol plus norethisterone acetate was found to be equivalent ( = 4.0 and 3.9, respectively). Other studies have found oral estradiol to be associated with an increase in risk of VTE similarly ( = 3.5 in one,  = 3.54 in first year of use in another). As of present, there are no randomized controlled trials comparing oral conjugated estrogens and oral estradiol in terms of thromboembolic and cardiovascular risks that would allow for unambiguous conclusions, and additional research is needed to clarify this issue. In contrast to oral estrogens as a group, transdermal estradiol at typical menopausal replacement dosages has not been found to increase the risk of VTE or other cardiovascular events.
+
+Both combined birth control pills (which contain ethinylestradiol and a progestin) and pregnancy are associated with about a 4-fold increase in risk of VTE, with the risk increase being slightly greater with the latter ( = 4.03 and 4.24, respectively). The risk of VTE during the postpartum period is 5-fold higher than during pregnancy. Other research has found that the rate of VTE is 1 to 5 in 10,000 woman-years in women who are not pregnant or taking a birth control pill, 3 to 9 in 10,000 woman-years in women who are on a birth control pill, 5 to 20 in 10,000 women-years in pregnant women, and 40 to 65 in 10,000 women-years in postpartum women. For birth control pills, VTE risk with high doses of ethinylestradiol (>50 μg, e.g., 100 to 150 μg) has been reported to be approximately twice that of low doses of ethinylestradiol (e.g., 20 to 50 μg). As such, high doses of ethinylestradiol are no longer used in combined oral contraceptives, and all modern combined oral contraceptives contain 50 μg ethinylestradiol or less. The absolute risk of VTE in pregnancy is about 0.5 to 2 in 1,000 (0.125%).
+
+Aside from type of estrogen and the route of administration, the risk of VTE with oral estrogen is also moderated by other factors, including the concomitant use of a progestogen, dosage, age, and smoking. The combination of oral estrogen and a progestogen has been found to double the risk of VTE relative to oral estrogen alone ( = 2.05 for estrogen monotherapy, and  = 2.02 for combined estrogen–progestogen therapy in comparison). However, while this is true for most progestogens, there appears to be no increase in VTE risk relative to oral estrogen alone with the addition of oral progesterone or the atypical progestin dydrogesterone. The dosage of oral estrogen appears to be important for VTE risk, as 1 mg/day oral estradiol increased VTE incidence by 2.2-fold while 2 mg/day oral estradiol increased VTE incidence by 4.5-fold (both in combination with norethisterone acetate). The risk of VTE and other cardiovascular complications with oral estrogen–progestogen therapy increases dramatically with age. In the oral conjugated estrogens and medroxyprogesterone acetate arm of the WHI, the risks of VTE stratified by age were as follows: age 50 to 59,  = 2.27; age 60 to 69,  = 4.28; and age 70 to 79,  = 7.46. Conversely, in the oral conjugated estrogens monotherapy arm of the WHI, the risk of VTE increased with age similarly but was much lower: age 50 to 59,  = 1.22; age 60 to 69,  = 1.3; and age 70 to 79,  = 1.44. In addition to menopausal hormone therapy, cardiovascular mortality has been found to increase considerably with age in women taking ethinylestradiol-containing combined oral contraceptives and in pregnant women. In addition, smoking has been found to exponentially increase cardiovascular mortality in conjunction with combined oral contraceptive use and older age. Whereas the risk of cardiovascular death is 0.06 per 100,000 in women who are age 15 to 34 years, are taking a combined oral contraceptive, and do not smoke, this increases by 50-fold to 3.0 per 100,000 in women who are age 35 to 44 years, are taking a combined oral contraceptive, and do not smoke. Moreover, in women who do smoke, the risk of cardiovascular death in these two groups increases to 1.73 per 100,000 (29-fold higher relative to non-smokers) and 19.4 per 100,000 (6.5-fold higher relative to non-smokers), respectively.
+
+Although estrogens influence the hepatic production of coagulant and fibrinolytic factors and increase the risk of VTE and sometimes stroke, they also influence the liver synthesis of blood lipids and can have beneficial effects on the cardiovascular system. With oral estradiol, there are increases in circulating triglycerides, HDL cholesterol, apolipoprotein A1, and apolipoprotein A2, and decreases in total cholesterol, LDL cholesterol, apolipoprotein B, and lipoprotein(a). Transdermal estradiol has less-pronounced effects on these proteins and, in contrast to oral estradiol, reduces triglycerides. Through these effects, both oral and transdermal estrogens can protect against atherosclerosis and coronary heart disease in menopausal women with intact arterial endothelium that is without severe lesions.
+
+Approximately 95% of orally ingested estradiol is inactivated during first-pass metabolism. Nonetheless, levels of estradiol in the liver with oral administration are supraphysiological and approximately 4- to 5-fold higher than in circulation due to the first-pass. This does not occur with parenteral routes of estradiol, such as transdermal, vaginal, or injection. In contrast to estradiol, ethinylestradiol is much more resistant to hepatic metabolism, with a mean oral bioavailability of approximately 45%, and the transdermal route has a similar impact on hepatic protein synthesis as the oral route. Conjugated estrogens are also more resistant to hepatic metabolism than estradiol and show disproportionate effects on hepatic protein production as well, although not to the same magnitude as ethinylestradiol. These differences are considered to be responsible for the greater risk of cardiovascular events with ethinylestradiol and conjugated estrogens relative to estradiol.
+
+High-dosage oral synthetic estrogens like diethylstilbestrol and ethinylestradiol are associated with fairly high rates of severe cardiovascular complications. Diethylstilbestrol has been associated with an up to 35% risk of cardiovascular toxicity and death and a 15% incidence of VTE in men treated with it for prostate cancer. In contrast to oral synthetic estrogens, high-dosage polyestradiol phosphate and transdermal estradiol have not been found to increase the risk of cardiovascular mortality or thromboembolism in men with prostate cancer, although significantly increased cardiovascular morbidity (due mainly to an increase in non-fatal ischemic heart events and heart decompensation) has been observed with polyestradiol phosphate.
+
+Sex hormone-binding globulin (SHBG) levels indicate hepatic estrogenic exposure and may be a surrogate marker for coagulation and VTE risk with estrogen therapy, although this topic has been debated. SHBG levels with birth control pills containing different progestins are increased by 1.5 to 2-fold with levonorgestrel, 2.5- to 4-fold with desogestrel and gestodene, 3.5- to 4-fold with drospirenone and dienogest, and 4- to 5-fold with cyproterone acetate. Contraceptive vaginal rings and contraceptive patches likewise have been found to increase SHBG levels by 2.5-fold and 3.5-fold, respectively. Birth control pills containing high doses of ethinylestradiol (>50 μg) can increase SHBG levels by 5- to 10-fold, which is similar to the increase that occurs during pregnancy. Conversely, increases in SHBG levels are much lower with estradiol, especially when used parenterally. High-dose parenteral polyestradiol phosphate therapy has been found to increase SHBG levels by about 1.5-fold.
+
+Breast cancer
+Estrogens are responsible for breast development and, in relation to this, are strongly implicated in the development of breast cancer. In addition, estrogens stimulate the growth and accelerate the progression of ER-positive breast cancer. In accordance, antiestrogens like the selective estrogen receptor modulator (SERM) tamoxifen, the ER antagonist fulvestrant, and the aromatase inhibitors (AIs) anastrozole and exemestane are all effective in the treatment of ER-positive breast cancer. Antiestrogens are also effective in the prevention of breast cancer. Paradoxically, high-dose estrogen therapy is effective in the treatment of breast cancer as well and has about the same degree of effectiveness as antiestrogen therapy, although it is far less commonly used due to adverse effects. The usefulness of high-dose estrogen therapy in the treatment of ER-positive breast cancer is attributed to a bimodal effect in which high concentrations of estrogens signal breast cancer cells to undergo apoptosis, in contrast to lower concentrations of estrogens which stimulate their growth.
+
+A 2017 systematic review and meta-analysis of 14 studies assessed the risk of breast cancer in perimenopausal and postmenopausal women treated with estrogens for menopausal symptoms. They found that treatment with estradiol only is not associated with an increased risk of breast cancer ( = 0.90 in  and  = 1.11 in observational studies). This was in accordance with a previous analysis of estrogen-only treatment with estradiol or conjugated estrogens which similarly found no increased risk ( = 0.99). Moreover, another study found that the risk of breast cancer with estradiol and conjugated estrogens was not significantly different ( = 1.15 for conjugated estrogens versus estradiol). These findings are paradoxical because oophorectomy in premenopausal women and antiestrogen therapy in postmenopausal women are well-established as considerably reducing the risk of breast cancer ( = 0.208 to 0.708 for chemoprevention with antiestrogens in postmenopausal women). However, there are indications that there may be a ceiling effect such that past a certain low concentration threshold (e.g., approximately 10.2 pg/mL for estradiol), additional estrogens alone may not further increase the risk of breast cancer in postmenopausal women. There are also indications that the fluctuations in estrogen levels across the normal menstrual cycle in premenopausal women may be important for breast cancer risk.
+
+In contrast to estrogen-only therapy, combined estrogen and progestogen treatment, although dependent on the progestogen used, is associated with an increased risk of breast cancer. The increase in risk is dependent on the duration of treatment, with more than five years ( = 2.43) having a significantly greater risk than less than five years ( = 1.49). In addition, sequential estrogen–progestogen treatment ( = 1.76) is associated with a lower risk increase than continuous treatment ( = 2.90), which has a comparably much higher risk. The increase in risk also differs according to the specific progestogen used. Treatment with estradiol plus medroxyprogesterone acetate ( = 1.19), norethisterone acetate ( = 1.44), levonorgestrel ( = 1.47), or a mixed progestogen subgroup ( = 1.99) were all associated with an increased risk. In a previous review, the increase in breast cancer risk was found to not be significantly different between these three progestogens. Conversely, there is no significant increase in risk of breast cancer with bioidentical progesterone ( = 1.00) or with the atypical progestin dydrogesterone ( = 1.10). In accordance, another study found similarly that the risk of breast cancer was not significantly increased with estrogen–progesterone ( = 1.00) or estrogen–dydrogesterone ( = 1.16) but was increased for estrogen combined with other progestins ( = 1.69). These progestins included chlormadinone acetate, cyproterone acetate, medrogestone, medroxyprogesterone acetate, nomegestrol acetate, norethisterone acetate, and promegestone, with the associations for breast cancer risk not differing significantly between the different progestins in this group.
+
+In contrast to cisgender women, breast cancer is extremely rare in men and transgender women treated with estrogens and/or progestogens, and gynecomastia or breast development in such individuals does not appear to be associated with an increased risk of breast cancer. Likewise, breast cancer has never been reported in women with complete androgen insensitivity syndrome, who similarly have a male genotype (46,XY), in spite of the fact that these women have well-developed breasts. The reasons for these differences are unknown. However, the dramatically increased risk of breast cancer (20- to 58-fold) in men with Klinefelter's syndrome, who have somewhat of a hybrid of a male and a female genotype (47,XXY), suggests that it may have to do with the sex chromosomes.
+
+Cholestatic hepatotoxicity
+Estrogens, along with progesterone, can rarely cause cholestatic hepatotoxicity, particularly at very high concentrations. This is seen in intrahepatic cholestasis of pregnancy, which occurs in 0.4 to 15% of pregnancies (highly variable depending on the country).
+
+Gallbladder disease
+Estrogen therapy has been associated with gallbladder disease, including risk of gallstone formation. A 2017 systematic review and meta-analysis found that menopausal hormone therapy significantly increased the risk of gallstones ( = 1.79) while oral contraceptives did not significantly increase the risk ( = 1.19). Biliary sludge appears in 5 to 30% of women during pregnancy, and definitive gallstones persisting postpartum become established in approximately 5%.
+
+Overdose
+Estrogens are relatively safe in overdose and symptoms manifest mainly as reversible feminization.
+
+Interactions
+Inducers of cytochrome P450 enzymes like carbamazepine and phenytoin can accelerate the metabolism of estrogens and thereby decrease their bioavailability and circulating levels. Inhibitors of such enzymes can have the opposite effect and can increase estrogen levels and bioavailability.
+
+Pharmacology
+
+Pharmacodynamics
+
+Estrogens act as selective agonists of the estrogen receptors (ERs), the ERα and the ERβ. They may also bind to and activate membrane estrogen receptors (mERs) such as the GPER. Estrogens do not have off-target activity at other steroid hormone receptors such as the androgen, progesterone, glucocorticoid, or mineralocorticoid receptors, nor do they have neurosteroid activity by interacting with neurotransmitter receptors, unlike various progestogens and some other steroids. Given by subcutaneous injection in mice, estradiol is about 10-fold more potent than estrone and about 100-fold more potent than estriol.
+
+Estrogens have antigonadotropic effects at sufficiently high concentrations via activation of the ER and hence can suppress the hypothalamic–pituitary–gonadal axis. This is caused by negative feedback, resulting in a suppression in secretion and decreased circulating levels of follicle-stimulating hormone (FSH) and luteinizing hormone (LH). The antigonadotropic effects of estrogens interfere with fertility and gonadal sex hormone production. They are responsible for the hormonal contraceptive effects of estrogens. In addition, they allow estrogens to act as functional antiandrogens by suppressing gonadal testosterone production. At sufficiently high doses, estrogens are able to suppress testosterone levels into the castrate range in men.
+
+Estrogens differ significantly in their pharmacological properties. For instance, due to structural differences and accompanying differences in metabolism, estrogens differ from one another in their tissue selectivity; synthetic estrogens like ethinylestradiol and diethylstilbestrol are not inactivated as efficiently as estradiol in tissues like the liver and uterus and as a result have disproportionate effects in these tissues. This can result in issues such as a relatively higher risk of thromboembolism.
+
+In-vitro pharmacodynamics
+
+In-vivo pharmacodynamics
+
+Pharmacokinetics
+
+Estrogens can be administered via a variety of routes, including by mouth, sublingual, transdermal/topical (gel, patch), vaginal (gel, tablet, ring), rectal, intramuscular, subcutaneous, intravenous, and subcutaneous implant. Natural estrogens generally have low oral bioavailability while synthetic estrogens have higher bioavailability. Parenteral routes have higher bioavailability. Estrogens are typically bound to albumin and/or sex hormone-binding globulin in the circulation. They are metabolized in the liver by hydroxylation (via cytochrome P450 enzymes), dehydrogenation (via 17β-hydroxysteroid dehydrogenase), and conjugation (via sulfation and glucuronidation). The elimination half-lives of estrogens vary by estrogen and route of administration. Estrogens are eliminated mainly by the kidneys via the urine as conjugates.
+
+Chemistry
+
+Estrogens can be grouped as steroidal or nonsteroidal. The steroidal estrogens are estranes and include estradiol and its analogues, such as ethinylestradiol and conjugated estrogens like equilin sulfate. Nonsteroidal estrogens belong predominantly to the stilbestrol group of compounds and include diethylstilbestrol and hexestrol, among others.
+
+Estrogen esters are esters and prodrugs of the corresponding parent estrogens. Examples include estradiol valerate and diethylstilbestrol dipropionate, which are prodrugs of estradiol and diethylstilbestrol, respectively. Estrogen esters with fatty acid esters have increased lipophilicity and a prolonged duration of action when administered by intramuscular or subcutaneous injection. Some estrogen esters, such as polyestradiol phosphate, polyestriol phosphate, and polydiethylstilbestrol phosphate, are in the form of polymers.
+
+History
+
+Ovarian extracts were available in the late 1800s and early 1900s, but were inert or had extremely low estrogenic activity and were regarded as ineffective. In 1927, Selmar and Aschheim discovered that large amounts of estrogens were present in the urine of pregnant women. This rich source of estrogens, produced by the placenta, allowed for the development of potent estrogenic formulations for scientific and clinical use. The first pharmaceutical estrogen product was a conjugated estriol called Progynon, a placental extract, and was introduced for medical use by the German pharmaceutical company Schering in 1928. In 1929, Adolf Butenandt and Edward Adelbert Doisy independently isolated and purified estrone, the first estrogen to be discovered. The estrogen preparations Amniotin (Squibb), Progynon (Schering), and Theelin (Parke-Davis) were all on the market by 1929, and various additional preparations such as Emmenin, Folliculin, Menformon, Oestroform, and Progynon B, containing purified estrogens or mixtures of estrogens, were on the market by 1934. Estrogens were originally known under a variety of different names including estrogens, estrins, follicular hormones, folliculins, gynecogens, folliculoids, and female sex hormones, among others.
+
+An estrogen patch was reportedly marketed by Searle in 1928, and an estrogen nasal spray was studied by 1929.
+
+In 1938, British scientists obtained a patent on a newly formulated nonsteroidal estrogen, diethylstilbestrol (DES), that was cheaper and more powerful than the previously manufactured estrogens. Soon after, concerns over the side effects of DES were raised in scientific journals while the drug manufacturers came together to lobby for governmental approval of DES. It was only until 1941 when estrogen therapy was finally approved by the Food and Drug Administration (FDA) for the treatment of menopausal symptoms. Conjugated estrogens (brand name Premarin) was introduced in 1941 and succeeded Emmenin, the sales of which had begun to drop after 1940 due to competition from DES. Ethinylestradiol was synthesized in 1938 by Hans Herloff Inhoffen and Walter Hohlweg at Schering AG in Berlin and was approved by the  in the  on 25 June 1943 and marketed by Schering as Estinyl.
+
+Micronized estradiol, via the oral route, was first evaluated in 1972, and this was followed by the evaluation of vaginal and intranasal micronized estradiol in 1977. Oral micronized estradiol was first approved in the United States under the brand name Estrace in 1975.
+
+Society and culture
+
+Availability
+
+Estrogens are widely available throughout the world.
+
+Research
+
+Male birth control
+High-dose estrogen therapy is effective in suppressing spermatogenesis and fertility in men, and hence as a male contraceptive. It works both by strongly suppressing gonadotropin secretion and gonadal testosterone production and via direct effects on the testes. After a sufficient course of therapy, only Sertoli cells and spermatogonia remain in the seminiferous tubules of the testes, with a variety of other testicular abnormalities observable. The use of estrogens for contraception in men is precluded by major side effects such as sexual dysfunction, feminization, gynecomastia, and metabolic changes. In addition, there is evidence that with long-term therapy, fertility and gonadal sex hormone production in men may not return following discontinuation of high-dose estrogen therapy.
+
+Eating disorders
+Estrogen has as a treatment for women suffering from bulimia nervosa, in addition to cognitive behavioral therapy, which is the established standard for treatment in bulimia cases. The estrogen research hypothesizes that the disease may be linked to a hormonal imbalance in the brain.
+
+Miscellaneous
+Estrogens have been used in studies which indicate that they may be effective in the treatment of traumatic liver injury.
+
+In humans and mice, estrogens promote wound healing.
+
+Estrogen therapy has been proposed as a potential treatment for autism but clinical studies are needed.
+
+References
+
+Further reading
+
+External links
+ 
+
+Antigonadotropins
+Estrogens
+Hepatotoxins
+Hormonal antineoplastic drugs
+Prolactin releasers

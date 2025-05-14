@@ -1,0 +1,40 @@
+The relationship between antidepressant use and suicide risk is a subject of medical research and has faced varying levels of debate. This problem was thought to be serious enough to warrant intervention by the U.S. Food and Drug Administration to label greater likelihood of suicide as a risk of using antidepressants. Some studies have shown that the use of certain antidepressants correlate with an increased risk of suicide in some patients relative to other antidepressants. However, these conclusions have faced considerable scrutiny and disagreement: A multinational European study indicated that antidepressants decrease risk of suicide at the population level, and other reviews of antidepressant use claim that there is not enough data to indicate antidepressant use increases risk of suicide.
+
+Youth
+Antidepressants could increase the risk of suicidal thoughts and behavior in people with depression under the age of 25. In 2004, the U.S. Food and Drug Administration along with the Neuro-Psychopharmacologic Advisory Committee and the Anti-Infective Drugs Advisory Committee, concluded that there was a causal link between newer antidepressants and pediatric suicidality. Federal health officials unveiled proposed changes to the labels on antidepressant drugs in December 2006 to warn people of this danger.
+
+A 2016 review of selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) which looked at four outcomes—death, suicidality, aggressive behaviour, and agitation—found that while the data was insufficient to draw strong conclusions, adults taking these drugs did not appear to be at increased risk for any of the four outcomes, but that for children, the risks of suicidality and for aggression doubled. The authors expressed frustration with incomplete reporting and lack of access to data, and with some aspects of the clinical trial designs.
+
+Warnings
+The Food and Drug Administration (FDA) requires "black box warnings" on all SSRIs, which state that they double suicidal ideation rates (from 2 in 1,000 to 4 in 1,000) in children and adolescents. It remains controversial whether increased risk of suicide is due to the medication (a paradoxical effect) or part of the depression itself (i.e. the antidepressant enables those who are severely depressed—who ordinarily would be paralyzed by their depression—to become more alert and act out suicidal urges before being fully recovered from their depressive episode). The increased risk for suicidality and suicidal behaviour among adults under 25 approaches that seen in children and adolescents.
+Young patients should be closely monitored for signs of suicidal ideation or behaviors, especially in the first eight weeks of therapy.
+Sertraline, tricyclic agents and venlafaxine were found to increase the risk of attempted suicide in severely depressed adolescents on Medicaid.
+
+Increased risk for quitting medication
+A 2009 study showed increased risk of suicide after initiation, titration, and discontinuation of medication. A study of 159,810 users of either amitriptyline, fluoxetine, paroxetine or dothiepin found that the risk of suicidal behavior is increased in the first month after starting antidepressants, especially during the first 1 to 9 days.
+
+Prevalence
+On September 6, 2007, the Centers for Disease Control and Prevention reported that the suicide rate in American adolescents, (especially girls, 10 to 24 years old), increased 8% (2003 to 2004), the largest jump in 15 years, to 4,599 suicides in Americans ages 10 to 24 in 2004, from 4,232 in 2003, giving a suicide rate of 7.32 per 100,000 people that age. The rate previously dropped to 6.78 per 100,000 in 2003 from 9.48 per 100,000 in 1990. Jon Jureidini, a critic of this study, says that the US "2004 suicide figures were compared simplistically with the previous year, rather than examining the change in trends over several years". It has been noted that the pitfalls of such attempts to infer a trend using just two data points (years 2003 and 2004) are further demonstrated by the fact that, according to the new epidemiological data, the suicide rate in 2005 in children and adolescents actually declined despite the continuing decrease of SSRI prescriptions. "It is risky to draw conclusions from limited ecologic analyses of isolated year-to-year fluctuations in antidepressant prescriptions and suicides.
+
+One promising epidemiological approach involves examining the associations between trends in psychotropic medication use and suicide over time across a large number of small geographic regions. Until the results of more detailed analyses are known, prudence dictates deferring judgment concerning the public health effects of the FDA warnings." Subsequent follow-up studies have supported the hypothesis that antidepressant drugs reduce suicide risk.
+
+Suicide risk
+In those under the age of 25 antidepressants appear to increase the risk of suicidal thoughts and behaviors. In the United States they contain a black box warning regarding this concern.
+
+A 2016 review found a decreased suicidal events in older adults.
+
+See also
+Paradoxical effect
+
+References
+
+Further reading
+ 
+ Healy D, Herxheimer A, Menkes D (2006). Antidepressants and violence: Problems at the interface of medicine and law. PLoS Medicine 3, September
+ Healy D, Harris M, Tranter R, Gutting P, Austin R, Jones-Edwards G, Roberts AP (2006). Lifetime suicide rates in treated schizophrenia: 1875–1924 and 1994–1998 cohorts compared. British Journal of Psychiatry 188, 223–228. With Commentary by T Turner, 229–230.
+
+External links
+message about antidepressants and suicide in youth from the National Institutes of Health
+
+Antidepressants
+Suicide

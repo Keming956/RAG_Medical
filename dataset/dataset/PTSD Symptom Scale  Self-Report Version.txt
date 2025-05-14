@@ -1,0 +1,13 @@
+PTSD Symptom Scale – Self-Report Version (PSS-SR) is a 17-item self-reported questionnaire to assess symptoms of posttraumatic stress disorder. Each of the 17 items describe PTSD symptoms which respondents rate in terms of their frequency or severity using a Likert-type scale ranging from 0 (not at all or only one time) to 3 (almost always or five or more times per week). Ratings on items are summed to create three subscales, including re-experiencing, avoidance, and arousal, as well as a total score (that ranges from 0 to 51). All items of the PSS-SR should be answered and assessment is done by total score. The total score higher than 13 indicates on likelihood of PTSD.
+
+See also 
+ Child PTSD Symptom Scale
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+
+Further reading 
+ 
+
+Mental disorders diagnostic procedures
+Post-traumatic stress disorder

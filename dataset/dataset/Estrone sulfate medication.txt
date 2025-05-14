@@ -1,0 +1,37 @@
+Estrone sulfate (E1S) is an estrogen medication and naturally occurring steroid hormone. It is used in menopausal hormone therapy among other indications. As the sodium salt (sodium estrone sulfate), it is the major estrogen component of conjugated estrogens (Premarin) and esterified estrogens (Estratab, Menest). In addition, E1S is used on its own as the piperazine salt estropipate (piperazine estrone sulfate; Ogen). The compound also occurs as a major and important metabolite of estradiol and estrone. E1S is most commonly taken by mouth, but in the form of Premarin can also be taken by parenteral routes such as transdermal, vaginal, and injection.
+
+Medical uses
+E1S is used in menopausal hormone therapy among other indications.
+
+Pharmacology
+
+Pharmacodynamics
+
+E1S itself is essentially biologically inactive, with less than 1% of the relative binding affinity of estradiol for the estrogen receptors (ERs), ERα and ERβ. The compound acts as a prodrug of estrone and more importantly of estradiol, the latter of which is a potent agonist of the ERs. Hence, E1S is an estrogen.
+
+Pharmacokinetics
+
+E1S is cleaved by steroid sulfatase (also called estrogen sulfatase) into estrone. Simultaneously, estrogen sulfotransferases transform estrone back into E1S, which results in an equilibrium between the two steroids in various tissues. E1S is thought to serve both as a rapidly-acting prodrug of estradiol and also as a long-lasting reservoir of estradiol in the body, which serves to greatly extend the duration of estradiol when used as a medication.
+
+When estradiol is administered orally, it is subject to extensive first-pass metabolism (95%) in the intestines and liver. A single administered dose of estradiol is absorbed 15% as estrone, 25% as E1S, 25% as estradiol glucuronide, and 25% as estrone glucuronide. Formation of estrogen glucuronide conjugates is particularly important with oral estradiol as the percentage of estrogen glucuronide conjugates in circulation is much higher with oral ingestion than with parenteral estradiol. Estrone glucuronide can be reconverted back into estradiol, and a large circulating pool of estrogen glucuronide and sulfate conjugates serves as a long-lasting reservoir of estradiol that effectively extends its terminal half-life of oral estradiol. To demonstrate the importance of first-pass metabolism and the estrogen conjugate reservoir in the pharmacokinetics of estradiol, the terminal half-life of oral estradiol is 13 to 20 hours whereas with intravenous injection its terminal half-life is only about 1 to 2 hours.
+
+Estrogen sulfates like estrone sulfate are about twice as potent as the corresponding free estrogens in terms of estrogenic effect when given orally to rodents. This in part led to the introduction of conjugated estrogens (Premarin), which are primarily estrone sulfate, in 1941.
+
+Chemistry
+
+E1S, also known as estrone 3-sulfate or as estra-1,3,5(10)-trien-17-one 3-sulfate, is a naturally occurring estrane steroid and a derivative of estrone. It is an estrogen conjugate or ester, and is specifically the C3 sulfate ester of estrone. Salts of E1S include sodium estrone sulfate and estropipate (piperazine estrone sulfate).
+
+The logP of E1S is 1.4.
+
+References
+
+Further reading
+ 
+
+Estranes
+Estrogens
+Estrone esters
+Human drug metabolites
+Phenol esters
+Prodrugs
+Sulfate esters

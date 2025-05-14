@@ -1,0 +1,84 @@
+Substance-induced psychosis (commonly known as toxic psychosis or drug-induced psychosis) is a form of psychosis that is attributed to substance use. It is a psychosis that results from the effects of chemicals or drugs, including those produced by the body itself. Various psychoactive substances have been implicated in causing or worsening psychosis in users.
+
+Signs and symptoms
+ 
+Psychosis manifests as disorientation, visual hallucinations and/or haptic hallucinations. It is a state in which a person's mental capacity to recognize reality, communicate, and relate to others is impaired, thus interfering with the capacity to deal with life demands. While there are many types of psychosis, substance-induced psychosis can be pinpointed to specific chemicals.
+
+Transition to schizophrenia
+A 2019 systematic review and meta-analysis by Murrie et al found that the pooled proportion of transition from substance-induced psychosis to schizophrenia was 25% (95% CI 18%–35%), compared with 36% (95% CI 30%–43%) for brief, atypical and not otherwise specified psychoses. Type of substance was the primary predictor of transition from drug-induced psychosis to schizophrenia, with highest rates associated with cannabis (6 studies, 34%, CI 25%–46%), hallucinogens (3 studies, 26%, CI 14%–43%) and amphetamines (5 studies, 22%, CI 14%–34%). Lower rates were reported for opioid (12%), alcohol (10%) and sedative (9%) induced psychoses. Transition rates were slightly lower in older cohorts but were not affected by sex, country of the study, hospital or community location, urban or rural setting, diagnostic methods, or duration of follow-up.
+
+Substances
+Psychotic states may occur after using a variety of legal and illegal substances. Substances whose use or withdrawal are implicated in psychosis include the following:
+
+International Classification of Diseases
+Psychoactive substance-induced psychotic disorders outlined within the ICD-10 codes F10.5—F19.5:
+ F10.5 alcohol: Alcohol is a common cause of psychotic disorders or episodes, which may occur through acute intoxication, chronic alcoholism, withdrawal, exacerbation of existing disorders, or acute idiosyncratic reactions. Research has shown that excessive alcohol use causes an 8-fold increased risk of psychotic disorders in men and a 3 fold increased risk of psychotic disorders in women. While the vast majority of cases are acute and resolve fairly quickly upon treatment and/or abstinence, they can occasionally become chronic and persistent. Alcoholic psychosis is sometimes misdiagnosed as another mental illness such as schizophrenia.
+ F11.5 opioid: Studies show stronger opioids such as fentanyl are more likely to cause psychosis and hallucinations
+ F12.5 cannabinoid: Some studies indicate that cannabis may trigger full-blown psychosis. Recent studies have found an increase in risk for psychosis in cannabis users.
+ F13.5 sedatives/hypnotics (barbiturates; benzodiazepines): It is also important to this topic to understand the paradoxical effects of some sedative drugs. Serious complications can occur in conjunction with the use of sedatives creating the opposite effect as to that intended. Malcolm Lader at the Institute of Psychiatry in London estimates the incidence of these adverse reactions at about 5%, even in short-term use of the drugs. The paradoxical reactions may consist of depression, with or without suicidal tendencies, phobias, aggressiveness, violent behavior and symptoms sometimes misdiagnosed as psychosis. However, psychosis is more commonly related to the benzodiazepine withdrawal syndrome.
+ F14.5 cocaine
+ F15.5 other stimulants: amphetamines; methamphetamine; methylphenidate. See also stimulant psychosis.
+ F16.5 hallucinogens (LSD and others)
+ F18.5 volatile solvents (volatile inhalants);
+Toluene, found in glue, paint, thinner, etc. See also toluene toxicity.
+Butane
+Gasoline (petrol)
+
+F17.5 is reserved for tobacco-induced psychosis, but is traditionally not associated with the induction of psychosis.
+
+The code F15.5 also includes caffeine-induced psychosis, despite not being specifically listed in the DSM-IV. However, there is evidence that caffeine, in extreme acute doses or when taken in excess for long periods of time, may induce psychosis.
+
+Medication 
+Fluoroquinolone drugs, fluoroquinolone use has been linked to serious cases of toxic psychosis, see adverse effects of fluoroquinolones The related quinoline derivative mefloquine (Lariam) has also been associated with psychosis.
+some over-the-counter drugs, including:
+Dextromethorphan (DXM) at high doses.
+Certain antihistamines at high doses.
+Cold Medications (i.e. containing Phenylpropanolamine, or PPA)
+prescription drugs:
+Prednisone and other corticosteroids
+Isotretinoin
+Anticholinergic drugs
+atropine
+scopolamine
+antidepressants
+L-dopa
+antiepileptics
+antipsychotics, in an idiosyncratic reaction
+ antimalarials
+ mepacrine
+
+Other drugs illicit in America 
+Other drugs illegal in America (not listed above), including:
+MDMA (ecstasy)
+Phencyclidine (PCP)
+Ketamine
+Synthetic research chemicals used recreationally, including:
+JWH-018 and some other synthetic cannabinoids, or mixtures containing them (e.g. "Spice", "Kronic", "MNG" or "Mr. Nice Guy", "Relaxinol", etc.). Various "JWH-XXX" compounds in "Spice" or "Incense" have also been found and have been found to cause psychosis in some people. 
+Mephedrone and related amphetamine-like drugs sold as "bath salts" or "plant food".
+
+Plants 
+Plants:
+Hawaiian baby woodrose (contains ergine)
+Morning glory seeds (contains ergine)
+Jimson weed (Datura, angel's trumpet, thorn apple)
+Belladonna (deadly nightshade)
+Salvia divinorum
+
+Nonmedicinal substances 
+Substances chiefly nonmedicinal as to source:
+ Carbon monoxide (), carbon dioxide (†), carbon disulfide (†);
+ heavy metals;
+ organophosphate insecticides (†);
+ sarin and other nerve gases;
+ tetraethyllead (†);
+ aniline (†);
+ acetone and other ketones (†);
+ antifreeze – a mixture of ethylene glycol and other glycols (†);
+ arsenic and its compounds (†).
+
+References
+
+External links 
+
+Psychosis
+Substance-related disorders

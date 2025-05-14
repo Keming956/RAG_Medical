@@ -1,0 +1,36 @@
+Unter Langzeit-Depression (eng: long-term depression, LTD) versteht man eine dauerhafte Abschwächung der Signalübertragung an den Synapsen von Nervenzellen. Zusammen mit ihrem Gegenstück – der Langzeit-Potenzierung (LTP) stellt LTD eine der zellulären Grundlagen von Lernen und Gedächtnis dar. Es wird heute gemeinhin angenommen, dass durch diese Formen von synaptischer Plastizität Informationen in Nervensystemen dauerhaft abgespeichert werden. Zwar ist es bislang noch nicht gelungen, Lernen direkt auf LTP und LTD zurückzuführen, es gibt aber eine Reihe indirekter Hinweise darauf, dass sie den zellulären Mechanismus bestimmter Lernformen darstellen.
+
+LTD im Gehirn 
+LTD wurde in verschiedenen Gehirnregionen gemessen, darunter in der Hirnrinde (Sehrinde, präfrontaler Kortex), der Amygdala sowie im Hippocampus und dem Kleinhirn. Dabei kommen in den verschiedenen Gebieten unterschiedliche Formen von LTD vor, die jeweils andere molekulare Mechanismen nutzen.
+
+LTD im Rückenmark 
+Auch im Rückenmark, insbesondere im nozizeptiven System, wurde das Vorhandensein einer LTD in Tierversuchen und bei gesunden Probanden nachgewiesen. Für die Erkenntnisse bezüglich der Modulierbarkeit der Schmerzverarbeitung durch die LTD wurde 2005 der europäische Schmerzpreis vergeben und es gibt Bestrebungen entsprechende Verfahren in der Schmerztherapie nutzbar zu machen.
+
+Elektrophysiologie 
+Wie andere Formen synaptischer Plastizität auch, so kann LTD nur als Reaktion auf eine künstliche elektrische Stimulation gemessen werden. Dabei werden mit einer dünnen Elektrode Axone von Nervenzellen gereizt und mit einer weiteren Elektrode die synaptische Antwort von Zellen gemessen, die mit diesen Axonen Synapsen bilden. LTD kann durch unterschiedliche Stimulationen ausgelöst werden. Ein häufig benutztes Erregungsmuster ist beispielsweise die so genannte low frequency stimulation, bei der Nervenzellen mit einer Frequenz von 1 Hz 15 Minuten gereizt werden. Mit dieser Reizung kann im Hippocampus LTD zuverlässig hervorgerufen werden.
+Die meisten Experimente zu synaptischer Plastizität werden an dünnen Schnitten von Nervengewebe vorgenommen, es ist aber auch möglich, LTD im intakten Gehirn zu untersuchen.
+
+Molekulare und zelluläre Mechanismen
+
+LTD im Hippocampus 
+Im Hippocampus kennt man zwei Formen von LTD: so genanntes NMDA-Rezeptor-abhängiges LTD (NMDAR-LTD) und metabotroper Glutamat-Rezeptor-abhängiges LTD (mGluR-LTD).
+Bei NMDAR-LTD wird der so genannte NMDA-Rezeptor durch eine gleichzeitige Transmitterausschüttung an der Synapse und eine elektrische Erregung aktiviert, so dass Kalzium in die Zelle einströmen kann. Als intrazelluläres Signalmolekül aktiviert Kalzium auch bei LTD eine Reihe weiterer Enzyme, die die Signalübertragung an der Synapse regulieren.
+Bei mGluR-LTD werden metabotrope Glutamatrezeptoren aktiviert, die als so genannte G-Proteine über weitere Signalmoleküle die Ausschüttung von Kalzium aus intrazellulären Speichern auslösen.
+Beide LTD-Typen können an denselben Synapsen vorkommen, nutzen aber getrennte Mechanismen. Inwieweit sie sich gegenseitig beeinflussen oder wirklich vollständig unabhängig voneinander ablaufen, ist noch nicht bekannt.
+
+LTD und Lernen 
+LTD wurde lange Zeit lediglich als Umkehrprozess der Langzeit-Potenzierung LTP angesehen. Inzwischen weiß man aber, dass LTD eine eigene Form der synaptischen Plastizität darstellt, ohne die Lernen und Gedächtnis nicht möglich wäre. So lernen Mäuse beispielsweise schlechter, sich räumlich zu orientieren, wenn LTD künstlich blockiert wird.
+
+Einzelnachweise
+
+Literatur 
+ E. R. Kandel, J. H. Schwartz, T. M. Jessell: Neurowissenschaften. Eine Einführung. Spektrum Akad. Verl., Heidelberg 1996. ISBN 3-86025-391-3
+ R. F. Thompson: Das Gehirn. Von der Nervenzelle zur Verhaltenssteuerung. Spektrum Akad. Verl., Heidelberg 2001. ISBN 3-8274-1080-0
+ J. Dudel, R. Menzel, R. F. Schmidt: Neurowissenschaft. Vom Molekül zur Kognition. Springer, Berlin 2001. ISBN 3-540-41335-9
+
+Weblinks 
+ Jahrbuch der Max-Planck-Gesellschaft 2006: Synaptische Plastizität
+ Mechanismen synaptischer Plastizität: Max-Planck-Institut für Medizinische Forschung
+ Abstract des Artikels von Migaud et al., 1998 in Nature
+
+Neurobiologie

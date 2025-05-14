@@ -1,0 +1,75 @@
+Les systèmes de diagnostic embarqués  sont un ensemble de capacités de diagnostic matériel qui est embarqué dans la plupart des véhicules à moteur thermique produits depuis les années 2000.
+Le règlement 83 parle également de systèmes d' autodiagnostic.
+
+Le système OBD décrit les moyens à mettre en œuvre pour contrôler l’ensemble des composants du groupe motopropulseur affectant les émissions polluantes du véhicule tout au long de sa vie.
+
+Historique 
+À partir des années 1980, les constructeurs automobiles ont commencé à intégrer massivement de l'électronique dans leurs véhicules, en particulier à travers l'utilisation d'un  de contrôle moteur (aussi appelé calculateur d'injection, initialement utilisé en essence) destiné à gérer le fonctionnement du moteur et à diagnostiquer ses défaillances.
+
+Les diagnostics embarqués sont devenus progressivement de plus en plus sophistiqués, pour permettre aux moteurs de respecter les seuils d'émissions polluantes réglementaires de plus en plus stricts. Aux États-Unis, c'est l'Agence de Protection de l'Environnement qui a fixé les premiers seuils standard.
+
+Par la suite, les exigences réglementaires sont allées plus loin que ces simples seuils et se sont étendues aux méthodes et moyens à mettre en œuvre pour détecter toute perte de la capacité à maîtriser les émissions et en avertir l'utilisateur. Cette réglementation des diagnostics OBD est née en Californie en 1985.
+
+ 1996: La spécification  OBD-II est rendue obligatoire pour toutes les voitures vendues aux États-Unis.
+ 2001: L'union européenne rend l' EOBD obligatoire pour tous les véhicules à essence vendus dans l'Union européenne, en commençant par les modèle véhicules de l'année 2001 (voir :en:European emission standards Directive 98/69/EC).
+ 2004: L'union européenne rend l' EOBD obligatoire pour tous véhicules diesel vendus dans l'Union européenne
+ 2006: Tous véhicules (neufs) vendus en Australie et en Nouvelle-Zélande doivent être compatibles OBD-II à partir du premier janvier 2006.
+ 2008: Toutes voitures vendues aux États-Unis doivent utiliser la norme ISO 15765-4 de diagnostic (un   bus dérivé du Controller Area Network (CAN)).
+ 2008: Certain véhicules légers en Chine ont l'obligation par l' Environmental Protection Administration Office d'implémenter le standard OBD GB18352 au premier juillet  2008 Certaines exemptions régionales subsistent.
+ 2010: aux États-Unis, pour les poids-lourds, la spécification HDOBD (heavy duty) est rendue obligatoire pour les moteurs de véhicules légers utilitaires vendus aux États-Unis.
+
+Législation et règlements 
+Aux États-Unis, les Règlements  et  énoncent des prescriptions relatives à l’auto diagnostic pour les véhicules, et pour les moteurs installés sur des véhicules, dont le poids total en charge est inférieur à .
+
+En Europe, la Directive 98/69/CE 2/ modifie la Directive 70/220/CEE 3 et introduit pour des prescriptions en matière de diagnostic embarqué concernant les dispositifs antipollution (OBD) s’appliquant aux voitures particulières à moteur à essence et diesel et aux véhicules utilitaires légers (jusqu’à  de masse à vide).
+
+Au Japon, le cadre est fixé dans les règlements sur la sécurité des véhicules routiers, article 31 (Dispositifs antipollution), annexe 48, Normes techniques pour le système de diagnostic embarqué (OBD) dans le cas des systèmes de réduction des émissions d’échappement des véhicules automobiles.
+
+Les OBD sont concernés par le règlement technique mondial  : Prescriptions techniques applicables aux systèmes de diagnostic embarqué (OBD) pour véhicules routiers.
+
+En Europe, le règlement 692/2008 de la commission précise:
+
+Au sens du règlement délégué (UE) 2021/1244 du 20 mai 2021, «les informations du système OBD des véhicules et les informations sur la réparation et l’entretien des véhicules (sont) accessibles via des sites internet» et l'«accès aux dispositifs de sécurité du véhicule est fourni aux opérateurs indépendants, sous la protection d’une technologie de sécurité».
+
+Spécificités techniques & régionales
+
+Trois normes existent pour communiquer les informations OBD :
+ ISO/PAS 27145 (CAN);
+ ISO 27145 (TCP/IP);
+ SAE J1939-71SAE J1939-71, .sae.org
+
+Les deux normes utilisées pour les OBD sont l'ISO 15765-4:2005 et la SAE J1939-73. chacune des deux normes est utilisée su chacun des marchés américains et européens.
+
+Une future norme, ISO 27145, doit permettre d'accéder aux diagnostics du véhicules depuis l'extérieur, par TCP/IP.
+
+OBD-II 
+L'OBD-II spécifie en particulier l'interface standard d'accès au système de diagnostics embarqués, et a été introduit dans le milieu des années 1990. La Californie, à travers le CARB (California Air Resources Board) l'a imposé à tous les véhicules vendus aux États-Unis à partir du .
+
+L'interface OBD-II permet la lecture des Diagnostic Trouble Codes standardisés, ou DTC, générés par le système informatique embarqué, ainsi que les informations temps réel en provenance des capteurs connectés aux calculateurs de bord. La norme prévoit aussi l'effacement des DTC enregistrés par les calculateurs lorsque la maintenance a été effectuée.
+
+Les voyants permettant d'alerter l'utilisateur des dysfonctionnements du moteur ont eux aussi été standardisés. Tout défaut pouvant mener à un dépassement des seuils provoque un allumage normalisé du voyant  ou MIL.
+
+Exemples d'outils se connectant sur la prise OBD:
+
+E-OBD et J-OBD en Europe et au Japon 
+Basé sur la réglementation OBD US, l’E-OBD (ou European On-Board Diagnostics) est obligatoire en Europe depuis l’étape dite EURO3. Les défaillances qui mènent au dépassement des seuils d’émissions E-OBD sont détectées et indiquées par un voyant au tableau de bord, et stockées dans la mémoire du calculateur de contrôle moteur.
+
+Ce système a été rendu obligatoire par la directive européenne 98/69/CE pour tous les véhicules à allumage commandé (essence) depuis le  janvier 2002 et pour tous les véhicules à allumage par compression (diesel) depuis le  janvier 2005.
+
+Pour la majorité des voitures (véhicules transportant maximum  et pesant maximum ), les dates sont les suivantes :
+ moteurs essence:
+ depuis le  et depuis le  respectivement pour les nouveaux modèles et pour les modèles existants
+
+ moteurs Diesel :
+ depuis le  et depuis le  respectivement pour les nouveaux modèles et pour les modèles existants. Ces deux dates s'appliquent aux véhicules particuliers de PTAC inférieur à  et non équipés du GPL/GNL. Les véhicules utilitaires et les véhicules GPL/GNL sont concernés au .
+
+Au Japon, c'est un système similaire, le J-OBD, qui est utilisé.
+
+Notes et références
+
+Annexes
+
+Articles connexes 
+ Forum mondial pour l'harmonisation des réglementations sur les véhicules
+
+Réglementation automobile

@@ -1,0 +1,89 @@
+On-Board-Diagnose (OBD) ist ein Fahrzeugdiagnosesystem. Während des Fahrbetriebes werden alle abgasbeeinflussenden Systeme überwacht, zusätzlich weitere wichtige Steuergeräte, deren Daten durch ihre Software zugänglich sind. Auftretende Fehler werden dem Fahrer über eine Kontrollleuchte angezeigt und im jeweiligen Steuergerät dauerhaft gespeichert. Fehlermeldungen können dann später über genormte Schnittstellen abgefragt werden. Anfänglich wurden die Daten nach unterschiedlichen Prinzipien der verschiedenen Hersteller, zum Teil sogar von Modell zu Modell in veränderter Form erfasst und ausgewertet. Diese Phase wird heute rückblickend als OBD-1 (auch OBD I) bezeichnet, während man nach der Normierung von OBD-2 (auch OBD II) spricht. Seit OBD-2 sind die Fehlercodes (DTC – Diagnostic Trouble Code) auch P0-Codes genannt, in der Norm SAE J2012 bzw. ISO-Norm 15031-6 festgelegt.
+
+Ursprung und Grundgedanke 
+Bereits ab August 1965 begann Volkswagen, die produzierten Fahrzeuge mit einer Zentralsteckdose auszurüsten, die über einen Diagnosestecker mit einem lochkartengesteuerten Rechnersystem verbunden werden konnte. Der Zweck der Einrichtung bestand in der automatisierten Diagnose in Werkstätten, die Abgasdiagnose war damals noch nicht Bestandteil des Untersuchungsprogramms.
+
+OBD-Systeme für die Abgasdiagnose wurden 1988 vom kalifornischen California Air Resources Board (CARB, dt. etwa „Luftreinhalte-Behörde“) in den USA eingeführt. General Motors hatte dazu den ALDL-Standard entwickelt, den man auch bei Fahrzeugen der damaligen Tochterfirma Opel vorfand. Grundlage war die Überlegung, dass es nicht ausreicht, bei der Zulassung die Abgasvorschriften einzuhalten, sondern dass die Einhaltung über die Lebensdauer sichergestellt werden soll. Die OBD-I-Norm sieht vor, dass das Fahrzeug über eigene elektronische Systeme zur Selbstüberwachung verfügt. Diese müssen abgasrelevante Fehler über eine in den Armaturen integrierte Signallampe – die sogenannte Motorkontrollleuchte (MIL = „Malfunction Indicator Light“) – anzeigen. Außerdem müssen Fehler in einem mit Bordmitteln (Blinkcode) auslesbaren Speicher abgelegt werden.
+
+Neuere Vorschriften forderten auch eine Überwachung der Überwachungsfunktion. Grundlage ist die Befürchtung, dass die Diagnosen über die Lebensdauer nicht regelmäßig durchgeführt werden. Daher muss aufgezeichnet werden, wie oft die Diagnosen durchgeführt werden, und es werden bestimmte Quoten vorgegeben (IUMPR: In use monitor performance ratio). Die Ergebnisse können über einen genormten Stecker über eine serielle Schnittstelle mit genormtem Protokoll (siehe K-Leitung) oder über den CAN-Bus ausgelesen werden.
+
+Zu dem ursprünglich angedachten umweltrelevanten Aufgabenbereich der Abgasüberwachung kamen sukzessive weitere Bereiche der Fahrzeugdiagnose hinzu. So werden nunmehr auch sicherheitsrelevante Bereiche wie zum Beispiel Gurtsysteme und Airbag, Fehler wie Kurzschlüsse und Leitungsunterbrechungen, Probleme mit möglichen Motorschäden als Folge, Wartungshinweise wie Ölstand usw. in die OBD eingebunden.
+
+In der OBD-3 soll zusätzlich per Funk an eine Behörde übermittelt werden, wenn ein Fahrzeug länger die Abgasgrenzwerte nicht einhält. Hintergrund ist der Gedanke, dass man mit leuchtender Motorkontrollleuchte durchaus weiterfahren kann, ohne das Fahrzeug zu warten.
+
+In der Europäischen Union schreibt Verordnung (EG) Nr. 715/2007 vor, dass bei der Neuzulassung eines Fahrzeugs eine Motorkontrollleuchte Bestandteil der OBD ist. Dies gilt für PKW mit Ottomotor ab Modelljahr 2001 und für PKW mit Dieselmotoren ab Modelljahr 2004. Insbesondere Fahrzeugmodelle für den USA-Export sind aber auch in wesentlich älteren Baujahren OBD(-2)-fähig.
+
+Auslesen der OBD-Informationen 
+
+Zugang für die Fahrzeugdiagnose über OBD-2 ist die 16-polige OBD-2-Diagnosebuchse (CARB-Steckdose bzw. Diagnostic Link Connector (DLC)) im Fahrzeug, die oft nicht nur für das herstellerübergreifende, abgasrelevante OBD-2-Diagnoseprotokoll verwendet wird, sondern auch für die spezifischen Diagnoseprotokolle der Hersteller.
+
+Als physikalische Schnittstelle wird die K-Leitung oder der CAN-Bus verwendet. OBD überwacht unter anderem folgende Systeme und Sensoren:
+ Lambdasondenfunktion
+ Verbrennungsaussetzer mittels eines Inkrementenrads
+ Wirkungsgrad des Katalysators
+und soweit vorhanden auch:
+ Funktion der Abgasrückführung
+ Funktion des Sekundärluftsystems
+ Tankentlüftungssystem
+
+Jede Anfrage an das Steuergerät besteht aus einem Mode und einem Datensatz (Parameter ID, PID) dieses Modes. PIDs sind seit OBD-2 (SAE J1979) in bestimmten Bereichen genormt.
+
+Entprellung 
+Nach dem Auftreten eines Fehlers wird zunächst ein Entprellzähler gestartet. Verschwindet der Fehler nicht vor dem Ablauf der Entprellzeit, erfolgt der Eintrag im Fehlerspeicher und gegebenenfalls das Einschalten der Motorkontrollleuchte.
+
+Readiness-Code 
+Nicht alle abgasrelevanten Bauteile können permanent überwacht werden, weil (beispielsweise beim Katalysator) zunächst bestimmte Betriebszustände erreicht werden müssen. Anhand des Readinesscodes kann man mit einem handelsüblichen Scan-Tool auslesen, ob alle abgasrelevanten Bauteile oder Einrichtungen durch die OBD geprüft worden sind. Der Readiness-Code wird bei der Untersuchung des Motormanagements und Abgasreinigungssystems UMA ausgelesen und beurteilt.
+
+Diagnose-Software 
+Die Ergebnisse der On-Board-Diagnose können auch durch spezielle Softwareanwendungen auf handelsüblichen Notebooks ausgelesen werden. Über die Diagnoseschnittstelle sendet der angeschlossene Werkstatt- oder Notebook-Computer (über zusätzlich erforderliche Hardware zur Protokollinterpretation und Signalpegelwandlung) Befehle an eines der Steuergeräte, das über seine Adresse aktiviert wird, und erhält anschließend Ergebnisse zurück. Befehle gibt es zum Lesen der ID (präzise Modellbezeichnung und Version) des Steuergeräts, zum Lesen und Rücksetzen der oben erwähnten Fehlereinträge, zum Auslesen von sogenannten Messwertblöcken (auch Normanzeige genannt), zum Lesen, Testen und Setzen von diversen Einstellungsparametern (sogenannte Anpasskanälen) und (vor allem für die Entwicklung) zum direkten Lesen und Schreiben von Speicherzellen im Steuergerät.
+
+Für Smartphones sind Apps erhältlich, die mit einem entsprechenden Bluetooth-Adapter das drahtlose Auslesen und Auswerten der OBD-Schnittstelle ermöglichen.
+
+Aufteilung 
+Die Diagnosen werden in verschiedene Gruppen unterteilt.
+Elektrische Diagnosen (für die verschiedensten Leitungen)
+ Kurzschluss nach Masse
+ Kurzschluss nach Batterie
+ Kabelbruch
+ unplausible Spannung
+Sensordiagnosen
+ Plausibilitätsdiagnose (Wert eines Sensors befindet sich im erlaubten Bereich des derzeitigen Betriebszustandes)
+ Abgleichdiagnose (mehrere Sensoren werden miteinander verglichen)
+ „Stuck“-Diagnose (steckengeblieben?): Verändert sich der Wert bei transienten Bedingungen?
+ Gradientenüberwachung (Überprüfung, ob der Anstieg eines Sensorsignals real möglich ist)
+Aktordiagnosen Reagiert der Aktor auf eine Ansteuerung (über Sensoren gemessen)?
+Systemdiagnosen Sind die Ausgangswerte eines Systems über eine geforderte Zeit bei veränderten Bedingungen akzeptabel (wird über ungleichmäßigen Motorlauf ein aussetzender Zylinder erkannt)?
+Komponentendiagnosen Dieser Bereich trifft Komponenten, die nicht unmittelbar zur Sensorik/Aktorik gehören und über eigene oder weitere vorhandene Sensoren überwacht werden, Tankleckdiagnose, Katalysatordiagnose oder „Schlauch-geplatzt-Erkennung“.
+
+Weiterer Nutzen 
+Neben der Gefahrenabwehr und Schonung der Umwelt soll die OBD in der Praxis auch Motorschäden verhindern: Bei entsprechenden Fehlern werden dann motorschonende Notlaufprogramme aktiviert. Zum Beispiel wird nach dem Erkennen eines losen Zündkerzenkabels („Kabelbruch“) der entsprechende Zylinder abgeschaltet (kein Kraftstoff eingespritzt), da sonst das unverbrannte Gemisch den Katalysator zerstören könnte. Der Fahrer nimmt das (neben der eventuell blinkenden MIL) als Leistungsabfall wahr.
+
+Weiterhin kann die OBD auch zur Vereinfachung von Wartung und Reparaturen dienen. Ihre Informationen können nach dem Auftreten eines Fehlersymptoms die Suche nach der defekten Komponente erleichtern oder gar überflüssig machen. Voraussetzung dafür ist allerdings, dass zu den jeweiligen Fehlermeldungen eine entsprechend detaillierte Servicedokumentation des Herstellers bereitgestellt wird.
+
+Auch ist die Diagnose ein wertvolles Hilfsmittel während der Entwicklungsphase von Steuergeräten.
+
+Kritik 
+Über die OBD-Schnittstelle können nicht nur Daten ausgelesen werden, sondern auch allgemein Befehle an das Fahrzeug gesendet werden. Durch das Verbinden zum Beispiel mit einem Notebook mit entsprechender Software kann außerhalb des herstellerübergreifenden, abgasrelevanten OBD-2-Diagnoseprotokolls durch herstellerspezifische Kommunikationsprotokolle bei manchen Fahrzeugmodellen beispielsweise die elektronische Wegfahrsperre umgangen und das Fahrzeug unrechtmäßig bewegt werden.
+
+Verbraucherschützer kritisieren, dass gerade bei älteren Gebrauchtwagen über die OBD-2-Schnittstelle auch der Tachostand des Kilometerzählers manipuliert werden kann.
+
+Siehe auch 
+ Unified Diagnostic Services
+ KWP2000
+ KWP1281
+ WWH-OBD
+
+Literatur 
+ Florian Schäffer: Fahrzeugdiagnose mit OBD. Elektor, ISBN 978-3-89576-173-7.
+
+Weblinks 
+
+ CARB OBD-Seite des California Air Resources Board (CARB)
+ Liste mit Fahrzeugen und deren OBD-Unterstützung (Protokoll, vorhandene Messwerte, Einbauort)
+ Mikrocontroller.net KFZ_Diagnosegeräte Marktübersicht Diagnosegeräte
+ SAE J2012
+
+Einzelnachweise 
+
+Automobilelektronik
+Kraftfahrzeugtechnik

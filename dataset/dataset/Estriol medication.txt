@@ -1,0 +1,129 @@
+Estriol (E3), sold under the brand name Ovestin among others, is an estrogen medication and naturally occurring steroid hormone which is used in menopausal hormone therapy. It is also used in veterinary medicine as Incurin to treat urinary incontinence due to estrogen deficiency in dogs. The medication is taken by mouth in the form of tablets, as a cream that is applied to the skin, as a cream or pessary that is applied in the vagina, and by injection into muscle.
+
+Estriol is well-tolerated and produces relatively few adverse effects. Side effects may include breast tenderness, vaginal discomfort and discharge, and endometrial hyperplasia. Estriol is a naturally occurring and bioidentical estrogen, or an agonist of the estrogen receptor, the biological target of estrogens like endogenous estradiol. It is an atypical and relatively weak estrogen, with much lower potency than estradiol. When present continuously at adequate concentrations however, estriol produces full estrogenic effects similarly to estradiol.
+
+Estriol was first discovered in 1930, and was introduced for medical use shortly thereafter. Estriol esters such as estriol succinate are also used. Although it is less commonly employed than other estrogens like estradiol and conjugated estrogens, estriol is widely available for medical use in Europe and elsewhere throughout the world.
+
+Medical uses
+Estriol is used in menopausal hormone therapy to treat menopausal symptoms, such as hot flashes, vulvovaginal atrophy, and dyspareunia (difficult or painful sexual intercourse). The benefits of estriol on bone mineral density and osteoporosis prevention have been inconsistent and are less clear. Estriol has been found to reduce the risk of urinary tract infections and other urogenital symptoms. A combination of estriol and lactobacilli as a dual estrogen and probiotic has been marketed for the treatment of vaginal atrophy and urinary tract infections.
+
+Available forms
+Estriol is available in oral tablet, vaginal cream, and vaginal suppository forms. It is also available over-the-counter or from compounding pharmacies in the form of topical creams. The medication is available both as estriol and in the form of estriol ester prodrugs such as estriol succinate, estriol acetate benzoate, and estriol tripropionate, as well as the polymeric ester prodrug polyestriol phosphate.
+
+Estriol was originally marketed in the 1930s in the form of oral capsules containing 0.06, 0.12, or 0.24 mg estriol under the brand names Theelol (Parke-Davis) and Estriol (Lilly, Abbott). Subsequently, many decades later, oral tablets containing 0.35, 1, or 2 mg estriol were introduced under brand names such as Gynäsan, Hormomed, Ovestin, and Ovo-Vinces.
+
+Contraindications
+
+General contraindications of estrogens include breast cancer, endometrial cancer, and others. In animals, estriol is contraindicated during pregnancy and in ferrets.
+
+Side effects
+Estriol is well-tolerated and produces relatively few adverse effects. Breast tenderness may sometimes occur as a side effect of estriol. Local reactions with vaginal estriol such as discomfort (irritation, burning, itching) and discharge may occur. Estriol may produce endometrial hyperplasia similarly to estradiol and other estrogens, and hence should be combined with a progestogen in women with intact uteruses to prevent this risk. However, it appears that typical clinical dosages of vaginal estriol are not associated with an important risk of endometrial proliferation or hyperplasia. As such, combination with a progestogen may not be needed in the case of vaginal estriol. Some studies suggest that this may also be true for oral estriol. However, dosage and frequency of administration, as well as meal consumption, may be determining factors as to whether or not estriol produces endometrial proliferation.
+
+Overdose
+
+Estrogens and other steroids are relatively safe in acute overdose. Estriol has been assessed in single oral doses of up to 75 mg. General symptoms of estrogen overdose in humans may include nausea, vomiting, vaginal bleeding, and reversible feminization. While there are no known studies describing the acute toxicity of estrogen overdose in dogs, this species is known to be more sensitive to the toxic effects of estrogens than humans and other animals. The most serious short-term adverse effect of estrogens in dogs is bone marrow suppression and consequent pancytopenia, which can be life-threatening.
+
+Interactions
+
+Interactions with estriol might be expected to be similar to those of estradiol. No interactions with estriol have been reported in animals. However, it should not be used in combination with other drugs that suppress bone marrow production in dogs.
+
+Pharmacology
+
+Pharmacodynamics
+Estriol is an estrogen, or an agonist of the estrogen receptors (ERs), ERα and ERβ. In terms of relative binding affinities (RBA) for the ERs compared to estradiol, it was found in one study to possess 11 to 14% of the RBA for the human ERα and 18 to 21% of the RBA for the human ERβ. Its relative transactivational capacities at the ERs compared to estradiol were 11% at ERα and 17% at ERβ. In addition to being a ligand of the classical nuclear ERs, estriol is an antagonist of the G protein-coupled estrogen receptor (GPER), a membrane estrogen receptor (mER), at high concentrations (~1,000–10,000 μM). This is in contrast to estradiol, which is an agonist of this receptor. Like other estrogens, estriol does not importantly interact with other steroid hormone receptors.
+
+Estriol is a much less potent estrogen than is estradiol, and is somewhat weak and atypical in its properties. Given by subcutaneous injection in mice, estradiol is about 10-fold more potent than estrone and about 100-fold more potent than estriol. With clinical use, estriol is said to be weakly estrogenic in certain tissues, such as the liver and endometrium, but produces pronounced and full estrogenic responses in the vaginal epithelium. The medication has been found to reduce hot flashes, improve vaginal atrophy, reverse the postmenopausal decline in skin thickness and collagen content, suppress gonadotropin secretion, and produce proliferation of breast epithelium. Conversely, estriol does not consistently affect bone resorption or fracture risk, does not seem to increase breast density, and, at oral doses of 2 to 4 mg/day, does not affect liver proteins, lipid metabolism, or hemostatic parameters. Additionally, vaginal estriol does not appear to produce endometrial proliferation or increase the risk of endometrial hyperplasia, and some studies have found this to be the case for oral estriol as well. On the other hand, it appears that estriol may be able to stimulate the growth of active breast cancer. In rodents, estriol induces mammary gland development similar to that with estrone. By the oral route in women, estriol has approximately 30% of the potency of estradiol in terms of hot flashes relief and suppression of follicle-stimulating hormone secretion, and about 20% of the potency of estradiol on stimulation of liver production of high-density lipoprotein (HDL) cholesterol. A study of ovulation inhibition by estrogens in women found that prevention of ovulation occurred with 5 mg/day oral estriol in only 1 of 7 cycles. Due to its differing effects from those of estradiol, estriol may be considered a safer estrogen in certain regards.
+
+The weak and atypical estrogenicity of estriol is thought to be related to its short duration in the body and hence the fact that it stays bound to the ER for a relatively short amount of time. Whereas estradiol remains bound to the ER for 6 to 24 hours with a single short-acting injection, estriol dissociates from the receptor much more rapidly and stays bound for only 1 to 6 hours. As a result, estriol can only induce estrogenic effects which require short-term interaction with the ERs. Induction of endometrial mitoses requires the ligand to remain bound for at least 9 to 12 hours, and this is thought to be responsible for the lack of endometrial proliferation with estriol in many studies. If estriol is delivered more continuously than a single administration per day however, for instance if it is given as a subcutaneous pellet, as a depot injection, or in multiple doses two or three times per day, this results in more sustained exposure to estriol and full estrogenic responses equivalent to those of estradiol occur. For these reasons, estriol has been described as a "short-acting" estrogen and it has been said that descriptors like "weak" and "impeded" are inaccurate. Consumption of food after oral administration of estriol also results in more prolonged exposure to estriol, due to enterohepatic recycling and resurgences in estriol levels. As such, if avoidance of endometrial hyperplasia or other full estrogenic effects is intended, it may be preferable to take estriol in a single dose, as low as possible, once per day at night before bedtime.
+
+Although estriol is an estrogen, it has also been reported to have mixed agonist–antagonist or partial agonist activity at the ERs. On its own, it is said to be weakly estrogenic, but in the presence of estradiol, it has been found to be antiestrogenic. However, this is again due to the fact that estriol is a "short-acting" estrogen. If estriol is present continuously with estradiol, it shows no antagonism of estradiol. The co-administration of estriol with estradiol has been found not to influence the effects of the latter in women, including neither enhancing nor antagonizing the effects of estradiol.
+
+Pharmacokinetics
+
+Absorption
+Estriol has significant bioavailability, but its potency is limited by rapid metabolism and excretion and its relatively weak estrogenic activity. With oral administration, during first-pass metabolism, a considerable portion of estriol is conjugated via sulfation into estriol sulfate and rapidly excreted. Only about 10 to 20% of a dose of estriol remains in the circulation, and of this, only about 1 to 2% is present in its active, unconjugated form. Peak levels of estriol occur about 1 to 3 hours after an oral dose. Similarly to the case of progesterone, taking oral estriol with food greatly enhances its absorption. In addition, due to enterohepatic recycling, consuming a meal 4 hours after taking oral estriol can produce a second peak in estriol levels. Dosages of oral estriol of 4 to 10 mg have been found to result in a fairly large range of maximal estriol levels of 80 to 340 pg/mL. After a single oral dose of 8 mg estriol in postmenopausal women, maximal levels of 65 pg/mL estriol and 60 ng/mL estriol conjugates were produced within an hour. With continued daily administration, this increased to peak levels of 130 pg/mL estriol, whereas maximal levels of estriol conjugates remained at 60 ng/mL. Levels of estriol rapidly decreased to low levels following occurrence of peak levels. Consumption of a meal 4 hours after taking an oral dose of 8 mg estriol during continuous daily administration resulted in a second estriol peak 2 hours later of 120 pg/mL, with estriol levels declining slowly thereafter to about 25 pg/mL after 24 hours.
+
+The bioavailability of estriol is markedly increased with vaginal administration compared to oral administration. The relative bioavailability of oral estriol was found to be about 10% of that of vaginal estriol. In accordance, a single dose of 8 mg oral estriol and of 0.5 mg vaginal estriol have been found to produce similar circulating concentrations of estriol. It has been said that 0.5 to 1 mg vaginal estriol may be equivalent in clinical effect to 8 to 12 mg oral estriol. The high bioavailability of vaginal estriol is due to rapid absorption and low metabolism in atrophic vaginal mucosa. Vaginal estriol at typical clinical dosages results both in high local concentrations of estriol in the vagina and in systemic action. Vaginal administration of low doses of 30 µg estriol and of higher doses of 0.5 and 1 mg estriol have been found to produce equivalent local effects in the vagina and improvement of vaginal symptoms, suggesting that a saturation of estrogenic effect of vaginal estriol has been reached in the vagina by a dose of only 30 µg estriol. In contrast to higher doses of vaginal estriol however, 30 µg/day estriol is not associated with systemic effects. Similarly, the use of 0.5 mg vaginal estriol twice a week instead of daily has been said to largely attenuate the systemic effects of estriol. Whereas oral estriol results in high levels of estriol conjugates which greatly exceed those of unconjugated estriol, vaginal estriol has been found to produce levels of unconjugated estriol and estriol conjugates that are similar.
+
+The absorption of estrogens by the skin is described as low for estriol, moderate for estradiol, and high for estrone. This is related to the number of hydroxyl groups in the molecules; the more hydroxyl groups, the lower the skin permeability. This may account for the relative lack of use of transdermal or topical estriol.
+
+Rectal administration of estriol has been assessed in one study. Administration of a rectal suppository containing 100 mg estriol resulted in estriol levels in pregnant women at term increasing by about 53%. Estriol levels at term are normally between 5,000 and 20,000 pg/mL, which suggests that estriol levels may have increased following the suppository by about 5,000 to 10,000 pg/mL (precise levels were not provided).
+
+Estriol succinate is an ester prodrug of estriol which is used medically via oral and vaginal routes similarly. In estriol succinate, two of the hydroxyl groups of estriol, those at the C16α and C17β positions, are esterified with succinic acid. As such, when adjusted for differences in molecular weight, a dose of 2 mg estriol succinate is equivalent to 1.18 mg unconjugated estriol. Unlike other estrogen esters, such as estradiol valerate, estriol succinate is hydrolyzed almost not at all in the intestinal mucosa when taken orally, and in relation to this, is absorbed more slowly than is estriol. Consequently, oral estriol succinate is a longer-acting form of estriol than oral estriol. Instead of in the gastrointestinal tract, oral estriol succinate is cleaved into estriol mainly in the liver. After a single 8 mg oral dose of estriol succinate, maximum levels of circulating estriol of 40 pg/mL are attained within 12 hours, and this increases up to 80 pg/mL with continued daily administration.
+
+Distribution
+Similarly to estradiol, but unlike estrone, estriol is accumulated in target tissues. The plasma protein binding of estriol is approximately 92%, with about 91% bound to albumin, 1% bound to sex hormone-binding globulin (SHBG), and 8% free or unbound. Estriol has very low affinity for SHBG, with only about 0.3% of the affinity of testosterone for this protein (or about 0.6% of that of estradiol). Relative to estradiol, which is about 98% plasma protein-bound, a significantly greater fraction of estriol is unbound in the circulation and hence available for biological activity (2% relative to 8%, respectively). This appears to account for the greater than expected biological activity of estriol relative to estradiol when considering its affinities for the estrogen receptors.
+
+Metabolism
+Estriol is metabolized extensively via conjugation, including glucuronidation and sulfation. Glucuronidation of estriol takes place mainly in the intestinal mucosa, while sulfation occurs in the liver. More minor amounts of estriol can be oxidized and hydroxylated at various positions. One such reaction is transformation into 16α-hydroxyestrone. Estriol is an end-product of phase I estrogen metabolism and cannot be converted into estradiol or estrone. The main metabolites of estriol are estrogen conjugates, including estriol sulfates, estriol glucuronides, and mixed estriol sulfate/glucuronide conjugates. 16α-Hydroxyestrone is known to occur as a metabolite of estriol as well.
+
+The biological half-life of oral estriol has been reported to be in the range of 5 to 10 hours. The elimination half-life of estriol following an intramuscular injection of 1 mg estriol has been found to be 1.5 to 5.3 hours. The blood half-life of unconjugated estriol has been reported to be 20 minutes. The metabolic clearance rate of estriol is approximately 1,110 L/day/m2, which is about twice that of estradiol. Hence, estriol is eliminated from the body more rapidly than is estradiol. Enterohepatic recycling may extend the duration of oral estriol.
+
+A single 1 to 2 mg dose of estriol in oil solution by intramuscular injection has a duration of about 3 or 4 days. Estriol esters such as estriol dipropionate and estriol dihexanoate, when administered via intramuscular injection in an oil solution, have been found to maintain elevated levels of estriol for much longer amounts of time than oral or vaginal estriol, in the range of days to months. These two estriol esters have not been marketed, but estriol acetate benzoate and estriol tripropionate are medically used estriol esters which are given via depot intramuscular injection and are long-acting similarly. Polyestriol phosphate is an ester of estriol in the form of a polymer, and has a very long duration of action.
+
+Excretion
+Estriol is excreted more than 95% in urine. This is due to the fact that estriol conjugates in the colon are completely hydrolyzed via bacterial enzymes and in turn estriol in this part of the body is reabsorbed into the body. The main urinary metabolites of exogenous estriol administered via intravenous injection in baboons have been found to be estriol 16α-glucuronide (65.8%), estriol 3-glucuronide (14.2%), estriol 3-sulfate (13.4%), and estriol 3-sulfate 16α-glucuronide (5.1%). The metabolism and excretion of estriol in these animals closely resembled that which has been observed in humans.
+
+Chemistry
+
+Estriol, also known as 16α-hydroxyestradiol or as estra-1,3,5(10)-triene-3,16α,17β-triol, is a naturally occurring estrane steroid with double bonds between the C1 and C2, C3 and C4, and C5 and C10 positions and hydroxyl groups at the C3, C16α, and C17β positions. The name estriol and the abbreviation E3 were derived from the chemical terms estrin (estra-1,3,5(10)-triene) and triol (three hydroxyl groups).
+
+Analogues
+
+A variety of analogues of estriol are known, including both naturally occurring isomers and synthetic substituted derivatives and esters. 16β-Epiestriol (epiestriol), 17α-epiestriol, and 16β,17α-epiestriol are isomers of estriol that are endogenous weak estrogens. Mytatrienediol (16α-methyl-16β-epiestriol 3-methyl ether) is a synthetic derivative of 16β-epiestriol that was never marketed. Estriol acetate benzoate, estriol succinate, and estriol tripropionate are synthetic estriol esters that have been marketed for medical use, whereas estriol dihexanoate, estriol dipropionate, and estriol triacetate have not been introduced. Quinestradol is the 3-cyclopentyl ether of estriol and has also been marketed. Polyestriol phosphate, an ester of estriol in the form of a polymer, has been marketed previously as well. These esters, ethers, and polymers are prodrugs of estriol. Ethinylestriol and nilestriol are synthetic C17α ethynylated derivatives of estriol. Ethinylestriol has not been marketed, but nilestriol, which is the 3-cyclopentyl ether of ethinylestriol and a prodrug of it, has been.
+
+Estetrol (E4), also known as 15α-hydroxyestriol, is a naturally occurring analogue of estriol with an additional hydroxyl group, at the C15α position. It is closely related to estriol and has similar but non-identical pharmacological properties. Like estriol, estetrol is a relatively weak and atypical estrogen. Estetrol is under development for potential clinical use for a variety of indications, such as menopausal hormone therapy and hormonal birth control.
+
+History
+
+Estriol was discovered in 1930. Subsequently, it was introduced for medical use in oral and transdermal formulations under brand names such as Estriol, Oestrosalve, Theelol, and Tridestrin. In addition, conjugated estriol, containing mainly estriol glucuronide, was marketed in the 1930s, under the brand names Emmenin and Progynon. They were the first orally active estrogen preparations to be introduced in medicine. In contrast to estrone, free estriol was never introduced for use by intramuscular injection. Estriol continues to be used medically today, widely throughout the world and in a variety of different formulations and brand names.
+
+Society and culture
+
+Generic names
+Estriol is the generic name of estriol in American English and its , , , , and . It is pronounced  . Estriolo is the name of estriol in Italian and estriolum is its name in Latin, whereas its name remains unchanged as estriol in Spanish, Portuguese, French, and German. Oestriol, in which the "O" is silent, was the former  of estriol and its name in British English, but the spelling was eventually changed to estriol.
+
+Brand names
+Estriol is or has been marketed under a variety of brand names throughout the world, including Aacifemine, Colpogyn, Elinol, Estriel, Estriol, Estriosalbe, Estrokad, Evalon, Gydrelle, Gynäsan, Gynest, Gynoflor (in combination with lactobacilli), Incurin (veterinary), Klimax-E, OeKolp, Oestro-Gynaedron, Orgestriol, Ortho-Gynest, Ovesterin, Ovestin, Ovestinon, Ovestrion, Ovo-Vinces, Pausanol, Physiogine, Sinapause, Synapause, Synapause-E, Trophicrème, Vago-Med, Vacidox, and Xapro.
+
+Estriol succinate has been marketed under the brand names Blissel, Evalon, Gelistrol, Hemostyptanon, Orgastyptin, Ovestin, Pausan, Sinapause, Styptanon, Synapsa, Synapasa, Synapausa, and Synapause. Estriol diacetate benzoate has been marketed under the brand name Holin-Depot and estriol tripropionate has been marketed under the brand name Estriel. Polyestriol phosphate has been marketed under the brand names Gynäsan, Klimadurin, and Triodurin. Emmenin and Progynon were estriol products marketed in the 1930s which were manufactured from the urine of pregnant women and contained estriol conjugates, primarily estriol glucuronide.
+
+Estriol for multiple sclerosis had the tentative brand name Trimesta but did not complete development and was never marketed.
+
+Availability
+Estriol is marketed widely throughout the world, including in Europe, South Africa, Australia, New Zealand, Asia, Latin America, and elsewhere. The medication is also available in some countries in the form of estriol succinate, an ester prodrug of estriol. Estriol and its esters are not approved for use in the United States or Canada, although estriol has been produced and sold by compounding pharmacies in North America for use as a component of bioidentical hormone therapy. In addition, topical creams containing estriol are not regulated in the United States and are available over-the-counter in this country.
+
+Research
+Estriol may have immunomodulatory effects and has been of investigational interest in the treatment of multiple sclerosis and a number of other conditions. Estriol succinate was under development for the treatment of multiple sclerosis in the United States and worldwide, and reached phase II clinical trials for this indication, but development was discontinued due to insufficient effectiveness. It had the tentative brand name Trimesta.
+
+Veterinary use
+Estriol is used in veterinary medicine, under the brand name Incurin, in the treatment of urinary incontinence due to estrogen deficiency in dogs. Certain estrogens, like estradiol, can cause bone marrow suppression in dogs, which can be fatal, but estriol appears to pose less or possibly no risk.
+
+References
+
+Further reading
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Antigonadotropins
+Estranes
+Estrogens
+Immunomodulating drugs
+Phenols
+Triols
+Veterinary drugs

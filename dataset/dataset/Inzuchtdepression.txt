@@ -1,0 +1,17 @@
+Eine Inzuchtdepression ist die Reduktion der Leistung (Krankheitsanfälligkeit bei einem höheren Inzuchtkoeffizienten in der Population) von ingezüchteten Populationen. Sie tritt besonders in eingegrenzten Lebensräumen auf, in denen die genetische Variabilität einer Population eingeschränkt ist und ggf. ein genetischer Flaschenhals vorliegt. Dies ist unter anderem bei kleinen Tierpopulationen auf Inseln ihres Lebensraumes der Fall, die keinen Austausch mit anderen Inseln erlauben. In solchen Populationen können vermehrt Erbkrankheiten auftreten, siehe dazu auch Erbkrankheiten in endogamen Populationen.
+
+Inzuchtdepression kann ebenfalls eine Folge von Zuchtprogrammen sein, bei denen immer wieder die gleichen ausgesuchten Pflanzen oder Elterntiere zur Zucht eingesetzt werden (z. B. Championzucht bei Rassehunden).
+ 
+Aufgrund der Unteilbarkeit des Erbgutes auf der Ebene der einzelnen Allele kommt es zum Verlust von Allelen aus dem Genpool, die genetische Vielfalt und damit auch die effektive Populationsgröße reduzieren sich nach und nach. Es entsteht aufgrund der genetischen Einheitlichkeit der Population Inzucht auch zwischen nicht näher verwandten Paaren. Die Population kann degenerieren und anfälliger für Krankheiten werden. 
+
+Unter bestimmten Bedingungen kann auch bei fortgesetzter Inzucht die Inzuchtdepression überwunden werden. Dieses Phänomen bezeichnet man als Purging.
+
+Siehe auch 
+ Ahnenverlust
+ Inzuchtkoeffizient
+
+Literatur 
+Thornhill, N. W. (1993): The Natural History of Inbreeding and Outbreeding – Theoretical and Empirical Perspectives. University of Chicago Press, ISBN 0-226-79854-2
+
+Genetik
+Zucht

@@ -1,0 +1,74 @@
+Le diagnostic préimplantatoire (DPI) permet de détecter la présence d'éventuelles anomalies génétiques ou chromosomiques dans les embryons conçus après fécondation in vitro. Le but étant de différencier les embryons atteints d'une maladie génétique de ceux porteurs sains ou indemnes. Pour cela une à deux cellules (blastomères) sont prélevées sur l'embryon au troisième jour de développement. Le matériel génétique de ces blastomères est ensuite analysé par des techniques de PCR ou d'hybridation in situ en fluorescence afin de sélectionner les embryons dépourvus d'affection génétique qui seront transférés dans l’utérus de la future mère.
+
+Le DPI repose sur une fécondation in vitro et la possibilité qu'un nombre important d'embryons puisse être obtenu assurant statistiquement la présence d'au moins un embryon sain qui pourra être transféré. Cette production importante d'embryons soulève la question sur l'avenir des embryons surnuméraires qui n'auront pas été sélectionnés pour l'implantation.
+
+Le diagnostic préimplantatoire est une alternative au diagnostic prénatal qui implique, en cas d'enfant atteint par l'affection génétique, une éventuelle interruption médicale de grossesse (IMG) et présente un risque accru de fausse couche (1 sur ) du fait de la biopsie que nécessite le diagnostic prénatal. Les expériences traumatisantes et douloureuses qu'impliquent des IMG parfois répétées et l'incertitude sur l'état de santé de l'enfant à venir et son pronostic vital peuvent ainsi être évitées au couple qui peut envisager une grossesse plus sereine.
+
+Procédure du diagnostic préimplantatoire 
+Un cycle de DPI comprend plusieurs étapes :
+ la stimulation ovarienne, nécessaire pour permettre le développement de plusieurs follicules ovariens ;
+ le prélèvement des ovocytes ;
+ la fécondation in vitro de plusieurs ovocytes matures, par injection intracytoplasmique de spermatozoïde (ICSI) ;
+ le prélèvement cellulaire. Plusieurs options sont possibles :
+ le prélèvement d'un globule polaire : il ne permet d'analyser que le matériel génétique de la mère, mais l'expulsion du premier globule polaire étant faite avant la fécondation, l'utilisation de ce type de cellules permet de réaliser un diagnostic préimplantatoire dans des pays où la législation n'autorise pas la manipulation de l'embryon,
+ le prélèvement au cours du stade de la segmentation : l'embryon, au troisième jour, comporte alors moins d'une dizaine de cellules. Cette technique est largement utilisée. Elle ne met pas à l'abri d'un mosaïcisme où la cellule prélevée est normale mais pas ses voisines,
+ le prélèvement au cinquième jour : l'embryon est alors au stade de blastocyste et la biopsie concerne alors le trophoblaste. Le risque théorique de léser l'embryon serait alors moindre puisque le prélèvement concerne une partie destinée à former le futur placenta (tissus extraembryonnaires). Toutefois, la probabilité de détecter une éventuelle anomalie génétique en mosaïque est diminuée,
+ l'analyse du matériel génétique des cellules prélevés par des techniques de génétique moléculaire ou de cytogénétique en fonction de l'anomalie génétique qui doit être identifiée ;
+ la sélection et le transfert dans la cavité utérine de la future mère des embryons qui auront été choisis (embryons sains ou porteurs non atteints ou présentant une caractéristique particulière, selon le contexte, la maladie génétique et la décision qui aura été prise en concertation avec le couple pendant le conseil génétique).
+
+Historique 
+ 1987 : apparition du DPI dans la presse scientifique
+ 1990 : premier DPI réalisé en Angleterre avec détermination du sexe de l'embryon pour une maladie présente uniquement chez le garçon
+ 1992 : naissance en Angleterre du tout premier enfant conçu grâce au DPI
+ 1994 : naissance du premier enfant issu du DPI en Belgique
+ 1994 : le DPI devient légal en France
+ 2000 : naissance de Valentin à l’hôpital Antoine-Béclère, le premier enfant conçu grâce au DPI en France
+ 2012 : naissance à Barcelone du premier bébé d’un père souffrant d’une double anomalie chromosomique.
+
+Le consortium ESHRE ou «  » fait état d'environ trois mille enfants nés après une biopsie embryonnaire en Europe et dans plusieurs centres à travers le monde.
+
+Indications 
+La première indication, dite diagnostique, du DPI est d'éviter à des couples atteints ou porteurs d'une maladie génétique rare et grave de la transmettre à leur enfant (myopathie, mucoviscidose, neurofibromatose, bêta-thalassémie, rétinite pigmentaire, dystrophie musculaire de Becker, hémophilie A ou maladie de Huntington, par exemple). Il s'applique également lorsque l'un des partenaires d'un couple est porteur d'une anomalie chromosomique de structure équilibrée chez lui, mais pouvant aboutir à un génotype déséquilibré pathogénique ou létal chez le fœtus (une translocation réciproque balancée, une translocation robertsonienne ou une inversion). Il s'agit généralement de couples dont les anomalies génétiques familiales sont connues ou plus fréquemment lorsqu'un précédent enfant malade ou la survenue de fausses-couches à répétition ont permis de révéler la présence d'une anomalie génétique ou chromosomique et de définir le risque de transmission et de récurrence. Dans d'autres cas, la sélection d'un embryon d'un sexe donné permet de garantir l'absence d'une maladie si cette dernière ne concerne qu'un seul sexe (maladie liée au sexe).
+
+La deuxième indication, dite de dépistage, concerne des parents n'ayant aucune maladie héréditaire connue mais dont la mère a fait plusieurs fausses couches avec anomalies chromosomiques de l’embryon (aneuploïdie). La méthode par hybridation in situ en fluorescence (FISH) ne permet pas d'analyser l'ensemble des chromosomes et sa rentabilité est discutée. L’utilisation d'autres techniques permettant d'analyser l'ensemble des chromosomes entraînerait un plus fort taux de succès lors de l'implantation. la population la plus susceptible de bénéficier de ces techniques restent à déterminer. 
+
+Il serait possible théoriquement de déterminer d'autres caractères de l'embryon, comme sa future couleur de cheveux mais l'utilisation du diagnostic préimplantatoire dans ce but pose des problèmes éthiques. Le choix du sexe de l'enfant est l'indication retenue dans un diagnostic préimplantatoire sur six aux États-Unis.
+
+Le DPI est parfois utilisé pour sélectionner un embryon qui soit compatible HLA avec une personne malade de sa famille afin de devenir un potentiel donneur de tissu. Des médias ont qualifié les enfants conçus dans cette optique de « bébés-médicaments ».
+
+Considérations éthiques 
+Pour Jacques Testart, l'extension du champ du DPI pourrait mener vers une certaine forme d'eugénisme, . Il cite, parmi les facteurs favorisants cette dérive, la possibilité d'examiner un très grand nombre d'embryons, l'impossibilité de définir , et le fait que cette technique poussera à rendre la définition du handicap . 
+
+En Californie, le Fertility Institute permet de choisir le sexe et prétend pouvoir sélectionner la couleur des yeux d'un bébé. En Chine, un article sensationnaliste et largement exagéré a même prétendu qu'une équipe de chercheurs travaillait sur l'identification des allèles déterminant l'intelligence afin d'augmenter potentiellement le quotient intellectuel des chinois sur plusieurs générations.
+
+Règlementation applicable en Europe 
+Seize pays disposent d’une règlementation spécifique autorisant certaines utilisations du DPI : la Belgique, le Danemark, l’Espagne, la Finlande, la France, la Géorgie, la Grèce, la Norvège, les Pays-Bas, le Portugal, la République tchèque, le Royaume-Uni, la Fédération de Russie, la Serbie, la Slovénie, la Suède et la Suisse .
+
+Deux pays interdisent expressément l'utilisation du DPI : l'Autriche et l'Italie.
+
+En Allemagne, le DPI n’était pas explicitement couvert par la Loi sur la protection de l’embryon. Il était convenu, toutefois, que le DPI sur des cellules totipotentes était interdit en vertu des dispositions de la Loi, ces cellules répondant à la définition juridique de l’embryon. Cependant, le 23 septembre 2011 le Parlement a adopté une loi () qui autorise le DPI dans certains cas. 
+
+Onze pays n'ont pas de cadre juridique règlementant le DPI : la Bulgarie, Chypre, l'Estonie, l'Irlande, la Lettonie, la Lituanie, le Luxembourg, Malte, la Pologne, la Turquie, l'Ukraine.
+
+Règlementation en France 
+En France, le DPI est autorisé dans les cas prévus par l'article L2131-4 du code de la santé publique.
+
+Dans la culture populaire 
+Dans le film Bienvenue à Gattaca, sorti en 1997, le diagnostic préimplantatoire a été utilisé pour donner naissance à des enfants au patrimoine génétique impeccable.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Diagnostic prénatal
+ Bioéthique
+ Maladie génétique
+ Maladie chromosomique
+
+Lien externe 
+ Le diagnostic préimplantatoire. Étude de législation comparée (Sénat français, 2008)
+ Pratique du DPI en France
+
+Bioéthique
+Dépistage et diagnostic en gynécologie-obstétrique

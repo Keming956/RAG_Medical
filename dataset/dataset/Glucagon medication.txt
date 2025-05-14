@@ -1,0 +1,61 @@
+Glucagon, sold under the brand name Baqsimi among others, is a medication and hormone. As a medication it is used to treat low blood sugar, beta blocker overdose, calcium channel blocker overdose, and those with anaphylaxis who do not improve with epinephrine. It is given by injection into a vein, muscle, or under the skin. A version given in the nose is also available.
+
+Common side effects include vomiting. Other side effects include low blood potassium and low blood pressure. It is not recommended in people who have a pheochromocytoma or insulinoma. Use in pregnancy has not be found to be harmful to the baby. Glucagon is in the glycogenolytic family of medications. It works by causing the liver to break down glycogen into glucose.
+
+Glucagon was approved for medical use in the United States in 1960. It is on the World Health Organization's List of Essential Medicines.  It is a manufactured form of the glucagon hormone. A generic version became available in the United States in December 2020.
+
+Medical uses
+
+Low blood sugar 
+
+An injectable form of glucagon may be part of first aid in cases of low blood sugar when the person is unconscious or for other reasons cannot take glucose orally or by intravenous. The glucagon is given by intramuscular, intravenous or subcutaneous injection, and quickly raises blood glucose levels. To use the injectable form, it must be reconstituted prior to use, a step that requires a sterile diluent to be injected into a vial containing powdered glucagon, because the hormone is highly unstable when dissolved in solution.  When dissolved in a fluid state, glucagon can form amyloid fibrils, or tightly woven chains of proteins made up of the individual glucagon peptides, and once glucagon begins to fibrilize, it becomes useless when injected, as the glucagon cannot be absorbed and used by the body.  The reconstitution process makes using glucagon cumbersome, although there are a number of products now in development from a number of companies that aim to make the product easier to use.
+
+Beta blocker overdose 
+Anecdotal evidence suggests a benefit of higher doses of glucagon in the treatment of overdose with beta blockers; the likely mechanism of action is the increase of cAMP in the myocardium, in effect bypassing the β-adrenergic second messenger system.
+
+Anaphylaxis 
+Some people who have anaphylaxis and are on beta blockers are resistant to epinephrine. In this situation glucagon intravenously may be useful to treat their low blood pressure.
+
+Impacted food bolus 
+Glucagon relaxes the lower esophageal sphincter and may be used in those with an impacted food bolus in the esophagus ("steakhouse syndrome"). There is little evidence for glucagon's effectiveness in this condition, and glucagon may induce nausea and vomiting,  but considering the safety of glucagon this is still considered an acceptable option as long it does not lead to delays in arranging other treatments.
+
+Endoscopic retrograde cholangiopancreatography 
+
+Glucagon's effect of increasing cAMP causes relaxation of splanchnic smooth muscle, allowing cannulation of the duodenum during the endoscopic retrograde cholangiopancreatography (ERCP) procedure.
+
+Adverse effects
+Glucagon acts very quickly; common side-effects include headache and nausea.
+
+Drug interactions: Glucagon interacts only with oral anticoagulants, increasing the tendency to bleed.
+
+Contraindications 
+While glucagon can be used clinically to treat various forms of hypoglycemia, it is contraindicated in patients with pheochromocytoma, as it can induce the tumor to release catecholamines, leading to a sudden elevation in blood pressure. Likewise, glucagon is contraindicated in patients with an insulinoma, as its hyperglycemic effect can induce the tumor to release insulin, leading to rebound hypoglycemia.
+
+Mechanism of action 
+
+Glucagon binds to the glucagon receptor, a G protein-coupled receptor, located in the plasma membrane. The conformation change in the receptor activates G proteins, a heterotrimeric protein with α, β, and γ subunits. When the G protein interacts with the receptor, it undergoes a conformational change that results in the replacement of the GDP molecule that was bound to the α subunit with a GTP molecule. This substitution results in the releasing of the α subunit from the β and γ subunits.  The alpha subunit specifically activates the next enzyme in the cascade, adenylate cyclase.
+
+Adenylate cyclase manufactures cyclic adenosine monophosphate (cyclic AMP or cAMP), which activates protein kinase A (cAMP-dependent protein kinase). This enzyme, in turn, activates phosphorylase kinase, which then phosphorylates glycogen phosphorylase b, converting it into the active form called phosphorylase a. Phosphorylase a is the enzyme responsible for the release of glucose-1-phosphate from glycogen polymers.
+
+Additionally, the coordinated control of glycolysis and gluconeogenesis in the liver is adjusted by the phosphorylation state of the enzymes that catalyze the formation of a potent activator of glycolysis called fructose-2,6-bisphosphate. The enzyme protein kinase A that was stimulated by the cascade initiated by glucagon will also phosphorylate a single serine residue of the bifunctional polypeptide chain containing both the enzymes fructose-2,6-bisphosphatase and phosphofructokinase-2. This covalent phosphorylation initiated by glucagon activates the former and inhibits the latter. This regulates the reaction catalyzing fructose-2,6-bisphosphate (a potent activator of phosphofructokinase-1, the enzyme that is the primary regulatory step of glycolysis) by slowing the rate of its formation, thereby inhibiting the flux of the glycolysis pathway and allowing gluconeogenesis to predominate. This process is reversible in the absence of glucagon (and thus, the presence of insulin).
+
+Glucagon stimulation of PKA also inactivates the glycolytic enzyme pyruvate kinase.
+
+History 
+In the 1920s, Kimball and Murlin studied pancreatic extracts, and found an additional substance with hyperglycemic properties. They described glucagon in 1923. The amino acid sequence of glucagon was described in the late 1950s. A more complete understanding of its role in physiology and disease was not established until the 1970s, when a specific radioimmunoassay was developed.
+
+A nasal version was approved for use in the United States and Canada in 2019.
+
+On 10 December 2020, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal product Ogluo, intended for the treatment of severe hypoglycemia in diabetes mellitus. The applicant for this medicinal product is Xeris Pharmaceuticals Ireland Limited. It was approved for medical use in the European Union in February 2021.
+
+References
+
+External links
+ 
+ 
+ 
+
+Drugs acting on the cardiovascular system
+Eli Lilly and Company brands
+World Health Organization essential medicines
+Wikipedia medicine articles ready to translate

@@ -1,0 +1,115 @@
+Le diagnostic prénatal (DPN) ou diagnostic anténatal (DAN) est l'ensemble des pratiques médicales ayant pour but de détecter in utero chez l'embryon ou le fœtus une affection grave (anomalie génétique ou malformation congénitale, par exemple), afin de donner aux futurs parents le choix d'interrompre ou non la grossesse et de permettre une meilleure prise en charge médicale de la pathologie si la grossesse est poursuivie.
+
+Le diagnostic prénatal ne consiste pas en de la médecine préventive au sens où, selon la Haute Autorité de la Santé, la prévention consiste à éviter l'apparition, le développement ou l'aggravation de maladies ou d'incapacités. Sont classiquement distinguées la prévention primaire qui agit en amont de la maladie (ex : vaccination et action sur les facteurs de risque), la prévention secondaire qui agit à un stade précoce de son évolution (dépistages), et la prévention tertiaire qui agit sur les complications et les risques de récidive.
+
+Note : le diagnostic se distingue du dépistage. . Un diagnostic est alors proposé aux femmes à risques. Le diagnostic consiste dans l’analyse des chromosomes du fœtus à partir d’un prélèvement invasif (amniocentèse ou choriocentèse).
+
+Techniques 
+Les méthodes invasives se distinguent des méthodes non invasives selon que la méthode d’exploration médicale nécessite ou non une lésion de l’organisme.
+
+Un diagnostic prénatal génétique est un examen soit chromosomique (analyse génétique par caryotype) soit de biologie moléculaire (identification des anomalies génétiques à partir de la biologie moléculaire).
+
+Techniques non invasives
+
+Échographie 
+
+L’échographie est la principale et la plus courante des méthodes de diagnostic prénatal. En France, il est ainsi obligatoire de pratiquer trois examens échographiques, à 12, 21, puis 33 semaines d’aménorrhée.
+
+Cette technique permet, grâce à l’utilisation d’ultrasons, de voir le bébé par image de synthèse. Elle permet de contrôler l’avancée de la grossesse et détecte un certain nombre de malformations ou de signes avant-coureurs de maladies génétiques. Par exemple, cet examen est l’un des trois composants du « triple test » en vue du dépistage de la trisomie 21, car il permet la mesure de l’épaisseur de la nuque, signe d’appel de cette affection.
+
+Le premier examen échographique permet d'exclure des malformations de l'utérus et des tumeurs génitales, de déterminer le nombre de fœtus, de constater la vitalité du/des fœtus, de vérifier l'âge gestationnel en mesurant la longueur vertex-coccyx, de mesurer l'œdème nucal du fœtus et de vérifier la morphologie (tête, thorax, extrémités).
+
+Le  a pour but principal l'observation de l'anatomie fœtale, afin de montrer directement des malformations fœtales ou de les suspecter à l'aide d'indices indirects. La quantité de liquide amniotique est aussi évaluée, ainsi que la position et la morphologie du placenta.
+
+Le  doit permettre d’évaluer le développement fœtal, le fonctionnement régulier du placenta ainsi que le positionnement exact du fœtus et les problèmes éventuels de cordon ombilical en vue de l’accouchement.
+
+Tests génétiques non invasifs 
+Depuis plusieurs années sont proposés des tests génétiques à partir d'une simple prise de sang de la mère. L'objectif principal de ces tests est le dépistage de la trisomie 21 bien que la technologie permette de détecter d'autres trisomies comme la 18 ou 13, mais aussi des syndromes plus rares comme le syndrome de DiGeorge.
+
+Lancés initialement par des entreprises américaines telles que Sequenom, aujourd'hui de nombreux acteurs américains, européens et asiatiques proposent ce type d'analyse.
+
+L'avantage principal est l'efficacité avec un taux de détection approchant les 100 % (en général entre 99 % et 99,5 %), et un nombre de faux positifs extrêmement faible, inférieur à 1 %, réduisant grandement le nombre d'amniocentèses.
+
+Toutefois des sociétés savantes comme L'Association des Biologistes Agréés en France mettent en garde contre le risque d'une substitution totale des méthodes traditionnelles par ce type de test non invasif. En effet, si ceux-ci sont extrêmement fiables, ils sont également uniquement focalisés sur ce qu'ils promettent tandis que les méthodes traditionnelles, moins fiables sur une maladie en particulier, permettent d'attirer l'attention des médecins sur un nombre bien plus important de maladies de la grossesse.
+
+Coûtant plusieurs centaines d'euros, ces tests ne sont généralement pas pris en charge par les systèmes de santé, mais des mutuelles privées commencent à inclure ce test dans leurs catalogues.
+
+Techniques invasives 
+La fœtoscopie consiste à introduire le fœtoscope à l’intérieur de l’utérus pour observer le fœtus, soit pour permettre un prélèvement de sang de fœtus au moyen d’un prélèvement sur un vaisseau du cordon ombilical ou de la plaque choriale, ou encore pour prélever des tissus du fœtus afin d’effectuer des examens de recherche de maladies génétiques. 
+
+Cependant, le progrès de l’échographie et la mise en place de nouvelles techniques de ponction du sang du cordon ombilical, ajoutée à la dangerosité de cette méthode – accouchement prématuré, fausses couches –, conduisent peu à peu à son abandon, sauf pour certaines pathologies très ciblées.
+
+Le prélèvement des villosités choriales (CVS pour  en anglais), ou choriocentèse, ou encore biopsie du trophoblaste, permet un examen génétique plus précoce (- semaine de grossesse). Cette technique comporte un risque de fausse-couche de 1 à 2 %, puisqu’elle consiste à prélever par voie transcervicale ou, plus souvent, transabdominale, à l’aide de l’échographie, de petites quantités de chorion.
+
+L’amniocentèse est la méthode la plus connue de diagnostic prénatal. Elle consiste à prélever grâce à une aiguille, guidée par échographie, 15- de liquide amniotique, qui contient des cellules fœtales appelées. Le plus souvent, ce prélèvement a lieu entre la  et la  de grossesse, bien qu’il puisse avoir lieu à partir de la  jusqu’à la , voire après. Le taux de fausses-couches à la suite de cette pratique est de 0,5 à 1 %. La technique doit permettre la recherche dans les cellules du liquide amniotique des anomalies génétiques, en établissant un caryotype, ou par biologie moléculaire.
+
+Enfin, la cordocentèse est la ponction échoguidée pratiquée dans le cordon ombilical, de préférence au niveau de la veine, pour prélever du sang fœtal. Généralement pratiquée aux alentours de la , la perte fœtale liée à cette méthode est comprise entre 0,5 et 1,9 %.
+
+Résultats 
+La partie précédente a mis en évidence les risques liés aux techniques de DPN. Ces risques ne sont pas négligeables et constituent une partie de la réflexion éthique liée au DPN. On peut en effet s’interroger sur la légitimité des risques que l’on fait courir au fœtus lors du test.
+
+Cependant, pour comprendre le DPN, il faut aussi s’intéresser à ses résultats « concrets ».
+
+En 2010, l'Agence de la biomédecine a enregistré la réalisation de  caryotypes, ce qui a entrainé l'identification de  anomalies et la réalisation de  IMG. Autrement dit, 8,2 % des caryotypes contenaient des anomalies et 64 % d’entre eux ont subi une IMG.
+
+Pour les diagnostics prénataux de génétique moléculaire, en 2009, l'Agence de la biomédecine a enregistré la réalisation de  de génétique moléculaire. Ceci a entrainé l'identification de 544 cas de fœtus atteints de maladie génétique et la réalisation de 447 IMG. Le diagnostic a donc été positif dans 19,8 % des cas, pour lesquelles une IMG a été pratiquée dans 82,2 % des cas.
+
+Législations
+
+En Europe 
+Le DPN est autorisé dans toute l’Europe, à l’exception de l’Irlande. Huit (8) pays n’ont pas de législation en la matière. Il existe cependant des différences entre les États. Par exemple, en Pologne, la date limite pour un DPN est de 22 semaines. À Malte, le Comité des Affaires Sociales du Parlement a précisé dans son rapport de 2005 que le DPN devrait être autorisé uniquement pour des affections pour lesquelles des options thérapeutiques existent. Cependant, tous les pays interdisent le DPN à des fins non médicales (choix du sexe par exemple).
+
+En France 
+L’article L2131-1 du Code de la santé publique, issu de la loi de bioéthique de  énonce que  La loi demande que la femme enceinte reçoive une information claire au sujet de ces techniques, afin
+
+Aspects éthiques
+
+Aspects généraux 
+Le DPN a un intérêt pour les pathologies que l’on sait traiter, notamment par un traitement médicamenteux ou une opération in utero, ou lorsqu’il permet une bonne préparation des parents à l’accueil d’un bébé malade. Cependant, tous les diagnostics ne sont pas aussi fiables, ce qui est source de difficultés et d’inquiétudes parfois inutiles : il y a toujours un risque de faux négatifs ou de faux positifs. Par exemple, en ce qui concerne la trisomie 21, il y a environ 5 % de faux positifs et 10 % de faux négatifs. Les maladies génétiques présentent encore peu de perspective de guérison, et on observe alors une forte incitation à l’IMG, au point qu’elle apparait bien souvent comme la suite logique du DPN si celui-ci se révèle positif pour une maladie génétique.
+
+L'objectif de ce dépistage est de donner aux femmes enceintes ou aux couples des éléments d'information les plus fiables possibles sur le niveau de risque de T21 de leur enfant à naître afin de leur permettre de décider librement, après une information objective et éclairée, de la poursuite ou non de leur grossesse, si une trisomie 21 foetale a été diagnostiquée. Depuis la mise en place du dépistage de la trisomie 21 en 1997, la procédure de dépistage a évolué et l'arrêté du 23 juin 2009 a fixé son organisation
+
+Aspects problématiques 
+
+Les détracteurs du DPN expliquent que la pratique qui en est faite est souvent loin de l’objectif cité plus haut. Selon eux, bien souvent, le diagnostic se fait dépistage, en vue de l’élimination des fœtus mal formés. On peut souligner, en suivant ici le Conseil d’État, que le cas de la trisomie 21 est pour le moins inquiétant de l’utilisation qui est faite du DPN aujourd’hui et appelle à la vigilance. Pour 96 % d’entre eux, la détection est suivie d’une IMG,  On pourrait voir ici le début d’une pratique de sélection systématique d’une population, en vue de sa suppression pour non-conformité avec un critère de vie donné – c'est-à-dire une pratique eugénique.
+ 
+À ce titre, le DPN pose un réel problème, puisqu’il débouche le plus souvent sur une IMG en cas d’anomalie. C'est pourquoi le Conseil d’État et des associations de défenses des handicapés s’interrogent sur la façon dont notre société perçoit, accueille et vit le handicap et que certaines associations, comme la Fondation Jérôme-Lejeune, contestent la systématisation du DPN.
+
+Depuis 2011, le médecin a l’obligation de proposer à toutes les femmes enceintes un DPN, et particulièrement le dépistage de la trisomie 21. Comment réagissent-elles face à l’annonce de la maladie de l’enfant qu’elle porte et à la pression du corps médical ? Le plus souvent, le dépistage inquiète et c’est le choix de l'IMG qui est fait.
+
+Cette obligation d’information est pourtant en contradiction avec un droit fondamental défendu par le Comité consultatif national d'éthique : le droit de ne pas savoir. Si une mère désire ne pas savoir, étant prête à accueillir son enfant quel que soit son état, le rôle des médecins est de l’aider dans cette tâche. Pourtant, il existe encore peu de traitement des maladies génétiques.
+
+Cependant, la nouvelle technique de DPN, le PraenaTest, pourrait être une avancée apportant fiabilité et sécurité. Pourtant, les opposants font valoir les mêmes arguments. Si le risque de fausse couche est éliminé et le diagnostic plus certain, le risque est grand d’une banalisation de la détection de la trisomie 21 , qui aboutira à une quasi-éradication des fœtus porteurs. Les fœtus sains seront préservés, mais ceux anormaux seront tous éliminés, à plus ou moins longues échéances, ce qui est, toujours selon les opposants, faire preuve de discrimination entre les embryons…
+
+Pour eux, si on ne peut qu’être soulagé d’avoir écarté le risque de fausse couche, la fiabilité du diagnostic associée à l’inexistence d’un traitement et à la peur de la maladie génétique risque de conduire à une systématisation plus grande encore de la suppression des embryons porteurs d’anomalies. Si, aujourd’hui, 96 % des embryons détectés porteurs de la trisomie 21 sont supprimés qu’en sera-t-il demain, lorsque le test de dépistage sera plus fiable ?
+
+Statut dans les différentes religions
+
+Christianisme 
+Selon l'Eglise catholique, le diagnostic prénatal devrait avoir pour finalité la prise en charge médicale des anomalies détectées. Il faut un changement de regard sur le handicap. Voila ce qui est écrit dans "Dignitatis Personae": "Le diagnostic préimplantatoire est une forme de diagnostic prénatal, lié aux techniques d’insémination artificielle. Il comporte le diagnostic génétique des embryons obtenus in vitro, avant leur transfert dans l’utérus. Cette technique est utilisée dans le but d’avoir la certitude de ne transférer à la mère que des embryons exempts de tout défaut ou bien des embryons d’un sexe déterminé ou encore dotés de certaines qualités.
+
+Alors que dans les formes de diagnostic prénatal, la phase diagnostique est bien séparée de la phase d’éventuelle élimination du fœtus et que, dans cet intervalle, les couples demeurent libres d’accueillir l’enfant malade, le diagnostic préimplantatoire précède ordinairement l’élimination de l’embryon « suspect » d’avoir des défauts génétiques ou chromosomiques, ou de l’embryon porteur d’un sexe non désiré ou de qualités non voulues. Ce diagnostic - toujours associé à la fécondation artificielle qui est déjà intrinsèquement illicite - vise en réalité une sélection qualitative avec pour conséquence la destruction des embryons, ce qui se traduit par une forme de pratique abortive précoce. Le diagnostic préimplantatoire est donc l’expression de cette mentalité eugénique « qui accepte l'avortement sélectif pour empêcher la naissance d'enfants affectés de différents types d'anomalies. Une pareille mentalité est ignominieuse et toujours répréhensible, parce qu'elle prétend mesurer la valeur d'une vie humaine seulement selon des paramètres de "normalité" et de bien-être physique, ouvrant ainsi la voie à la légitimation de l'infanticide et de l'euthanasie »[42].
+
+En traitant l’embryon humain comme un simple « matériau de laboratoire », on opère une altération et une discrimination en ce qui concerne la notion même de la dignité humaine. La dignité appartient de façon égale à chaque être humain et ne dépend ni du projet parental, ni de la condition sociale ou de la formation culturelle, ni du stade de la croissance physique. Si, à d’autres époques, tout en acceptant généralement le concept ainsi que les exigences de la dignité humaine, on a pratiqué la discrimination pour des motifs de race, de religion ou de statut social, on assiste aujourd’hui à une non moins grave et injuste discrimination qui conduit à ne pas reconnaître le statut éthique et juridique des êtres humains affectés de graves maladies et handicaps: on en vient ainsi à oublier que les personnes malades et les handicapés ne forment pas une sorte de catégorie à part ; la maladie ou le handicap font partie de la condition humaine et concernent tout le monde à titre personnel, même quand on n’en fait pas l’expérience directe. Une telle discrimination est immorale et doit donc être considérée comme juridiquement inacceptable ; de même, on doit éliminer les barrières culturelles, économiques et sociales, qui minent la pleine reconnaissance et la protection des handicapés et des malades."
+
+Islam
+
+Judaïsme 
+Les juifs admettent le DPN mais proscrivent celui de la trisomie parce qu’il « ne sert pas un intérêt thérapeutique ». L’islam établit la même distinction.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Bioéthique
+ Diagnostic préimplantatoire
+ Conseil génétique
+ Amniocentèse | Choriocentèse | Cordocentèse
+
+Lien externe 
+ Association pour un conseil global concernant le diagnostic prénatal (Suisse)
+
+Bioéthique
+Obstétrique
+Dépistage et diagnostic en gynécologie-obstétrique

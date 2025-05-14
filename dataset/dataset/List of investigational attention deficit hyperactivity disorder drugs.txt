@@ -1,0 +1,177 @@
+This is a list of investigational attention deficit hyperactivity disorder drugs, or drugs that are currently under development for clinical use in the treatment of attention deficit hyperactivity disorder (ADHD) but are not yet approved. Chemical/generic names are listed first, with developmental code names, synonyms, and brand names in parentheses.
+
+Under development
+
+Preregistration
+ Dextroamphetamine [transdermal system] (ATS, d-ATS, SPD-487) - norepinephrine–dopamine releasing agent 
+ TRN-110 [extended-release] - undefined mechanism
+
+Phase 3 clinical trials
+ Centanafadine [sustained-release] (centanafadine SR, CTN-SR, EB-1020, EB-1020 SR) - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ Molindone [extended-release] (AFX-2201, EN-1733A, molindone XR, SPN-810, SPN-810M, Zalvari) - antipsychotic / dopamine D2 receptor antagonist and serotonin receptor modulator (e.g., serotonin 5-HT2B and 5-HT2A receptor antagonist) - specifically under development for impulsive aggression in ADHD 
+ Serdexmethylphenidate (KP-484) - dexmethylphenidate prodrug / norepinephrine–dopamine reuptake inhibitor
+
+Phase 2/3 clinical trials
+ Edivoxetine (LY-2216684) - norepinephrine reuptake inhibitor
+
+Phase 2 clinical trials
+ CX-717 - ampakine / AMPA receptor modulator 
+ Mazindol [controlled release] (NLS-0, NLS-1, NLS-10, NLS-13, NLS-2, Nolazol, Quilience) - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ PDC-1421 (BLI-1005) - norepinephrine reuptake inhibitor
+
+Phase 1/2 clinical trials
+ Dexmethylphenidate [controlled release] (CTX-1301) - norepinephrine–dopamine reuptake inhibitor
+
+Phase 1 clinical trials
+ AFX-2401 - "neurotransmitter modulator" 
+ Atomoxetine [oral solution] (TAH-9922) - norepinephrine reuptake inhibitor 
+ Brilaroxazine (RP-5000, RP-5063) - atypical antipsychotic / dopamine receptor partial agonist and serotonin receptor modulator 
+ Dextroamphetamine [abuse-deterrent immediate-release] (ADAIR) - norepinephrine–dopamine releasing agent 
+ Phacetoperane (NLS-3) - methylphenidate analogue / central nervous system stimulant / norepinephrine–dopamine reuptake inhibitor (?)
+
+Preclinical/research
+ Atomoxetine [oral suspension] - norepinephrine reuptake inhibitor 
+ Dextroamphetamine [controlled release] (CTX-1302) - norepinephrine–dopamine releasing agent 
+ Methylphenidate [extended-release/abuse-resistant] (COL-171) - norepinephrine–dopamine reuptake inhibitor 
+ Methylphenidate/naltrexone (AVK-001) - norepinephrine–dopamine reuptake inhibitor and opioid receptor antagonist 
+ NLS-8 - undefined mechanism 
+ NNI-351 - DYRK1A inhibitor and "neurogenesis enhancer" 
+ SHX-009 [transdermal system] - norepinephrine–dopamine reuptake inhibitor
+
+No development reported
+ AFI-002 - undefined mechanism 
+ Altropane (123-I Altropane®, [123I]-E-IACFT Injection, [123I]NAV5001, CFT, Iodine-123-E-IACFT Injection, NAV-5001, O-587) - dopamine reuptake inhibitor / single-photon emission-computed tomography enhancer 
+ Amphetamine [oral abuse-deterrent immediate-release] (ADAIR) - norepinephrine–dopamine releasing agent 
+ Bavisant (BEN-2001, JNJ-1074, JNJ-31001074) - histamine H3 receptor antagonist 
+ BCWP-E003 - undefined mechanism 
+ BLI-1008 - undefined mechanism 
+ Cannabidiol/gabapentin (Cannbleph) - cannabinoid receptor modulator and gabapentinoid 
+ Ciforadenant (CPI-444, V-81444) - adenosine A2A receptor antagonist 
+ CM-4612 (CM-ADHD, CM-AT, CM-PK) - gastrointestinal/pancreatic enzyme replacement therapy 
+ CRD-102 - undefined mechanism 
+ Dasotraline (DSP-225289, SEP-225289, SEP-0225289, SEP-225289-HCI, SEP-289) - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ Dextroamphetamine [abuse-resistant] (PF-08, PFR 08001, PFR08026) – norepinephrine–dopamine releasing agent 
+ Dextroamphetamine sulfate [modified release capsules] (HLD-900, HLD-100) - norepinephrine–dopamine releasing agent 
+ Dopamine [intranasal] (DopaMat, MPP-18) - dopamine receptor agonist 
+ Eltoprazine (DU-28853) - serotonin 5-HT1A and 5-HT1B receptor agonist 
+ Fasoracetam [co-crystallised] (AEVI-004, NFC-1) - racetam / metabotropic glutamate receptor modulator 
+ GTS-21 (DMXB-A, DMXB-A sustained release, DMXB-A-SR) - α7 nicotinic acetylcholine receptor agonist 
+ Guanfacine [once-daily] (Guanfacine Carrier Wave, SPD-547) - α2-adrenergic receptor agonist 
+ IPX-233 (IPX233 ER C0003, IPX233-C0001, IPX233-C0002, IPX233-T0001, IPX233-T0002) - central nervous system stimulant 
+ Masupirdine (M1, M1 of SUVN-502, SUVN-502, SVN-502) - serotonin 5-HT6 receptor antagonist 
+ Methylphenidate [fast dissolve tablet] [Samyang Holdings Biopharmaceuticals] - norepinephrine–dopamine reuptake inhibitor 
+ Nic-12 - undefined mechanism 
+ NLS-2 - antianaemic / heavy metal / iron replacement 
+ PD-3044 - dopamine reuptake inhibitor 
+ Pitolisant (tiprolisant; BF-2.649, BF-2649, Ozawade, Wakix) - histamine H3 receptor antagonist 
+ R-Sibutramine metabolite ((+)-desmethylsibutramine, (+)-didesmethylsibutramine, R-DDMS, R-desmethylsibutramine, R-didesmethylsibutramine) - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ Selegiline [transdermal] (Emsam) - monoamine oxidase B inhibitor 
+ SKL-13865 (SKL-ADHD) - norepinephrine–dopamine reuptake inhibitor 
+ Sofinicline (A-422894.0, ABT-894) - α4β2 nicotinic acetylcholine receptor modulator 
+ SPN-811 - undefined mechanism 
+ Taminadenant (NIR-178, PBF-509) - adenosine A2A receptor antagonist
+
+Research programmes
+ Ampakines / AMPA receptor modulators [RespireRx] (CX-516, CX-614, CX-707, CX-929, CX-1501, CX-1763, CX-1796, CX-1837, CX-1846, CX-1942, CX-2007, CX-2076) 
+ Cannabis extracts [Cannabis Science] (CBIS GAP-001, CBIS LC-001, CBIS OBLD-001, CBIS OCD-001, CBIS PC-001, CBIS PPC-001, CBIS PS-001, CBIS SD-001, CBIS SSA-001, CBIS-OS-001, CBIS-PTSD-001, CS NEURO 1, CS-S/BCC-1, CS-TATI-1) - cannabinoid receptor modulators 
+ Norepinephrine reuptake inhibitors / adrenergic receptor antagonists [Pfizer] (NRI-022, NRI-193, WAY-253203, WAY-256805, WAY-260022, WAY-315193, WAY-318068) 
+ Pim2 / PolyPhetamine [ITL Pharma] 
+ Subtype-selective glutamate NMDA receptor modulators / glutamate NR2B receptor modulators [Novartis]
+
+Not under development
+
+Development discontinued
+ ABT-418 - nicotinic acetylcholine receptor agonist 
+ Amphetamine [transdermal patch] [Noven/Takeda] - norepinephrine–dopamine releasing agent 
+ Ampreloxetine (TD-9855) - norepinephrine reuptake inhibitor 
+ AR-08 - adrenergic receptor agonist 
+ Aripiprazole (Abilify, Abilify Maintena, Abilify MyCite, Abilitat, Ao Pai, Aripiprazole depot, Aripiprazole ECER tablets, Arlemide; OPC-14597, OPC-14597 IMD, OPC-31) - atypical antipsychotic / dopamine receptor partial agonist and serotonin receptor modulator 
+ AZD-5213 - histamine H3 receptor antagonist 
+ Bifemelane (SON-216) - monoamine oxidase inhibitor and weak norepinephrine reuptake inhibitor 
+ Bradanicline (ATA-101, TC-0569, TC-5619, TC-5619-238) - α7 nicotinic acetylcholine receptor agonist 
+ Brexpiprazole (Rexulti, Rxulti; Lu-AF41156, OPC-34712, OPDC-34712) - atypical antipsychotic / dopamine receptor partial agonist and serotonin receptor modulator 
+ Buspirone [transdermal] (BuSpar Patch) - serotonin 5-HT1A receptor partial agonist, other actions 
+ Cipralisant (GT-2331; Perceptin) - histamine H3 receptor antagonist 
+ CX-516 (1-BCP, AMPAlex, BDP-12, SPD-420) - ampakine / AMPA receptor modulator 
+ CX-1739 - ampakine / AMPA receptor modulator 
+ Donepezil (Aricept, Aricept D, Aricept Dry Syrup, Aricept Evess, Aricept ODT, Aricept SR, Donepezil SR, E-2020, E-2022, Eranz) - acetylcholinesterase inhibitor 
+ Droxidopa (3,4-dihydroxyphenylserine, 3,4-threo-DOPS, L-threo-dihydroxyphenylserine, L-threodops, Northera, threo-dopaserine, threo-DOPS) - prodrug of norepinephrine / adrenergic receptor agonist 
+ Fasoracetam (AEVI-001, LAM-105, MDGN-001, NFC-1, NS-105) - racetam / metabotropic glutamate receptor modulator 
+ Ispronicline (AZD-3480, RJR-1734, TC 01734, TC-1734, TC-1734-112) - α4β2-nicotinic acetylcholine receptor agonist 
+ KP-106 (dextroamphetamine prodrug oral film) - norepinephrine–dopamine releasing agent 
+ Lauflumide (flmodafinil, bisfluoromodafinil; NLS-14, NLS-4) - weak dopamine reuptake inhibitor, possibly other actions 
+ Manifaxine (BW-1555U88, GW-320659) - norepinephrine–dopamine reuptake inhibitor 
+ Mecamylamine (Inversine, Tridmac) - nicotinic acetylcholine receptor antagonist 
+ MEM-68626 - 5-HT6 receptor antagonist 
+ Metadoxine [sustained/extended-release] (pyridoxine-pyrrolidone carboxylate, pyridoxine pidolate; MDX, metadoxine SR, MG-01CI) - serotonin 5-HT2B receptor antagonist, GABA modulator, other actions 
+ Methylphenidate [transdermal patch] (TAH-9901) - norepinephrine–dopamine reuptake inhibitor 
+ MK-0249 - histamine H3 receptor antagonist 
+ Modafinil (AFT-801, Alertec, Attenace, CN-801, CRL-40476, Modasamil, Modasonil, Modavigil, Modiodal, Provigil, Sparlon, Vigil) - weak dopamine reuptake inhibitor, possibly other actions 
+ Nicotine/opipramol (ND-0801; opipramol/nicotine) - tricyclic antidepressant / monoamine and sigma receptor modulator and nicotinic acetylcholine receptor agonist 
+ NS-2359 (GSK-372475) - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ OPC-64005 - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ ORG-26576 (ORG26576) - ampakine / AMPA receptor modulator 
+ PF-3654746 (PF-03654746) - histamine H3 receptor antagonist 
+ Pirepemat (IRL-752) - "cortical enhancer" / serotonin 5-HT7 receptor antagonist and α2C-adrenergic receptor antagonist, other actions 
+ Pozanicline (A-87089.0, ABT-089) - α4β2 nicotinic acetylcholine receptor agonist 
+ SEP-225432 - serotonin–norepinephrine–dopamine reuptake inhibitor 
+ SGS-742 (CGP-36742, DVD-742, Lu-AE58479, SGS-742) - GABAB receptor antagonist 
+ SPD-483 - undefined mechanism 
+ SPD-554 (Guanfacine Carrier Wave project) - α2-adrenergic receptor agonist 
+ SPI-339 (NEO-339) - undefined mechanism 
+ TAK-137 - AMPA receptor potentiator 
+ TC-6683 (AZD 1446, TC-6683) - α4β2 nicotinic acetylcholine receptor agonist 
+ Tipepidine [sustained-release] (TS-141) - GIRK inhibitor 
+ Vortioxetine (Brintellix, LU-AA21004, LuAA 21004, Trintellix) - antidepressant / serotonin reuptake inhibitor and serotonin receptor modulator
+
+Research programmes
+ Potassium channel modulators [Astellas Pharma/Icagen]
+
+Formal development never or not yet started
+ Dopamine precursors (L-phenylalanine, L-tyrosine, L-DOPA (levodopa))
+
+Clinically used drugs
+
+Approved drugs
+
+Norepinephrine–dopamine releasing agents
+ Amphetamine (Adzenys ER, Adzenys XR-ODT, Dyanavel XR, Evekeo, Evekeo ODT)    
+ Dextroamphetamine (Dexedrine, Zenzedi) 
+ Fenethylline (Biocapton, Captagon, Fitton) - amphetamine and theophylline prodrug - discontinued/no longer used
+ Lisdexamfetamine (Elvanse, Tyvense, Venvanse, Vyvanse) 
+ Methamphetamine (dextromethamphetamine; Desoxyn, Methampex)  
+ Mixed amphetamine salts (Adderall, Adderall IR, Adderall XR, Mydayis) 
+ Pemoline (Betanamin, Ceractiv, Cylert, Tradon) - withdrawn/discontinued due to toxicity
+
+Norepinephrine–dopamine reuptake inhibitors
+ Dexmethylphenidate (Focalin, Focalin XR) 
+ Methylphenidate (Adhansia XR, Aptensio XR, Benjorna, Biphentin, Concerta, Cotempla XR-ODT, Daytrana, Equasym, Foquest, Jornay PM, Metadate, Metadate CD, Metadate ER, Methydur, MethyPatch, Oradur, QuilliChew ER, Quillivant XR, Ritalin, Ritalin SR)             
+ Serdexmethylphenidate/dexmethylphenidate (Azstarys)
+
+Norepinephrine reuptake inhibitors
+ Atomoxetine (tomoxetine; Strattera) 
+ Viloxazine [extended-release] (Qelbree)
+
+α2-Adrenergic receptor agonists
+ Clonidine (Catapres, CloniBID, Clonicel, Jenloga XR, Kapvay) 
+ Guanfacine (Connexyn, Intuniv, Intuniv XR, Tenex)
+
+Off-label drugs
+ Bupropion (Wellbutrin) - norepinephrine–dopamine reuptake inhibitor and nicotinic acetylcholine receptor antagonist
+ Modafinil (Provigil) - weak dopamine reuptake inhibitor, possibly other actions
+ Reboxetine (Edronax) - norepinephrine reuptake inhibitor
+ Serotonin–norepinephrine reuptake inhibitors (e.g., venlafaxine (Effexor), duloxetine (Cymbalta))
+ Tricyclic antidepressants (e.g., desipramine (Norpramin) – norepinephrine reuptake inhibitor)
+
+See also
+ List of investigational drugs
+
+References
+
+Further reading
+
+External links
+ AdisInsight - Springer
+
+Attention deficit hyperactivity disorder drugs, investigational
+Experimental drugs

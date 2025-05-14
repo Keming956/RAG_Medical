@@ -1,0 +1,110 @@
+En bâtiment, le diagnostic immobilier est la démarche par laquelle un diagnostiqueur professionnel évalue un bâtiment selon des indicateurs ou critères propres à l'objet de l'étude. En France plusieurs domaines sont à obligatoirement diagnostiquer en fonction de l'année de construction du bien, de sa localisation, si c'est pour une vente, location ou avant travaux, avant démolition ou autres et de l'ancienneté des installations de gaz et d'électricité.
+
+Définition 
+Un diagnostic immobilier est un contrôle d'un local (d'habitation ou pas) réalisé par un diagnostiqueur professionnel avant la vente, la location, la réalisation de travaux ou d'une démolition ou autres. 
+Ces diagnostics sont regroupés dans un DDT (Dossier de Diagnostics Techniques)
+ce dernier doit être remis, au plus tard, le jour de la signature de l'acte authentique si c'est dans le cadre d'une vente ou à la signature du bail dans le cas d'une location . Excepté le diagnostic de performance énergétique qui, lui, doit être réalisé au moment de la parution de l'annonce immobilière.
+
+La liste des diagnostics immobiliers obligatoires dépend de plusieurs critères : 
+ Vente, location, avant travaux, avant démolition ou autres... 
+ Le type de bien : maison, appartement, commerce...
+ La date de construction du bien
+ L'implantation géographique du bien
+ L'ancienneté des installations de gaz et d'électricité
+
+Les diagnostics immobiliers doivent être réalisés par un diagnostiqueur formé et certifié, à l’exception du diagnostic ERNMT (État des Risques Naturels, Miniers et Technologiques) qui peut être réalisé directement par le propriétaire en ligne sur des sites spécialisés.
+La réalisation des diagnostics est à la charge du propriétaire du bien. Ils doivent être réalisés par des techniciens certifiés (ndlr : chaque diagnostic possède sa propre certification). Il faut vérifier que l'entreprise choisie a une responsabilité civile professionnelle et que les techniciens sont certifiés sur l'ensemble des diagnostics car en cas de litige, la transaction peut être remise en cause. La production de ces diagnostics exonère le vendeur de la garantie des vices cachés, mais encore faut-il que les contrôles aient été réalisés correctement.
+
+Les diagnostics immobiliers
+
+Les diagnostics régis par la date du permis de construire
+
+Le diagnostic Amiante 
+L’amiante est un matériau hautement cancérigène qui est interdit d'utilisation, en France depuis le  janvier 1997. Il est responsable de nombreux cancers et maladies professionnelles.
+Pour lutter contre le risque amiante, différents diagnostics amiante ont été mis en place. Ils doivent être réalisés sur les biens dont le permis de construire datent d’avant le  juillet 1997 ().
+Pour vendre une maison ou un appartement on doit faire réaliser un diagnostic amiante avant vente.
+Pour la location d’un appartement c’est le diagnostic amiante des parties privatives (DAPP) qui doit être réalisé à la demande du propriétaire et être tenu à disposition du locataire sans pour autant faire partie du DDT (dossier de diagnostics techniques). 
+La réalisation de travaux ou de démolition doivent être précédés d’un diagnostic amiante avant travaux ou d’un diagnostic amiante avant démolition pour assurer la sécurité des travailleurs.
+
+Le diagnostic Plomb 
+Le plomb était autrefois utilisé notamment dans les peintures intérieures et extérieures. La présence de plomb dans les revêtements (principalement les peintures) est nocive notamment pour la santé des jeunes enfants (qui ont tendance à tout porter à leurs bouches) et des femmes enceintes dans le cas où ces peintures sont poncées. Le plomb est à l’origine du saturnisme, une intoxication qui peut provoquer des douleurs abdominales, des anémies ou encore de l'hypertension artérielle.
+Le diagnostic plomb, que l'on appele CREP (Constat de Risque d’Exposition au Plomb) est obligatoire pour vendre, louer ou faire des travaux sur un bien construit avant le  janvier 1949. (articles L. 1334-5 et suivants et R. 1334-1 et suivants du code de la santé publique).
+Le CREP porte exclusivement sur les locaux à d'usage d'habitation (ou logements) et sur les parties communes de bâtiments à usage d'habitation.
+
+Le diagnostic Termites 
+Certaines communes sont soumises à un arrêté préfectoral qui oblige la recherche de termites dans un bien avant la vente ou la réalisation de travaux (articles L. 133-4 et suivants et R. 133-1 et suivants du code de la construction et de l'habitation). Les termites sont des insectes dits xylophages qui se nourrissent de cellulose (bois, carton, papier, etc.). Ces insectes vivant dans la terre, ils sont à rechercher principalement dans les soubassements (cave, vide sanitaire) et aux abords immédiats  dans un périmètre de  autour du bâtiment objet du diagnostic.
+
+Le diagnostic État parasitaire 
+Ce diagnostic recherche la présence de champignons lignivores et d’insectes à larves xylophages. Complémentaire au diagnostic Termites il ne peut cependant pas le remplacer. L’État parasitaire n’est pas obligatoire mais vivement conseillé dans certaines régions à risques qui favorisent le développement de ces parasites du bois.
+
+Les diagnostics régis par l’ancienneté des installations
+
+Le diagnostic Gaz 
+Le diagnostic de sécurité des installations intérieures de gaz à usage domestique réalisé à l’occasion de la vente et de la location d’un bien immobilier à usage d’habitation (application de
+l’arrêté du 24 août 2010 modifiant l’arrêté du 6 avril 2007 définissant le modèle et la méthode de réalisation de l’état de l’installation intérieure de gaz). Depuis le  juillet 2017, il est également obligatoire dans le cas d'une location si l'installation de gaz du bien immobilier a plus de .
+
+Le diagnostic Électricité 
+Le diagnostic de l'état de l'installation intérieure de l'électricité est obligatoire dans le cadre de la vente et de la location d’un local d'habitation dont l’installation électrique a plus de  et pour tous les immeubles collectifs à usage d'habitation dont le permis de construire a été délivrée avant le  janvier 1975 (application du décret  du 11 août 2016 relatif à l'état de l'installation intérieure d'électricité dans les logements en location)
+
+Les diagnostics de calcul de la surface
+
+Le certificat de surface dit "Loi Carrez" 
+Ce mesurage atteste de la surface privative d’un lot en copropriété à la vente (logement ou non).
+
+L'attestation de surface habitable 
+Le mesurage de la surface habitable peut être réalisé dans le cadre d'une location si le propriétaire ne connaît pas la surface du logement mis en location. L'article 78 de la loi dite "Boutin" stipule que "le contrat de location précise la surface habitable du lot loué" . Le texte réglementaire de cette surface est l'article R. 111-2 du code de la construction et de l'habitation.
+
+Le DPE (Diagnostic de performance énergétique) 
+Il permet de donner une classe énergie à un bien allant de A à G, A indiquant que le bien a une excellente performance énergétique.
+Depuis le  janvier 2011, il est obligatoire d'afficher l'étiquette du rapport du DPE dans son annonce immobilière, quel que soit le support : sur Internet, sur magazine, en agence. Le DPE va évoluer en prenant en compte l’éclairage et la ventilation comme nouveaux usages énergétiques supplémentaires au  janvier 2021.
+
+Depuis le  juillet 2021, il est devenu opposable. Le législateur a intégré les évolutions suivantes :
+
+ La nouvelle méthode de calcul 3CL-DPE et la suppression du DPE vierge sur facture
+ De nouvelles étiquettes énergétiques avec une étiquette énergie devenue double-seuil
+ Une estimation des coûts annuels d’énergies et des bouquets de travaux recommandés
+ La diminution de la durée de validité des diagnostics DPE réalisés avant juillet 2021
+
+L’ERP (État des risques et pollutions) 
+L'État des Risques et Pollutions (ERP) est un document (et non un diagnostic) qui permet d’informer les futurs acquéreurs ou locataires des risques au droit d'un terrain bâti ou non bâti. Ils peuvent être naturels (inondations, mouvements de terrain, sismicité, risque RADON...), miniers ou technologiques (proximité d’un site SEVESO). (article L. 125-5 du code de l'environnement) 
+
+L'ERP est obligatoire et il est valable . Ce document doit regrouper de nombreuses informations telles que les informations sur les risques naturel et les pollutions de sols.
+
+Il existe des outils en ligne pour aider à regrouper ces informations.
+
+Autres risques 
+D'autres risques existent et peuvent être communiqués à l'acheteur, comme le risque Radon.
+
+La certification des diagnostiqueurs 
+Depuis le  novembre 2007, tous les diagnostiqueurs immobiliers, pour pouvoir exercer leur activité, doivent se faire certifier par un organisme indépendant et accrédité par le COFRAC (Comité français d'accréditation) selon la norme ISO 17024. La certification obtenue par le diagnostiqueur garantit à son client institutionnel ou privé qu’il est détenteur des compétences nécessaires pour réaliser le ou les diagnostics réglementaires.
+
+Elle concerne actuellement six diagnostics obligatoires pour la vente d'un bien immobilier : l'amiante, le plomb, le DPE (diagnostic de performance énergétique), les termites, le gaz et l'électricité.
+
+Le processus de certification comprend deux étapes : un examen théorique qui permet l'évaluation des connaissances théoriques requises pour chacun des diagnostics et un examen pratique, qui consiste en une mise en situation virtuelle du candidat pour évaluer son aptitude à la réalisation du diagnostic. Elle est d'une durée de 7ans depuis le  janvier 2020.
+
+La recertification des diagnostiqueurs 
+Depuis le  janvier 2020 à la suite de la parution d'un arrêté du 2 juillet 2018 portant sur l'allongement des durées de certifications des diagnostiquers immobiliers, à 7 ans, ceux, ayant déjà suivi un cycle de certification et validé les opérations de surveillance obligatoires (Surveillance documentaire et Contrôle sur Ouvrages) doivent demander la recertification de leur domaine de compétence.
+
+La durée de validité des diagnostics 
+Chaque diagnostic a sa propre durée de validité qui doit absolument être respectée pour mener à bien une transaction immobilière à terme. Ces durées peuvent être de 6 mois, 1 an, 3 ans, 6ans, 10 ans ou illimitée selon le diagnostic et la transaction.
+
+Dans le cadre de la vente
+
+Dans le cadre de la location
+
+Controverses sur la qualité ou les coûts des diagnostics
+La profession s'est organisée d'abord autour d'une fédération : la FIDI (fédération interprofessionnelle du diagnostic immobilier) puis quelques années plus tard par une  à la FNAIM, et une formation initiale et continue existe (avec une re-certification obligatoire tous les ), mais plusieurs modifications frauduleuses de certificats de compétence et des cas de poursuite d'activité professionnelle malgré une suspension des certifications depuis plusieurs années ont été repérées par la DGCCRF en 2014. 
+
+En France, des organisations de consommateurs et en 2014 un rapport de la DGCCRF (chargée de la répression des fraudes) dénonce des tarifications opaques, des anomalies de facturation et parfois même l'absence de documents...  Le rapport de la DGCCRF reconnait un recul des mauvaises pratiques de commissionnement et des pratiques de versement de commissions par le diagnostiqueur à des agences immobilières (selon les diagnostiqueurs), mais une majorité de 269 sociétés (de diagnostiqueurs) auditées présentait encore . Les fiches tarifaires détaillées présentées aux clients, quand elles existent sont complexes, . 38 avertissements et 6 injonctions concernaient une mauvaise information sur les prix et les conditions de vente ou sur les barèmes. 100 avertissements et 14 injonctions concernaient des anomalies de facturation (absence de mentions obligatoires, présence de mentions inutiles, non-remise de note). Et plusieurs sites Internet présentaient aussi des non-conformités à la loi sur la confiance dans l'économie numérique (juin 2004) avec des offres mensongères (diagnostics faussement gratuits ou déclaration abusive de détention d'agences). 19 avertissements et 12 injonctions concernaient la vente à distance et le démarchage. Près de 15 % des professionnels audités ne délivrent pas d'attestation sur l'honneur au consommateur, (alors que le décret du 11 octobre 2010 l'impose), mais tous ceux qui ont été audités avaient bien une assurance de responsabilité civile.
+
+En France, pour pouvoir produire des statistiques pertinentes et utiles, la loi oblige le diagnostiqueur à transmettre à l’ADEME tous les DPE faits pour les ventes ou locations d’un bâtiment ou d’un logement, et concernant la performance énergétique, l'ADEME dispose d'un observatoire et d'un outil en ligne permettant aux particuliers de vérifier sur Internet les aptitudes des diagnostiqueurs prévu par décret.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+
+Droit de l'urbanisme
+Droit immobilier
+ISO 17024

@@ -1,0 +1,40 @@
+Sanitarium – Der Wahnsinn ist in Dir (Originaltitel: Sanitarium) ist ein Point-and-Click-Adventure des US-amerikanischen Studios DreamForge Intertainment, das im Jahr 1998 veröffentlicht wurde.
+
+Handlung 
+Die Einführung in die Handlung beginnt mit einem Vorspann: Ein Mann – die Spielerfigur – gibt über Telefon bekannt, dass er ein nicht näher benanntes Problem gelöst habe. Bei strömendem Regen steigt er in ein Auto und fährt los. In einer Kurve versagen die Bremsen, er verliert die Kontrolle über das Auto und stürzt in einen Abgrund. Auch im weiteren Spielverlauf wird die Handlung mit zahlreichen animierten Zwischensequenzen weitererzählt.
+
+Zu Beginn des Spiels erwacht die Spielerfigur mit nunmehr komplett bandagiertem Kopf und ohne Kenntnis seines Namens oder seiner Herkunft in einem Turm, der Teil eines Psychiatrischen Sanatoriums zu sein scheint. Ab diesem Zeitpunkt übernimmt der Spieler die Steuerung. Es gilt, sich aus dem Sanatorium zu befreien und dabei die eigene Identität und Vergangenheit aufzudecken. Dabei wechselt die Figur zwischen verschiedenen Szenarien, die abwechselnd im Sanatorium und unterschiedlichen Fantasielandschaften spielen und scheinbar der wahnsinnigen Vorstellung der Spielfigur entstammen. Auch die körperliche Erscheinung der Spielfigur wechselt.
+
+Mit fortschreitender Spieldauer deckt der Spieler immer mehr Bruchstücke der Erinnerung auf. Die Spielfigur heißt demnach Max Laughton und ist Arzt. Traumatisiert durch den Tod seiner Schwester Sarah im Kindesalter hatte er sich als Erwachsener der Suche nach einem Heilmittel für eine mysteriöse Krankheit verschrieben. Doch die Firma, für die er arbeitet, besitzt bereits ein anderes Medikament, das sie trotz seiner Wirkungslosigkeit weiter profitbringend verkaufen will. Auch werden bei der Erforschung der Medikamente ethische Maßstäbe verletzt. Max, der mit seinem Forschungsansatz vor der Entdeckung eines wirksamen Medikaments steht, wird von Firmenchef Dr. Jacob Morgan sabotiert. Max drohte daher, mit seinen Forschungsergebnissen die Firma zu verlassen und seine Erkenntnisse an einen Mitbewerber zu verkaufen. Als er schließlich die Lösung findet, kommt es zum beschriebenen Introszenario. Da Morgan Max' Auto sabotierte, versagen die Bremsen und Max verunglückt schwer. Er wird ins Krankenhaus eingeliefert, wo er seither im Koma liegt.
+
+Da Max überlebt hat, versucht Dr. Morgan dessen Regeneration durch die Verabreichung unbekannter Drogen zu verhindern. Max muss die eingebildeten Horrorszenarien erfolgreich bestehen, um zu genesen und aus seinem Koma zu erwachen. Beendet der Spieler das Spiel erfolgreich, erfährt er während der abschließenden Credits, dass Dr. Morgan vor Gericht gestellt wurde, Max die Leitung des Konzerns übernommen hat und das neue Heilmittel erfolgreich auf den Markt gebracht wurde.
+
+Spielprinzip und Technik 
+Das Spiel wird aus einer isometrischen Überblicksperspektive mit vorgerenderten Hintergrundkulissen wiedergegeben, vor denen sich die zweidimensionalen, animierten Spielfiguren bewegen. Die Spielfigur wird mit Hilfe einer Point-and-Click-Steuerung durch die Spielwelt gesteuert. Bei gedrückt gehaltener rechter Maustaste bewegt sich die Figur in die vorgegebene Richtung. Mit der linken Maustaste werden Aktionen ausgeführt, wie die Betrachtung und Aufnahme von Gegenständen und Objekten, die Ansprache anderer Spielfiguren und die Kombination und Verwendung von Gegenständen mit Objekten der Spielwelt.
+
+Hauptbestandteil des Spiels ist die Lösung verschiedener Rätsel. Der Spieler erkundet die Levelkarte und versucht, mit Hilfe der Spielfiguren Hinweise auf den Ausgang aus dieser Fantasiewelt zu finden. Zumeist handelt es sich um Adventure-übliche Gegenstands- und Kombinationsrätsel. Durch Dialoge mit den Spielfiguren muss Max oftmals erst an die notwendigen Informationen für die Lösung der Rätsel gelangen. Max wechselt im Lauf der Handlung mehrfach seine Gestalt, zwischen einem kleinen Mädchen, einem vierarmigen Zyklopen und dem Aztekengott Olmec. Gegen Ende des Spiels ist der Wechsel zwischen diesen Gestalten Voraussetzung zur Lösung des Szenarios. In einigen Passagen gibt es zudem Actionsequenzen, in denen die Spielfigur gegnerische Kreaturen bekämpfen muss. Allerdings gibt es kein klassisches Game over, stattdessen wird die Spielfigur nach dem Verlust eines Kampfes an den Anfang der Actionsequenz zurückversetzt, von wo aus der Spieler die Sequenz wiederholen kann.
+
+Produktionsnotizen 
+Das Spiel wurde von Dreamforge Intertainment mit einem 37-köpfigen Entwicklerteam über 16 Monate entwickelt. Das Entwicklerstudio, das unter anderem mit den D&D-Rollenspielen Dungeon Hack, Menzoberranzan, Ravenloft: Der Fluch des Grafen und Ravenloft: Stone Prophet für SSI größere Aufmerksamkeit erzielte, bezeichnete den Titel als Meilenstein, weil es sich um eine vollständige Eigenentwicklung handelte. Einflüsse kamen unter anderem von den Filmen Jacob’s Ladder – In der Gewalt des Jenseits, Sieben und 12 Monkeys, sowie den Fernsehserien The Outer Limits und Twilight Zone. Um die verschiedenen Vorstellungen der Entwickler miteinander kombinieren zu können, entwarf Chris Straka, Director of Creative Development bei Dreamforge, das Konzept eines noch nicht näher bestimmten zentralen Knotenpunkts, der die verschiedenen Szenarien miteinander verbindet. Dadurch festigte sich auch das Konzept, die zahlreichen unterschiedlichen Gestaltungsideen als psychotische Episoden zu deklarieren. Das Projekt erhielt den Arbeitstitel Asylum, der ursprünglich auch als Titel vorgesehen war, jedoch bereits anderweitig in Benutzung war. Für die detaillierte Ausarbeitung der Handlung wurde schließlich Chris Pasetto als Autor engagiert.
+
+Für die Gestaltung der Spielwelt verwendete das Team real existierende Friedhöfe und Kirchen als atmosphärische Vorbilder. Aus den Levelskizzen wurden mit Hilfe der Software 3D Studio Max und nachbearbeitet mit Adobe Photoshop 3D-Modelle der Levels erstellt. Diese wurden schließlich als zweidimensionale Hintergrundbilder vorgerendert und zeigen das Geschehen aus einer isometrischen Perspektive. Die Engine wurde von Dreamforge vollständig selbst programmiert und basiert in Teilen auf dem Programmcode früherer Spiele des Entwicklers.
+
+Der Sound wurde erstmals in der Unternehmensgeschichte in digitalem Stereo aufgenommen. Steve Bennet, Dreamforges Verantwortlicher für den Audiobereich, lieferte mit Hilfe eines Synthesizers von Kurzweil Music Systems eigene Kompositionen zur Untermalung des Spiels. Unzufrieden zeigte sich der Entwickler im Rückblick jedoch mit dem vorhandenen Budget für die Synchronarbeiten, das keine Verpflichtungen namhafter Schauspieler für die Vertonung erlaubte. Kurz vor Abschluss bat der Publisher ASC Games die Entwickler außerdem, das Spiel für den Mainstreammarkt einfacher zu gestalten. Nach anfänglicher Ablehnung wurde das Spiel schließlich nochmal darauf überprüft, ob genügend Lösungshilfen in der Spielwelt zu finden seien, und gegebenenfalls durch zusätzliche Dialoghinweise ergänzt. In einigen Fällen wurden die Rätsel zudem einsteigerfreundlicher gestaltet.
+
+Im November 2009 wurde das Spiel auf GOG.com als Downloadtitel erneut veröffentlicht. 2015 erfolgten durch den französischen Publisher DotEmu Portierungen für mobile Endgeräte mit iOS- und Android-Betriebssystemen.
+
+Rezeption 
+
+Sanitarium wurde von der Presse und Fachmagazinen gemischt, aber zumeist positiv aufgenommen (Gamerankings: 83,22 %). Einerseits gelobt für die Atmosphäre und die Horror-Aspekte wurde es anderseits wegen leichter Rätsel und der schwierigen Bedienung kritisiert. Das Spiel erschien mit einem schwerwiegenden Programmfehler im 2. Level, der das Vorankommen im Spiel unmöglich machte. Der Entwickler musste hierfür einen Patch nachliefern.
+
+2004 führte das Onlinemagazin GameSpy Sanitarium auf dem 4. Platz der 10 furchteinflößendsten Spiele.
+
+Weblinks
+
+Einzelnachweise 
+
+Android-Spiel
+Computerspiel 1998
+IOS-Spiel
+Point-and-Click-Adventure
+Windows-Spiel

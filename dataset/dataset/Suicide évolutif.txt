@@ -1,0 +1,77 @@
+Le suicide évolutif est un concept selon lequel les pressions de sélection à l’échelle individuelle peuvent mener à la sélection d'individus ayant des caractéristiques entraînant l’extinction de l'espèce entière. Ces extinctions sont généralement associées à des variations des facteurs environnementaux, qu'ils soient purement physiques ou biologiques. C'est donc l'inadaptation de l'espèce à son environnement (ou aux variations de celui-ci), qui a pour conséquence son extinction.
+
+Le suicide évolutif propose une explication alternative, en considérant que c'est l'adaptation qui mène vers l'extinction. Ce concept est essentiellement issu des modèles théoriques, et très peu de preuves empiriques ont été mises en évidence. L'inadaptation de l'espèce à son environnement (ou aux variations de celui-ci) semble toujours être une explication possible pour le peu de cas empiriques constatés.
+
+Historique 
+Charles Darwin remarqua que la sélection naturelle pouvait favoriser certains traits, qui, en fonction de la réponse de l’environnement, pouvaient se révéler être dangereux pour les individus (1859, 1871). Il choisit l'exemple de la queue du Paon pour étayer sa théorie. En effet, chez les paons, plus les plumes de la queue sont longues, plus le mâle a des chances d'être sélectionné par la femelle comme partenaire. Pourtant, ces ornements rendent le paon vulnérable à la prédation et ralentissent ses déplacements. La queue du Paon augmente donc sa probabilité d'avoir des descendants tout en augmentant aussi sa probabilité d'être tué par un prédateur. Si la queue du paon a pu être sélectionnée, c'est que les avantages évolutifs qu'elle apporte sont plus grands que les inconvénients qu'elle crée.
+
+Mais c’est en 1932 que le concept a été abordé pour la première fois par J. B. S. Haldane, qui suggérait que l’adaptation n’allait pas nécessairement mener vers des caractères bénéfiques pour la population. Après les travaux de J. B. S. Haldane, plusieurs travaux sur le sujet ont suivi : en 1995, par Matsuda et Abrahms
+, puis la même année par Dieckmann; en 2001 par Gyllenberg et al. ; et enfin en 2003 par Webb.
+
+À noter que tous les auteurs n'ont pas utilisé l'expression suicide évolutif.
+Ainsi, cette théorie a été successivement appelée « auto-extinction », « évolution vers l'extinction », ou « extinction darwinienne ».
+
+Modèles adaptatifs 
+
+Étant donné le manque de données empiriques, la mise en évidence du suicide évolutif passe essentiellement par l'élaboration de modèles théoriques qui s'appuient sur la dynamique adaptative.
+Celle-ci permet de décrire la dynamique évolutive d'un ou plusieurs traits au sein d'une population en prenant compte de la rétroaction environnementale. 
+
+La sélection naturelle favorise l'invasion des mutants ayant une plus forte valeur sélective  comparativement aux autres membres de la population. La fixation du phénotype mutant dans la population va modifier la façon dont celle-ci interagit avec son environnement. Ainsi, de façon indirecte, des changements dans l'environnement biotique, abiotique ou génotypique se produisent. Or le succès reproducteur des individus est dépendante de l'environnement. 
+
+On peut donc envisager qu'un mutant parvienne à envahir la population, mais que la fixation de son phénotype entraîne de moins bonnes conditions du milieu. Le succès reproducteur moyen de la population diminue alors sous l'effet de la rétroaction environnementale. On parlera de suicide évolutif quand le mutant envahit la population et entraîne une diminution du succès reproducteur moyen tel que la population n'est même plus viable dans son environnement. 
+
+La mise en évidence du suicide évolutif se fait de façon purement déterministe, à la différence d'une "auto-extinction" décrite par Matsuda, où l'on prend en compte la stochasticité démographique.
+
+Différents travaux ont permis d'établir quelques généralités quant à l'observation du suicide évolutif :
+Le succès reproducteur relatif du mutant doit donc dépendre de la variable d'interaction environnementale et aussi de la stratégie du résident. En termes de densité, il faut qu'il y ait bifurcation vers un nouvel équilibre défini par l'extinction. La transition doit également se faire de façon discontinue.
+
+Dispersion dans une métapopulation structurée  
+
+Le modèle proposé par Gyllenberg, Parvinen et Dieckmann en 2002 , décrit le processus de dispersion de populations locales entre différents patchs au sein d’une métapopulation. Ce processus exposant les individus en transfert à un risque de mortalité. 
+
+Parfois, des catastrophes locales peuvent avoir lieu et éradiquer une de ces populations locales, bien que la zone affectée demeure habitable. Ainsi sous certaines conditions environnementales, une métapopulation peut être viable, mais la sélection naturelle peut favoriser des taux de dispersion tels qu’ils conduiront la métapopulation à l’extinction, il s’agit alors d'un suicide évolutif.
+
+En effet, le suicide évolutif peut avoir lieu pour des taux de catastrophe croissants lorsque la taille de la population locale est réduite et il peut également se produire pour des taux de catastrophe constants si le taux de croissance local à l’intérieur des zones montre un effet Allee.
+
+Le modèle ajoute qu’il existe une bifurcation évolutive conduisant au suicide évolutif, dont la condition selon laquelle la taille de population subit une transition discontinue vers l’extinction, c’est-à-dire chutant brutalement, est nécessaire.
+
+Dans le cas contraire où la taille de population tend de manière progressive vers zéro, la limite de viabilité est évolutivement répulsive et le suicide évolutif ne peut avoir lieu.
+
+Ainsi, lorsqu’une catastrophe se produit, le taux de dispersion d’une population locale va diminuer et tendre vers la frontière séparant la zone de viabilité et celle de l’extinction, tel qu’en franchissant cette limite, il mènera à une bifurcation et la taille de la métapopulation va diminuer continuellement vers zéro. Cette diminution continuelle entraîne une répulsion de la part de la limite d’extinction et le suicide évolutif ne se produit pas. Cela signifie qu’une transition discontinue vers l’extinction est indispensable, la taille de métapopulation chutant brutalement vers zéro, tandis que le taux de dispersion franchit la limite d’extinction.
+
+De manière générale, les mécanismes par lesquels le suicide évolutif peut se dérouler sont liés à la Tragédie des biens communs qui décrit une situation où le comportement d’individus égoïstes mène à une aggravation des conditions de vie : de tels individus sont considérés comme mutants dans la population de résidents. Leur apparition ainsi que la valeur reproductive associée dépendent grandement de l’environnement établi par les individus résidents, critère pour leur irruption, mais qui n’explique en rien comment les conditions de vie se dégradent par la suite lorsque le mutant apparaît et devient résident. Le rôle de l’évolution sur les détériorations qui suivront est plus probable : les conditions de vie peuvent atteindre un point tel où la viabilité de la population est compromise.
+
+Habituellement, on considère que si les conditions de vie d’une population deviennent trop défavorables, la population s’éteint. Dans ce modèle, une dégradation de cet environnement peut refléter un taux de catastrophe décroissant ou un risque de dispersion croissant. Mais il faut noter que pour des taux de catastrophe bas en présence d’un effet Allee, la sélection naturelle va en réalité favoriser les individus qui dispersent trop peu pour recoloniser les zones vidées par les catastrophes. En améliorant les conditions environnementales (en réduisant le taux de catastrophe à des valeurs très basses), on peut mener à des conséquences drastiques et au suicide évolutif.
+
+Modèle non structuré avec compétition asymétrique 
+
+M. Gyllenberg & K. Parvinen décrivent le suicide évolutif comme un processus évolutif où une population viable s’adapte de telle façon qu’elle ne peut plus subsister. Il a été trouvé qu’une transition discontinue vers l’extinction est une condition nécessaire pour le suicide, dont l’apparition a lieu dans des modèles de métapopulations structurées. Dans le modèle proposé par M. Gyllenberg & K. Parvinen, le suicide évolutif peut également avoir lieu dans des modèles de population non structurées. 
+
+De plus, les auteurs soulignent qu’un modèle structuré ne garantit pas la possibilité de suicide : ils montrent que le suicide ne peut se produire dans des modèles de population structurées par classes d’âge (type Gurtin-MacCamy). 
+
+Également, l’étude menée observe que le suicide évolutif se produit dans un modèle de compétition asymétrique non structuré avec effet Allee : les stratégies des résidents et des mutants affectent les interactions compétitives. Ainsi, le succès reproductif du mutant ne dépend pas seulement de la variable d’interaction environnementale, mais aussi de la stratégie des résidents. En effet, lorsque le succès reproductif du mutant ne dépend pas de la stratégie du résident, les auteurs prouvent que le suicide évolutif est impossible.
+
+Ainsi, lorsque Dieckmann, Marrow et Law décrivent la coévolution de phénotypes dans une communauté de prédateurs et de proies, les auteurs démontrent qu'une communauté peut évoluer à un stade où une disparition des prédateurs peut avoir lieu .
+Le processus coévolutif conduit les valeurs phénotypiques  de chaque stratégie vers la limite de coexistence, affectant ainsi les interactions compétitives proie-prédateur : la population de prédateurs s’éteint et le phénotype prédateur n’est plus défini, tandis que le phénotype proie continue d’évoluer vers son propre point d’équilibre.  L’extinction des prédateurs est ainsi guidée par des dynamiques évolutives, et non par des dynamiques de population.
+
+Coopération altruiste dans une métapopulation 
+
+En 2011, K. Parvinen décrit l’évolution de la coopération altruiste dans un modèle de métapopulation et souligne qu’une émergence asymétrique entre coopérateurs et transfuges peut donner lieu par la suite à l’extinction de la population et au suicide évolutif.
+
+Ainsi, au sein de la population, un groupe de coopérateurs est vulnérable face à l’exploitation de transfuges, individus qui ne coopèrent pas, mais reçoivent tous les bénéfices provenant de la coopération des autres individus. La coopération se produit alors de façon asymétrique.
+
+La sélection naturelle pourrait causer une réduction de la stratégie de coopération jusqu’à ce que la population atteigne la limite de viabilité. Un individu dont la stratégie de coopération serait plus faible pourrait alors envahir la population provoquant l’extinction de la métapopulation. C’est le suicide évolutif, cas extrême de la Tragédie des biens communs (Hardin 1968) où un comportement égoïste donnerait lieu à une dégradation des biens communs.
+
+L’auteur affirme par ailleurs qu’une métapopulation structurée ne serait pas une condition nécessaire pour observer une bifurcation évolutive vers une coopération altruiste. Ainsi, tout modèle de populations pourrait suffire.
+
+Exemples empiriques 
+
+Il n'existe que très peu d'exemples empiriques pour le suicide évolutif. Un de ces exemples apparait dans une étude réalisée par Travisano, Maeda, Fuji et Kudo (données non publiées).  Ils ont regardé une population de bactéries dans laquelle a été naturellement sélectionné un taux de croissance plus grand que celui d’une population de bactéries contrôle. Ils remarquent que la population qui a évolué, croît et subit ensuite une diminution brutale d’effectif, la menant à l’extinction. Cette situation n’est pas observée dans la population contrôlée. Travisano suggère que cette extinction est due à l’accumulation de métabolites toxiques dans le milieu. En effet certains organismes modifient leur milieu abiotique, ce qui affecte leur succès reproducteur. Il y a rétroaction entre l’organisme et l’environnement. Ainsi à mesure que la population croît, les toxines dans le milieu atteignent un seuil critique où la population est empoisonnée et causent son extinction. C’est donc l’augmentation du taux de croissance, sélectionnée dans un environnement où celle-ci était favorable, qui aura pour conséquence la disparition de la population dans un autre environnement (accumulation de toxines).
+
+Une autre expérience a été réalisée sur Oryzias latipes (Mur et Haward, 1999). Les chercheurs ont créé des poissons génétiquement modifiés dans lesquels ils ont inclus un gène de saumon codant une hormone de croissance. Les poissons ayant intégré le transgène sont plus grands et ont une moins bonne fécondité que les poissons de type sauvage. Pour la reproduction, les femelles ont une préférence pour les mâles transgéniques plus grands, ce qui leur confère un meilleur succès reproductif. Les descendants des poissons transgéniques auront une fécondité plus faible. Et tant que les femelles choisiront préférentiellement les mâles transgéniques, la densité de la population chutera. Selon les chercheurs, les modèles basés sur ce système prévoient une propagation des poissons transgéniques dans une population sauvage jusqu’à l’extinction de cette dernière. Dans ce cas on prédit le suicide évolutif par extrapolation. Ceci s'explique encore par une modification des conditions liées aux pressions de sélection. En effet, les femelles ont été sélectionnées dans leur choix de gros mâles dans un environnement où il y avait une forte corrélation entre grosseur du mâle et valeur reproductive. Maintenant, il y a corrélation négative entre ces deux traits pour les poissons transgéniques, donc les choix d'accouplement des femelles ne sont plus adaptées au système.
+
+Bibliographie
+
+Notes et références 
+
+Mécanisme de l'évolution

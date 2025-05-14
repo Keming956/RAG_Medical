@@ -1,0 +1,124 @@
+Cognitive behavioral therapy for insomnia (CBT-I) is a technique for treating insomnia without (or alongside) medications. Insomnia is a common problem involving trouble falling asleep, staying asleep, or getting quality sleep. CBT-I aims to improve sleep habits and behaviors by identifying  and changing the thoughts and the behaviors that affect the ability of a person to sleep or sleep well.
+
+The first step in treating insomnia with CBT-I is to identify the underlying causes of insomnia. People with insomnia should evaluate or have their sleep patterns evaluated and take into account all possible factors that may be affecting the person's ability to sleep. This would involve keeping a sleep diary/journal for a couple of weeks. The journal will help to identify patterns of thoughts or behaviors, stressors, etc. that could be contributing to the person's insomnia.
+
+After identifying the possible underlying cause and the factors contributing to insomnia, the person can begin taking steps towards getting better sleep. In CBT-I these steps include stimulus control, sleep hygiene, sleep restriction, relaxation training, and cognitive therapy. Some sleep specialists recommend biofeedback as well. Usually, several methods are combined into an overall treatment concept. Currently no treatment method is recommended over another; neither is it recommended to administer a single intervention over a combination of different interventions.
+
+CBT-I has been found to be an effective form of treatment of insomnia. It is also effective in treatment of insomnia related to or caused by mood disorders. Those who suffer with PTSD have also shown improvement.
+
+Components of CBT-I
+
+Stimulus control
+
+Stimulus control aims to associate the bed with sleeping and limit its association with stimulating behavior. People with insomnia are guided to do the following:
+ go to bed only when they are tired
+ limit activities in bed to sleep and sex
+ get out of bed at the same time every morning
+ get up and move to another room when sleep onset does not occur within ten minutes
+
+Sleep hygiene 
+
+Sleep hygiene aims to control the environment and behaviors that precede sleep. This involves limiting substances that can interfere with proper sleep, particularly within 4–6 hours of going to bed. These substances include caffeine, nicotine and alcohol. Sometimes a light bedtime snack, such as milk or peanut butter, is recommended. The environment in which one sleeps, and the environment that directly precedes sleep, is also very important; patients should engage in relaxing activities prior to going to bed, such as reading, writing, listening to calming music or taking a bath. Importantly, they should limit stimulating activity such as watching television, using a computer or being around bright lights.
+
+Sleep restriction therapy 
+
+Sleep restriction, also known as sleep restriction therapy, is probably the most difficult step of CBT-I. This is because CBT-I initially involves the restriction of sleep. Insomniacs typically spend a long time in bed not sleeping, which CBT-I sees as creating a mental association between the bed and insomnia. The bed therefore becomes a site of nightly frustration where it is difficult to relax. Although it is counter-intuitive, sleep restriction is a significant and effective component of CBT-I. It involves controlling Time In Bed (TIB) based upon the person's sleep efficiency in order to restore the homeostatic drive to sleep and thereby re-enforce the "bed-sleep connection". Sleep Efficiency (SE) is the measure of reported Total Sleep Time (TST), the actual amount of time the patient is usually able to sleep, compared with their TIB.
+
+Sleep efficiency = 
+
+ First, Time In Bed is restricted to some value, not less than 5 hours
+ Increase or decrease TIB weekly by only 20-30 min (or by 15 minutes every five days)
+ Increase TIB if SE > 90% (or 85%)
+ Decrease TIB if SE < 80% (or 85%)
+
+This process may take several weeks or months to complete, depending on the person's initial sleep efficiency and how effective the treatment is for them individually. (According to one expert, this should result in getting 7 to 8 hours of sleep within about six weeks.) Daytime sleepiness is a side-effect during the first week or two of treatment, so those who operate heavy machinery or otherwise cannot safely be sleep deprived should not undergo this process.
+
+Research has showed that sleep restriction therapy does create side effects such as "fatigue/exhaustion", "extreme sleepiness", "reduced motivation/energy", "headache/migraine", irritability, and changes in appetite. But the frequency and ratings of how much these side effects interfered were associated with improvement in sleep quality over the course of the treatment. In another study, results of questionnaires measuring impairment through the psychomotor vigilance task (PVT) and the Epworth sleepiness scale (ESS) were stabilized at a normal level at 3-months follow-up.
+
+Restricting sleep has also been shown to be an effective but usually temporary measure for treating depression.
+
+Relaxation training 
+
+Relaxation training is a collection of practices that can help people to relax throughout the day and, particularly, close to bedtime. It is useful for insomnia patients with difficulty falling asleep. However it is unclear whether or not it is useful for those who tend to wake up in the middle of the night or very early in the morning.  Techniques include hypnosis, guided imagery and meditation.
+
+Cognitive therapy
+Cognitive therapy within CBT-I is not synonymous with versions of cognitive behavioral therapy that are not targeted at insomnia. When dealing with insomnia, cognitive therapy is mostly about offering education about sleep in order to target dysfunctional beliefs/attitudes about sleep.
+
+Cognitive therapists will directly question the logical basis of these dysfunctional beliefs in order to point out their flaws. If applicable, the therapist will arrange a situation for the individual to test these flawed beliefs. For instance, many insomniacs believe that if they do not get enough sleep they will be tired the entire following day. They will then try to conserve energy by not moving around or by taking a nap. These responses are understandable but can exacerbate the problem, since they do not generate energy. If instead a person actively tries to generate energy by taking a walk, talking to a friend and getting plenty of sunlight, he or she may find that the original belief was self-fulfilling and not actually true.
+
+The crucial messages that the therapist tries to communicate to the patient are the following:
+
+ Realistic expectations about sleep duration and the energy that the patient can expect the next day will help to manage the patient's dysfunctional thoughts about healthy sleep requirements.
+ Insomnia cannot be blamed for all the deficits the patient is experiencing in their daytime life (not all problems will go away once the patient is able to sleep); this is important to know, because it takes some of the unrealistic expectations off sleep. 
+ It is not helpful to try to sleep – trying harder will only keep the patient more awake.
+ Sleep should not be given too much importance in the patient's life – it should not be the point around which the patient's life revolves.
+ Avoiding catastrophic thoughts after a night of unfulfilling sleep is key – insomnia is unpleasant, but not detrimental to health, at least short-term.
+ Developing strategies to cope with recurring sleep problems may be helpful, since patients with insomnia are more likely to experience sleep disturbances in the future.
+
+Worry is a common factor of insomnia. Therapists will work to control worry and rumination with the use of a thought record, a log where a person writes down concerns. The therapist and the patient can then approach each of these concerns individually.
+
+Paradoxical Intention 
+Paradoxical Intention is a treatment method which involves telling the patient to do the exact opposite of what they have been doing in bed: They should stay awake and avoid falling asleep.  The goal of this method is to decrease performance anxiety which may inhibit sleep onset. Paradoxal Intention has been shown to be an effective treatment for sleep initiation insomnia but might not be effective for sleep maintenance or mixed insomnia.
+
+Indication  
+CBT-I is indicated when the following criteria are met:
+
+1. The patient complains about difficulties initiating or maintaining sleep. These difficulties cause a significant distress and/or impact daily functioning. Complaints of non-restorative sleep without troubles of initiating or maintaining sleep are excluded.
+
+2. These difficulties are not primarily caused by a circadian rhythm disorder. In the case of a circadian rhythm disorder treatments such as phototherapy or chronobiologic interventions might be more suitable. However many primary insomnia patients also show some degree of a chronobiologic dysregulation, so a combination of CBT-I and chronobiologic interventions might be the best approach for these patients.
+
+3. The patient does not have an undiagnosed or unstable medical or psychiatric illness which could interfere with or be worsened by CBT-I. For example, patients with severe major depression might not have the resources needed to accurately execute some CBT-I interventions and failure in doing so might further reduce their self-efficacy. If it is likely that the insomnia will resolve with the resolution of the comorbid illness, specific treatment with CBT-I might not be necessary.
+
+4. The patient shows some behavioral or psychological factors which play a part in the maintenance of the insomnia complaints. This could be behaviors such as going to bed early or taking naps during the day. Worries that interfere with sleep and somatized tension about insomnia may also be present. As CBT-I mainly targets these factors, at least one of them should be present.
+
+CBT-I can be indicated for both primary and secondary insomnia. It primarily focuses on how patients deal with acute insomnia symptoms and how these symptoms are maintained and become chronic. These maintaining factors are often relevant in both primary and secondary insomnia.
+
+Contraindication 
+Some components of CBT-I can be contraindicated under certain circumstances.
+
+Stimulus control requires the patients to leave their beds and move to another room if they are not asleep within 15–20 minutes. This can be dangerous for patients with an elevated risk of falls. For example, this might be the case for patients with restricted mobility or with orthostatic hypotension.
+
+Relaxation training can lead to paradoxical anxiety. This might be the case for up to 15% of the patients. However, it is unclear which patients are prone to such reactions.
+
+Sleep restriction may aggravate other preexisting conditions. For example, sleep deprivation may act as a precipitant of epileptic seizures.  For patients suffering from bipolar disorder, it can increase the risk of switching from depression into mania. It might also increase daytime somnolence to a degree where driving a car or operating machinery is no longer safe.
+
+Applications to mood disorders
+
+Psychiatric mood disorders, such as major depressive disorder (MDD) and bipolar disorder, are intertwined with sleep disorders. This is evident in the high rate of comorbidity with psychiatric disorders and insomnia and other sleep disorders. Most people with psychiatric diagnoses have significantly reduced sleep efficiency and total sleep time compared to controls. Thus it is not surprising that treating insomnia with CBT-I can help to improve mood disorders. A study in 2008 showed that augmenting antidepressant medication with CBT-I in patients with major depressive disorder and comorbid insomnia helped to alleviate symptoms for both disorders. The overlap between mood- and sleep disorders is just starting to be rigorously explored, but the efficacy of CBT-I for major depressive disorder and bipolar disorder looks promising.
+
+Application to post-traumatic stress disorder
+
+Post-traumatic stress disorder (PTSD) is an anxiety disorder that may develop after a person experiences a traumatic event. Many people with PTSD relive or re-experience a traumatic event; memories of the event can appear at any time and the person feels the same fear/horror as when the event occurred. These can be either in the form of nightmares and/or flashbacks. Those with PTSD also experience hyperarousal (fight-or-flight) and can be too alert to go to sleep. Due to this, many experience some form of insomnia.
+
+Recent studies have shown that CBT-I offers some improvement for those suffering from PTSD.  For example, a study conducted in 2014 looked at whether CBT-I improved sleep in those with PTSD along with other PTSD related symptoms. The study showed improved sleep and improved psychosocial functioning.
+
+Other studies even suggest that CBT-I in combination with imagery rehearsal therapy helps improve sleep-related PTSD symptoms. Imagery rehearsal therapy (IRT) is a modified cognitive behavioral therapy technique used to treat recurring nightmares.  This technique involves recalling the nightmare, writing it down, modifying parts of the dream to make it positive, and rehearsing the new dream to create a cognitive shift that counters the original dream. IRT can be used for anyone suffering from recurring nightmares.
+
+Application to other conditions 
+Individuals with cancer often suffer from insomnia due to psychological, behavioral or physical consequences of cancer diagnosis and treatment. CBT-I has been shown to be an effective treatment in such individuals. Furthermore, it may also improve their mood, fatigue and overall quality of life.
+
+CBT-I can also be applied to patients suffering from both chronic pain and insomnia. Chronic pain can directly contribute to the difficulties in initiating and maintaining sleep via hyperarousal due to the experienced pain. CBT-I has been shown to improve sleep continuity and reduce impairment in daily functioning due to pain in such individuals.
+
+CBT-I has been shown to be effective in geriatric patients with insomnia as well. Medication might be problematic in such patients and they might prefer psychotherapy over medication. Therefore, it should be considered as a treatment option for them.
+
+Efficacy
+
+ Patients who have undergone CBT-I spend more time in sleep stages three and four (also known as slow-wave sleep, delta sleep or deep sleep) and less time awake than those treated with zopiclone (also known as Imovane or Zimovane). They also had lasting benefits according to a review six months later, whereas zopiclone had no lasting results.
+ When the common hypnotic drug zolpidem (more commonly known as Ambien) was compared with CBT-I, the latter had a larger impact on sleep-onset insomnia. CBT-I by itself was no less effective than CBT-I paired with Ambien.
+ For a thorough review of CBT-I and its effectiveness, see the Morin, Bootzin, Buysse et al. article referenced below.
+ Computer-based CBT-I was shown to be comparable in effectiveness to therapist-delivered CBT-I in a placebo-controlled clinical study.
+ A meta-analysis showed that adherence and effectiveness are related in technology-mediated sleep treatment. See also Morin et al.
+ Where sleep anxiety is a cause of insomnia, some evidence suggests that components of CBT-I such as sleep restriction may worsen the anxiety. A CBT-derived variant known as acceptance and commitment therapy (ACT) may be more effective in these cases.
+
+Alternative treatment options 
+There are some therapies that can be applied complementary to CBT-I or as an alternative. Acupuncture, tai chi, hypnosis, and electrosleep therapy are just a few options. Exercise can also be a helpful addition to the patient's life. These approaches are not validated as extensively by empirical research, but may still provide a valuable contribution to the clinical practice.
+
+Acceptance and mindfulness techniques might be a good addition to conventional insomnia treatment. Particularly, insomnia patients might benefit from concepts such as acceptance and cognitive defusion. In case of insomnia this would mean nonjudgmental acceptance of fluctuations in the ability to fall asleep and sleep-interfering thoughts and feelings, as well as cognitive detachment from dysfunctional beliefs and automatic thoughts. Research suggests that acceptance and commitment therapy might even be effective in patients not responding to CBT-I.
+
+Biofeedback has been shown to be an effective treatment for insomnia and is listed in the American Academy of Sleep Medicine treatment guidelines. This form of therapy includes visual or auditory feedback of e.g. EEG or EMG activity. This can help insomnia patients to control their physiological arousal.
+
+References 
+
+Treatment of sleep disorders
+Cognitive behavioral therapy
+Insomnia

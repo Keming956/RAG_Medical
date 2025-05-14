@@ -1,0 +1,35 @@
+The Checklist for Autism in Toddlers (CHAT) is a psychological questionnaire designed to evaluate risk for autism spectrum disorder in children ages 18–24 months. The 14-question test is filled out by the parent and a pediatrician or physician and takes approximately 5 minutes to complete. The CHAT has shown good reliability and validity in assessing child autism risk in recent studies. Some research has identified barriers, such as socioeconomic status and parent education level, to the validation of both the CHAT and the Modified Checklist for Autism in Toddlers (M-CHAT) as a reliable and valid screener for children of all backgrounds.
+
+History and development 
+The CHAT was initially developed in the early 1990s to screen for autism in children as young as 18 months. Prior to this point, diagnosis of autism was rare in children younger than 3 years old. Additionally, no specialized screening tool had been developed to detect early signs of autism in young children. This clinical standard for the diagnosis of autism was seen as potentially detrimental because interventional supports early on in life had shown improved outcomes in development. The construction of the CHAT drew off of the theoretical basis that certain developmental markers are rarely seen in individuals with autism, yet these behaviors are often demonstrated in typical development by 15 months of age, and therefore the absence of these behaviors could indicate a potential autism diagnosis at an early age. Specifically, the CHAT aims to distinguish the presence of joint attention and pretend play.
+
+Question breakdown, scoring, and interpretation 
+The first 9 questions (part A) of the CHAT identify common play habits and behaviors for infants between ages 18–24 months, and the last five questions (part B) concern the child’s behavior and reaction to certain stimuli initiated by the physician.  In parts A and B, the parent and physician, respectively, indicate whether or not the child displays these behavioral characteristics.
+
+Domain breakdown
+5 of the 14 questions on the CHAT are key items that factor into risk classification. The 5 key items are as follows:
+ A5- Pretend play
+ A7- Protodeclaractive pointing
+ B2- Following a point
+ B3-  Pretending
+ B4- Producing a point
+
+Scoring
+Questions from The Checklist for Autism in Toddlers (CHAT) are assessed using a scoring mechanism of key items that splits results into three groups based on risk:
+
+High Risk: A choice response of “no” for the key items of “pretend play” (A5), “protodeclarative pointing” (A7), “following a point” (B2), “pretending” (B3), and “producing a point” (B4), classifies the individual as being in the high risk autism group. Individuals who fall into this group should refer to a developmental clinic to discern an official diagnosis.
+Medium Risk: A choice response of “no” for the key items of “protodeclarative pointing” (A7), and “producing a point” (B4) classifies the individual as being in the medium risk autism group. Individuals who fall into this group should be retested a month later or refer to a developmental clinic.
+Low Risk: Children who do not fall in either medium or high risk groups are classified as low risk for autism, but should still be retested a month later for reliability.
+
+References
+
+Further reading
+
+External links
+
+CHAT English version
+AutismSpeaks
+EffectiveChildTherapy.Org information on autism spectrum disorders
+
+Psychiatric instruments: child and adolescent psychiatry
+Psychiatric instruments: autism

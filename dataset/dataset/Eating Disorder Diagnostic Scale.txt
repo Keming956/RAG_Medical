@@ -1,0 +1,19 @@
+The Eating Disorder Diagnostic Scale (EDDS) is a 22 item self-report questionnaire that assesses the presence of three eating disorders; anorexia nervosa, bulimia nervosa and binge eating disorder. It was adapted by Stice et al. in 2000 from the validated structured psychiatric interview: The Eating Disorder Examination (EDE) and the eating disorder module of the Structured Clinical Interview for DSM-IV (SCID)16. 
+
+A study was made to complete the EDDS research; the process to create and finalize the questionnaire. A group of people eating-disorders researchers take a looked at a preliminary version of the questionnaire and made a final decision of which questions to put on the final questionnaire with the 22 questions.  The questionnaire starts off with questions about the patient's feelings towards his/her physical appearance, specifically the weight. Then, it proceeds to questions about having episodes of eating with a loss of control and how he/she felt after overeating. The questions afterwards are about the patient's experience on fasting, making themselves vomit and using laxatives to prevent weight gain. It will then ask you how much body image problems impact your relationship and friendship with others. Lastly, the questionnaire asks for the patient's current weight, height, sex and age. 
+
+The EDDS questionnaire is used for researchers to provide some cures for the three types of eating disorder. It is more efficient than having an interview because it's easier to get a result, from a group of participants, with the 22-questions questionnaire. Having to interview each participant is a harder and more time-consuming way to get a result. This questionnaire is also useful for primary care/ clinical purposes to identify patients with eating pathology.
+
+In follow up studies of the reliability and validity of the EDDS, it was shown to be sufficiently sensitive to detect the effects of eating disorders prevention programs, response to such programs and the future onset of eating disorder pathology and depression. The EDDS shows both full and subthreshold diagnoses for anorexia nervosa, bulimia nervosa and binge eating disorder.
+EDDS is a continuous eating disorder symptom composite score 
+The PhenX Toolkit uses the EDDS for as an Eating Disorders Screener protocol.
+
+See also
+ Body Attitudes Test
+ Body Attitudes Questionnaire
+ Eating Disorder Inventory
+ SCOFF questionnaire
+
+References
+
+Psychiatric instruments: eating disorders

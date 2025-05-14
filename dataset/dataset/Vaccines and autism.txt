@@ -1,0 +1,55 @@
+Extensive investigation into vaccines and autism has shown that there is no relationship between the two, causal or otherwise, and that vaccine ingredients do not cause autism. Vaccinologist Peter Hotez researched the growth of the false claim and concluded that its spread originated with Andrew Wakefield's fraudulent 1998 paper, with no prior paper supporting a link.
+
+Despite the scientific consensus for the absence of a relationship and the retracted paper, the anti-vaccination movement at large continue to promote myths, conspiracy theories, and misinformation linking the two. A developing tactic appears to be the "promotion of irrelevant research [as] an active aggregation of several questionable or peripherally related research studies in an attempt to justify the science underlying a questionable claim."
+
+Claimed mechanisms
+
+The claimed mechanisms have changed over time, in response to evidence refuting each in turn.
+
+Vaccine-derived measles virus
+
+The idea of a link between the MMR vaccine and autism came to prominence after the publication of a paper by Andrew Wakefield and others in The Lancet in 1998. This paper, which was retracted in 2010 and whose publication led to Wakefield being struck off the UK medical register, has been described as "the most damaging medical hoax of the last 100 years".
+
+Wakefield's core claim was that he had isolated evidence of vaccine-strain measles virus RNA in the intestines of autistic children, leading to a condition he termed autistic enterocolitis (this was never recognised or adopted by the scientific community). This finding was later shown to be due to errors made by the laboratory where the polymerase chain reaction (PCR) tests were performed.
+
+The CDC, the IOM of the National Academy of Sciences, and the UK National Health Service have all concluded that there is no link between the MMR vaccine and autism. A systematic review by the Cochrane Library concluded that there is no credible link between the MMR vaccine and autism, that MMR has prevented diseases that still carry a heavy burden of death and complications, that the lack of confidence in MMR has damaged public health, and that the design and reporting of safety outcomes in MMR vaccine studies are largely inadequate.
+
+In 2009, The Sunday Times reported that Wakefield had manipulated patient data and misreported results in his 1998 paper, creating the appearance of a link with autism. A 2011 article in the British Medical Journal described how the data in the study had been falsified by Wakefield so that it would arrive at a predetermined conclusion. An accompanying editorial in the same journal described Wakefield's work as an "elaborate fraud" that led to lower vaccination rates, putting hundreds of thousands of children at risk and diverting energy and money away from research into the true cause of autism.
+
+A special court convened in the United States to review claims under the National Vaccine Injury Compensation Program ruled on February 12, 2009, that parents of autistic children are not entitled to compensation in their contention that certain vaccines caused autism in their children.
+
+Thiomersal
+
+Thiomersal (spelled "thimerosal" in the US) is an antifungal preservative used in small amounts in some multi-dose vaccines (where the same vial is opened and used for multiple patients) to prevent contamination of the vaccine. Thiomersal contains ethylmercury, a mercury compound which is related to, but significantly less toxic than, the neurotoxic pollutant methylmercury. Despite decades of safe use, public campaigns prompted the Centers for Disease Control and Prevention (CDC) and the American Academy of Pediatrics (AAP) to request vaccine makers to remove thiomersal from vaccines as quickly as possible on the precautionary principle. Thiomersal is now absent from all common US and European vaccines, except for some preparations of influenza vaccine. (Trace amounts remain in some vaccines due to production processes, at an approximate maximum of 1 microgramme, around 15% of the average daily mercury intake in the US for adults and 2.5% of the daily level considered tolerable by the WHO.) The action sparked concern that thiomersal could have been responsible for autism.
+
+The idea that thiomersal was a cause or trigger for autism is now considered disproven, as incidence rates for autism increased steadily even after thiomersal was removed from childhood vaccines. There is no accepted scientific evidence that exposure to thiomersal is a factor in causing autism.
+
+Under the FDA Modernization Act (FDAMA) of 1997, the FDA conducted a comprehensive review of the use of thimerosal in childhood vaccines. Conducted in 1999, this review found no evidence of harm from the use of thimerosal as a vaccine preservative, other than local hypersensitivity reactions. Despite this, starting in 2000, parents in the United States pursued legal compensation from a federal fund arguing that thiomersal caused autism in their children. A 2004 Institute of Medicine (IOM) committee favored rejecting any causal relationship between thiomersal-containing vaccines and autism and rulings from the vaccine court in three test claims in 2010 established the precedent that thiomersal is not considered a cause of autism.
+
+Vaccine overload 
+
+Following the belief that individual vaccines caused autism was the idea of vaccine overload, which claims that too many vaccines at once may overwhelm or weaken a child's immune system and lead to adverse effects.  Vaccine overload became popular after the Vaccine Injury Compensation Program accepted the case of nine year old Hannah Poling. Hannah had encephalopathy putting her on the autism spectrum disorder, which was believed to have worsened after getting multiple vaccines at nineteen months old. There have been multiple cases reported similar to this one, which led to the belief that vaccine overload caused autism. However, scientific studies show that vaccines do not overwhelm the immune system. In fact, conservative estimates predict that the immune system can respond to thousands of viruses simultaneously. It is known that vaccines constitute only a tiny fraction of the pathogens already naturally encountered by a child in a typical year. Common fevers and middle ear infections pose a much greater challenge to the immune system than vaccines do. Other scientific findings support the idea that vaccinations, and even multiple concurrent vaccinations, do not weaken the immune system or compromise overall immunity and, furthermore, evidence that autism has any immune-mediated pathophysiology has still not been found.
+
+Aluminium
+Since mercury compounds in vaccines have been definitively ruled out as a cause of autism, some anti-vaccine activists propose aluminium salts as the cause of ASD. This is based in part on the erroneous popular belief that aluminium causes Alzheimer disease. There is no good scientific evidence that aluminium salts are linked to autism, but anti-vaccination activists commonly cite a number of papers which claim that there is in fact a link. These are mainly published in predatory open access journals, where peer-review is virtually non-existent. One, in the mainstream Journal of Inorganic Biochemistry, was subsequently retracted. Work conducted by Christopher Shaw, Christopher Exley and Lucija Tomljenovic has been funded by the anti-vaccination Dwoskin Family Foundation. The work published by Shaw et al. has been discredited by the World Health Organization.
+
+Celebrity involvement 
+
+Some celebrities have spoken out on their views that autism is related to vaccination, including: Jenny McCarthy, Kristin Cavallari, Toni Braxton, Robert De Niro, Jim Carrey, Bill Maher, and Pete Evans. 
+
+McCarthy, one of the most outspoken celebrities on the topic, has said her son Evan's autism diagnosis was a result of the MMR vaccine, despite the comprehensive evidence to the contrary. She authored Louder than Words: A Mother's Journey in Healing Autism and co-authored Healing and Preventing Autism. She also founded an organization called Generation Rescue, which provides resources for families affected by autism.
+
+In a September 2015 CNN Presidential debate, Donald Trump claimed to know of a 2-year-old who recently got a combined vaccine, developed a fever and is now on the autism spectrum.
+
+Robert F. Kennedy, Jr. is one of the most notable proponents of the anti-vaccine movement. Kennedy published the book Thimerosal: Let the Science Speak: The Evidence Supporting the Immediate Removal of Mercury--A Known Neurotoxin--From Vaccines. He is also the founder and chairman of the board of Children's Health Defense, a group and website widely known for its anti-vaccination stance.
+
+Public opinion
+
+A December 2020 poll in the United States found 12% of Americans incorrectly believed there is evidence that vaccinations cause autism, and 37% were not sure.
+
+References
+
+Vaccine hesitancy
+Autism pseudoscience
+Conspiracy theories
+Conspiracy theories promoted by Donald Trump

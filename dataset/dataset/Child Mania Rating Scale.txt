@@ -1,0 +1,69 @@
+The Child Mania Rating Scales (CMRS) is a 21-item diagnostic screening measure designed to identify symptoms of mania in children and adolescents aged 9–17 using diagnostic criteria from the DSM-IV, developed by Pavuluri and colleagues. There is also a 10-item short form. The measure assesses the child's mood and behavior symptoms, asking parents or teachers to rate how often the symptoms have caused a problem for the youth in the past month. Clinical studies have found the CMRS to be reliable and valid when completed by parents in the assessment of children's bipolar symptoms. The CMRS also can differentiate cases of pediatric bipolar disorder from those with ADHD or no disorder, as well as delineating bipolar subtypes. A meta-analysis comparing the different rating scales available found that the CMRS was one of the best performing scales in terms of telling cases with bipolar disorder apart from other clinical diagnoses. The CMRS has also been found to provide a reliable and valid assessment of symptoms longitudinally over the course of treatment. The combination of showing good reliability and validity across multiple samples and clinical settings, along with being free and brief to score, make the CMRS a promising tool, especially since most other checklists available for youths do not assess manic symptoms.
+
+Background 
+The Child Mania Rating Scale (CMRS) was created as a complement already existing measures like the Altman Self-Rating Mania Scale and the Young Mania Rating Scale, which were formulated for adults. The purpose of the CMRS is to both assess the symptoms of mania in pediatric bipolar disorder, and to accurately discriminate the symptoms of mania from symptoms of ADHD. It is important that the CMRS accurately discriminate from symptoms of ADHD because core symptoms of adolescent Bipolar Disorder and ADHD are shared between the two disorders: hyperactivity, impulsivity, and distractibility. The CMRS was designed specifically for younger children who may or may not have the ability to accurately answer questions about their behavior. As a result, the questionnaire is filled out by parents are/or caregivers who work with the children on a daily basis. Previous mania scales were designed for use by either the clinician or the patient. Therefore, the CMRS is unique in that it allows parents and caregivers to contribute information about their child's symptoms. This is especially important in cases where the child may be too young to fill out the questionnaires themselves.
+
+Historically, effective rating and diagnosis of mania has been limited. Though many mania scales have been tested on adult populations, the Young Mania Rating Scale (YMRS) – which was tested against the child version (CMRS) as standard measure for screening mania- is the only adult scale that has also been studied for validity and reliability in prepubertal children. Previous attempts include the Beigel Scale/Manic State Rating Scale (MSRS) and the Patterson Scale, which used nurse and clinician reports to rate levels of mania. Neither scale effectively and consistently captured levels of mania in patients. Other measures of pediatric mania are generally limited because they are completed by the clinician, introducing potential for bias, and because they lack the depth necessary to differentiate between patient-specific ways in which symptoms are presented. The CMRS Parent and Teacher versions attempt to address some of the limitations by including a checklist that can gather information about behavior at home, school, and other settings, rather than focusing only on what a clinician could directly observe. One study examined the accuracy of a shortened version of the CMRS-P, which included only 10 items, and found that its accuracy was similar to the full scale.
+
+Typically, the CMRS takes only 10–15 minutes to administer. The questions ask about behavior-specific actions and tendencies the child may have exhibited within the past month. The parent rates the behavior on a scale from 1 to 4, where 1=never/rarely, 2=sometimes, 3=often, and 4=very often. A clinician examines the total score and determines if the child has ADHD or Bipolar Disorder. If a diagnosis Bipolar Disorder is deemed to be appropriate, the clinician will also determine the sub-type.
+
+Versions 
+There is a short version (10 items) of the CMRS called the  Brief CMRS/Brief CMRS-P. The shorter version was created because a shorter version is preferred to longer assessments if the shorter gives similar accuracy, which it does. Additionally, there is a teacher's version of the CMRS called the CMRS-Teacher (CMRS-T).
+
+Reliability and Validity
+
+Reliability 
+
+Construct validity analyses (Exploratory Factor Analysis and Confirmatory Factor Analysis) for the CMRS-P indicated that the scale is unidimensional. Internal consistency measured by Cronbach's alpha was .96 in a sample consisting of ADHD, Bipolar, and healthy control participants. In a sample of participants with bipolar disorder, the cronbach's alpha was 91. Additionally, it has the ability to accurately differentiate pediatric bipolar disorder from ADHD and healthy controls greater than 90% of the time.
+
+The teacher version (CMRS-T) also has 21 items. The internal consistency, measured by Cronbach's alpha, was .86. Correlations between the parent and teacher versions of the CMRS range from .23 to .27. The CMRS teacher version has not been shown to discriminate bipolar from nonbipolar cases at better than chance levels and is not recommended for use in clinical practice for diagnosing bipolar disorder in children.
+
+Validity
+
+Development and history 
+The CMRS was developed as a shorter, reliable, and valid parent-report screening instrument for mania. The short form was derived from the CMRS 21 item scale which is the first original mania rating scale developed for children and adolescents. It was not developed from the Young Mania Rating Scale (YMRS) that was originally designed for adults, 'Young' being the name of the author than the fact that it was a scale for 'young' population. The YMRS was derived from the Parent-Young Mania Rating Scale (P-YMRS). This scale, developed from the YMRS, was created for use with adult inpatients. The items of the P-YMRS did not include the updated DSM-IV criteria for adolescent Bipolar Disorder, and it includes several items with poor factor loadings. Furthermore, the content is not developmentally appropriate for children, as many of the items require insight or appearance, which are irrelevant to young children. Another promising measure is the GBI as it has good psychometric properties. However, the GBI is lengthy and complicated and requires the child to have at least a 7th-grade reading ability. One of the most widely used measures of mania symptoms is the Kiddie Schedule for Affective Disorders and Schizophrenia mania section. However, this measure is extremely extensive and requires much clinical training to administer.
+
+During the development of the CMRS, researchers found that reliable and more accurate diagnostic accuracy is found in parent reports in comparison to teacher reports or self-reports and that these other reports rarely added new information to the parent report. Furthermore, the areas under the curve (AUC) of parent-rated instruments reported modest to excellent validity. Based on the evidence, the developers of the CMRS chose to create a measure that relied mainly on parent report.
+
+Other parent report measures have been used to screen for Pediatric Bipolar Disorder, but these measures were not developed to look specifically for mania. One such measure is the Child Behavior Checklist (CBCL). The CBCL, in addition to providing markers of psychopathology, has been used to detect mania in children. However, on the CBCL, researchers saw a consistent pattern of elevated scores, especially on the following symptoms: aggressive behavior, attention problems, delinquency, anxiety, and depression. This pattern may be due to the high comorbidity of ADHD, oppositional defiant disorder, conduct disorder, and anxiety disorders in children with pediatric Bipolar Disorder. And although the CBCL is a reliable and validated measure, low scores on the CBCL may only rule out mania—conversely, it would be erroneous to rule in mania using CBCL scores alone.
+
+For these reasons, the CMRS was developed to accurately and reliably assess mania in pediatric Bipolar Disorder, and differentiate its symptoms from other disorders with high comorbidity with pediatric Bipolar Disorder.
+
+Impact 
+
+Though there is no gold-standard screening tool for Pediatric Bipolar Disorder, the CMRS has been described as a promising and useful tool for such a purpose. For example, institutional protocols for diagnosing and evaluating Bipolar Disorder in children may use the CMRS as an initial screening tool to establish the need to further evaluation of mania symptoms. In addition, the parent version of the CMRS (the CMRS-P) has been used in research studies to detect changes in children's mania symptoms due to pharmacotherapy or psychotherapy. The CMRS is the first measure specifically developed for the purpose of screening for Bipolar Disorder in children. As such, it offers an alternative to broadband rating scales like the Child Behavior Checklist, which has been used as a screening tool for Bipolar Disorder in children with mixed findings regarding its reliability.
+
+Furthermore, the CMRS-P (both the brief and full versions) have shown to be effective in distinguishing between mania and ADHD. The brief version effectively retains characteristics of the original CMRS, allowing for wider application and longitudinal use. Psychometric studies of the CMRS has demonstrated that the measure has excellent reliability and validity. Internal consistency is excellent and the measure correlates with clinician-administered interview measures for diagnosing pediatric mania. The measure is also accurately able to differentiate symptoms of pediatric Bipolar Disorder from ADHD and healthy control groups more than 90% of the time. Furthermore, the use of the CMRS in pharmacological research suggests that this measure is sensitive to treatment over time, which means that you can use this measure to assess treatment effectiveness.
+
+Limitations 
+The CMRS suffers from the same problems as other self-report inventories, in that scores can be easily exaggerated or minimized by the person completing them - in this case, the parent or teacher—in a phenomenon called the social desirability bias. Like all questionnaires, the way the instrument is administered can also influence the final score. If a person is asked to fill out the form in front of other people in a clinical environment, for instance, social expectations have been shown to elicit a different response compared to administration via a postal survey. The age of the youth also may matter. Although the Child Mania Rating Scale has been shown to be a valid and reliable measure of mania in children, one concern is that its validity might change as the youth becomes an adolescent, and parents or teachers have less influence and awareness about the youth's behavior outside of the home or school. Additionally, it is also unclear of the CMRS's ability to assess the change in mania systems as a child cycles out of mania and into depression.
+
+Use in other populations 
+While the CMRS has not been validated in other languages, the CBCL, YMRS, GBI, and KSADS all have. However, the CMRS has been tested and translated into Spanish. The CMRS is available in fourteen languages with back translation through native/bilingual speakers, though not tested in all languages.
+
+See also 
+Bipolar disorder in children
+Bipolar disorder
+Bipolar disorder research
+Diagnostic classification and rating scales used in psychiatry
+
+References
+
+Further reading
+
+External links 
+
+ (21 item English version for parents to complete.)
+ 
+ 
+ Society of Clinical Child and Adolescent Psychology
+
+Bipolar disorder
+Depression (mood)
+Mental disorders
+Mental disorders diagnosed in childhood
+Mood disorders
+ 
+Psychiatric instruments: child and adolescent psychiatry
+Psychiatric instruments: mania
+Treatment of bipolar disorder

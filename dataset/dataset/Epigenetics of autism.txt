@@ -1,0 +1,83 @@
+Autism spectrum disorder (ASD) includes autism, Asperger disorder, childhood disintegrative disorder and pervasive developmental disorder not otherwise specified.  While the exact cause of ASD has remained somewhat of a mystery, it appears to be genetic in origin.  Most data supports a polygenic, epistatic model, meaning that the disorder is caused by two or more genes and that those genes are interacting in a complex manner.  Several genes, between two and fifteen in number, have been identified and could potentially contribute to disease susceptibility. However, an exact determination of the cause of ASD has yet to be discovered and there probably is not one single genetic cause of any particular set of disorders, leading many researchers to believe that epigenetic mechanisms, such as genomic imprinting or epimutations, may play a major role.
+
+Epigenetic mechanisms can contribute to disease phenotypes.  Epigenetic modifications include DNA cytosine methylation and post-translational modifications to histones.  These mechanisms contribute to regulating gene expression without changing the sequence of the DNA and may be influenced by exposure to environmental factors and may be heritable from parents. Rett syndrome and Fragile X syndrome (FXS) are single gene disorders related to ASD with overlapping symptoms that include deficient neurological development, impaired language and communication, difficulties in social interactions, and stereotyped hand gestures.  It is not uncommon for a patient to be diagnosed with both ASD and Rett syndrome and/or FXS. Epigenetic regulatory mechanisms play the central role in pathogenesis of these two diseases. Rett syndrome is caused by a mutation in the gene that encodes methyl-CpG-binding protein (MECP2), one of the key epigenetic regulators of gene expression. MeCP2 binds methylated cytosine residues in DNA and interacts with complexes that remodel chromatin into repressive structures. On the other hand, FXS is caused by mutations that are both genetic and epigenetic.  Expansion of the CGG repeat in the 5’-untranslated region of the FMR1 genes leads to susceptibility of epigenetic silencing, leading to loss of gene expression.
+
+Genomic imprinting may also contribute to ASD.  Genomic imprinting is another example of epigenetic regulation of gene expression.  In this instance, the epigenetic modification(s) causes the offspring to express the maternal copy of a gene or the paternal copy of a gene, but not both.  The imprinted gene is silenced through epigenetic mechanisms.  Candidate genes and susceptibility alleles for autism are identified using a combination of techniques, including genome-wide and targeted analyses of allele sharing in sib-pairs, using association studies and transmission disequilibrium testing (TDT) of functional and/or positional candidate genes and examination of novel and recurrent cytogenetic aberrations.  Results from numerous studies have identified several genomic regions known to be subject to imprinting, candidate genes, and gene-environment interactions.  Particularly, chromosomes 15q and 7q appear to be epigenetic hotspots in contributing to ASD. Also, genes on the X chromosome may play an important role, as in Rett Syndrome.
+
+Chromosome 15
+In humans, chromosome 15q11-13 is the location of a number of mutations that have been associated with Autism spectrum disorders (ASD).
+
+15q11-13 duplication
+Duplications of 15q11-13 are associated with  about 5% of patients with ASD and  about 1% of patients diagnosed with classical Autism.
+15q11-13 in humans contains a cluster of genetically imprinted genes important for normal neurodevelopment. (Table 1) Like other genetically imprinted genes, the parent of origin determines the phenotypes associated with 15q11-13 duplications. "Parent of origin effects" cause gene expression to occur only from one of the two copies of alleles that individuals receive from their parents. (For example, MKRN3 shows a parent of origin effect and is paternally imprinted. This means that  only the MKRN3 allele received from the paternal side will be expressed.) Genes that are deficient in paternal or maternal 15q11-13 alleles result in Prader-Willi or Angelman syndromes, respectively, and duplications in the maternal copy lead to a distinct condition that often includes autism. Overexpression of maternally imprinted genes is predicted to cause autism, which focuses attention to the maternally expressed genes on 15q11-13, although it is still possible that alterations in the expression of both imprinted and bilallelically expressed genes contribute to these disorders.
+The commonly duplicated region of chromosome 15 also includes paternally imprinted genes that can be considered candidates for ASD. (See Table 1)
+
+Table 1
+
+Table 1- Modified from Schanen (2006)
+
+Genes on 15q11-13 can be classified into three main categories:
+ GABAA receptor genes:
+Members of the GABA receptor family, especially GABRB3, are attractive candidate genes for Autism because of their function in the nervous system. Gabrb3 null mice exhibit behaviors consistent with autism and multiple genetic studies have found significant evidence for association. Furthermore, a significant decrease in abundance of GABRB3 has been reported in the brain of  AS, AUT and RTT patients. Other GABA receptors residing on different chromosomes have also been associated with autism (e.g. GABRA4 and GABRB1 on chromosome 4p).
+ Maternally imprinted genes:
+There are two maternally imprinted genes in 15q11-13, UBE3A and ATP10A (Table 1) and both lie toward the centromeric end. Both these genes are important candidates for ASD. Significant decrease in UBE3A abundance has been observed in post mortem brain samples from patients with AUT, AS and RT. Patients with autism have also shown abnormalities in methylation of the UBE3A CpG island.
+ Paternally imprinted genes:
+Most of the genes in 15q11-13 are paternally expressed. Gene expression analysis of paternally expressed imprinted genes has revealed that, in some cases excess of maternal 15q11-13 dosage can cause abnormal gene expression of the paternally expressed genes as well (even though the paternal 15q11-13 is normal).
+ Regulation of gene expression in 15q11-13:
+
+Regulation of gene expression in the 15q11-13 is rather complex and involves a variety of mechanisms such as DNA methylation, non-coding and anti-sense RNA.
+
+The imprinted genes of 15q11-13 are under the control of a common regulatory sequence, the imprinting control region (ICR). The ICR is a differentially methylated CpG island at the 5′ end of SNRPN. It is heavily methylated on the silent maternal allele and unmethylated on the active paternal allele.
+
+MeCP2, which is a candidate gene for Rett syndrome, has been shown to affect regulation of expression in 15q11-13. Altered (decreased) expression of UBE3A and GABRB3 is observed in MeCP2 deficient mice and ASD patients. This effect seems to happen without MeCP2 directly binding to the promoters of UBE3A and GABRB3. (Mechanism unknown) However, chromatin immunoprecipitation and bisulfite sequencing have demonstrated that MeCP2 binds to methylated CpG sites within GABRB3 and the promoter of SNRPN/SNURF.
+
+Furthermore, homologous 15q11-13 pairing in neurons that is disrupted in RTT and autism patients, has been shown to depend on MeCP2. Combined, these data suggest a role for MeCP2 in the regulation of imprinted and biallelic genes in 15q11-13. However, evidently it does not play a role in the maintenance of imprinting.
+
+Chromosome 7
+ Imprinting and epigenetics of chromosome 7q in ASD
+
+A genome-wide scan approach has revealed possible linkage of ASDs and autism to numerous chromosomes. These linkage studies initially implicated the long arm of chromosome 7, and sequence analyses specifically targeted two susceptibility loci at the regions of 7q21.3 and 7q32.2. Parent-of-origin linkage modeling identified the imprinted gene cluster 7q21.3, which includes two paternally expressed genes, two maternally expressed genes, and one preliminarily determined  maternally expressed  gene, as summarized in the table below. (Table 2)
+
+Table 2: Paternal/Maternal gene expression of the imprinted region on chromosome 7q21.3
+
+Table 2- Modified from Schanen (2006)
+
+DLX5 and DLX2 directly regulate expression of glutamic acid decarboxylase, the enzyme that produces the neurotransmitter GABA. Conclusive evidence of autism susceptibility due to novel sequence variants of these genes has yet to be clearly identified, however.  To date, these loci cannot be definitely associated with autism, though their connection with Mecp2 via regulation suggests the epigenetic effects should be re-evaluated.
+
+The second region on chromosome 7q32.2 encompasses another imprinted domain with one maternally expressed and four paternally expressed genes. (Table 3)
+
+Table 3- Imprinted gene cluster on chromosome 7q32.2
+
+Table 3- Modified from Schanen (2006)
+
+X Chromosome
+
+There is a definite gender bias in the distribution of ASD.  There are about four times as many affected males across the ASD population.  Even when patients with mutations in X-linked genes (MECP2 and FMR1) are excluded, the gender bias remains.  However, when only looking at patients with the most severe cognitive impairment, the gender bias is not as extreme.  While the most obvious conclusion is that an X-linked gene of major effect is involved in contributing to ASD, the mechanism appears to be much more complex and perhaps epigenetic in origin.
+
+Based on the results of a study on females with Turner syndrome, a hypothesis involving epigenetic mechanisms was proposed to help describe the gender bias of ASD.  Turner syndrome patients have only one X chromosome which can be either maternal or paternal in origin.  When 80 females with monosomy X were tested for measures of social cognition, the patients with a paternally derived X chromosome performed better than those with a maternally derived X chromosome.  Males have only one X chromosome, derived from their mother.  If a gene on the paternal X chromosome confers improved social skills, males are deficient in the gene.  This could explain why males are more likely to be diagnosed with ASD.
+
+In the proposed model, the candidate gene is silenced on the maternal copy of the X chromosome.  Thus, males do not express this gene and are more susceptible to subsequent impairments in social and communication skills.  Females, on the other hand, are more resistant to ASD. Recently a cluster of imprinted genes on the mouse X chromosome was discovered; the paternal allele was expressed while the female copy was imprinted and silenced. Further studies are aimed at discovering whether these genes contribute directly to behavior and whether the counterpart genes in humans are imprinted.
+
+The Link to Rett Syndrome
+Epigenetic alterations of the methylation states of genes such as MECP2 and EGR2 have been shown to play a role in autism and autism spectrum disorders.  MECP2 abnormalities have been shown to lead to a wide range of phenotypic variability and molecular complexities.  These variabilities have led to the exploration of the clinical and molecular convergence between Rett syndrome and autism.
+
+Sleeping and language impairments, seizures, and developmental timing are common in both autism and Rett syndrome (RTT).  Because of these phenotypic similarities, there has been research into the specific genetic similarities between these two pervasive developmental disorders.  MECP2 has been identified as the predominant gene involved in RTT. It has also been shown that the regulation of the MECP2 gene expression has been implicated in autism.  Rett syndrome brain samples and autism brain samples show immaturity of dendrite spines and reduction of cell-body size due to errors in coupled regulation between MECP2 and EGR2.   However, because of the multigene involvement in autism, the MECP2 gene has only been identified as a vulnerability factor in autism.  The most current model illustrating MECP2 is known as the transcriptional activator model.
+
+Another potential molecular convergence involves the early growth response gene-2 (EGR2).  EGR2 is the only gene in the EGR family that is restricted to the central nervous system and is involved in cerebral development and synaptic plasticity.  EGR2 expression has been shown to decrease in the cortexes of individuals with both autism and RTT.  MECP2 expression has also been shown to decrease in individuals with RTT and autism.  MECP2 and EGR2  have been shown to regulate each other during neuronal maturation. A role for the dysregulation of the activity-dependent EGR2/MECP2 pathway in RTT and autism has been proposed. Further molecular linkages are being examined; however, the exploration of MECP2 and EGR2 have provided a common link between RTT, autism, and similarities in phenotypic expression.
+
+References
+
+Further reading
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+Epigenetics
+Genetics of autism

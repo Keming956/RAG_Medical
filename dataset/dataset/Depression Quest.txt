@@ -1,0 +1,45 @@
+Depression Quest is a 2013 interactive fiction game dealing with the subject of depression. It was developed by Zoë Quinn using the Twine engine, with writing by Quinn and Patrick Lindsey, and music by Isaac Schankler. It was first released for the web on February 14, 2013, and for Steam on August 11, 2014. The game tells the story of a person suffering from depression and their attempts to deal with their condition. It was created to foster greater understanding about depression. Depression Quest can be played for free, and has a pay-what-you-want pricing model. The National Suicide Prevention Lifeline receives part of the proceeds.
+
+Depression Quest was praised by critics for its portrayal of depression and its educational value. The game was noted for diverging from mainstream uses of video games as a medium. Popular reception was mixed, and Quinn received threats and harassment from people who disapproved of the game. False allegations that the game had received a positive review from a journalist in a relationship with Quinn triggered the Gamergate controversy.
+
+Gameplay 
+
+Depression Quest is an interactive fiction game, which presents descriptions of various situations and prompts the player to choose their response. In addition, most pages feature a set of still images and atmospheric music. The game has over 40,000 words of text, and multiple possible endings.
+
+Players assume the role of a person suffering from depression, and the story centers on their daily life, including encounters at work and their relationship with their girlfriend. The story also features various treatments for depression. Players are periodically faced with choices that alter the course of the story. To make a choice, the player must click on the corresponding hyperlink. However, choices are often crossed out and cannot be clicked on, a mechanism that Depression Quest uses to portray the character's mental state and the fact that logical decisions may not be available to them. Beneath the choices presented to the player are a set of statements about the character, indicating their level of depression, whether or not they are in therapy, and whether or not they are currently on medication.
+
+Development and release 
+
+The game was designed by Zoë Quinn and written by Quinn and Patrick Lindsey, both of whom have had depression. The soundtrack was composed by Isaac Schankler. Quinn and Lindsey started the project, with the aim of communicating how the mind of a depression sufferer functions. Quinn purposely designed the game's protagonist as someone with an outwardly happy and easy life, so as to "preëmpt the argument that someone is only depressed because they have a difficult life."
+
+Depression Quest was first released online as a web browser game on February 14, 2013. Quinn also submitted the game through Steam's Greenlight program and consequently received disparaging comments and hate mail, causing them to withdraw the game from the service. After receiving positive feedback from players who had played the game and receiving an invitation to Indiecade, Quinn tried Greenlight again. They received further harassment, but felt that they could deal with the stress. "I thought, honestly, I could take the hate if it meant the game could reach somebody who would get something out of it, feel less alone," Quinn stated.
+
+The game was accepted by Greenlight in January 2014, and was released on Steam in August that year. The day it was due to go live, news broke that actor Robin Williams had died from a suspected suicide. Quinn considered delaying the Steam release, as they did not want to be seen as taking advantage of Williams' death. They eventually decided to keep to the original release schedule, as Quinn thought that making the game available to those struggling with their own problems was more important than any negative publicity they might receive, writing, "I can't in good conscience hold back offering someone something that could help them start making real changes in their life for the sake of reducing the risk of offending people or hurting my own reputation."
+
+The game uses a pay-what-you-want pricing model: it is free to play, but players can pay any amount they think is appropriate. Part of the proceeds from the game are sent to a charity – initially iFred, but this was later changed to the National Suicide Prevention Lifeline after the game was released on Steam.
+
+Reception 
+
+Depression Quest received mostly positive reviews from critics, who generally viewed it as not being intended for entertainment but education. Jessica Vasquez, writing for Game Revolution, praised the game's portrayal of how sufferers are affected by depression, and expressed optimism in its potential to educate people about depression. Writing for Gizmag, Adam Williams called the experience of Depression Quest "dark and compelling". He added that he did not find the game fun to play, and that "it's certainly no Super Mario Brothers, but that's probably the point". Tim Biggs, writing for the Sydney Morning Herald, also stressed a lack of fun in the game, and went on to say that the game was "a testing and, at times, a boring experience to go through". However, he praised the game's execution, and acknowledged its importance as a tool for raising awareness of depression and for helping its sufferers.
+
+Writing in Ars Technica, Kyle Orland called Depression Quest "one of the most gripping and educational views on the subject [of depression]". Adam Smith, in Rock, Paper, Shotgun, wrote that Depression Quest was "'game' as communication, comfort and tool of understanding". In Giant Bomb, Patrick Klepek praised Depression Quests writing, and said that "by the end, [he] was able to say [he] understood depression a bit better". He also warns players not to expect the game to be enjoyable, saying: "Playing Depression Quest isn't 'fun', like watching Schindler's List isn't 'enjoyable'. They're important for different reasons, and it's okay if they exist for the small audiences who will appreciate them as they are." Depression Quest designer Quinn also headed a Playboy article which featured several video games dealing directly with the subjective experience of depression, in which they noted "I'm very interested in games that aren't there to make the player feel exceptional."
+
+Quinn has faced harassment in response to Depression Quest since the game's initial release. This intensified with the additional publicity the game received on Steam. Quinn initially withdrew the game from Steam's Greenlight service, after having a detailed rape threat mailed to their home address. When they brought Depression Quest back to Greenlight, Quinn began receiving threatening phone calls. In mid-August 2014, soon after the game's official Steam release, a former boyfriend of Quinn wrote a lengthy and negative blog post about their relationship. The post alleged that Quinn had been in a relationship with Nathan Grayson, a video game journalist for Kotaku. Opponents of Quinn claimed that Grayson had given Depression Quest a positive review as a result of this relationship. Investigations proved this to be false: Grayson had at no point reviewed Depression Quest. These false accusations against Quinn sparked what would later be known as the Gamergate controversy. Quinn was subjected to wide-scale harassment, the game's profile page was flooded with what The New Yorker described as "angry user reviews", and reviews for the game were temporarily disabled. The Daily Dot reported that 4chan's video game board had bombarded the game's Metacritic page with negative reviews.
+
+Notes
+
+References
+
+External links 
+ 
+
+2010s interactive fiction
+2013 video games
+Browser games
+Freeware games
+Single-player video games
+Steam Greenlight games
+Video games about mental health
+Video games developed in the United States
+Works about depression
+Twine games

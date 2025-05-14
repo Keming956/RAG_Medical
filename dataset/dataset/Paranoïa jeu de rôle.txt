@@ -1,0 +1,152 @@
+Paranoïa est un jeu de rôle conçu par Greg Costikyan,  et  publié en 1984 chez West End Games.
+
+Paranoïa se déroule dans un univers de fiction futuriste teinté d'humour noir.
+
+Présentation
+
+Les origines du monde de Paranoïa 
+Note : les origines du monde de Paranoïa, qui doivent normalement demeurer un mystère pour les personnages-joueurs, sont présentées dans la boîte déroulante ci-dessous.
+
+Lieu et activités 
+Paranoïa se déroule dans un lieu unique, le Complexe Alpha (Alpha Complex en V.O.), une ville sous dôme coupée du reste du monde. Le complexe est régi par un ordinateur central facétieux, qui envoie volontiers ses « citoyens » vers la chambre d'extermination la plus proche à la moindre anicroche. Les habitants du complexe ignorent tout du monde extérieur et suivent les consignes de l'Ordinateur car, comme il ne cesse de leur rappeler lui-même, « l'Ordinateur est votre ami ».
+
+La population est classée selon une hiérarchie chromatique (code couleur) qui donne droit à chacun à plus ou moins de pouvoir et de liberté, mais aussi plus ou moins de connaissances. La hiérarchie est la suivante : Infrarouge pour la masse, Rouge pour le personnage-joueur débutant, puis Orange, Jaune, Vert, Bleu, Indigo, Violet et enfin Ultraviolet (ces derniers étant aussi appelés « Grands Programmeurs »).
+
+Des sociétés secrètes (souvent des caricatures bouffonnes d'organisations célèbres existant ou ayant  existé, telles que le Club Sierra, les Illuminati, les Communistes) se sont développées en parallèle de cette organisation. L'Ordinateur cherche à détruire chacun de ces groupes ; de leur côté, ceux-ci cherchent à supprimer tous les autres groupes. Des radiations ayant provoqué des mutations parmi la population, l'Ordinateur cherche aussi à éliminer les mutants du Complexe Alpha.
+
+Les personnages incarnés par les joueurs sont des Clarificateurs (Troubleshooters en V.O.), dont le rôle est précisément d'éliminer les traîtres des sociétés secrètes et les mutants du complexe. Mais ils sont eux-mêmes à la fois membres d'une société secrète, mutants et dotés d'un pouvoir spécial. L'Ordinateur envoie donc vers des missions souvent absurdes et meurtrières des personnages totalement incompétents et antagonistes, auxquels il donne du matériel souvent expérimental (donc dangereux) pour résoudre leur tâche.
+
+La réalisation de la mission est rendue encore plus difficile car chacun des membres de l'équipe (dont l'un est obligatoirement le chef) ne souhaite que deux choses : cacher ses appartenances coupables et détruire son prochain ou, mieux, le dénoncer à l'Ordinateur.
+
+Vu la propension de l'Ordinateur à éliminer également les Clarificateurs pour fautes diverses, chaque personnage possède à sa création  6 clones de lui-même.
+
+Les niveaux d'accréditation 
+La société du Complexe Alpha est organisée de façon hiérarchique très stricte : les droits et le pouvoir d'un citoyen sont déterminés par son Niveau d'Accréditation, équivalent d'un grade militaire. Ce niveau est représenté par une couleur du prisme. La vie entière des citoyens est régulée par ces niveaux d'accréditations, puisque chaque objet, dans le Complexe Alpha, est fabriqué avec une couleur correspondant au niveau d'accréditation nécessaire pour avoir le droit de l'utiliser. De même, chaque salle et chaque couloir ne peut être emprunté qu'en fonction de la couleur de ses murs. Par voie de conséquence, l'un des objets les plus puissants du Complexe Alpha est donc un simple pot de peinture, puisqu'il permet de changer le niveau d'accréditation de n'importe quel objet ou couloir...
+
+Un citoyen a l'obligation d'obéir aux ordres de tout citoyen d'accréditation supérieure à la sienne ; de fait, l'un des principaux objectifs des citoyens est de monter en grade.
+
+Les niveaux d'accréditation sont :
+ Infrarouge, représenté par la couleur Noire, le niveau le plus bas, donc le plus représenté dans le complexe. C'est la masse des travailleurs au bas de l'échelle ;
+ Rouge (R), le premier niveau des Clarificateurs, donc des joueurs ;
+ Orange (O) ;
+ Jaune (J) ;
+ Vert (V) ;
+ Bleu (B) ;
+ Indigo (I) ;
+ Violet (Vi) ;
+ Ultra-Violet (U), représenté par la couleur Blanche, aussi appelé « Grand-Programmeur », le niveau du meneur de jeu, inaccessible aux joueurs.
+
+Noms des personnages 
+Tous les citoyens du Complexe Alpha portent des noms étranges, formés comme suit :
+ un prénom ou un groupe de lettres ;
+ l'initiale de l'accréditation du personnage (« R » pour « Rouge ») ;
+ trois lettres indiquant le secteur d'origine du personnage ;
+ son numéro d'identification clonique (allant de 1 à 6).
+
+La tradition de Paranoïa veut que les noms ainsi obtenus soient des jeux de mots lamentables. Ainsi, dans les publications, on trouve : Anna-R-CHI-2, Bo-U-DHA-6, James-B-OND-1, Ram-B-EAU-3, Beg-O-NIA-3, Edel-V-EIS-2...
+
+Les services du Complexe Alpha 
+Les citoyens du Complexe Alpha font tous partie de l'un des services publics du complexe. Ces services sont pléthoriques et rendus inefficaces par leur taille gigantesque, les guerres de bureaux ou inter-services, les interventions des sociétés secrètes, les complexités administratives kafkaïennes imposées par l'Ordinateur... et la mauvaise volonté de leurs propres employés.
+
+Les services du Complexe Alpha sont :
+ Production, Logistique et Intendance (ou PLI), chargés des productions industrielles et agricoles, ainsi que de leur distribution auprès des citoyens ;
+ La Sécurité Interne (ou Sec Int), à la fois service de renseignement et police ;
+ Les Forces Armées (ou FA), chargées de la protection du Complexe Alpha contre les menaces extérieures ;
+ Unité Centrale de Traitement (ou UCT), chargées d'établir et de faire évoluer les procédures de gestion au sein des autres services ;
+ Préservation et Développement de l'Habitat et Contrôle Mental (ou PDH&CM), chargée du logement, des loisirs et de l'éducation des citoyens infrarouges ;
+ Les Services Techniques (ou Tech), chargés de la maintenance ;
+ Le Service de l'Energie, chargé du bon fonctionnement et donc de l'entretien des antiques centrales nucléaires du Complexe Alpha ;
+ Recherche et Conception (ou R&C), qui développe des nouvelles technologies.
+
+L'intérêt des services est triple : d'une part, ils fournissent un background au joueur ; le service d'un personnage est son métier, sa principale occupation en dehors de ses missions de Clarificateur, il influence donc sa mentalité, son comportement. Ensuite, un service fournit une motivation pour les joueurs, car leur personnage peut recevoir des missions secrètes de son service (dans le cadre des luttes inter-services). Enfin, il fournit une inépuisable source de tracas et de conflits pour les joueurs, au point que les visites à PLI (pour obtenir le matériel de la mission) et à R&C (pour le matériel expérimental) sont des points de passages obligés d'une aventure-type...
+
+Les sociétés secrètes du Complexe Alpha 
+
+D'autres sociétés ont été décrites dans le supplément Paranoïa Aigüe :
+
+La plupart de ces sociétés secrètes sont des parodies d'organisations réelles ou de mouvements de mode de la société américaine. Ainsi, les Romantiques sont une caricature des Californiens des années 1980, les Femmes Fatales parodient les féministes, les Communistes rappellent évidemment leurs alters-ego du , le Club Sierra caricature l'organisation éponyme, les Trekkies sont les fans de la série Star Trek, Libre Entreprise est un mélange entre la mafia et les grandes organisations capitalistes, les Chevaliers de la Chose Ronde sont un clin d'œil aux joueurs de Donjons et Dragons, etc.
+
+Style et inspirations 
+Ce jeu de rôle est à prendre au second degré. Il prend à contre-pied les notions de collaboration entre les joueurs, de neutralité du maître de jeu et de progression du personnage-joueur, puisque malgré ses six clones, un personnage survivra rarement plus de quelques parties. De plus, en montant en grade, il deviendra un rival pour ses supérieurs clarificateurs ou de sa société secrète, qui l'enverront probablement en mission-suicide.
+
+Chaque faux pas, chaque parasitage venant du monde réel (par exemple un joueur qui se laisserait aller à dire une phrase montrant qu'il connaît un élément extérieur au Complexe Alpha) se soldera probablement par une exécution sommaire de la part de ses « collègues »… Les joueurs doivent donc se méfier des autres et aussi d'eux-mêmes, à en devenir… paranoïaques.
+
+Les règles de Paranoïa, très simples, permettent ainsi de mettre l'accent sur l'action, l'imagination et le délire des participants.
+
+Les règles du jeu et les scénarios officiels sont truffés de blagues et de jeux de mot d'un goût douteux, et font souvent référence à d'autres œuvres (autres jeux de rôle, cinéma, littérature, séries télévisées), par exemple :
+ la couverture du scénario Envoyez les clones (Send in the Clones) est une évocation du tableau La Naissance de Vénus de Sandro Botticelli (rebaptisé dans le jeu Bot-I-CLI). Le titre du scénario lui-même est inspiré de la chanson populaire Send in the Clowns ;
+ le titre du scénario HIL Sector Blues (Le blues du secteur MIT en V.F) est une référence à la série télévisée Capitaine Furillo (Hill Street Blues en V.O.) ;
+ le scénario Orcbuster de la campagne L'ordinateur frappe toujours deux fois (The Computer Always Shoot Twice) se déroule dans le secteur DND comme… le jeu de rôle Donjons & Dragons (D&D en abrégé) ;
+ le scénario On ne vit que six fois s'inspire des aventures de James Bond dans le film On ne vit que deux fois ;
+ l'ordinateur paranoïaque du jeu présente beaucoup de similitudes avec HAL 9000, l'ordinateur paranoïaque du vaisseau spatial dans le roman 2001, l'Odyssée de l'espace d'Arthur C. Clarke.
+
+Par ailleurs, on peut établir un parallèle entre l'univers de Paranoïa et le roman 1984 de George Orwell (cité par les auteurs en quatrième de couverture du livre de base), ainsi que le film Brazil (1985) de Terry Gilliam, très similaires dans leur esprit et leur thèmes.
+
+Ce JdR est aussi une parodie du film L'âge de cristal, avec la vie sous le dôme sans connaissance du monde extérieur, les habits de couleurs que portent les gens et l'ordinateur qui contrôle tout.
+
+Les Fonctions Obligatoires Complémentaires (règle optionnelle) 
+Initialement introduite dans le supplément Paranoïa Aiguë, et fournie en annexe de la seconde édition, une règle optionnelle permet de définir un rôle différent à chaque joueur au sein de l'équipe, appelée « Fonction Obligatoires Complémentaires » (FOC) :
+ Leader d’Équipe, chargé de mener le groupe ;
+ Officier Garant de la Loyauté, chargé de veiller à l'orthodoxie politique du groupe ;
+ Officier Chargé de l'Hygiène, qui veille à la propreté des membres du groupe ;
+ Officier Responsable des Communications et des Enregistrements, chargé d'enregistrer tout ce qui se passe (pour le débriefing), et de faire des rapports réguliers à l'Ordinateur ;
+ Responsable du Matériel, qui veille à ce que chacun prenne soin du matériel attribué ;
+ Officier Garant du Bonheur, chargé de remonter le moral des troupes (avec des substances chimiques, principalement).
+
+Quelques citations
+
+Historique éditorial
+
+Premières parutions 
+Les deux premières éditions (1984 et 1987) sont parues chez West End Games et ont été traduites en français et publiées par Jeux Descartes (respectivement en 1986 et 1988).
+
+La troisième édition, baptisée Paranoia XP, est parue chez Mongoose Publishing en 2004, et est à ce jour uniquement disponible en anglais.
+
+Le , Mongoose Publishing lance une campagne de financement participatif sur la plateforme Kickstarter pour une nouvelle édition du jeu. La campagne s'achève le  par un succès, et le jeu est annoncé pour la fin 2015. Cette version est écrite par , Grant Howitt et Paul Dean. Par la suite, l'éditeur français Sans-Détour annonce le  qu'il traduira le jeu. La campagne de financement participatif pour la version française est lancée le .
+
+Différences entre les éditions 
+La première édition, parue en 1984 chez West End Games, pose les bases de cet univers oppressant baignant dans l'humour noir, parodiant sa propre époque avec l'ambiance paranoïaque de la guerre froide où l'on craint en permanence l'ennemi communiste invisible, que l'on soupçonne infiltré partout, le terme « commies » (abréviation familière de communistes) résumant d'un mot l'ensemble des ennemis du Complexe Alpha... bien que celui-ci emprunte de nombreux concepts aux dictatures soviétique (interdiction du libre échange, production centralisée, culte de la personnalité d'un dirigeant unique).
+
+La seconde édition, parue trois ans plus tard chez le même éditeur, apporte principalement une mise à jour du système de jeu. L'ambiance reste quasiment identique, à l'exception d'un glissement vers un humour plus affiché et léger, qui contraste avec l'humour très noir de l'édition précédente.
+
+La troisième édition, baptisée humoristiquement « cinquième édition », eu un succès critique et commercial si faible qu'elle n'est pas considéré comme faisait part du canon par les auteurs des éditions suivantes. Le jeu se focalise sur une ambiance parodique au lieu de satirique, délaissant l'humour noir caractéristique de la gamme.
+
+L'édition suivante, dénommée au départ Paranoïa XP (jusqu'à ce que le XP soit retiré à la demande de Microsoft), est sortie en 2004, soit vingt ans après la première. Les auteurs de Mongoose Publishing firent évoluer l'univers du jeu vers une satire plus actuelle, la guerre froide appartenant au passé : si l'on parle toujours des commies ennemis, le Complexe Alpha a glissé largement vers une société high tech de consommation et de libre échange, et les services jadis centralisés sont maintenant effectués par des entreprises (firms en V.O.) prêtes à tout pour obtenir un avantage concurrentiel sur les autres.
+
+En plus de ces évolutions, il est proposé trois styles de jeux aux ambiances distinctes : « Zap », concentré sur l'humour de type cartoon, « Classic », qui se veut fidèle à l’atmosphère traditionnelle du jeu, en équilibre entre satire et humour noir, et « Straight », un mode sombre et réaliste, plus propice aux longues campagnes et se reposant sur l'aspect dystopique de l'univers de jeu.
+
+L'édition anniversaire Troubleshooters, parue en 2009, reprend le contenu de l'édition XP tout en retirant la révolution économique de l'univers de jeu, revenant de fait à un univers plus fidèle aux premières éditions et moins satirique de la société actuelle. La principale nouveauté est la déclinaison en trois jeux distincts dont deux nouveaux :
+ Troubleshooters, proposant comme à l'accoutumée d’interpréter des Clarificateurs de basse accréditation ;
+ Internal Security, permettant de jouer des membres de la sécurité interne, avec une confortable accréditation ;
+ High Programmers, qui permet d'incarner les puissants dirigeants du Complexe Alpha.
+
+Autour du jeu 
+ Bien que le système de jeu de Paranoïa soit suffisamment complexe pour être utilisé, les mêmes auteurs recommandent d'ignorer les règles et d'accorder au meneur de jeu des décisions correspondantes au hasard.
+ Le monde de Paranoïa est un monde plein de prétendues trahisons, accompagné d'une bureaucratie grossière et interminable, qui caricature d'autres jeux où seule l'action prévaut.
+ Le Complexe Alpha, malgré sa politique visant à éradiquer le communisme, a une grande partie de son fonctionnement basé sur celui-ci (centralisation, bureaucratie, dictature « bienveillante », culte de la personnalité, abolition de la propriété privée, etc.).
+ L'Ordinateur choisit la famille du joueur (6 clones), sa résidence, son secteur et ce qu'il va faire, cependant les personnages sont libres de progresser s'ils trahissent leurs amis.
+ Dès le début, l'Ordinateur a aboli toutes les formes de propriété privée pour éviter les conflits ; ironiquement, à mesure que l'on progresse dans l'échelle sociale du complexe, les possessions sont permises.
+ Au lieu d'éliminer l'économie, totalement inutile dans ce monde, chaque citoyen a une petite somme d'argent pour acheter des banalités sans valeur (comme le « Refreshing Sparkling Brew » (Breuvage mousseux rafraîchissant) ou des portraits de la célèbre Mad-O-NNA-1).
+
+Distinctions 
+En 1984, Paranoia remporte l’Origins Award des meilleures règles de roleplay. Il est intronisé au Origins Awards Hall of Fame en 2007.
+
+Notes et références
+
+Voir aussi
+
+Bibliographie
+
+Articles connexes 
+ Paranoïa
+ Société secrète
+ Dystopie
+ Humour noir
+
+Liens externes 
+ .
+
+Jeu de rôle humoristique
+Jeu de rôle paru dans les années 1980
+Jeu humoristique
+Jeu de science-fiction

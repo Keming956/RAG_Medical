@@ -1,0 +1,51 @@
+The Department of Health autism dossiers scandal concerns the compilation of secret dossiers on children with autism by the Department of Health in the Republic of Ireland.
+
+Revelation
+On 25 March 2021 RTÉ Investigates broadcast a documentary which interviewed whistleblower Shane Corr, who alleged that the Department of Health had secretly gathered information from private consultations with doctors. The families in question had been involved in legal action against the state. The alleged dossiers contained sensitive medical and educational information about the children in question, as well as their parents and siblings.
+
+The information was gathered with the cooperation of the Health Service Executive and Department of Education.
+
+The cases are dormant and the information was shared with a view to help the Department of Health with legal strategy. There has been no active litigation in the cases in question nor has there been any evidence they could be reactivated.
+
+Template letters seen by RTÉ emphasised keeping the families ignorant of the information gathering.
+The information was gathered on the explicit grounds that neither the children, their families nor their solicitors were informed. The coses were dormant before 2010.
+
+Information was collated and stored in a database that was accessible within part of the Department of Health.
+
+Simon Corr had previously made a protected disclosure to his superiors in 2020 before telling RTÉ Investigates about the matter.
+
+Responses
+Data protection expert Daragh O'Brien said that by not informing families, there seems to be a breach of Irish law, EU law (including GDPR) and their fundamental rights.
+
+Catherine Ghent, a solicitor specialising in children's rights, said that the cases were dormant as far as families knew and the Department of Health should not have worked on the cases without informing them. 
+
+Paul Reid. chief of the HSE, said the matter was 'extremely concerning'. He also said that the HSE had tried contacting RTÉ about any breaches of confidentiality.
+
+The Oireachtas Committee on Disability Matters has said that the compilation of dossiers could be a breach of the United Nations Convention on the Rights of Persons with Disabilities.
+
+Reviews
+Robert Watt, newly appointed secretary-general at the Department of Health, told the Health Committee that there was no evidence that the department was compiling secret dossiers in the manner that RTÉ portrayed. He said that as co-defendant, the department may have documents related to the matters, but that there is no evidence the department had never directly sought clinical reports from clinicians on plaintiffs.
+
+After two reports were published by the Department of Health, Conor Ryan of RTÉ pointed out that the internal review placed a particular emphasis on the word "directly", using it more than twenty times. The primary allegation was not that information was directly requested from clinicians, but that information gleaned from them was compiled into dossiers on dormant cases.
+
+There was a second review by Senior Counsel Conleth Brady.
+
+The internal review confirmed that in six cases medical reports were found in Department of Health files. The internal review said that "service updates were sought from service managers in the HSE" as opposed to clinicians. According to the senior counsel report the contact was between the department and "HSE management". In most cases the department was able to get information indirectly.
+
+In relation to the Department of Education the internal review said "there is no evidence that the Department of Health sought updates or reports on plaintiffs directly from Schools or the Department of Education". Conor Ryan also points out "sought" and "directly" are key words in the review - that the department had confirmed that it had received information from school reports, but that it had not "sought" it, but had obtained it "in the usual way". The Department of Health was copied in on information sent by the Department of Education to the Chief State Solicitor's Office, which was a co-defendant in some cases. The Department of Health kept this information.
+
+Both reviews confirmed the department had used spreadsheets to process and store information on children and also the use of a template letter sent by the department to the HSE repeatedly requesting information on children and their families. Letters specifically state that "this is not a request to contact any of the plaintiffs involved in the litigation or their families or their legal advisors and indeed we would request you do not do so in relation to this request". The reports confirm that updated sensitive information was repeatedly received, processed and stored by the department in relation to the requests.
+
+The Brady review said that he had reviewed a large number of the spreadsheets kept by the department and agreed with the whistleblower that "some of the information contained in the spreadsheets is sensitive and in some cases refers to what are distressing circumstances".
+
+Data Protection Commissioner's review
+The Data Protection Commissioner has launched a statutory inquiry into the allegations under section 110 of the Data Proection Act 2018.
+
+References
+
+2021 in the Republic of Ireland
+Political scandals in the Republic of Ireland
+2021 scandals
+Medical scandals in Ireland
+Sociological and cultural aspects of autism
+Department of Health (Ireland)

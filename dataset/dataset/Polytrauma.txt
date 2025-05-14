@@ -1,0 +1,84 @@
+Als Polytrauma bezeichnet man in der Medizin nach der Berliner Polytrauma Definition das Vorliegen mindestens zweier Verletzungen mit einem AIS (Abbreviated Injury Scale) von ≥ 3 mit mindestens einer der folgenden Diagnosen:
+
+ Hypotension (systolischer Blutdruck ≤ 90 mmHg)
+ Bewusstlosigkeit (Glasgow Coma Scale ≤ 8)
+ Azidose (Base Excess ≤ −6.0)
+ Koagulopathie (INR ≥ 1.4)
+ Alter (≥ 70 Jahre)
+
+Ein Trauma (griechisch τραῦμα) ist in der Medizin eine Schädigung, Verletzung oder Wunde, die durch Gewalt verursacht wird. Die durch das griechische Wort poly- ( = viel) angezeigte Mehrfachverletzung wird unterschieden von der isolierten Verletzung einer einzelnen Körperregion, die ebenso lebensbedrohlich sein kann, z. B. isoliertes Schädel-Hirn-Trauma bei Kopfschuss.
+
+Die häufigsten Ursachen für Polytraumen sind Verkehrsunfälle und Stürze aus großer Höhe. Die Versorgung polytraumatisierter Patienten macht zirka 1 % aller Notarzteinsätze aus.
+
+Patienten mit Polytrauma werden im allgemeinen medizinischen Sprachgebrauch zu den Schwerst- bzw. Schwerverletzten gezählt. Die amtliche Verkehrsunfallstatistik kennt ebenfalls den Begriff des „Schwerverletzten“, definiert diesen aber als Unfallopfer, das für mindestens 24 Stunden stationär in einem Krankenhaus behandelt wurde und über den 30. Tag hinaus überlebte, wobei diese Kriterien schon bei weniger schweren Verletzungen gegeben sein können.
+
+Besonderheiten 
+Unter den von der Medizin behandelten Verletzungen nimmt das Polytrauma aus mehreren Gründen eine Sonderstellung ein.
+ Schwer unfallverletzte Patienten sind für Laien wie für professionelle Helfer eine besondere psychische Herausforderung, weil sie z. B. blutüberströmt, entstellt oder stark deformiert sein können. Bei Verkehrsunfällen sind häufig mehrere (Begleit-)Personen mitverletzt.
+ Für Patienten mit Polytrauma besteht Lebensgefahr. Das behandelnde Team steht somit unter großer Verantwortung, es besteht zudem Zeitdruck für alle durchzuführenden Maßnahmen.
+ Definitionsgemäß sind mehrere Körperregionen oder Organe betroffen. Der behandelnde Arzt muss also unterschiedlich schwerwiegende und dringliche Verletzungen gleichzeitig beurteilen und eventuell sofort die dringendsten Probleme behandeln.
+
+Es handelt sich also um eine außerordentlich komplexe medizinische Fragestellung, die unter Zeitdruck und unter großer psychischer Belastung gelöst werden muss.
+
+Scoring-Systeme 
+Für die Beurteilung der Verletzungsschwere haben sich mehrere spezielle Trauma-Scores etabliert:
+ Glasgow Coma Scale (GCS) zur Beurteilung einer Schädel-Hirn-Verletzung bzw. des Bewusstseinszustands
+ Injury Severity Score (ISS) zur Beurteilung des Ausmaßes der anatomischen Verletzungsschwere als Quadratsumme der drei schwersten Verletzungen von sechs abgegrenzten anatomischen Regionen, deren einzelne Verletzungsschwere als Abbreviated Injury Scale (AIS) erfasst wird: Der ISS kann Werte zwischen 0 und theoretisch 75 Punkten annehmen, mit höheren Werten für höhere Verletzungsschwere. Der ISS wird am häufigsten eingesetzt, auch als allgemein geläufige und in wissenschaftlichen Studien häufig verwendete Definition eines Polytraumas mit einer Verletzungsschwere mit einem ISS >15. Es besteht eine lineare Korrelation zwischen ISS und Mortalität, Morbidität und Krankenhausaufenthalt, allerdings besteht eine hohe Rate von bis zu 48 % für Fehlklassifikationen.
+ Revised Trauma Score (RTS gemäß H. R. Champion) als Ausmaß der physiologischen Beeinträchtigung ist eine (mit Koeffizienten) gewichtete Summe der drei Parameter Glasgow Coma Scale (GCS) für die Funktion des zentralen Nervensystems (0 bis 4 Punkte, multipliziert mit 0,938), systolischer Blutdruck (0 bis 4 Punkte, multipliziert mit 0,736) und Atemfrequenz (0 bis 4 Punkte, multipliziert mit 0,2908). Ein Wert von (gerundet) 8 kennzeichnet somit ein leichtes Trauma, ein Wert von 6 ein mittelschweres, einer von 4 ein schweres und ein Wert unter 2 eine lebensgefährliche Verletzung. Der RTS liegt zwischen 0 und 7,84, wobei höhere Werte geringeren physiologischen Störungen entsprechen. Die Überlebensprognose korreliert mit dem RTS, sie liegt bei RTS=4 bei 60,5 % und bei RTS=3 nur noch bei 36 %. Hervorgegangen ist der RTS 1989 aus dem mehr Variablen berücksichtigenden, 1981 ebenfalls von H. R. Champion entwickelten Trauma Score (TS) mit den physiologischen Parametern GCS (1 bis 5 Punkte), Atemfrequenz (0 bis 4 Punkte), Atemexkursion (1 bis 2 Punkte), systolischer Blutdruck (0 bis 4 Punkte) und kapilläre Wiederauffüllung auf Nagelbettdruck (0 bis 2 Punkte). Der TS unterschätzte jedoch den Schweregrad von Schädel-Hirn-Traumen und erwies sich in Bezug auf die Bewertung von Atemexkursionen und Kapillarfüllung als unpraktisch am Unfallort.
+ Rein deskriptiv ist die Schweregradeinteilung nach Schweiberer von Grad I (mäßige, aber stationäre Behandlung erfordernde Verletzung ohne Schock) über Grad II (schwere, aber nicht lebensbedrohliche Verletzung mit Schockzeichen) bis Grad III (lebensbedrohliche Verletzung mit Blutverlust über 50 %).
+
+Behandlung 
+Die Therapie von Polytrauma-Patienten kann eingeteilt werden in vier Behandlungsphasen:
+ Akutphase (etwa 1. bis 3. Stunde): Schweregradabschätzung, Schockbehandlung, ggf. Wiederbelebung, ggf. lebensrettende Operationen
+ Primärphase (etwa 1. bis 3. Tag): Stabilisierung von Kreislauf und Atmung auf der Intensivstation, Röntgendiagnostik, Ultraschalldiagnostik, Ausschluss von Gefäß-, Harnblasen- und Harnröhrenverletzungen, ggf. Noteingriffe
+ Sekundärphase (etwa 2. bis 8. Tag): weitere Stabilisierung von Herz und Kreislauf sowie von Lungen- und Hirnfunktionen, ggf. weitere Operationen
+ Tertiärphase  (etwa ab 8. Tag): ggf. Entwöhnung von der Beatmungsmaschine, zunehmende Mobilisierung, ggf. Durchführung bisher aufgeschobener operativer Eingriffe.
+
+Lebensrettende Sofortmaßnahmen 
+Standardmaßnahmen sind die Absicherung der Unfallstelle unter Eigenschutz und das Absetzen des Notrufs – hierbei ist die Rettungskette zu beachten.
+
+Noch am Unfallort müssen dann eventuell lebensrettende Sofortmaßnahmen durchgeführt werden wie die Stillung starker Blutungen, bei Bewusstlosigkeit eine stabile Seitenlage und gegebenenfalls die Durchführung einer Herz-Lungen-Wiederbelebung.
+
+Rettungsdienstliche Maßnahmen am Unfallort 
+
+Der Rettungsdienst (Notfallsanitäter, Rettungsassistent, Rettungssanitäter, Notarzt) untersucht den Patienten nach einer eventuellen technischen Rettung am Unfallort zunächst kurz in Bezug auf die Vitalfunktionen und ergreift Maßnahmen, um den Patienten zu stabilisieren und transportfähig zu machen. Hierbei kommen standardisierte Abläufe (zum Beispiel gemäß dem Pre-Hospital-Trauma-Life-Support-Konzept) zum Einsatz.
+
+Der Rettungsdienst verschafft sich in der Erstbeurteilung einen groben Überblick über einige wichtige Körperstrukturen und Funktionen (Atemwege/Atmung, Kreislauffunktion, Verletzungen wichtiger Organsysteme). Von primärer Bedeutung ist die Stabilisierung der Vitalfunktionen; neben einer Sauerstoffgabe und einer Atemwegssicherung (oft durch eine endotracheale Intubation) wird, sofern vorhanden, ein Spannungspneumothorax entlastet; spritzende Blutungen werden mittels Druckverband oder durch Abbinden gestillt; zur Infusionstherapie sind mehrere großlumige peripher-venöse Zugänge beim polytraumatisierten Patienten indiziert. Die Wirbelsäule des Patienten wird mit Cervicalstütze und Spineboard oder Vakuummatratze immobilisiert.
+
+Ist die Transportfähigkeit hergestellt, wird der Patient schnellstmöglich in ein für die Versorgung von polytraumatisierten Patienten geeignetes Krankenhaus gebracht. Die Transportbereitschaft sollte innerhalb von 10 bis 15 Minuten hergestellt sein, damit man innerhalb der ersten „golden hour“, während der der Patient die beste Prognose hat, den Patienten einem Traumazentrum zukommen lassen kann. Es ist Aufgabe des Notarztes, aufgrund des Verletzungsmusters einzuschätzen, welche medizinischen Fachrichtungen in diesem Krankenhaus vorhanden sein müssen, um den Patienten adäquat zu versorgen z. B. Mund-, Kiefer- und Gesichtschirurgie, Thoraxchirurgie, Neurochirurgie bei Schädel-Hirn-Trauma. Der Notarzt muss auch entscheiden, wie dringlich der Transport ist und welches Transportmittel (Rettungswagen oder Rettungshubschrauber) benutzt wird, um den Patienten schnellstmöglich einer bestmöglichen Versorgung zuzuführen.
+
+Versorgung im Krankenhaus 
+
+Die Erstversorgung des Polytraumatisierten wird typischerweise im Schockraum des Krankenhauses vorgenommen, oft nach standardisierten Vorgehensweisen, wie etwa dem ATLS-Konzept. Diagnostik und Behandlung erfolgt interdisziplinär unter Hinzunahme verschiedener Fachrichtungen (Allgemein- und Unfallchirurgie, Anästhesie, Neurochirurgie, Radiologie und evtl. weiterer benötigter Disziplinen)
+
+Strukturiert werden die wichtigsten lebensbedrohlichen Verletzungen rasch diagnostiziert und behandelt. Dazu wird der Patient klinisch untersucht, eine Sonographie des Brust- und Bauchraumes wird durchgeführt, um eine innere Blutung oder Organverletzungen zu entdecken (FAST-Sonographie). Dann wird innerhalb weniger Minuten eine Ganzkörper-Computertomographie („Trauma-Scan“, „Traumaspirale“, „Polytrauma-CT“) durchgeführt, so dass alle wesentlichen Verletzungen erkannt werden können. Röntgenbilder werden eventuell angefertigt, falls die Situation des Patienten für dieses relativ zeitaufwendige Verfahren stabil genug ist. Es wird im Anschluss rasch über die notwendigen Akutbehandlungen (etwa operative Beckenstabilisierung, Laparotomie bei Blutungen im Bauchraum, Trepanation bei Schädelhirntrauma; anschließende Intensivtherapie) entschieden.
+
+Epidemiologie 
+Jedes Jahr verletzen sich in Deutschland 32.000 bis 38.000 Menschen schwer (mit ISS > 15), die mittlere 10,3 Tage intensivmedizinisch und mittlere 22,1 Tage stationär im Krankenhaus behandelt werden müssen. Die Überlebensrate ist von 63 % in den 1990er Jahren auf 78 % (2004) gestiegen. Das Traumaregister der Deutschen Gesellschaft für Unfallchirurgie hat im Jahresbericht 2002 Daten von 14.110 Polytraumata zusammengefasst. Die Unfallopfer waren im Mittel 39,9 Jahre alt, 72 % waren Männer. Die mittlere Verletzungsschwere lag bei einem ISS von 24,3 Punkten. In 95 % lag ein stumpfes Trauma, in 4 % ein penetrierendes Trauma (Schuss-, Stichverletzung) vor. In 62 % handelte es sich um einen Verkehrsunfall, bei 15 % um einen Sturz aus mehr als 3 Meter Höhe und bei 6 % um einen Selbstmordversuch. Bei 58 % lag eine schwere Schädel-Hirn-Verletzung vor, der Brustraum war bei 57,6 % der Patienten schwer betroffen, schwere Bauchverletzungen fanden sich bei 25,5 %, schwere Extremitätenverletzungen bei 40,6 %, jeweils mit einem AIS von mindestens drei Punkten.
+
+Noch am Unfallort wurden 59 % intubiert, insgesamt wurden 84 % beatmet. Bei 20 % lag initial ein Schock mit einem Blutdruckabfall unter 90 mmHg vor, 32 % waren bewusstlos. Bereits 8 % starben am Unfallort oder in den ersten 24 Stunden, insgesamt 16 % starben vor Entlassung. Bei 32 % entwickelte sich ein Multiorganversagen. Bereits in der Primärversorgung im Schockraum erfolgte bei 43 % eine Bluttransfusion. 78 % der Unfallopfer wurden operiert, im Mittel 4,5 mal. Bei 12 % erfolgte der erste operative Eingriff bereits im Schockraum. In dieser Studie betrug der mittlere Krankenhausaufenthalt 31 Tage, davon 13 Tage auf einer Intensivstation.
+
+Um die Inzidenz von Polytraumata bei Straßenverkehrsunfällen und die zugrunde liegenden Unfallmechanismen zu bestimmen, führte die Unfallforschung der Versicherer (UDV) 2008 eine Vollerhebung von Unfallopfern mit ISS >15 in sechs Landkreisen und zwei kreisfreien Städten mit insgesamt 1,32 Millionen Einwohnern durch. Innerhalb eines Jahres wurden 131 Patienten mit dieser Verletzungsschwere, die in der Studienregion verunglückt waren, in Kliniken eingeliefert, während 66 Unfallopfer noch am Unfallort verstarben. Überlebende Patienten nach Polytrauma hatten damit einen Anteil von 10 % unter den schwerverletzten Verkehrsunfallopfern gemäß amtlicher Definition.
+
+Versorgungsstrukturen 
+Die Deutsche Gesellschaft für Unfallchirurgie fordert in ihrem Weißbuch von 2006 die Entwicklung eines flächendeckenden Netzwerks von Traumazentren zur optimierten Versorgung schwerverletzter Patienten in einem dreistufigen System von einer lokalen Basisversorgung über eine regionale Schwerpunktversorgung bis zur Versorgung Schwerverletzter in überregionalen Traumazentren der Maximalversorgung sowie spezialisierten Behandlungszentren. Dazu werden genaue Aufgabenstellungen, strukturelle, räumliche und personelle Ausstattungsmerkmale empfohlen. Daneben werden eine fortlaufende Qualitätssicherung und eine strukturierte Kommunikation zwischen allen Ebenen gefordert. Dieses System ist bei den teilnehmenden Kliniken des Traumaregisters der DGU (der Deutschen Gesellschaft für Unfallchirurgie) bereits weitgehend realisiert.
+
+Forschung am Schwerverletzten 
+Neben der Forschung im Bereich des Traumaregisters befassen sich Forschungsgruppen auch mit immunologischen Fragen beim Polytrauma. Ziel ist es, frühzeitige Marker der Akute-Phase-Reaktion zu finden, die im Sinne einer immunologischen Verletzungsschwere das Risiko einer systemischen Entzündungsreaktion oder Sepsis nach schwerer Unfallverletzung abbilden, wobei die bisherige über zwanzigjährige Forschung keine klinisch relevanten Ergebnisse aufbieten konnte. Andererseits wird der Frage nach der Schwere und Dauer einer zwischenzeitlichen Immunsuppression zwischen dem zweiten und vierten Tag nach dem Unfall nachgegangen, während derer ein stark erhöhtes Risiko bei erneuten operativen Eingriffen besteht (Second hit).
+
+Literatur 
+ 
+ Harald Tscherne, Gerd Regel: Unfallchirurgie. Trauma-Management. Springer-Verlag, Berlin  Heidelberg New York 1997, ISBN 3-540-61605-5.
+ J. R. Döhler, R. Baetgen: Zur klinischen Primärversorgung von Schwerverletzten. In: Chirurgische Allgemeine 8 (2007), S. 188–189.
+ T. Gross: Langzeitoutcome nach Polytrauma im erwerbsfähigen Alter. Eine prospektive Datenerhebung an einem Schweizer Traumazentrum. In: Der Unfallchirurg 119 (2016), S. 921–928.
+
+Weblinks 
+
+ Trauma Surgery, Injury & Critical Care (englisch)
+ Schwerstverletzte im Straßenverkehr
+
+Einzelnachweise 
+
+Krankheitsbild in Orthopädie und Unfallchirurgie
+Krankheitsbild in der Notfallmedizin
+Krankheitsbild in der Intensivmedizin

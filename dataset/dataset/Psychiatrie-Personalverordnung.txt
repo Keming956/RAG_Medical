@@ -1,0 +1,26 @@
+Die Psychiatrie-Personalverordnung regelt die personelle Ausstattung psychiatrischer Krankenhäuser.
+
+Die Psychiatrie-Personalverordnung (Psych-PV) gruppiert stationär behandelte Patienten in Behandlungsbereiche und Behandlungsarten ein. Sie bildet einen wesentlichen Rahmen für die Finanzierung der Behandlung in der Psychiatrie und setzt Mindeststandards für die Patientenversorgung. Berücksichtigung findet hierbei auch die Pflichtversorgung, die auch unfreiwillige Behandlungen umfasst.
+
+Die Behandlungsbereiche der Psych-PV sind Allgemeine Psychiatrie (Kürzel: A), Abhängigkeitskranke (S), Gerontopsychiatrie (G) und Kinder- und Jugendpsychiatrie (KJ).
+
+Behandlungsarten der Erwachsenenpsychiatrie sind Regelbehandlung (Kürzel: 1), Intensivbehandlung (2), Rehabilitative Behandlung (3), Langdauernde Behandlung Schwer- und Mehrfachkranker (4), Psychotherapie (5) und Tagesklinische Behandlung (6). Analog sind die Behandlungsarten in der Kinder- und Jugendpsychiatrie Kinderpsychiatrische Regel- und Intensivbehandlung (1), Jugendpsychiatrische Regelbehandlung (2), Jugendpsychiatrische Intensivbehandlung (3), Rehabilitative Behandlung (4), Langdauernde Behandlung Schwer- und Mehrfachkranker (5), Eltern-Kind-Behandlung (6) und Tagesklinische Behandlung (7).
+
+Beispiele: Ein schwer depressiver Patient wird als A1, mit suizidalem Syndrom als A2 eingruppiert. Ein Patient mit schwerem Alkoholentzugssyndrom wird als S2 eingruppiert. Ein Patient mit Delir bei Demenz: G2. Ein 12-jähriger Patient in der Kinder- und Jugendpsychiatrie: KJ1.
+
+Die Psych-PV-Eingruppierung erfolgte bis Ende 2009 nach § 4 Abs. 3 viermal jährlich bei Stichtagserhebungen. Seit Inkrafttreten des  des Krankenhausfinanzierungsgesetzes am 1. Januar 2010 wird die Psych-PV-Eingruppierung bei Aufnahme eines Patienten ins Krankenhaus und bei jedem Wechsel von Behandlungsbereich oder Behandlungsart durchgeführt und an die zuständige Krankenkasse übermittelt.
+
+Anders als in Krankenhäusern zur Versorgung bei körperlichen Erkrankungen wird in Psychiatrischen, Psychosomatischen und Kinder- und Jugendpsychiatrischen Krankenhäusern nicht nach Diagnosis Related Groups mittels Fallpauschalen abgerechnet, sondern nach Behandlungs- und Pflegetagen mit einem mit den Krankenkassen vereinbarten festen Pflegesatz. Seit dem 1. Januar 2010, bzw. noch sanktionsfrei bis zum 1. Juli 2010, müssen nach § 17 d KHG Operationen- und Prozedurenschlüssel (OPS) an die zuständige Krankenkasse übermittelt werden, die sich aus einer pauschalierten Leistungserfassung errechnen.
+
+Mit dem Gesetz zur Weiterentwicklung der Versorgung und der Vergütung für psychiatrische und psychosomatische Leistungen (PsychVVG) wird eine Neuausrichtung des Vergütungssystems für psychiatrische und psychosomatische Leistungen vorgenommen. Die Einführung von Entgelten mittels tagesbezogener Pauschalen, die sich aus dem entsprechenden PEPP-Entgeltkatalog basierend auf der OPS-Version und dem PEPP-Definitionshandbuch ergeben (jeweils mit jährlicher Aktualisierung) ist spätestens zum Jahresende 2019 für alle Einrichtungen im Geltungsbereich des § 17d KHG vorgeschrieben.
+
+Am 19. September 2019 hat der Gemeinsame Bundesausschuss eine die zum 1. Januar 2020 die Psychiatrie-Personalverordnung ablösende Richtlinie über die Personalausstattung in psychiatrischen, pychosomatischen und kinder- und jugendpsychiatrischen Kliniken beschlossen.
+
+Weblinks
+
+Einzelnachweise 
+
+Rechtsquelle (Deutschland)
+Rechtsquelle (20. Jahrhundert)
+Medizinrecht (Deutschland)
+Psychiatrie (Deutschland)

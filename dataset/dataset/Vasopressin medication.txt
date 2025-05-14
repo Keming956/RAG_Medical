@@ -1,0 +1,44 @@
+Vasopressin infusions are in use for septic shock patients not responding to fluid resuscitation or infusions of catecholamines (e.g., dopamine or norepinephrine) to increase the blood pressure while sparing the use of catecholamines. These argipressins have much shorter elimination half-life (around 20 minutes) comparing to synthetic non-arginine vasopresines with much longer elimination half-life of many hours. Further, argipressins act on V1a, V1b, and V2 receptors which consequently lead to higher eGFR and lower vascular resistance in the lungs. A number of injectable arginine vasopressins are in clinical use in the United States and the European Union. Pitressin among others, is a medication most commonly used in the treatment of frequent urination, increased thirst, and dehydration such as that resulting from diabetes insipidus, which causes increased and diluted urine. It is used to treat abdominal distension following some surgeries, and in stomach roentgenography. Vasopressin is a hormone that affects the kidneys and reduces urine flow.
+
+Side effects may include stomach ache, vertigo, pale skin, flatulence, headache, or tremor.
+
+Medical uses
+Vasopressin is used to manage anti-diuretic hormone deficiency. It has off-label uses and is used in the treatment of gastrointestinal bleeding, ventricular tachycardia and ventricular defibrillation. Vasopressin is used to treat diabetes insipidus related to low levels of antidiuretic hormone. It is available as Pressyn.
+
+Vasopressin agonists are used therapeutically in various conditions, and its long-acting synthetic analogue desmopressin is used in conditions featuring low vasopressin secretion, as well as for control of bleeding (in some forms of von Willebrand disease and in mild haemophilia A) and in extreme cases of bedwetting by children. Terlipressin and related analogues are used as vasoconstrictors in certain conditions. Use of vasopressin analogues for esophageal varices commenced in 1970.
+
+Vasopressin infusions are also used as second line therapy in septic shock patients not responding to fluid resuscitation or infusions of catecholamines (e.g., dopamine or norepinephrine).
+
+Catecholamine refractory hypotension in septic shock
+
+Efficacy of vasopressin on systemic hemodynamics in catecholamine-resistant septic and postcardiotomy shock have been studied and published first in 2001 Later, the group concluded the ischemic skin lesions (ISL) developed in patients with catecholamine-resistant vasodilatory shock have multi-factorial cause and shall not necessarily been seen a side effect of AVP solely. The presence of septic shock and a history of peripheral arterial occlusive disease are independent risk factors for the development of ISL. In the last decade, in early hyperdynamic septic shock, the administration of high-dose AVP as a single agent proved to fail to increase mean arterial pressure in the first hour but maintains it above 70mmHg in two-thirds of patients at 48h. AVP decreases NE exposure, has no effect on the PrCO(2) - PaCO(2 )difference, and improves renal function and SOFA score. This led to development of a large trial to see theeffect of arginin vasopressin as add-on to norepinephrine in septic shock. It could be shown, if giving vasopressin in early stage of septic shock (norepinephrin < 15 microgramm/min and lactate < 1.4 mmol/L) there is a statistically significant interaction between vasopressin and corticosteroids. The combination of low-dose vasopressin and corticosteroids was associated with decreased 28 and 90 days mortality and organ dysfunction compared with norepinephrine and corticosteroids.
+
+2018 Surviving Sepsis Campaign Guidelines
+The Surviving Sepsis Campaign guidelines recommend the very early management of the sepsis focusing on the hour-1 bundle. This includes use of Vasopressin 0.03 units/minute as add-on to norepinephrine (NE) with intent of either raising the mean arterial pressure or decreasing the norepinephrine dosage (i.e. de-catecholaminization).
+
+Cardiac arrest
+Modern interest in vasopressors as a treatment for cardiac arrest stem mostly from canine studies performed in the 1960s by anesthesiologists Dr. John W. Pearson and Dr. Joseph Stafford Redding in which they demonstrated improved outcomes with the use of adjunct intracardiac epinephrine injection during resuscitation attempts after induced cardiac arrest. Also contributing to the idea that vasopressors may be useful treatments in cardiac arrest are studies performed in the early to mid 1990s that found significantly higher levels of endogenous serum vasopressin in adults after successful resuscitation from out-of-hospital cardiac arrest compared to those who did not live. Results of animal models have supported the use of either vasopressin or epinephrine in cardiac arrest resuscitation attempts, showing improved coronary perfusion pressure and overall improvement in short-term survival as well as neurological outcomes.
+
+Vasopressin vs. epinephrine
+Although both vasopressors, vasopressin and epinephrine differ in that vasopressin does not have direct effects on cardiac contractility as epinephrine does. Thus, vasopressin is theorized to be of increased benefit over epinephrine in cardiac arrest due to its properties of not increasing myocardial and cerebral oxygen demands. This idea has led to the advent of several studies searching for the presence of a clinical difference in benefit of these two treatment choices. Initial small studies demonstrated improved outcomes with vasopressin in comparison to epinephrine. However, subsequent studies have not all been in agreement. Several randomized controlled trials have been unable to reproduce positive results with vasopressin treatment in both return of spontaneous circulation (ROSC) and survival to hospital discharge, including a systematic review and meta-analysis completed in 2005 that found no evidence of a significant difference with vasopressin in five studied outcomes.
+
+Vasopressin and epinephrine vs. epinephrine alone
+There is no current evidence of significant survival benefit with improved neurological outcomes in patients given combinations of both epinephrine and vasopressin during cardiac arrest. A systematic review from 2008 did, however, find one study that showed a statistically significant improvement in ROSC and survival to hospital discharge with this combination treatment; unfortunately, those patients that survived to hospital discharge had overall poor outcomes and many suffered permanent, severe neurological damage. A more recently published clinical trial out of Singapore has shown similar results, finding combination treatment to only improve the rate of survival to hospital admission, especially in the subgroup analysis of patients with longer "collapse to emergency department" arrival times of 15 to 45 minutes.
+
+Surgery for congenital heart disease
+Vasopressin  is used in managing hemodynamic instability in newborns and older children recovering from cardiac surgery. There is evidence that some children recovering from cardiac surgery have relative vasopressin deficiency, such that their endogenous plasma concentrations of arginine vasopressin are lower than what would be expected in this clinical setting. Though low endogenous vasopressin concentrations in and of themselves do not cause hemodynamic instability, neonates and children recovering from cardiac surgery who develop hemodynamic instability and have low endogenous vasopressin concentrations are optimal candidates for this surgery.  Unfortunately, measurement of endogenous vasopressin concentration is time consuming and cumbersome, and not practical for bedside application.  Copeptin, a more stable and easily measured product
+of pro-AVP processing, may be a means of identifying patients with low endogenous vasopressin concentrations.  Further research is needed. Also, systemic corticosteroids have been shown to suppress endogenous vasopressin production and release. Neonates and children recovering from cardiac surgery who are receiving systemic corticosteroid therapy may also be optimal candidates for vasopressin therapy should hemodynamic instability be present.
+
+Vasopressin receptor inhibition
+
+A vasopressin receptor antagonist is an agent that interferes with action at the vasopressin receptors. They can be used in the treatment of hyponatremia.
+
+References
+
+External links 
+ 
+
+Antidiuretics
+Drugs acting on the genito-urinary system
+Peptides
+Vasopressin receptor agonists

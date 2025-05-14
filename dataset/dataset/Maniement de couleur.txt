@@ -1,0 +1,217 @@
+Dans le jeu de bridge, un maniement de couleur définit l'ordre dans lequel un déclarant doit jouer les cartes d'une couleur, en fonction de ses  propres cartes, de celles du mort et des cartes inconnues chez les adversaires.
+
+Il existe des livres entiers sur le sujet. Les maniements les plus habituels devraient être connus par cœur et, pour les autres, il est bon de connaître quelques principes permettant de les retrouver à la table.
+
+Concepts de base 
+
+Sauf indication contraire, les études de maniement font généralement les hypothèses suivantes, un peu académiques et qui ne seront pas toujours présentes dans la vraie vie :
+
+ Jeu à SA ou dans la couleur d'atout: pas de possibilité d'affranchissement par la coupe.
+ Le déclarant dispose de toutes les communications nécessaires et peut les utiliser sans risque à tout moment.
+ Pas d'information sur la répartition des mains adverses.
+ Pas de notion d'adversaire dangereux qui va faire le retour mortel.
+ Le déclarant n'est pas concerné par le nombre de levées qu'il faut concéder dans la couleur avant de pouvoir y réaliser ses propres levées.
+ Les adversaires jouent au mieux de leurs intérêts.
+ Lorsqu'un rendement mathématique est donné pour une maniement, c'est un rendement à priori (sans information annexe) en début de donne.
+Tous les éventuels "x" dans les schémas des mains du camp du déclarant sont de rang insignifiant.
+
+Maniements de base
+
+Séquences d'honneurs 
+Pour créer des levées, vous devez affranchir une couleur. La séquence d'honneur (concentrée dans une main, ou répartie entre le déclarant et le mort) rend cet affranchissement plus facile.
+ 
+Si vous avez au mort une séquence comme  R D V x, pouvez affranchir 2 levées certaines en laissant l'As de  aux adversaires. Si vous jouez de façon répétée petit vers le mort, vous avez 50% de chances de faire tous vos honneurs, qui correspondent aux cas où Ouest a A.
+
+Roi isolé ou Dame-Valet isolé 
+Avec une séquence comme Roi isolé, telle que la suivante:
+ 
+La réussite d'un contrat peut dépendre de ce Roi ! Si vous jouez petit de votre main vers le Roi, vous aurez 50% de chance de le faire. Bien entendu, il vaudrait encore mieux arriver à donner la main à l'adversaire non dangereux (celui à votre droite) afin qu'il joue lui-même de la couleur, auquel cas vous faites votre Roi quel que soit le côté où se localise l'As.
+
+ 
+De la même façon, vous pouvez essayer d'affranchir un honneur du mort qui comporte Dame-Valet. Si le mort avait D V 2, la probabilité de faire une levée serait 75%. Avec la configuration D V 9, jouez d'abord petit vers la Dame, puis petit vers le 9, vous augmentez vos chances à 79%.
+
+Affranchissement de longueur 
+Même si vous n'avez pas d'honneur ni dans votre main, ni au mort, vous pouvez espérer réaliser des levées
+ 
+Impossible d'imaginer une couleur plus pauvre en honneurs ! Et pourtant, les adversaires n'ont que 4 cartes dans la couleur ; si celles-ci sont réparties: 
+ 2-2 vous ferez 4 levées (probabilité: 38%), 
+ 3-1 vous ferez 3 levées (50%)
+ 4-0 vous ferez 2 levées (12%)
+
+Affranchissement par impasse 
+Voici la position d'impasse la plus simple:
+
+On joue bien entendu petit vers le mort et si le Roi n'apparaît pas on passe la Dame. On fait ainsi en moyenne 1,5 levée.
+
+Impasse ou pas impasse 
+Nous examinons les différentes situations, classées selon les honneurs possédés par le camp du déclarant. Dans chaque situation, on s'intéresse au maniement qui apporte le maximum de levées. Etant donné le nombre élevé de cas de figure (plus de 5000), il est hors de question de les examiner tous dans le détail et de les retenir par coeur. Aussi la littérature a-t-elle essayé de dégager des règles qui, selon la classe de configuration, permettent au joueur de trouver le maniement correct à la table.
+
+On a As, Roi et Dame 
+Règle générale: Donner 2 coups de sonde, puis faire l'impasse si nécessaire.
+
+Avec 7 cartes, le maniement normal consiste à tirer As, Roi et Dame en tête. On fait 4 levées dans 61% des cas, soit 2% de mieux qu'une impasse de  tour.
+
+Évidemment, si un des adversaires défausse à la première ou seconde levée et qu'il est possible prendre le Valet de son partenaire en impasse, il faut le faire
+
+ Le maniement normal consiste à  
+
+ 1) Tirer l'As, le Roi
+
+ 2) Tirer la Dame si le valet n'est pas tombé mais tirer le 10 si le valet est tombé.
+
+ Le maniement normal consiste à  faire l'impasse au Valet dès le premier tour.
+
+Avec seulement 5 ou 6 cartes, il peut être opportun de faire l'impasse directe sans coup de sonde préalable:
+
+On joue une  fois petit vers le 9. Si on fait la levée du 9, on recommence l'impasse. Cette manœuvre permet de faire 4 levées dans 25% des cas, si Ouest possède à la fois le Valet et le 10. 
+
+Avec 8 cartes, il faut parfois choisir le sens de l'impasse. Pour cela, on se base sur la hauteur des cartes fournies par les adversaires.
+Avec 9 cartes, peu doute subsiste, il faut presque toujours tirer A R D en tête, quitte à modifier son maniement si une chicane apparaît.
+
+On a As, Roi et Valet 
+Tirer un honneur maître (comme un As) avant de faire une impasse éventuelle s'appelle un coup de sonde. Les règles générales sont ici:
+ Ne pas tirer un coup de sonde s'il compromet une possibilité d'impasse. 
+ Avec 9 cartes ou plus, tirer As et Roi sans impasse ; avec moins de 9 cartes, faire l'impasse.
+
+Avec 8 cartes dans la ligne, le maniement normal consiste à tirer un des gros honneurs en coup de sonde puis faire l'impasse à la Dame.
+
+Ici, le coup de sonde serait une erreur, car il est important de pouvoir faire 2 fois l'impasse à la Dame.
+
+Lorsque l'impasse peut être répétée une  fois sans problème, il faut faire le coup de sonde:  
+
+Le maniement normal consiste à tirer l'As en coup de sonde, puis à faire l'impasse.
+Naturellement, si l'un des adversaires défausse à la première levée, on revient vers le Valet.
+Cependant, le maniement normal n'est que très légèrement supérieur à l'impasse et, en pratique, il suffit parfois de très peu d'informations annexes pour que le rendement de l'impasse directe devienne supérieur.
+
+Toutefois, les communications entre les mains peuvent être compromises en cas de coup de sonde et entraîner des blocages comme le montre l'exemple suivant:
+
+Le maniement normal est de tirer l'As en coup de sonde, puis à faire l'impasse en partant du Valet.
+Toutefois, si la main de Nord manque de reprise annexe, il faut, sur le coup de sonde de Nord, fournir le Valet de Sud, puis faire l'impasse en partant du 2.
+
+On a As et Roi 
+Souvent, les coups de sonde réussissent bien. Si on a 10 et 9, il peut être intéressant de tenter une ou 2 impasses. On ne peut toutefois pas formuler de règle générale.
+
+Avec 9 cartes en Nord-Sud, on tente la répartition 2-2. 
+
+Si on a 9 cartes, avec R 10 en Nord, on tire l'As en coup de sonde. Si un honneur (Dame ou Valet) apparaît en Est, il est probable (2 chances sur 3) que l'honneur restant soit en Ouest, auquel cas on tente l'impasse.Si aucun honneur n'apparaît, on tire le Roi.
+
+On a As, Dame et Valet 
+Règles générales: 
+Avec moins de 9 cartes, il ne faut, en général, faire une impasse au Roi que si on peut la recommencer.
+Avec 9 ou 10 cartes, on fait l'impasse.
+Nous avons vu qu'avec As Dame secs au mort, on fait l'impasse. La technique est différente si on a 3 cartes au mort ou davantage:
+
+ Ici, on peut capturer un Roi sec en Est en tirant d'abord l'As, puis en jouant petit vers la Dame (1,54 levée).
+ On peut aussi jouer petit des 2 mains avant de faire l'impasse, ce qui a l'avantage de laisser le Roi sec se faire sans pour autant perdre le contrôle de la couleur. 
+
+Par application des règles précédents, on tire l'As, on revient en Sud et on joue petit vers la Dame. Cette méthode est la meilleure aussi bien pour faire un maximum de levées que pour être sûr d'en faire au moins 2 (87%).
+
+Ici, par contre, on a 9 cartes. L'impasse directe à la Dame permet de faire en moyenne 3,81 levée
+
+Par application des règles précédents, on tire l'As et on joue petit vers Dame-Valet. Cette méthode permet donne le plus souvent au moins 3 levées (87%).
+Avec une carte de plus (donc 9 cartes dans la ligne), il faudrait faire l'impasse.
+
+Les règles énoncées ci-dessus ne s'appliquent pas toujours quand on a As-Dame en face de Valet ou bien As-Valet en face de Dame.
+
+Pour faire un maximum de levées, bien qu'on n'ait que 8 cartes, il faut commencer par l'impasse (petit vers la Dame), puis on tire l'As et joue petit vers le Valet.Si par contre on veut garantir 3 levées, on tire l'As et joue petit vers un des honneurs restant (73%)
+
+Dans cette situation, comme dans la précédente, il faut commencer par l'impasse petit vers As-Dame. Attention à bien partir par une petite carte si les reprises sont suffisantes ! Gaspiller un honneur peut être fatal en face d'une répartition 4-1 avec le Roi .
+
+La présence d'un 9 est généralement utile, car elle permet souvent de recommencer l'impasse.
+
+Commencer par l'impasse petit vers As-Dame. Si elle rate, encaisser le Valet puis faire le cas échéant l'impasse avec le 9. Si elle réussit, enchainer avec l'impasse au 9. Cette méthode donne 3 levées dans 90% des cas, et une moyenne de 3,03 levées
+
+On a As, Dame et 10 
+Règles:
+ Avec A D 10 dans la même main:
+ Avec maximum 8 cartes, faire successivement l'impasse au Valet, puis si besoin celle au Roi.
+ Avec 9 cartes et plus, faire seulement l'impasse au Roi.
+ Avec As et Dame opposés, ainsi que le 10 et le 9 :
+ Avec moins de 9 cartes, faire 2 fois l'impasse vers l'As.
+ Avec exactement 9 cartes, tirer As en tête, puis petit vers la Dame.
+ Avec 10 cartes, faire une fois l'impasse ; toutefois, si Ouest défausse, prendre avec l'As puis petit vers la Dame.
+ Avec As et Dame opposés, mais sans le 10 et/ou sans le 9: jouer As en tête puis petit vers la Dame.
+
+On est dans le  cas, As et Dame opposés avec 9 cartes mais sans le 9. On tire donc l'As et on joue petit vers la Dame. On a ainsi 78% de chance de réaliser 4 levées.
+
+On a As et Dame sans le 10 
+Règle: Si 9 cartes et le 9, faire l'impasse double contre le Valet et le 10 au  tour.
+
+On fait l'impasse au 9 et ensuite à la Dame. On réalise ainsi 3,35 levée en moyenne.
+
+Supposons qu'on n'ait pas le 9. Dans ce cas, il faut tirer l'As, puis jouer petit vers la Dame. On réalise ainsi 3,17 levée en moyenne.
+
+On a As et Valet 
+Règles:
+ Avec A V 10 dans la même main, jouer petit vers cette main (double impasse).
+ Si As et V 10 sont séparés (et on n'a pas le 9) :
+ Avec 9 cartes, tirer l'As en tête.
+ Sinon, faire une fois l'impasse puis tirer l'As.
+ Sans le 10 : si on peut, faire l'impasse au 10 dès le  tour.
+
+On est dans le  cas indiqué ci-dessus. On joue donc petit de Sud, avec l'intention de passer le Valet si aucun honneur n'apparaît, puis quoi qu'il arrive on joue l'As au  tour. On réalise ainsi 2,32 levées en moyenne.
+
+On est dans le  cas indiqué ci-dessus. On joue donc petit de Sud, avec l'intention de passer le 9 si aucun honneur n'apparaît, puis faire l'impasse au Valet au  tour. On réalise ainsi 1,89 levées en moyenne et on a 22% de chances de réaliser 3 levées.
+
+On a Roi, Dame et Valet mais pas le 10 
+Règle générale : Jouer vers les honneurs groupés autant de fois que possible.
+
+Jouer petit vers le Roi, puis petit vers la Dame. On fait ainsi 3 levées dans 45% des cas.
+
+On a Roi et Dame 
+Règle générale : Jouer au  tour vers un gros honneur, sans détruite une fourchette.
+
+Il faut commencer par jouer petit de Sud vers le Roi. On peut ensuite faire l'impasse si nécessaire. Probabilité de faire 3 levées: 40%, nombre moyen de levées: 2,27.
+Si on cherche à garantir 2 levées, il faut commencer par un coup à blanc, puis jouer petit vers le 10. Probabilité de succès: 90%.
+
+Cette position est la plus délicate. Il faut jouer petit vers l'un des honneurs, puis un coup à blanc. On réalise ainsi 1,84 levée en moyenne.
+Si l'objectif est de réaliser 2 levées, on commence par le coup à blanc. Cette manœuvre réussit à 73%.
+
+On a Roi et Valet 
+Règle générale : Faire l'impasse à la Dame immédiatement, puis jouer petit vers le Roi.
+Lorsque Roi et Valet sont dans la même main, ou bien lorsque le Roi est dans une main et Valet-10 dans l'autre, la règle de commencer par l'impasse à la Dame est facile à appliquer.
+
+C'est un coup difficile pour le déclarant lorsque Roi et Valet sont dans des mains différentes. Ici, il faut jouer petit vers le Roi ; si la Dame n'apparaît pas, laissez la levée aux adversaires. Puis jouez à nouveau vers le Roi et finalement vers le Valet. On obtient ainsi la certitude de réaliser au moins 1 levée et en moyenne on réalise 1,54 levée.
+
+Coup rusé :
+
+Sud étant la main cachée, on joue petit du mort (Nord). Est, ne voyant pas les cartes de Sud, ne met pas sa Dame s'il l'a, et plongera même peut-être de l'As. Dans l'un ou l'autre cas, on réalise au moins 2 levées, et peut-être 3 si la Dame d'Est était seconde car elle sera capturée par le Roi.
+
+On a le Roi 
+Règle: Si Roi et 10 sont dans la même main :
+ Avec moins de 9 cartes, on fait la double impasse dès le  tour: on joue petit vers le 10
+ Avec 9 cartes, on joue petit vers le Roi: c'est un risque, il faut l'assumer !
+
+Ici, aucune règle ne s'applique. En pratique, si on peut se permettre de perdre 2 ou 3 levées de la couleur, il vaut mieux faire un coup à blanc avant de jouer petit vers le Roi. On réalise ainsi en moyenne 1,21 levée.
+
+On a Dame et Valet 
+Règles générales : Si les Dame et Valet sont groupés dans la même main, ou bien si on a le 10, jouer vers les honneurs groupés. Sinon, jouer vers la main la plus forte et donner un coup à blanc au  tour.
+Si l'on n'a pas de 10 mais un 9 qui accompagne Dame ou Valet, il faudra tenter l'impasse.
+
+C'est un des cas les plus difficiles.
+Si on veut faire un maximum de levées, on joue petit pour la Dame. Si elle perd, on donne un coup à blanc en espérant que le joueur en  position soit obligé de prendre avec un honneur devenu sec. On a ainsi 37% de chances de réaliser 2 levées dans la couleur.
+Si on veut être certain de réaliser au moins une levée, on fait un coup à blanc immédiatement, puis on joue petit vers l'un des 2 honneurs. La chance de succès est de 100%.
+L'idéal est tout de même de ne pas jouer soi-même de la couleur, et de s'arranger pour faire jouer les adversaires.
+
+On a la Dame et le 10 
+Règle: Si on a Dame et 10 dans la même main, ou Dame en face de 10 9, on fait l'impasse au Valet dès le  tour
+
+Jouer petit de Sud vers le 10 (impasse). Par la suite, jouer petit vers la Dame. On a ainsi 37% de chance de réaliser une levée Bien entendu, cette probabilité serait meilleure si on avait l'adversaire avait lui-même joué la couleur !
+
+Maniements de sécurité 
+Pour être certain de réussir son contrat, le déclarant a souvent intérêt à abandonner une levée qu'il pourrait éventuellement réaliser (par exemple grâce à une impasse) afin de garantir la réalisation des levées restantes. Nous étudions ici les maniements sécuritaires de couleur les plus fréquents, sans nous intéresser à l'ensemble du plan de jeu.
+
+Dans cette situation à 9 cartes, le jeu traditionnel pour réaliser 10 levées consiste à tirer l'As en coup de sonde, puis, si un honneur apparaît, de faire l'impasse vers R 9. On obtient ainsi 5 levées dans 46% des cas, et 4,42 levées en moyenne.
+Pour réaliser un minimum de 4 levées, le jeu de sécurité consiste à jouer immédiatement petit de Sud vers le 10. Si un honneur apparaît en Ouest, on le prend et on a les 4 levées certaines. Sinon, on passe le 10 ; si celui-ci est pris par Est, cela veut dire que la couleur était répartie 1-3 chez les adversaires, donc As et Roi permettront de faire tomber les cartes restantes. Les 4 levées sont donc certaines ; mais cette méthode nous coûte un espoir de surlevée, ce qui peut être une catastrophe en tournoi par paires !
+
+Le tableau qui suit donne les principaux coups de sécurité les plus fréquents, le déclarant étant en Ouest:
+
+L'examen de tous ces coups de sécurité permet d'exprimer les principes généraux suivants:
+ Les coups de sécurité commencent souvent par tirer un As, afin d'essayer de capturer un honneur adverse sec 
+ Ils évitent les impasses traditionnelles, mais comportent souvent une intra-impasse, c'est-à-dire une impasse vers une carte intermédiaire.
+
+Ressources sur le web
+
+Références 
+
+Bridge

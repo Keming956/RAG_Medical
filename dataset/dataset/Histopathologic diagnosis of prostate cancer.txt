@@ -1,0 +1,53 @@
+A histopathologic diagnosis of prostate cancer is the discernment of whether there is a cancer in the prostate, as well as specifying any subdiagnosis of prostate cancer if possible. The histopathologic subdiagnosis of prostate cancer has implications for the possibility and methodology of any subsequent Gleason scoring. The most common histopathological subdiagnosis of prostate cancer is acinar adenocarcinoma, constituting 93% of prostate cancers. The most common form of acinar adenocarcinoma, in turn, is "adenocarcinoma, not otherwise specified", also termed conventional, or usual acinar adenocarcinoma.
+
+Sampling
+
+The main sources of tissue sampling are prostatectomy and prostate biopsy.
+
+Subdiagnoses - overview
+
+In uncertain cases, a diagnosis of malignancy can be excluded by immunohistochemical detection of basal cells (or confirmed by absence thereof), such as using the PIN-4 cocktail of stains, which targets p63, CK-5, CK-14 and AMACR (latter also known as P504S).
+
+Other prostate cancer tumor markers may be necessary in cases that remain uncertain after microscopy.
+
+Acinar adenocarcinoma
+These constitute 93% of prostate cancers.
+
+Microscopic characteristics
+Specific but relatively rare
+Collagenous micronodules
+Glomerulations, epithelial proliferations into one or more gland lumina, typically a cribriform tuft with a single attachment to the gland wall. 
+Perineural invasion. It should be circumferential
+Angiolymphatic invasion
+Extraprostatic extension 
+
+Relatively common and highly specific 
+Multiple nucleoli
+Eccentric nucleoli
+
+Less specific findings.
+Mitoses (also seen in for example high-grade prostatic intraepithelial neoplasia (HGPIN) and prostate inflammation).
+Prominent nucleoli
+Intraluminal eosinophilic secretion
+Intraluminal blue mucin
+
+In uncertain cases, a diagnosis of malignancy can be discarded by immunohistochemical detection of basal cells.
+
+Intraductal carcinoma
+
+Intraductal carcinoma of the prostate gland (IDCP), which is now categorised as a distinct entity by WHO 2016, includes two biologically distinct diseases. IDCP associated with invasive carcinoma (IDCP-inv) generally represents a growth pattern of invasive prostatic adenocarcinoma while the rarely encountered pure IDCP is a precursor of prostate cancer. The diagnostic criterion of nuclear size at least 6 times normal is ambiguous as size could refer to either nuclear area or diameter. If area, then this criterion could be re-defined as nuclear diameter at least three times normal as it is difficult to visually compare area of nuclei. It is also unclear whether IDCP could also include tumors with ductal morphology. There is no consensus whether pure IDCP in needle biopsies should be managed with re-biopsy or radical therapy. A pragmatic approach would be to recommend radical therapy only for extensive pure IDCP that is morphologically unequivocal for high-grade prostate cancer. Active surveillance is not appropriate when low-grade invasive cancer is associated with IDCP, as such patients usually have unsampled high-grade prostatic adenocarcinoma. It is generally
+recommended that IDCP component of IDCP-inv should be included in tumor extent but not grade. However, there are good arguments in favor of grading IDCP associated with invasive cancer. WHO 2016 recommends that IDCP should not be graded, but it is unclear whether this applies to both pure IDCP and IDCP-inv.
+
+Ductal adenocarcinoma may have a prominent cribriforming architecture, with glands appearing relatively round, and may thereby mimic intraductal adenocarcinoma, but can be distinguished by the following features:
+
+Further workup
+Further workup of a diagnosis of prostate cancer includes mainly:
+ Gleason score
+ Prostate cancer staging
+
+Notes
+
+References
+
+Prostate cancer
+Histopathology

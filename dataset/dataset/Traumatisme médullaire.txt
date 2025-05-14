@@ -1,0 +1,240 @@
+Un traumatisme médullaire ou traumatisme de la moelle épinière (ou moelle spinale) met en jeu le pronostic vital immédiat ou retardé. Il est à l'origine de troubles moteurs et sensitifs, et de troubles des fonctions neuro-végétatives. La médicalisation systématique et les progrès de la prise en charge pré-hospitalière ont permis d'améliorer considérablement la survie de ces blessés. L'évolution des connaissances, notamment dans la physiopathologie des lésions cellulaires, fait proposer régulièrement de nouvelles attitudes thérapeutiques, parfois controversées.
+Le traumatisé médullaire est un malade extrêmement fragile, en particulier à la phase initiale. Il justifie pleinement une prise en charge spécialisée. La conjonction des efforts du SMUR et des services spécialisés doit permettre après un séjour en réanimation, son transfert en service de rééducation et de réadaptation avec une autonomie respiratoire recouvrée, un rachis stable, et un potentiel de récupération intact. Si des traitements médicaux spécifiques comme la méthylprédnisolone ouvrent une voie riche d'espoir, il ne faut pas pour autant négliger des principes généraux simples dès la prise en charge médicale de ces patients : bonne oxygénation, bonne perfusion médullaire. La place de la chirurgie ou des traitements orthopédiques semble mieux précisée ; si la logique favoriserait une décompression et une stabilisation précoces, les éléments de certitude sont encore manquants chez l'homme.
+
+Données physiologiques et conséquences thérapeutiques
+
+La qualité de la prise en charge découle d'une bonne compréhension de la physiopathologie 
+Sur le plan fonctionnel, les lésions médullaires s'accompagnent d'une altération des muscles respiratoires dont l'importance est fonction du niveau et du caractère complet ou incomplet de l'atteinte neurologique. Les troubles cardio-vasculaires, par perte des mécanismes compensateurs sympathiques, peuvent être au premier plan, et sont pris en compte préventivement lors d'une réanimation bien conduite.
+
+Perte de l'autorégulation du débit sanguin médullaire (DSM) 
+Guha  ont montré la perte de l'autorégulation du DSM au niveau et à proximité des lésions médullaires. Elle a pour conséquence une baisse de la perfusion médullaire dès la baisse de la pression artérielle systémique. Or celle-ci survient constamment en cas de tétraplégie ou paraplégie haute, secondairement à la perte du sympathique : il s'ensuit une hypoxie au niveau des zones lésées.
+
+Développement de la lésion secondaire : schéma de Hall 
+Les études expérimentales mettent en évidence le rôle de la «lésion secondaire» dans la constitution du déficit neurologique. Si certains corps cellulaires et prolongements axonaux de la zone traumatisée sont immédiatement détruits (lésion primaire), d'autres sont victimes de modifications vasculaires, biochimiques et électrolytiques qui aboutissent à leur destruction en quelques minutes ou quelques heures. Même en cas de section médullaire complète, les métamères sus-jacents à la zone détruite peuvent souffrir et être perdus irrémédiablement du fait de l'évolution de la lésion secondaire. Dans les minutes et les heures qui suivent le traumatisme, se produit une activation des récepteurs du N-méthyl-D-aspartate (NMDA), par les acides aminés (glutamate) libérés en grande quantité, et une ouverture des canaux ioniques associés à ces récepteurs. L'irruption intracellulaire de Ca++ active les phospholipases et la chaîne de réactions qui aboutit à la production de radicaux libres. Les radicaux libres sont à l'origine d'une peroxydation lipidique, aboutissant à une destruction cellulaire, aussi bien neuronale qu'au niveau des micro-vaisseaux des substances grise et blanche médullaires. L'hypoxie tissulaire qui en résulte peut être aggravée par l'hypotension systémique, ou par une hypoxémie, quelle qu'en soit l'origine. Si la décompression médullaire reste un geste chirurgical essentiel, la prévention de l'extension des lésions grâce à des mesures médicales visant à limiter les modifications, vasculaires, biochimiques ou électrolytiques semble aujourd'hui également primordiale. Il existe de nombreuses possibilités expérimentales de modification des processus biochimiques secondaires.
+
+En clinique humaine, les études NASCIS 2 et 3 (National Atude Spinal Cord Injury Society) ont montré l'efficacité de la méthylprédnisolone, à condition qu'elle soit administrée précocement ; une étude japonaise a confirmé cette efficacité, et d'autres études ne l'ont pas confirmées. Les effets secondaires liés à l'utilisation de doses massives de corticoïdes n'augmentent pas de manière significative.
+
+Autres possibilités de lutte contre l'ischémie 
+Lutte contre l'hypoxémie : il s'agit de maintenir une hématose et un état circulatoire corrects, dès les premières minutes qui suivent l'accident : perfusion, remplissage vasculaire avec ou non utilisation d'amines pressives, oxygénation voire intubation.
+
+Il s'agit là de mesures générales prises par le médecin transporteur du SAMU pour tout polytraumatisé, et qui sont continuées dans les services hospitaliers receveurs.
+
+Prise en charge pré-hospitalière 
+La prise en charge de patients pouvant être traumatisés médullaires nécessite sur les lieux mêmes de l'accident une approche rigoureuse. Le contexte de polytraumatisme complique fréquemment la démarche diagnostique et thérapeutique. La prise en charge médicalisée précoce, dès la période pré hospitalière (rôle des SAMU/SMUR), a fait faire de grands progrès en matière de survie et de prévention de l'aggravation neurologique.
+
+Relevage 
+Il est facile de méconnaître une atteinte rachidienne : Bohlman rapportait sur une série de 300 fractures du rachis cervical, 100 cas qui n'avaient pas été diagnostiqués initialement cliniquement et/ou radiologiquement, avec des retards de diagnostic s'échelonnant d'un jour à un an. Ringenberg relève l'absence de diagnostic initial chez 7 % de ses hospitalisés pour traumatisme du rachis cervical.
+
+Un certain nombre de lésions rachidiennes peuvent se déplacer secondairement, du fait d'une prise en charge incorrecte.
+
+Cette possibilité est prise en compte à l'intervention du SAMU. La règle consiste donc à considérer tout polytraumatisé et tout comateux comme porteur d'une lésion instable du rachis jusqu'à preuve contraire, et d'agir en conséquence dès la prise en charge. Ceci implique des règles précises pour tout blessé suspect :
+ Minerve de principe, adaptée au patient ;
+ Dégagement monobloc coordonné du blessé, avec maintien de l'axe tête-cou-tronc, sans traction excessive ;
+ Installation dans un matelas à dépression, comportant un dispositif anti-rétraction. Si on utilise un matelas non muni de ce système, il est indispensable d'éviter le moulage au niveau du vertex et de la voûte plantaire.
+
+Examen neurologique 
+En l'absence de lésion associée mettant en jeu le pronostic vital, la gravité des traumatismes rachidiens est liée à l'atteinte médullaire. L'examen de la motricité volontaire et de la sensibilité permet de définir le niveau médullaire des lésions. Il a été codifié par l'American Spinal Injury Association, ce qui permet d'établir un score moteur et un score sensitif dit score ASIA.
+
+Examen moteur 
+Le score moteur est fondé sur l'examen de 10 muscles-clés testés à droite et à gauche. Pour chaque mouvement la force est mesurée et affectée d'un coefficient croissant de 0 en l'absence de contraction musculaire, à 5 lorsqu'il existe une contraction entraînant un mouvement dans toute l'amplitude articulaire contre une résistance complète. Le score total maximal est donc de 100 (50 à droite et 50 à gauche).
+
+Examen sensitif 
+Le score sensitif s'évalue après étude de la sensibilité au tact et à la piqûre d'un point clé dans chacun des 28 dermatomes et de chaque côté. L'absence de sensibilité est cotée : 0, l'hypo ou l'hyperesthésie : 1 et la sensibilité normale : 2. Il est préférable de commencer l'examen par le toucher et par le bas. Rappelons que le niveau supérieur de l'atteinte neurologique se définit en France par le premier métamère atteint et dans les pays anglophones par le dernier métamère sain. Ainsi une paraplégie de niveau T10 en France est de niveau T9 dans les pays anglo-saxons. Il y a une tendance récente à utiliser la nomenclature anglo-saxonne pour des raisons de comparaison des résultats (nos tétraplégiques C7 n'ont pas de triceps alors que les tétraplégiques C7 américains en ont un ...)
+
+Enfin, l'examen cherche à préciser le caractère complet ou incomplet de l'atteinte. Le déficit peut être complet ou partiel, tant sur le plan sensitif que moteur. La persistance d'une sensibilité, même dans une zone très limitée, ou d'une activité musculaire au-dessous du niveau lésionnel, surtout au niveau des métamères sacrés (sensibilité de la marge anale, sensation anale profonde, contraction volontaire du sphincter externe) signe par définition le caractère incomplet de l'atteinte neurologique. Il existe souvent une dissociation entre les niveaux lésionnels sensitifs et moteurs, en particulier, dans les atteintes complètes, le niveau sensitif est décalé vers le bas par rapport au niveau moteur.
+
+L'étude précise de la sensibilité, de la motricité, des réflexes en sous lésionnel, ainsi que des sphincters, est fondamentale. On peut alors classer l'atteinte neurologique selon l'échelle de Frankel modifiée.
+
+La valeur prédictive, sur le pronostic fonctionnel, du caractère complet ou non de l'atteinte nerveuse est considérable. Une atteinte neurologique est parfois associée dans les premières heures qui suivent le traumatisme à une phase initiale de « choc spinal » qui se caractérise par une abolition de tous les réflexes au-dessous de la lésion médullaire. Cet état est transitoire et disparaît avec l'installation de la phase d'automatisme médullaire. On ne peut affirmer avec certitude le caractère complet de l'atteinte médullaire qu'après résolution du choc spinal, habituellement après quelques jours.
+
+Le caractère incomplet d'une atteinte médullaire permet de classer celle-ci parmi l'un des différents syndromes cliniques incomplets, qui donne une première idée du potentiel de récupération fonctionnelle. Ces syndromes cliniques sont par définition :
+ Syndrome médullairecentral : survient presque exclusivement dans la région cervicale, produit une épargne sacrée sensorielle et une atteinte motrice plus importante au membre supérieur qu'au membre inférieur.
+ Syndrome de Brown-Séquard : une lésion qui produit une atteinte motrice et proprioceptive homolatérale, et une perte de sensibilité thermoalgique controlatérale.
+ Syndrome antérieur de la moelle : une lésion qui produit une atteinte variable motrice et thermoalgique, en préservant la proprioception.
+ Syndrome du cône médullaire : atteinte du cône et des racines lombaires, qui produit une aréflexie vésicale et des membres inférieurs. Les réflexes sacrés peuvent être préservés (bulbocaverneux, réflexe mictionnel)
+ Syndrome de la queue de cheval : lésion des racines nerveuses lombosacrées, avec aréflexie vésicale et des membres inférieurs.
+
+La complexité des examens rend leur réalisation difficile sur les lieux de l'accident ; l'étude GK11-FLAMME (étude multicentrique française non publiée) en a cependant montré la faisabilité.
+
+Prise en charge hospitalière 
+À l'arrivée à l'hôpital, la jonction avec l'équipe médicale qui a assuré la prise en charge initiale du patient précise les circonstances de l'accident, l'horaire de survenue, les différents éléments de l'examen clinique, les traitements mis en œuvre, et la présence de lésions initiales associées qui sont fréquemment rencontrées. L'examen clinique est renouvelé et oriente les examens radiologiques. L'examen neurologique (score ASIA) est répété à l'admission et au fil des jours ou à la demande pour dégager une notion d'évolutivité vers l'amélioration ou l'aggravation.
+
+Examens complémentaires 
+La mise en œuvre de moyens visant à prévenir l'extension de l'atteinte médullaire du fait des lésions secondaires ne doit pas être retardée par une exploration radiologique superflue.
+
+Les clichés de face et de profil en radiographie conventionnelle permettent dans la majorité des cas de suspecter une lésion du rachis. Ils ne donnent que des signes indirects des atteintes disco-ligamentaires et médullaires. Ils explorent mal la charnière cervico-dorsale et le rachis thoracique haut. Ils restent cependant l'examen radiologique de base du traumatisé.
+
+La tomodensitométrie (TDM) n'est pas un substitut des clichés standard. Elle permet de préciser le bilan osseux et l'état du canal rachidien (rétrécissement, contenu anormal), d'étudier facilement la charnière cervico-dorsale et les trous de conjugaison. La reconstruction logicielle en trois dimensions après acquisition hélicoïdale permet parfois de visualiser dans l'espace les traits mal visibles autrement, et de mieux analyser les déplacements. Examen rapide, sans mobilisation du patient, la TDM peut être intégrée dans le bilan des lésions associées traumatiques (traumatismes thoraciques, lésions d'organes intra-abdominaux, etc).
+
+L'Imagerie par résonance magnétique (I.R.M) est un atout majeur pour l'exploration de la moelle et de l'appareil disco-ligamentaire, ainsi que pour la recherche d'un hématome. Toutefois, l'indication en est très soigneusement pesée chez le polytraumatisé en raison des difficultés de monitorage au cours de cet examen parfois très long et de la nécessité d'utiliser du matériel résistant aux champs magnétiques (respirateur...)
+
+Atteintes fonctionnelles 
+La paralysie des abdominaux entraîne la perte de la toux. La paralysie des muscles intercostaux plus ou moins étendue selon le niveau neurologique entraîne une hypoventilation alvéolaire ; l'augmentation de la concentration sanguine en CO2 modifie l'équilibre acido-basique et aggrave la diminution du débit sanguin médullaire.
+
+Pour des lésions inférieures à C4, l'altération de la fonction respiratoire peut n'être manifeste que plusieurs jours après le traumatisme initial. La ventilation assistée est commencée sans attendre des signes d'hypoventilation ou d'hypoxémie l'intubation nécessaire à sa mise en œuvre en urgence est particulièrement délicate (estomac plein, immobilisation du rachis, instabilité circulatoire et ventilatoire). Dans tous les cas, quelle que soit la technique anesthésique choisie pour l'intubation, le maintien de la rectitude du rachis par un aide est indispensable. La pré-oxygénation est systématique. La manœuvre de Sellick (compression œsophagienne) est discutée en cas de grande instabilité rachidienne. L'objectif hémodynamique est le maintien d'une pression de perfusion médullaire adéquate tout en évitant une surcharge liquidienne. En effet toute hypotension systémique est susceptible d'altérer la perfusion des zones médullaires lésées. Le remplissage vasculaire doit compenser d'éventuelles pertes sanguines (scalp, hémothorax). le recours aux amines pressives (Dopamine) est nécessaire pour compenser la vasoplégie induite par la perte du sympathique dans les lésions dorsales hautes et cervicales.
+
+Des bradycardies graves, voire des asystolies, peuvent survenir lors de stimulations vagales (aspirations bronchiques, laryngoscopies...). Leur apparition vers le , , justifie la perfusion continue d'atropine sur 24 heures, et le monitorage systématique par cardioscope.
+
+Enfin, la régulation thermique est immédiatement altérée et de façon d'autant plus spectaculaire que les conditions extérieures sont agressives. Il faut éviter tout échange calorique supplémentaire en enveloppant le patient dans une couverture isotherme, et en le soustrayant à l'atmosphère extérieure. Le tétraplégique est poïlkilotherme, et peut aussi bien se refroidir par grand froid que se réchauffer de façon excessive par temps chaud.
+
+Lésions associées 
+Les traumatismes capables de léser la structure rachidienne souple ostéodiscoligamentaire thoracique ou lombaire, au point de mettre en jeu l'intégrité de son contenant, sont des traumatismes violents et les lésions associées viscérales ou périphériques sont fréquentes. Toutes les combinaisons sont possibles. Les traumatismes cervicaux peuvent être associés à des lésions de la face et du cuir chevelu, qui les font suspecter systématiquement. Les traumatismes du rachis dorsal s'accompagnent fréquemment d'hémothorax (un tiers des cas, bilatéral une fois sur deux), de pneumothorax et de volet thoracique, ou de lésions viscérales en particulier de la rate. De telles lésions font courir un risque vital important, particulièrement au moment d'une intervention rachidienne en urgence, et la mortalité des traumatisés du rachis thoracique n'est pas nulle. Le rapport bénéfice/risque d'une intervention en urgence est très soigneusement pesé, particulièrement dans le cas d'atteintes neurologiques complètes. Particulièrement fréquentes dans le cas des traumatismes thoraciques, les lésions associées sont recherchées et traitées selon leur degré d'urgence. Une discussion entre chirurgien spécialiste, anesthésiste-réanimateur et radiologue est nécessaire pour établir la hiérarchie de la gravité des lésions et de leur prise en charge. Les lésions associées, par leur retentissement hémodynamique et sur l'hématose, peuvent par elles-mêmes aggraver la lésion médullaire.
+
+Prévention de la lésion secondaire 
+L'immobilisation correcte du rachis est maintenue pendant la durée des explorations complémentaires. Le maintien des fonctions respiratoires et circulatoires dans les conditions optimales d'homéostasie reste primordial à cette phase.
+
+De nombreux traitements médicamenteux spécifiques, visant à prévenir les lésions secondaires ont été proposés.
+
+Dans l'étude NASCIS II (National Acute Spinal Injury Study, 1992), Bracken et al. recommandaient l'administration précoce de méthylprédnisolone (30 mg/kg en 30 min. puis 5,4 mg/kg/h pendant les premières 23 heures). Celle-ci permettrait d'inhiber en partie l'extension de la lésion secondaire. Les auteurs montraient, de façon randomisée prospective, contre placebo, un effet bénéfique statistiquement significatif sur la fonction motrice, à condition que le traitement ait été administré dans les huit premières heures qui suivaient le traumatisme. Le taux de complications et la mortalité étaient identiques. Aux États-Unis son administration pré-hospitalière est actuellement recommandée et largement répandue dès la prise en charge initiale des traumatismes du rachis avec signes neurologiques déficitaires. Cette étude a été très critiquée, compte tenu de biais d'inclusion, la stratification avant 8 heures / après 8 heures ayant été réalisée a posteriori, et aussi parce que les conclusions ont été largement divulguées à la grande presse avant de paraître dans la presse scientifique. D'autres études, en cours, sont nécessaires pour valider ces résultats, mais il s'agit d'études multicentriques toujours de réalisation difficile.
+
+L'étude NASCIS III, dont les résultats ont été publiés en 1997, comparait l'administration de méthylprédnisolone (30 mg/kg puis 5,4 mg/kg/heure) pendant 24 heures à l'administration de méthylprédnisolone aux mêmes doses pendant 48 heures, et à l'administration de tirilazad mesylate 2,5 mg/kg toutes les 6 heures sur 48 heures. Les patients traités 48 heures avaient une meilleure récupération fonctionnelle (mais aussi plus de complications infectieuses et de pneumonies) que ceux traités 24 heures seulement lorsque le traitement était initié entre 3 et 8 heures après le traumatisme. Pour ceux traités avant 3 heures, les trois protocoles étaient identiques. Les taux de mortalité étaient similaires. Il n'y avait pas de contrôle placebo.
+
+Les gangliosides sont des extraits purifiés de cerveau de bœuf. Expérimentalement il a été montré qu'ils favorisent la repousse neuronale après une lésion traumatique ou au cours d'un accident vasculaire cérébral. Dans une étude portant sur un collectif limité à 34 patients, l'efficacité d'un tel traitement thérapeutique après un traumatisme médullaire est vraisemblable. L'efficacité sur la récupération de muscles initialement paralysés aux membres inférieurs est attribuée à l'effet favorable du ganglioside GM-1 sur les axones traversant la lésion. Cependant, les résultats de Geisler n'ont pas été confirmés. Des études de plus grande ampleur sont en cours pour tester les effets et l'innocuité des gangliosides dans cette indication.
+
+Nous l'avons vu, l'ion calcium joue un rôle important dans les phénomènes ischémiques et d'activation enzymatique. Les inhibiteurs calciques, notamment la nimodipine, ont fait l'objet de nombreuses études animales. Expérimentalement, un effet positif sur l'amélioration du débit sanguin médullaire après un traumatisme est rapporté. L'intérêt clinique des anti calciques reste à démontrer.
+
+Enfin, les agents cytoprotecteurs et les inhibiteurs de récepteurs NMDA sont en cours d'évaluation. L'étude GK11 - FLAMME a montré la faisabilité d'une étude multicentrique en France, avec un prise en charge standardisée. Elle n'a malheureusement pas permis de conclure quant à l'efficacité du médicament testé, car de nombreuses lésions médullaires dorsales complètes ont réduit la taille des échantillons susceptibles de progresser.
+
+Cette étude illustre la difficulté de tester les nombreuses molécules dont l'efficacité a été montrée au cours d'études de phase II.
+
+Actuellement, la seule médication ayant montré une possible efficacité dans certaines études cliniques randomisées est la méthylprédnisolone à doses massives. Il existe aujourd'hui des arguments, mais non irréfutables, pour utiliser en routine celle-ci avant le délai de 8 heures et surtout avant 3 heures.
+
+Indications chirurgicales 
+Le traitement chirurgical n'a en définitive que deux indications : l'instabilité, immédiate ou tardive, et la compression neurologique persistante.
+
+L'accord est largement partagé sur la nécessité d'une décompression médullaire et d'une stabilisation du rachis, des divergences persistent quant à la méthodologie. Les progrès de la prise en charge chirurgicale, comme le soulignent Waters et al., font accorder une part importante à la chirurgie.
+
+Délai opératoire 
+Si de nombreuses études chez l'animal ont montré l'intérêt de la levée précoce d'une compression médullaire, aucune étude n'a pu le confirmer chez l'homme. Une seule étude prospective randomisée a pris en compte le délai opératoire, mais elle compare la chirurgie «précoce» réalisée avant 72 heures (après en moyenne 1,8 jour d'hospitalisation !) à la chirurgie «tardive», après 5 jours : la différence de presque 10 points du score ASIA (64 vs 54,2) en faveur du groupe «précoce» n'est pas statistiquement significative sur respectivement 34 et 28 patients ; la puissance de l'étude est inconnue. Des études rétrospectives suggèrent que la chirurgie décompressive améliore beaucoup la récupération, mais il n'y a pas de consensus quant au moment idéal de l'intervention, ni de données pour estimer les chances d'une décompression tardive. En clinique, le traumatisme médullaire est composé du traumatisme initial (responsable de transsection, de contusion, ou de sidération simple), de la compression médullaire persistante, et du traumatisme possible dû à l'instabilité rachidienne. La chirurgie n'agit que sur ces deux dernières composantes. En cas de compression médullaire persistante, il est souhaitable que la libération médullaire intervienne dès que possible, d'autant que la lésion est incomplète. Le délai de six heures après le traumatisme est un objectif raisonnable. Il n'y a pas d'argument qui indique qu'il n'est pas déjà beaucoup trop long, ni qu'une libération pratiquée bien au-delà de ce délai n'ait des chances d'être bénéfique. À noter qu'en France, le transfert vers un centre spécialisé avec une étape intermédiaire par un hôpital général aboutit à un délai supplémentaire de 2 heures 30 en moyenne.
+
+En pratique se discute la notion du rapport bénéfice/risque d'une intervention en extrême urgence, en particulier sur le rachis dorsal : le traumatisé médullaire arrivant en urgence n'est pas toujours parfaitement exploré, certaines interventions chirurgicales, en particulier au niveau dorsal, sont hémorragiques, elles se pratiquent en décubitus ventral ; les équipes de garde sont restreintes, la surveillance est complexe.
+
+Principes généraux 
+Quel que soit le traitement choisi, l'essentiel est l'obtention d'un rachis stable et d'une moelle libre : devant un traumatisme rachidien et médullaire, les objectifs sont la réduction de la déformation, la libération endocanalaire, et la stabilisation rachidienne.
+
+Au niveau cervical 
+La réduction peut être obtenue dans certains cas par traction ou manœuvres externes. Cela peut permettre de lever rapidement la compression en urgence. Il y a des contre-indications à la mise en traction (en particulier les fractures des pédicules de C2 de type IIA de Levine), il n'est donc pas question de mettre en traction sans diagnostic précis. Dans le cas des luxations du rachis cervical inférieur, se posent deux problèmes. D'une part, les luxations bilatérales avec accrochage des apophyses articulaires sont très difficiles à réduire en traction simple, il n'est donc pas licite de mettre en traction en attente d'une réduction hypothétique, ce qui ferait perdre un temps précieux. D'autre part, il existe indubitablement des cas d'expulsion de fragments discaux intracanalaires avec complications neurologiques au moment de la réduction : il est logique de réaliser une IRM à la recherche d'un fragment menaçant avant de réduire une luxation uni- ou bilatérale par manœuvre externe ou traction. Les fractures éclatement du corps vertébral («burst») avec cyphose, fragment intracanalaire et troubles neurologiques sont mises en traction si cela ne retarde pas la libération chirurgicale.
+
+L'abord est le plus fréquemment réalisé en France par voie postérieure ; la laminectomie n'est pas systématique si la radiographie montre une réduction complète.
+
+Un abord antérieur (discectomie ou corporectomie) peut être préféré si la compression médullaire résiduelle est antérieure (hernie discale post-traumatique ou fragment osseux intracanalaire). Certaines lésions sont mieux réduites par voie postérieure (tear drop). L'abord antérieur peut poser des problèmes chez des patients qui ont ou auront une trachéotomie.
+
+Dans tous les cas, il est logique d'utiliser en traumatologie une ostéosynthèse stable qui évitera un certain nombre de déconvenues : le fil d'acier n'est plus à l'ordre du jour.
+
+Au niveau thoracique ou lombaire 
+La réduction est faite en per-opératoire par manipulation directe ou instrumentée, elle peut nécessiter la résection d'éléments postérieurs, lames ou apophyses articulaires.
+
+L'ostéosynthèse doit utiliser un système moderne et stable, avec un montage long ou court, et un objectif double : éviter une lésion médullaire ou radiculaire surajoutée par instabilité immédiate, éviter les déformations secondaires en cyphose progressive et les instabilités douloureuses, source d'épines irritatives et de contractures chez les patients neurologiques.
+
+Au niveau thoracique et lombaire, la fréquence des pertes de correction avec bris de matériel justifie de compléter la stabilisation instrumentée par une arthrodèse postérolatérale, même en cas de réduction satisfaisante des éléments antérieurs.
+
+Certains feront une laminectomie systématique. D'autres considèrent que l'on peut vérifier la liberté du canal après réduction simple en réalisant une myélographie peropératoire, à condition d'obtenir des images de bonne qualité. On vérifie après réduction la liberté du fourreau dural, que l'on complète sans manipulation des éléments nerveux, en réséquant à la demande les éléments osseux et discaux compressifs. On peut être amené à réséquer articulaires et pédicule afin d'atteindre des fragments plus antérieurement situés. Les plaies dure-mériennes sont fermées dans la mesure du possible. La constatation de lésions macroscopiques de la moelle en per-opératoire est de très mauvais pronostic.
+
+Lorsque persiste une compression antérieure, ou une instabilité antérieure avec un risque important de pseudarthrose (fracture en diabolo), est posée l'indication d'un temps antérieur complémentaire. On considère qu'une compression médullaire antérieure est significative lorsque le diamètre antéro-postérieur du canal rachidien est réduit d'au moins 50 %. Il existe des observations de résorption spontanée de fragments intracanalaires de taille inférieure. La libération canalaire antérieure peut apporter une amélioration neurologique même tardivement si l'atteinte est incomplète. Elle peut être aussi cause d'aggravation, et les indications sont soigneusement posées. La greffe antérieure simple des fractures instables a des risques neurologiques moindres, mais il s'agit également d'une chirurgie lourde pouvant être hémorragique. Les abords thoracoscopique, rétropéritonéoscopique, ou vidéo-assistés sont une alternative qui a des avantages et des inconvénients.
+
+L'indication d'une intervention en urgence est guidée par le degré d'atteinte neurologique et l'existence ou non de lésions associées. Dans le cas de polytraumatisme, le contrôle hémodynamique, l'évaluation et le contrôle des lésions viscérales associées (thoracique, abdominale) peuvent faire différer l'urgence de la libération médullaire afin de contrôler le risque vital. La chirurgie en urgence différée concerne au premier chef les lésions instables avec troubles neurologiques radiculaires et les lésions instables sans troubles neurologiques. Le délai de l'intervention est mis à profit pour faire un bilan complet de la lésion, pour préparer au mieux le patient à l'intervention chirurgicale et intervenir dans les conditions de la chirurgie programmée, c'est-à-dire dans les meilleures conditions possibles en personnel.
+
+Autres problèmes
+
+Atteinte respiratoire 
+La perte de la toux aboutit à un encombrement trachéo-bronchique, avec à terme la survenue d'atélectasies pulmonaires, de surinfections, menaçantes pour le pronostic vital.
+
+Il existe une relation linéaire entre durée de la présence d'une sonde d'intubation et surinfection bronchopulmonaire ; il se pose donc la question suivante : faut-il intuber et ventiler systématiquement tous les médullaires hauts, la contrepartie à cette agression étant un risque infectieux majoré ? En fait la question se pose de manière différente, car le plus souvent les patients sont intubés au bloc opératoire, et la question qui se pose est : quand faut-il extuber ?
+
+Il faut alors répondre à plusieurs questions :
+ antécédents respiratoires (tabagisme, bronchite chronique, obésité)
+ traumatisme thoracique, polytraumatisme, coma, transfusion massive associés, qui nécessiteront par eux-mêmes une assistance ventilatoire.
+ niveau de l'atteinte médullaire, sachant que le diaphragme ne peut assurer à lui seul une ventilation efficace, à cette phase tout initiale, que les intercostaux externes peuvent ne plus être fonctionnels, que la perte des abdominaux s'accompagne d'une perte de la toux.
+ Son caractère complet ou non, l'existence ou non d'une spasticité.
+ en cas de réintubation, le geste sera-t-il facile ?
+
+Il faut donc évaluer le rapport bénéfice-risque entre ventilation mécanique et non-ventilation pour ces patients.
+
+Thrombose veineuse profonde 
+Très fréquente chez le traumatisé médullaire, avec un risque élevé d'embolie pulmonaire. Sa prévention est systématique par héparine de bas poids moléculaire dès les heures qui suivent le traumatisme.
+
+Dénutrition 
+L'alimentation chez le traumatisé médullaire dans ses formes hautes est nécessaire pour favoriser la lutte contre la dénutrition, l'infection, les problèmes de cicatrisation, le redoutable syndrome de la pince mésentérique. Cependant, la reprise de l'alimentation est entravée par l'arrêt du transit qui survient de manière habituellement prolongée dans les jours qui suivent le traumatisme. Nous commençons une alimentation parentérale, dans les 24-48 heures qui suivent le traumatisme médullaire, rapidement complétée par une alimentation entérale, puis per os, pour atteindre des niveaux caloriques d'environ 2000-2500 kcal/j.c pour cela.
+
+Infection urinaire 
+Complication extrêmement fréquente chez le traumatisé médullaire porteur d'une sonde à demeure, en fait elle nous préoccupe peu à cette phase initiale de la prise en charge. Si une antibiothérapie est initiée, celle-ci devra être peu mutagène, afin de prévenir l'émergence de bactéries multi-résistantes. La pratique des hétérosondages itératifs reste à évaluer à cette phase initiale.
+
+Les points essentiels 
+ Tout polytraumatisé est susceptible d'être atteint d'une fracture instable du rachis jusqu'à preuve du contraire, toute manipulation se fait en assurant le maintien de l'axe tête-cou-tronc.
+ Le pronostic vital est marqué dans les premiers jours essentiellement par l'atteinte des muscles respiratoires et les troubles cardio vasculaires induits par l'atteinte du système nerveux autonome.
+ La prise en charge médicalisée se fait le plus précocement, si possible en préhospitalier.
+ La prise en charge hospitalière se fait le plus précocement possible par des équipes médico chirurgicales spécialisées.
+ L'examen de la motricité volontaire et de la sensibilité permet de définir le niveau médullaire des lésions. Il est codifié (score de Frankel, ASIA).
+ La valeur prédictive, sur le pronostic fonctionnel, du caractère complet ou non de l'atteinte nerveuse est considérable. Celui-ci ne peut généralement être affirmé qu'à distance de l'accident.
+ L'exploration du rachis par radiographie conventionnelle de face et de profil reste l'examen de base.
+ Les lésions médullaires continuent à évoluer pour leur propre compte dans les heures qui suivent le traumatisme initial.
+ De nombreux traitements médicamenteux spécifiques restent à évaluer (corticoïdes, inhibiteurs calciques, inhibiteurs du NMDA, etc.).
+ Le maintien de la perfusion médullaire est un objectif primordial de la réanimation commencée en période préhospitalière.
+ La libération médullaire doit intervenir le plus rapidement possible, en privilégiant le contrôle hémodynamique et le risque vital et en pesant le rapport bénéfice/risque.
+ Le traitement chirurgical a pour objectif d'obtenir un rachis stable et une moelle libre.
+ Les indications de la chirurgie en urgence sont guidées par l'existence d'une compression médullaire persistante, le degré d'atteinte neurologique et l'existence ou non de lésions traumatiques associées.
+
+Notes et références
+
+Voir aussi
+
+Bibliographie 
+ Anderson DK, Hall ED. Pathophysiology of spinal cord trauma. Ann Emerg Med 1993;22(6):987-92.
+ Anderson PA, Bohlman HH. Anterior decompression and arthrodesis of the cervical spine: long-term motor improvement. Part II--Improvement in complete traumatic quadriplegia. J Bone Joint Surg [Am] 1992;74(5):683-92.
+ Apple DJ, McDonald AP, Smith RA. Identification of herniated nucleus pulposis in spinal cord injury. Paraplegia 1987;25(2):78-85.
+ Babinski MF. Anesthetic considerations in the patient with acute spinal cord injury. Crit Care Clin 1987;3(3):619-36.
+ Bain G, Bodley R, Jamous A, Williams S, Silver J. A comparison of the chest radiograph and computerised tomography in assessing lung changes in acute spinal injuries--an assessment of their prevalence and the accuracy of the chest X-ray compared with CT in their assessment. Paraplegia 1995;33(3):121-5.
+ Baulot E, Trouilloud P, Ragois P, Giroux EA, Grammont PM. La spondylodèse antérieure sous thoracoscopie : une technique atraumatique. Rev Chir Orthop Reparatrice Appar Mot 1997;83(3):203-9.
+ Berlot G, Viviani M, Gullo A, Magnaldi S. Delayed traumatic cervical cord transection. Am J Emerg Med 1995;13(1):101-3.
+ Berrington NR, van SJ, Willers JG, van dWJ. Cervical intervertebral disc prolapse associated with traumatic facet dislocations. Surg Neurol 1993;40(5):395-9.
+ Britt LD, Zolfaghari D, Kennedy E, Pagel KJ, Minghini A Incidence and prophylaxis of deep vein thrombosis in a high risk trauma population. Am J Surg. 1996 Jul;172(1):13-4
+ Carlson GD, Minato Y, Okada A, et al. Early time-dependent decompression for spinal cord injury: vascular mechanisms of recovery. J Neurotrauma 1997;14(12):951-62.
+ Carvell J, Grundy D. Patients with spinal injuries. Bmj 1989;299(6712):1353-4.
+ Carvell JE, Grundy DJ. Complications of spinal surgery in acute spinal cord injury. Paraplegia 1994;32(6):389-95.
+ Cotler HB, Miller LS, De LF, Cotler JM, Davne SH. Closed reduction of cervical spine dislocations. Clin Orthop 1987;.
+ Crosby ET, Lui A. The adult cervical spine: implications for airway management. Can J Anaesth 1990;37(1):77-93.
+ Ducker TB, Zeidman SM. Spinal cord injury. Role of steroid therapy. Spine 1994;19(20):2281-7.
+ Duh MS, Shepard MJ, Wilberger JE, Bracken MB. The effectiveness of surgery on the treatment of acute spinal cord injury and its relation to pharmacological treatment. Neurosurgery 1994;35(2):240-8; discussion 248-9.
+ Emery SE, Pathria MN, Wilber RG, Masaryk T, Bohlman HH. Magnetic resonance imaging of posttraumatic spinal ligament injury. J Spinal Disord 1989;2(4):229-33.
+ Firsching R, Zanella F, Lanfermann H. The dynamics of magnetic resonance findings in patients with a spinal haematoma. Paraplegia 1993;31(3):180-5.
+ Geisler FH. Clinical trials of pharmacotherapy for spinal cord injury. Ann N Y Acad Sci 1998;845(374):374-81.
+ George ER, Scholten DJ, Buechler CM, Jordan-Tibbs J, Mattice C, Albrecht RM Failure of methylprednisolone to improve the outcome of spinal cord injuries. Am Surg. 1995 Aug;61(8):659-63; discussion 663-4
+ Gerhart KA, Johnson RL, Menconi J, Hoffman RE, Lammertse DP Utilization and effectiveness of methylprednisolone in a population-based sample of spinal cord injured persons. Paraplegia. 1995 Jun;33(6):316-21
+ Gerndt SJ, Rodriguez JL, Pawlik JW, Taheri PA, Wahl WL, Micheals AJ, Papadopoulos SM Consequences of high-dose steroid therapy for acute spinal cord injury. J Trauma. 1997 Feb;42(2):279-84
+ Graftieaux JP, Bertault R, Gomis P, Barre J. Spinal cord injuries and corticotherapy. The NASCIS II study and feasibility. Ann Med Interne (Paris) 1994;2(42):42-7.
+ Hall ED, Braughler JM. Free radicals in CNS injury. Res Publ Assoc Res Nerv Ment Dis 1993;71(81):81-105.
+ Hanigan WC, Anderson RJ. Commentary on NASCIS-2. J Spinal Disord 1992;5(1):125-31; discussion 132-3.
+ Hertlein H, Hartl WH, Dienemann H, Schurmann M, Lob G. Thoracoscopic repair of thoracic spine trauma. Eur Spine J 1995;4(5):302-7.
+ Isaac L, Pejic L. Secondary mechanisms of spinal cord injury. Surg Neurol 1995;43(5):484-5.
+ Kiwerski JE. Neurological outcome from conservative or surgical treatment of cervical spinal cord injured patients. Paraplegia 1993;31(3):192-6.
+ Maynard FJ, Bracken MB, Creasey G, et al. International Standards for Neurological and Functional Classification of Spinal Cord Injury. American Spinal Injury Association. Spinal Cord 1997;35(5):266-74.
+ McAfee PC, Bohlman HH, Yuan HA. Anterior decompression of traumatic thoracolumbar fractures with incomplete neurological deficit using a retroperitoneal approach. J Bone Joint Surg [Am] 1985;67(1):89-104.
+ McAfee PC, Regan JR, Fedder IL, Mack MJ, Geis WP. Anterior thoracic corpectomy for spinal cord decompression performed endoscopically. Surg Laparosc Endosc 1995;5(5):339-48.
+ Moeschler O, Ravussin P. Anesthésie du patient avec traumatisme du rachis cervical. Ann Fr Anesth Reanim 1992;11(6):657-65.
+ Nesathurai S. Steroids and spinal cord injury: revisiting the NASCIS 2 and NASCIS 3 trials. J Trauma 1998;45(6):1088-93.
+ Nonnenmacher J, Dagrenat D, Renault D, Dosch JC, Schenck B, Kempf I. matelas coquille antiretraction. Presse Med 1991;20(1):33.
+ Petitjean ME, Mousselard H, Pointillart V, Lassie P, Senegas J, Dabadie P. Thoracic spinal trauma and associated injuries: should early spinal decompression be considered? J Trauma 1995;39(2):368-72.
+ Petitjean ME, Pointillart V. Effet de l'administration continue de nimodipine à la phase aigüe d'un traumatisme médullaire chez le babouin. Ann Fr Anesth Reanim 1992;11(6):652-6.
+ Petitjean ME, Pointillart V, Dixmerias F, et al. Medical treatment of spinal cord injury in the acute stage. Ann Fr Anesth Reanim 1998;17(2):114-22.
+ Petrozza PH Anesthetic considerations for the patient with acute spinal cord injury. Anesth Analg. 1998 Mar;Suppl:85-90.
+ Potter PJ, Hayes KC, Segal JL, et al. Randomized double-blind crossover trial of fampridine-SR (sustained release 4-aminopyridine) in patients with incomplete spinal cord injury. J Neurotrauma 1998;15(10):837-49.
+ Reid DC, Henderson R, Saboe L, Miller JD. Etiology and clinical course of missed spine fractures. J Trauma 1987;27(9):980-6.
+ Rodriguez DJ, Benzel EC, Clevenger FW The metabolic response to spinal cord injury. Spinal Cord 1997 Sep;35(9):599-604
+ Savitsky E, Votey S Emergency department approach to acute thoracolumbar spine injury. J Emerg Med. 1997 Jan-Feb;15(1):49-60
+ Sobel JW, Bohlman HH, Freehafer AA. Charcot's arthropathy of the spine following spinal cord injury. A report of five cases. J Bone Joint Surg [Am] 1985;67(5):771-6.
+ Sonntag VK, Douglas RA. Management of cervical spinal cord trauma. J Neurotrauma 1992;:S385-96.
+ Swain A, Dove J, Baker H. ABC of major trauma. Trauma of the spine and spinal cord--I. Bmj 1990;301(6742):34-8.
+ Swain A, Dove J, Baker H. ABC of major trauma. Trauma of the spine and spinal cord--II. Bmj 1990;301(6743):110-3.
+ Tator CH, Fehlings MG, Thorpe K, Taylor W Current use and timing of spinal surgery for management of acute spinal surgery for management of acute spinal cord injury in North America: results of a retrospective multicenter study. J Neurosurg. 1999 Jul;91(1 Suppl):12-8.
+ Toscano J. Prevention of neurological deterioration before admission to a spinal cord injury unit. Paraplegia 1988;26(3):143-50.
+ Travlos A, Hirsch G. Steroid psychosis: a cause of confusion on the acute spinal cord injury unit. Arch Phys Med Rehabil 1993;74(3):312-5.
+ Vale FL, Burns J, Jackson AB, Hadley MN Combined medical and surgical treatment after acute spinal cord injury: results of a prospective pilot study to assess the merits of aggressive medical resuscitation and blood pressure management. J Neurosurg. 1997 Aug;87(2):239-46
+ Waxman SG. Aminopyridines and the treatment of spinal cord injury. J Neurotrauma 1993;10(1):19-24.
+ Young W. Secondary injury mechanisms in acute spinal cord injury. J Emerg Med 1993;1(13):13-22.
+ Young W, Bracken MB. The Second National Acute Spinal Cord Injury Study. J Neurotrauma 1992;:S397-405.
+
+Articles connexes 
+ Paraplégie
+ Tétraplégie
+
+Neurotraumatisme

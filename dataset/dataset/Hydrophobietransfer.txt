@@ -1,0 +1,8 @@
+Hydrophobietransfer bezeichnet die Eigenschaft von polymeren Isolierstoffen aus Silikon, ihre Hydrophobie nach einer bestimmten Zeit auf die Oberfläche von Fremdschichten wie etwa Verschmutzungsschichten zu übertragen. Dies bedeutet, dass die verschmutzten Isolierungen die gleiche Hydrophobie aufweisen können wie unverschmutzte. Der Hydrophobietransfer beeinflusst somit maßgeblich das Fremdschichtverhalten von Freiluftisolierungen und ist damit entscheidend für deren Auslegung.
+Für den Transfer der Hydrophobie in Verschmutzungsschichten ist die Diffusion niedermolekularer Bestandteile des Isolierwerkstoffs verantwortlich. Dadurch geht in geringem Umfang Silikonsubstanz verloren.
+
+Einzelnachweise 
+
+Freileitungstechnik
+Kunststoffkunde
+Dispersion (Chemie)

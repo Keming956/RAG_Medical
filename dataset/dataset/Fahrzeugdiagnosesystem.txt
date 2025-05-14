@@ -1,0 +1,86 @@
+Fahrzeugdiagnosesysteme sind Anwendungen, die während der kompletten Lebensdauer von Steuergeräten
+in Fahrzeugen verwendet werden, um diese zu diagnostizieren. Die Lebensdauer umfasst die Entwicklung, die Produktion sowie später den Service der Steuergeräte in den Fachwerkstätten.
+Fahrzeugdiagnosesysteme bedienen sich unter anderem der On-Board-Diagnose-Funktionalitäten
+der einzelnen Steuergeräte. In Verbindung mit Auswertung der Datenbuskommunikation ermöglicht das eine detaillierte Fehleranalyse.
+
+Begriff und Definition 
+
+Ein Fahrzeugdiagnosesystem ist ein aus Hard- und Software bestehendes Analysewerkzeug, das im Allgemeinen Funktionalität zum Auslesen von Steuergerätedaten und zum Aufzeichnen von Datenbuskommunikation (Tracing) bietet. Fahrzeugdiagnosesysteme werden bei Versuchsfahrten sowie in Werkstätten zur schnellen Fehlererkennung und Fehleranalyse eingesetzt. Dabei werden idealerweise die Daten aus der Datenbuskommunikation (CAN, LIN, MOST, Flexray, K-Leitung) und die Daten aus dem Fehlerspeicher der Steuergeräte in Zusammenhang gebracht und ausgewertet. Als Protokoll zur Kommunikation zwischen Diagnoserechner und Steuergeräten wird beispielsweise das Key-Word-Protokoll 2000 (KWP2000) oder zunehmend UDS eingesetzt.
+
+Bedeutung 
+
+Die frühzeitige Erkennung, Analyse und Behebung von Fehlern ist ein entscheidender Erfolgsfaktor in der Entwicklung neuer Fahrzeuggenerationen. Kürzer werdende Entwicklungszeiten, sowie auch steigende Komplexität erschweren die Gewährleistung hoher Qualitätsstandards beim Serienstart. Durch die steigende Anzahl neuer Funktionen, die zunehmend über mehrere Steuergeräte verteilt realisiert werden, entsteht ein kompliziertes Abhängigkeitsnetzwerk zwischen der Software auf den einzelnen Steuergeräten. Weiterhin führen dynamische Abhängigkeiten (wie zum Beispiel Abarbeitungsreihenfolgen oder Zeitbedingungen) zwischen der Software verschiedener Steuergeräte und die nicht ausreichend realitätsnahe Simulation von Sensoren und Aktoren trotz ausgiebiger Tests der einzelnen Komponenten in Laboraufbauten zu Fehlern, die erst auf Versuchsfahrten mit Hilfe von Fahrzeugdiagnosesystemen und Analysewerkzeugen erkannt werden können.
+
+Funktionalität und Beispiele 
+
+Viele Diagnosesysteme beschränken sich auf das hardwarebasierte Aufzeichnen der Onboard-Kommunikation, was relativ große und schwer zu analysierende Datenmengen erzeugt. Diese Fahrzeugdiagnosewerkzeuge werden auch Datenlogger genannt. Einige auf embedded Hardware basierende Beispiele sind MultiLOG (GiN, Vector Informatik), UniCAN 2 Professional (CSM GmbH), MC Log (IHR GmbH), CCO DLIII (Condalo GmbH), M-LOG (IPETRONIK GmbH & Co. KG). Bei diesen Systemen gibt es keine softwarebasierte Unterstützung bei der Analyse der Daten.
+
+Eine andere Gruppe von Systemen bietet diese Funktionalität rein softwarebasiert (kann also auf Laptops oder Industrie-PCs im Auto betrieben werden) und bietet auch vorwiegend Datenloggerfunktionalität, wie z. B. CANalyzer, CANoe, X-Analyzer, canAnalyzer, CANcorder, EDICmobil, TraceRunner, IPEmotion u. a. 
+Einige dieser Fahrzeugdiagnosewerkzeuge bieten zusätzliche Funktionalitäten wie z. B. Restbussimulation (CANalyzer, CANoe) an. Zusätzlich zur reinen Erfassung von CAN-Nachrichten bieten viele klassische Systeme Fehlerspeicheranalyse und Auswertungen von Diagnose-Protokollen wie UDS an.
+Weiterhin existieren auch Fahrzeugdiagnosesysteme, die beide Hauptfunktionalitäten Fehlerspeicheranalyse und Aufzeichnen der Datenbuskommunikation unterstützen. Beispiele sind CANape (Vector Informatik), DiagRA MCD (RA Consulting) und Tedradis (IT-Designers). Diese erstellen einen zeitlichen Zusammenhang zwischen den aufgezeichneten CAN-Nachrichten und den ausgelesenen Steuergerätefehlerspeichern und erleichtern auf diese Weise die Analyse. Das Werkzeug Tedradis unterstützt den Benutzer durch weitere Möglichkeiten zur Datenreduktion (wie z. B. Trigger), visuelle Aufbereitung der relevanten Daten, Auslesen und Aufzeichnen von Fahrzeuginformationen wie z. B. Steuergerätekodierung u. a. Auch Hersteller von Embeddedgeräten wie Telemotive (blue PiraT) und Condalo GmbH (CCO DLII) arbeiten zurzeit an Funktionen, die den Benutzer bei der Analyse der Daten unterstützen.
+
+Technisch sind heute also die meisten Probleme des reinen Aufzeichnens der Daten bereits überwunden. Die Entwicklung geht in der Zukunft in Richtung intelligente Analyse, zum Beispiel mit Hilfe von Data-Mining und Methoden der künstlichen Intelligenz.
+
+Fahrzeugdiagnosesysteme in der Produktion 
+Ein Fahrzeugdiagnosesystem für die Produktion ist eng an die Werkslogistik gekoppelt, um sicherzustellen, dass das Fahrzeug gemäß dem Kundenauftrag gebaut wird. Für jedes einzelne Fahrzeug existiert ein Datensatz, der beschreibt, welches Fahrzeug mit welcher Motorisierung, Ländervariante und zusätzlichen Sonderausstattungen aufgebaut wird. Zusätzlich können dem Datensatz weitere Daten wie Fahrgestellnummer, Teilenummern der einzubauenden Steuergeräte und zugehöriger Codierungen entnommen werden. Prüfergebnisse und ausgelesene Daten wie Seriennummern werden zurück in eine Datenbank geschrieben.
+
+Die Anforderungen an Fahrzeugdiagnosesystemen in den Produktionsprozessen der Hersteller sind so vielfältig wie deren Einsatzgebiete:
+
+Vormontagebereiche 
+In der Vormontage werden einzelne Fahrzeugmodule wie Sitze, Türen oder Instrumententafel separat aufgebaut, geprüft und dann im Gesamtfahrzeug verbaut. Ein dafür verwendetes Diagnosesystem benötigt neben der eigentlichen Diagnosekommunikation:
+ Restbussimulation für das fehlende Gesamtfahrzeug, um die Funktionsweise testen zu können;
+ Elektrische Messeinrichtungen, um die korrekte Funktionsweise der Aktorik, z. B. Fensterheber oder Lampen, bewerten zu können;
+ zusätzliche Prüfgeräte, z. B. für Pneumatik.
+
+Fahrzeugmontage 
+In der Fahrzeugmontage wird das gesamte Fahrzeug zusammengebaut und die Funktionalität statisch (bei stehendem Motor) geprüft. Das Diagnosesystem prüft zunächst, ob die richtige Variante des Steuergerätes eingebaut ist. Anschließend erfolgt die Kodierung gemäß Motor- und Ländervariante sowie Sonderausstattungen, gefolgt von einer Funktionsprüfung, wozu auch Messeinrichtungen für Strom, z. B. über Strommesszange (so genanntes ECOS) angewendet werden, die ins Diagnosesystem integriert sind.
+
+Einfahrbereich 
+Im Einfahrbereich werden Prüfstände zur Fahrwerkseinstellung und Rollenprüfstände verwendet, die vom Fahrzeugdiagnosesystem kontrolliert werden. Dieser dynamische Funktionstest bei laufendem Motor wird zum Teil direkt über Diagnose kontrolliert, indem Aktuatoren über Diagnose gesteuert werden. Zum Beispiel beim Funktionstest ESP durch Bremsen einzelner Räder, Ansteuern der Federbeine eines aktiven Fahrwerks oder Simulation des Fahrpedals.
+
+Fahrzeugtechnik 
+In der Fahrzeugtechnik werden neben Diagnose-Tester und Datenlogger auch Fahrzeugdiagnosesysteme zur Fehlerdiagnose eingesetzt.
+Siehe auch: Fehlerspeicher
+
+Luftfahrzeugtechnik 
+In der Luftfahrzeugtechnik und der Bahntechnik werden automatische Fahrzeugdiagnosesysteme eingesetzt, die die Funktion eines Gerätes mit einem redundanten Gerät vergleichen. Die Ergebnisse werden über Funk dem Betreiber übermittelt.
+
+Fahrzeugdiagnosesysteme in der Werkstatt 
+
+Die großen Automobilhersteller lassen für ihre Vertragswerkstätten gezielt Fahrzeugdiagnosesysteme herstellen, die auf die Bedürfnisse der im Fahrzeug eingebauten Bussysteme abgestimmt sind. Der Mechaniker wird mit einem Entscheidungsbaum oder auch geführte Fehlersuche genannt zur Lösung des Problems geführt. Alles fängt mit einem Symptom an, das der Kunde beanstandet und dies in der Werkstatt kund tut. Beim Entscheidungsbaum werden verschiedene Tests durchgeführt, mit denen mögliche Ursachen geprüft werden können, so dass der Defekt schnell gefunden wird und die notwendige Reparaturanweisung gegeben werden kann. Die Tests verwenden dazu einzelne Diagnosebefehle. Neben der geführten Fehlersuche steht auch ein Expertenmodus zur Verfügung, dieser erlaubt einen direkteren Zugriff auf die Diagnose und so zu einer schnellen Lösung.
+
+Die Fahrzeugdiagnosesysteme für die Werkstätten stellen neben der Fahrzeugdiagnose zahlreiche weitere Funktionen bereit:
+ Software-Update der Steuergeräte mit direktem Zugriff um die passende Software herunterladen zu können
+ Schaltplan-Verzeichnis
+ Reparaturanleitungen
+ Teilekatalog
+ Verbindung zur Buchhaltung zur Rechnungserstellung
+ sowie eine Kundendatenbank
+
+Programmierung von Steuergeräten 
+
+Steuergeräten, die neuprogrammierbar (flashbar) sind, kann auf diese Weise eine neue Programmversion zugesendet werden. Dazu muss es im Steuergerät ein extra Programm geben, das Flashloader genannt wird. Dieses Programm empfängt die Diagnose-Nachrichten zur Neuprogrammierung der restlichen Software vom Diagnosegerät und führt die erhaltenen Befehle, wie z. B. das Löschen oder das Beschreiben des Flashspeichers, aus.
+
+Die essentiellen Komponenten eines Steuergeräts für die Reprogrammierung sind die Transportprotokoll-Proxys (CAN-TP-Proxy, MOST-TP-Proxy), ggf. eine KWP2000-Komponente und der Flashware-Reprogramming-Controller. Die TP-Proxys bieten dabei der KWP2000-Komponente eine einheitliche Schnittstelle zum Versenden von Nachrichten an und führen die erforderlichen Anpassungen zum Versenden von Transportnachrichten an den jeweiligen Subnetzen durch. Kommt ein neues Fahrzeug-Subnetz (z. B. Flexray oder TT-CAN) zum Einsatz, so muss lediglich ein entsprechender TP-Proxy hinzugefügt werden, um Steuergeräte an diesen Fahrzeug-Subnetzen flashen zu können.
+
+Die Flashware-Proxys sind Stellvertreter für die auf den Steuergeräten installierten Flashware-Module. Soll ein Flashware-Modul in einem Steuergerät aktualisiert werden, so wird ein neuer Flashware-Proxy, der die neue Flashware und zugehörige Konfigurationsinformation für das Steuergerät enthält, vom Download-Server in der Infrastruktur in das Fahrzeug geladen. Der in das Fahrzeug geladene Flashware-Proxy kontaktiert die Komponenten der Installations- und Konfigurationsüberwachung und veranlasst nach positiver Rückmeldung die Installation der Flashware. Hierzu werden die Flashware und die Konfigurationsinformation vom Flashware-Proxy an den Flashware-Reprogramming-Controller übergeben, der die Konfigurationsdaten interpretiert, die Parameter für die KWP2000-Nachrichten zusammenstellt und diese in der richtigen Sequenz an das zu programmierende Steuergerät sendet. Die Konfigurationsdaten geben hierbei beispielsweise Aufschluss über den Aufbau der Flashware oder über Spezifika beim Download-Vorgang in ein spezielles Steuergerät. Nach einer erfolgreichen Installation löscht der Flashware-Proxy die in ihm enthaltene Flashware und die Konfigurationsdaten und wird fortan im Rahmen der Konfigurationsüberwachung im Fahrzeug weiter eingesetzt.
+
+Bestrebungen zur Standardisierung 
+
+In der Anfangszeit der Fahrzeugdiagnose entwickelten die einzelnen Automobilhersteller selbst bzw. über Systempartner proprietäre Systeme, z. T. sogar selbständig für Fahrzeugentwicklung, Produktionszwecke und für die eigene Handelsorganisation.
+Diese Eigenentwicklungen wurden immer kostenintensiver in der laufenden Pflege, banden die Hersteller an einzelne Zulieferer und verhinderten den einfachen Datenaustausch bei herstellerübergreifenden Kooperationen. Das Diskriminierungsverbot freier Werkstätten und Händler (Stichwort Gruppenfreistellungsverordnung GVO) erforderte darüber hinaus ein standardisiertes Datenformat. Diese gesetzlichen Anforderungen und die Erkenntnis, dass die grundlegenden Diagnosetechniken nicht wettbewerbsrelevant sind, führten daher zu einer Kooperationsbereitschaft der Automobilkonzerne.
+Dem Standardisierungsproblem nahm man sich in der Arbeitsgruppe Automotive Electronics (ASAM-AE) der Association for Standardization of Automation and Measuring Systems (ASAM) an und entwickelte mehrere Standards, die in der ISO 22900-Gruppe international standardisiert werden. Als Arbeitsergebnis wurde der ODX-Standard (auch MCD-2D) für die Datenbeschreibung und mit MCD-3D ein Objektmodell eines Diagnose-Kernels entworfen. Zur Bedienung der Kommunikations-Hardware wurde ein dritter Standard MCD-1D bzw. PDU-API veröffentlicht. MCD-1D nimmt Rücksicht auf vorhandene Standard-Werkzeuge, wie z. B. Pass-Thru-Adapter zum Flashen von Steuergeräten.
+
+Mit diesen drei Standards ist ein Diagnose-Kernel spezifiziert, der über drei Schnittstellen verfügt und zwar:
+ Kommunikationshardware
+ Diagnosebeschreibung
+ Diagnose-Applikation
+
+Mit der Verabschiedung der Standards entstanden darauf basierende neue Produkte oder bestehende Produkte wurden an die neuen Standards angepasst.
+
+Literatur 
+ Christoph Marscholik, Peter Subke: Datenkommunikation im Automobil: Grundlagen, Bussysteme, Protokolle und Anwendungen. Hüthig, Heidelberg 2007, ISBN 978-3-7785-2969-0.
+ Matthias Becker: Diagnosearbeit im Kfz-Handwerk als Mensch-Maschine-Problem. Konsequenzen des Einsatzes rechnergestützter Diagnosesysteme für die Facharbeit. W. Bertelsmann, Bielefeld 2003, ISBN 3-7639-3145-7.
+ Werner Zimmermann, Ralf Schmidgall: Bussysteme in der Fahrzeugtechnik – Protokolle, Standards und Softwarearchitektur. 5. Auflage, Springer Vieweg, Wiesbaden 2014, ISBN 978-3-658-02418-5.
+
+Kraftfahrzeugtechnik

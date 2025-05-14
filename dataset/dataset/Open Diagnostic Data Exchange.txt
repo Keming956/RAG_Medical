@@ -1,0 +1,11 @@
+Open Diagnostic Data Exchange (ODX), ODX-Standard (ASAM MCD-2D v2.0)) est une norme de description formelle des informations de diagnostic des calculateurs véhicule.
+
+Les véhicules actuels contiennent des calculateurs dont la taille du logiciel atteint facilement plusieurs kilo - voire mégaoctets.
+
+Le diagnostic s'effectue par connexion de l'outil à une prise de diagnostic véhicule permettant de communiquer avec les calculateurs véhicule.
+
+ODX permet de décrire l'ensemble des services disponibles en externe et est basé sur le XML (du W3C un consortium pour la description des données de diagnostic format normalisé pour des informations structurées).
+
+Il a été développé par le groupe de travail ASAM (Association for Standardisation of Automation and Measuring systems)
+
+Norme ou standard informatique

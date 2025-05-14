@@ -1,0 +1,61 @@
+The Children's Depression Inventory (CDI and CDI2) is a psychological assessment that rates the severity of symptoms related to depression or dysthymic disorder in children and adolescents. The CDI is a 27-item scale that is self-rated and symptom-oriented.  The assessment is now in its second edition.  The 27 items on the assessment are grouped into five major factor areas.  Clients rate themselves based on how they feel and think, with each statement being identified with a rating from 0 to 2.  The CDI was developed by American clinical psychologist Maria Kovacs, PhD, and was published in 1979.  It was developed by using the Beck Depression Inventory (BDI) of 1967 for adults as a model. The CDI is a widely used and accepted assessment for the severity of depressive symptoms in children and youth, with high reliability.  It also has a well-established validity using a variety of different techniques, and good psychometric properties. The CDI is a Level B test.
+
+History
+The BDI was used as a model for developing the CDI. The BDI is a clinically-based, 21-item, self-rated symptom scale for adults in determining whether or not they are experiencing depression and/or depressive symptoms. Though the BDI was already being used in assessing adults with depression, there was a need for the development of a similar test for children and youth. Therefore, Kovacs developed the CDI.
+
+Development
+The first phase of development of the CDI began in March 1975.  It was derived using children as subjects.  In total, there were four phases of development of the CDI, including three revisions to the original 1975 assessment.  The final version was developed and published in August 1979.  Kovacs reported that she and Aaron T. Beck worked together in using his adult scale of the BDI as a model for developing the CDI.
+
+Background
+The test was originally designed for English-speaking American children, aged eight years old or older.  Skills needed for taking the test are the lowest levels of reading and vocabulary comprehension, so it is suitable for children aged six years old or older.  The test is generally administered to children and youth between the ages of 7 and 17.  The CDI has been translated into many languages, and has been administered to children worldwide.
+
+The CDI manual includes comprehensive information about psychometrics, norms, and item development. Many relevant charts are also included in the manual relating to reliability, constructs, and other areas.  Descriptions of CDI's scales are also provided, including examples of sample tests, along with associated tables of data and information. The directions for administration of the CDI are clear and easy to follow.  Information and directions about scoring the CDI, as well as the length of time it takes individuals to complete the CDI, are clear, detailed, and easy to understand.  The time it generally takes for an individual to complete the CDI is 15 minutes or less, while scoring time is 5–10 minutes.
+
+The 27 items of the CDI are grouped into five factor areas, including 'Negative Mood', 'Interpersonal Problems', 'Ineffectiveness',  'Anhedonia', and 'Negative Self Esteem'.  The 27 items include statements related to the following areas: sadness, pessimism, self-deprecation, anhedonia, misbehavior, pessimistic worrying, self-hate, self-blame, suicidal ideation, crying spells, irritability, reduced social interest, indecisiveness, negative body image, school-work difficulty, sleep disturbance, fatigue, reduced appetite, somatic concerns, loneliness, school dislike, lack of friends, school performance decrement, self-depreciation (via peer comparison), feeling unloved, disobedience, and fighting.
+
+The CDI is an objective and empirical test. Individuals can score 0-54 on the CDI, with those results being converted to T-scores.  A cut-off score of 19–20 is generally accepted on the CDI, but is not an absolute.  Studies of the CDI have reported lower cut-off scores; therefore, individual cases must be taken into consideration.  Additionally, the CDI was designed for individual rather than group administration.  A score of 36 or higher on the CDI is generally accepted to reflect a person who has relatively severe depression.
+
+As a norm-referenced test, the CDI was normed with public school students.  The standardization sample included the "responses of 1,266 Florida public school students in grades 2 through 8", including 674 girls aged 7–16 and 592 boys aged 7–15.  Individual data on the test-takers' ethnicity or race are unavailable.  Based on the total demographics of the school districts that were sampled, however, approximately "77% of the children were Caucasian and 23% were African American or Black, American Indian, or Hispanic."  "The population was largely middle class, although a wide range of socioeconomic backgrounds were included."  Further, about 20% of the respondents came from single-parent families.
+
+Reliability and validity
+The Cronbach's alpha was used to obtain reliability measures. Across one group of nine studies, alpha measures were 0.71-0.89, reflecting good internal consistency.  The test adequately measures for depressive symptoms.  In another group of 16 studies of test-retest reliability, alpha measures were reported as 0.38–0.87.  Regarding the short factor subscales, alpha reliability measures for internal consistency reliability were 0.59–0.68. Further, studies in addition to those completed by Kovacs have shown moderate to high reliability.  One study used the Kuder-Richardson test of internal consistency and obtained results reflecting high reliability.
+
+In correlating the CDI and factors of the CDI with similar psychological assessments for children and/or youth, studies have shown moderate to high correlations, while other studies have shown no correlations (in certain areas).
+
+The validity of the CDI has been well-established.  Construct validity and discriminant validity has also been established.  Kovacs used experimental design to obtain discriminant validity between cases that were considered "normal" and those that were considered clinical.  Some studies have reflected discriminant validity, while others have not. Kovacs reported in 1992 that further research on discriminant validity was needed.
+
+Special considerations
+
+Most research on the CDI has been conducted with Caucasian participants of middle to lower class socioeconomic status throughout the world.  The CDI can be given to children and youth across cultures, though its "internal consistency and factorial structure vary somewhat in different juvenile cohorts."  Kovacs and other researchers have reported obtaining higher CDI scores for African-Americans (particularly boys), Japanese (substantially higher), Hispanic (significantly higher), and Egyptian individuals when compared to Caucasians.
+
+Additionally, test scores for older children (aged 13 years old or older) tend to be higher than those of younger children (under 12 years old), though the difference is small and not significant.  This is explained with the consideration of the development and maturation of children at this age level, with changes occurring in brain structure occurring at these ages.  One study, however, reported that the CDI scores of younger (aged 6–11) children were higher than those of older (aged 12–18) children.
+
+In an analysis of interview data of children who are diabetic, CDI score results may mimic those of having depressive symptoms.  However, important to keep in mind is that diabetes "elicits noticeable emotional upheaval (mostly in the depressive symptoms domain) that nonetheless resolves in about six months."
+
+CDI test data is "sensitive to changes in independently determined psychiatric diagnostic status."  Test data also reflects that the test is sensitive to changes over time in depressive symptoms.
+
+There are main effects in the constructs of 'Interpersonal Problems', 'Ineffectiveness', and 'Anhedonia' between boys and girls.  Girls scored higher than boys on these constructs, based on Kovacs' studies performed on the CDI as of 1992, reflecting that girls had a tendency for having greater distress in these areas.  While some studies have reported significant differences between CDI scores of girls and boys, and/or more depressive symptoms in girls than boys, other studies have found no significant differences.
+
+Yet other studies have reflected higher CDI scores for boys than girls, including those in single-parent families.  Children of divorced parents were found to score significantly higher on the CDI than children of non-divorced parents.  Additional studies have found significant differences in CDI scores of children who have experienced sexual abuse; and those who have attention deficit disorder; or learning disabilities, in comparison with controls. Children who were rejected by their peers, when compared with controls, had significantly higher CDI scores in one study, but not in another when compared with children who were considered "average".
+
+Children of individuals who are substance abusers also scored significantly higher on the CDI than children of non-substance abusers.  Another study researched levels of depression and self-esteem in gifted children, and found that boys were significantly more depressed than girls, based on their CDI scores.  Further, obese children scored as being more depressed on the CDI than their non-obese counterparts in one study.  Children who have posttraumatic stress disorder (PTSD) and anxiety were more depressed, based on their CDI score results, than children who did not have PTSD or anxiety.  Females, aged 12–17, who had attempted suicide scored significantly higher on the CDI than psychiatric controls; and girls who were repeat attempters of suicide scored higher on the CDI than first-time suicide attempters.
+
+Further considerations
+
+A 2012 study researched the potential relationship between pediatric inflammatory bowel diseases (IBD), such as Crohn's disease and ulcerative colitis, and depressive symptoms.  A significant positive correlation was found between IBD and somatic complaints that reflect depressive symptoms. Researchers in this study stated that the CDI test item, "somatic complaints" could potentially be recognized as a sixth and separate factor on the test.
+
+Limitations
+
+CDI factorial structure and internal consistency have variations in differing juvenile cohorts. The CDI tends to reflect a greater number of false negatives than false positives. As with any test, the CDI is not perfectly valid.  It is possible for test-takers of the CDI to "fake good."  Individuals who take the CDI whose reading level is not age-appropriate may have difficulty with it, and therefore, their results may be incorrect.
+
+It is important to account for and consider additional information about the individual rather than solely-using CDI test scores on which to base decisions.  A variety of individuals may administer the CDI, however, as a caution and for ethical purposes, only those professionals who are trained to interpret assessments should do so.
+
+References
+
+External links
+Multi-Health Systems publishing website for the Children's Depression Inventory, 2nd edition
+Pearson publishing website for Children's Depression Inventory, 2nd edition
+Psychiatric rating scales for depression from Neurotransmitter.net
+
+Psychiatric instruments: child and adolescent psychiatry
+Rating scales for depression

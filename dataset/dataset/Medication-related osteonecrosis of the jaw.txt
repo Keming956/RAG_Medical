@@ -1,0 +1,190 @@
+Medication-related osteonecrosis of the jaw (MON, MRONJ) is progressive death of the jawbone in a person exposed to a medications known to increase the risk of disease, in the absence of a previous radiation treatment. It may lead to surgical complication in the form of impaired wound healing following oral and maxillofacial surgery, periodontal surgery, or endodontic therapy.
+
+Particular medications can result in MRONJ, a serious but uncommon side effect in certain individuals. Such medications are frequently used to treat diseases that cause bone resorption such as osteoporosis, or to treat cancer. The main groups of drugs involved are anti-resorptive drugs, and anti-angiogenic drugs.
+
+This condition was previously known as bisphosphonate-related osteonecrosis of the jaw (BON or BRONJ) because osteonecrosis of the jaw correlating with bisphosphonate treatment was frequently encountered, with its first incident occurring in 2003.  Osteonecrotic complications associated with denosumab, another antiresorptive drug from a different drug category, were soon determined to be related to this condition. Newer medications such as anti-angiogenic drugs have been potentially implicated causing a very similar condition and consensus shifted to refer to the related conditions as MRONJ; however, this has not been definitively demonstrated.
+
+There is no known prevention for bisphosphonate-associated osteonecrosis of the jaw. Avoiding the use of bisphosphonates is not a viable preventive strategy on a general-population basis because the medications are beneficial in the treatment and prevention of osteoporosis (including prevention of bony fractures) and treatment of bone cancers.  Current recommendations are for a 2-month drug holiday prior to dental surgery for those who are at risk (intravenous drug therapy, greater than 4 years of by-mouth drug therapy, other factors that increase risk such as steroid therapy).
+
+It usually develops after dental treatments involving exposure of bone or trauma, but may arise spontaneously. Patients who develop MRONJ may experience prolonged healing, pain, swelling, infection and exposed bone after dental procedures, though some patients may have no signs/symptoms.
+
+Definition
+According to the updated 2014 AAOMS position paper (modified from 2009), in order to distinguish MRONJ, the working definition claims patients may be considered to have MRONJ if all the following characteristics are present:
+
+1. Current or previous treatment with antiresorptive or antiangiogenic agents.
+
+2. Exposed bone or bone that can be probed through an intraoral or extraoral fistula in the maxillofacial region that has persisted for longer than 8 weeks.
+
+3. No history of radiation therapy to the jaws or obvious metastatic disease to the jaws.
+
+Osteonecrosis, or localized death of bone tissue, of the jaws, is a rare potential complication in cancer patients receiving treatments including radiation, chemotherapy, or in patients with tumors or infectious embolic events. In 2003, reports surfaced of the increased risk of osteonecrosis in patients receiving these therapies concomitant with intravenous bisphosphonate. Matrix metalloproteinase-2 may be a candidate gene for bisphosphonate-associated osteonecrosis of the jaws, since it is the only gene known to be associated with both bone abnormalities and atrial fibrillation, another side effect of bisphosphonates.
+
+In response to the growing base of literature on this association, the United States Food and Drug Administration issued a broad drug class warning of this complication for all bisphosphonates in 2005.
+
+Signs and symptoms
+
+Classically, MRONJ will cause an ulcer or areas of necrotic bone for weeks, months, or even years following a tooth extraction. While the exposed, dead bone does not cause symptoms these areas often have mild pain from the inflammation of the surrounding tissues. Clinical signs and symptoms associated with,  but not limited to MRONJ, include:
+Jaw pain and neuropathy
+Loose teeth
+Mucosal swelling
+Erythema 
+Suppuration
+Soft tissue ulceration persisting for more than 8 weeks
+Trismus
+Non-healing extraction sockets
+Paraesthesia or numbness in the jaw
+Bad breath
+Exposed necrotic jaw bone
+
+Cause
+Cases of MRONJ have also been associated with the use of the following two intravenous and three oral bisphosphonates, respectively: zoledronic acid and pamidronate and alendronate, risedronate, and ibandronate. Despite the fact that it remains vague as to what the actual cause is, scientists and doctors believe that there is a correlation between the necrosis of the jaw and time of exposure to bisphosphonates. Causes are also thought to be related to bone injury in patients using bisphosphonates as stated by Remy H Blanchaert in an article about the matter.
+
+Risk factors
+
+The overwhelming majority of MRONJ diagnoses, however, were associated with intravenous administration of bisphosphonates (94%).  Only the remaining 6% of cases arose in patients taking bisphosphonates orally.
+
+Although the total United States prescriptions for oral bisphosphonates exceeded 30 million in 2006, less than 10% of MRONJ cases were associated with patients taking oral bisphosphonate drugs.  Studies have estimated that BRONJ occurs in roughly 20% of patients taking intravenous zoledronic acid for cancer therapy and in between 0–0.04% of patients taking orally administered bisphosphonates.
+
+Owing to prolonged embedding of bisphosphonate drugs in the bone tissues, the risk for MRONJ is elevated even after stopping the administration of the medication for several years.
+
+Patients who stopped taking anti-angiogenic drugs are exposed to the same risk as patients who have never taken the drugs because anti-angiogenic drugs do not normally reside in the body for a long period of time.
+
+Risk factors include:
+ Dental treatment (e.g. dentoalveolar surgery/procedure that impacts bone) – it is possible for MRONJ to occur spontaneously without any recent invasive dental treatment
+ Duration of bisphosphonate drug therapy – increased risk with increased cumulative dose of drug
+ Other concurrent medication – use of chronic systemic glucocorticoid increases risk when they are taken in combination with anti-resorptive drugs
+ Dental implants 
+ Drug holidays – no evidence to support a reduction in MRONJ risk if patients stop taking bisphosphonates temporarily/permanently, as drugs can persist in skeletal tissues for many years
+ Treatment in the past with anti-resorptive/anti-angiogenic drugs
+ Patient being treated for cancer – higher risk
+ Patients being treated for osteoporosis/non-malignant bone diseases (e.g. Paget's disease) – lower risk
+
+Research findings 
+
+‘The risk of MRONJ after dental extraction was significantly higher in patients treated with ARD (antiresorptive drugs) for oncological reasons (3.2%) than in those treated with ARD for OP (osteoporosis) (0.15%) (p < 0.0001). Dental extraction performed with adjusted extraction protocols decreased MRONJ development significantly. Potential risk indicators such as concomitant medications and pre-existing osteomyelitis were identified.’
+
+Patient risk categories 
+Low:
+
+ Treatment of osteoporosis or non-malignant bone disease with oral bisphosphonates for <5 years (not taking systemic glucocorticoids)
+ Treatment of osteoporosis or non-malignant bone disease with quarterly/yearly infusions of intravenous bisphosphonates for <5 years (not taking systemic glucocorticoids)
+ Treatment of osteoporosis or non-malignant bone disease with denosumab (not taking systemic glucocorticoids)
+
+High:
+
+  Patients being treated for osteoporosis or non-malignant bone disease with oral bisphosphonates/quarterly or yearly infusions of intravenous bisphosphonates for >5 years
+ Patients being treated for osteoporosis or non-malignant bone disease with bisphosphonates/denosumab for any length of time as well as being treated with systemic glucocorticoids
+ Patients being treated with anti-resorptive/anti-angiogenic drugs/both as part of cancer management
+ Previous MRONJ diagnosis
+
+"N.B. Patients who have taken bisphosphonate drugs at any time in the past and those who have taken denosumab in the last nine months are allocated to a risk group as if they are still taking the drug."
+
+Anti-resorptive drugs 
+Anti-resorptive drugs inhibit osteoclast differentiation and function, slowing down the breakdown of bone. They are usually prescribed for patients with osteoporosis or other metastatic bone diseases, such as Paget's disease, osteogenesis imperfecta and fibrous dysplasia.
+
+The two main types of anti-resorptive drugs are bisphosphonate and denosumab. These drugs help to decrease the risk of bone fracture and bone pain.
+
+Because the mandible has a faster remodeling rate compared to other bones in the body, it is more affected by the effects of these drugs.
+ Bisphosphonate
+ Bisphosphonates are either administrated orally or intravenously. They reduces bone resorption.
+ Mechanism of action: Bisphosphonate binds to the mineral component of the bone and inhibits enzymes (i.e. farnesyl-pyrophosphate synthase) responsible for bone formation, osteoclast recruitment and osteoclast function.
+ This type of drug has a high affinity for hydroxyapatite and stays in bone tissue for a long period of time, with alendronate, it has a half-life of approximately ten years.
+ The risk of a patient having MRONJ after discontinuing this medication is unknown.
+ There are suggestions that bisphosphonate may inhibit the proliferation of soft tissue cells and increases apoptosis. This may result in delayed soft tissue healing.
+ Examples of bisphosphonates: : Zoledronic acid (Reclast, Zometa), Risedronate (Actonel), Alendronate (Fosamax), Etidronate (Didronel), Ibandronate (Boniva), Pamidronate (Aredia), Tiludronate (Skelid).
+ Denosumab
+ Denosumab is a monoclonal antibody which is administrated subcutaneously. It inhibits osteoclast differentiation and activation, reduces bone resorption, improves bone density and lessens skeletal-related events associated with metastasis.
+ Mechanism of action: The drug binds to receptor activator nuclear factor κB ligand (RANKL), preventing the interaction with RANK.
+ It does not bind to bone and its effect on bone diminishes in 9 months.
+
+Anti-angiogenic drugs 
+Osteonecrosis of the jaw has been identified as one of the possible complications of taking anti-angiogenic drugs; the association of the disease with the medication is known as MRONJ. This has been stated in the Drug Safety Updates by the MHRA.
+
+Angiogenesis inhibitors interfere with blood vessel formation by interfering with the angiogenesis signalling cascade. They are used primarily to treat cancer. These cancer-fighting agents tend to hinder the growth of blood vessels that supply the tumour, rather than killing tumour cells directly. They prevent the tumour from growing. For example, bevacizumab/aflibercept is a monoclonal antibody that specifically binds to vascular endothelial growth factor (VEGF), preventing VEGF from binding to receptors on the surface of normal endothelial cells. Sunitinib is a different example of an anti-angiogenic drug; it inhibits cellular signalling by targeting multiple receptor tyrosine kinases. It reduces the blood supply to the tumour by inhibiting new blood vessel formation in the tumor. The tumour may stop growing or even shrink.
+
+Pathogenesis
+Although the methods of action are not yet completely understood, it is hypothesized that medication-associated osteonecrosis of the jaw is related to a defect in jaw bone healing and remodelling.
+
+The inhibition of osteoclast differentiation and function, precipitated by drug therapy, leads to decreased bone resorption and remodelling. Evidence also suggests bisphosphonates induce apoptosis of osteoclasts. Another suggested factor is inhibition of angiogenesis due to bisphosphonates; this effect remains uncertain. Several studies have proposed that bisphosphonates cause excessive reduction of bone turnover, resulting in a higher risk of bone necrosis when repair is needed.
+
+It is also thought that bisphosphonates bind to osteoclasts and interfere with the remodeling mechanism in bone. To be more specific, the drug interferes with the cholesterol biosynthesis pathway through the inhibition of farnesyl diphosphate synthase. Over time, the cytoskeleton of the osteoclasts loses its function and the essential border needed for bone resorption does not form. Like aminobisphosphonates, bisphosphonates have shown to have antiangiogenic properties. Therefore, effects include an overall decrease in bone recycling/turnover as well as an increased inhibition of the absorptive bone abilities.
+
+One theory is that because bisphosphonates are preferentially deposited in bone with high turnover, it is possible that the levels of bisphosphonate within the jaw are selectively elevated. To date, there have been no reported cases of bisphosphonate-associated complications within bones outside the craniofacial skeleton.
+
+Diagnosis
+A diagnosis of bisphosphonate-associated osteonecrosis of the jaw relies on three criteria:
+ the patient possesses an area of exposed bone in the jaw persisting for more than 8 weeks,
+ the patient must present with no history of radiation therapy to the head and neck
+ the patient must be taking or have taken bisphosphonate medication.
+
+According to the updated 2009 BRONJ Position Paper published by the American Association of Oral and Maxillofacial Surgeons, both the potency of and the length of exposure to bisphosphonates are linked to the risk of developing bisphosphonate-associated osteonecrosis of the jaw.
+
+In the 2014 AAOMS update on MRONJ, a staging and treatment strategies table was created:
+
+Prevention
+Tooth extraction is the major risk factor for development of MRONJ. Prevention including the maintenance of good oral hygiene, comprehensive dental examination and dental treatment including extraction of teeth of poor prognosis and dentoalveolar surgery should completed  prior to commencing any medication which is likely to cause osteonecrosis (ONJ). Patients with removable prostheses should be examined for areas of mucosal irritation. Procedures which are likely to cause direct osseous trauma, e.g. tooth extraction, dental implants, complex restoration, deep root planning, should be avoided in preference of other dental treatments. There are limited data to support or refute the benefits of a drug holiday for osteoporotic patients receiving antiresorptive therapy. However, a theoretical benefit may still apply for those patients with extended exposure histories (>4 yr), and current recommendations are for a 2 month holiday for those at risk. There was low quality evidence suggesting taking antibiotics prior to the dental extraction, as well as the use of post operative techniques for wound closure lowered the risk of patients developing medication-related osteonecrosis of the jaw compared with the usual standard care received for regular dental extractions. Post operative wound closure has been suggested to prevent the contamination of the underlying bone. More evidence is needed to assess the use of antibiotics prior to treatment and the use of wound closure to prevent contamination of the bone, as the quality of evidence evaluated was low.
+
+Management
+MRONJ is an adverse reaction which can occur as a result of medicines used to treat cancer and osteoporosis. Some medications which induce these effects are bisphosphonates, denosumab and antiangiogenic agents. They involve the destruction of bone in a progressive manner, particularly associated with the mandible or maxilla. The overall effects depend on which drug is being used, the dose and the duration of taking this drug. MRONJ is associated with significant severe disease, negative affects on the quality of life and remains to be increasingly challenging to treat. It is debate whether the various management techniques used for MRONJ are effective. The management of people taking the drugs of concern undergo initial management and continuing management. Before either of these are considered the patient must be as dentally fit as possible.
+
+Treatment usually involves antimicrobial mouth washes and oral antibiotics to help the immune system fight the attendant infection, and it also often involves local resection of the necrotic bone lesion. Many patients with MRONJ have successful outcomes after treatment, meaning that the local osteonecrosis is stopped, the infection is cleared, and the mucosa heals and once again covers the bone.
+
+The treatment the person receives depends on the severity of osteonecrosis of the jaw.
+
+Conservative
+Indicated in patients who have evidence of exposed bone but no evidence of infection. It may not necessarily eliminate all the lesions, but it may provide patients with a long term relief. This approach involves a combination of antiseptic mouthwashes and analgesics and the use of teriparatide. However, note that the teriparatide treatment should not be used in cancer patients, or patients with a history of skeletal radiation or active bone metastases. Splints may be used to protect sites of exposed necrotic bone.
+
+Non-surgical
+
+Indicated for people with exposed bone with symptoms of infection. This treatment modality may also be utilised for patients with other co-morbidities which precludes invasive surgical methods. This approach requires antimicrobial mouthwashes, systemic antibiotics and antifungal medication and analgesics.
+
+Surgery
+
+Surgical intervention is indicated in patients with symptomatic exposed bone with fistula formation and one or more of the following: exposed and necrotic bone extending beyond the alveolar bone resulting in pathological fracture; extra-oral fistula; oral antral communication or osteolysis extending from the inferior border of the mandible or the sinus floor. Surgical management involves necrotic bone resection, removal of loose sequestra of necrotic bone and reconstructive surgery. The objective of surgical management is to eliminate areas of exposed bone to prevent the risk of further inflammation and infection. The amount of surgical debridement required remains controversial.
+
+Other
+
+Hyperbaric oxygen therapy
+Ultrasonic therapy
+
+Initial management 
+This involves patients who are about to start, or very recently have started, taking the drugs of concern. There is a small portion of observational studies which promote the idea of preventative dental treatment to decrease oral complications in patients taking these drugs. These preventative measures may require a change in the patients’ oral hygiene technique and lifestyle factors such as smoking and alcohol consumption. There is also a benefit in prescribing high fluoridated toothpaste if the patient is of high caries risk. Before prescribing of any kind or when noticing a patient is on the treatment already, it is encouraged to tell the patient of the risk of developing MRONJ, although this risk is small. This is followed by personalised advice given to the patient, involving: a healthy diet, excellent oral hygiene, stop smoking, limited alcohol consumption and regular dental appointments. 
+If a patient has a complex medical history and is of particular high risk it is advised before any treatment to commence, communication with a specialist with regards to the clinical assessment and treatment plan. 
+It is also advised for individuals who take bisphosphonates to never allow the tablet to dissolve in the mouth as this causes damage to the oral mucosa. The patient must follow the instructions given with the tablets.
+
+Continuing management
+This involves patients who have a regime which actively incorporates the drugs of concern and also for the patients whom undergone initial management. In terms of dental treatment all must be done as normal, accompanied by personalised advice to the patient. If there is a need for an extraction or any procedure which implicates bone a discussion with the patient about the risks and benefits must occur. Due to bacterial resistance and possible side effects of antibiotic therapy, they are only prescribed if there is a necessity for them. There is minimal evidence to say the use of prophylactic antibiotics will reduce MRONJ.
+
+For some, it is possible to have a drug holiday during which bisphosphonates are discontinued if the benefit of discontinuing the drug outweighs the risks. If it is possible to have a drug holiday, it is recommended that treatment be carried out during that period. Some patients however have been taking the drug for a prolonged period of time and so the bisphosphonate levels have accumulated in the body. In this case, a drug holiday would be of no benefit.
+
+Medical management of MRONJ is most commonly performed for patients who have less severe cases or those whom have contraindicating health conditions. The antimicrobials therapies commonly used are topical, oral and intravenous.
+
+Topical antimicrobials
+A commonly used medicament, chlorhexidine gluconate 0.12% is bacteriostatic and bacteriocidal making an effective agent against MRONJ. Advantages of this topical gel is the low cost, ease of use, availability and patient acceptance. The disadvantages of this are the low compliance, patient acceptance, dental staining and risk of opportunistic bacterial resistance. For some patients, it is possible to have a drug holiday during which bisphosphonates are discontinued if the benefit of discontinuing the drug outweighs the risks. If it is possible to have a drug holiday, it is recommended that treatment be carried out during that period. Some patients however have been taking the drug for a prolonged period of time and so the bisphosphonate levels have accumulated in the body. In this case, a drug holiday would be of no benefit.
+
+Antibiotics
+The use of these are based on the clinical evaluation of the condition and if pathogenic bacteria presence is indicated. This is generally a 2-week course for a person with a persistent presentation of the disease or a 4-6 week course for more severe cases. Penicillin is the first line of choice, although if this is contraindicated commonly used antimicrobials are: clindamycin, fluoroquinolones and/or metronidazole.
+
+Intravenous antibiotics may be used when specific infections are resist oral therapies. Although this method has perceived greater penetration of tissue there is little evidence of being a substantial greater efficacy when compared to other methods of management.
+
+Epidemiology 
+The likelihood of this condition developing varies widely from less than 1/10,000 to 1/100, as many other factors need to be considered, such as the type, dose and frequency of intake of drug, how long it has been taken for, and why it has been taken.
+
+In patients taking drugs for cancer, the likelihood of MRONJ development varies from 0 - 12%. This again, varies with the type of cancer, although prostate cancer and multiple myeloma are reported to be at a higher risk.
+
+In patients taking oral drugs for osteoporosis, the likelihood of MRONJ development varies from 0 - 0.2%.
+
+See also 
+ C-terminal telopeptide, commonly known as CTX, a serum biomarker for bone turnover rate and a tool used to evaluate patient risk for complications due to BRONJ
+ Osteonecrosis of the jaw, see section on Bisphosphonates
+ Osteoradionecrosis, a term for osteonecrosis caused by radiotherapy
+ Phossy jaw
+
+References
+
+External links 
+
+ https://web.archive.org/web/20120901140540/http://www.ada.org/sections/professionalResources/pdfs/topics_ARONJ_report.pdf
+
+Osteonecrosis
+Jaw disorders

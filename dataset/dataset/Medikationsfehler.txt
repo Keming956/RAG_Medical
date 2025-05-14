@@ -1,0 +1,93 @@
+Ein Medikationsfehler ist jeder unbeabsichtigte Fehler durch Angehörige eines Gesundheitsberufs, Patienten oder Verbraucher bei der Verordnung, Zubereitung, Abgabe oder Verabreichung eines Arzneimittels.
+Medikationsfehler können, müssen aber nicht, zu vermeidbaren unerwünschten Arzneimittelereignissen führen.
+
+Definition 
+Laut dem US-amerikanischen National Coordinating Council for Medication Error Reporting and Prevention (NCC-MERP) ist ein Medikationsfehler wie folgt definiert:
+
+Nach dieser Definition ist ein Medikationsfehler in jedem Fall vermeidbar, kann im gesamten Medikationsprozess auftreten und kann, muss aber nicht, zu einer Schädigung des Patienten führen.
+
+Die Europäische Arzneimittel-Agentur definiert Medikationsfehler wie folgt:
+
+Nach dieser Definition ist ein Medikationsfehler unbeabsichtigt und kann im gesamten Medikatonsprozess auftreten.
+
+Basierend auf diesen Definitionen hat die Arbeitsgruppe Arzneimittelinformationssysteme der Deutschen Gesellschaft für Medizinische Informatik einen Medikationsfehler wie folgt definiert:
+
+Ist der Medikationsfehler von einem Arzt zu verantworten und unter Verletzung der Regeln ärztlicher Kunst entstanden, kann ein ärztlicher Behandlungsfehler vorliegen.
+
+Eine Übersichtsarbeit fand 26 verschiedene Definitionen von Medikationsfehlern in der wissenschaftlichen Literatur.
+
+Die Vielzahl an verwendeten Definitionen, ebenso wie die Verwendung verschiedener Erkennungsmethoden, erschwert die Vergleichbarkeit von Häufigkeitsangaben von Medikationsfehlern.
+
+Vorkommen und Ursachen 
+Medikationsfehler können in allen Schritten des Medikationsprozesses auftreten (siehe Abbildung). Am häufigsten sind Fehler in der Verordnung, wie z. B. Doppelverschreibungen, Nicht-Berücksichtigung von notwendigen Dosisanpassungen, Übersehen von Gegenanzeigen oder Wechselwirkungen oder schlicht Lesefehler, gefolgt von Fehlern bei der Anwendung bzw. Einnahme.
+
+Eine Analyse von 2.103 Medikationsfehlern in einem 630-Betten-Krankenhaus fand folgende Faktoren, welche zum Medikationsfehler beigetragen haben:
+
+ Fehlendes oder falsches Wissen über Medikamente und ihre Verwendung (z. B. Doppelverordnungen, falsches Medikament, falsche Route, falsche Anwendungsdauer, Wechselwirkungen): 30 %
+ Fehlendes oder falsches Wissen über den Patienten und seine Vorgeschichte (z. B. physiologischer Status, Allergien, Kontraindikationen, Anamnese, falscher Patient): 29 %
+ Fehlerhafte Berechnungen (z. B. Berechnungsfehler, Fehler bei Dezimalpunkt): 18 %
+ Probleme mit der Nomenklatur (z. B. Soundalike, Abkürzungsfehler): 13 %
+ Fehler in Dosierung (z. B. falsche Dosierung): 3 %
+ Administrative Prozesse (z. B. Übertragung von Daten): 3 %
+
+Häufigkeit 
+Medikationsfehler treten häufig auf. Eine systematische Übersichtsarbeit, welche 63 Studien von 1985 bis 2007 einschloss, zeigte, dass im Median bei 7 % aller Medikationsanordnungen im Krankenhausbereich Fehler entdeckt wurden und davon jede zweite Krankenhausaufnahme betroffen war.  Eine andere systematische Übersichtsarbeit, welche 52 Studien von 1966 bis 2011 einschloss, fand, dass im Median in 10,5 % aller Medikationsanordnungen Fehler im Krankenhausbereich entdeckt wurden.
+
+Erkennung 
+Es gibt verschiedene Methoden, Medikationsfehler zu erkennen und ihre Häufigkeit und Schweregrad zu bestimmen:
+ Direkte Beobachtung von Verordnungsvorgängen
+ Manuelle Analyse von Verordnungen unter Einbeziehung klinischer Daten (Chart review)
+ Automatische Analyse von Verordnungen unter Einbeziehung klinischer Daten
+ Auswertung von freiwilligen Meldesystemen bezüglich gemeldeter Medikationsfehler
+ Befragung des klinischen Personals
+ Befragung der Patienten
+Die Methoden unterscheiden sich in den notwendigen Voraussetzungen (z. B. elektronische Arzneimitteldokumentation), der Erkennungsrate und im Aufwand. Direkte Beobachtungen sind aufwändiger, aber sensitiver als manuelle Chart Reviews, und diese wiederum sensitiver als die Analyse von Meldesystemen. Direkte Beobachtungen eignen sich vor allem für die Erkennung von Fehlern bei Dispensierung und Anwendung bzw. Einnahme, während Chart Reviews sich für die Erkennung von Verordnungsfehlern und resultierenden Patientenschäden eignen.
+
+Vermeidung 
+Medikationsfehler können durch Stärkung des Problembewusstseins bei Patient und Arzt, bessere Kommunikation zwischen Patient und Arzt, bessere Aufbereitung von Fachinformationen für den Arzt, Einbeziehung von Pharmazeuten bei der Visite, Bereitstellung von Informationen zu Vorerkrankungen und Vormedikation des Patienten sowie Aufbau einer Sicherheitskultur reduziert werden.
+
+Daneben werden in letzter Zeit auch die Möglichkeiten der Reduktion von Medikationsfehlern durch den Einsatz von Informationstechnologie in allen Phasen des Medikationsprozesses diskutiert. Beispiele für Informationstechnologien zur Unterstützung des Medikationsprozesses und zur Reduktion von Medikationsfehlern sind:
+ Elektronische Arzneimitteldatenbanken
+ Elektronische Verordnungssysteme (Computerized Physician Order Entry) mit einer elektronischen Überprüfung der Verordnung
+ Elektronische sektorenübergreifende Übersicht über die Medikationshistorie eines Patienten
+ Automatische Dispensier- und Kommissioniersysteme
+ Patientenportale zur Einsicht in Verordnungen und zur Dokumentation der Einnahmen
+ Elektronische Meldesysteme für unerwünschte Arzneimittelwirkungen als Teil der Pharmakovigilanz
+ Intelligente Infusionspumpen
+
+Taxonomie 
+Der National Coordinating Council for Medication Error Reporting and Prevention (NCC-MERP) ist Herausgeber einer Taxonomie für Medikationsfehler (Taxonomy of Medication Errors). Diese Taxonomie stellt eine standardisierte Sprache und Struktur für die Beschreibung und Analyse von Medikationsfehlern dar. Sie beinhaltet die im Wesentlichen strukturierte Beschreibung folgender Informationen:
+ Patienteninformation (Patient Information), z. B. Intitialien, Alter, Geschlecht
+ Das Ereignis (The Event) z. B. Datum, Uhrzeit, klinisches Setting, Beschreibung des Ereignisses (letzteres als einziges Element als Freitext)
+ Patientenoutcome (Patient Outcome), mit folgenden Kategorien, welche jeweils noch weitere Unterkategorien umfassen:
+ No Error (Bedingungen, die zu einem Fehler hätten führen können)
+ Error, no Harm (Ein Fehler ist aufgetreten, es entstand aber kein Schaden)
+ Error, Harm (Ein Fehler ist aufgetreten und es entstand ein Schaden)
+ Error, Death (Ein Fehler ist aufgetreten und ein Patient ist gestorben)
+ Produktinformation (Product Information), also Informationen zu jeder involvierten Medikation (z. B. Name, Dosis)
+ Involviertes Personal (Personnel Involved), also Informationen zu jedem involvierten Mitarbeiter (insb. Berufsgruppe)
+ Typ des Fehlers (Type), mit folgenden Unterkategorien:
+ Auslassen einer Dosis (Dose Omission)
+ Falsche Dosis (Improper Dose)
+ Falsche Konzentration (Wrong Strength/Concentration)
+ Falsches Medikament (Wrong Drug)
+ Falsche Dosisform (Wrong Dosage Form)
+ Falsche Technik (Wrong Technique)
+ Falscher Gabeweg (Wrong Route of Administration)
+ Falsche Häufigkeit (Wrong Rate)
+ Falsche Dauer (Wrong Duration)
+ Falsche Zeit (Wrong Time)
+ Falscher Patient (Wrong Patient)
+ Fehler bei Überwachung (Monitoring Error) (z. B. Wechselwirkung, Allergie, Kontraindikation)
+ Ursachen (Causes), mit folgenden Kategorien, die in weitere Unterkategorien gegliedert sind:
+ Kommunikation (Communication), z. B. mündliche Übermittlungsfehler, unlesbare Handschrift, unklare Abkürzungen
+ Namensverwirrung (Name Confusion), z. B. Verwechslung mit anderem Medikament (sound-alike oder look-alike bezüglich des Medikationsnamens)
+ Beschriftung (Labeling), z. B. Verwechslung ähnlicher Verpackungen, fehlendes Produktinformationen
+ Menschliche Faktoren (Human Factors), z. B. Wissensdefizit, fehlerhafte Dosisberechnung, Fehler bei Zubereitung des Medikaments, Übertragungsfehler, Stress, Müdigkeit
+ Beitragende Ursachen (Contributing Factors, Systems related), wie z. B. Lärm, Ausbildung, Abläufe
+
+Einzelnachweise 
+
+Fehlleistung
+Patientensicherheit
+Arzneimittelrecht

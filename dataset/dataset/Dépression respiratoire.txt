@@ -1,0 +1,17 @@
+La dépression respiratoire est une anomalie des centres de la stimulation de la respiration.
+
+Description 
+
+La dépression respiratoire est une insuffisance respiratoire d'apparition assez brutale, avec polypnée superficielle (mouvements respiratoires trop rapides et de faible amplitude), hypoxémie (diminution du taux d'oxygène dans le sang), hypercapnie (augmentation du taux de CO₂ dans le sang), pouvant provenir d'une maladie ou d'une prise médicamenteuse, ou les deux associés. Cela peut déboucher sur un état de choc cardio-respiratoire et peut être fatal.
+
+Mécanisme 
+
+Nous avons des centres nerveux dans le tronc cérébral qui stimulent le mouvement respiratoire et adaptent sa fréquence en fonction du besoin en oxygène ou de la quantité de CO₂ à évacuer du sang. Si ces centres dysfonctionnent, ou reçoivent des informations perturbées, la respiration n'est plus stimulée, pouvant amener à l'insuffisance respiratoire.
+
+Le coup du lapin, par exemple, est mortel car l'axis, une vertèbre cervicale, se décale et vient compresser ces centres ce qui compromet la respiration.
+
+Causes 
+
+De nombreux médicaments ou drogues (notamment la morphine et ses dérivés) dépriment les centres respiratoires, potentiellement jusqu'à la mort. C'est l'un des principaux dangers de l'overdose.
+
+Signe clinique en pneumologie

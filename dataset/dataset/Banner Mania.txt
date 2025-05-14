@@ -1,0 +1,16 @@
+Banner Mania was a banner making program for IBM PC compatible computers, enabling the user to create banners, posters, signs and logos. It was released by Broderbund in 1989 and was developed for Pixellite Group by Presage Software Development and written by Christopher Schardt and Dane Bigham.
+
+Banner Mania allowed the user to create and print multi-page banners, with 19 different fonts and effects in 16 colors.
+
+Requirements
+The PC version basic requirements were a 8088 based computer running MS-DOS 2.0 or PC DOS 2.1. A license cost $35 in 1991.
+
+MDA, CGA, Hercules, TGA, EGA and VGA graphic modes are supported.
+
+A version for the Apple II also existed. A Mac version was announced in 1990, selling for $59.95.
+
+References
+
+1989 software
+Desktop publishing software
+DOS software

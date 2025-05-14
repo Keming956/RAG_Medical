@@ -1,0 +1,42 @@
+The freezing point depression osmometer is a variety of osmometers that is used in determining a solution's osmotic strength as its osmotically active aspects depress its freezing point. Osmometry further involves other techniques that include the membrane osmometry that determines osmotic pressure of solutions and vapor pressure osmometry that assesses the concentration of particles that minimizes a solution's vapor pressure and melting as well as freezing points of aqueous solutions. Freezing point depression osmometry is, however, the most preferred in distinct contexts. In the past, it has been used to assess the osmotic strength of a colloid and solutions. The osmometry is the most preferred in among other areas, pharmaceutical, quality control laboratories, and in clinical chemistry. The osmometer uses the solution's freezing point depression to establish its strength. It is used to determine the level of osmotically appropriate body fluid in various chemicals dissolved in the blood using the relationship which a mole of dissolved substance reduces the freezing point of water by . Due to its efficiency, the freezing point depression osmometer is used in various medical practices that include; the manufacturing of drugs, pharmaceuticals, quality control laboratories, as well as, in clinical chemistry.
+
+Method 
+
+Freezing point depression osmometer will be applied in determining a solution's osmotic strength. It is the most preferred method where it is applicable in performing various activities in the medical field. It is used in assessing the osmotic strength of colloids, as well as, solutions. 
+
+Focusing on its operation, it is apparent that the method uses solution's freezing point to determine its concentration. It uses Clifton nanolitre nanometer, a device that facilitates the establishment of the solution's melting as well as freezing points. The determination of the freezing and melting points involves four distinct steps. These are; calibration, loading, deep freezing, and determination. By determining the solution's freezing point, it is possible to establish the number of particles in it, an aspect that allows the determination of its concentration. 
+
+When particles are dissolved in a solution, its freezing point is lowered compared to that of the original solvent. A further increase in the solute decreases the freezing point even further. The freezing point depression osmometer uses the solution's freezing point to establish its concentration. The freezing point depression osmometer is calibrated using standards that are within the solution's osmolality range. It provides an easy as well as fast means of determining the osmolality in aqueous solutions.
+
+History of use 
+The use of osmometers began in the late nineteenth century after van’t Hoff won a Nobel Prize for his research that discovered that the relationship between the osmotic pressure of dilute colloid solutions and concentration was consistent with the ideal gas law. Since then, osmometers have been used to measure the osmotic strength of a dilute solution at different levels of concentration.      
+
+The historical use of the method is validated by Guerrero et al. in their analytical study that engaged 1, 991 dogs to test their urine osmolality. The study discloses the past achievement of professionals where using the approach, they managed to measure canine and, in the end, established intervals and the impacts of sex, age, as well as, reproductive status. The historical use of the method is further disclosed by Hale et al. who elaborate its distinct advantages over the other the conventional concentration osmometer that relied on the osmotic pressure profile. As such, it is evident that the approach has been widely applied in the past where it has gained significant success. That was promoted by its increased efficiency and reliability.
+
+Current practices in medical field 
+Freezing point depression osmometer is applied in various areas in the medical field. The approach is used in determining the colloidal aspects in solutions. Hale et al. elaborates that the method is advantageous as compared to other conventional approaches, an aspect that has increased its application in the medical sector. In the present day, the method is applied in among other areas, in measuring osmolarity in lens care solutions as well as eye drops, hence promoting eye health. It is further used in clinical chemistry, pharmaceutical and quality control laboratories where it facilitates different processes. As compared to the other methods, the freezing point depression osmometer has a high level of precision and accuracy, making its application in clinical practices safe. It is applied in various processes that involves the manufacturing of drugs. Urine osmolality is also used to measure urine concentration accurately thus determine renal function and body fluid homeostasis.
+
+Evaluation on its use 
+The osmometry is preferred in among other areas, pharmaceutical, quality control laboratories, and in clinical chemistry where it facilitates the establishment of precise measurements, hence facilitating the various medical practices. It's preference further result from its easy and fast means to determine the osmolality in aqueous solutions. 
+
+The freezing point depression osmometer is largely used in the medical sector where its preference is promoted by its precision. It is used in medical clinics where it is applied in distinct pharmaceutical practices. These include among other activities, the development of lens care solutions and eye drops where the technique is applied to develop the proper development of a proper solution to promote eye health. Indeed, medical professionals using the method have achieved significant success both in the past as well as in the present day.
+
+See also
+Melting-point depression
+Boiling-point elevation
+Colligative properties
+ Clifton nanolitre osmometer, an example of a freezing point depression osmometer.
+
+Further reading
+Skoog, D.A.; West, D.M.; Holler, F.J. Fundamentals of Analytical Chemistry New York: Saunders College Publishing, 5th Edition, 1988.
+Bard, A.J.; Faulkner, L.R. Electrochemical Methods: Fundamentals and Applications. New York: John Wiley & Sons, 2nd Edition, 2000.
+Bettencourt da Silva, R; Bulska, E; Godlewska-Zylkiewicz, B; Hedrich, M; Majcen, N; Magnusson, B; Marincic, S; Papadakis, I; Patriarca, M; Vassileva, E; Taylor, P; Analytical measurement: measurement uncertainty and statistics, 2012, .
+
+External links
+
+ General Chemistry principles, patterns and applications.
+
+References 
+
+Measuring instruments
+Membrane technology

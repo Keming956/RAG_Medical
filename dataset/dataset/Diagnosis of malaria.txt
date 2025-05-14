@@ -1,0 +1,47 @@
+The mainstay of malaria diagnosis has been the microscopic examination of blood, utilizing blood films. Although blood is the sample most frequently used to make a diagnosis, both saliva and urine have been investigated as alternative, less invasive specimens. More recently, modern techniques utilizing antigen tests or polymerase chain reaction have been discovered, though these are not widely implemented in malaria endemic regions. Areas that cannot afford laboratory diagnostic tests often use only a history of subjective fever as the indication to treat for malaria.
+
+Blood films
+
+The most economic, preferred, and reliable diagnosis of malaria is microscopic examination of blood films because each of the four major parasite species has distinguishing characteristics.  Two sorts of blood film are traditionally used.  Thin films are similar to usual blood films and allow species identification because the parasite's appearance is best preserved in this preparation. Thick films allow the microscopist to screen a larger volume of blood and are about eleven times more sensitive than the thin film, so picking up low levels of infection is easier on the thick film, but the appearance of the parasite is much more distorted and therefore distinguishing between the different species can be much more difficult. With the pros and cons of both thick and thin smears taken into consideration, it is imperative to utilize both smears while attempting to make a definitive diagnosis.
+
+From the thick film, an experienced microscopist can detect parasite levels (or parasitemia) as few as 5 parasites/µL blood. Diagnosis of species can be difficult because the early trophozoites ("ring form") of all four species look similar and it is never possible to diagnose species on the basis of a single ring form; species identification is always based on several trophozoites.
+
+As malaria becomes less prevalent due to interventions such as bed nets, the importance of accurate diagnosis increases. This is because the assumption that any patient with a fever has malaria becomes less accurate. As such, significant research is being put into developing low cost microscopy solutions for the Global South.
+
+Plasmodium malariae and P. knowlesi (which is the most common cause of malaria in South-east Asia) look very similar under the microscope. However, P. knowlesi parasitemia increases very fast and causes more severe disease than P. malariae, so it is important to identify and treat infections quickly. Therefore, modern methods such as PCR (see "Molecular methods" below) or monoclonal antibody panels that can distinguish between the two should be used in this part of the world.
+
+Antigen tests
+
+For areas where microscopy is not available, or where laboratory staff are not experienced at malaria diagnosis, there are commercial antigen detection tests that require only a drop of blood.  Immunochromatographic tests (also called: Malaria Rapid Diagnostic Tests, Antigen-Capture Assay or "Dipsticks") have been developed, distributed and fieldtested. These tests use finger-stick or venous blood, the completed test takes a total of 15–20 minutes, and the results are read visually as the presence or absence of colored stripes on the dipstick, so they are suitable for use in the field. The threshold of detection by these rapid diagnostic tests is in the range of 100 parasites/µl of blood (commercial kits can range from about 0.002% to 0.1% parasitemia) compared to 5 by thick film microscopy. One disadvantage is that dipstick tests are qualitative but not quantitative – they can determine if parasites are present in the blood, but not how many.
+
+The first rapid diagnostic tests were using Plasmodium glutamate dehydrogenase as antigen.
+PGluDH was soon replaced by Plasmodium lactate dehydrogenase (pLDH). Depending on which monoclonal antibodies are used, this type of assay can distinguish between different species of human malaria parasites, because of antigenic differences between their pLDH isoenzymes. Antibody tests can also be directed against other malarial antigens such as the P. falciparum specific HPR2.
+
+Modern rapid diagnostic tests for malaria often include a combination of two antigens such as a P. falciparum.  specific antigen e.g. histidine-rich protein II (HRP II) and either a P. vivax specific antigen e.g. P. vivax LDH or an antigen sensitive to all plasmodium species which affect humans e.g. pLDH. Such tests do not have a sensitivity of 100% and where possible, microscopic examination of blood films should also be performed.
+
+Molecular methods
+Molecular methods are available in some clinical laboratories and rapid real-time assays (for example, QT-NASBA based on the polymerase chain reaction) are being developed with the hope of being able to deploy them in endemic areas.
+
+PCR (and other molecular methods) is more accurate than microscopy. However, it is expensive, and requires a specialized laboratory. Moreover, levels of parasitemia are not necessarily correlative with the progression of disease, particularly when the parasite is able to adhere to blood vessel walls.  Therefore, more sensitive, low-tech diagnosis tools need to be developed in order to detect low levels of parasitemia in the field.
+
+Another approach is to detect the iron crystal byproduct of hemoglobin that is found in malaria parasites feasting on red blood cells, but not found in normal blood cells. It can be faster, simpler and precise than any other method. 
+Researchers at Rice University have published a preclinical study of their new tech that can detect even a single malaria-infected cell among a million normal cells,. They claim it can be operated by nonmedical personal, produce zero false-positive readings, and it doesn't need a needle or any damage done.
+
+Over- and misdiagnosis 
+Multiple recent studies have documented malaria overdiagnosis as a persistent issue globally, but especially in African countries. Overdiagnosis results in over-inflation of actual malaria rates reported at the local and national levels. Health facilities tend to over-diagnose malaria in patients presenting with symptoms such as fever, due to traditional perceptions such as "any fever being equivalent to malaria" and issues related to laboratory testing (for example high false positivity rates of diagnosis by unqualified personnel ). Malaria overdiagnosis leads to under management of other fever-inducing conditions, over-prescription of antimalarial drugs  and exaggerated perception of high malaria endemicity in regions which are no longer endemic for this infection.
+
+Subjective Diagnosis 
+Areas that cannot afford laboratory diagnostic tests often use only a history of subjective fever as the indication to treat for malaria. Using Giemsa-stained blood smears from children in Malawi, one study showed that when clinical predictors (rectal temperature, nailbed pallor, and splenomegaly) were used as treatment indications, rather than using only a history of subjective fevers, a correct diagnosis increased from 2% to 41% of cases, and unnecessary treatment for malaria was significantly decreased.
+
+Differential
+Fever and septic shock are commonly misdiagnosed as severe malaria in Africa, leading to a failure to treat other life-threatening illnesses. In malaria-endemic areas, parasitemia does not ensure a diagnosis of severe malaria, because parasitemia can be incidental to other concurrent disease. Recent investigations suggest that malarial retinopathy is better (collective sensitivity of 95% and specificity of 90%) than any other clinical or laboratory feature in distinguishing malarial from non-malarial coma.
+
+Quantitative Buffy Coat
+
+Quantitative buffy coat (QBC) is a laboratory test to detect infection with malaria or other blood parasites. The blood is taken in a QBC capillary tube which is coated with acridine orange (a fluorescent dye) and centrifuged; the fluorescing parasites can then be observed under ultraviolet light at the interface between red blood cells and buffy coat. This test is more sensitive than the conventional thick smear, however it is unreliable for the differential diagnosis of species of parasite.
+
+In cases of extremely low white blood cell count, it may be difficult to perform a manual differential of the various types of white cells, and it may be virtually impossible to obtain an automated differential. In such cases the medical technologist may obtain a buffy coat, from which a blood smear is made. This smear contains a much higher number of white blood cells than whole blood.
+
+References
+
+Malaria

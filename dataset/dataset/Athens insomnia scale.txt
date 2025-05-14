@@ -1,0 +1,11 @@
+In medicine, insomnia is widely measured using the Athens Insomnia Scale (AIS). AIS was first introduced in the year 2000 by a group of researchers from Athens, Greece to assess the insomnia symptoms in patients with sleep disorders.
+
+
+Measure
+It is measured by assessing eight factors (as tabulated below) amongst which first five factors are related to nocturnal sleep and last three factors are related to daytime dysfunction. These are rated on a 0–3 scale and the sleep is finally evaluated from the cumulative score of all factors and reported as an individual's sleep outcome. Over the period of time, AIS is considered to be an effective tool in sleep analysis, and it is validated in various countries by testing it on local patients. A cut-off score of ≥6 on the AIS is used to establish the diagnosis of insomnia.
+
+References 
+
+Sleep disorders
+Mental disorders diagnostic procedures
+Medical scales

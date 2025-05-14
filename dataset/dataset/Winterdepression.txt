@@ -1,0 +1,47 @@
+Die Winterdepression ist eine depressive Störung, die in den Herbst- und Wintermonaten auftritt. Als Sonderform der affektiven Störungen ist sie im ICD-10 den rezidivierenden depressiven Störungen zugeordnet.
+
+Sie ist eine Ausprägung der saisonal-affektiven Störung (auch SAD von Seasonal Affective Disorder; von der Jahreszeit abhängige emotionale Störung), zu der auch weitere, für Depressionen grundsätzlich charakteristische Symptome wie geänderte Stimmung, Reduzierung des Energieniveaus, Ängstlichkeit sowie Verlängerung der Schlafdauer, verstärkter Appetit auf Süßigkeiten (Kohlenhydratheißhunger) und Gewichtszunahme als für Depressionen atypische Symptome gezählt werden. Im Gegensatz dazu treten nämlich bei der saisonal unabhängigen Depression eher Appetitlosigkeit, Gewichtsabnahme und Schlafverkürzung auf.
+
+Erstmals beschrieben und benannt wurde die Winterdepression von Norman E. Rosenthal und Kollegen am National Institute of Mental Health im Jahr 1984.
+
+Ursachen 
+
+Als eine Ursache werden Störungen des biologischen Tagesrhythmus angenommen. Es bestehen hierzu unterschiedliche Annahmen. Eine besagt, dass die Symptomatik der SAD-Patienten in Zusammenhang mit dem Serotonin-Melatonin-Stoffwechsel steht. Lichteinfall auf die Netzhaut wirkt als Zeitgeber, indem es dort vermehrt Melanopsin bilden lässt. Das mittags vorherrschende kurzwellige (blau-betonte) Licht wirkt hierbei stark, das eher langwellige (rot-betonte) Licht der Abenddämmerung wenig. Unter dem Einfluss des Melanopsins senden spezielle fotosensitive Ganglienzellen Signale in das Gehirn, das darauf die innere Uhr des Organismus auf Tagesaktivität einstellt. In der Zirbeldrüse (Epiphyse) des Gehirns des Menschen befinden sich viele Serotonin produzierende Zellen. Im Rahmen der Tagesaktivierung schütten diese Zellen verstärkt Serotonin aus, welches stimmungsaufhellend wirken kann. Dagegen wird die Bildung von Melatonin aus Tryptophan und Serotonin durch auf die Netzhaut des Auges gelangende Lichtreize gehemmt, so dass die Melatoninkonzentration des Gehirns tagsüber gering ist, nachts dagegen mit einem Maximum gegen drei Uhr morgens um ein Mehrfaches ansteigt. Es ist umstritten, ob Melatonin Depressionen auslöst, anerkannt ist aber, dass es das Schlafbedürfnis erhöht. Diesem täglichen (circadianen) Rhythmus überlagert sich mit zunehmendem Abstand von den Tropen ein jahreszeitlicher (saisonaler): Im Winter führen die in den höheren Breiten gegenüber dem Sommer längeren Dunkelphasen zu allgemein verringerten Serotonin- und erhöhten Melatonin-Werten. Daraus resultiert bei einigen Menschen die saisonale (winterliche) Depression. Die von der asaisonalen Depression abweichenden Symptome der Winterdepression (vermehrte Schlafneigung, erhöhter Appetit) lassen sich also mit einer tagsüber verminderten Serotonin- und erhöhten Melatoninproduktion erklären.
+
+Einige Wissenschaftler argumentieren, dass diese jahreszeitlichen Schwankungen ursprünglich keinen Krankheitswert hatten, sondern im Gegenteil eine wichtige Bedeutung für das Überleben der Gruppe gehabt haben könnten. Die Tatsache, dass der Organismus als Reaktion auf die kürzer werdenden Tage mit Schonung der eigenen Ressourcen (etwa durch vermehrten Schlaf) und Gewichtszunahme reagiert, war nach dieser Theorie ein überlebenswichtiger Vorteil. Problematisch sei dieser Mechanismus erst in der modernen westlichen Gesellschaft geworden, in der Ressourcen zu allen Jahreszeiten im Überfluss zur Verfügung stehen und Aktivität unabhängig von der Jahreszeit gefordert wird.
+
+Behandlung 
+
+Wie bei allen Erkrankungen sollte zunächst eine kausale Therapie versucht werden (also die krankheitserregende Ursache beseitigen oder dies zumindest anstreben).
+
+Ursächliche Behandlung 
+Durch Wiederherstellen der Zeitgeber für die Produktion von Serotonin und Melatonin kann der Winterdepression entgegengewirkt werden. Sinnvoll ist daher vor allem ausreichend Licht am frühen Morgen. Im Rahmen einer Lichttherapie reichen bereits wenige hundert Lux Lichteinfall auf die Netzhaut über ein bis zwei Stunden vor 6 Uhr morgens („in der Dämmerung“). Bei einem Abstand der Augen von der Lichtquelle von etwa einem Meter erzeugt eine Lichtquelle heute im Handel verfügbarer hoher Energieeffizienz beispielsweise in LED- oder „Energiesparlampen“ bereits mit weniger als 10 Watt Energieverbrauch einen Lichtstrom (lumen), der einen solchen Lichteinfall auf die Netzhaut bewirkt. In Innenräumen mit üblicher Beleuchtung dagegen liegt der Lichteinfall auf die Netzhaut oft unter 100 Lux. Erfolgt der Lichteinfall erst später am Morgen, wird offenbar zur Aufhellung der Stimmungslage ein Lichteinfall von mehreren tausend Lux benötigt. An einem Sommertag beträgt allerdings die Beleuchtungsstärke unter freiem Himmel etwa 100.000 Lux. Um den Übergang in den Schlaf zu erleichtern, ist abends zu viel Licht zu meiden. Die direkte Gabe von Serotonin scheidet als Maßnahme gegen die Winterdepression aus, weil es die Blut-Hirn-Schranke nicht überwinden kann.
+
+Die aktuelle Behandlungsleitlinie empfiehlt Lichttherapie bei Depressionen, die einem saisonalen Muster folgen. Etwa 60–90 % der Patienten profitierten von einer Lichttherapie nach etwa zwei bis drei Wochen. Als „tendenziell positiv“ bewertet der IGeL-Monitor des Medizinischen Dienstes Bund die Lichttherapie bei saisonal depressiver Störung. Die Lichttherapie könne die depressiven Beschwerden etwas besser lindern als eine Scheinbehandlung, heißt es bei dem Prüfportal, das die Studienlage analysiert hat. Zwar zeigten die gefundenen Untersuchungen und Übersichtsarbeiten kein einheitliches Bild zum Nutzen der Lichttherapie, ließen aber Hinweise auf einen geringen Nutzen erkennen. Auch enthält die Lichtstrahlung keinen UV-Anteil mehr, sodass sie unbedenklich ist. Schäden wie Kopfschmerzen, Müdigkeit und ähnliche Beschwerden träten nicht häufiger auf als bei einer Scheinbehandlung. Allerdings kann ein Spaziergang bei Helligkeit ebenso hilfreich sein, weshalb die Lichttherapie keine Leistung der gesetzlichen Krankenkassen ist (Wirtschaftlichkeitsgebot). Der IGeL-Monitor stützte sich in seiner Bewertung vor allem auf eine US-amerikanische Übersichtsarbeit sowie auf eine Leitlinie des britischen Gesundheitssystems
+
+Die Organismen auf der Erde haben sich an Tageslängenwechsel angepasst und entsprechende circadiane innere Uhren entwickelt, um Aktivitäten, Vermehrung und Stoffwechselvorgänge auf biologisch vorteilhafte Zeiten zu legen. Es ist dabei noch nicht geklärt, ob ein gestörtes circadianes System die Depression verursacht oder die Depression Ursache des geänderten circadianen Systems ist oder andere Kombinationen verantwortlich sind. Zumindest könnten Einflüsse auf dieses circadiane System auch zu Therapien gegen saisonale Depressionen führen. Beispielsweise lassen sich mit Schlafentzug oder Lithium solche circadianen Systeme beeinflussen und auch Depressionen behandeln.
+
+Wirksame Lichtfarben:
+
+Mit weißem Licht ist es nicht getan, da dieses sowohl aus roten grünen und blauen Spektrallinien als auch alleine aus gelben und blauen Emissionslinien gemischt werden kann. Darum wurde geprüft, welche Wellenlängen des Lichtes (Lichtfarben) Einfluss bei Lichttherapie hätten. Licht mit kurzen oder mittleren Wellenlängen (blau, grün, gelb) scheinen für einen therapeutischen Effekt notwendig zu sein, rotes Licht und UV-Licht wären relativ ineffektiv, UV-Licht kann daher ausgefiltert werden.
+
+Symptomatische Behandlung 
+Sollte eine ursächliche Behandlung nicht möglich sein, können ersatzweise die Symptome durch Antidepressiva behandelt werden, wie z. B. selektive Serotonin-Wiederaufnahmehemmer (SSRIs), selektive Noradrenalin-Wiederaufnahmehemmer, Serotonin-Noradrenalin-Wiederaufnahmehemmer oder atypische Antidepressiva wie der selektive Noradrenalin-Dopamin-Wiederaufnahmehemmer Bupropion. In der S3-Leitlinie/NVL Unipolare Depression Behandlung 2015 gilt die Medikation mit SSRIs, neben der Lichttherapie, als erste Wahl zur Behandlung von saisonalen depressiven Störungen.
+
+In der Pflanzenheilkunde wird beispielsweise das Echte Johanniskraut zur Linderung der Symptome der Winterdepression angewandt.
+
+Geschichte 
+
+Winterdepressionen wurden bereits in der Antike von Hippokrates und Aretaios beschrieben.
+
+Literatur 
+ S. J. Lurie, B. Gawinski, D. Pierce, S. J. Rousseau: Seasonal affective disorder. In: Am Fam Physician. 2006 Nov 1;74(9), S. 1521–1524. Review. PMID 17111890
+ E. Pjrek, D. Winkler, S. Kasper: Pharmacotherapy of seasonal affective disorder. In: CNS Spectr. 2005 Aug;10(8), S. 664–669; Review. PMID 16041297
+ C. H. Sohn, R. W. Lam: Update on the biology of seasonal affective disorder. In: CNS Spectr. 2005 Aug;10(8), S. 635–646. Review. PMID 16041295
+ R. W. Lam, R. D. Levitan: Pathophysiology of seasonal affective disorder: a review. In: J Psychiatry Neurosci. 2000 Nov;25(5), S. 469–480. Review. PMID 11109298
+ Joachim Fisch: Licht und Gesundheit - Das Leben mit optischer Strahlung. Literaturrecherche: Zusammenstellung, Ergebnisse und Ausblick, Zeitraum: 1800–2000. (PDF; 1019 kB) TU Ilmenau 2000, Recherche im Auftrag der Maschinenbau- und Metall-Berufsgenossenschaft
+
+Einzelnachweise 
+
+Depression
+Affektive Störung

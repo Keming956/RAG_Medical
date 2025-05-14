@@ -1,0 +1,139 @@
+Die kognitive Verhaltenstherapie ist eine Form der Verhaltenstherapie. Sie entwickelte sich seit den 1960er Jahren aus dem Kognitivismus heraus, der eine Gegenbewegung zur behavioristischen Psychologie darstellt. Zu den Begründern und namhaftesten Vertretern der kognitiven Verhaltenstherapie zählen Albert Ellis, Aaron T. Beck und Donald Meichenbaum.
+
+Kurz gefasst besteht kognitive Verhaltenstherapie darin, systematisch die Selbstbeobachtung (Introspektion) auszubilden, die der Patient braucht, um krankmachender (z. B. depressogener) kognitiver Verzerrung aus eigener Kraft gegensteuern zu können.
+
+Grundprinzipien 
+Im Mittelpunkt der kognitiven Therapieverfahren stehen Kognitionen. Kognitionen umfassen Einstellungen, Gedanken, Bewertungen und Überzeugungen. Die kognitiven Therapieverfahren, zu denen die kognitive Therapie (KT) und die Rational-Emotive Verhaltenstherapie (REVT) gehören, gehen davon aus, dass die Art und Weise, wie wir denken, bestimmt, wie wir uns fühlen und verhalten und wie wir körperlich reagieren. Schwerpunkte der Therapie sind
+ die Bewusstmachung von Kognitionen,
+ die Überprüfung von Kognitionen und Schlussfolgerungen auf ihre Angemessenheit,
+ die Korrektur von irrationalen Einstellungen und
+ der Transfer der korrigierten Einstellungen ins konkrete Verhalten.
+
+Die kognitive Therapie stellt somit die aktive Gestaltung des Wahrnehmungsprozesses in den Vordergrund, weil in letzter Instanz nicht die objektive Realität, sondern die subjektive Sicht des Betrachters über das Verhalten entscheidet. Ist die Kognition inadäquat (z. B. durch Wahrnehmungsselektion und -bewertung), ist auch die Möglichkeit beeinträchtigt, Affekt und Verhalten zu korrigieren. Vor allem spontanes und emotional getriebenes Verhalten sind sehr von der Art beeinflusst, wie ein Mensch sein Modell der Umwelt gedanklich strukturiert hat.
+
+Geschichte 
+Die Idee, dass es nicht Geschehnisse sind, die einen Menschen verstören, sondern vielmehr die Sichtweisen, die er auf diese Geschehnisse nimmt, findet sich bereits in der antiken Philosophie, insbesondere im Stoizismus (Zenon, Chrysippos, Cicero, Seneca, Epiktet). Im frühen 20. Jahrhundert war Alfred Adler derjenige Psychologe, der den Gedanken der späteren kognitiven Verhaltenstherapie am nächsten stand. 1930 schrieb er: „Wir leiden nicht unter dem Schock unserer Erfahrungen (dem sogenannten Trauma), sondern machen daraus genau das, was unseren Zwecken am besten dient.“ Weitere psychoanalytisch geschulte Autoren, die Anregungen geliefert haben, sind Franz Alexander, Karen Horney, Leon J. Saul und Harry Stack Sullivan. Von Seiten der Philosophie haben Immanuel Kant, Martin Heidegger und Edmund Husserl anregend gewirkt; Karl Jaspers, Ludwig Binswanger und Erwin W. Straus hatten deren Einsichten bereits früh auch auf psychiatrische Sachverhalte angewandt. Ein weiterer Wegbereiter war Jean Piaget, in dessen Werk die Kognition ebenfalls eine zentrale Funktion gespielt hat.
+
+Grundlegend für die Entstehung der heutigen kognitiven Verhaltenstherapie war George A. Kellys 1955 erschienenes Werk The psychology of personal constructs. Kelly hatte darin nicht nur eine Theorie der persönlichen Konstrukte formuliert, die die Erwartungen eines Menschen steuern und für schmerzhafte emotionale Konsequenzen sorgen; er gab auch bereits einen Therapieansatz vor. Die Rolle des Therapeuten sei es demnach, dem Patienten zu helfen, sich dysfunktionaler, irrationaler Denkmuster bewusst zu werden und diese durch realistischere zu ersetzen. 1957 begann Albert Ellis, die Theorie präziser zu fassen. Er beschrieb eine Triade aus a. auslösendem Umweltereignis (activating event), b. persönlichem Konstrukt (intervening belief) und c. schmerzhafter emotionaler Konsequenz (emotional consequence). Eric Berne und Jerome D. Frank trugen von 1961 an weitere Therapiekonzepte und -methoden bei.
+
+1972 schloss sich Arnold Lazarus an und argumentierte: „man kann sagen, dass das Gros der psychotherapeutischen Bemühungen sich darum dreht, falsche Vorstellungen zu korrigieren“. Lazarus war davon überzeugt, dass diese Korrektur direkt in Verhaltensänderungen münden könne. Kenneth S. Bowers trug zur Differenzierung bei, indem er sich kritisch gegenüber dem „Situationismus“ des klassischen Behaviorismus äußerte und betonte, dass hier kein einfaches Reiz-Reaktions-Schema vorliege. Mitte der 1970er Jahre gestalteten Michael J. Mahoney, Maxie C. Maultsby, Marvin L. Goldfried, Gerald C. Davison, Donald Meichenbaum, Alan E. Kazdin und G. Terence Wilson Theorie und Therapie weiter aus.
+
+Aaron Beck hatte sich 1963 zum ersten Mal in den Diskurs eingeschaltet. Mit Werken wie Cognitive therapy and the emotional disorders (1976) und Cognitive therapy of depression (1979) wurde er zum bedeutendsten Vertreter der Lehre.
+
+Theoretischer Hintergrund 
+
+Ausgangspunkt und theoretische Grundlage der kognitiven Verhaltenstherapie ist die Annahme, dass beispielsweise Depressionen, Angst- und Zwangsstörung mit negativen, realitätsfremden sowie unlogischen und verzerrten Mustern zusammenhängen. In der Kognitiven Theorie der Depression gehen Beck und seine Kollegen davon aus, dass eine Depression etwas anderes ist als Dysphorie und Trauer und dass kognitive Verzerrung darin eine Schlüsselrolle spielt. Depressive Patienten haben nach dieser Theorie unrealistische pessimistische Erwartungen, die hartnäckig chronifiziert sind und sich selbst verstärken. Depressive richten ihr Denken an bestimmten Thesen aus – Thesen über sich selbst (z. B. „Ich verdiene keine Liebe.“), über die Welt („Andere erwarten zu viel von mir.“) und über die Zukunft („Es wird nichts Gutes mehr kommen.“) –, deren Wahrheitsgehalt nicht geprüft wird. Alle Wahrnehmungen werden so zurechtgebogen, dass sie diese Thesen nicht entkräften, sondern bestätigen. Daraus ergibt sich ein automatisiertes zirkuläres Denken, mit dem der Patient sich selbst systematisch in Niederlagen begibt.  Bei der Therapie soll der Patient zunächst lernen, sich selbst zu beobachten, Probleme zu identifizieren, individuelle Blockaden zu erkennen, Alternativen zu entwickeln und auszuprobieren sowie dann seine Denk- und Verhaltensmuster neu zu bewerten: Etwa indem er sich bewusst distanziert, etwas positiv umdeutet oder ein Problem als Herausforderung sieht.
+
+Analyse 
+
+Eingangs werden die kognitiven Grundannahmen beschrieben, die den automatischen Gedanken zu Grunde liegen, gefolgt von einer Beschreibung der automatischen Gedanken, die einer Person aufgrund problematischer Ereignisse durch den Kopf gehen. Weiterhin wird erforscht, bei welchen Ereignissen die automatischen Gedanken auftreten; in diesem Zusammenhang ist es von wesentlicher Bedeutung, was genau nun die automatischen Gedanken in der jeweiligen Situation ausgelöst hat.
+
+Anschließend versucht die Analyse zu erfassen, welche Gefühle, welches Verhalten und welche körperlichen Reaktionen mit den automatischen Gedanken verbunden sind. So können die körperlichen Symptome beispielsweise schon ein erster Anhaltspunkt dafür sein, wie, wo und wann diese Grundannahme entstanden sein könnte. Im letzten Schritt versucht der Analytiker herauszufinden, welche prägenden Erlebnisse der Klient in seiner Kindheit erfahren musste. Gleichzeitig wird untersucht, inwieweit die Erlebnisse für die Entstehung sowie für die Aufrechterhaltung der Grundannahmen verantwortlich sind.
+
+Therapie 
+Die kognitive Verhaltenstherapie verbindet Methoden auf kognitiver Ebene und Verhaltensebene.
+Um eine Veränderung kognitiver Muster und damit verbundener Verhaltensweisen zu erreichen, werden kognitive Verfahren und verhaltensorientierte Verfahren eingesetzt. Die Therapie ist didaktisch und direktiv, d. h. der Therapeut fungiert als Lehrer; doch soll der Klient befähigt werden, selbstständig zu denken, zu fühlen und zu handeln.
+
+Grundannahme des therapeutischen Vorgehens 
+Werden die Kognitionen inhaltlich verändert, so wird auch das Erleben, das Fühlen und das Verhalten einer Person sich verändern. Eine Korrektur von dysfunktionalen Kognitionen führt zumindest zu einer Besserung des Zustandes der depressiven Person.
+
+Ziel der Therapie 
+Das Hauptziel der Kognitiven Therapie nach der Beck’schen Theorie ist es, die verzerrten, nicht realitätsgerechten Kognitionen, die der depressiven Störung des Klienten zu Grunde liegen, zu verändern in Richtung auf eine realitätsadäquatere Wahrnehmung und Interpretation der Realität. Das depressive Denken, das als global, eindimensional, absolutistisch, irreversibel und bewertend beschrieben wird, soll hin zu einem differenzierten Denken mit den Attributen konkret, mehrdimensional, relativierend, reversibel und nicht wertend beeinflusst werden. Der Klient soll im Laufe der Therapie lernen, seine verzerrten, nicht realitätsgerechten Kognitionen selbständig zu identifizieren und letztlich auch zu verändern.
+
+Bevor die kognitive Therapie im engeren Sinne stattfinden kann, werden in der Regel verhaltenstherapeutische Maßnahmen eingeleitet, um das Aktivitätsniveau des Klienten schrittweise zu steigern, da Inaktivität sehr häufig bei depressiven Patienten auftritt.
+
+Sechs Schritte der kognitiven Umstrukturierung 
+1. Vorstellung des kognitiven Modells
+ Zu Beginn der Therapie versucht der Therapeut dem Klienten die Zusammenhänge zwischen automatischen Gedanken und den kognitiven Grundannahmen zu erklären. Denn es ist entscheidend, dass der Klient weiß, wie die Therapie funktionieren soll. Auf diese Weise verspricht man sich einen größeren Therapieerfolg, da der Klient weiß, was der Therapeut mit seinem methodischen Vorgehen beabsichtigt und was dies bei ihm auslösen soll.
+
+2. Aufdeckung und Bewusstwerdung der dysfunktionalen Kognitionen
+ In dieser Phase der Therapie wird der Klient vornehmlich zur Selbstbeobachtung angehalten. Die Selbstbeobachtung ist der Schlüssel zur Bewusstwerdung der dysfunktionalen Kognitionen. Unterstützend werden dabei auch Rollenspiele und systematische Gesprächstechniken mit eingesetzt.
+
+3. Infragestellen der dysfunktionalen Kognitionen
+ Sind die dysfunktionalen Kognitionen in der vorangegangenen Phase ins Bewusstsein gedrungen, so geht es im nächsten Abschnitt der Therapie um die Überprüfung der Angemessenheit jener Kognitionen. Der Klient muss nun die Kognitionen hinterfragen und nach rationalen Gesichtspunkten überprüfen, ob sie realistisch und begründet sind.
+
+4. Reflexion der Kognitionen
+ Der Klient reflektiert seine eigenen Kognitionen, lernt selbst deren Unangemessenheit zu erkennen und wird dadurch fähig, die automatischen Gedanken zu hinterfragen und in letzter Konsequenz abzulegen.
+
+5. Entwicklung alternativer Überzeugungen
+ In dieser Phase der Therapie werden neue funktionale Überzeugungen ausgebildet, mit denen der Klient zukünftige Situationen positiv beeinflussen und erleben kann. Es erfolgt also eine Umstrukturierung der dysfunktionalen Kognitionen in funktionale.
+
+6. Training der funktionalen Kognitionen
+ Die so entwickelten funktionalen Kognitionen müssen nun im Sinne der Stabilisierung aktiv im Alltag geübt und trainiert werden. Dies kann in einem frühen Stadium zunächst noch mit z. B. Rollenspielen erreicht werden und später dann in realen Alltagssituationen. Bevor die Therapie als abgeschlossen gelten kann, muss zunächst eine Phase erfolgen, welche von ständigen Erfolgskontrollen geprägt ist. Diese Kontrollen sind nötig, um eventuelle Stagnationen oder Rückschläge rechtzeitig zu erkennen und diesen entgegenwirken zu können.
+
+Methoden der kognitiven Umstrukturierung 
+Zentrale Methode der Gesprächsführung ist der so genannte „Sokratische Dialog“, damit soll der Klient angeleitet werden, seine dysfunktionalen Denkinhalte zu identifizieren und zu verändern. Kognitive Hausaufgaben (in Form von schriftlichen Trainingseinheiten – z. B. Spaltentechniken, Tagesprotokolle negativer Gedanken) kommen ebenfalls zur Anwendung.
+
+Kern der Technik von Beck ist die so genannte Realitätsüberprüfung. Dabei geht es darum, die verzerrten Kognitionen an der Realität zu testen, das heißt zu überprüfen, inwiefern die formulierten Wahrnehmungen und Interpretationen des Klienten empirisch belegbar sind und welche kognitiven Verzerrungen ihnen möglicherweise zu Grunde liegen. Bei dieser Realitätsüberprüfung wird der Klient zum Beispiel angeleitet, im Alltag Beobachtungen zu sammeln, die seinen Interpretationen bzw. Schlussfolgerungen widersprechen.
+
+Verhaltensorientierte Verfahren 
+Verhaltensorientierte Verfahren sollen dazu dienen, den Klienten zu aktivieren und seine affektiven Störungen wenigstens ansatzweise in den Griff zu bekommen. Die Änderung des Verhaltens führt zu positiven Emotionen, diese wiederum führen zu veränderten Kognitionen.
+Zu den verhaltensorientierten Techniken gehören:
+ graduierte Aufgabenstellung
+ Aktivitätsplanung und -durchführung
+Entkopplung (speziell bei körperbezogenen Impulskontrollstörungen)
+Habit Reversal Training
+ Mastery-and-Pleasure-Technik
+
+Kognitive Verfahren 
+Kognitionsorientierte Verfahren sollen dazu dienen, eine langfristige kognitive Umstrukturierung zu erreichen: Negative Kognitionen sollen durch rationalere ersetzt werden, was zu aktiverem, kompetenterem Verhalten führen soll.
+Zu den kognitionsorientierten Verfahren gehören:
+ Sammeln und Aufzeichnen automatischer Gedanken
+ Zweispaltentechnik: Argumentieren gegen automatische Gedanken
+ Erkennen von Mustern kognitiver Verzerrungen
+ Realitätstesten: Testen der Kognitionen
+ Umattribution: Trennung der Verantwortlichkeiten (siehe Attributionstheorien)
+ Entkatastrophisieren
+ Aufbau von Erwartungen
+Assoziationsspaltung
+
+Segal und andere (2002) postulieren, dass nicht unbedingt eine Veränderung der Inhalte depressiven Denkens notwendig sei, sondern vielmehr eine Änderung der Haltung gegenüber den eigenen Gedanken, Bildern und Erinnerungen.
+
+Verhalten und Rolle des Therapeuten 
+Becks kognitive Therapie beruht auf dem Prinzip des kollaborativen Empirismus: Klient und Therapeut sind gleichberechtigte Partner, da der Klient als Experte seiner Denkmuster gilt. Aktive Beteiligung des Klienten ist also dringend erforderlich.
+
+Verfahren der "dritten Welle" 
+Die folgenden Ansätze werden zur „dritter Welle“  der kognitiven Verhaltenstherapie gerechnet:
+
+ Achtsamkeitsbasierte Stressreduktion nach Jon Kabat-Zinn
+ Akzeptanz- und Commitmenttherapie (ACT) nach Steven C. Hayes
+ Assoziationsspaltung
+ Cognitive Behavioral Analysis System of Psychotherapy nach James P. McCullough
+ Dialektisch-Behaviorale Therapie
+ Metakognitive Therapie nach Adrian Wells
+ Metakognitives Training nach Steffen Moritz
+ Schematherapie nach Jeffrey E. Young
+
+Gemeinsamkeit und Unterschied zur Psychoanalyse 
+Aaron T. Beck, der Gründer der Kognitiven Therapie, hatte zunächst eine Ausbildung zum Psychoanalytiker abgeschlossen. Obwohl sich die Psychoanalyse und die kognitive Therapie nach der Meinung von Beck zwar in der Fokussierung auf das Kernproblem der Patienten ähneln, sei der Unterschied zwischen ihnen der, dass die Psychoanalyse von unbewussten Strukturen ausgeht, während Beck annimmt, dass die dysfunktionalen Schemata bewusst sind. Auch spielen für die Kognitive Therapie lange zurückliegende Ereignisse oder die Handlungen anderer Personen keine ausschlaggebende Rolle.
+
+Wirksamkeit 
+Die kognitive Verhaltenstherapie hat sich insbesondere in der Behandlung von Phobien, Panikattacken, Depressionen  und Schizophrenie als sehr effektiv erwiesen. Auch bei der Behandlung von Essstörungen wurde ihre Wirksamkeit nachgewiesen.
+
+Rückgang der Wirksamkeit der KVT bei Depressionen 
+Nach einer Analyse von 70 zwischen 1977 und 2014 durchgeführten Studien kam eine Meta-Analyse zu dem Schluss, dass die KVT bei der Behandlung von Depressionen etwa halb so wirksam ist wie früher. Eine mögliche Erklärung ist, dass mit zunehmender Beliebtheit jeder Therapie der Anteil unerfahrener oder inkompetenter Therapeuten zunimmt und sich dadurch die Zahl korrekt durchgeführter Behandlungen verringert. Die Autoren schlagen als weitere Erklärung einen (abnehmenden) Placebo-Effekt vor: Die frühere öffentliche Wahrnehmung der KVT ließ diese als Wundermittel erscheinen, also funktionierte sie eine Weile auch wie eines. Im Gegensatz dazu kennt man heutzutage wahrscheinlich jemanden, der KVT ausprobierte und nicht für immer vollkommen glücklich wurde. Unsere Erwartungen könnten realistischer geworden sein und damit wäre auch die Effektivität der KVT gesunken.
+
+Kritik 
+Kritik an Becks Ansatz wurde vor allem von John D. Teasdale – selbst ein Pionier der achtsamkeitsbasierten kognitiven Therapie geübt. Ein kurzer Überblick:
+ Beck postuliert, dass unrealistische Schemata und gestörte Kognitionen die Ursache der Depression sind. Jedoch habe sich gezeigt, dass diese eher die Folge von Depressionen sind als deren Ursache: In Phasen der Erholung verschwinden die dysfunktionalen Einstellungen.
+ Rationale Argumente erweisen sich trotz Einsicht des Klienten oft als ineffektiv.
+ Depressives Denken ist zustandsabhängig.
+ „Depressiver Realismus“: Depressive haben oft bessere Einschätzungen als Nichtdepressive darüber, inwieweit sie Aufgaben bewältigen können oder nicht; sie neigen seltener zur (den Selbstwert fördernden) Selbsttäuschung. Wegen dieser höheren Realitätsgenauigkeit ist die Dysfunktionalität des Denkens fraglich.
+ Interventionen auf rein kognitiver Ebene reichen laut Teasdale nicht aus, da die depressogenen Schemata aus visuellen, auditiven, somatischen und kognitiven Informationen bestehen. Interventionen müssen diese anderen Modalitäten ebenfalls betreffen.
+
+Psychoanalytische Kritiker knüpfen häufig an der Reduzierung der Psychologie auf eine „Laborwissenschaft“ an. Die Psychoanalyse vertritt die Auffassung, dass es unmöglich sei, die komplexen Zusammenhänge der Psyche in einer Laborsituation nachzustellen. Psychoanalytiker kritisieren, dass verhaltenstherapeutische Therapien vor allem die Reduzierung der Symptome zum Ziel habe, wie dies in der Verhaltenstherapie üblich ist. Durch deren Reduzierung solle nämlich keineswegs die Ursache für eine psychische Störung bekämpft, sondern lediglich ein leidiges Symptom für kurze Zeit verbessert werden. Dadurch können sich Symptome anderer Art bilden. Diesen Vorgang nennt man Symptomverschiebung. Deshalb bezweifeln sie die Nachhaltigkeit der Verbesserungen. Die in der Verhaltenstherapie vorherrschende Neigung zur Effizienz wird ebenso kritisiert. Mit möglichst kurzen Therapien werde dem Individuum wenig Raum gegeben und lediglich die Krankheit in den Mittelpunkt des Kontakts zwischen Therapeuten und Klienten gestellt. Dies könne eine nachhaltige Heilung verhindern.
+
+Jedoch konnte dieser Kritikpunkt in Katamnesestudien nicht bestätigt werden. Es kommt nach Durchführung oder Inanspruchnahme der kognitiven Verhaltenstherapie nicht häufiger zu Symptomverschiebungen als bei anderen Therapieformen.
+
+Literatur 
+ Aaron T. Beck: Cognitive Therapy and the Emotional Disorders. Intl Universities Press, 1975. ISBN 0-8236-0990-1
+ Aaron T. Beck: Kognitive Therapie der Depression. Herausgegeben von Martin Hautzinger. Aus dem Amerikanischen von Gisela Bronder. 3. Auflage. Beltz, Weinheim u. a. 2004 (Beltz-Taschenbuch: Psychologie), ISBN 3-407-33023-5.
+
+Weblinks 
+ 
+ 
+ Michael Marwitz: Die narzisstische Persönlichkeitstörung: Genese, Diagnostik und Therapie aus verhaltenstherapeutischer Sicht. Vortrag
+
+Einzelnachweise 
+
+Psychotherapie

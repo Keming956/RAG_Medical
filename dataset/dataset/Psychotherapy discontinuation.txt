@@ -1,0 +1,51 @@
+Psychotherapy discontinuation, also known as unilateral termination, patient dropout, and premature termination, is a patient's decision to stop mental health treatment before they have received an adequate number of sessions. In the United States, the prevalence of patient dropout is estimated to be between 40–60% over the course of treatment however, the overwhelming majority of patients will drop after two sessions.
+An exhaustive meta-analysis of 146 studies in Western countries showed that the mean dropout rate is 34.8% with a wide range of 10.3% to 81.0%. The studies from the US (n = 85) had a dropout rate of 37.9% (range: 33.0% to 43.0%).
+
+Differing definitions 
+Psychotherapy discontinuation can mean different things to different researchers or clinicians. Although the important aspects of what discontinuation consist of (client's decision, symptoms not adequately reduced) typically remain constant, there can still be differences of how these are measured. For example, one researcher may designate that completing 50% of sessions will mark the client as a treatment completer, where another may designate this amount at 75%. When looking at patient dropout rates, these inconsistencies can make the data difficult to understand. But the same patients might be considered non-completes in another study.
+
+Associated issues
+
+Poor patient outcomes
+Patient dropout is associated with numerous problems, such as: loss of potential patient improvement, poorer outcomes, increased likelihood of over-utilizing resources, and disruption in group therapy settings. Intuitively, these patients lose out on the benefits they may have received if they continued treatment. They also face poorer outcomes and fewer benefits of therapy compared to those who continue with treatment. Further, patients who discontinue treatment are more likely to be characterized as chronic patients, resulting in over-utilization of services, up to twice as much as "appropriate" terminators. In a group therapy session, premature discontinuation of one member may in turn adversely affect the other members of the group.
+
+Narcissistic injury
+Narcissistic injury is a possible outcome of patient dropout, where therapists and clinicians may feel a diminished sense of self and may even feel inadequate. They may interpret a patient's discontinuation of treatment as a direct result of something they did. This can lead to lower self-esteem, confidence, and thus their effectiveness which will negatively impact their delivery of treatments to other patients. There is no current research as to how often this occurs in patient dropout cases.
+
+Clinician and administrative losses
+Less apparent are the effects non-completes have on the entire mental health care system. Clinicians experience losses in the form of time spent on patient intakes, missed appointments prior to termination, and other diagnostic work performed.  Administratively, these inefficiencies contribute to long waiting lists, which in turn: deny services to others, worsen community perception, and create lost income for clinics. Cyclically, long waiting lists have shown some increased dropout effects, further exacerbating the problem.
+
+Predicting at-risk patients
+Predicting patients at risk of dropping treatment is a difficult task that is still being researched. However, there are different factors associated with patient dropout that are worth identifying. There are several meta-analysis studies that addressed these issues.
+
+Patient characteristics
+Patient characteristics are anything innate about the patients themselves. These include: age, race, gender, education, and socioeconomic status. Several studies identify minorities as more likely candidates for dropping psychotherapy treatment. Young clients are also more likely to drop out compared to older clients.   Further, socioeconomic status has been linked to client dropout, where poorer patients drop out more frequently.
+
+Environmental factors
+Environmental factors relate both to the environment of the patient and to the physical environment of the clinician's office. Research has shown that refurbishing the waiting room of an urban office resulted in a 10% increase in attendance at the first session. Also included as an environmental factor is the patient's access to care. In the United States, many insurance companies do not cover mental health treatment. This denial of care can quickly lead to patient dropout.
+
+Beliefs and perceptions of mental health
+Social stigma of mental health treatment may also result in increased patient discontinuation. This is particularly true amongst ethnic minorities. In the Latino community, the male value of machismo can often increase shame of seeking mental health due to beliefs that the individual should be able to overcome problems on their own.
+
+Perceptions of mental health may also alter patient beliefs about the effectiveness of mental health treatment. Patients receive cues on therapist expertise through their interactions, and may feel the therapist is inadequate. They may also feel that they do not share the same treatment goals. It's also possible that the initial perception that treatment is ineffective can lead to patient's seeking a reason to end treatment. Lastly, a client may have an expectation about how many sessions they will be attending. This number strongly predicts the number of sessions actually attended, which may differ from the number the therapist feels is necessary, leading to dropout.
+
+Possible solutions
+
+Role induction
+Role induction involves preparing clients for what to expect in therapy. It consists of educating patients about the nature and process of therapy, aimed to offer clients an expectation of success and to dispel therapy misconceptions. This has been found to effectively reduce discontinuation, and even to help reduce client distress.
+
+Fostering therapeutic alliance
+The therapeutic relationship is generally based on three concepts:  a collaborative relationship, an affective bond between the therapist and patient, and the ability of both the client and therapist to agree on treatment goals. To strengthen this alliance, research suggests to reaffirm the main therapeutic conditions of warmth, positive regard for the client, and empathy. Communicating both respect for the patient's perspective and one's interest in working with them will help develop trust.
+
+Motivational interviewing
+Motivational interviewing (MI) or motivational enhancement is defined as "increasing a person’s willingness to enter into, continue, and adhere to a specific change strategy.”  MI is typically seen broken into the acronyms FRAMES (Feedback, Responsibility, Advice, Menu of strategies, Empathy, and Self-efficacy) or OARS (Open questions. Affirmation, Reflection, and Summary). Other strategies have included: correcting patient misconceptions, creating incentives for change, eliciting self-motivational statements, praising patient's serious consideration of change, and refraining problem behaviors so that they appear less formidable.
+
+Therapist feedback
+By consistently checking in with patient goals and progress, therapists can detect patient deviation from the intended path and thus consider changing treatment plans or other strategies before the patient drops. An example of therapist feedback would be a chart that displays client progress. This is a concrete picture of how the client is progressing, and will engage the client to take an active role in their treatment.
+
+See also
+ American Psychological Association
+
+References
+
+Psychotherapy

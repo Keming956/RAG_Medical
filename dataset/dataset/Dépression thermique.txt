@@ -1,0 +1,40 @@
+Une dépression thermique est un centre fermé de pression atmosphérique plus basse que l'environnement, ou dépression météorologique, qui est due à un réchauffement très élevé local et persistant de la surface terrestre qui se communique à l'air sus-jacent et non à un mouvement dynamique de l'atmosphère. Certaines ne se manifestent qu'avec le réchauffement diurne et disparaissent la nuit, comme celle de la péninsule Ibérique. Mais les plus importantes revêtent un caractère permanent en s'établissant sur des zones continentales arides ou semi-arides. 
+
+Durant l'été de l'hémisphère nord, il est possible de parler de la dépression placée aux frontières du Mexique du nord-ouest et de la Californie dans le désert de Sonora, de celle de la vallée centrale de Californie et de la très vaste dépression asiatique qui a son centre sur le Pakistan et qu'un large creux barométrique prolonge à travers l'Arabie pour s'étendre en une dépression couvrant le Sahara. L'appel d'air entretenu par ce centre d'action thermique sert de déclencheur au-dessus du sous-continent indien de la mousson d'été. Dans l'hémisphère sud, les principales dépressions thermiques se retrouvent dans le nord-ouest de l'Argentine et dans la région de Kimberley en Australie.
+
+Formation 
+Les dépressions thermiques sont formées lorsqu'une masse d'air se réchauffe et se détend, contenant ainsi moins d'humidité par unité de volume et de ce fait, exerce une plus faible pression sur le sol. Ces dépressions se forment principalement dans les masses d'air très chaudes près des Tropiques et le plus souvent dans les zones désertiques où la faible humidité provenant du sol et des plantes ne peut normalement assurer le refroidissement par évaporation des couches inférieures de l'atmosphère. Bien que la pression réduite au niveau de la mer puisse atteindre couramment des valeurs faibles au centre d'une dépression thermique, celle-ci a généralement une épaisseur réduite et se transforme en un anticyclone en altitude. 
+
+En effet, l'air à une altitude donnée au-dessus sol est plus chaud au-dessus de la dépression thermique que dans la région environnante à cause du réchauffement de sa masse d'air. La différence de hauteur entre deux surfaces isobares sur une verticale donnée est d'autant plus forte que les températures de la couche atmosphérique comprise entre ces deux surfaces sont en moyenne plus élevées suivant cette verticale. Il s'ensuit que dans un air très chaud, la dépression s'amenuise lorsqu'on gagne en hauteur, jusqu'à s'inverser et finalement saillir en un anticyclone. Pendant la saison froide, les eaux chaudes telles que celles des Grands Lacs ou des mers proche de continents froids peuvent aussi induire le même phénomène.
+
+Il existe une autre façon de produire une dépression thermique au sol. Lorsque de l'air froid descend depuis les hautes altitudes par subsidence dans un anticyclone en altitude, l'air se réchauffe adiabatiquement et devient donc moins dense. Ceci se produit souvent en aval de chaînes montagneuses soumises à un effet de foehn. Dans ce cas la dépression thermique est également dynamique.
+
+Dans tous les cas, les dépressions thermiques qui se développent ainsi au niveau de la mer peuvent avoir une épaisseur allant jusqu'à  (environ ). Elles se déplacent peu et donnent normalement des vents faibles.
+
+Dynamique et climatologie 
+
+La relation est donc étroite entre les dépressions thermiques et la chaleur sensible de surface. Les dépressions thermiques les plus fortes sont situées au-dessus des grands déserts du monde dont le Sahara, le désert d'Arabie, le Kalahari, les grands déserts d'Australie-Occidentale, les déserts du nord de l'Inde et du Pakistan, les déserts de Mojave et de Sonora, ainsi que les déserts du nord-ouest de l'Argentine. Dans ces régions, elles sont si fortes qu'elles apparaissent comme des centres semi-permanents sur les cartes météorologiques estivales.
+
+Les observations directes indiquent que la circulation cyclonique de bas niveau se développe à partir de la matinée et atteint une amplitude maximale pendant les heures les plus chaudes de la journée mais les détails de cette circulation ne sont pas bien documentés. Des simulations numériques de dépressions thermiques sur des zones continentales entourées par un océan montrent un cycle diurne prononcé où le minimum de pression de surface se situe à la fin de l'après-midi mais le tourbillon relatif est le plus fort en début de matinée ce qui fait que ces dépressions ne sont pas en équilibre quasi-géostrophique.
+
+Temps associé 
+
+Les dépressions thermiques se formant le plus souvent dans des régions arides, elles ne sont généralement pas associées à des zones étendues de nuages et de précipitations. Par contre, l'air réchauffé en surface peut être localement surplombé de l'air plus froid et devenir instable, donnant des averses ou orages localisés. Ces systèmes ont cependant une influence importante à grande et petite échelle sur la circulation atmosphérique.
+
+Échelle synoptique 
+
+La mousson provient du déplacement à grande échelle de la zone de convergence intertropicale (ZCIT). Ce déplacement provient du cycle saisonnier des températures autour de l'équateur grâce à la différence thermique entre les continents et les océans : 
+ Au-dessus des océans, la masse d'air est assez homogène verticalement grâce à un mélange par la turbulence dans la couche limite océanique qui est en général assez mince (environ ) et le réchauffement est aussi lent à cause de la grande capacité thermique de la mer. 
+ Sur terre, le réchauffement saisonnier est rapide et la couche limite est beaucoup plus étendue, permettant l'apparition d'un régime de brise entre les deux. Si le continent est aride, il se formera une dépression thermique de grande étendue qui produira un vent constant de la mer vers la terre.
+
+De plus, si ce vent remonte la pente de montagnes, comme dans le cas du sous-continent indien, ou rencontre une zone de convergence du relief, les précipitations seront rehaussées.
+
+En hiver, l'effet inverse se produit : la terre se refroidit rapidement alors que la mer reste relativement chaude. Une dépression thermique pourra alors se former sur les eaux et un anticyclone sur terre donnant une brise de terre.
+
+Échelle locale 
+
+Le régime de brise mentionné antérieurement peut s'établir localement le long des rives de toute étendue d'eau (lac, mer, golfe, etc.). L'air chaud moins dense au-dessus de la côte par rapport à celui au-dessus de l'eau monte en altitude grâce à la poussée d'Archimède créant une dépression thermique très localisée vers laquelle l'air plus frais du large se dirige. Le long de la limite entre l'air frais et humide entrant sur la côte, et l'air chaud et sec s'élevant sur la côte, des nuages peuvent se former par condensation de l'air humide apporté du large.
+
+Notes et références 
+
+Thermique

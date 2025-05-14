@@ -1,0 +1,12 @@
+Der Überdiagnose-Bias ( length time bias) ist eine Verfälschung in der Medizin, die das Ergebnis von Screening-Studien verfälschen kann.
+In Screenings werden bevorzugt langsam voranschreitende Krankheiten erkannt, zum Beispiel langsamwachsende Tumoren, da sie ein längeres symptomfreies Intervall haben. Schnell voranschreitende Krankheiten dagegen werden oft in den Intervallen zwischen den Untersuchungen aufgrund ihrer Symptome entdeckt. Beispielsweise werden langsamer voranschreitende Krebserkrankungen eher in einem früheren Stadium durch Screening entdeckt als Krebserkrankungen mit aggressivem Verlauf.
+
+Dies hat zur Folge, dass durch das Screening ein fälschlich besserer Behandlungserfolg vorgetäuscht werden kann, da Krankheiten entdeckt werden, die keine negativen Auswirkungen auf das Überleben haben.
+
+Siehe auch 
+ Vorlaufzeit-Bias
+
+Einzelnachweise 
+
+Medizinstatistik
+Verzerrung (Empirie)

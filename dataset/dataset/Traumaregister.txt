@@ -1,0 +1,72 @@
+Das Traumaregister der Deutschen Gesellschaft für Unfallchirurgie (Eigenschreibweise: TraumaRegister DGU) ist ein Zusammenschluss unfallchirurgischer Schwerpunktkliniken zur wissenschaftlichen und standardisierten Erfassung und Auswertung von Unfallverletzungen und der Behandlung unfallverletzter Patienten und eine eingetragene Marke. Dabei erfolgt die Datenerhebung anonymisiert und prospektiv vom Unfallort bis zur Klinikentlassung. Ziel ist eine Verbesserung der Versorgung von Unfallopfern, die flächendeckende Einbindung möglichst vieler unfallchirurgischer Kliniken und die Entwicklung von Behandlungs-Leitlinien. Für die zunehmende Vernetzung hat sich das Traumanetzwerk DGU gegründet.
+
+Das Traumaregister DGU wird als Arbeitskreis unter Leitung von Rolf Lefering und Thomas Paffrath aus Köln innerhalb der Sektion Notfall-, Intensivmedizin und Schwerverletztenversorgung der Deutschen Gesellschaft für Unfallchirurgie geführt.
+
+Geschichte 
+Aus einer Sitzung zu Scoring-Systemen auf der Jahrestagung der DGU im November 1989 unter Leitung von Schmit-Neuerburg aus Essen ging die Gründung einer Arbeitsgemeinschaft Scoring in der DGU hervor, die sich im Januar 1992 in Essen konstituierte und an der zunächst sechs Kliniken teilnahmen. Im Januar 1993 wurde der erste Dokumentationsbogen vorgestellt, der an den fünf Gründungskliniken getestet wurde. Nach einem Symposium im Oktober 1993 wurde dann das Traumaregister gegründet.
+
+Der erste standardisierte Jahresbericht erschien 1997, seither erscheinen jährlich Ergebnisse für jede teilnehmende Klinik, die diese im Vergleich zur Gesamtheit positioniert. Nachdem 2002 eine Förderung durch die Deutsche Forschungsgemeinschaft auslief, und die manuelle zentrale Dateneingabe der zuvor auf Papier ausgefüllten Erhebungsbögen nicht mehr finanzierbar war, wurde eine Internet-gestützte Eingabeplattform eingerichtet. Seither erfolgt die Datenerhebung online.
+
+Mit einem „Weißbuch Schwerverletzten-Versorgung“, das 2006 erschien, forderten das Traumaregister und die DGU eine flächendeckende Einführung eines dreistufigen aufeinander abgestimmten Netzwerks unfallchirurgischer Kliniken zur Versorgung von Polytrauma-Patienten, das Vorgaben zur Ausstattung der Kliniken und zum Qualitätsmanagement machte.
+
+Darauf basierend wurde zusammen mit der DGU 2008 ein bundesweites Traumanetzwerk initiiert, das eine komplette Erfassung aller Kliniken ermöglichen soll, die sich um die Versorgung Verunfallter kümmern. Bis 2014 waren darin 600 Traumazentren erster bis dritter Ordnung in 45 regionalen Traumanetzwerken organisiert. Die angeschlossenen Traumazentren werden alle drei Jahre auditiert und zertifiziert. Teilnehmende Kliniken sind seither zur Eingabe verpflichtet.
+
+Seit 2009 hat die Akademie für Unfallchirurgie, die zur DGU gehört, die Finanzierung und den Betrieb der Infrastruktur übernommen.
+
+Erhebung 
+Die Erfassung erfolgt online über fünf zu verschiedenen Zeitpunkten zu erfassende Erhebungsbögen:
+
+ S: Stammdaten
+ A: Befund bei Eintreffen des Notarztes am Unfallort
+ B: Befund bei Klinikaufnahme / Notaufnahme
+ C: Befund bei Aufnahme auf der Intensivstation
+ D: Befund bei Entlassung / Abschluss, aufgegliedert in drei Abschnitte
+
+Einschluss- und Ausschlusskriterien 
+Zunächst wurden alle Patienten erfasst, die über den Schockraum stationär aufgenommen wurden und potenziell intensivpflichtig waren. Ab 2013 wurde das Einschlusskriterium dahingehend präzisiert, dass auch Patienten erfasst werden, die das Krankenhaus lebend erreichen, aber vor Aufnahme auf die Intensivstation versterben.
+
+Ausgeschlossen werden Patienten, die bei Aufnahme im Schockraum nicht mehr leben, Patienten mit schweren Verbrennungen, die sich erhängt haben, die einen Ertrinkungsunfall oder eine Vergiftung haben. Verunfallte allen Alters, auch Kinder werden erfasst.
+
+Datenauswertung 
+Die wichtigsten Ergebnisse für das Traumaregister DGU sind die Sterblichkeit (Letalität), die Dauer des Krankenhausaufenthaltes und der Gesundheitszustand bzw. Behinderungsgrad bei Entlassung. Diese Parameter hängen in erster Linie vom Verletzungsmuster und der Verletzungsschwere ab, weshalb für einen Vergleich der Kliniken untereinander eine Adjustierung erfolgen muss. Gleichzeitig ist es ein Ziel des Traumaregisters DGU, aus Verletzungsmuster und -schwere bereits zum Zeitpunkt der Klinikaufnahme eine Überlebensprognose erstellen zu können.
+
+Hierzu werden vorwiegend zwei Scores angewandt. Zunächst orientierte man sich am TRISS-Score, der in den achtziger Jahren in Amerika als altersadaptierte Berechnung aus zwei anderen gebräuchlichen Unfallscores, dem Revised Trauma Score (RTS) und dem Injury Severity Score (ISS), entwickelt wurde. Seit 2004 wird dieser durch den Revised Injury Severity Classification Score (RISC-Score) ersetzt, der wiederum direkt aus den Daten des Traumaregister DGU entwickelt wurde. In die Berechnung fließen gewichtet zehn Indikatoren ein, und es lässt sich direkt eine Überlebenswahrscheinlichkeit ausrechnen. In einer Studie der Score-Entwickler hat der RISC-Score seine höhere Genauigkeit gegenüber anderen Scores nachgewiesen.
+
+Eine Kritik an der Ergebnisqualität der Registerdaten ist die unvollständige Datenerfassung – bedingt durch die hohe Zahl einzugebender Daten bei im klinischen Alltag oft unzureichender Zeit – als auch Probleme mit der Validität der Daten.
+
+Qualitätsmanagement 
+Jedes Jahr werden die Ergebnisse des Traumaregister DGU in Form eines Jahresberichts publiziert, zudem kann jede teilnehmende Klinik einen eigenen Ergebnisbericht erhalten, der die klinikeigenen Ergebnisse mit den Vorergebnissen und dem Gesamtkollektiv vergleicht. So dient der Bericht im Rahmen des Qualitätsmanagement der beteiligten Klinik zur Überwachung der Versorgungsqualität bei der Schwerverletztenversorgung, und die Entwicklung der Qualitätsindikatoren ist direkt ersichtlich.
+
+Spezielle Qualitätsindikatoren zur Prozessqualität werden zusätzlich analysiert, wobei mit über die Jahre wechselnden Indikatoren die Versorgungsqualität verbessert werden soll. Derzeit werden acht Indikatoren erfasst, davon drei präklinisch, d. h. vor oder bis zur Klinikaufnahme. Dies sind der Zeitraum vom Unfallzeitpunkt bis zur Aufnahme im Schockraum, die Intubationsrate bei schwerem Thoraxtrauma oder bei Verdacht auf ein schweres Schädel-Hirn-Trauma. Im Schockraum werden die Zeiten erfasst, die bis zur Durchführung einzelner wichtiger Diagnoseverfahren vergehen, derzeit die Röntgenaufnahmen von Becken, Lungen, die Ultraschalluntersuchung von Bauch- und Brusthöhle (FAST) sowie die Computertomographie des Schädels oder des ganzen Körpers.
+
+Erfasste Daten 
+Nach Angaben des Jahresberichts 2009 wurden bis Ende 2008 Daten zu 42.248 Patienten gesammelt. Es nahmen 166 Kliniken teil, davon elf österreichische, vier slowenische, und jeweils eine belgische, eine niederländische und eine Schweizer Klinik.
+
+In den ersten zwanzig Jahren, bis Ende 2012, wurden 49.801 Schwerverletzte erfasst. Davon sind 72 % Männer. Das Durchschnittsalter betrug 46,3 Jahre, und 3,7 % der Erfassten waren Kinder unter 16 Jahren. Die Unfallursache war überwiegend ein Verkehrsunfall (60,2 %), im Zeitverlauf jedoch abnehmend, gefolgt von Stürzen aus niedriger Höhe (weniger als drei Meter), die vor allem bei Schwerverletzten über 60 Jahre häufig sind. Penetrierende Verletzungen (Hieb-, Stich-, Schussverletzungen) sind in Deutschland mit 4,2 % selten. Kopfverletzungen (mit AIS > 3) lagen bei 55,3 % der Erfassten vor. Der durchschnittliche Krankenhausaufenthalt lag bei 23 Tagen, mit deutlich rückläufigem Trend von mittleren 30 Tagen anfangs (1990er) auf 21 Tage (2012). Die Mortalität im Krankenhaus lag bei 19,0 % und war gering rückläufig.
+
+In einer weiteren Analyse der Ergebnisse zwischen 2002 und 2011 (35.432 Schwerverletzte) zeigte sich, dass die meisten Unfälle am Nachmittag und frühen Abend zu verzeichnen waren, mit dem höchsten Wert über 7 % um 17 Uhr. Die niedrigsten Werte unter stündlich zwei Prozent fanden sich zwischen ein Uhr und sechs Uhr morgens.
+
+Für das Jahr 2016 hat das Traumaregister 33.374 Schwerverletzte erfasst, 70 % waren Männer, das mittlere Alter betrug 51 Jahre. Fast die Hälfte aller Unfälle warne Verkehrsunfälle, die zweithäufigste Unfallursache waren Stürze aus großer Höhe (mind. drei Meter). Am häufigsten waren schwere Verletzungen des Kopfes (48 %) und des Brustkorbes (45 %). Der Anteil Schwerverletzter mit einem ISS von mindestens 16 Punkten betrug 55 %. Im Mittel erreichten die Patienten nach 63 Minuten nach dem Unfall den Schockraum, wo die Versorgung bei dem Drittel der Patienten mittlere 74 Minuten dauerte, die anschließend direkt operiert werden mussten, oder mittlere 82 Minuten bei den anderen Patienten bis zur Verlegung auf die Intensivstation. Nach durchschnittlich 22 Minuten lag bereits ein Ganzkörper-CT vor. Bei den Schwerverletzten waren im Mittel zwei Operationen nötig, und der mittlere Aufenthalt auf einer Intensivstation betrug sechs Tage, der mittlere Krankenhausaufenthalt fünfzehn Tage. Im Jahr 2016 starben 11,3 % der Patienten während des Krankenhausaufenthaltes an den Unfallfolgen.
+
+Im Wochenverlauf war der Samstag der unfallreichste Tag mit 16,4 %, während an Dienstagen und Mittwochen die niedrigste Häufigkeit zu verzeichnen war (13,4 % bzw. 13,3 %). Am Sonntag war besonders die Rate von Motorradunfällen signifikant erhöht (20,4 % der Unfälle, werktags 12,1 %), ebenso die Rate der Selbsttötungen (6,5 %).
+
+Im jahreszeitlichen Verlauf wurden die meisten Unfälle im Juni und Juli mit 10,0 % und 10,1 % erfasst, während zwischen Dezember und Februar die Häufigkeit nur zwischen 6,1 und 6,2 % lag. Ein Zusammenhang mit den Mondphasen konnte nicht gefunden werden.
+
+Ergebnisse 
+Neben dem Aufbau eines bundesweiten Traumanetzwerks mit definierten Zuständigkeiten und etablierter Zusammenarbeit hat das Traumaregister durch die wissenschaftlichen Analysen auch die Schwerverletztenversorgung medizinisch beeinflusst. Genannt werden besonders:
+ die reduzierte Volumengabe im präklinischen Bereich
+ die Ultraschalluntersuchung von Bauch- und Brusthöhle (FAST)
+ die Einführung des Ganzkörper-Computertomographie im Schockraum
+ die Einführung des "Advanced Trauma Life Support"/ATLS-Programms in Deutschland zur standardisierten Schwerverletztenversorgung
+ die frühzeitige Behandlung einer unfallbedingten Gerinnungsstörung, wodurch die Mortalität gesenkt werden konnte
+
+Bis 2014 gingen aus dem Traumaregister über 230 wissenschaftliche Publikationen hervor.
+
+Weblinks 
+ Traumaregister der DGU
+ Deutsche Gesellschaft für Unfallchirurgie
+
+Einzelnachweise 
+
+Orthopädie und Unfallchirurgie
+Notfallmedizin

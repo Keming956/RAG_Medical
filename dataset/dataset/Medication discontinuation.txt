@@ -1,0 +1,37 @@
+Medication discontinuation is the ceasing of a medication treatment for a patient by either the clinician or the patient themself. When initiated by the clinician, it is known as deprescribing. Medication discontinuation is an important medical practice that may be motivated by a number of reasons:
+ Reducing polypharmacy 
+ Reducing health expenditure
+ Improving quality of life by ceasing medications with potential adverse effects or where the indication for a medical treatment may have changed
+ Reflect changes in evidence that support a treatment
+ Reflecting changes in treatment goals, such as a move to end-of-life care.
+
+Unlike the prescribing of medications, appropriate discontinuation has not attracted nearly as much attention or interest.
+
+End-of-life care
+Medications may be stopped in the context of end-of-life care, such as medications that may affect risk factors for future disease. Medications that may be stopped as part of discussions about end-of-life care include antihypertensives, medications for diabetes, and drugs for high cholesterol.
+
+Life limiting conditions
+For people with a life limiting condition such as a dementia, it is important to consider when to discontinue medications used to prevent future serious events.  The Medication Appropriateness Tool for Comorbid Health conditions during Dementia (MATCH-D) provides guidance for clinicians and consumers on how to manage medications.
+
+Effects
+Drug discontinuation may cause rebound effects (return of the symptoms the drug relieved, and that, to a degree stronger than they were before treatment first began) and withdrawal syndromes (symptoms caused by the discontinuation by the drug itself).
+
+Drug discontinuation may be difficult to adjust to, owing to the long term use and the symbolism associated with ceasing medications, such as the decision to stop chemotherapy.
+
+Recent research (Nixon & Vendelø, 2016) shows that General Practitioners (GPs) who actively consider discontinuation, are reluctant to do so, as they experience that the safest decision is to continue prescriptions, rather than discontinue them. In part this is due to the ambiguity about the appropriateness of discontinuing medication. The clinical guidelines available to GPs do not encourage discontinuation of medication, and thus, they offer GPs a weak frame for discontinuation.
+
+Anti-hypertensive drugs 
+Withdrawal of anti-hypertensive drugs in older people
+
+The latest evidence does not have evidence of an effect due to discontinuing vs continuing medications used for treating elevated blood pressure or prevention of heart disease in older adults on all-case mortality and incidence of heart attack. The findings are based on low quality evidence suggesting it may be safe to stop anti-hypertensive medications. However, older adults should not stop any of their medications without talking to a healthcare professional.
+
+See also 
+Deprescribing
+Withdrawal syndrome
+Antidepressant discontinuation syndrome
+
+References 
+
+Clinical pharmacology
+Drugs
+Pharmaceuticals policy

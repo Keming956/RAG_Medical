@@ -1,0 +1,39 @@
+Cortical spreading depression (CSD) or spreading depolarization (SD) is a wave of electrophysiological hyperactivity followed by a wave of inhibition. Spreading depolarization describes a phenomenon characterized by the appearance of depolarization waves of the neurons and neuroglia that propagates across the cortex at a velocity of 1.5–9.5 mm/min. CSD can be induced by hypoxic conditions and facilitates neuronal death in energy-compromised tissue. CSD has also been implicated in migraine aura, where CSD is assumed to ascend in well-nourished tissue and is typically benign in most of the cases, although it may increase the probability in migraine patients to develop a stroke.  Spreading depolarization within brainstem tissues regulating functions crucial for life has been implicated in sudden unexpected death in epilepsy, by way of ion channel mutations such as those seen in Dravet syndrome, a particularly severe form of childhood epilepsy that appears to carry an unusually high risk of SUDEP (sudden unexpected death in epilepsy).
+
+Uses of the term
+Neuroscientists use the term cortical spreading depression to represent at least one of the following cortical processes:
+ The spreading of a self-propagating wave of cellular depolarization in the cerebral cortex.
+ The spreading of a wave of ischemia passing through an area of cortex.
+ The spreading of a wave of vasoconstriction following vasodilation and prolonged sustained vasoconstriction of contiguous cortical arterioles.
+
+The scintillating scotoma of migraine in humans may be related to the neurophysiologic phenomenon termed the spreading depression of Leão.
+
+Increased extracellular potassium ion concentration and excitatory glutamate contribute to the initiation and propagation of cortical spreading depression, which is the underlying cause of migraine aura.
+
+Chronic daily administration of migraine prophylactic drugs (topiramate, valproate, propranolol, amitriptyline, and methysergide) dose-dependently suppressed frequency of CSD induced by continuous cortical application of 1 M KCl solution. However lamotrigine (a drug with specific anti-aura action, but no efficacy in migraine in general) has a marked suppressive effect which correlates with its rather selective action on the migraine aura. Valproate and riboflavin were shown to have no effect on the triggering of cortical spreading depression though they are effective in migraine without aura. Taken together, these results are compatible with a causal role of cortical spreading depression in migraine with aura, but not in migraine without aura.
+
+The folded structure of the cerebral cortex is capable of irregular and complex CSD propagation patterns. The irregularities of the folded cortex and the vasculature promote the presence of re-entrance waves, such as spirals and reverberating waves. The expansion of the wave then is less predictable and it is affected by the concentration of different molecules and gradients on the cortex.
+
+Its triggers and propagation mechanisms, as well as clinical manifestations of CSD, are a therapeutic target to reduce brain damage after a stroke or brain lesion.
+
+See also
+ Transient ischemic attack
+ Spreading depression: discovery
+
+Notes
+
+References
+ "Cortical spreading depression causes and coincides with tissue hypoxia", Nat Neurosci. 29 April 2007, Takano T, Tian GF, Peng W, Lou N, Lovatt D, Hansen AJ, Kasischke KA, Nedergaard M., Department of Neurosurgery, University of Rochester Medical Center, Rochester, New York.
+ "A delayed class of BOLD waveforms associated with spreading depression in the feline cerebral cortex can be detected and characterised using independent component analysis (ICA)", Magn Reson Imaging. 21 November 2003, Netsiri C, Bradley DP, Takeda T, Smith MI, Papadakis N, Hall LD, Parsons AA, James MF, Huang CL., Physiological Laboratory, University of Cambridge, Cambridge, UK.
+ "Cortical spreading depression (CSD): A neurophysiological correlate of migraine aura", Schmerz, May 17, 2008, Richter F, Lehmenkühler A.
+
+Further reading
+ braintsunamis.com - Spreading Depolarization and Spreading Ischemia
+ COSBID.org The Co-Operative Studies on Brain Injury Depolarizations is an international research consortium focused on the role of spreading depolarizations in acute neurologic injury
+ 
+ 
+ 
+ 
+Cognitive neuroscience
+Neurology
+Neurological disorders

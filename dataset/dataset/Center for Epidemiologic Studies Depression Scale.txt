@@ -1,0 +1,37 @@
+The Center for Epidemiologic Studies Depression Scale (CES-D) is a brief self-report questionnaire developed in 1977 by Laurie Radloff to measure depressive symptoms severity in the general population.
+The CES-D consists of 20 questions that asks about various symptoms of depression as they have occurred in the past week, and the majority of the items focus on the affective component of depression.
+Although initially designed for use in general population surveys, CES-D now serves as a screening instrument in primary care clinics and in research.
+
+A revision, the CESD-R was produced in 2004.
+
+Center for Epidemiologic Studies Depression Scale for Children 
+The Center for Epidemiologic Studies Depression Scale for Children (CES-DC) is a modified version of the Center for Epidemiologic Studies Depression Scale. This measure assesses both depressive symptoms as well as symptom improvement in a wide range of children and adolescents, ages 6–17. The CES-DC was first developed to measure the incidence and prevalence of depression among children and adolescents in large-scale epidemiological research. Several research studies have found the CES-DC to be a reliable and valid measure of depressive symptoms in children.
+
+Question breakdown and scoring 
+The CES-DC is an inventory of 20 self-report items regarding depressive symptoms, taking about 5 minutes to complete. Each item asks how often a symptom has occurred within the last week. Response choices are assigned point values, which are summed together to determine a total measure score.  Response choices for each item and their corresponding point values are as follows:
+
+0 points: "Not at all" 
+1 point: "A little" 
+2 points: "Some"
+3 points: "A lot"
+
+Items 4, 8, 12 and 16 are phrased to reflect positive affect and behavior, and therefore are scored in opposite order as follows:
+
+0 points: "A lot" 
+1 point: "Some" 
+2 points: "A little"
+3 points: "Not at all "
+
+Interpretation 
+Scores on the CES-DC range from 0 to 60, in which higher scores suggest a greater presence of depressive symptoms. A score of 15 or higher is interpreted to indicate a risk for depression. However, screening for depression is a complex process and scoring a 15 or higher on the CES-DC should be followed by further evaluation.
+
+Limitations 
+A study evaluating the CES-DC found that the scores do not necessarily match up to a DSM diagnosis, and while it is a good psychometric tool for adolescents, reliability and validity is poor when applied to children.
+
+References
+
+Further reading
+
+External links
+
+Rating scales for depression

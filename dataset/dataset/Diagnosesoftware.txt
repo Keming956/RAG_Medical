@@ -1,0 +1,27 @@
+Unter einer Diagnosesoftware versteht man eine Software, mit der sich Fehler an Hardware, anderer Software oder Daten diagnostizieren lassen.
+
+In viele technische Systeme ist eine sogenannte Eigendiagnose eingebaut, die selbst die Integrität der durchgeführten Aktionen überprüft und überwacht. Bei einer einfachen Datenübertragung kann dies z. B. über Prüfsummen geschehen. Bei Hardware wird üblicherweise ein Funktionstest als Teil des Einschaltvorgangs durchgeführt.
+
+Anwendungen
+
+Automobile 
+In der Automobilindustrie wird Diagnosesoftware zur Überprüfung der Funktionstüchtigkeit der Bordelektronik von Kraftfahrzeugen eingesetzt. Neben einem Funktionstest beim Start der eingebetteten Systeme werden aufgetretene Fehler, z. B. an Sensoren, durch die On-Board-Diagnose selbst festgestellt und registriert.
+Neben einer Anzeige von kritischen Fehlern im Cockpit des Fahrzeugs können so außerdem Fehler zu einem späteren Zeitpunkt von außen ausgelesen werden. Hierzu werden meist Fahrzeugdiagnosesysteme eingesetzt, die die einzelnen Steuergeräte abfragen und eine Liste derer Fehlercodes ausgeben.
+In diesem Bereich wird es immer wichtiger, Fehler autonom zu diagnostizieren, da dies eine stetig wachsende Rolle für die Fahrzeugsicherheit spielt, angesichts der zunehmenden Computerisierung der Autos mit integrierten Schaltkreisen, Sensoren und Bussystemen.
+
+Computer 
+Viele in Computern verbaute Komponenten sind in der Lage, selbst Fehler an sich festzustellen. Neben den Fehlern, die durch ein BIOS abgefragt und als Signalton ausgegeben werden, bieten viele Laufwerke eine eigene Prüfung an, wie z. B. S.M.A.R.T. Bei Bandspeicher-Diagnosesoftware werden neben dem Laufwerk sogar dessen Schnittstellen überprüft.
+
+Für die Diagnose von Rechnernetzen gibt es spezielle Software. Neben der Prüfung des Netzes selbst, z. B. über eine WAN-Analyse, ist ein Monitoring der angeschlossenen Rechner ebenfalls über Diagnosesoftware möglich. Werkzeuge wie Nagios stellen hierfür Schnittstellen für die Überwachung bereit.
+
+In der Softwareentwicklung kommen als Diagnosewerkzeuge unter anderem Softwaretests und Debugger zum Einsatz.
+
+Siehe auch 
+ Computerassistierte Detektion
+
+Weblinks 
+ Professional PC Diagnostic Tools (Computer Test Software); zuletzt abgerufen am 17. Juni 2012
+ PC DIAGNOSTICS (PC Diagnose Software); zuletzt abgerufen am 17. Juni 2012  (englisch)
+
+Systemsoftware
+Kraftfahrzeugtechnik

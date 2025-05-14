@@ -1,0 +1,37 @@
+Die Fehlerdiagnose ist die genaue Bestimmung der Fehlerursache und des Fehlerorts eines Fehlers in einem technischen System.
+
+Die Fehlerdiagnose ist Bestandteil des Fehlermanagements mit den Phasen Fehlererkennung, Fehlerdiagnose, Fehlerkompensation und Fehlerkorrektur.
+
+Ein Fehler ist nach DIN 55350 eine unzulässige Abweichung eines Merkmals von einer vorgegebenen Forderung.
+Die Fehlerdiagnose hat viele Gemeinsamkeiten mit der medizinischen Diagnose. So wurden viele Diagnosetechniken zunächst
+im medizinischen Bereich entwickelt und später auf technische Anwendungen übertragen (vgl. Expertensystem).
+Eine wichtige Vorgehensweise der Fehlerdiagnose ist das Hypothese & Test Verfahren, bei dem in der ersten Phase die aussichtsreichsten Fehlerhypothesen erzeugt werden (z. B. „Elektronikfehler“ oder „Softwarefehler“), die  dann in der folgenden Testphase genau untersucht werden. Somit kann frühzeitig eine Fokussierung auf die aussichtsreichsten Fehlermöglichkeiten erfolgen.
+
+Da eine Fehlerdiagnose per definitionem den Vergleich mit einem vorgegebenen Modell enthält, kann man von Redundanz sprechen,
+die für die Fehlerdiagnose ausgenutzt wird. Dabei lässt sich unterscheiden:
+ Physikalische Redundanz. Ein zweites funktionierendes System dient als Referenz, Abweichungen führen zur Fehlerursache.
+ Analytische Redundanz. Aus physikalischen Grundgleichungen beruhende mathematischen Gleichungen modellieren das Systemverhalten. Ein Modell des funktionierenden Systems kann zur Fehlererkennung verwendet werden, Modelle von möglichen Fehlern zur Fehlerdiagnose.
+ Wissensbasierte Redundanz. Das technische System wird durch qualitative Modelle – häufig durch Regeln – beschrieben.
+
+Fahrzeugtechnik 
+
+In der Fahrzeugtechnik werden neben Diagnose-Tester und Datenlogger auch Fahrzeugdiagnosesysteme zur Fehlerdiagnose eingesetzt.
+Siehe auch: Fehlerspeicher
+
+Luftfahrzeugtechnik 
+In der Luftfahrzeugtechnik und der Bahntechnik werden automatische Fahrzeugdiagnosesysteme eingesetzt, die die Funktion eines Gerätes mit der eines redundanten Gerätes vergleichen. Die Ergebnisse werden über Funk dem Betreiber  übermittelt.
+
+Literatur 
+ DIN 55350 Begriffe zu Qualitätsmanagement und Statistik
+ Louis-François Pau: Failure Diagnosis and Performance Monitoring. Marcel Dekker Press, New York 1981, ISBN 0-8247-1018-5.
+ Paul Martin Frank: Diagnoseverfahren in der Automatisierungstechnik. In: Automatisierungstechnik. Bd. 42 (1994), , S. 47–64.
+ Rolf Isermann: Fault-Diagnosis Systems. An introduction from fault detection to fault tolerance. Springer, Berlin 2005, ISBN 3-540-24112-4.
+
+Siehe auch 
+
+ Computerassistierte Detektion
+ Complex Event Processing
+
+Fehlermanagement
+Diagnostik
+Steuerungs- und Regelungstechnik

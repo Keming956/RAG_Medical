@@ -1,0 +1,129 @@
+Die kognitive Theorie der Depression (auch: kognitives Modell der Depression) ist eine vor allem von Aaron T. Beck ausgearbeitete psychologische Theorie. Sie versucht zu beschreiben, wie Depression funktioniert, und bildet den Ausgangspunkt und die Grundlage der kognitiven Verhaltenstherapie.
+
+Entstehungsgeschichte 
+Die Ideengeschichte, aus der die kognitive Theorie entstanden ist, lässt sich bis zu den Philosophen der Stoa zurückverfolgen. Epiktet schrieb im Enchiridion: „Die Menschen werden nicht durch die Dinge selbst beunruhiget, sondern durch die Meinungen, welche sie von den Dingen haben.“ Im 20. Jahrhundert forderte Alfred Adlers Individualpsychologie dazu auf, den Patienten im Kontext seiner eigenen bewussten Erlebniswelt zu verstehen. Adler schrieb 1931: „Wir leiden nicht an einem aus unseren Erfahrungen stammendem Schock – dem sogenannten Trauma –, sondern wir machen aus unseren Erfahrungen genau das, was unseren Zwecken dient.“ Leon J. Saul, Franz Alexander, Karen Horney und Harry Stack Sullivan entwickelten diesen Ansatz fort. Philosophische Anregungen kamen von Immanuel Kant, Martin Heidegger und Edmund Husserl; Karl Jaspers, Ludwig Binswanger und Erwin W. Straus wendeten diese Phänomenologie ins Psychologische. Weiteren Einfluss hatte Jean Piagets Entwicklungspsychologie.
+
+Albert Ellis begründete die eigentliche kognitive Theorie 1957, indem er das aktivierende Umwelt-Ereignis (A) über den Glauben (B) mit den emotionalen Konsequenzen (C) verknüpfte. Weitere Beiträge zur theoretischen Konzeption haben Michael Mahoney, Marvin Goldfried, Gerald Davison, Donald Meichenbaum, Alan Kazdin und Terence Wilson geliefert.
+
+Die kognitive Theorie der Depression hat 1976 Aaron T. Beck ausgearbeitet. Vorausgegangen waren ihr systematische klinische Beobachtungen und Experimente.
+
+Unterschiede zu anderen Theorien der Depression
+
+Psychoanalyse 
+Während die klassische psychoanalytische Theorie davon ausgeht, dass depressive Menschen von Masochismus bzw. von einem Leidensbedürfnis angetrieben sind, haben die Vertreter der kognitiven Verhaltenstherapie darauf hingewiesen, dass in wissenschaftlichen Untersuchungen ein solches Bedürfnis zu leiden bei depressiven Patienten nicht beobachtet worden sei. Umso augenfälliger erschien ihnen bei diesen Patienten:
+ihre harsche Selbstkritik und ihre negative Sicht auf sich selbst,
+die systematisch negative Auslegung positiver Erfahrungen, die sie mit der Welt machen, und die zu einer negativen Sicht auf die Welt führen,
+ihre negative Sicht auf die Zukunft.
+Beck und seine Kollegen erschien es naheliegend, dass eine derartig negative Generalperspektive, die durch Realitätstests offenbar nicht korrigiert wird, als Folge vielfältiger und umfangreicher kognitiver Verzerrung zu erklären sei.
+
+Während die klassische Psychoanalyse davon ausgeht, dass Depressionen durch freies Assoziieren des Patienten zu heilen sei, geht die kognitive Verhaltenstherapie davon aus, dass depressive Patienten gerade nicht ihren eigenen Gedanken überlassen bleiben dürfen, weil sie sonst immer tiefer im Morast ihrer Sorgen und ihrer negativen Kognitionen versinken.
+
+Behaviorismus 
+Ähnlich wie beim Modell der erlernten Hilflosigkeit wird Depression im klassischen Behaviorismus als ein dysfunktionales Verhalten konzipiert, das erlernt ist und darum auch wieder verlernt werden kann. Anders als beim Modell der erlernten Hilflosigkeit wird Depression in der behavioristischen Theorie jedoch nicht auf innere, sondern auf äußere Faktoren zurückgeführt, insbesondere auf Verstärkung, also auf die Verhaltensrückmeldungen, die der Patient von seiner Umwelt erfährt.
+
+Den bedeutendsten Einzelbeitrag zur behavioristischen Theorie der Depression hat 1974 Peter M. Lewinsohn geliefert. Kern seiner Verstärker-Verlust-Theorie war die These, dass Depression dann entsteht, wenn die positive Verstärkung im Leben eines Menschen zurücktritt, d. h. wenn er in äußere Lebensumstände (z. B. Isolation, Wechsel des sozialen Umfelds) gerät, die verhindern, dass er für positives Verhalten weiterhin die Belohnungen empfängt, die für seine Leistungsbereitschaft und für seine seelische Gesundheit unverzichtbar sind. Lewinsohn vermutete auch, dass manche Patienten von der Umwelt in ihrer Depression geradezu bestärkt werden, z. B. wenn Angehörige sich ihnen dienstbar machen.
+
+Die kognitive Theorie der Depression hat mit diesem Modell kaum etwas gemein. Ihre Vertreter nehmen an, dass eine Depression durch äußere Faktoren zwar ausgelöst werden kann, bezweifeln aber fundamental, dass Depression in ihrem Verlauf und ihrer Erscheinungsform durch äußere Faktoren auch determiniert ist. Die Determinanten der Depression sehen sie vielmehr in der Kognition des Patienten, einem inneren Faktor also, der beim behavioristischen Ansatz gar keine Beachtung findet.
+
+Erlernte Hilflosigkeit 
+Von Martin E. P. Seligman und Steven F. Maier wurde in den späten 1960er Jahren das Modell der erlernten Hilflosigkeit entwickelt, das einige Gemeinsamkeiten hat mit der kognitiven Theorie der Depression. Beide Modelle gehen davon aus, dass negative kognitive Stile das Risiko für Depressionen erhöhen, wenn Personen negative Lebensereignisse erleben. Entsprechend setzte Seligman in der Therapie von Depressionen ähnliche Methoden ein, wie sie auch in der kognitiven Verhaltenstherapie üblich sind. Das umfasste insbesondere, dem Patienten negative Interpretationen seiner Erfahrungen aufzuzeigen, die Prüfung der Richtigkeit solcher Interpretationen und die Suche nach akkurateren Interpretationen. Anders als Seligman hält Beck es jedoch für falsch und sogar gefährlich, negative Interpretationen durch Reframing einfach ins Positive zu wenden; ihm geht es allein um die Akkuratheit der Interpretation.
+
+Entgegengesetzt ist die kognitive Theorie der Depression auch dem depressiven Realismus von Lauren Alloy und Lyn Yvonne Abramson, die 1988 die These entwickelt haben, Depressive seien „trauriger, aber weiser“.
+
+Depression als affektive Störung 
+In der Psychiatrie wird die Depression häufig als eine affektive Störung klassifiziert, etwa in ICD-10, wo ihr ein Platz in unmittelbarer Nachbarschaft u. a. zur bipolaren Störung zugewiesen wird. Beck hält es für irreführend, eine Krankheit, die eine solche Bandbreite von Gesichtspunkten hat wie die Depression, aufs Affektive festzulegen, und schrieb ironisch, dass man ebenso gut Scharlach als Hautkrankheit klassifizieren könne.
+
+Allgemeines 
+Beck beschreibt die Depression mit Mark Schreiber als eine komplexe Störung, die kognitive, affektive, motivationale, verhaltensmäßige und vegetative Symptome umfassen kann. Für das primäre Element in der Phänomenkette hält er die Denkstörung. Zur letzten Ursache der Krankheit – d. h. ob Depressionen auf z. B. eine erbliche Disposition, fehlerhaftes Lernen, Hirnschädigung, biochemische Anomalien oder ähnliches zurückgehen – umfasst das kognitive Modell der Depression keine Aussagen.
+
+Die Kognitionen eines Menschen basieren auf Einstellungen oder Annahmen (Schemata), die wiederum aus vorausgegangenen Erfahrungen entstanden sind. Bei depressiven Patienten sind diese Schemata weithin dysfunktional und führen zu automatisierten und stereotypen negativen Gedanken. Beck spricht in diesem Zusammenhang gelegentlich auch von „gedankenlosem Denken“ (thoughtless thinking). Die Patienten sind sich der dysfunktionalen Schemata ihres Denkens meist nicht bewusst.
+
+Beck geht von folgenden Annahmen aus:
+
+ negative kognitive Triade: Die Gedankeninhalte betreffen das Selbst („Ich bin hässlich“), die Welt („Keiner liebt mich“) und die Zukunft („Es wird so unerträglich bleiben“). Der Patient hat ein negatives Selbstbild, er beurteilt sich selbst als fehlerhaft, unzulänglich, wertlos und nicht begehrenswert. Diese Gedanken gehen so weit, dass der Betroffene denkt, ihm fehlen Eigenschaften, um glücklich zu sein. Außerdem neigt er dazu, sich zu unterschätzen und zu kritisieren. Nach Beck und anderen (1975) sind Depressive vor allem dann anfällig für Suizid, wenn die Hoffnung auf eine bessere Zukunft verloren geht.
+ Schemata oder dysfunktionale Überzeugungen: Ein Beispiel für eine dysfunktionale Überzeugung wäre: „Wenn mich niemand liebt, ist mein Leben sinnlos.“ Die genannten Kognitionen gehen auf Schemata zurück, die aus vergangenen Erfahrungen entstanden sind. Mit diesem Konzept wird erklärt, warum ein depressiver Patient trotz objektiver Belege für positive Faktoren in seinem Leben seine schmerzverursachende und selbstverletzende Haltung beibehält. Schemata sind hier stabile kognitive Verarbeitungsmuster, die sich in der Kindheit und Jugend herausgebildet haben. Sie können für längere Zeit inaktiv sein, aber durch bestimmte Umweltereignisse (z. B. Stresssituationen) reaktiviert werden.
+ kognitive Verzerrungen oder Fehler: Aufgrund der in der Kindheit gelernten Schemata findet laut Beck bei Depressiven eine fehlerhafte Informationsverarbeitung statt, die dem von Piaget beschriebenen kindlichen Denken ähnelt. Die Annahmen sind eindimensional, global, invariabel, verabsolutierend oder irreversibel. Erfahrungen werden in der Regel negativ interpretiert, subjektiv werden überwiegend Enttäuschungen und Niederlagen empfunden und auch die Zukunftserwartung ist negativ geprägt. Eine Veränderung der gegenwärtig empfundenen Situation wird ebenso wenig als möglich angenommen wie eine eigene Beteiligung an dieser.
+
+Die Bereiche des depressiven Denkens: die kognitive Triade 
+Das depressive, d. h. von spontanen und scheinbar unbeherrschbaren negativen Kognitionen beherrschte Denken findet in genau drei Bereichen statt: im Denken über das Selbst (Selbstbild), im Denken über das menschliche Umfeld und im Denken über die Zukunft. Beck spricht hier von einer kognitiven Triade (auch „negative Triade“).
+
+Selbstbild 
+Depressive Patienten betrachten sich selbst als geschädigt, unzulänglich, krank oder benachteiligt, und neigen dazu, unangenehme Erfahrungen auf psychologische, moralische oder körperliche Mängel zurückzuführen, die in ihnen selbst liegen. Sie glauben, dass sie aufgrund dieser gemutmaßten Mängel wertlos und bei anderen unerwünscht seien, und unterschätzen und kritisieren sich darum. Weiterhin glauben sie, dass sie aufgrund dieser gemutmaßten Mängel weder Glück noch Zufriedenheit erleben können.
+
+Viele Symptome der Depression können als direkte Folge der problematischen Kognitionen verstanden werden, die sich in der Triade ereignen. Abhängigkeit (z. B. von einem Ex-Partner) lässt sich als Folge der systematischen Selbstunterschätzung des Patienten verstehen, der andere Personen für kompetenter und fähiger hält als sich selbst.
+
+Menschliches Umfeld 
+Depressive Menschen neigen dazu, ihre Erfahrungen auf eine negative Weise zu interpretieren. Sie stehen unter dem Eindruck, dass die Welt ihnen Ungeheuerliches abverlangt und ihnen dabei gleichzeitig massive Hindernisse in den Weg stellt. Erfahrungen mit der Welt werden stereotyp in Kategorien von Erfolg/Niederlage und von Gewährtbekommen/Deprivation verbucht.
+
+Zukunft 
+Depressive Menschen neigen zur Annahme, dass ihre gegenwärtigen Schwierigkeiten und ihr Leiden in der Zukunft kein Ende finden, und dass Unternehmungen, die sie in Angriff nehmen könnten, scheitern werden.
+
+Zu den Symptomen, die sich aus dem besonderen Zukunftsbild des depressiven Patienten erklären lassen, zählt unter anderem dessen Willenslähmung, die als Folge seines Pessimismus und seiner Hoffnungslosigkeit beschrieben werden kann (da er erwartet, dass seine Anstrengungen keinen Erfolg hervorbringen werden, unternimmt er nichts). Suizidwünsche sind ein extremer Ausdruck seines Wunsches, einer Situation zu entkommen, die ihm unerträglich und unabänderlich erscheint. Viele physische Symptome (z. B. Gewichtsverlust, Schlaflosigkeit) sind als Folge einer „psychomotorischen Hemmung“, der Apathie und des niedrigen Energieniveaus des Patienten zu erklären, der davon überzeugt ist, dass all seine Bemühungen zum Scheitern verurteilt sind.
+
+Denkschemata und depressogene Grundannahmen
+
+Schemata 
+Charakteristisch für depressive Patienten ist, dass sie bestimmte Einstellungen haben, durch die sie sich selbst Schmerz und Niederlagen bereiten. Um zu erklären, warum sie diese – für sie nachteilhaften – Einstellungen selbst dann aufrechterhalten, wenn sie durch Gegenbeweise widerlegt werden, zieht Beck das Konzept von Schemata heran.
+
+Unter einem Schema versteht er kognitive Muster, denen eine Person folgt, wenn sie einer bestimmten Umweltsituation ausgesetzt ist, diese in Begriffe kleidet und darauf reagiert; Schemata sind die Prägeform, mit der Stimuli zu Kognitionen geformt werden. Menschen kategorisieren und bewerten ihre Erfahrungen durch eine Matrix von Schemata.
+
+Diese Schemata können sich bei verschiedenen Menschen stark unterscheiden, sind bei ein und demselben Menschen meist aber recht stabil. Bei Psychopathologien wie z. B. Depressionen sind bestimmte Schemata dysfunktional, was zur Folge hat, dass der Patient bestimmte Umweltsituationen auf verzerrte Weise in Begriffe kleidet. Beispiel: „NN grüßt mich nicht, weil er mich nicht mag.“ Alternative Deutungen („NN grüßt mich nicht, weil er seine Brille nicht trägt und mich nicht erkennt“) werden systematisch ausgeschlossen.
+
+Latenz und Aktivierung 
+Die dysfunktionalen Schemata werden durch Erfahrungen geprägt, die zeitlich vor der Depression liegen. Sie bleiben meist latent; in bestimmten Situationen, die der Ur-Situation ähneln, können sie jedoch aktiviert werden.
+
+Beispiel: Ein dysfunktionales Schema, das nach dem Tode eines Elternteils in der Kindheit entstanden ist, kann aktiviert werden, wenn der Patient von seinem Ehepartner verlassen wird. Nicht jeder reagiert auf ein Verlassenwerden mit einer Depression, sondern nur solche Menschen, die aufgrund ihrer kognitiven Organisation für bestimmte Situationen besonders sensibel sind.
+
+Über die letztlichen Ursachen der Aktivierung – d. h. ob die Aktivierung durch psychischen Disstress, ein biochemisches Ungleichgewicht, hypothalamische Stimulation oder noch andere Faktoren erfolgt – werden im Rahmen der kognitiven Theorie der Depression keine Aussagen gemacht.
+
+Es kommt vor, dass ein Patient die Situation, die ihn depressiv macht, im Sinne eines Teufelskreises selbst hervorbringt. So führt ihn die Depression eventuell zum Rückzug von engen Bezugspersonen, die ihn daraufhin kritisieren oder zurückweisen, was wiederum seine eigene Rückzugsneigung verstärkt. Ebenso ist es jedoch möglich, dass nicht der Patient, sondern eine Bezugsperson den Anfang gemacht hat. Umgekehrt können harmonische Beziehungen zu nahestehenden Personen den Ausbruch einer Depression unter Umständen abfedern. Der Grad, zu dem Bezugspersonen eine Depression beeinflussen, ist von Patient zu Patient jedoch sehr uneinheitlich. Neben offensichtlich reaktiven Depressionen gibt es auch solche, bei denen sich keine ungünstigen äußeren Bedingungen aufweisen lassen.
+
+Die dysfunktionalen Schemata werden in der Depression idiosynkratisch und überaktiv und werden mit zunehmender Erkrankung auch auf Situationen angewandt, mit denen sie logisch immer weniger zu tun haben. In der schweren Depression ist der Patient vollständig eingenommen von unablässig wiederkehrenden, sich wiederholenden negativen Gedanken, und schafft es unter Umständen kaum noch, seinen Geist anderen Aufgaben zu öffnen. Der Patient verliert mehr oder weniger die Willenskontrolle über sein Denken, und die idiosynkratische Organisation seiner Kognition wird autonom.
+
+Depressogene Grundannahmen 
+Die automatischen, situationsspezifischen Gedanken liefern laut Beck die Zugangsmöglichkeit zu den dahinter liegenden, grundlegenderen und situationsübergreifenden „depressogenen Grundannahmen“. Depressogene Grundannahmen sind jene dysfunktionalen Überzeugungen, die den Betreffenden zur Depression prädispositionieren. Die Grundannahmen sind nicht unmittelbar bewusst und können vom Patienten meist erst nach längerer Introspektion artikuliert werden. Sie sind schwerer zu erkennen und zu bearbeiten als automatische Gedanken.
+Beck zählt einige Grundannahmen auf, die zur Depression dispositionieren, hier einige Beispiele:
+
+ Um glücklich zu sein, muss ich bei allem, was ich unternehme, Erfolg haben.
+ Um glücklich zu sein, muss ich immer von allen Menschen akzeptiert werden.
+ Wenn ich Fehler mache, bedeutet das, dass ich unfähig bin.
+ Ich kann ohne dich nicht leben.
+ Wenn jemand anderer Meinung ist als ich, bedeutet das, dass er mich nicht mag.
+ Mein Wert als Mensch hängt davon ab, was andere von mir denken.
+
+Die Gedanken der negativen kognitiven Triade verstärken die dysfunktionale Grundüberzeugung ebenso wie umgekehrt.
+
+Formen der kognitiven Verzerrung 
+Depressive Patienten halten am Wahrheitsgehalt ihrer negativen Konzepte auch dann fest, wenn sie durch Gegenbeweise widerlegt werden. Ursache dafür sind systematische Denkfehler. Beck identifiziert bei depressiven Patienten insbesondere sechs Formen der kognitiven Verzerrung:
+Willkürliche Rückschlüsse (arbitrary inference): Rückschlüsse („X mag mich nicht“) werden aus Anhaltspunkten gezogen, die für die betreffenden Rückschlüsse entweder unzureichend sind oder sie sogar ausschließen.
+Selektive Verallgemeinerung (selective abstraction): Aus einem Bündel von Anhaltspunkten wird ein Detail herausgeklaubt, aus dem Rückschlüsse gezogen werden („Y hat mir beim Abschied nicht die Hand gegeben, also mag er mich nicht“); Rückschlüsse aus sehr viel offensichtlicheren Anhaltspunkten („Y schien erfreut zu sein, mich getroffen zu haben, und wir hatten ein gutes, langes Gespräch“) unterbleiben.
+Voreiliges Verallgemeinern (overgeneralization, hasty generalization): Aufgrund eines einzigen Vorfalls oder aufgrund mehrerer isolierter Vorfälle wird eine allgemeine Regel aufgestellt, die nicht nur auf ähnliche Situationen angewendet wird, sondern auch auf solche Situationen, die zu den „Ur-Vorfällen“ keinerlei Ähnlichkeit aufweisen.
+„Aufblasen“ (magnification) und „Schmälern“ (minimization): Negative Ereignisse werden unangemessen hoch bewertet und positive Ereignisse in ihrer Bedeutung heruntergespielt. Beispiel: „Dass ich beim Kunden A den Vertragsabschluss hinbekommen habe, ist nichts wert. Aber dass Kunde B bis heute noch nicht zurückgerufen hat, zeigt, dass ich ein schlechter Verkäufer bin!“
+Personalisierung (personalization): Der Patient bezieht Ereignisse ohne ausreichende Anhaltspunkte auf sich selbst („Mein Kind hat dieses Jahr zwei schlechte Schulnoten. Ich habe als Mutter versagt.“).
+Dichotomes Denken (absolutistic, dichotomous thinking): Der Patient neigt dazu, alle Ereignisse in eine von zwei komplementären Kategorien zu klassifizieren (z. B. makellos/fehlerhaft, rein/schmutzig, heilig/sündhaft). Sich selbst sieht der Patient stets in der negativen Sparte.
+
+In der Fachliteratur werden weitere kognitive Verzerrungen genannt:
+
+ Katastrophisieren: Das Eintreffen oder die Bedeutung von negativen Ereignissen wird stark überbewertet: „Meinen Kindern wird bestimmt etwas Schlimmes passieren!“
+ Emotionale Beweisführung: Das Gefühl wird als Beweis für die Richtigkeit der Gedanken genommen: „Ich fühle, dass ich nichts wert bin, also ist das auch so!“
+ Etikettierung: Aus einer Handlung wird ein umfassender Sachverhalt gemacht, z. B.: „Ich habe verloren – ich bin ein absoluter Verlierer!“
+Gedankenlesen: Man meint, ohne nachzufragen die Gedanken der anderen zu kennen: „Die anderen denken, ich bin ein Versager!“
+ Tunnelblick (selektive Aufmerksamkeit): Jemand sieht nur einen bestimmten Aspekt seines gegenwärtigen Lebens: „Wenn ich Stress auf der Arbeit habe, dann ist mein Leben verpfuscht!“
+
+Gemeinsam ist diesen Denkmustern, dass sie – im Sinne von Piaget – als „primitiv“ beschrieben werden können. „Primitives“ Denken ist moralisierend und leugnet:
+dass etwas mehrere Seiten haben kann, z. B. dass eine Person gute und schlechte Eigenschaften in sich vereinen kann,
+dass zwischen den Extremen des Schwarz-Weiß-Denkens eine ganze Skala von Graustufen liegt,
+dass menschliches Verhalten situationsabhängig ist, z. B. dass jemandem bestimmte Handlungen in manchen Situationen schwerer, in anderen aber leichter fallen,
+dass Menschen sich ändern und Probleme gelöst werden können.
+Die Gedanken, die das Bewusstsein depressiver Menschen überfluten, neigen daher dazu, extrem, negativ, kategorisch, absolut und wertend zu sein; auch ihre emotionalen Reaktionen tendieren zum Negativen und zum Extremen.
+
+Automatische Gedanken 
+Von zentraler Bedeutung für das Empfinden und die depressiven Symptome des Patienten sind nach Beck die so genannten „automatischen Gedanken“. Hierunter versteht man schnell ablaufende, blitzartig auftretende, subjektiv plausibel erscheinende und sich unfreiwillig einstellende Kognitionen, die zwischen einem Ereignis (externaler oder internaler Art) und einem emotionalen Erleben (Konsequenz) liegen. Die automatischen Gedanken sind zumeist im Sinne der oben beschriebenen Denkfehler verzerrt. Diese sich aufdrängenden automatischen Gedanken sind den Patienten zumeist zu Beginn der Therapie nicht bewusst, können jedoch bewusst gemacht werden und sind dadurch der therapeutischen Bearbeitung zugänglich.
+
+Literatur
+
+Einzelnachweise 
+Alle nachfolgend aufgeführte Nachweise „Beck et al.“ beziehen sich auf: 
+
+Depression
+Kognitive Verhaltenstherapie

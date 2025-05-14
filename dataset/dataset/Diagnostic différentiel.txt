@@ -1,0 +1,55 @@
+Le diagnostic différentiel est une méthode permettant de différencier une maladie d'autres pathologies qui présentent des symptômes proches ou similaires. Ce processus vise à établir un diagnostic plus sûr via une approche méthodique qui prend en considération tant les éléments permettant d'exclure une maladie plutôt que ceux permettant de la confirmer. Le diagnostic différentiel peut aboutir à plusieurs hypothèses impossibles à départager à un instant donné, mais qui seront infirmées ou confirmées au cours du temps (évolution de la maladie) ou à l'aide d'examens complémentaires. 
+
+Ce diagnostic différentiel n'est pas exclusivement réservé aux professions médicales (médecins, dentistes et sage-femmes). Il est aussi utilisé à des fins stratégiques de traitement ou d'orientation par d'autres professions paramédicales (kinésithérapeutes), ou dans d'autres domaines de la santé comme les vétérinaires.
+
+Dans tous les cas, c'est un processus dynamique par lequel ces professionnels utilisent la méthode scientifique, leurs compétences acquises au cours de leur formation théorique et pratique, les données de la littérature, ainsi que le savoir issu de leur pratique quotidienne, pour réaliser une anamnèse, examiner le patient, et réaliser (ou prescrire selon les champs de compétences de chacune des professions)  les examens appropriés pour déterminer la nature et la gravité de la maladie présentée par le patient. 
+
+On appelle le diagnostic d'élimination ou d'exclusion, la démarche permettant d'identifier une maladie difficile à prouver, et dont le diagnostic ne doit, ou ne peut, être fait qu'après l'élimination de toutes les autres causes possibles (plus urgentes, plus graves, ou plus facile à prouver). Par exemple, la pathomimie ou les troubles du spectre d'alcoolisation fœtale nécessitent un diagnostic d'élimination.
+
+On appelle diagnostic rétrospectif, un diagnostic fait après la terminaison de la maladie ;  le diagnostic rétrospectif désigne aussi le diagnostic contemporain de pathologies anciennes ou de personnages historiques.
+
+Méthode 
+Le thérapeute émet des hypothèses sur la base de ses observations, de l'observation du patient, de l'analyse des dires du patient (anamnèse) et, si nécessaire en fonction de son champ de compétence, des tests paracliniques complémentaires (examens biologique de laboratoire, radiographie, scanner, IRM, échographie, etc.), en deux étapes :
+ il s'appuie d'abord sur des faits tels que les symptômes observables, les antécédents personnels et familiaux, le contexte socio-environnemental (par exemple, saison épidémique) ;
+ ensuite, dans une liste des maladies correspondant à ces critères, il utilise sa connaissance de la maladie, et procède par élimination, sur la base de tests (en séries successives parfois) permettant d'éliminer les hypothèses fausses. L'étude des causes possibles peut aussi contribuer à différencier le diagnostic.
+
+En pratique, l'élimination éventuelle commence par les diagnostics possibles urgents ou graves, puis par ordre de fréquence : du plus fréquent au plus rare, du plus facile à prouver au plus difficile, etc. (par exemple, une maladie rare, facile à prouver et à traiter, doit être éliminée avant une maladie plus fréquente mais pour laquelle il n'existe pas de traitement).  
+
+Le diagnostic précis peut rester inexpliqué.
+
+Les informations (ou confirmations) nouvelles tirées d'un test permettent de préciser ou confirmer un diagnostic. Mais l'absence d'amélioration à la suite d'une thérapie prescrite et qui aurait dû soulager le malade, nécessite une réévaluation, en particulier lorsque ce traitement a été empirique.
+
+Histoire 
+La méthode de diagnostic différentiel a initialement été proposée pour l'utilisation dans le diagnostic des troubles mentaux par Emil Kraepelin, pour établir des diagnostics plus précis qu'avec l'ancienne méthode plus souvent basée sur la  (impression du médecin fondée sur la vue des symptômes exprimés par son patient). Cette méthode dite aussi intuitive, reste licite tant qu'elle s'appuie sur une expérience réelle (familiarité concrète) du médecin avec la maladie en question.
+
+De nouveaux outils de diagnostic différentiel ou d'aide au diagnostic différentiel (dont informatiques ou en ligne) sont apparus depuis la fin du  . Ils visent à aider le médecin à balayer les pistes possibles pour arriver, par élimination à un diagnostic plus fiable. Pour les maladies dermatologiques, des sites contenant des bases de données photographiques aident le médecin à faire son diagnostic différentiel.
+
+Le diagnostic différentiel est mal compris du public. Et s'il est souvent utilisé dans la série télévisée Dr House, c'est de façon irréaliste (aptitude à saisir d'emblée les diagnostics les plus rares).
+
+Exemple 
+Le patient présente les symptômes A et B. Le médecin crée une liste de maladies qui comprennent les symptômes A et B. 
+Voici trois maladies qui impliquent ces deux symptômes :
+ Maladie 1 : A, B, C
+ Maladie 2 : A, B, C, D
+ Maladie 3 : A, B, X
+
+Le médecin peut tester la présence du symptôme C. Le résultat pourrait être compatible avec 1 et 2. Si le patient est positif pour C, un test pour D pourrait être utilisé pour différentier les maladies 1 et 2. Si le patient est négatif pour C, un test pour X confirmerait le diagnostic de la maladie 3.
+
+Traitement informatique 
+Des logiciels peuvent être utilisés pour effectuer un diagnostic différentiel. Certains sont conçus pour traiter des problèmes médicaux spécifiques comme la schizophrénie ou la maladie de Lyme. 
+
+D'autres systèmes, tels que DiagnosisPro, peuvent proposer une liste de diagnostics possibles d’après les symptômes du patient ou les résultats diagnostiques couvrant des milliers de maladies en médecine interne et en pédiatrie.
+
+Notes et références
+
+Voir aussi
+
+Article connexe 
+ Étiologie
+
+Lien externe 
+ Page-Ressource du CISMeF du CHU de Rouen sur le diagnostic différentiel
+
+Terme médical
+Examen médical
+Diagnostic en médecine

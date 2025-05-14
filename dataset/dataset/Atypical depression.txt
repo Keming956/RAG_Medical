@@ -1,0 +1,55 @@
+Atypical depression is defined in the DSM IV as depression that shares many of the typical symptoms of major depressive disorder or dysthymia but is characterized by improved mood in response to positive events. In contrast to those with atypical depression, people with melancholic depression generally do not experience an improved mood in response to normally pleasurable events. Atypical depression also often features significant weight gain or an increased appetite, hypersomnia, a heavy sensation in the limbs, and interpersonal rejection sensitivity that results in significant social or occupational impairment.
+
+Despite its name, "atypical" depression does not mean it is uncommon or unusual. The reason for its name is twofold: it was identified with its "unique" symptoms subsequent to the identification of melancholic depression and its responses to the two different classes of antidepressants that were available at the time were different from melancholic depression (i.e., MAOIs had clinically significant benefits for atypical depression, while tricyclics did not).
+
+Atypical depression is four times more common in females than in males. Individuals with features of atypical depression tend to report an earlier age of onset (e.g. while in high school) of their depressive episodes. These episodes tend to be more chronic than those of major depressive disorder and only have partial remission between episodes. Younger individuals may be more likely to have atypical features, whereas older individuals may more often have episodes with melancholic features. Atypical depression has high comorbidity with anxiety disorders, carries more risk of suicidal behavior, and has distinct personality psychopathology and biological traits. Atypical depression is more common in individuals with bipolar I, bipolar II, cyclothymia or seasonal affective disorder.  Depressive episodes in bipolar disorder tend to have atypical features, as does depression with seasonal patterns.
+
+Pathophysiology
+Significant overlap between atypical and other forms of depression has been observed, though studies suggest that there are differentiating factors within the various pathophysiological models of depression. In the endocrine model, evidence suggests the HPA axis is hyperactive in melancholic depression, and hypoactive in atypical depression. Atypical depression can be differentiated from melancholic depression via verbal fluency tests and psychomotor speed tests. Although both show impairment in several areas such as visuospatial memory and verbal fluency, melancholic patients tend to show more impairment than atypical depressed patients.
+
+Furthermore, regarding the inflammatory theory of depression, inflammatory blood markers (cytokines) appear to be more elevated in atypical depression when compared to non-atypical depression.
+
+Diagnosis 
+The diagnosis of atypical depression is based on the criteria stated in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). The DSM-5 defines atypical depression as a subtype of major depressive disorder that presents with "atypical features", characterized by:
+
+Mood reactivity (i.e., mood brightens in response to actual or potential positive events)
+At least two of the following:
+Significant weight gain or increase in appetite (hyperphagia);
+Hypersomnia (sleeping too much, as opposed to the insomnia present in melancholic depression);
+Leaden paralysis (i.e., heavy feeling resulting in difficulty moving the arms or legs);
+Long-standing pattern of interpersonal rejection sensitivity (not limited to episodes of mood disturbance) that results in significant social or occupational impairment.
+Criteria are not met for With Melancholic Features or With Catatonic Features during the same episode.
+
+Treatment
+Due to the differences in clinical presentation between atypical depression and melancholic depression, studies were conducted in the 1980s and 1990s to assess the therapeutic responsiveness of the available antidepressant pharmacotherapy in this subset of patients. Currently, antidepressants such as SSRIs, SNRIs, NRIs, and mirtazapine are considered the best medications to treat atypical depression due to efficacy and fewer side effects than previous treatments. Bupropion, a norepinephrine reuptake inhibitor, may be uniquely suited to treat the atypical depression symptoms of lethargy and increased appetite in adults. Modafinil is sometimes used successfully as an off-label treatment option.
+
+Before the year 2000, monoamine oxidase inhibitors (MAOIs) were shown to be of superior efficacy compared to other antidepressants for the treatment of atypical depression, and were used as first-line treatment for this clinical presentation. This class of medication fell in popularity with the advent of the aforementioned selective agents, due to concerns of interaction with tyramine-rich foods (such as some aged cheese, certain types of wine, tap beer and fava beans) causing a hypertensive crisis and some - but not all - sympathomimetic drugs, as well as the risk of serotonin syndrome when concomitantly used with serotonin reuptake agents. Despite these concerns, they are still used in treatment-resistant cases, when other options have been exhausted, and usually show greater rates of remission compared to previous pharmacotherapies. They are also generally better tolerated by many patients. There are also newer selective and reversible MAOIs, such as moclobemide, which carry a much lower risk of tyramine potentiation and have fewer interactions with other drugs.
+
+Tricyclic antidepressants (TCAs) were also used prior to the year 2000 for atypical depression, but were not as efficacious as MAOIs, and have fallen out of favor with prescribers due to the less tolerable side effects of TCAs and more adequate therapies being available.
+
+One pilot study suggested that psychotherapy such as cognitive behavioral therapy (CBT) may have equal efficacy to MAOIs for a subset of patients with atypical depression, although the sample size was small and statistical significance was not reached. These are talk therapy sessions with psychiatrists to help the individual identify troubling thoughts or experiences that may affect their mental state, and develop corresponding coping mechanisms for each identified issue.
+
+Epidemiology
+True prevalence of atypical depression is difficult to determine. Several studies conducted in patients diagnosed with a depressive disorder show that about 40% exhibit atypical symptoms, with four times more instances found in female patients.
+
+ Research also supports that atypical depression tends to have an earlier onset, with teenagers and young adults more likely to exhibit atypical depression than older patients. Patients with atypical depression have shown to have higher rates of neglect and abuse in their childhood as well as alcohol and drug disorders in their family. Overall, rejection sensitivity is the most common symptom, and due to some studies forgoing this criterion, there is concern for underestimation of prevalence.
+
+Research
+Atypical depression was first thought of as a disorder separate from typical depression in 1959, when doctors E.D. West and P. J. Dally were studying the effects of iproniazid, an MAOI, on patients with depression. They found consistencies among the patients who responded well to the drug in comparison to those who didn't. These patients, who were displaying symptoms of "anxiety hysteria with secondary depression", responded notably well to the iproniazid. 
+
+In general, atypical depression tends to cause greater functional impairment than other forms of depression. Atypical depression is a chronic syndrome that tends to begin earlier in life than other forms of depression—usually beginning in the teenage years. Similarly, patients with atypical depression are more likely to suffer from personality disorders and anxiety disorders such as borderline personality disorder, avoidant personality disorder, generalized anxiety disorder, obsessive-compulsive disorder, and bipolar disorder.
+
+Recent research suggests that young people are more likely to suffer from hypersomnia while older people are more likely to suffer from polyphagia.
+
+Medication response differs between chronic atypical depression and acute melancholic depression. Some studies suggest that the older class of antidepressants, monoamine oxidase inhibitors (MAOIs), may be more effective at treating atypical depression. While the more modern SSRIs and SNRIs are usually quite effective in this illness, the tricyclic antidepressants typically are not. The wakefulness-promoting agent modafinil has shown considerable effect in combating atypical depression, maintaining this effect even after discontinuation of treatment. Antidepressant response can often be enhanced with supplemental medications, such as buspirone, bupropion, or aripiprazole. Psychotherapy, whether alone or in combination with medication, is also an effective treatment in individual and group settings.
+
+See also 
+
+ Masked depression
+ Treatment-resistant depression
+
+References
+
+External links 
+
+Major depressive disorder

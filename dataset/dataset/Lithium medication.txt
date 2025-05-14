@@ -1,0 +1,217 @@
+Lithium compounds, also known as lithium salts, are primarily used as a psychiatric medication. They are primarily used to treat bipolar disorder and treat major depressive disorder that does not improve following the use of antidepressants. In these disorders, it reduces the risk of suicide. Lithium is taken orally.
+
+Common side effects include increased urination, shakiness of the hands, and increased thirst. Serious side effects include hypothyroidism, diabetes insipidus, and lithium toxicity. Blood level monitoring is recommended to decrease the risk of potential toxicity. If levels become too high, diarrhea, vomiting, poor coordination, sleepiness, and ringing in the ears may occur. Lithium is teratogenic, especially during the first trimester of pregnancy and at higher dosages. The use of lithium while breastfeeding is controversial; however, many international health authorities advise against it, and the long-term outcomes of perinatal lithium exposure have not been studied. The American Academy of Pediatrics lists lithium as contraindicated for pregnancy and lactation. The United States Food and Drug Administration categorizes lithium as having positive evidence of risk for pregnancy and possible hazardous risk for lactation.
+
+Lithium salts are classified as mood stabilizers. How lithium works is not specifically known.
+
+In the nineteenth century, lithium was used in people who had gout, epilepsy, and cancer. Its use in the treatment of mental disorders began in 1948 by John Cade in Australia. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2019, it was the 205th most commonly prescribed medication in the United States, with more than 2.6million prescriptions.
+
+Medical uses
+
+Lithium is approved by the United States Food and Drug Administration (FDA) for treatment of bipolar disorder, which is its primary use. It is sometimes used when other treatments are not effective in a number of other conditions, including major depression, schizophrenia, disorders of impulse control, and some psychiatric disorders in children. Because the FDA has not approved lithium for the treatment of other disorders, such use off-label. In mood disorders, of which bipolar disorder is one, it decreases the risk of suicide. This benefit is not seen with other medications.
+
+Bipolar disorder
+Lithium is primarily used as a maintenance drug in the treatment of bipolar disorder to stabilize mood and prevent manic episodes, but it may also be helpful in the acute treatment of manic episodes. Lithium carbonate treatment was previously considered to be unsuitable for children; however, more recent studies show its effectiveness for treatment of early-onset bipolar disorder in children as young as eight. The required dosage is slightly less than the toxic level (representing a low therapeutic index), requiring close monitoring of blood levels of lithium carbonate during treatment. A limited amount of evidence suggests lithium carbonate may contribute to treatment of substance use disorders for some people with bipolar disorder.
+
+Schizophrenic disorders
+Lithium is recommended for the treatment of schizophrenic disorders only after other antipsychotics have failed; it has limited effectiveness when used alone. The results of different clinical studies of the efficacy of combining lithium with antipsychotic therapy for treating schizophrenic disorders have varied.
+
+Major depressive disorder
+Lithium is widely prescribed as a treatment for depression.
+
+Augmentation
+If therapy with antidepressants does not fully treat the symptoms of major depressive disorder (MDD) then a second augmentation agent is sometimes added to the therapy. Lithium is one of the few augmentation agents for antidepressants to demonstrate efficacy in treating MDD in multiple randomized controlled trials and it has been prescribed (off-label) for this purpose since the 1980s.
+
+Monotherapy
+There are a few old studies indicating efficacy of lithium for acute depression with lithium having the same efficacy as tricyclic antidepressants. A recent study concluded that lithium works best on chronic and recurrent depression when compared to modern antidepressant (i.e. citalopram) but not for patients with no history of depression.
+
+Prevention of suicide
+Lithium is efficacious in preventing suicidal behavior for people having psychiatric disorders as well as remitted patients.
+
+Monitoring
+Those who use lithium should receive regular serum level tests and should monitor thyroid and kidney function for abnormalities, as it interferes with the regulation of sodium and water levels in the body, and can cause dehydration. Dehydration, which is compounded by heat, can result in increasing lithium levels. The dehydration is due to lithium inhibition of the action of antidiuretic hormone, which normally enables the kidney to reabsorb water from urine. This causes an inability to concentrate urine, leading to consequent loss of body water and thirst.
+
+Lithium concentrations in whole blood, plasma, serum or urine may be measured using instrumental techniques as a guide to therapy, to confirm the diagnosis in potential poisoning victims or to assist in the forensic investigation in a case of fatal overdosage. Serum lithium concentrations are usually in the range of 0.5–1.3 mmol/L (0.5–1.3 mEq/L) in well-controlled people, but may increase to 1.8–2.5 mmol/L in those who accumulate the drug over time and to 3–10 mmol/L in acute overdose.
+
+Lithium salts have a narrow therapeutic/toxic ratio, so should not be prescribed unless facilities for monitoring plasma concentrations are available. Doses are adjusted to achieve plasma concentrations of 0.4 to 1.2 mmol /L  on samples taken 12 hours after the preceding dose.
+
+Given the rates of thyroid dysfunction, thyroid parameters should be checked before lithium is instituted and monitored after 3–6 months and then every 6–12 months.
+
+Given the risks of kidney malfunction, serum creatinine and eGFR should be checked before lithium is instituted and monitored after 3–6 months at regular interval. Patients who have a rise in creatinine on three or more occasions, even if their eGFR is > 60 ml/min/
+1.73m2 require further evaluation, including a urinalysis for haematuria, proteinuria, a review of their medical history with attention paid to cardiovascular, urological and medication history, and blood pressure control and management. Overt proteinuria should be further quantified with a urine protein to creatinine ratio.
+
+Discontinuation
+For patients who have achieved long term remission, it is recommended to discontinue lithium gradually and in a controlled fashion.
+
+Cluster headaches, migraine and hypnic headache
+Studies testing prophylactic use of lithium in cluster headaches (when compared to verapamil), migraine attacks and hypnic headache indicate good efficacy.
+
+Adverse effects
+Sources for the following lists.
+
+Very Common (> 10% incidence) adverse effects of lithium include
+ Confusion
+ Constipation (usually transient, but can persist in some)
+ Decreased memory
+ Diarrhea (usually transient, but can persist in some)
+ Dry mouth
+ EKG changes — usually benign changes in T waves.
+ Hand tremor (usually transient, but can persist in some) with an incidence of 27%. If severe, psychiatrist may lower lithium dosage, change lithium salt type or modify lithium preparation from long to short acting (despite lacking evidence for these procedures) or use pharmacological help.
+ Headache
+ Hyperreflexia — overresponsive reflexes.
+ Leukocytosis — elevated white blood cell count
+ Muscle weakness (usually transient, but can persist in some)
+ Myoclonus — muscle twitching.
+ Nausea (usually transient)
+ Polydipsia — increased thirst.
+ Polyuria — increased urination.
+ Renal (kidney) toxicity which may lead to chronic kidney failure
+ Vomiting (usually transient, but can persist in some)
+ Vertigo
+ Weight gain
+
+Common (1–10%) adverse effects include
+ Acne
+ Extrapyramidal side effects — movement-related problems such as muscle rigidity, parkinsonism, dystonia, etc.
+ Euthyroid goitre — i.e. the formation of a goitre despite normal thyroid functioning.
+ Hypothyroidism — a deficiency of thyroid hormone. 
+ Hair loss/hair thinning
+
+Unknown
+ Sexual dysfunction
+ Hypoglycemia
+
+Lithium is known to be responsible for 1–2 kg of weight gain. Weight gain may be a source of low self-esteem for the clinically depressed.
+
+In addition to tremors, lithium treatment appears to be a risk factor for development of parkinsonism symptoms, although the causal mechanism remains unknown.
+
+Most side effects of lithium are dose-dependent. The lowest effective dose is used to limit the risk of side effects.
+
+Hypothyroidism
+The rate of hypothyroidism is around six times higher in people who take lithium. Low thyroid hormone levels in turn increase the likelihood of developing depression. People taking lithium thus should routinely be assessed for hypothyroidism and treated with synthetic thyroxine if necessary.
+
+Because lithium competes with the antidiuretic hormone in the kidney, it increases water output into the urine, a condition called nephrogenic diabetes insipidus. Clearance of lithium by the kidneys is usually successful with certain diuretic medications, including amiloride and triamterene. It increases the appetite and thirst ("polydypsia") and reduces the activity of thyroid hormone (hypothyroidism). The latter can be corrected by treatment with thyroxine and does not require the lithium dose to be adjusted. Lithium is also believed to permanently affect renal function, although this does not appear to be common.
+
+Pregnancy and breast feeding 
+Lithium is a teratogen, causing birth defects in a small number of newborn babies. Case reports and several retrospective studies have demonstrated possible increases in the rate of a congenital heart defect known as Ebstein's anomaly, if taken during a woman's pregnancy. As a consequence, fetal echocardiography is routinely performed in pregnant women taking lithium to exclude the possibility of cardiac anomalies. Lamotrigine seems to be a possible alternative to lithium in pregnant women for the treatment of acute bipolar depression or for the management of bipolar patients with normal mood. Gabapentin and clonazepam are also indicated as  antipanic medications during the childbearing years and during pregnancy. Valproic acid and carbamazepine also tend to be associated with teratogenicity.
+
+While it appears to be safe to use while breastfeeding a number of guidelines list it as a contraindication including the British National Formulary.
+
+Kidney damage
+Lithium has been associated with several forms of kidney injury.  It is estimated that impaired urinary concentrating ability is present in at least half of individuals on chronic lithium therapy, a condition called lithium-induced nephrogenic diabetes insipidus. Continued use of lithium can lead to more serious kidney damage in an aggravated form of diabetes insipidus. Chronic kidney disease caused by lithium has not been proven with various contradicting results presented by a 2018 review. In rare cases, some forms of lithium-caused kidney damage may be progressive and lead to end-stage kidney failure with a reported incidence of 0.2% to 0.7%.
+
+Hyperparathyroidism
+Lithium-associated hyperparathyroidism is the leading cause of hypercalcemia in lithium-treated patients. Lithium may lead to exacerbation of pre-existing primary hyperparathyroidism or cause an increased set-point of calcium for parathyroid hormone suppression, leading to parathyroid hyperplasia.
+
+Interactions
+Lithium plasma concentrations are known to be increased with concurrent use of diuretics—especially loop diuretics (such as furosemide) and thiazides—and non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen. Lithium concentrations can also be increased with concurrent use of ACE inhibitors such as captopril, enalapril, and lisinopril.
+
+Lithium is primarily cleared from the body through glomerular filtration, but some is then reabsorbed together with sodium through the proximal tubule. Its levels are therefore sensitive to water and electrolyte balance. Diuretics act by lowering water and sodium levels; this causes more reabsorption of lithium in the proximal tubules so that the removal of lithium from the body is less, leading to increased blood levels of lithium. ACE inhibitors have also been shown in a retrospective case-control study to increase lithium concentrations. This is likely due to constriction of the afferent arteriole of the glomerulus, resulting in decreased glomerular filtration rate and clearance. Another possible mechanism is that ACE inhibitors can lead to a decrease in sodium and water. This will increase lithium reabsorption and its concentrations in the body.
+
+There are also drugs that can increase the clearance of lithium from the body, which can result in decreased lithium levels in the blood. These drugs include theophylline, caffeine, and acetazolamide. Additionally, increasing dietary sodium intake may also reduce lithium levels by prompting the kidneys to excrete more lithium.
+
+Lithium is known to be a potential precipitant of serotonin syndrome in people concurrently on serotonergic medications such as antidepressants, buspirone and certain opioids such as pethidine (meperidine), tramadol, oxycodone, fentanyl and others. Lithium co-treatment is also a risk factor for neuroleptic malignant syndrome in people on antipsychotics and other antidopaminergic medications.
+
+High doses of haloperidol, fluphenazine, or flupenthixol may be hazardous when used with lithium; irreversible toxic encephalopathy has been reported.
+Indeed, these and other antipsychotics have been associated with increased risk of lithium neurotoxicity, even with low therapeutic lithium doses.
+
+Overdose
+
+Lithium toxicity, which is also called lithium overdose and lithium poisoning, is the condition of having too much lithium in the blood. This condition also happens in persons that are taking lithium in which the lithium levels are affected by drug interactions in the body.
+
+In acute toxicity, people have primarily gastrointestinal symptoms such as vomiting and diarrhea, which may result in volume depletion. During acute toxicity, lithium distributes later into the central nervous system resulting in mild neurological symptoms, such as dizziness.
+
+In chronic toxicity, people have primarily neurological symptoms which include nystagmus, tremor, hyperreflexia, ataxia, and change in mental status. During chronic toxicity, the gastrointestinal symptoms seen in acute toxicity are less prominent. The symptoms are often vague and nonspecific.
+
+If the lithium toxicity is mild or moderate, lithium dosage is reduced or stopped entirely. If the toxicity is severe, lithium may need to be removed from the body.
+
+Mechanism of action
+The specific biochemical mechanism of lithium action in stabilizing mood is unknown.
+
+Upon ingestion, lithium becomes widely distributed in the central nervous system and interacts with a number of neurotransmitters and receptors, decreasing norepinephrine release and increasing serotonin synthesis.
+
+Unlike many other psychoactive drugs,  typically produces no obvious psychotropic effects (such as euphoria) in normal individuals at therapeutic concentrations.
+Lithium may also increase the release of serotonin by neurons in the brain. In vitro studies performed on serotonergic neurons from rat raphe nuclei have shown that when these neurons are treated with lithium, serotonin release is enhanced during a depolarization compared to no lithium treatment and the same depolarization.
+
+Lithium both directly and indirectly inhibits GSK-3β which results in the activation of mTOR. This leads to an increase in neuroprotective mechanisms by facilitating the Akt signaling pathway. Importantly, GSK-3β is a downstream target of monoamine systems. As such, it is directly implicated in cognition and mood regulation. During mania, GSK-3β is activated via dopamine overactivity. GSK-3β inhibits the transcription factors β-catenin and cyclic AMP (cAMP) response element binding protein (CREB), by phosphorylation. This results in a decrease in the transcription of important genes encoding for neurotrophins In addition, several authors proposed that pAp-phosphatase could be one of the therapeutic targets of lithium. This hypothesis was supported by the low Ki of lithium for human pAp-phosphatase compatible within the range of therapeutic concentrations of lithium in the plasma of people (0.8–1 mM). Importantly, the Ki of human pAp-phosphatase is ten times lower than that of GSK3β (glycogen synthase kinase 3β). Inhibition of pAp-phosphatase by lithium leads to increased levels of pAp (3′-5′ phosphoadenosine phosphate), which was shown to inhibit PARP-1
+
+Another mechanism proposed in 2007 is that lithium may interact with nitric oxide (NO) signalling pathway in the central nervous system, which plays a crucial role in neural plasticity. The NO system could be involved in the antidepressant effect of lithium in the Porsolt forced swimming test in mice. It was also reported that NMDA receptor blockage augments antidepressant-like effects of lithium in the mouse forced swimming test, indicating the possible involvement of NMDA receptor/NO signaling in the action of lithium in this animal model of learned helplessness.
+
+Lithium possesses neuroprotective properties by preventing apoptosis and increasing cell longevity.
+
+Although the search for a novel lithium-specific receptor is ongoing, the high concentration of lithium compounds required to elicit a significant pharmacological effect leads mainstream researchers to believe that the existence of such a receptor is unlikely.
+
+Oxidative metabolism
+Evidence suggests that mitochondrial dysfunction is present in patients with bipolar disorder.
+Oxidative stress and reduced levels of anti-oxidants (such as glutathione) lead to cell death. Lithium may protect against oxidative stress by up-regulating complex I and II of the mitochondrial electron transport chain.
+
+Dopamine and G-protein coupling
+During mania, there is an increase in neurotransmission of dopamine that causes a secondary homeostatic down-regulation, resulting in decreased neurotransmission of dopamine, which can cause depression.  Additionally, the post-synaptic actions of dopamine are mediated through G-protein coupled receptors.  Once dopamine is coupled to the G-protein receptors, it stimulates other secondary messenger systems that modulate neurotransmission. Studies found that in autopsies (which do not necessarily reflect living people), people with bipolar disorder had increased G-protein coupling compared to people without bipolar disorder. Lithium treatment alters the function of certain subunits of the dopamine associated G-protein, which may be part of its mechanism of action.
+
+Glutamate and NMDA receptors
+Glutamate levels are observed to be elevated during mania. Lithium is thought to provide long-term mood stabilization and have anti-manic properties by modulating glutamate levels. It is proposed that lithium competes with magnesium for binding to NMDA glutamate receptor,  increasing the availability of glutamate in post-synaptic neurons. 
+The NMDA receptor is also affected by other neurotransmitters such as serotonin and dopamine. Effects observed appear exclusive to lithium and have not been observed by other monovalent ions such as rubidium and caesium.
+
+GABA receptors
+GABA is an inhibitory neurotransmitter that plays an important role in regulating dopamine and glutamate neurotransmission. It was found that patients with bipolar disorder had lower GABA levels, which results in excitotoxicity and can cause apoptosis (cell loss). Lithium has been shown to increase the level of GABA in plasma and cerebral spinal fluid. Lithium counteracts these degrading processes by decreasing pro-apoptotic proteins and stimulating release of neuroprotective proteins. Lithium's regulation of both excitatory dopaminergic and glutamatergic systems through GABA may play a role in its mood stabilizing effects.
+
+Cyclic AMP secondary messengers
+Lithium's therapeutic effects are thought to be partially attributable to its interactions with several signal transduction mechanisms. The cyclic AMP secondary messenger system is shown to be modulated by lithium. Lithium was found to increase the basal levels of cyclic AMP but impair receptor coupled stimulation of cyclic AMP production. It is hypothesized that the dual effects of lithium are due to the inhibition of G-proteins that mediate cyclic AMP production. Over a long period of lithium treatment, cyclic AMP and adenylate cyclase levels are further changed by gene transcription factors.
+
+Inositol depletion hypothesis
+Lithium treatment has been found to inhibit the enzyme inositol monophosphatase, involved in degrading inositol monophosphate to inositol required in PIP2 synthesis. This leads to lower levels of inositol triphosphate, created by decomposition of PIP2. This effect has been suggested to be further enhanced with an inositol triphosphate reuptake inhibitor. Inositol disruptions have been linked to memory impairment and depression. It is known with good certainty that signals from the receptors coupled to the phosphoinositide signal transduction are affected by lithium. myo-inositol is also regulated by the high affinity sodium mI transport system (SMIT). Lithium is hypothesized to inhibit mI entering the cells and mitigating the function of SMIT. Reductions of cellular levels of myo-inositol results in the inhibition of the phosphoinositide cycle
+
+Neurotrophic Factors
+Various neurotrophic factors such as BDNF and mesencephalic astrocyte-derived neurotrophic factor have been shown to be modulated by various mood stabilizers.
+
+History
+Lithium was first used  in the 19th century as a treatment for gout after scientists discovered that, at least in the laboratory, lithium could dissolve uric acid crystals isolated from the kidneys. The levels of lithium needed to dissolve urate in the body, however, were toxic. Because of prevalent theories linking excess uric acid to a range of disorders, including depressive and manic disorders, Carl Lange in Denmark and William Alexander Hammond in New York City used lithium to treat mania from the 1870s onwards. By the turn of the 20th century, as theory regarding mood disorders evolved and so-called "brain gout" disappeared as a medical entity, the use of lithium in psychiatry was largely abandoned; however, a number of lithium preparations were still produced for the control of renal calculi and uric acid diathesis. As accumulating knowledge indicated a role for excess sodium intake in hypertension and heart disease, lithium salts were prescribed to patients for use as a replacement for dietary table salt (sodium chloride). This practice and the sale of lithium itself were both banned in 1949, following publication of reports detailing side effects and deaths.
+
+Also in 1949, the Australian psychiatrist John Cade rediscovered the usefulness of lithium salts in treating mania. Cade was injecting rodents with urine extracts taken from manic patients in an attempt to isolate a metabolic compound which might be causing mental symptoms. Since uric acid in gout was known to be psychoactive, (adenosine receptors on neurons are stimulated by it; caffeine blocks them), Cade needed soluble urate for a control. He used lithium urate, already known to be the most soluble urate compound, and observed that it caused the rodents to become tranquil. Cade traced the effect to the lithium ion itself, and after ingesting lithium himself to ensure its safety in humans, he proposed lithium salts as tranquilizers. He soon succeeded in controlling mania in chronically hospitalized patients with them. This was one of the first successful applications of a drug to treat mental illness, and it opened the door for the development of medicines for other mental problems in the next decades.
+
+The rest of the world was slow to adopt this treatment, largely because of deaths which resulted from even relatively minor overdosing, including those reported from use of lithium chloride as a substitute for table salt. Largely through the research and other efforts of Denmark's Mogens Schou and Paul Baastrup in Europe, and Samuel Gershon and Baron Shopsin in the U.S., this resistance was slowly overcome. The application of lithium in manic illness was approved by the United States Food and Drug Administration in 1970, becoming the 50th state to do so. In 1974, this application was extended to its use as a preventive agent for manic-depressive illness.
+
+Ronald R. Fieve, who had opened the first lithium clinic in North America in 1966, helped popularize the psychiatric use of lithium through his national TV appearances and his bestselling book, Moodswing. In addition, Fieve and David L. Dunner developed the concept of "rapid cycling" bipolar disorder based on non-response to lithium.
+
+Lithium has now become a part of Western popular culture. Characters in Pi,  Premonition, Stardust Memories,  American Psycho, Garden State, and An Unmarried Woman all take lithium. It's the chief constituent of the calming drug in Ira Levin's dystopian This Perfect Day. Sirius XM Satellite Radio in North America has a 1990s alternative rock station called Lithium, and several songs refer to the use of lithium as a mood stabilizer. These include: "Equilibrium met Lithium" by South African artist Koos Kombuis, "Lithium" by Evanescence, "Lithium" by Nirvana, "Lithium and a Lover" by Sirenia, "Lithium Sunset", from the album Mercury Falling by Sting, and "Lithium" by Thin White Rope.
+
+7 Up
+
+As with cocaine in Coca-Cola, lithium was widely marketed as one of a number of patent medicine products popular in the late-19th and early-20th centuries, and was the medicinal ingredient of a refreshment beverage. Charles Leiper Grigg, who launched his St. Louis-based company The Howdy Corporation, invented a formula for a lemon-lime soft drink in 1920. The product, originally named "Bib-Label Lithiated Lemon-Lime Soda", was launched two weeks before the Wall Street Crash of 1929. It contained the mood stabilizer lithium citrate, and was one of a number of patent medicine products popular in the late-19th and early-20th centuries. Its name was soon changed to 7 Up. All American beverage makers were forced to remove lithium in 1948.  Despite the 1948 ban, in 1950 the Painesville Telegraph still carried an advertisement for a lithiated lemon beverage.
+
+Salts and product names
+Many different lithium salts can be used as medication, including lithium carbonate, lithium acetate, lithium sulfate, lithium citrate, lithium orotate, and lithium gluconate.
+
+Lithium carbonate (), sold under several trade names, is the most commonly prescribed, while lithium citrate () is also used in conventional pharmacological treatments. Lithium orotate (), has been presented as an alternative. Lithium bromide and lithium chloride have been used in the past as table salt; however, they fell out of use in the 1940s, when it was discovered they were toxic in those large doses. Many other lithium salts and compounds exist, such as lithium fluoride and lithium iodide, but they are presumed to be as toxic or more so than the chloride and have never been evaluated for pharmacological effects.
+
+As of 2017 lithium was marketed under many brand names worldwide, including Cade, Calith, Camcolit, Carbolim, Carbolit, Carbolith, Carbolithium, Carbolitium, Carbonato de Litio, Carboron, Ceglution, Contemnol, D-Gluconsäure, Lithiumsalz, Efadermin (Lithium and Zinc Sulfate), Efalith (Lithium and Zinc Sulfate), Elcab, Eskalit, Eskalith, Frimania, Hypnorex, Kalitium, Karlit, Lalithium, Li-Liquid, Licarb, Licarbium, Lidin, Ligilin, Lilipin, Lilitin, Limas, Limed, Liskonum, Litarex, Lithane, Litheum, Lithicarb, Lithii carbonas, Lithii citras, Lithioderm, Lithiofor, Lithionit, Lithium, Lithium aceticum, Lithium asparagicum, Lithium Carbonate, Lithium Carbonicum, Lithium Citrate, Lithium DL-asparaginat-1-Wasser, Lithium gluconicum, Lithium-D-gluconat, Lithiumcarbonaat, Lithiumcarbonat, Lithiumcitrat, Lithiun, Lithobid, Lithocent, Lithotabs, Lithuril, Litiam, Liticarb, Litijum, Litio, Litiomal, Lito, Litocarb, Litocip, Maniprex, Milithin, Neurolepsin, Plenur, Priadel, Prianil, Prolix, Psicolit, Quilonium, Quilonorm, Quilonum, Téralithe, and Theralite.
+
+Research
+
+Tentative evidence in Alzheimer's disease showed that lithium may slow progression.
+ It has been studied for its potential use in the treatment of amyotrophic lateral sclerosis (ALS), but a study showed lithium had no effect on ALS outcomes.
+
+See also
+ Lithia water
+ Sodium in biology
+
+References
+
+Further reading
+
+External links
+
+"Exposing lithium's circadian action"
+https://web.archive.org/web/20040811012851/http://www.psycheducation.org/depression/meds/moodstabilizers.htm
+"Lithium Basics"
+CID 11125 — PubChem Compound Summary (Lithium Carbonate)
+
+Biology and pharmacology of chemical elements
+Drugs with unknown mechanisms of action
+Lithium
+Lithium in biology
+Metal-containing drugs
+Mood stabilizers
+Nephrotoxins
+World Health Organization essential medicines
+Wikipedia medicine articles ready to translate

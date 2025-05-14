@@ -1,0 +1,95 @@
+Estetrol (E4) is an estrogen medication and naturally occurring steroid hormone which is used in combination with a progestin in combined birth control pills and is under development for various other indications. These investigational uses include menopausal hormone therapy to treat symptoms such as vaginal atrophy, hot flashes, and bone loss and the treatment of breast cancer and prostate cancer. It is taken by mouth.
+
+Estetrol is a naturally occurring and bioidentical estrogen, or an agonist of the estrogen receptor, the biological target of estrogens like endogenous estradiol. Due to its estrogenic activity, estetrol has antigonadotropic effects and can inhibit fertility and suppress sex hormone production and levels in both women and men. Estetrol differs in various ways both from other natural estrogens like estradiol and synthetic estrogens like ethinylestradiol, with implications for tolerability and safety. For instance, it appears to have minimal estrogenic effects in the breasts and liver. Estetrol interacts with nuclear ERα in a manner identical to that of the other estrogens  and distinct from that observed with Selective Estrogen Receptor Modulators (SERMs).
+
+Estetrol was first discovered in 1965, and basic research continued up until 1984. It started to be studied again as well as investigated for potential medical use in 2001, and by 2008, was of major interest for possible medical use. As of 2021, estetrol is in mid- to late-stage clinical development for a variety of indications.
+
+Available forms 
+Estetrol is available in combination with drospirenone in the following formulations, brand names and indications:
+
+ Estetrol (as monohydrate) 15 mg and drospirenone 3 mg Nextstellis (CA and US) – combined oral contraception
+ Estetrol (as monohydrate) 15 mg and drospirenone 3 mg Drovelis (EU) - combined oral contraception
+ Estetrol (as monohydrate) 15 mg and drospirenone 3 mg Lydisilka (EU) - combined oral contraception
+
+Side effects
+Minimal side effects have been observed with estetrol in women. In men, decreased libido (in 40%) and nipple tenderness (in 35%) have been observed with high-dose (20–40 mg/day) estetrol for four weeks. The medication poses a risk of endometrial hyperplasia and endometrial cancer in women similarly to other estrogens. As such, it is necessary to combine estetrol with a progestogen in women with intact uteruses to prevent such risks. The safety of estetrol alone in women with an intact uterus is currently being investigated.
+
+Pharmacology
+
+Pharmacodynamics
+Estetrol is an agonist of the estrogen receptors (ERs), and hence is an estrogen. It has moderate affinity for ERα and ERβ, with Ki values of 4.9 nM and 19 nM, respectively. As such, estetrol has 4- to 5-fold preference for ERα over ERβ. For comparison, the potent nonsteroidal estrogen diethylstilbestrol showed higher affinities for ERs, with Ki values of 0.286 nM for ERα and 0.199 nM for ERβ. Similarly, estetrol has low affinity for ERs relative to estradiol, and thus both estetrol and the related estrogen estriol require substantially higher concentrations than estradiol to produce similar effects. The affinity of estetrol for ERs is about 0.3% (rat) to 6.25% (human) of that of estradiol, and its in vivo potency in animals is about 2 to 3% of that of estradiol. In women, estetrol has been found to be approximately 10 to 20 times less potent orally than ethinylestradiol, the most potent oral estrogen available. The high oral potency of estetrol in women in spite of relatively low affinity for the ERs is related to its high metabolic stability and favorable pharmacokinetics.
+
+Estetrol shows high selectivity for the ERs. It showed only 11 to 15% occupation of the androgen, progesterone, and glucocorticoid receptors at a very high concentration of 10 μM. In addition, estetrol showed no affinity (>10 μM) for a set of 124 receptors and enzymes, with the sole exception of very weak affinity for the α1B-adrenergic receptor (23% inhibition of prazosin binding at a concentration of 10 μM). Due to its high selectivity for the ERs, estetrol is anticipated to have a low risk of undesirable off-target activity and associated side effects. Furthermore, estetrol showed no inhibition of the major cytochrome P450 enzymes CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4 at a very high concentration of 10 μM, unlike estradiol and ethinylestradiol. Conversely, estetrol moderately stimulated CYP3A4 (by 23%), while estradiol strongly stimulated CYP3A4 (by 83%) and ethinylestradiol moderately inhibited the enzyme (by 45%). These findings suggest that estetrol has a low potential for drug interactions, including a lower potential than estradiol and particularly ethinylestradiol.
+
+Differences from other estrogens
+Estetrol has potent estrogenic effects in bone, vagina, uterus (both myometrium and endometrium), arteries, and certain areas of the brain like the pituitary gland and hypothalamus (in terms of hot flash relief, antigonadotropic effects, and ovulation inhibition). It has comparable efficacy to ethinylestradiol on bone turnover and hot flashes and to estradiol valerate on vaginal atrophy. In addition, estetrol has stimulatory effects on the endometrium and poses a risk of endometrial hyperplasia and endometrial cancer similar to other estrogens. Conversely, the effects of estetrol in certain other tissues such as breast/mammary gland, liver, vascular tissue, and various brain areas differ, with weakly estrogenic or even antiestrogenic effects occurring in such tissues. Based on its mixed effects in different tissues, estetrol has been described as a unique, "natural" estrogen, demonstrating absence of specific membrane receptor effects, and an interaction with ERα different from SERMs. 
+
+Estetrol has a low estrogenic effect in breast/mammary gland, and when administered in combination with estradiol, antagonizes the effects of estradiol. Relative to estradiol, estetrol shows 100-fold lower potency in stimulating the proliferation of human breast epithelial cells in vitro and of mouse mammary gland cells in vivo. In animal models, estetrol shows antiestrogenic effects, antagonizing the stimulatory effects of estradiol and preventing tumor development in a 7,12-dimethylbenz(a)anthracene (DMBA) mammary tumor model. As such, it is anticipated that estetrol may cause minimal proliferation of breast tissue and that it may be useful in the treatment of breast cancer.
+
+Estetrol has relatively minimal effects on liver function. In contrast to estradiol and ethinylestradiol, estetrol does not stimulate the hepatic production of SHBG in vitro. In addition, it has been found to produce minimal changes in liver protein synthesis in women relative to ethinylestradiol, including production of sex hormone-binding globulin (SHBG), corticosteroid-binding globulin (CBG), angiotensinogen (AGT), ceruloplasmin, cholesterol, triglycerides, estrogen-sensitive coagulation proteins, insulin-like growth factor 1 (IGF-1), and insulin-like growth factor-binding proteins (IGFBPs). In a clinical study, 10 mg/day estetrol showed only 15 to 20% of the increase of 20 μg/day ethinylestradiol on SHBG and AGT levels (both dosages being oral contraceptive dosages). For comparison, it has been reported that a dosage of estradiol that is of similar potency to ethinylestradiol in terms of  suppression and hot flash relief possesses about 25% of the potency of ethinylestradiol on SHBG increase and about 35% of the potency of ethinylestradiol on AGT increase. Estetrol has shown only minor effects on hemostatic biomarkers, including both on coagulation and fibrinolysis. Due to its minimal influence on liver function, estetrol is expected to have a lower risk of venous thromboembolism (VTE), a serious but rare adverse effect of all known estrogens, and other undesirable side effects. Also, oral estrogens like ethinylestradiol are associated with a reduction in lean body mass due to suppression of hepatic IGF-1 production, and this may not be expected with estetrol.
+
+Estetrol has potent estrogenic effects in the brain in terms of relief of hot flashes, antigonadotropic effects, and ovulation inhibition. However, animal studies investigating the effects of estetrol on levels of allopregnanolone and β-endorphin in various brain areas have shown weak estrogenic effects when given alone and antiestrogenic effects in the presence of estradiol, suggesting that estetrol may have SERM-like effects in some regions of the brain by mediating weak estrogenic effects on the levels of allopregnanolone and β-endorphin when administered alone, or by causing antiestrogenic effects in the presence of estradiol in-vivo. Estetrol has mixed effects in the vascular system similarly. It has been found to have estrogenic effects on atheroma prevention in arteries (and hence might be expected to have beneficial effects on atherosclerosis), but has antiestrogenic effects against estradiol-induced endothelial nitric oxide synthase activation and acceleration of endothelial healing.
+
+Antigonadotropic effects
+Administration of single doses of estetrol to postmenopausal women strongly suppressed secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), demonstrating potent antigonadotropic effects. Levels of LH were not suppressed by a dose of 0.1 or 1 mg, were slightly suppressed by a dose of 10 mg, and were profoundly suppressed by a dose of 100 mg (by a maximum of 48% 4-hours post-dose). A profound and sustained inhibition of FSH levels (by a maximum of 41% 48-hours post-dose), lasting up to a week, was found with a 100 mg dose of estetrol (other doses were not assessed). The antigonadotropic effects of estetrol result in inhibition of ovulation and hence are involved in its hormonal contraceptive effects in women. In addition, the antigonadotropic effects of estetrol cause suppression of gonadal sex hormone production. In healthy men, 40 mg/day estetrol suppressed total testosterone levels by 60% and estradiol levels by 62% when measured at day 28 of administration. In another study of healthy men, testosterone levels were suppressed with estetrol therapy by 28% at 20 mg/day, by 60% at 40 mg/day, and by 76% at 60 mg/day after 4 weeks. Suppression of testosterone levels is the primary basis for the use of estetrol in the treatment of prostate cancer.
+
+Pharmacokinetics
+
+The oral bioavailability of estetrol in rats was 70% relative to subcutaneous injection. The high oral bioavailability of estetrol  is in contrast to estradiol, estrone, and estriol (all very low, in the range of 5% and below), but is more similar to ethinylestradiol (38–48%). Estetrol shows a high and linear dose–response relationship across oral doses of 0.1 to 100 mg in humans, and shows low interindividual variability. Upon oral administration, estetrol is very rapidly absorbed, with maximal levels in blood occurring within 15 to 80 minutes. At a dosage of 20 mg/day estetrol, peak levels of estetrol of 3,490 pg/mL and trough levels of 2,005 pg/mL have been reported. The high water solubility of estetrol makes it optimal for passage of the blood–brain barrier, and the drug may be expected to have effects in the central nervous system. In accordance, estetrol shows clear central effects such as alleviation of hot flashes and antigonadotropic effects in humans. In terms of plasma protein binding, estetrol is bound moderately to albumin, and is not bound to SHBG. This is in contrast to estradiol, which binds to SHBG with high affinity, but is similar to estriol and ethinylestradiol, which have only very low affinity for SHBG. Due to its lack of affinity for SHBG, the plasma distribution or availability for target tissues of estetrol is not limited or otherwise influenced by SHBG.
+
+Estetrol is metabolized slowly and minimally, and is not transformed into other estrogens such as estradiol, estrone, or estriol. This is related to the fact that estetrol is already an end-stage product of phase I estrogen metabolism in humans. The medication is conjugated via glucuronidation and to a lesser extent via sulfation. The biological half-life of estetrol is about 28 hours, with a range of 18 to 60 hours. The blood half-lives of estradiol and estriol, at about 1 to 2 hours and 20 minutes, respectively, are far shorter than that of estetrol, whereas the biological half-life of ethinylestradiol, at approximately 20 hours, is more similar to that of estetrol. Enterohepatic recirculation may occur with estetrol, similarly to other steroidal estrogens, although it has also been reported that estetrol does not seem to enter the enterohepatic circulation. Estetrol is excreted mostly or completely in urine, virtually entirely in the form of conjugates (unconjugated accounting for 0.2–0.7%). In one study, a median of 79.7% (range 61.1–99.0%) was recovered from urine; this was primarily as estetrol glucuronide (median 60.7%, range 47.6–77.2%), and, to a lesser extent, as estetrol sulfate (median 17.6%, range 13.2–22.1%).
+
+Chemistry
+
+Estetrol, also known as 15α-hydroxyestriol or as estra-1,3,5(10)-triene-3,15α,16α,17β-tetrol, is a naturally occurring estrane steroid and a derivative of estrin (estra-1,3,5(10)-triene). It has four hydroxyl groups, which is the basis for its abbreviation of E4. For comparison, estriol (E3) has three hydroxyl groups, estradiol (E2) has two hydroxyl groups, and estrone (E1) has one hydroxyl group and one ketone.
+
+Synthesis
+Chemical syntheses of estetrol have been published.
+
+History
+Estetrol was discovered in 1965 by Egon Diczfalusy and coworkers at the Karolinska Institute in Stockholm, Sweden, via isolation from the urine of pregnant women. Basic research on estetrol was conducted from 1965 to 1984. It was established that estetrol is exclusively synthesized in the human fetal liver. In 1984, estetrol was regarded as a weak estrogen, which hampered its interest, and further research was virtually abandoned. Subsequently, in 2001 Pantarhei Bioscience re-started to investigate estetrol using state-of-the-art technologies, with the sole reasoning that estetrol must have some biological role or function of importance as it would not be produced in such high quantities in the fetus otherwise. By 2008, estetrol was of major interest for potential clinical use, and development was in-progress. As of 2020, the phase III clinical development (in combination with drospirenone) for hormonal contraception has been completed and it is in mid- to late-stage clinical development for a variety of other indications. It was initially developed by Pantarhei Bioscience and Estetra SA (subsequently renamed Estetra SPRL), and is now being developed by Mithra Pharmaceuticals.
+
+Society and culture
+
+Legal status 
+Estetrol 15 mg in combination with drospirenone 3 mg has been approved for the use of hormonal contraception in Europe, the US  and Canada  and is pending approval in other countries.
+
+Generic names
+Estetrol is the generic name of the drug and its .
+
+Research
+Estetrol is under development for use alone for a variety of indications. Applications include menopausal hormone therapy among others. The phase III clinical development of estetrol for vasomotor symptoms and genitourinary symptoms of menopause has been initiated in October 2019. As of June 2018, it is in phase II clinical trials for breast cancer and prostate cancer.
+
+In addition to a single-drug formulation, estetrol is being developed in combination with the progestin drospirenone for hormonal contraception (use as a birth control pill) to prevent pregnancy. Drospirenone is a potent antimineralocorticoid and antiandrogen in addition to progestogen, and in relation to this, is said to have a progesterone-like medication profile. The clinical development program for hormonal contraception of the estetrol/drospirenone combination has been completed, and as of 2020, the dossier is under review by both the European Medicines Agency (EMA) and the U.S. Food and Drug Administration (FDA).
+
+Estetrol has been studied in humans at oral doses of 0.1 to 100 mg. Dosages of between 2 and 40 mg/day estetrol have been studied in postmenopausal women and found to be effective in the alleviation of menopausal symptoms.
+
+Overdose
+High single doses of estetrol of 100 mg have been studied in women and were found to be well-tolerated. Estetrol is 10 to 20 times less potent orally than the highly potent estrogen ethinylestradiol. During pregnancy, estetrol levels increase to high concentrations of about 723 pg/mL on average in the mother and about 9,034 pg/mL on average in the fetus (measured via umbilical cord blood) by term. Estetrol levels are 10 to 20 times higher in the fetal circulation than in the maternal circulation (which is a consequence of the fact that estetrol is produced exclusively in the fetal liver). The production of high amounts of estetrol during pregnancy suggests that it may be a reasonably safe compound at such concentrations.
+
+Interactions
+Estetrol shows minimal to no inhibition or induction of cytochrome P450 enzymes. In addition, estetrol undergoes minimal phase I metabolism by CYP450 enzymes, but is conjugated via glucuronidation and to a lesser extent sulfation and then excreted. As such, estetrol is expected to harbor a low risk for drug interactions.
+
+See also 
+
+ Estetrol (medication)
+ Birth control pill formulations
+ Estrogens and progestogens 
+ Drospirenone/estetrol
+
+References
+
+Further reading
+
+External links 
+ 
+
+Antigonadotropins
+Estranes
+Estrogens
+Hormonal antineoplastic drugs
+Hormonal contraception
+Immunomodulating drugs
+Phenols
+Polyols
+Selective estrogen receptor modulators

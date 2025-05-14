@@ -1,0 +1,130 @@
+Le dépistage prénatal de l'autisme est l'ensemble des pratiques médicales ayant pour but de détecter in utero l'autisme chez l'embryon ou le fœtus, majoritairement via des microdélétions chromosomiques. En cours de développement, il soulève des questions éthiques de par la grande variabilité des profils évolutifs de personnes autistes, et le risque élevé d'avortements sélectifs pouvant en découler. La première autorisation officielle de procéder à une interruption de grossesse en cas de suspicion d'autisme est accordée en Australie-Occidentale en 2013. Plusieurs méthodes ont été explorées : mesure d'hormones dans le liquide amniotique, IRM, recherches de mutations génétiques spécifiques. La plus fiable est l'analyse des puces à ADN chromosomiques. Plusieurs « dépistages » via prélèvement sanguin sont disponibles depuis 2019, bien que la nature polygénique de l'autisme rende ces tests peu fiables. Un nombre croissant de centres de diagnostic prénatal proposent ces tests, dont celui de l'hôpital américain de Paris. 
+
+Les intentions d'avortement sélectif sont variables selon les pays et les cultures concernés. Fin 2019, deux tiers des mères taïwanaises d'enfants autistes sont favorables à l'accès à ces tests, et plus de la moitié demandent l'interruption de leur grossesse en cas de suspicion de trouble du spectre de l'autisme (TSA). La majorité des parents sont favorables à ces tests, considérant qu'il leur revient d'effectuer le choix de donner naissance, ou non, à un enfant autiste. Quelques professionnels de santé, tels que Laurent Mottron et Simon Baron-Cohen, ainsi que la majorité des associations de personnes elles-mêmes autistes, dénoncent le risque eugéniste lié à la commercialisation de ces tests, notamment à travers la création de The autistic genocide clock (l'horloge du génocide des autistes). L'ONU adresse un avertissement officiel fin 2019, quant au risque d'appauvrissement de la diversité humaine qui pourrait découler d'un nombre élevé d'avortements sélectifs ciblant l'autisme.
+
+Méthodes 
+Le dépistage prénatal de l'autisme a fait l'objet de diverses théories et méthodes d'investigation. En 2015, une équipe hongroise souligne le faible nombre d'anomalies chromosomiques détectables (0,3 à 0,6 % des cas), et suggère d'utiliser comme indicateur la mesure du diamètre bipariétal au cours du premier trimestre de la grossesse. En 2020, l'analyse des puces à ADN chromosomiques est considérée comme la méthode la plus fiable et la plus précise, en particulier par comparaison au caryotypage. 
+
+Ces tests restent cependant limités dans leur précision et leur pertinence. L'une des raisons est que les causes des troubles du spectre de l'autisme (TSA) soient multifactorielles. Une autre réside dans l'impossibilité de prédire la trajectoire évolutive d'une personne autiste, certaines restant très lourdement handicapées à l'âge adulte, d'autres menant une vie relativement autonome, voire, devenant surdouées : .
+
+Amniocentèse 
+
+Les prémices de cette recherche remontent au psychologue britannique Simon Baron-Cohen, qui publie en 2009 dans le British Journal of Psychology : des niveaux élevés de testostérone dans le liquide amniotique sont prédictifs de traits d'autisme, cela pouvant être détecté par amniocentèse. Il précise aussi que cela ne permet pas (encore) de dépistage prénatal. 
+
+En 2016, une étude californienne sur les taux comparés d'estriol, de gonadotrophine chorionique, et d'alpha-fœtoprotéine à mi-grossesse suggère de l'utiliser comme indicateur de probabilité d'autisme.
+
+Prélèvement sanguin 
+
+Un dépistage sanguin sur une délétion chromosomique spécifique à une forme d'autisme ainsi qu'à d'autres conditions, fiable à 80 %, est évoqué en 2014, ce taux de succès étant considéré comme trop faible pour en faire un dépistage prénatal. En 2018, la fiabilité de ce test sanguin passe à 92 %. La détection statistique d'un  chez l'enfant à naître d'une femme enceinte est alors devenue particulièrement fiable.
+
+D'après Spectrum News, le test génétique à partir de prélèvements sanguins est en cours de développement en juillet 2019. En janvier 2021, une équipe de l'université de Californie à Davis et de l'université de Stanford annonce avoir développé un test efficace sur 20 % des formes d'autisme, basé sur la détection des anticorps dans le sang maternel.
+
+IRM 
+
+Début 2014, un groupe de chercheurs américains découvre grâce à l'IRM une  propre aux fœtus autistes. La neuroscientifique en pédiatrie Moriah Thomason (Université de Wayne State), commente cette découverte en déclarant que .
+
+Analyse du sperme du père 
+Il est suggéré en 2018 que des différences de nature épigénétique dans le sperme du père puissent accroître la probabilité d'autisme chez l'enfant. L'année suivante, une étude sur le séquençage du sperme du père, menée à l'Université de Californie à San Diego, permet d'affiner la prédiction d'autisme et suggère d'ajouter les données d'analyse du sperme à celles utilisées en conseil génétique.
+
+Mutations génétiques recherchées 
+La mutation SHANK3, découverte par l'équipe française du  Thomas Bourgeron en 2007 et présente chez 2 à 3 % des personnes autistes, est souvent associée à du handicap mental. Les mutations SHANK1 et SHANK2 prédisent, à priori, un plus faible degré de handicap. Ces mutations sont détectables avant la naissance, pouvant théoriquement donner lieu à un dépistage prénatal les ciblant.
+
+Le syndrome de duplication inversée du chromosome 15 (15q11-q13), qui concerne une naissance sur  environ, est associé à l'autisme dans la majorité des cas. Son dépistage prénatal est possible, mais ce dernier ne peut prédire la sévérité des symptômes. La microdélétion 3q29 est impliquée dans une susceptibilité à l'autisme, mais aussi à la schizophrénie, et aux troubles anxieux. Un dépistage prénatal et un diagnostic préimplantatoire de cette cette microdélétion sont possibles.
+
+L’hôpital de Toronto publie en 2010 un communiqué annonçant avoir trouvé une mutation sur un gène du chromosome X, présente chez 1 % des garçons autistes, en évoquant l'arrivée future d'un test génétique. Les mutations concernées sont des duplications d'une région du chromosome X, nommées neuroligin 3 (NLGN3) et neuroligin 4 (NLGN4X).
+
+Histoire 
+En 2004, la professeure de neurologie Isabelle Rapin estimait le développement du dépistage prénatal corrélé à la découverte d'une mutation monogénique (la première ayant été découverte par Thomas Bourgeron en 2007) ou à un ensemble d'anomalies génétiques cohérentes, dans le cadre de conseil génétique. En 2006, les attentes parentales vis à vis d'un dépistage prénatal du syndrome de l'X fragile, pouvant être associé à l'autisme, sont étudiées : l'autisme y est cité comme « facteur de risque ». Le questionnement éthique relatif à au dépistage de l'autisme est publiquement abordé en février 2007 par le psychiatre franco-québécois Laurent Mottron. L'année suivante, Renate Lindeman, une mère néerlandaise de deux enfants trisomiques, signale les attentes sociétales pour des dépistages prénataux de l'autisme et de la vulnérabilité au cancer.
+
+Le , Spectrum News indique que le séquençage prénatal des mutations génétiques liées à l'autisme pourrait être bientôt disponible. La  Sarah Adelaide Crawford, du département de biologie de la , pose, en août 2019, la question de savoir s'il est temps d'autoriser un examen prénatal du risque d'autisme à plus grande échelle.
+
+Pays et établissements autorisant le dépistage de l'autisme et l'avortement 
+En 2020, il n'existe pas de législations particulières pour encadrer le dépistage prénatal des troubles du spectre de l'autisme dans la plupart des régions du monde, dont Taïwan, ni de ressources littéraires à ce sujet, mises à la disposition des obstétriciens et des futurs parents.
+
+En 2013, les autorités médicales de l'Australie-Occidentale donnent pour la première fois au monde une autorisation officielle de dépistage génétique, et de recours à une interruption de grossesse en cas de détection de  chez un embryon masculin, le taux d'autisme étant plus bas chez les embryons féminins. Ce test est réservé aux familles ayant déjà un enfant autiste, et souhaitant éviter la naissance d'un deuxième enfant autiste. Il suscite de vives critiques en raison, notamment, de cette différenciation par sexe. Jacques Testart déclare à ce sujet .
+
+L'unité de diagnostic prénatal de l'hôpital américain de Paris pratique, au moins depuis 2018, le dépistage de certaines mutations à l'origine de l'autisme, proposant ensuite une interruption médicale de grossesse à la future mère. En 2019, en Israël, ce type de dépistage suivi de proposition d'interruption de grossesse est également proposé. Le test génétique prénatal est disponible à petite échelle dans certains organismes spécialisés des États-Unis, au moins depuis 2019. 
+
+À Taïwan, un dépistage génétique prénatal par amniocentèse est proposé aux femmes enceintes, indépendamment des antécédents familiaux, pendant les semaines 16 à 20 de la gestation (suivi d'une proposition d'interruption de la grossesse), afin de détecter les risques du fœtus pour diverses maladies génétiques et génomiques, ainsi que pour les TSA au moins depuis 2019.
+
+Questionnements éthiques et sociaux 
+
+La détection de marqueurs génétiques peut être utilisée à des fins d'élimination, plutôt que d'amélioration de la vie des personnes autistes. Andrew Whitehouse souligne que l'annonce de l'autorisation du dépistage et de l'avortement accordée pour la première fois au monde en Australie-Occidentale, en 2013, a entraîné de nombreuses réactions, allant de la demande d'extension de cette autorisation d'avortement aux fœtus féminins, jusqu'à l'accusation d'eugénisme.
+
+Les parents ayant effectué des dépistages prénataux indiquant une probabilité d'autisme jugent, à compétences égales de l'enfant, leurs enfants comme étant moins compétents à l'âge d'un an que ceux ayant reçu des dépistages concluant qu'ils sont . Une étude auprès de 184 mères d'enfants autistes, aux États-Unis, montre une forte implication de facteurs psychosociaux et des conseils des professionnels de la santé dans le choix de recourir, ou non, à un dépistage génétique. 
+
+L'influence des professionnels de santé (et en particulier des obstétriciens) sur la décision finale de la future mère est analysée comme importante. Plusieurs témoignages de parents français font état de remarques très négatives de la part de sages-femmes, suggérant que les bébés autistes ne devraient pas vivre.
+
+Risque d'eugénisme 
+
+Le rapport de Catalina Devandas-Aguilar daté du  et publié par l'ONU signale que : 
+
+Un risque d'eugénisme (sous la forme de l'eugénisme libéral, reposant sur une demande massive de futurs parents) existe, comme le reconnaît notamment le  Andrew Whitehouse. L'augmentation de demandes d'avortement sélectif lorsqu'un dépistage prénatal de l'autisme sera disponible à grande échelle est certaine. De nombreux parents craignent la responsabilité d'élever un enfant ayant des difficultés de développement, et peuvent décider d'interrompre une grossesse en fonction des résultats d'un test prénatal. 
+D'après une première enquête réalisée aux États-Unis en 2014, . Une étude menée auprès de 333 mères d'enfants autistes à Taïwan en 2019 montre que les deux tiers (66,6 %) acceptent la détection prénatale des gènes de susceptibilité à l'autisme, et que plus de la moitié (53,1 %) mettraient hypothétiquement fin à leur grossesse en cas de détection positive : les auteurs estiment que ces résultats sont applicables à d'autres pays fortement influencés par la culture chinoise, ainsi qu'aux pays occidentaux. Une explication réside dans le fait qu'avoir un enfant autiste, ou plus largement un enfant handicapé, est une cause d'importante stigmatisation sociale à Taïwan.
+
+La proportion de parents qui décident de ne pas avoir de nouvel enfant en raison de l'autisme du premier varie selon les pays, étant beaucoup plus élevée en Californie (un parent sur trois) qu'au Danemark (6 %). En Israël, malgré une approche très libérale et une pratique fort répandue du dépistage prénatal, le taux d'avortements sélectifs reste dans la moyenne des pays occidentaux.
+
+Soutiens
+
+De parents ou futurs parents 
+Les futurs parents sont généralement favorables à l'accès aux tests permettant de détecter les mutations génétiques associées à l'autisme chez les fœtus, considérant , ainsi que comme une opportunité de se préparer à la naissance d'un enfant à besoins spécifiques. 
+
+En 2012, un premier sondage mené auprès de citoyens américains d'origine chinoise montre une forte attente pour la commercialisation d'un test de dépistage prénatal de l'autisme, essentiellement dans l'objectif de recourir à l'avortement. En France, en 2018, une enquête anonyme auprès de la clientèle du centre de dépistage prénatal de l'hôpital américain de Neuilly montre que 85 % des parents ou futurs parents interrogés sont favorables au dépistage prénatal de l'autisme.
+
+À Taïwan, en 2018, une série d'interviews avec 39 parents d'enfants autistes actifs dans des associations montre que la plupart sont favorables au dépistage, là aussi, majoritairement dans l'objectif de solliciter ensuite une demande d'avortement. En 2020, une seconde étude taïwanaise montre une forte proportion de cette demande d'avortement pour motif d'autisme parmi les femmes jeunes, plutôt que chez les femmes plus âgées. Cette étude établit aussi une relation nette entre l'acceptabilité sociale du dépistage prénatal, et l'intention d'avorter.
+
+De professionnels de santé 
+Le médecin Andrew Whitehouse, de l'Université d'Australie-Occidentale, ainsi que les chercheurs hongrois qui ont publié en 2015, justifient le recours à une interruption de grossesse par le fait que l'autisme entraîne le plus souvent une réduction de la qualité de vie des personnes concernées.
+
+Michael Snyder, directeur du Centre de génomique et de médecine personnalisée de la , déclare en janvier 2018 que .
+
+En janvier 2021, l'épique américaine de l'université de Californie à Davis et de l'Université Stanford justifie le développement de son test par le fait que .
+
+De politiques 
+En 2019, le député français Philippe Berta, généticien, s'est déclaré favorable au dépistage prénatal de l'autisme.
+
+Oppositions
+
+De parents ou futurs parents 
+Les parents opposés à ce type de tests, un tiers environ d'après l'étude publiée en 2018 à Taïwan, évoquent des motifs religieux, une croyance personnelle, des doutes sur la valeur perçue et l'exactitude du test, et des inquiétudes quant aux conséquences négatives du test. L'opposition au dépistage prénatal et à l'avortement est un fait plus largement partagé parmi les communautés religieuses.
+
+Dans The Guardian, en 2009, Charlotte Moore, mère de deux enfants autistes non-verbaux et autrice d'un ouvrage autobiographique, explique son opposition à ces tests par le fait que . En 2021, Catherine Des Rivières-Pigeon, professeure de sociologie à l’Université du Québec à Montréal et mère de deux enfants autistes, souligne .
+
+De professionnels de santé 
+
+En février 2007, le professeur au département de psychiatrie à l'Université de Montréal Laurent Mottron déclare qu'avec le séquençage des gènes liés à l'autisme, . Simon Baron-Cohen souligne en 2009 le risque d'une politique eugéniste, et rappelle que certains autistes sont aussi des génies talentueux. Commentant sa codirection d'une étude montrant une différence de développement cérébral entre embryons autistes et non-autistes, il réaffirme en août 2020 son opposition à l'eugénisme et à l'élimination des personnes autistes.
+
+De même, interrogé sur l'arrivée future d'un dépistage prénatal de l'autisme en 2012, le médecin français Didier Sicard répond .
+
+Mottron et Baron-Cohen considèrent l'ancien diagnostic dit « Asperger » comme un avantage adaptatif.
+
+De personnes autistes 
+
+D'après le  en droit  et Rebecca Leah Levine, l'opposition des personnes handicapées au dépistage de leur propre handicap en vue d'un avortement constitue un fait socialement connu, dans un contexte où le point de vue médical est largement entendu et diffusé pour mettre en place des politiques de dépistage et d'interruption de grossesse, au contraire de celui des personnes handicapées, qui font face à une menace de « génocide génétique ». En 2005, l'activiste Meg Evans créée un décompte (Clock) programmé pour dix ans en réponse à une déclaration publique du chercheur  Joseph Buxbaum, selon lequel la recherche génétique en autisme devrait permettre la création d'un dépistage prénatal en une dizaine d'années. Evans souligne que le développement de ce test pourrait mener à l'avortement en masse des fœtus détectés comme autistes, ce qu'elle qualifie de . Elle créée l′Autistic Genocide Clock afin de sensibiliser au risque de génocide de la population autiste, dressant des parallèles avec les tentatives historiques d'élimination de groupes minoritaires. Evans arrête son décompte en 2011, en constatant une évolution culturelle en faveur de la neurodiversité.
+
+D'après la sociologue française Brigitte Chamak, Martijn Dekker, un citoyen hollandais diagnostiqué autiste, a créé l’association Aspies For Freedom en 2004 . L'acteur et militant français Hugo Horiot, également autiste, déclare en 2018 que le développement d'un dépistage prénatal est le plus grand risque pesant sur cette population.
+Interrogé au sujet de son ouvrage Nos intelligences multiples, Josef Schovanec, docteur en philosophie et sociologie, également autiste, créateur du néologisme « auticide » (désignant l'élimination d'une personne parce qu'autiste), estime que lorsque le dépistage prénatal sera disponible, les personnes autistes disparaîtront progressivement.
+
+Pour le militant américain Ari Ne'eman, . 
+Le collectif québécois Aut'Créatifs s'est opposé à la commercialisation future de ces tests, parlant de « solution finale » ; Lucila Guerrero, cofondatrice de ce collectif et mère d'un enfant autiste, dénonce une  qui ne pourra que .
+
+L'association française CLE-Autistes (Collectif pour la liberté d'expression des autistes) a dénoncé l'eugénisme et les « auticides » pratiqués à l'Hôpital américain de Paris.
+
+Notes et références
+
+Annexes
+
+Articles connexes 
+Mouvement pour les droits des personnes autistes
+Héritabilité de l'autisme
+Diagnostic prénatal
+Avortement sélectif
+
+Bibliographie 
+.
+
+.
+.
+
+Autisme
+Bioéthique

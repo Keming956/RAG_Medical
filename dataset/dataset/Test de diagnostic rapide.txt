@@ -1,0 +1,110 @@
+Un test de diagnostic rapide ou test de dépistage rapide (TDR) est un test de dépistage qui permet d'établir rapidement (en quelques minutes) la présence ou le niveau d'un composé (l'analyte) en vue d'établir un diagnostic, par exemple un marqueur de maladie ou un paramètre physiologique. Les TDR réalisent en général des réactions chimiques ou enzymatiques ou immunologiques, qui font apparaître une coloration particulière permettant d'interpréter immédiatement le résultat. Ils se présentent comme des kits à usage unique (consommables) regroupant des tubes et flacons, des bandelettes ou des cassettes (parfois appelées savonnettes). D'autres dispositifs de diagnostic recourent à des détecteurs électroniques (optoélectroniques, thermiques, de conductance,...) rarement à usage unique, ce qui en fait des équipements ou appareils de diagnostic de laboratoire (non traités ici). Les TDR sont conçus pour être utilisables au cabinet du médecin mais aussi au chevet du patient (Point Of Care), ou pour certaines applications par le particulier lui-même, et sur le terrain (Field tests) pour l'environnement, ou enfin pour le contrôle de contamination dans l'industrie. 
+
+Il existe des tests de diagnostic rapide pour dépister de nombreuses maladies infectieuses (angine, paludisme, VIH) , d'autres évaluent des paramètres médicaux particuliers pathologiques (diabète) ou non (grossesse, accident cardiaque). Par ailleurs, des tests rapides sont disponibles pour applications non médicales, comme l'analyse de paramètres biochimiques dans l'eau (par ex. piscines), l'air, les aliments
+
+Les échantillons analysables sont typiquement, dans le domaine médical, du sang (ou sérum ou plasma), de l’urine, de la salive, ou des selles, et en environnement de l'eau, le sol, une surface. 
+
+Des accessoires de prélèvement sont nécessaires (prélèvements nasaux pour les tests Influenza ou PCR COVID, prélèvements de gorge pour le streptocoque A, prélèvements urétraux ou cervicaux pour la détection de la chlamydia).
+
+Fonctionnement 
+Il existe 3 grands types de fonctionnements : 
+ par immunoprécipitation sur membranes (ou immunochromatographie sur bandelettes (ICB), et en anglais lateral flow test, strip test) ; ces tests utilisent un anticorps ou un antigène, l'un ou l'autre ou les deux étant marqués par l'or colloïdal ou des particules de latex, et réagissant pour générer une couleur visible sur une bande de la membrane (ou faire disparaitre la couleur préalablement présente). C'est le cas de la plupart des tests rapides d'infection bactérienne, qui le plus souvent détectent les anticorps induits dans le sang, plus rarement l'agent infectieux lui-même. L'immuno-détection procure plus de sensibilité et de spécificité, par exemple pour détecter et identifier des drogues comme le THC ;
+ par réaction biochimique entre une enzyme et un substrat qui est converti en couleur visible. Le test détecte une enzyme de l'échantillon, ou un analyte qui est le substrat, le glucose par exemple. C'est le cas de la plupart des tests de paramètres sanguins ;
+ par réaction chimique entre un réactif et un substrat qui est converti en couleur visible. Le test détecte un composé de l'échantillon par une réaction chimique plus ou moins spécifique de ce composé. C'est le cas de la détection de contaminants protéiques dans les process en industrie, de l'identification de drogues comme le THC. Une variante analogue met en jeu comme réactif un colorant qui s'adsorbe (et non pas réagit chimiquement) sur l'analyte, c'est le cas du test de visualisation d'empreintes ou de sang sur une surface (test utilisé en criminalistique).
+
+Applications 
+Les applications des tests rapides sont multiples, du médical/paramédical à l'environnement ou l'industrie.
+
+Médical 
+Un des tests rapides les plus connus est le test de grossesse vendu au grand public dans les magasins de détail.
+
+Une autre application populaire est la quantification du glucose sanguin chez les diabétiques. Cette application est ensuite couplée à une source d’illumination permettant une quantification de l’absorbance dans certaines longueurs d’onde et ainsi permettant d’établir avec certitude la concentration des glucides plasmatiques.
+
+Analyses légales 
+Des tests rapides existent pour la police et diverses instances de contrôle, pour des contrôles de terrain, avant de les confirmer ou préciser par des tests de laboratoire. Par exemple, la détection de l'alcool dans le sang (ethylotest), pour le contrôle routier. Mais aussi la détection et la pré-identification de drogues dans la salive ou l'urine, et sur les surfaces. 
+
+La visualisation du sang sur des scènes de crime utilise un réactif (souvent le luminol) et un détecteur (UV, ou luminescent). La visualisation d'empreintes digitales peut se faire au moyen d'un colorant tel que le noir amido.
+
+Environnement 
+Les tests rapides sont développés pour analyser sur le terrain des échantillons du milieu environnemental. Un premiers format correspond aux bandelettes d'indicateurs colorés pour mesurer l'acidité/alcalinité de l'eau et autres liquides (leur pH), et de divers ions. Un autre format consiste en un ou deux tubes avec un réactif développant aussi une réaction colorée, à partir d'un échantillon liquide ou solide. Un autre format comprend un dispositif de prélèvement et un support de culture pour l'identification de bactéries. Enfin, dans le domaine médical, des tests immunométriques existent pour des analytes que seul un anticorps permet de détecter spécifiquement, mais des formats multi-échantillons et multi-paramétriques sont souvent plus efficaces en laboratoire après une campagne de collecte d'échantillons. Par exemple, certains anticorps spécifiques aux métaux lourds ont été identifiés et permettent de les détecter dans plusieurs matrices, en commençant par l’eau destinée à la consommation humaine. La détection par un test rapide de la contamination des milieux par des agents pathogènes pourrait s’avérer utile en présence de menaces croissantes et mondialisées (virus et autres épidémies. Ex détection du SARS-Cov2 dans les stations d'épuration comme suivi épidémiologique du Covid19).
+
+Tests rapides colorimétriques sur membrane (bandelettes, ou strips) 
+Le dispositif et la manipulation sont des plus simples : le réactif est immobilisé sur une bande de papier ou plastique et change de couleur en peu de temps lorsqu'il est trempé dans l'échantillon (qui doit être liquide). C'est le cas par exemple des bandelette de détection du pH ou du chlore de l'eau d'une piscine. Elles utilisent un ou plusieurs (jusqu'à 4) indicateurs colorés.
+
+Tests rapides colorimétriques en solution 
+Ces tests sont analogues au bandelette test, mais réalisent un virage coloré en solution, et acceptent des détections plus complexes (avec enzyme, voire anticorps). Il s'agit de kits comprenant un ou plusieurs tubes, un ou plusieurs réactifs, des accessoires pour la collecte de l'échantillon (solide ou liquide) et son transfert, et de réactifs liquides. L'échantillon est simplement déposé dans un tube contenant un réactif liquide. Une incubation plus ou moins longue développe une couleur (ou un changement de couleur) que l'on apprécie visuellement (par tout ou rien, ou par comparaison avec une échelle de couleurs). Certaines détections/analytes demandent que l'incubation soit faite en chauffant (incubateur), ou qu'un deuxième réactif soit ajouté. Dans certaines configurations, il peut y avoir un réactif solide, le réactif solide ou liquide (ou une phase du réactif liquide) devant alors être éliminé, par une étape de filtration.
+
+Tests colorimétriques sur gel (microbiologie) 
+Ces tests fonctionnent un peu sur le principe des tests colorimétriques ci dessus, mais le réactif est contenu dans un gel coulé dans un petit récipient qui est en général stérile, car il s'agit de détecter des bactéries (dans de l'eau ou sur des surfaces contaminées). L'échantillon (liquide ou solide) est déposé sur le gel et rapidement fermé (semi-stérilité) pour être incubé des heures à quelques jours. Des taches colorées qui apparaissent sur le gel indiquent la présence de bactéries spécifiques au réactif. Ces tests ne sont ne sont pas rapides, mais ils restent simples, adaptant au terrain des tests microbiologiques réalisés en laboratoire (en vraie stérilité).
+
+Immuno-tests rapides, dont ICB
+
+Histoire 
+Les premiers tests diagnostic 'rapides' de l’histoire peuvent être attribués au papyrus de Berlin, datant de 1350  Ce papyrus décrit un test de grossesse primitif comportant de l’orge et du blé sur lequel de l’urine de femme présumée enceinte était déposé ; si les grains d’orge germaient, la femme était réputée attendre un enfant mâle ; si les grains de blé germaient, la femme était réputée attendre un enfant femelle ; finalement, si les grains ne germaient pas, elle était réputée non enceinte. Ces tests furent répliqués par des scientifiques et donnèrent des résultats valides à 70 %.  
+
+Les premiers véritables tests immunodiagnostiques sont apparus dans les années 1950.  Sans surprise, un des premiers fut un test de grossesse. Il impliquait une agglutination d'un anticorps et de globules rouges, en phase liquide. D'autres tests détectaient aussi par agglutination des bactéries avec des anticorps, ou des lectines. Le principe de l'immunotest a évolué en immobilisant l'anticorps (sonde spécifique) et en remplaçant les  globules rouges par des particules visibles plus contrôlables et stables (microsphères de latex, puis de PolyStyrene en général colorées), puis par des nanoparticules (colloïdales) qui génèrent un changement de couleur après réaction antigène-anticorps. Enfin apparurent les immuno-essais à phase hétérogène avec l'ELISA et le Blotting ou l'IHC, et surtout l'immuno-précipitation.  
+
+Le type de test rapide le plus popularisé est un test immuno-chromatographique, qui combine l'immuno-précipitation et le blotting (l'anticorps ou l'antigène est immobilisé sur une membrane), notamment dans la version avec migration capillaire en flux latéral de l'échantillon puis d'un ou plusieurs réactifs.
+
+Matériel et mode opératoire (ICB) 
+
+Un test immuno-chromatographique à 'bandelette' (ICN) est composé essentiellement d'un support portant une membrane dont une zone de dépôt va recevoir l'échantillon et dont une ou plusieurs zones sont dédiées à la détection, avec un absorbant à une extrémité, ainsi qu'un réactif liquide, séparé ou intégré à l'autre extrémité. Accessoirement, il peut y avoir une pipette, un tube collecteur, un piqueur,…
+
+L'échantillon prélevé au moyen d'une pipette ou du piqueur, est déposé sur la zone de 'départ' en volume défini, d'où il diffuse par capillarité dans la membrane. Un réactif est ajouté, entrainant l'échantillon vers la zone d’absorption. Il est en général constitué d'anticorps marqués par des nanoparticules d’or (ou de latex coloré), qui se fixent alors spécifiquement à l'analyte. Sur la zone de migration, les complexes analytes-anticorps sont capturés spécifiquement par des anticorps (anti anticorps) immobilisés à un ou des niveaux qui apparaissent alors en général sous la forme de traits colorés (rose ou rouge pour l'or), le marqueur y étant concentré. 
+
+Des variantes existent. Il peut y avoir pré-incubation de l'anticorps + réactif, deux réactifs à ajouter ou aucun (inclus au dispositif), un réactif lavage, un antigène marqué,…
+
+Enfin, il y a en général deux zones de détection témoins, une pour confirmer le fonctionnement du test (que l'échantillon et le réactif ont bien migré : cela évite de faux négatifs), et une pour éviter des faux positifs. Ainsi, le test est positif si l’utilisateur voit un trait rouge-rose apparaitre sur la ligne de test, en plus de la ligne de témoin du test. L'absence de trait visible sur cette dernière ligne ou un trait visible a la fois sur la ligne de test et sur l'autre ligne témoin, invalide le résultat du test. Sinon, le résultat du test est négatif. 
+
+Avantages de la technique ICB.
+
+Le test rapide ICB comporte peu de composants mobiles, ce qui le rend plus pratique et moins sujet à des erreurs de manipulation. Il est possible de produire ces tests en grandes quantités, car le support plastique est produit en grande série, la membrane fonctionnalisée par une machine, les anticorps produits à grande échelle et les réactifs en petits volumes. Ils permettent ainsi d’offrir ces tests à faible coût, et donc de les distribuer largement, et ainsi d'en faire une première ligne de diagnostic et de suivi épidémiologique.
+
+Dispositifs électroniques de diagnostic rapide 
+L'électronique développe de plus en plus de petits dispositifs qui utilisent des capteurs ou senseurs optoélectroniques, thermiques, de conductance, et de l'électronique qui convertit ces données en paramètres de diagnostic. Ce sont de petits appareils autonomes portables.  Ils mesurent et donnent le résultat en temps réel, et/ou communiquent le résultat à distance. En dispositif diagnostic rapide, on se limite aux détecteurs à usage unique, en général miniaturisés  (micropuces, systèmes micro-electro-mécaniques (MEM)). Citons :
+ les dispositifs de mesure / suivi de la saturation oxygène de l'hémoglobine, par la lumière réfléchie sur la peau ;
+ les dispositifs de suivi du glucose pour les diabétiques, qui sont très variés. Certains utilisent des patchs installés sur le corps et qui sont reliés à un petit appareil portable.
+
+Exemples de tests diagnostic rapide
+
+Test de grossesse 
+Ces tests détectent le taux d'hormone HCG. Un résultat supérieur à 5 UI/litre indique une grossesse. Les premiers utilisaient le principe de l'agglutination. À présent il s'agit le plus souvent de tests immunométriques ICB. Leur facilité d'emploi a été considérablement augmentée.
+
+Test de diagnostic rapide des angines à streptocoque du groupe A 
+Face à un cas d'angine, un TDR permet de détecter la présence d'un streptocoque β-hémolytique du groupe A (Streptococcus pyogenes), bactérie pouvant être responsables de complications rares mais graves. En l'absence de cette bactérie, le traitement par antibiotique n'est très généralement pas justifié car l'angine peut être due à des virus ou d'autres bactéries pour lesquelles la guérison est spontanée. Or le diagnostic différentiel sur la base des seuls signes cliniques est très peu fiable. 
+
+Le test, réalisable en moins de 10 minutes, permet de diagnostiquer avec quasi certitude la présence de streptocoques du groupe A. Le médecin généraliste réalise grâce à un écouvillon un frottis sur les amygdales de son patient puis dilue le prélèvement dans une solution et y plonge une bandelette réactive. L'apparition d'un trait rouge témoin dans les secondes qui suivent permet de confirmer le bon fonctionnement du test. La présence d'un deuxième trait rouge révèle la nature bactérienne (de l'angine à streptocoque du groupe A).
+
+Tests du VIH
+
+Tests de dépistage de stupéfiants 
+
+Il existe des tests permettant de détecter toutes (ou presque) les substances illégales connues. Ces tests étaient jusqu’à présent principalement utilisés par les pompiers ou les services « urgences » des hôpitaux. Ils permettent aux pompiers ou aux médecins de comprendre le comportement d'un individu et de réagir en conséquence. Ces TDR sont désormais utilisés par la police, les militaires, les centres de toxicologie, ou encore les laboratoires. La police française, n’utilisait jusqu’à présent que des tests d’alcoolémie, mais utilise depuis le début de l’année 2007 des tests salivaires de détection de cannabis. Cela a été étendu aux autres drogues ; en 2015, ou  ont été effectués en France, pour  positifs. Depuis fin 2016, la prise de sang n'est plus nécessaire (mais le contrevenant peut la demander à ses frais) grâce à la mise à disposition de nouveaux tests plus performants. Des tests permettent aussi d'identifier des drogues saisies par les douanes, ou des traces sur des surfaces. 
+
+Les principales entreprises commercialisant les tests médicaux rapides en France sont NarcoCheck, ID PHARMA, ALL.DIAG, TODA PHARMA, Biosynex, Pharma D13, Servibio, Nal von minden, Fumouze, Biomédical.
+
+En Espagne : Merk, Profas, Nal von minden, Zarilab Diagnostica SL, Acon, Biomereieux, Izasa, Eve Layper, Pervalab...
+
+En Allemagne : Merk, Profos, Nal von Minden, MP Biomedia...
+
+Références
+
+Liens internes 
+ Méthode immuno-enzymatique ELISA
+ Bandelette urinaire
+ Indicateur coloré
+ Testing (réduction des risques)
+ Examen médical
+ Immunologie
+ Faux-négatif
+ Dépistage
+ Test de dépistage rapide à orientation diagnostique (TROD)
+
+Liens externes 
+ Tests de Diagnostic Rapide des angines à Streptocoque du groupe A, Evaluation comparative de 16 dispositifs médicaux de diagnostic in vitro, juillet 2002. Sur le site de l'AFSSAPS.
+ Les tests de diagnostic rapide, Cours du  Pierre Aubry, Université Bordeaux 2
+  Principles of Immunochemical Techniques Used in Clinical Laboratories, Marja E. Koivunen, Richard L. Krogsrud. LABMEDICINE,� Volume 37 Number 8, �August 2006.
+
+Diagnostic en médecine
+Chimie clinique
+Examen médical

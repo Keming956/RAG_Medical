@@ -1,0 +1,454 @@
+Autismus (von ) ist eine tiefgreifende Entwicklungsstörung. Diese tritt in der Regel vor dem dritten Lebensjahr auf und kann sich in einem oder mehreren der folgenden Bereiche zeigen:
+ Probleme beim wechselseitigen sozialen Umgang und Austausch (etwa beim Verständnis und Aufbau von Beziehungen)
+ Auffälligkeiten bei der sprachlichen und nonverbalen Kommunikation (etwa bei Blickkontakt und Körpersprache)
+ eingeschränkte Interessen mit sich wiederholenden, stereotyp ablaufenden Verhaltensweisen
+
+Betroffene Individuen werden als Autisten oder als autistisch bezeichnet. Aufgrund ihrer Einschränkungen benötigen viele autistische Menschen – manchmal lebenslang – Hilfe und Unterstützung. Autismus ist unabhängig von der Intelligenzentwicklung, jedoch gehört Intelligenzminderung zu den häufigen zusätzlichen Einschränkungen. Trotz umfangreicher Forschungsanstrengungen gibt es derzeit keine allgemein anerkannte Erklärung der Ursachen autistischer Störungen.
+
+Im derzeit gültigen Klassifikationssystem ICD-10 wird zwischen verschiedenen Autismusformen unterschieden (etwa frühkindlicher, atypischer Autismus und Asperger-Syndrom). Das DSM-5 und die ICD-11 (gültig ab 2022) hingegen enthalten keine Subtypen mehr und sprechen nur noch von einer allgemeinen Autismus-Spektrum-Störung (ASS; englisch autism spectrum disorder, kurz ASD). Grund für diese Änderung war die zunehmende Erkenntnis in der Wissenschaft, dass eine klare Abgrenzung von Subtypen (noch) nicht möglich ist – und man stattdessen von einem fließenden Übergang zwischen milden und stärkeren Autismusformen ausgehen sollte.
+
+Hauptsymptome 
+Das ICD-10 definiert Folgendes:
+
+Geschichte
+
+Zum Begriff 
+Der Schweizer Psychiater Eugen Bleuler prägte den Begriff Autismus um 1911 im Rahmen seiner Forschungen zur Schizophrenie. Er bezog ihn ursprünglich zunächst nur auf diese Erkrankung und wollte damit eines ihrer Grundsymptome beschreiben – die Zurückgezogenheit in eine innere Gedankenwelt. Bleuler verstand unter Autismus „die Loslösung von der Wirklichkeit zusammen mit dem relativen oder absoluten Überwiegen des Binnenlebens.“ (Originalzitat)
+
+Sigmund Freud übernahm die Begriffe „Autismus“ und „autistisch“ von Bleuler und setzte sie annähernd mit „Narzissmus“ bzw. „narzisstisch“ gleich  – als Gegensatz zu „sozial“. Die Begriffsbedeutung wandelte sich mit der Zeit von „dem Leben in einer eigenen Gedanken- und Vorstellungswelt“ hin zu „Selbstbezogenheit“ in einem allgemeinen Sinne.
+
+Diagnose-Entstehung 
+Hans Asperger und Leo Kanner nahmen den Autismus-Begriff dann auf (siehe historische Literatur), möglicherweise unabhängig voneinander. Sie sahen in ihm aber nicht mehr nur ein einzelnes Symptom (wie Bleuler), sondern versuchten damit gleich ein ganzes Störungsbild eigener Art zu erfassen. Sie unterschieden dabei Menschen mit Schizophrenie, die sich aktiv in ihr Inneres zurückziehen, von jenen, die von Geburt an in einem Zustand der inneren Zurückgezogenheit leben. Letzteres definierte nunmehr den Begriff „Autismus“.
+
+Kanner fasste den Begriff „Autismus“ eng, was im Wesentlichen dem heute sogenannten frühkindlichen Autismus entsprach (daher: Kanner-Syndrom). Seine Sichtweise erreichte internationale Anerkennung und wurde zur Grundlage der weiteren Autismusforschung. Die Veröffentlichungen Aspergers hingegen beschrieben „Autismus“ etwas anders und wurden zunächst international kaum wahrgenommen. Dies lag zum einen an der zeitlichen Überlagerung mit dem Zweiten Weltkrieg und zum anderen daran, dass Asperger auf Deutsch publizierte und man seine Texte jahrzehntelang nicht ins Englische übersetzte. Hans Asperger selbst nannte das von ihm beschriebene Syndrom „Autistische Psychopathie“. Die englische Psychiaterin Lorna Wing (siehe historische Literatur) führte seine Arbeit in den 1980er Jahren fort und benutzte erstmals die Bezeichnung Asperger-Syndrom. Die Forschungen Aspergers erlangten aber internationale Bekanntheit in Fachkreisen erst ab 1990.
+
+Alte Subtypen 
+Im deutschsprachigen Raum sind drei Diagnosearten des Autismus gebräuchlich:
+
+ Der frühkindliche Autismus (auch Kanner-Syndrom genannt). Auffälligste Merkmale neben den Verhaltensabweichungen sind: aufgrund des frühzeitigen Auftretens eine stark eingeschränkte Sprachentwicklung; motorische Beeinträchtigungen nur bei weiteren Behinderungen; häufig geistig behindert.
+ Je nach geistigem Leistungsvermögen wird der frühkindliche Autismus weiter unterteilt in Low, Intermediate und High Functioning Autism (LFA, IFA und HFA). Als LFA wird im englischsprachigen Bereich der mit geistiger Behinderung einhergehende frühkindliche Autismus bezeichnet, als HFA derjenige mit normalem oder überdurchschnittlichem Intelligenzniveau. Die Unterscheidung zwischen HFA und dem nachfolgend aufgeführten Asperger-Syndrom ist noch nicht geklärt, weshalb die Begriffe teilweise auch synonym gebraucht werden.
+ Der atypische Autismus erfüllt nicht alle Diagnosekriterien des frühkindlichen Autismus oder zeigt sich erst nach dem dritten Lebensjahr. Als Unterform des frühkindlichen Autismus wird er aber differenzial-diagnostisch gegen das Asperger-Syndrom abgegrenzt.
+ Das Asperger-Syndrom – veraltet auch autistische Psychopathie oder schizoide Psychopathien im Kindesalter (1926) – unterscheidet sich von anderen Subtypen vor allem durch eine vom Zeitpunkt her altersgerechte Sprachentwicklung und einen unter formalen Gesichtspunkten korrekten Sprachgebrauch. Im ICD-10 und DSM-IV ist die altersgerechte Sprachentwicklung ein Kriterium zur Diagnose – wohingegen nach Gillberg & Gillberg eine verzögerte Sprachentwicklung ein mögliches Diagnosekriterium darstellt. Menschen mit Asperger-Syndrom sind häufig motorisch ungeschickt.
+
+Im DSM-5 (2013) und ICD-11 (2018) wurden alle Einzelkategorien unter die Autismus-Spektrum-Störung (ASS) (autism spectrum disorders) zusammengefasst. Die Begründung hierfür lautete, die Forscher gingen heute davon aus, dass es sich weniger um qualitativ unterschiedliche Erkrankungen handele als um ein Kontinuum von sehr milden bis schweren Verlaufsformen einer Entwicklungsstörung, die bereits in der frühen Kindheit beginne. Bei den Symptomen wird unterschieden zwischen Defiziten in zwei Kategorien: Gestört ist erstens die soziale Interaktion und Kommunikation (zum Beispiel Blickkontakte, Fähigkeit zur Konversation oder Aufbau von Beziehungen sind schwach ausgeprägt). Zweitens sind repetitive Verhaltensweisen und fixierte Interessen und Verhaltensweisen Merkmale autistischer Störungen.
+
+Frühkindlicher Autismus 
+
+Die drei wichtigsten bei frühkindlichem Autismus betroffenen Bereiche sind:
+
+Soziale Interaktion
+
+Eine qualitative Beeinträchtigung der sozialen Interaktion zeigt sich manchmal schon in den ersten Lebensmonaten durch fehlende Kontaktaufnahme zu den Eltern, insbesondere zur Mutter. Viele Kinder mit frühkindlichem Autismus strecken der Mutter nicht die Arme entgegen, um hochgehoben zu werden. Sie lächeln nicht zurück, wenn sie angelächelt werden, und nehmen zu den Eltern keinen angemessenen Blickkontakt auf.
+
+In neuerer Forschung finden sich Hinweise darauf, dass sowohl die kognitive als auch die emotionale Empathie bei Menschen mit Autismus eingeschränkt sind. Kinder mit frühkindlichem Autismus zeigen zudem eine starke Objektbezogenheit, die häufig auf eine bestimmte Art von Gegenständen beschränkt ist. Ihre Aufmerksamkeit ist auf wenige Dinge, wie Wasserhähne, Türklinken, Fugen zwischen Steinplatten oder kariertes Papier gerichtet, die sie sehr stark anziehen, so dass alles andere sekundär wird und nicht oder kaum beachtet wird. Oft finden sie in Gegenständen eine normalerweise ungewöhnliche Systematik (sortieren beispielsweise die Einzelteile einer Spielzeugeisenbahn nach Größe und Farbe) oder Anwendung (beispielsweise ist ihr einziges Interesse an einem Spielzeugauto, die Räder unablässig zu drehen).
+
+Kommunikation
+
+Etwa jedes zweite Kind mit frühkindlichem Autismus entwickelt keine Lautsprache. Bei den anderen verzögert sich die Sprachentwicklung. Die Entwicklung der Lautsprache erfolgt oft über eine lange Phase der Echolalie, manche der betroffenen Personen kommen über diese Phase nicht hinaus. Im Kindesalter werden oft die Pronomina vertauscht (pronominale Umkehr). Sie reden von Anderen als „ich“ und von sich selbst als „du“ oder in der dritten Person. Diese Eigenart bessert sich üblicherweise im Laufe der Entwicklung. Zudem gibt es oft Probleme mit Ja/Nein-Antworten, Gesagtes wird stattdessen durch Wiederholung bestätigt. Probleme gibt es auch mit der Semantik: Wortneuschöpfungen (Neologismen) treten häufig auf. Manche Menschen mit frühkindlichem Autismus haften auch an bestimmten Formulierungen (Perseveration). Am ausgeprägtesten ist die Beeinträchtigung der Pragmatik: In der Kommunikation mit anderen Menschen haben autistische Menschen Schwierigkeiten, Gesagtes über die genaue Wortbedeutung hinaus zu verstehen, zwischen den Zeilen zu lesen. Ihre Stimme klingt oft eintönig (fehlende Prosodie).
+
+Die Probleme in der Kommunikation äußern sich in schwieriger Kontaktaufnahme zur Außenwelt und zu anderen Menschen. Manche Autisten scheinen die Außenwelt kaum wahrzunehmen und teilen sich ihrer Umwelt auf ihre ganz individuelle Art mit. Deshalb wurden autistische Kinder früher auch Muschelkinder oder Igelkinder genannt. Die visuellen und auditiven Wahrnehmungen sind oft ungewöhnlich intensiv. Daher besteht manchmal die Annahme, Abschaltfunktionen im Gehirn würden als Selbstschutz mögliche Reizüberflutungen vermindern. Autisten haben ein individuell unterschiedlich ausgeprägtes Bedürfnis nach Körperkontakt. Einerseits nehmen manche mit fremden Menschen direkten und teils sozial unangemessenen Kontakt auf, andererseits kann auch jede Berührung für sie aufgrund der Überempfindlichkeit ihres Tastsinns unangenehm sein.
+
+Vor diesem Hintergrund ist verstehende Kommunikation mit einem Autisten schwer. Emotionen werden oft falsch gedeutet oder gar nicht erst verstanden. Diese möglichen Probleme müssen bei der Kontaktaufnahme berücksichtigt werden und verlangen ein großes Einfühlungs- und Vorstellungsvermögen.
+
+Repetitive und stereotype Verhaltensmuster
+
+Veränderungen ihrer Umwelt (wie zum Beispiel umgestellte Möbel oder ein anderer Schulweg) beunruhigen und verunsichern manche autistische Menschen. Manchmal geraten Betroffene auch in Panik, wenn sich Gegenstände nicht mehr an ihrem gewöhnlichen Platz oder in einer bestimmten Anordnung befinden, oder es bringt sie ein unangekündigter Besuch oder spontaner Ortswechsel völlig aus der Fassung. Handlungen laufen meist ritualisiert ab, und Abweichungen von diesen Ritualen führen zu Chaos im Kopf, denn autistische Menschen haben bei unerwarteten Veränderungen von Situationen oder Abläufen in der Regel keine alternativen Strategien.
+
+Bei stark autistischen Menschen können folgende repetitive (sich wiederholende) Stereotypien – sogenanntes Stimming – auftreten:
+
+ Jaktationen (Schaukeln mit Kopf oder Oberkörper),
+ im Kreis umhergehen oder Finger verdrehen,
+ Oberflächen betasten
+ vereinzelt auch selbstverletzendes Verhalten, wie etwa Finger blutig knibbeln, Nägel bis über das Nagelbett hinaus abkauen, den Kopf anschlagen, mit der Hand an den Kopf schlagen, sich selbst kratzen, beißen oder anderes. Dieses selbstverletzende Verhalten hinterlässt mehr oder weniger sichtbare Spuren wie Bissspuren, Narben und verschorfte Wunden auf der Haut.
+ Solche selbstverletzenden Verhaltensweisen sind jedoch nicht zu verwechseln mit dem bewusst selbstverletzenden Verhalten, das typischerweise zum Spannungsabbau eingesetzt wird (etwa durch Verbrennungen oder Ritzen am Unterarm) oder – seltener – aus suizidalen Tendenzen heraus entsteht und dann ein anderes (suizidales) Verletzungsmuster aufweist.
+
+Sich wiederholende Verhaltensweisen wirken auf alle Menschen beruhigend (wie Puppe oder Teddybär bei kleinen Kindern, die überallhin mitgenommen werden) und sind möglicherweise mehr ein Kennzeichen für starken Stress als für Autismus selbst, was die Frage aufwirft, warum Autisten oft zu viel Stress ausgesetzt sind. Positive Effekte sich wiederholender Verhaltensweisen werden zum Beispiel im Yoga genutzt, und es gibt auch angepassten Yogaunterricht, der die autistischen Merkmale berücksichtigt.
+
+Hochfunktionaler Autismus 
+Treten alle Symptome des frühkindlichen Autismus zusammen mit normaler Intelligenz (einem IQ von mehr als 70) auf, so spricht man vom hochfunktionalen Autismus (high-functioning autism, HFA). Diagnostisch wichtig ist hier insbesondere die verzögerte Sprachentwicklung. Gegenüber dem Asperger-Syndrom sind die motorischen Fähigkeiten meist deutlich besser.
+
+Oftmals wird, durch die Verzögerung der Sprachentwicklung, zunächst der niedrigfunktionale frühkindliche Autismus (LFA) diagnostiziert. Es kann dann aber später eine normale Sprachentwicklung erfolgen, bei der durchaus ein mit dem Asperger-Syndrom vergleichbares Funktionsniveau erreicht wird. Viele HFA-Autisten sind deshalb als Erwachsene nicht von Asperger-Autisten zu unterscheiden, meistens bleiben die autistischen Symptome aber wesentlich deutlicher ausgeprägt als beim Asperger-Syndrom. Die Sprache muss sich dabei nicht zwangsläufig entwickeln, viele nicht sprechende HFA-Autisten können trotzdem eigenständig leben und lernen, sich schriftlich zu äußern. Internetbasierte Kommunikationsformen helfen gerade diesen Menschen, ihre Lebensqualität deutlich zu steigern.
+
+Atypischer Autismus 
+Atypischer Autismus unterscheidet sich vom frühkindlichen Autismus dadurch, dass Kinder nach dem dritten Lebensjahr autistisches Verhalten zeigen (atypisches Erkrankungsalter) oder nicht alle Symptome aufweisen (atypische Symptomatik).
+
+Autistische Kinder mit atypischem Erkrankungsalter zeigen bei den Symptomen das Vollbild des frühkindlichen Autismus, der sich bei ihnen aber erst nach dem dritten Lebensjahr manifestiert.
+
+Autistische Kinder mit atypischer Symptomatik legen Auffälligkeiten an den Tag, die für den frühkindlichen Autismus typisch sind, jedoch die Diagnosekriterien des frühkindlichen Autismus nicht vollständig erfüllen. Dabei können sich die Symptome sowohl vor als auch nach dem dritten Lebensjahr manifestieren.
+
+Im, vor allem in den USA gebräuchlichen, psychiatrischen Diagnosehandbuch (DSM-IV) gibt es keine Diagnose „atypischer Autismus“, dort wird stattdessen „tiefgreifende Entwicklungsstörung – nicht anders bezeichnet“ (PDD-NOS) als Diagnose verwendet. Umgangssprachlich wird PDD-NOS dort oft auch falsch nur als „tiefgreifende Entwicklungsstörung (PDD)“ bezeichnet, was nur die diagnostische Kategorie bezeichnet, aber selbst keine Diagnose ist.
+
+Wenn atypischer Autismus zusammen mit erheblicher Intelligenzminderung auftritt, wird manchmal auch von „Intelligenzminderung mit autistischen Zügen“ gesprochen. Neuere Forschungen deuten jedoch darauf hin, dass die Annahme einer Intelligenzminderung bei Autisten mit dem Wechsler-IQ-Test verfälscht wird, und Autisten beim Ravens-Matrizentest um bis zu 30 Punkte besser abschneiden, was nicht auf weniger, sondern auf eine andere Intelligenz hindeutet.
+
+Asperger-Syndrom 
+
+Das nach dem österreichischen Mediziner Hans Asperger benannte Asperger-Syndrom (AS) gilt als leichte Form des Autismus und manifestiert sich etwa vom vierten Lebensjahr an. Obwohl viele Verhaltensweisen das soziale Netz der Betroffenen, insbesondere das der nächsten Bekannten und der Familie, stark in Anspruch nehmen, gibt es nicht nur negative Aspekte des Asperger-Syndroms. Es gibt zahlreiche Berichte über das gleichzeitige Auftreten von überdurchschnittlicher Intelligenz oder auch von Inselbegabungen. Leichtere Fälle von Asperger-Syndrom werden im Englischen umgangssprachlich auch „Little Professor Syndrome“, „Geek Syndrome“ oder „Nerd Syndrome“ genannt.
+
+Soziale Interaktion
+
+Eines der schwerwiegendsten Probleme für Menschen mit Asperger-Syndrom ist die Beeinträchtigung von sozialem Interaktionsverhalten, besonders in zwei Bereichen: zum einen in einer eingeschränkten Fähigkeit, zwanglose Beziehungen zu anderen Menschen herzustellen, und zum anderen Einschränkungen in Bezug auf nonverbale Kommunikation.
+
+Bei Kindern und Jugendlichen mit Asperger-Syndrom fehlt oft der Wunsch, Beziehungen zu Gleichaltrigen herzustellen. Dieser Wunsch entsteht bei ihnen normalerweise erst in der Adoleszenz, meist fehlt dann aber die Fähigkeit dazu.
+
+Die Beeinträchtigungen im Bereich der nonverbalen Kommunikation betreffen sowohl das Verstehen nonverbaler Botschaften anderer Menschen als auch das Aussenden eigener nonverbaler Signale. Dazu zählt in einigen Fällen etwa auch die Anpassung der Tonhöhe und Lautstärke der eigenen Sprache.
+
+Als besonders problematisch erweist sich die soziale Interaktion, da Menschen mit Asperger-Syndrom nach außen hin keine offensichtlichen Anzeichen einer Behinderung haben. So kann es geschehen, dass die Schwierigkeiten von Menschen mit Asperger-Syndrom als bewusste Provokation empfunden werden, obwohl dies nicht der Fall ist. Wenn etwa eine betroffene Person auf eine an sie gerichtete Frage nur mit Schweigen reagiert, wird dies oft als Sturheit und Unhöflichkeit gedeutet.
+
+Im Alltag macht sich die schwierige soziale Interaktion vielfältig bemerkbar. Menschen mit Asperger-Syndrom können schlecht Blickkontakt mit anderen Menschen aufnehmen oder halten. Sie vermeiden Körperkontakt wie etwa Händeschütteln. Sie sind unsicher, wenn es darum geht, Gespräche mit anderen zu führen, besonders wenn es sich um eher belanglosen Smalltalk handelt. Soziale Regeln, die andere intuitiv beherrschen, verstehen Menschen mit Asperger-Syndrom nicht intuitiv, sondern müssen sie sich erst aneignen. Daher haben Menschen mit Asperger-Syndrom oft keine oder weniger Freunde. In der Schule etwa sind sie in den Pausen lieber für sich, weil sie mit dem üblichen Umgang anderer Schüler untereinander nur wenig anfangen können. Im Unterricht sind sie in der Regel wesentlich besser im schriftlichen als im mündlichen Bereich. In der Ausbildung und im Beruf macht ihnen der fachliche Bereich meist keine Schwierigkeiten, nur der Smalltalk mit Kollegen oder der Kontakt mit Kunden. Auch das Telefonieren kann Probleme bereiten. In Unterricht und Studium können mündliche Prüfungen oder Vorträge große Hürden darstellen. Da auf dem Arbeitsmarkt wohl in allen Bereichen Kontakt- und Teamfähigkeit genauso viel zählen wie fachliche Eignung, haben Menschen mit Asperger-Syndrom Probleme, überhaupt eine geeignete Stelle zu finden. Viele sind selbstständig, jedoch können sie sich bei Problemen mit Kunden kaum durchsetzen. In einer Werkstatt für behinderte Menschen indes wären sie völlig unterfordert.
+
+Die meisten Menschen mit Asperger-Syndrom können durch hohe Schauspielkunst nach außen hin eine Fassade aufrechterhalten, so dass ihre Probleme auf den ersten Blick nicht gleich sichtbar sind, jedoch bei persönlichem Kontakt durchscheinen, etwa in einem Vorstellungsgespräch. Menschen mit Asperger-Syndrom gelten nach außen hin zwar als extrem schüchtern, jedoch ist das nicht das eigentliche Problem. Schüchterne Menschen verstehen die sozialen Regeln, trauen sich aber nicht, sie anzuwenden. Menschen mit Asperger-Syndrom würden sich schon trauen, sie anzuwenden, verstehen sie aber nicht und haben deshalb Probleme, damit umzugehen. Die Fähigkeit zur kognitiven Empathie (Einfühlungsvermögen) ist gar nicht oder nur schwach ausgeprägt. Bezüglich der affektiven Empathie (Mitgefühl) gegenüber anderen ergab eine Übersichtsarbeit von 2013 uneinheitliche Ergebnisse: weniger als 50 % der Studien zeigten eine Einschränkung der emotionalen Wahrnehmung.
+
+Menschen mit Asperger-Syndrom können sich schlecht in andere Menschen hineinversetzen und deren Stimmungen oder Gefühle an äußeren Anzeichen ablesen. Überhaupt können sie nur schwer zwischen den Zeilen lesen und nicht-wörtliche Bedeutungen von Ausdrücken oder Redewendungen verstehen. Sie ecken an, weil sie die für andere Menschen offensichtlichen nonverbalen Signale nicht verstehen. Da es ihnen meist schwerfällt, Gefühle zu benennen und auszudrücken, passiert es oft, dass ihre Mitmenschen dies als mangelndes persönliches Interesse missdeuten. Auch können sie in gefährliche Situationen geraten, da sie äußere Anzeichen, die auf eine bevorstehende Gefahr – etwa durch Betrüger oder Gewalttäter – hinweisen, oft nicht richtig deuten können.
+
+Stereotype Verhaltensmuster und Sonderinteressen
+
+Menschen mit Asperger-Syndrom zeigen in ihrer Lebensgestaltung und in ihren Interessen repetitive und stereotype Verhaltensmuster. Das Leben von Menschen mit Asperger-Syndrom ist durch ausgeprägte Routinen bestimmt. Werden sie in diesen gestört, können sie erheblich beeinträchtigt werden. In ihren Interessen sind Menschen mit Asperger-Syndrom teilweise auf ein Gebiet begrenzt, auf dem sie meist ein enormes Fachwissen haben. Ungewöhnlich ist das Ausmaß, mit dem sie sich ihrem Interessensgebiet widmen; für andere Gebiete als das eigene sind sie meist nur schwer zu begeistern. Da Menschen mit Asperger-Syndrom meist gut logisch denken können, liegen ihre Interessensgebiete oft im mathematisch-naturwissenschaftlichen Bereich; die gesamte geisteswissenschaftliche Palette, aber auch andere Gebiete sind möglich.
+
+Ritualisiertes und stereotypes Denken und Wahrnehmen
+
+Zu den ritualisierten Handlungen können neben motorischen Schematismen, Stereotypien und repetitiven Sprechhandlungen auch repetitive und stereotype Formen des Denkens und der Wahrnehmung gezählt werden. Diese bestehen in der Konzentration auf einige wenige, jedoch mit großer Intensität verfolgte Spezialinteressen. Die intensive Herausbildung solcher Spezialinteressen kann zur Entwicklung von besonderen Fähigkeiten führen, die mehr oder weniger stark ausgeprägt sein können (abzugrenzen von Inselbegabungen). Hier bilden sich neuronale Felder und Netze von hoher lokaler Konnektivität heraus, die jedoch nur schwach durch globale Konnektivität im Gehirn mit anderen Arealen verbunden sind.
+
+Inselbegabung 
+
+Die Interessen von Autisten sind häufig auf bestimmte Gebiete konzentriert. Jedoch besitzen manche auf einem solchen Gebiet außergewöhnliche Fähigkeiten, zum Beispiel im Kopfrechnen, Zeichnen, in der Musik oder in der Merkfähigkeit. Man spricht dann von einer „Inselbegabung“. Diejenigen, die sie haben, nennt man auch Savants (Wissende). Etwa 50 Prozent der Inselbegabten sind Autisten. Andersherum ist nur ein kleiner Teil der Autisten inselbegabt.
+
+Diagnose und Klassifikation 
+Nach den Daten von 178 erst im Erwachsenenalter diagnostizierten Patienten (Zeitraum 2005–2009) der auf Autismus spezialisierten Kölner Spezialsprechstunde erfolgte die erstmalige Diagnose im Durchschnitt im Alter von 34 Jahren.
+
+Bei der Diagnostik ist wichtig zu beachten, dass nicht die einzelnen Symptome autismusspezifisch sind, da ähnliche Merkmale auch bei anderen Störungen auftreten. Spezifisch für Autismus ist vielmehr erst die Kombination von mehreren dieser Symptome, d. h. die Symptomkonstellation.
+
+Nach ICD-10 
+Autismus wird im fünften Kapitel der ICD-10 als tiefgreifende Entwicklungsstörung aufgeführt. Sie wird unter dem Schlüssel F84 wie folgt unterteilt:
+
+ F84.0: Autismus; auch bezeichnet als: Frühkindlicher Autismus, infantile Psychose, infantiler Autismus, Kanner-Syndrom, Psychose im Kindesalter
+ F84.1: atypischer Autismus; auch bezeichnet als: Atypische Psychose im Kindesalter
+ F84.10: Autismus mit atypischem Erkrankungsalter
+ F84.11: Autismus mit atypischer Symptomatik
+ F84.12: Autismus mit atypischem Erkrankungsalter und atypischer Symptomatik
+ F84.5: Asperger-Syndrom; auch bezeichnet als: Autistische Psychopathie, schizoide Störung des Kindesalters
+
+Die oben genannten alternativen Bezeichnungen sind zwar veraltet, jedoch noch in der ICD-10 zu finden. 2018 wird die überarbeitete Version des ICD-11 erwartet. Sie soll am 1. Januar 2022 in Kraft treten.
+
+Nach DSM-5 
+Das DSM-5 (die US-amerikanische Klassifikation psychischer Störungen) fasst alle Formen des Autismus in der Diagnose Autismus-Spektrum-Störung (ASS) zusammen. Die Diagnosekriterien der ASS sind in fünf Gebiete aufgeteilt (A–E):
+ A) Anhaltende Defizite in der sozialen Kommunikation und sozialen Interaktion über verschiedene Kontexte hinweg. Diese manifestieren sich in folgenden aktuell oder in der Vergangenheit erfüllten Merkmalen:
+ Defizite der sozial-emotionalen Gegenseitigkeit (z. B. ungewöhnliche soziale Annäherung; fehlende normale wechselseitige Konversation, verminderter Austausch von Interessen, Gefühlen und Affekten)
+ Defizite im nonverbalen Kommunikationsverhalten, das in sozialen Interaktionen eingesetzt wird (z. B. weniger oder kein Blickkontakt bzw. Körpersprache; Defizite im Verständnis und Gebrauch von Gestik bis hin zu vollständigem Fehlen von Mimik und nonverbaler Kommunikation)
+ Defizite in der Aufnahme, Aufrechterhaltung und dem Verständnis von Beziehungen (z. B. Schwierigkeiten, eigenes Verhalten an verschiedene soziale Kontexte anzupassen, sich in Rollenspielen auszutauschen oder Freundschaften zu schließen)
+ B) Eingeschränkte, repetitive Verhaltensmuster, Interessen oder Aktivitäten, die sich in mindestens zwei der folgenden aktuell oder in der Vergangenheit erfüllten Merkmalen manifestieren:
+ Stereotype oder repetitive motorische Bewegungsabläufe; stereotyper oder repetitiver Gebrauch von Objekten oder Sprache (z. B. Echolalie, Aufreihen von Spielzeug, Hin- und Herbewegen von Objekten, idiosynkratrischer Sprachgebrauch)
+ Festhalten an Gleichbleibendem, unflexibles Festhalten an Routinen oder an ritualisierten Mustern (z. B. extremes Unbehagen bei kleinen Veränderungen, Schwierigkeiten bei Übergängen, rigide Denkmuster oder Begrüßungsrituale, Bedürfnis, täglich den gleichen Weg zu gehen)
+ Hochgradig begrenzte, fixierte Interessen, die in ihrer Intensität oder ihrem Inhalt abnorm sind (z. B. starke Bindung an oder Beschäftigen mit ungewöhnlichen Objekten, extrem umschriebene oder perseverierende Interessen)
+Hyper- oder Hyporeaktivität auf sensorische Reize oder ungewöhnliches Interesse an Umweltreizen (z. B. scheinbare Gleichgültigkeit gegenüber Schmerz oder Temperatur, ablehnende Reaktion auf spezifische Geräusche oder Oberflächen, exzessives Beriechen oder Berühren von Objekten)
+ C) Die Symptome müssen bereits in früher Kindheit vorliegen, können sich aber erst dann voll manifestieren, wenn die sozialen Anforderungen die begrenzten Möglichkeiten überschreiten. (In späteren Lebensphasen können sie auch durch erlernte Strategien überdeckt werden.)
+ D) Die Symptome müssen klinisch bedeutsames Leiden oder Beeinträchtigungen in sozialen, beruflichen oder anderen wichtigen Funktionsbereichen verursachen.
+ E) Die Symptome können nicht besser durch eine Intellektuelle Beeinträchtigung oder eine Allgemeine Entwicklungsverzögerung erklärt werden. Intellektuelle Beeinträchtigungen und Autismus-Spektrum-Störungen treten häufig zusammen auf. Um die Diagnosen Autismus-Spektrum-Störung und Intellektuelle Beeinträchtigung gemeinsam stellen zu können, sollte die soziale Kommunikationsfähigkeit unter dem aufgrund der allgemeinen Entwicklung erwarteten Niveau liegen.
+
+Basierend auf den Beeinträchtigungen der sozialen Kommunikation und eingeschränkten, repetitiven Verhaltensmustern wird der aktuelle Schweregrad bestimmt:
+ Schweregrad 3: „sehr umfangreiche Unterstützung erforderlich“
+ Schweregrad 2: „umfangreiche Unterstützung erforderlich“
+ Schweregrad 1: „Unterstützung erforderlich“
+
+DSM 5 weist ausdrücklich darauf hin, dass Personen mit einer gesicherten DSM-IV-Diagnose einer autistischen Störung, Asperger-Syndrom oder nicht näher bezeichneten tiefgreifenden Entwicklungsstörung eine ASS-Diagnose bekommen sollen. Bei deutlichen sozialen Kommunikationdefiziten, die sonst aber nicht die Kriterien der Autismus-Spektrum-Störung erfüllen, solle die Diagnose Soziale Kommunikationsstörung erwogen werden.
+
+Nach ICD-11 
+Autismus wird zukünftig nach der neuen Definition der WHO in der ICD-11 als Autismus-Spektrum-Störung („6A02 Autism spectrum disorder“) funktionell beschrieben:
+
+ Autismus-Spektrum-Störung ohne Störung der intellektuellen Entwicklung und mit milder oder keiner Beeinträchtigung der funktionellen Sprache („6A02.0 Autism spectrum disorder without disorder of intellectual development and with mild or no impairment of functional language“)
+ Autismus-Spektrum-Störung mit Störung der intellektuellen Entwicklung und mit milder oder keiner Beeinträchtigung der funktionellen Sprache („6A02.1 Autism spectrum disorder with disorder of intellectual development and with mild or no impairment of functional language“)
+ Autismus-Spektrum-Störung ohne Störung der intellektuellen Entwicklung und mit beeinträchtigter funktioneller Sprache („6A02.2 Autism spectrum disorder without disorder of intellectual development and with impaired functional language“)
+ Autismus-Spektrum-Störung mit Störung der intellektuellen Entwicklung und mit beeinträchtigter funktioneller Sprache („6A02.3 Autism spectrum disorder with disorder of intellectual development and with impaired functional language“)
+ Autismus-Spektrum-Störung mit Störung der intellektuellen Entwicklung und mit Abwesenheit funktioneller Sprache („6A02.5 Autism spectrum disorder with disorder of intellectual development and with absence of functional language“)
+ andere spezifizierte Autismus-Spektrum-Störungen („6A02.Y Other specified autism spectrum disorder“)
+ Autismus-Spektrum-Störung, unspezifiziert („6A02.Z Autism spectrum disorder, unspecified“)
+
+Differentialdiagnose 
+Autistische Verhaltensweisen können auch bei anderen Syndromen und psychischen Erkrankungen auftreten. Von diesen muss Autismus daher abgegrenzt werden:
+
+ADHS Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung ist vom Asperger-Syndrom nur schwierig zu unterscheiden, wenn die Aufmerksamkeitsstörung ohne begleitende Impulsivität und Hyperaktivität auftritt und zusätzlich durch sie entstandene soziale Defizite vorliegen. Beim Asperger-Syndrom sind die Beeinträchtigungen im sozialen und emotionalen Austausch, die Spezialinteressen und der detailorientierte Wahrnehmungsstil jedoch stärker ausgeprägt. Umgekehrt sind bei ADHS häufig starke Desorganisation mit Sprunghaftigkeit in Denken und Handeln zu beobachten, die für Autismus eher nicht typisch sind. Die Differentialdiagnose zwischen ADHS und Autismus ist überdies auch deshalb schwierig, da ADHS häufig mit Autismus gemeinsam vorkommt (Komorbidität).
+Angelman-Syndrom Das Angelman-Syndrom ist oberflächlich gesehen dem frühkindlichen Autismus sehr ähnlich. Es stellt aber eine Veränderung auf dem 15. Chromosom dar und lässt sich genetisch nachweisen.
+Bindungsstörung Bei der Bindungsstörung ist das Sprachvermögen – anders als beim atypischen und frühkindlichen Autismus – intakt. Eine Abgrenzung zu hochfunktionalem Autismus und Asperger-Syndrom kann im Einzelfall schwierig sein. Der Anamnese kommt hier eine wichtige Rolle zu. Neuropsychologische Tests sind eine weitere Grundlage einer klaren Differenzierung. Allerdings ist Autismus keine Bindungsstörung, und autistische Menschen sind nicht in ihrer emotionalen Bindung gestört, auch wenn sie Beziehungen vielleicht untypisch gestalten.
+Borderline-Persönlichkeitsstörung Manche Autoren sehen vor allem bei Frauen Parallelen zur Borderline-Persönlichkeitsstörung, bei der ebenfalls die Empathiefähigkeit beeinträchtigt sei und nonverbale Signale schwerer erkannt würden. Anders als Autisten verfolgen Borderline-Patienten jedoch selten ausgeprägte Spezialinteressen oder zeigen besonders rationales Denken; Autisten wiederum leiden nicht an den ausgeprägten Stimmungsschwankungen, die sich bei Borderlinern meist finden.
+Fragiles-X-Syndrom Das Fragiles-X-Syndrom wird durch einen genetischen Defekt ausgelöst, der mit entsprechenden Analysemethoden eindeutig nachgewiesen und vom Autismus unterschieden werden kann.
+Heller-Syndrom Das Heller-Syndrom zählt wie ASS zu den tiefgreifenden Entwicklungsstörungen nach ICD-10. Es bewirkt einen allgemeinen Interessenverlust an der Umgebung, Stereotypien und motorische Manierismen. Das Sozialverhalten ähnelt dem eines Autisten.
+HörbehinderungEine Hörbehinderung kann auf den ersten Blick auch (Schwerhörigkeit oder Gehörlosigkeit) bei Kindern mit Autismus verwechselt werden, weil das Kind auf laute Geräusche oder Ansprache nicht reagiert und weil sich die Sprachentwicklung verzögert. Ein Hörtest oder Hörscreening (bei Kindern regelmäßig vor der Einschulung durchgeführt) verschafft Klarheit.
+Autismusähnliches Verhalten Autistisches Verhalten bei psychischem Hospitalismus, Kindesmisshandlung und Verwahrlosung unterscheidet sich vom Autismus dadurch, dass dieser primär, also von Geburt an, auftritt. Die typischen Verhaltensweisen werden bei Autisten nicht durch falsche Erziehung, mangelnde Liebe, Misshandlung oder Verwahrlosung ausgelöst. In jenen Fällen verschwindet das autistische Verhalten bei Besserung der äußeren Umstände wieder, wohingegen Autismus nicht heilbar ist.
+MagersuchtBei Magersucht (Anorexia nervosa) können rigide Essgewohnheiten und soziale Isolation auftreten, die gelegentlich an hochfunktionalen Autismus oder Asperger-Syndrom erinnern. Wesentliches Unterscheidungsmerkmal zum Autismus ist, dass bei Magersucht beide Symptome nur zeitlich begrenzt auftreten und nach Behebung der Ursache wieder verschwinden. Gillberg stellte jedoch bereits 1994 in einer epidemiologischen Studie fest, dass bei 6 von 51 Fällen von Anorexia nervosa im frühen Erwachsenenalter ein Asperger-Syndrom vorlag.
+Mutismus Mutismus hängt im Gegensatz zu Autismus eher mit sozialer Angst zusammen und äußert sich ausschließlich als Kommunikationsstörung, nicht als Entwicklungsstörung (wie es bei Autismus der Fall ist). Es wird zwischen totalem Mutismus (der Patient spricht trotz funktionell vorhandener Sprechfähigkeit überhaupt nicht) und selektivem bzw. elektivem Mutismus (Spracheinsatz von Personen und Situationen abhängig) unterschieden.
+Rett-Syndrom Das Rett-Syndrom zählt wie ASS zu den tiefgreifenden Entwicklungsstörungen nach ICD-10. Es kommt fast ausschließlich bei Frauen vor; typische Symptome sind autistisches Verhalten und Störungen der Bewegungskoordination (Ataxie).
+Schizoide Persönlichkeitsstörung (SPS)Die Unterscheidung zwischen hochfunktionalem Autismus und Asperger-Syndrom und der schizoiden Persönlichkeitsstörung kann im Einzelfall schwierig sein. Denn einige Menschen mit Asperger-Syndrom (bis zu 26 %) erfüllen gleichzeitig die Kriterien für die schizoide PS. Bei beiden Diagnosen kann die soziale Kommunikation (Mimik, Gestik, Blickkontakt etc.) auffällig sein. Bei der schizoiden Persönlichkeitsstörung tritt im Gegensatz zu atypischem und frühkindlichem Autismus jedoch keine Intelligenzminderung auf. Deshalb ist die Anamnese wichtig, denn Autismus besteht immer bereits seit dem Kindesalter. Ein weiteres Abgrenzungsmerkmal ist die ausgeprägte Affektverflachung schizoider Menschen. Bei ihnen ist ebenfalls (im Gegensatz zu Autismus) üblicherweise bis zur Pubertät eine normale Emotionalität und ein unauffälliges Sozialverhalten zu beobachten. Unterschiedlich ist auch, dass schizoide Menschen oft eher reserviert, zurückgezogen und verschlossen (oder gar „geheimnistuerisch“) auftreten und tendenziell ungerne von sich erzählen. Sie versuchen also, eine Selbstoffenbarung zu vermeiden.
+Im Gegensatz dazu sind viele Menschen mit leichtem Autismus häufig sehr offenherzig, ehrlich, direkt und gelegentlich ungewollt aufdringlich. Die Betroffenen haben oft nur wenig Angst davor, anderen einen Einblick in ihr Innenleben zu geben. Dies kann man gut an der sehr offenen und (bisweilen naiven) persönlichen Selbstdarstellung in den vielen Autobiographien von Autisten und bei Interviews in der Öffentlichkeit erkennen. Sie wünschen sich gerade im Erwachsenenalter oft Freunde und Bekannte. Wegen ihrer Schwierigkeiten, vielschichtige Gefühle beim Gegenüber wahrzunehmen oder angemessen darauf zu reagieren, sind sie jedoch oft nur begrenzt zu Freundschaften in der Lage.
+Schizophrenie Schizophrenie unterscheidet sich im Wesentlichen durch das Auftreten von Halluzinationen, Wahn und Ich-Störungen, die bei Autismus nicht vorkommen. Im Unterschied zur Schizophrenia simplex besteht der Autismus oder das Asperger-Syndrom bereits seit dem Kindesalter.
+Stummheit, Aphasie Stummheit, Aphasie oder eine sonstige Form von Sprachentwicklungsverzögerung kann bei Kindern auf den ersten Blick autistisches Verhalten vortäuschen, weil die sprachlichen Äußerungen fehlen. Das normale Sozialverhalten unterscheidet die Stummheit allerdings vom Autismus bzw. vom Asperger-Syndrom.
+Urbach-Wiethe-Syndrom Das Urbach-Wiethe-Syndrom ist eine sehr seltene neurologische Störung, die zu Hautveränderungen, Schleimhautveränderungen (Heiserkeit) und zu Schwierigkeiten bei der Kommunikation und im Sozialverhalten führt. Die Betroffenen haben Probleme, Gesichtsausdrücke anderer Menschen zu interpretieren und Gesprächen zu folgen. Die gleichzeitig auftretenden Haut- und Schleimhautveränderungen ermöglichen aber eine Abgrenzung vom Autismus. Eine genetische Untersuchung kann Klarheit verschaffen.
+ZwangserkrankungenBei Menschen, die an Zwangshandlungen leiden, sind die Fähigkeiten zu sozialem Umgang und Kommunikation in der Regel nicht beeinträchtigt. Im Gegensatz zu an einer Zwangsstörung Erkrankten erleben Autisten ihre Routinen nicht als gegen ihren Willen aufgedrängt, sondern sie schaffen ihnen Sicherheit und sie fühlen sich mit ihnen wohl (ich-synton). Einige Menschen mit Asperger-Syndrom erfüllen aber zusätzlich die Kriterien der zwanghaften Persönlichkeitsstörung; eine Differentialdiagnose ist normalerweise aber auch hier möglich.
+
+Begleitende Störungen 
+Zusammen mit Autismus können verschiedene begleitende (komorbide) körperliche und psychische Erkrankungen auftreten:
+
+ Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) muss nicht nur von Autismus abgegrenzt werden, sondern kann auch zusätzlich zu autistischen Störungen auftreten.
+ Depressionen, Psychosen, Phobien, posttraumatische Belastungsstörungen, Zwangsstörungen, Essstörungen, Schlafstörungen: bleibt die autistische Störung lange Zeit unerkannt und unbehandelt, können sich verschiedenartige zusätzliche Störungen wie ein Fächer ausbreiten. Darum ist eine frühe Diagnose so wichtig.
+ Epilepsie bezeichnet ein Krankheitsbild mit mindestens zwei wiederholt spontan auftretenden Krampfanfällen, die nicht durch eine vorausgehende erkennbare Ursache hervorgerufen wurden.
+ Prosopagnosie (Gesichtsblindheit): Schwierigkeiten, Gesichter zu erkennen. Manche Menschen mit Autismus nehmen Menschen und Gesichter wie Gegenstände wahr. In jüngsten Untersuchungen wurde festgestellt, dass manche Menschen mit Autismus die visuellen Informationen beim Betrachten von Personen und Gesichtern in einem Teil des Gehirns verarbeiten, der eigentlich für die Wahrnehmung von Objekten zuständig ist. Ihnen fehlt dann die intuitive Fähigkeit, Gesichter im Bruchteil einer Sekunde zu erkennen und Ereignissen zuzuordnen.
+ Das Tourette-Syndrom ist eine psychische Erkrankung, die durch das Auftreten von Tics charakterisiert ist.
+ Tuberöse Sklerose ist eine genetische Erkrankung, die mit Fehlbildungen und Tumoren des Gehirns, Hautveränderungen und meist gutartigen Tumoren in anderen Organsystemen einhergeht. Klinisch ist sie häufig durch epileptische Anfälle und kognitive Behinderungen gekennzeichnet.
+
+Häufigkeit 
+
+Eine Analyse von 11.091 Interviews von 2014 durch das National Center for Health Statistics der USA ergab eine Häufigkeit (Lebenszeitprävalenz) des ASS von 2,24 % in der Altersgruppe 3–17 Jahre, 3,29 % bei Jungen und 1,15 % bei Mädchen.
+
+Eine Übersicht von 2015 zeigte, dass die Zahlen zur Geschlechterverteilung wegen methodischer Schwierigkeiten stark variierten. Das Verhältnis männlich-weiblich betrage jedoch mindestens 2:1 bis 3:1, was auf einen biologischen Faktor in dieser Frage hindeute.
+
+Die Zahl der Autismus-Fälle scheint in den vergangenen Jahrzehnten stark gestiegen zu sein. Die Centers for Disease Control (CDC) in den USA geben einen Anstieg der Autismusfälle um 57 % an (zwischen 2002 und 2006). 2006 war 1 von 110 Kindern im Alter von 8 Jahren von Autismus betroffen. Obwohl bessere und frühere Diagnostik eine Rolle spielt, kann laut CDC nicht ausgeschlossen werden, dass ein Teil des Anstiegs auf eine tatsächliche Erhöhung der Fälle zurückzuführen ist.
+
+Autismus liegt allerdings nicht nur als Erkrankung in der Bevölkerung vor, sondern auch als ein auf einem Kontinuum liegendes Persönlichkeitsmerkmal. Mit diesem Persönlichkeitsmerkmal gehen verschiedene Charakteristika einher, beispielsweise schlechtere soziale Fähigkeiten und eine vermehrte Aufmerksamkeit für Details.
+
+Früher gab es den Verdacht, dass Umweltgifte oder Impfstoff-Zusätze (Thiomersal) die Entstehung von Autismus begünstigen könnten. Nach dem Stand von 2017 gilt Letzteres als widerlegt und Ersteres als nicht ausreichend erforscht.
+
+Folgende Faktoren spielen bei der Zunahme der Fallzahlen in jüngerer Zeit eine Rolle:
+
+ Der häufigere Besuch von Kindergärten und die frühere Einschulung der Kinder erhöhen die Chance, dass Autismus entdeckt wird.
+ Eltern beobachten heute aufmerksamer, ob sich ihre Kinder „normal“ entwickeln. Früher brachte man oft ein Kind erst dann zum Arzt, wenn es auffällig spät sprechen lernte.
+ Die Definition von Autismus ist verbreitert worden, so dass mehr Kinder als autistisch diagnostiziert werden.
+ In der Vergangenheit wurde Autismus oft unter kindlicher Schizophrenie oder Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) eingeordnet.
+
+Folgen und Prognose 
+Autismus kann die Entwicklung der Persönlichkeit, die Berufschancen und die Sozialkontakte erheblich beeinträchtigen. Der Langzeitverlauf einer Störung aus dem Autismusspektrum hängt von der individuellen Ausprägung beim einzelnen Patienten ab. Die Ursache des Autismus kann nicht behandelt werden, da sie nicht bekannt ist. Möglich ist lediglich eine unterstützende Behandlung in einzelnen Symptombereichen.
+
+Andererseits sind viele Schwierigkeiten, über die autistische Menschen berichten, durch Anpassungen ihrer Umwelt vermeidbar oder verminderbar. Beispielsweise berichten manche von einem Schmerzempfinden für bestimmte Tonfrequenzen. Solchen Menschen geht es in einem reizarmen Umfeld deutlich besser. Eine autismusgerechte Umwelt zu finden bzw. herzustellen ist deshalb ein wesentliches Ziel.
+
+Kommunikationstraining für Autisten sowie für deren Freunde und Angehörige kann für alle Beteiligten hilfreich sein und wird beispielsweise in Großbritannien von der National Autistic Society angeboten und wissenschaftlich weiterentwickelt. Eine zunehmende Zahl von Schulen, Colleges und Arbeitgebern speziell für autistische Menschen demonstriert den Erfolg, Autisten in autismusgerechten Umfeldern leben zu lassen.
+
+Die autistischen Syndrome gehören nach dem (deutschen) Schwerbehindertenrecht zur Gruppe der psychischen Behinderungen. Nach den Grundsätzen der Versorgungsmedizin-Verordnung beträgt der Grad der Behinderung je nach Ausmaß der sozialen Anpassungsschwierigkeiten 10 bis 100.
+
+Beim frühkindlichen und atypischen Autismus bleibt eine Besserung des Symptombilds meist in engen Grenzen. Etwa 10–15 % der Menschen mit frühkindlichem Autismus erreichen im Erwachsenenalter eine eigenständige Lebensführung. Der Rest benötigt in der Regel eine intensive, lebenslange Betreuung und eine geschützte Unterbringung.
+
+Über den Langzeitverlauf beim Asperger-Syndrom gibt es noch keine Studien. Hans Asperger selbst nahm einen positiven Langzeitverlauf an. In der Regel lernen Menschen mit Asperger-Syndrom im Laufe ihrer Entwicklung, ihre Probleme – abhängig vom Grad ihrer intellektuellen Fähigkeiten – mehr oder weniger gut zu kompensieren. Der britische Autismusexperte Tony Attwood vergleicht den Entwicklungsprozess von Menschen mit Asperger-Syndrom mit der Erstellung eines Puzzles: Mit der Zeit bekommen sie die einzelnen Teile des Puzzles zusammen und erkennen das ganze Bild. So können sie das Puzzle (oder Rätsel) des Sozialverhaltens lösen. Schließlich können Menschen mit Asperger-Syndrom einen Status erreichen, in dem ihre Störung im Alltag nicht mehr auffällt.
+
+Es existiert eine Reihe von Büchern über autistische Menschen. Der Neurologe Oliver Sacks und Psychologe Torey L. Hayden haben Bücher über ihre Patienten mit Autismus und deren Lebenswege veröffentlicht. An Büchern, die von Autisten selbst geschrieben wurden, sind insbesondere die Werke der US-amerikanischen Tierwissenschaftlerin Temple Grandin, der australischen Schriftstellerin und Künstlerin Donna Williams, der US-amerikanischen Erziehungswissenschaftlerin Liane Holliday Willey und des deutschen Schriftstellers und Filmemachers Axel Brauns bekannt.
+
+Schule, Ausbildung, Beruf 
+
+Welche Schule für Menschen mit Autismus geeignet ist, hängt von Intelligenz, Sprachentwicklung und Ausprägung des Autismus beim Einzelnen ab. Sind Intelligenz und Sprachentwicklung normal ausgeprägt, können Kinder mit Autismus eine Regelschule besuchen. Andernfalls kann der Besuch einer Förderschule in Betracht gezogen werden. Bei vielen Menschen mit Autismus wird dieser allerdings erst nach der Schulzeit diagnostiziert.
+
+Hinsichtlich Ausbildung und Beruf muss ebenfalls der individuelle Entwicklungsstand des Einzelnen berücksichtigt werden. Sind Intelligenz und Sprachentwicklung normal ausgeprägt, kann ein reguläres Studium oder eine reguläre Berufsausbildung absolviert werden. Andernfalls kann etwa eine Tätigkeit in einer Werkstatt für Menschen mit Behinderung (WfbM) in Frage kommen. In jedem Fall ist es für die Integration und das Selbstwertgefühl autistischer Menschen wichtig, einer Tätigkeit nachgehen zu können, die ihren individuellen Fähigkeiten und Interessen entspricht.
+
+Einerseits kann der Einstieg ins reguläre Berufsleben problematisch werden, da viele Autisten die hohen sozialen Anforderungen der heutigen Arbeitswelt nicht erfüllen können. So sind laut einer von Rehadat veröffentlichten Studie von 2004 nur ungefähr zehn Prozent der autistischen jungen Menschen den Anforderungen einer Berufsausbildung gewachsen, da „neben dem erreichten kognitiven Leistungsniveau die psychopathologischen Auffälligkeiten entscheidend für die Ausbildungsfähigkeit sind“, was Geduld und möglicherweise eine längere Phase der Berufsvorbereitung erfordert, damit eine Ablehnung prinzipiell ausbildungsfähiger Jugendlicher vermieden wird. Verständnisvolle Vorgesetzte und Kollegen sind für Menschen mit Autismus unerlässlich. Wichtig sind außerdem geregelte Arbeitsabläufe, klare Aufgaben, überschaubare Sozialkontakte, eine eindeutige Kommunikation und die Vermeidung von Höflichkeitsfloskeln, welche zu Missverständnissen führen können.
+
+Auf der anderen Seite sind Menschen mit Autismussyndrom und den damit unter Umständen verbundenen Teilleistungsstärken („Inselbegabung“) teilweise gerade besonders gut für bestimmte Berufe bzw. Tätigkeiten geeignet, z. B. in der Informatik usw. Viele Autisten erfüllen durch ihre kognitive Leistungsfähigkeit auch die Voraussetzungen für ein Studium, welches sich jedoch aufgrund der nicht fest vorgeschriebenen Struktur in die Länge ziehen kann. Teilweise existieren besondere Vermittlungsagenturen: In einem ökologischen Weltbild geht es darum, dass sehr unterschiedliche Menschen, die in einem „Ökosystem“ zusammenleben (im Falle des Menschen einem sozio-ökonomischen Ökosystem) passende Nischen finden, in denen sie gut zurechtkommen. Eine autismusgerechte Umwelt zu finden bzw. herzustellen, beispielsweise spezialisierte Schulen, ist daher ein wesentliches Ziel. In den USA gibt es Zentren, die erwachsenen Autisten Arbeitsplätze vermitteln, gegebenenfalls in Kombination mit betreutem Wohnen. Die dänische Zeitarbeitsfirma Specialisterne demonstriert den Erfolg, Autisten in autismusgerechte Umfelder zu vermitteln. Der richtige Arbeitsplatz für Autisten, der besondere Eigenarten der Autisten berücksichtigt, kann schwieriger zu finden, aber oft auch sehr erfüllend sein. Spezialisierte Berufsberatungen für das Autismusspektrum gibt es kaum, da für Autisten in Deutschland die Integrationsämter zuständig sind. Die dänische Firma plant, auch in anderen Ländern etwa in Datenbankführung oder Programmierung zu vermitteln – Berufsfelder u. a., in denen oft speziell begabte Menschen mit Autismus sogar besser als andere sein können. Derart lässt sich etwa ein phänomenales Zahlengedächtnis einsetzen – stets ohne geräuschvolles Großraumbüro und mit mäßiger Arbeitszeit usw. Ende 2011 wurde in Berlin die Firma Auticon gegründet. Sie hat sich darauf spezialisiert, die oft enormen Begabungen von Menschen mit Asperger-Autismus zum Beispiel in der Qualitätskontrolle von Software zu nutzen. Die israelischen Streitkräfte setzen Autisten bevorzugt bei der Auswertung von Luftfotos ein.
+
+Der britische Psychologe Attwood schreibt über die Diagnose von leicht autistischen Erwachsenen, dass diese teilweise gut zurechtkommen, wenn sie etwa einen passenden Arbeitsplatz gefunden haben, aber im Fall von Krisen – etwa durch Erwerbslosigkeit – von ihrem Wissen über das Asperger-Syndrom zur Bewältigung von Krisen profitieren können.
+
+Behandlung 
+Ausgehend von der individuellen Entwicklung wird ein Plan aufgestellt, in dem die Art der Behandlung einzelner Symptome festgelegt und aufeinander abgestimmt wird. Dem Übereinkommen über die Rechte von Menschen mit Behinderungen (UN-Behindertenrechtskonvention) entsprechend sollte eine passende Umgebung geschaffen werden, in der alle Beteiligten lernen, wie sie die Eigenarten des Kindes am besten berücksichtigen können. Bei Kindern wird das gesamte Umfeld (Eltern, Familien, Kindergarten, Schule) in den Behandlungsplan einbezogen. Angebote für Erwachsene sind vielerorts erst im Aufbau begriffen.
+
+Einen Überblick über Anwendungen, Therapien und Interventionen hat die englische National Autistic Society veröffentlicht. Eine Auswahl von Behandlungsmethoden soll im Folgenden kurz vorgestellt werden.
+
+Zur Behandlung bei Erwachsenen liegt eine umfassende Übersicht von 2013 durch die Freiburger Autismus-Studiengruppe vor. Die systematische Auswertung von Behandlungsversuchen bei älteren Jugendlichen und Erwachsenen ist (Stand 2017) – im Gegensatz zur Situation bei Kindern – noch unbefriedigend, was auf die historisch spätere Aufmerksamkeit bei der Erfassung dieser Altersgruppen zurückgeführt wurde.
+
+Verhaltenstherapie 
+Die Verhaltenstherapie ist in der Autismustherapie die am besten wissenschaftlich abgesicherte Therapieform. Zu den Wirkfaktoren der Verhaltenstherapie bei Autismus liegt eine umfassende Studie von 2014 vor. Ziel ist es, einerseits störende und unangemessene Verhaltensweisen wie übermäßige Stereotypien oder (auto)aggressives Verhalten abzubauen und andererseits soziale und kommunikative Fertigkeiten aufzubauen. Im Prinzip wird dabei so vorgegangen, dass erwünschtes Verhalten durchgängig und erkennbar belohnt wird (positive Verstärkung). Verhaltenstherapien können entweder ganzheitlich oder auf einzelne Symptome ausgerichtet sein.
+
+Die Angewandte Verhaltensanalyse (Applied Behavior Analysis, ABA) ist eine ganzheitlich ausgerichtete Therapieform, die in den 1960er Jahren von Ivar Lovaas entwickelt wurde. Diese Therapieform ist auf die Frühförderung ausgerichtet. Zunächst wird anhand einer Systematik festgestellt, welche Fähigkeiten und Funktionen das Kind bereits besitzt und welche nicht. Hierauf aufbauend werden spezielle Programme erstellt, die das Kind befähigen sollen, die fehlenden Funktionen zu erlernen. Die Eltern werden in die Therapie einbezogen. Die Verfahrensweisen von ABA basieren im Wesentlichen auf Methoden des operanten Konditionierens. Hauptbestandteile sind Belohnung bei richtigem Verhalten und Löschung bei falschem Verhalten. Lernversuche und -erfolge sowie erwünschtes Verhalten werden möglichst direkt verstärkt, wobei primäre (angeborene) Verstärker (wie Nahrungsmittel) und sekundäre (erlernte) Verstärker (wie Spielzeug) eingesetzt werden, um erwünschtes Verhalten zu belohnen. In den 1980er Jahren wurde ABA durch Jack Michael, Mark Sundberg und James Partington weiterentwickelt, indem auch die Vermittlung sprachlicher Fähigkeiten einbezogen wurde. Es gibt zurzeit in der Bundesrepublik Deutschland nur zwei Institute, die diese Therapie anbieten.
+Autistische Menschen lehnen ABA oft wegen des Entzuges der Selbstbestimmung ab.
+
+Ein weiteres ganzheitlich orientiertes pädagogisches Förderkonzept ist TEACCH (Treatment and Education of Autistic and related Communication-handicapped Children), das sich sowohl an Kinder als auch an Erwachsene mit Autismus richtet. TEACCH ist darauf ausgerichtet, die Lebensqualität von Menschen mit Autismus zu verbessern und sie anzuleiten, sich im Alltag zurechtzufinden. Zentrale Annahmen des Konzeptes sind, dass Lernprozesse durch Strukturierung und Visualisierung bei Menschen mit autistischen Merkmalen eingeleitet werden können.
+
+Elterntraining 
+Eltern autistischer Kinder erleben nachweislich signifikant mehr Stress als Eltern von Kindern mit anderen Abweichungen oder Behinderungen. Eine Reduzierung des Stresses der Eltern zeigt deutliche Besserungen im Verhalten ihrer autistischen Kinder. Es gibt starke Hinweise für einen Zusammenhang zwischen der Stressbelastung der Eltern und den Verhaltensproblemen ihrer Kinder, unabhängig von der Schwere des Autismus. Verhaltensprobleme der Kinder zeigen sich nicht vor, sondern auch während erhöhter Stressbelastung der Eltern. Die National Autistic Society hat das „NAS EarlyBird“ Programm entwickelt, ein dreimonatiges Trainingsprogramm für Eltern, um sie auf das Thema Autismus effektiv vorzubereiten.
+
+Medikamentöse Behandlung 
+Die medikamentöse Behandlung von Begleitsymptomen, wie etwa Angst, Depressionen, Aggressivität oder Zwängen mit Antidepressiva (etwa SSRI), atypischen Neuroleptika oder Benzodiazepinen kann eine Komponente im Gesamtbehandlungsplan sein. Sie bedarf jedoch besonderer Vorsicht und aufmerksamer Beobachtung, denn nicht selten verschlimmern sie bei falscher Anwendung die Symptome, statt sie zu mildern.
+
+Mit besonderer Vorsicht ist bei der Gabe von Stimulanzien, wie sie bei Hyperaktivität (ADHS) verschrieben werden, vorzugehen, da sie bei vorhandenem Autismus und der hier häufig vorkommenden Überempfindlichkeit auf Reize der Sinnesorgane letztere noch verstärken können. Die Wirksamkeit von Methylphenidat ist bei Autisten reduziert (ca. 50 statt 75 Prozent der Patienten), 10-mal häufiger seien unerwünschte Nebenwirkungen wie z. B. Reizbarkeit oder Schlafstörungen. Zu beachten ist ferner, dass Reizüberempfindlichkeiten unabhängig von Autismus auftreten können. Ein konkreter Bezug zu Autismus wird bei einzelnen Stimulanzien nicht im Beipackzettel genannt.
+
+Ergänzende Maßnahmen 
+Mögliche ergänzende Methoden sind etwa Musik-, Kunst-, Massagetherapie, ebenso wie Reit- und Delfintherapie oder der Einsatz von Therapierobotern (Keepon) oder Echolokationslauten (Dolphin Space). Sie können die Lebensqualität steigern, indem sie positiv auf Stimmung, Ausgeglichenheit und Kontaktfähigkeit einwirken.
+Das zeigt 2008 etwa ein umfassender wissenschaftsjournalistischer Bericht über zwei eigene autistische Kinder – mit Hund.
+
+Verfahren ohne Wirksamkeitsnachweis 
+Weitere bekannte Maßnahmen sind Festhaltetherapie, Gestützte Kommunikation und Daily-Life-Therapie. Diese Maßnahmen „sind im Kontext der Behandlung des Autismus entweder äußerst umstritten und unglaubwürdig oder deren Annahmen und Versprechungen wurden durch wissenschaftliche Untersuchungen im Wesentlichen widerlegt“.
+ Die Festhaltetherapie wurde 1984 von der US-amerikanischen Kinderpsychologin Martha Welch entwickelt und von Jirina Prekop im deutschen Sprachraum verbreitet. Ansatzpunkt bei dieser Therapie ist die nicht dem aktuellen Stand der Autismusforschung entsprechende Annahme, dass der Autismus eine emotionale Störung sei, die durch negative Einflüsse in der frühesten Kindheit hervorgerufen werde. Das betroffene Kind habe kein Urvertrauen aufbauen können. Bei der sehr umstrittenen Festhaltetherapie soll durch Festhalten des Kindes der Widerstand gegen Nähe und Körperkontakt gebrochen und so das Urvertrauen nachträglich entwickelt werden. Bedenklich bei der Festhaltetherapie „ist nicht nur die manchmal äußerst dramatisch und fast gewalttätig anmutende Vorgehensweise, sondern auch die dem Konzept mehr oder weniger zugrundeliegende These, dass das frühe Urvertrauen vom Kind nicht erworben werden konnte. Dies wird häufig von Eltern im Sinne einer persönlichen Schuld am Sosein ihres autistischen Kindes interpretiert“.
+ Bei der Methode Gestützte Kommunikation benutzt die Person mit Autismus (gestützte Person) mit körperlicher Hilfestellung durch eine assistierende Person (Stützer) eine Kommunikationshilfe (Buchstabentafel, Kommunikationstafel, Computertastatur u. ä.). Durch diese gemeinsame Bedienung entsteht ein Text, dessen Autorenschaft der gestützten Person zugeschrieben wird. Die Stützer werden in Seminaren in die Gestützte Kommunikation eingeführt. Kritik an der Methode entzündet sich u. a. daran, dass in Blindversuchen nachgewiesen werden konnte, dass der Stützer den Schreiber unbewusst und unbeabsichtigt beeinflusste, so dass der Stützer und nicht die gestützte Person Urheber des Textes ist.
+ Die Daily-Life-Therapie wurde erstmals 1964 in Japan angewandt. Dabei wird von der Grundhypothese ausgegangen, dass ein hohes Angstniveau bei Menschen mit Autismus durch körperliche Anstrengung beseitigt werden kann. Körperliche Anstrengung führt zu einer erhöhten Ausschüttung von Endorphinen, die schmerzlindernd oder schmerzunterdrückend (analgetisch) wirken.
+
+Des Weiteren gibt es verschiedene „biologisch begründete“ Therapiemethoden – etwa die Behandlung mit dem Darmhormon Sekretin –, unter Verwendung hoher Dosen von Vitaminen und Mineralien oder mit besonderen Diäten. Auch hier fehlen bisher Wirksamkeitsnachweise, so dass von diesen Maßnahmen abgeraten wird.
+
+Passende Umgebung 
+Seit dem Inkrafttreten des Übereinkommens über die Rechte von Menschen mit Behinderungen (UN-Behindertenrechtskonvention) wird zumindest in Deutschland als zusätzliches Angebot für Kinder die Möglichkeit geschaffen, eine passende Umgebung zu gestalten, so dass Behinderung durch Regulierbarkeit der Barrieren vermindert wird. Defizite in der Entwicklung können bei einem förderlichen Umgang mit den Kindern sowie durch eine Umgebung, die Vertrautheit, Ruhe, Überschaubarkeit und Vorhersagbarkeit bietet, teilweise ausgeglichen werden. Ob hierbei zusätzlich Medikamente verordnet werden sollten, wird im Rahmen der Debatte um Neurodiversität kritisch diskutiert und verschieden gehandhabt.
+
+Mögliche Ursachen von Autismus 
+Mögliche Ursachen oder Auslöser von Autismus werden heute auf unterschiedlichen Wissenschaftsgebieten erforscht. Als widerlegt gelten heute jedoch die noch bis in die 1960er Jahre vertretenen Behauptungen, Autismus entstehe durch eine gefühlskalte Mutter (die sogenannte „Kühlschrankmutter“), durch lieblose Erziehung, mangelnde Zuwendung oder psychische Traumata.
+
+Biologische Erklärungsansätze 
+Die biologischen Ursachen des gesamten Autismusspektrums liegen in entwicklungsbiologischen Abweichungen bei Entstehung und Wachstum des Gehirns. Verändert sind nach aktuellem Forschungsstand dabei sowohl Anatomie als auch Funktion, und insbesondere die Ausbildung bestimmter Nervenverbindungen (Konnektom). Gegenstand der Forschung sind die möglichen Ursachen dieser Abweichungen, die in erster Linie – aber nicht nur – die Embryonalentwicklung betreffen. Neben besonderen vererbten genetischen Bedingungen kommen im Prinzip alle Faktoren in Frage, die die Arbeit der Gene in kritischen Zeitfenstern beeinflussen (Teratologie).
+
+Genetische Faktoren 
+
+Die genetischen Ursachen des Gesamtbereichs des Autismusspektrums haben sich als äußerst vielfältig und hochkomplex erwiesen. In einer Übersicht von 2011 wurden bereits 103 Gene und 44 Genorte (Genloci) als Kandidaten für eine Beteiligung identifiziert, und es wurde vermutet, dass die Zahlen weiter stark steigen würden. Es wird allgemein davon ausgegangen, dass die immensen Kombinationsmöglichkeiten vieler genetischer Abweichungen die Ursache für die große Vielfalt und Breite des Autismusspektrums sind.
+
+Seit etwa 2010 hat sich zunehmend herausgestellt, dass neben den länger bekannten erblichen Veränderungen gerade bei Autismus submikroskopische Veränderungen in Chromosomen eine Schlüsselrolle spielen, nämlich die Kopienzahlvariationen. In erster Linie handelt es sich dabei um Genduplikation oder Gendeletion. Sie entstehen bei der Bildung von Eizellen der Mutter oder von Samenzellen des Vaters (Meiose). Das heißt, sie entstehen neu (de novo). Wenn ein Kind eine solche Abweichung von einem Elternteil erhält, kann es sie jedoch weiter vererben, und zwar mit einer Wahrscheinlichkeit von 50 %. Dadurch ist es möglich, dass eine Abweichung, die zu Autismus beiträgt, nur einmalig bei einem Kind auftritt und nicht weiter vererbt wird oder aber auch mehrere Familienmitglieder in verschiedenen Generationen betrifft. In letzterem Fall kann zudem die Durchschlagskraft (Penetranz und Expressivität) einer solchen genetischen Abweichung von Person zu Person höchst unterschiedlich sein (0–100 %). Eineiige Zwillinge weisen im Regelfall beide eine Autismus-Spektrum-Störung auf. Diesbezügliche Ausnahmen werden auf Umweltfaktoren und epigenetische Einflüsse zurückgeführt. Moderne Analysemethoden (DNA-Chip-Technologie) erlauben die Feststellung genetischer Abweichungen (Analyse des Karyotyps), die zur Ausprägung der Spektrum-Störung führen, wobei die Einbeziehung von Familienmitgliedern oft hilfreich oder sogar notwendig ist. Die Ergebnisse können dann die Grundlage von genetischen Beratungen bilden.
+
+Spiegelneuronen 
+
+Bis 2013 gab es widersprüchliche Hinweise zu der Hypothese, dass Systeme von Spiegelneuronen bei Menschen mit Autismus möglicherweise nicht hinreichend funktionstüchtig seien. In einer Metaanalyse von 2013 wurde dann festgestellt, dass es wenig gebe, das die Hypothese stütze, und dass das Datenmaterial eher mit der Annahme vereinbar sei, dass die absteigende (Top-down-)Modulierung sozialer Reaktionen bei Autismus atypisch sei.
+
+Abweichungen im Verdauungstrakt 
+
+Obwohl Verdauungsstörungen im Zusammenhang mit ASS oft beschrieben wurden, gibt es bis heute (Stand November 2015) keine zuverlässigen Daten zu einer möglichen Korrelation oder gar einem möglichen ursächlichen Zusammenhang – weder in die eine noch in die andere Richtung.
+
+Vermännlichung des Gehirns 
+
+Die Theorie, dass eine Vermännlichung des Gehirns (Extreme Male Brain Theory) durch einen hohen Testosteronspiegel im Mutterleib ein Risikofaktor für ASS sein könnte, wurde in neueren Studien gezielt untersucht, konnte jedoch nicht bestätigt werden.
+
+Atypische Konnektivität 
+
+2004 entdeckte eine Forschergruppe um Marcel Just und Nancy Minshew an der Carnegie Mellon University in Pittsburgh (USA) die Erscheinung der veränderten Konnektivität (großräumiger Informationsfluss, engl. connectivity) im Gehirn bei den Gruppendaten von 17 Probanden aus dem Asperger-Bereich des Autismusspektrums. Funktionelle Gehirnscans (fMRI) zeigten im Vergleich zur Kontrollgruppe sowohl Bereiche erhöhter als auch Bereiche verminderter Aktivität sowie eine verminderte Synchronisation der Aktivitätsmuster verschiedener Gehirnbereiche. Auf der Grundlage dieser Ergebnisse entwickelten die Autoren erstmals die Theorie der Unterkonnektivität (underconnectivity) für die Erklärung des Autismusspektrums.
+
+Die Ergebnisse wurden relativ schnell in weiteren Studien bestätigt, ausgebaut und präzisiert, und das Konzept der Unterkonnektivität wurde entsprechend fortentwickelt. Bezüglich anderer Theorien wurde es nicht als Gegenmodell, sondern als übergreifendes Generalmodell präsentiert. In den folgenden Jahren nahm die Anzahl der Studien zur Konnektivität beim Autismusspektrum explosionsartig zu.
+
+Dabei wurde neben eher globaler Unterkonnektivität häufig auch eher lokale Überkonnektivität gefunden. Letztere wird allerdings – gestützt auf Kenntnisse der frühkindlichen Gehirnentwicklung bei Autismus – eher als Überspezialisierung und nicht als Steigerung der Effektivität verstanden. Um beide Erscheinungen zu berücksichtigen, wird das Konzept nun atypische Konnektivität genannt. Es zeichnet sich ab (Stand: Juli 2015), dass es sich als Konsensmodell in der Forschung etabliert. Dies gilt auch, wenn der Asperger-Bereich des Autismusspektrums für sich betrachtet wird. Die beim Autismusspektrum vorliegende atypische Konnektivität wird verstanden als Ursache des hier beobachteten besonderen Verhaltens, wie etwa bei der Erfassung von Zusammenhängen zwischen Dingen, Personen, Gefühlen und Situationen.
+
+Umwelt- und mögliche kombinierte Faktoren 
+
+Während die Hypothese, dass ein Zusatz von Thiomersal in Impfstoffen das Risiko von ASS erhöhen könnte, als vielfach widerlegt gilt (siehe nachfolgender Abschnitt), ist der mögliche Einfluss anderweitiger – umweltbedingter – erhöhter Aufnahme von Quecksilber auf das ASS-Risiko aufgrund widersprüchlicher Untersuchungsergebnisse noch umstritten. Eine Studie der Swinburne University im Journal of Toxicology and Environmental Health aus dem Jahr 2011, die auf einer Umfrage unter den Enkelkindern der Überlebenden der „Rosa-Krankheit“ basiert (Infantile Akrodynie, eine wahrscheinlich durch Quecksilberintoxikation verursachte Stammhirnenzephalopathie mit Haut- und multiplen Organsymptomen bei Kleinkindern), legt nahe, dass tatsächlich eine Kombination aus genetischen und umweltbedingten Faktoren bei der Entstehung autistischer Symptome eine Rolle spielen kann, allerdings nur bei Kindern mit einer (angeborenen) Präposition für Quecksilber-Überempfindlichkeit. Die Studie verweist allerdings darauf, dass sich die Autismusdiagnosen in dieser Studie nicht bestätigt hätten. Für die weitere Erforschung eines möglichen Zusammenhangs zwischen Autismus und Quecksilbervergiftung in vergleichbar hohen Mengen sei zunächst die weitere Erforschung der „Rosa-Krankheit“ erforderlich. In den 50er Jahren wurde Quecksilber in wesentlichen Mengen gegen Kinderkrankheiten verabreicht, diese Form der Akrodynie ist seit damals praktisch verschwunden. In der Studie wurden offenbar weder die Betroffenen selbst untersucht noch eine Übertragbarkeit zwischen der Akrodynie und anderen Quecksilberbelastungen aufgezeigt.
+
+Psychoanalytischer Erklärungsansatz 
+Der Psychoanalytiker Bernd Nissen vermutete, dass an der Entstehung autistischer Störungen projektive Identifikation als Abwehrmechanismus beteiligt ist. Es wird in dem Modell angenommen, dass in der frühkindlichen Phase der Entwicklung die Hoffnung auf ein containendes Objekt aufgegeben wurde, was verschiedenste lebensgeschichtliche Ursachen haben kann. Durch psychische Einkapselung werden Selbst- und Objektbeziehungen in Folge vermieden. Zum Schutz zieht ein Kind seine Aufmerksamkeit von der Welt ab zugunsten selbsterzeugter Empfindungen, die gut vorhersagbar sind und eine Überforderung vermeiden, die die Gefahr einer Auflösung der Persönlichkeit beinhalten würde.
+
+Widerlegte Erklärungsansätze 
+Schäden durch falsche Impfung/Impfstoffe
+
+Es taucht immer wieder das Gerücht auf, Autismus könne durch Impfungen etwa gegen Mumps, Masern oder Röteln (MMR) verursacht werden, wobei eine im Impfstoff enthaltene organische Quecksilberverbindung, das Konservierungsmittel Thiomersal, als auslösende Substanz verdächtigt wird. Derlei Berichte entbehren jedoch „jeglicher wissenschaftlicher Grundlage, so unterscheidet sich die Häufigkeit von Autismus nicht bei geimpften und ungeimpften Kindern.“ Durch verschiedene Studien ist der Zusammenhang zwischen Thiomersal enthaltenden Impfstoffen und Autismus mittlerweile widerlegt. Ungeachtet dessen ist heute in der Regel in Impfstoffen kein Thiomersal mehr enthalten. Eine Abnahme der Anzahl der Neuerkrankungen war erwartungsgemäß in Folge nicht zu beobachten – eine weitere Schwächung der „Autismus-durch-Impfung“-Hypothese.
+
+Die Annahmen, dass Autismus eine Folge von Impfschäden sein soll, ging auf eine Veröffentlichung von Andrew Wakefield in der Fachzeitschrift The Lancet 1998 zurück. 2004 wurde bekannt, dass Wakefield vor der Veröffentlichung von Anwälten, die Eltern Autismus-betroffener Kinder vertraten, 55.000 £ an Drittmitteln erhalten hatte. Diese suchten Verbindungen zwischen Autismus und der Impfung, um Hersteller des Impfstoffes zu verklagen. Die Gelder waren weder den Mitautoren noch der Zeitschrift bekannt gewesen. Daraufhin traten zehn der dreizehn Autoren des Artikels von diesem zurück. Im Januar 2010 entschied die britische Ärztekammer (General Medical Council), dass Wakefield „unethische Forschungsmethoden“ angewandt hatte und seine Ergebnisse in „unehrlicher“ und „unverantwortlicher“ Weise präsentiert wurden. The Lancet zog daraufhin Wakefields Veröffentlichung vollständig zurück. In der Folge wurde im Mai 2010 auch ein Berufsverbot in Großbritannien gegen ihn ausgesprochen.
+
+Die amerikanische Food and Drug Administration hat im September 2006 einen Zusammenhang zwischen Autismus und Impfstoffen als unbegründet abgewiesen, zahlreiche wissenschaftliche und medizinische Einrichtungen folgten dieser Einschätzung.
+
+Auties und Aspies 
+Die Ausprägungen von Autismus umfassen ein breites Spektrum. Viele Menschen mit Autismus wünschen sich keine „Heilung“, da sie Autismus nicht als Krankheit, sondern als normalen Teil ihres Selbst betrachten. Viele Erwachsene mit leichterem Autismus haben gelernt, mit ihrer Umwelt zurechtzukommen. Sie wünschen sich statt Pathologisierung oft nur die Toleranz und Akzeptanz durch ihre Mitmenschen. Auch sehen sie Autismus nicht als etwas von ihnen Getrenntes, sondern als integralen Bestandteil ihrer Persönlichkeit.
+
+Die australische Künstlerin und Kanner-Autistin Donna Williams hat in diesem Zusammenhang den Ausdruck Auties vorgeschlagen, der sich entweder speziell auf Menschen mit Kanner-Autismus bezieht, oder allgemein auf alle Menschen im Autismus-Spektrum. Williams gründete 1992 zusammen mit Kathy Lissner Grant und Jim Sinclair das Autism Network International (ANI) und gilt als Mitinitiatorin der Neurodiversitätsbewegung. Von der US-amerikanischen Erziehungswissenschaftlerin und Asperger-Autistin Liane Holliday Willey stammt der Ausdruck Aspies für Menschen mit Asperger-Syndrom. Die Psychologen Tony Attwood und Carol Gray richten in ihrem Essay Die Entdeckung von „Aspie“ den Blick auf positive Eigenschaften von Menschen mit Asperger-Syndrom. Die Ausdrücke Auties und Aspies wurden von vielen Selbsthilfeorganisationen von Menschen im Autismusspektrum übernommen.
+
+Um dem Wunsch vieler Autisten nach Akzeptanz durch ihre Mitmenschen Ausdruck zu verleihen, feiern einige seit 2005 jährlich am 18. Juni den Autistic Pride Day. Das Schlagwort der Autismusrechtsbewegung – „Neurodiversität“ (neurodiversity) – bringt die Idee zum Ausdruck, dass eine untypische neurologische Entwicklung einem normalen menschlichen Unterschied entspreche, der ebenso Akzeptanz verdiene wie jede andere (physiologische oder sonstige) menschliche Variante.
+
+Autismusforschung 
+In der Grundlagenforschung wurde bei der visuellen Wahrnehmung von Autisten ein überscharfer Aufmerksamkeitswinkel festgestellt, der in seiner Schärfe (sharpness) stark mit der Schwere der autistischen Symptome korrelierte, sowie eine erhöhte Empfindlichkeit für visuelle Feinkontraste.
+
+Klinische Beobachtungen von Uta Frith (2003) verdeutlichten, dass Menschen mit Autismus häufig erhebliche Schwierigkeiten haben, sprachliche Äußerungen in der gegebenen sprachlichen Situation (Kontext) angemessen zu verstehen. Ergebnisse von Melanie Eberhardt und Christoph Michael Müller deuteten darauf hin, dass ein Autismus-Konzept einer am Detail orientierten Verarbeitung von Sprache viele Besonderheiten des Sprachverstehens autistischer Menschen erklären kann.
+
+Aktuelle Ergebnisse der internationalen Autismusforschung werden auf der seit 2007 jährlich stattfindenden Wissenschaftlichen Tagung Autismus-Spektrum (WTAS) vorgestellt. Diese Tagung ist mit Gründung der Wissenschaftlichen Gesellschaft Autismus-Spektrum (WGAS) 2008 auch deren wesentliches Organ.
+
+Ein besonderes Forschungszentrum im deutschsprachigen Raum ist das Universitäre Zentrum Autismus Spektrum (UZAS) in Freiburg.
+
+Autismus und Behinderung
+
+Barrierefreiheit 
+
+Eine UN-Studie erkennt die kulturelle Eigenart von Autisten, barrierefrei online Gemeinschaften zu bilden, als im Rahmen der Menschenrechte gleichwertig an: 
+
+Autisten haben in Deutschland das Recht auf barrierefreie fernschriftliche Kommunikation. Das kann beispielsweise einer Entscheidung des Bundessozialgerichts vom 14. November 2013 entnommen werden, die von der Enthinderungsselbsthilfe von Autisten für Autisten erstritten wurde.
+
+Schwerbehinderung 
+Grad der Behinderung: 
+
+Hilflosigkeit: 
+
+Die vorgenannten Regelungen gelten seit dem 23. Dezember 2010 bzw. 5. November 2011
+
+Autisten galten in Deutschland vor 2010/2011 nach den früheren Anhaltspunkten für die ärztliche Gutachtertätigkeit (AHG) im sozialen Entschädigungsrecht und nach dem Schwerbehindertenrecht Teil 2 SGB IX automatisch als Schwerbehinderte mit einem Grad der Behinderung (GdB) zwischen 50 und 100. Außerdem wurde bei autistischen Kindern mindestens bis zum 16. Lebensjahr Hilflosigkeit angenommen.
+
+Autismus in den Medien 
+Dokumentationen
+ Meine Welt hat tausend Rätsel – Leben und Denken hochbegabter Autisten – Dokumentation im Rahmen der ZDF-Sendung 37 Grad, Folge 572, Deutschland 2007, Regie: Chiara Sambucchi.
+ Autisten – Dokumentarfilm von Wolfram Seeger für WDR und 3sat über das Haus Bucken in Velbert, ein privat organisiertes Heim, in dem 13 erwachsene Autisten leben. Deutschland 2009 (90 Min.).
+ Alternative Kurzfassung: Der seltsame Sohn – Im Haus der Autisten – u. a. im Rahmen der WDR-Sendereihe Menschen hautnah ausgestrahlt, 2009 (44 Min.).
+ Expedition ins Gehirn – 3-teilige Wissenschaftsdokumentation über Savants und Autisten mit Savant-Fähigkeiten, Arte und Radio Bremen, TR-Verlagsunion, 2006, ISBN 3-8058-3772-0 (DVD, deutsch/englisch, ca. 156 Min.).
+ Sendungen des WDR-Fernsehmagazins Quarks & Co:
+ Autismus – wenn Denken einsam macht. 2006.
+ Was ist anders bei Nicole? Begegnung mit einer Autistin. 2008.
+ Was ist Autismus? – Reihe im Rahmen des Schulfernsehens Planet Schule des SWR und WDR Fernsehens
+ The Boy With The Incredible Brain – Reportage über Daniel Tammet im Rahmen der britischen TV-Serie Extraordinary People. 2005 (englisch).
+ Wenn Veränderung ängstigt. Kurzfilm, Deutschland 2012, Regie: Christian Landrebe (7 Min.)
+ Hilfe bei Autismus? Die Rolle der Bakterien – Dokumentation von Marion Gruner und Christopher Sumpton über Wissenschaftler, die Indizien für die Ursache der Störung in der menschlichen Darmflora suchen. Kanada 2012, Arte (52 Min.).
+ Ines Schipperges: Autismus-Serie: Alle acht Folgen. In: SZ-Magazin, 28. März 2018. Ausgezeichnet mit dem DGPPN-Medienpreis für Wissenschaftsjournalismus in der Kategorie Gesellschaft.
+
+Kinofilme
+
+Im Folgenden eine Liste von Filmen, die Autismus als zentrales Thema behandeln:
+ The Accountant (mit Ben Affleck)
+ Das Mercury Puzzle (mit Miko Hughes)
+ Rain Man (mit Dustin Hoffman)
+ Niemand hört den Schrei (mit Bradley Pierce)
+ Ben X (mit Greg Timmermans)
+ Ihr Name ist Sabine (mit Sabine Bonnaire)
+ Du gehst nicht allein (Film über das Leben von Temple Grandin, mit Claire Danes)
+ My Name Is Khan (mit Shah Rukh Khan)
+ Der kalte Himmel
+ Mozart und der Wal (Originaltitel: Mozart and the Whale, mit Josh Hartnett)
+ Im Weltraum gibt es keine Gefühle (2011)
+ Jimmie (2008)
+ Matthijs’ Regeln (Originaltitel: De regels van Matthijs) (2012)
+ Alles außer gewöhnlich (2019)
+
+Fernsehserien
+ Aapki Antara (Indien 2009)
+ Kommissar Beck – Der Junge in der Glaskugel (Schweden 2001)
+ Die Brücke – Transit in den Tod (Schweden/Dänemark 2011; deutsch als ZDF-Koproduktion)
+ The Good Doctor (Vereinigte Staaten 2017)
+ Atypical (Vereinigte Staaten 2017)
+ Pablo (Großbritannien, 2017–2020)
+
+Hörfunk
+ Thomas Gaevert: „Ich kriegte es nicht raus“ – Bericht aus der Welt der Autisten. Produktion: Südwestrundfunk 2005 – 25 Minuten; Erstsendung: 21. September 2005 auf SWR2
+
+Literatur 
+Aktuelle Leitlinien
+ AWMF- Leitlinie Autismus-Spektrum-Störungen im Kindes-, Jugend- und Erwachsenenalter, Teil 1: Diagnostik. Deutsche Gesellschaft für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie, Stand 2016 (awmf.org; gültig von 2016 bis 2021).
+
+Werke von historischer Bedeutung
+ Hans Asperger: Das psychisch abnorme Kind. In: Wiener Klinische Wochenzeitschrift. Jg. 51, 1938, , S. 1314–1317.
+ Hans Asperger: Die „Autistischen Psychopathen“ im Kindesalter. In: Archiv für Psychiatrie und Nervenkrankheiten. Band 117, 1944, S. 73–136. doi:10.1007/bf01837709 (autismus-biberach.com [PDF; 197 kB]).
+ Susan Folstein und Michael Rutter: Infantile Autism: a Genetic Study of 21 Twin Pairs. In: The Journal of Child Psychology and Psychiatry. Band 18, Nr. 4, 1977, S. 297–321, doi:10.1111/j.1469-7610.1977.tb00443.x, Volltext.
+ Leo Kanner: Autistic disturbances of affective contact. In: Nervous Child. 1943, Band 2, S. 217–250.
+ Lorna Wing and Judith Gould: Severe Impairments of Social Interaction and Associated Abnormalities in Children: Epidemiology and Classification In: Journal of Autism and Developmental Disorders, Band 9, Nr. 1, 1979 (Studie, die als wegbereitend für das Konzept des Autismusspektrums gilt).
+ Lorna Wing: Asperger’s syndrome. A clinical account. In: Psychological medicine. Band 11, H. 1, Februar 1981, , S. 115–129, PMID 7208735 (wissenschaftliche Veröffentlichung, die maßgeblich dazu beitrug, die Bezeichnung Asperger-Syndrom international zu etablieren).
+
+Genetik des Autismusspektrums
+ A. Thapar, M. Rutter: Genetic Advances in Autism. In: Journal of autism and developmental disorders. Band 51, Nummer 12, Dezember 2021, S. 4321–4332, doi:10.1007/s10803-020-04685-z, PMID 32940822,  (Review).
+
+Neurobiologie des Autismusspektrums
+ J. O. Maximo, E. J. Cadena, R. K. Kana: The implications of brain connectivity in the neuropsychology of autism. In: Neuropsychology review. Band 24, Nummer 1, März 2014, S. 16–31, doi:10.1007/s11065-014-9250-0, PMID 24496901,  (Review).
+ R. A. Müller, P. Shih, B. Keehn, J. R. Deyoe, K. M. Leyden, D. K. Shukla: Underconnected, but how? A survey of functional connectivity MRI studies in autism spectrum disorders. In: Cerebral cortex (New York, N.Y. 1991). Band 21, Nummer 10, Oktober 2011, S. 2233–2243, doi:10.1093/cercor/bhq296, PMID 21378114,  (Review).
+
+Einführungs- und Ratgeberliteratur
+ Tony Attwood: Asperger-Syndrom. Wie Sie und Ihr Kind alle Chancen nutzen: das erfolgreiche Praxis-Handbuch für Eltern und Therapeuten. Georg Thieme Verlag, Stuttgart 2005, ISBN 3-8304-3219-4 (englisches Original 1998).
+ Vera Bernard-Opitz: Kinder mit Autismus-Spektrum-Störungen (ASS): Ein Praxishandbuch für Therapeuten, Eltern und Lehrer. 3., überarbeitete und erweiterte Auflage. Kohlhammer, Stuttgart 2015, ISBN 978-3-17-022465-0.
+ Martina Friedrichs: Autismus und Pflege: Wie pflegebedürftig ist ein Autist? Books on Demand, 2020, ISBN 978-3-7519-9700-3.
+ Anne Häussler: Der TEACCH-Ansatz zur Förderung von Menschen mit Autismus – Einführung in Theorie und Praxis. 5., verbesserte und erweiterte Auflage. Borgmann, Dortmund 2016, ISBN 978-3-8080-0771-6.
+ Inge Kamp-Becker, Sven Bölte: Autismus. 2. Auflage. Reinhardt, München 2014, ISBN 978-3-8252-4153-7.
+ Joan Matthews und James Williams: Ich bin besonders! Autismus und Asperger. Das Selbsthilfebuch für Kinder und ihre Eltern. Trias, Stuttgart 2001, ISBN 3-89373-668-9.
+ Fritz Poustka u. a.: Ratgeber autistische Störungen. Informationen für Betroffene, Eltern, Lehrer und Erzieher. Hogrefe, Göttingen u. a. 2004, ISBN 3-8017-1633-3.
+ Christine Preißmann: Autismus und Gesundheit: Besonderheiten erkennen – Hürden überwinden – Ressourcen fördern. W. Kohlhammer, 2017, ISBN 978-3-17-032027-7
+ Helmut Remschmidt: Autismus. Erscheinungsformen, Ursachen, Hilfen (Beck’sche Reihe. Band 2147). 5., aktualisierte Auflage. Beck, München 2012, ISBN 978-3-406-57680-5, .
+ Brita Schirmer: Elternleitfaden Autismus. Wie Ihr Kind die Welt erlebt. Mit gezielten Therapien wirksam fördern. Schwierige Alltagssituationen meistern. Trias, Stuttgart 2006, ISBN 3-8304-3331-X.
+ Judith Sinzig: Frühkindlicher Autismus. Springer-Verlag, Berlin 2011, ISBN 978-3-642-13070-0; doi:10.1007/978-3-642-13071-7.
+ Kristin Snippe: Autismus. Wege in die Sprache. Schulz-Kirchner-Verlag, Idstein 2013, ISBN 978-3-8248-0999-8.
+ Peter Vermeulen: Das ist der Titel: Über autistisches Denken. Bosch & Suykerbuyk, Arnhem 2009, ISBN 978-90-79122-03-5.
+ Siegfried Walter: Autismus. Erscheinungsbild, Ursachen und Behandlungsmöglichkeiten. Persen, Horneburg 2001, ISBN 3-89358-809-4.
+ Michaela Weiß: Autismus. Therapien im Vergleich. Ein Handbuch für Therapeuten und Eltern. Edition Marhold, Berlin 2002, ISBN 3-89166-997-6.
+
+Weblinks 
+
+  Ohne Datum (englisch).
+ Datenbank: Autism Data. National Autistic Society (englisch; Artikel, Bücher, Videos und andere Materialien über Autismus).
+ Video von
+
+Einzelnachweise 
+
+ 
+Krankheitsbild in Phoniatrie und Pädaudiologie
+Psychische Störung
+Kinder- und Jugendpsychiatrie
+Behinderungsart
+Wikipedia:Artikel mit Video

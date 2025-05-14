@@ -1,0 +1,58 @@
+Clinical Electrophysiological Testing is based on techniques borrowed from electrophysiology used for the clinical diagnosis of patients. There are many processes that occur in the body which produce electrical signals that can be detected. Depending on the location and the source of these signals, distinct methods and techniques have been developed to properly target them.
+
+Role of electrophysiology in clinical medicine 
+
+Electrophysiology has a very important role in ensuring accurate clinical diagnoses. The brain, the heart and skeletal muscles are prime sources of electric and magnetic fields that can be recorded and the resulting patterns can give insight on what ailments the subject may have.  
+
+While electrophysiological tests generally passively collect electrical data, it is sometimes necessary to apply an external stimulus to the desired target in order to produce transient evoked potentials that can provide further insight not obtained from solely passive recording methods.
+
+Electroencephalography (EEG) 
+
+Electroencephalography is the measurement of brain activity through the surface of the scalp. Electroencephalography data can be viewed as a qualitative wave form, or it can be further processed through analytical procedures to produce quantitative electroencephalography (qEEG).  If qEEG data is mapped from multiple parts of the brain then it is a topographic qEEG (also known as brain electrical activity mapping or BEAM). 
+
+If EEGs are recorded after intentionally stimulating the brain, then the resulting data is called a event related potential. The firing of neurons throughout the brain has been known to have localized relationships to certain functions, processes and reactions to stimuli. With proper equipment it is possible to locate where in the brain neurons have been activated and measure their event related potentials. Event-related potentials can be classified as either: sensory, motor or cognitive.
+
+EEGs can be used to diagnose and monitor brain diseases such as:
+
+Brainstem lesions in traumatic brain injury 
+In the event of a traumatic brain injury the presence of a brainstem lesion has a significant impact in the prognosis of the patient. Although the development of MRI has allowed for very effective detection of brainstem lesions, evoked potentials measurements are also an electrophysiological technique that has been used for over 30 years in this context.
+
+Dementia 
+Dementia is a progressive, degenerative brain disease that impairs cognitive functions. Alzheimer’s disease and other types of dementia diagnosis is being improved through the use of electroencephalogram (EEG) and event-related potentials(ERP).
+
+Epilepsy 
+Abnormally excessive or synchronous neuronal activity in the brain can cause seizures. These symptoms are characteristic of the neurological disorder known as epilepsy. Epilepsy is typically diagnosed with an EEG test. However, the effectiveness of MEG in the diagnosis of neocortical epilepsy has also been established.
+
+Parkinson's disease 
+Parkinson's disease is a degenerative ailment that affects the central nervous system and is typically identified initially by its motor related symptoms. Accurate differentiation of PD from any other neurological disorder and the identification of the disease course is important in establishing an appropriate antiparkinsonian therapy. In the diagnostic role, surface EMG is a very informative method used to obtain relevant quantitative characteristics.
+
+Magnetoencephalography (MEG) 
+
+The measurement of the naturally occurring magnetic fields produced by the brain's electrical activity is called magnetoencephalography. This method differs from magnetic resonance imaging in that it passively measures the magnetic fields without altering the body's magnetization. However, data from MEG and MRI can be combined to create images that approximately map the estimated location of the natural magnetic fields. This composite imaging process is called magnetic source imaging (MSI).
+
+Electrocardiography (EKG) 
+
+The heart is the muscle that pumps oxygenated blood to the whole body. In order for the heart to contract in a regular, organized manner, specific electrical signals are sent to the myocardium from the pacemaker cells. These cardiac, electrical signals produce a peculiar pattern that can be measured and analyzed. Electrocardiography is the measurement of these signals. EKGs are cheap, non-invasive and provide immediate results which has allowed for their proliferation of use in medicine. EKGs can be ordered as a one-time test, or can be continuously monitored in the case of patients wearing a holter monitor and/or admitted to a telemetry unit. EKGs provide information about heart rate, heart rhythms and provide some data on underlying myocardium, valves and coronary vessels. EKGs can be used to aid in the diagnosis of myocardial infarction, arrhythmia, left ventricular hyptertrophy, valvulopathies, and coronary artery disease.
+
+Electromyography (EMG) 
+
+Electromyography is the measurement and analysis of the electrical activity in skeletal muscles. This technique is useful for diagnosing the health of the muscle tissue and the nerves that control them. EMG measures action potentials, called Motor Unit Action Potentials (MUAPs), created during muscle contraction. A few common uses are determining whether a muscle is active or inactive during movement (onset of activity), assessing the velocity of nerve conduction, and the amount of force generated during movement. EMGs are the basis for nerve conduction studies which measure the electrical conduction velocity and other characteristics of nerves in the body. EMGs can be used to diagnose and monitor neurological diseases such as:
+
+Carpal tunnel syndrome (CTS) 
+The compression of the median nerve within the carpal canal of the wrist and the progression of symptoms resulting from this entrapment is known as carpal tunnel syndrome (CTS). Nerve conduction studies have been used as a control electrophysiological method in the development of better CTS diagnostic techniques.
+
+Essential tremor 
+It is hard to diagnose essential tremor and differentiate it from other types of tremor. The burst discharge patterns of EMG signals is compared to the frequency and amplitude of videotaped tremors to evaluate and diagnose essential tremor.
+
+Spasticity 
+Spasticity is a velocity dependent resistance to stretch.  The most commonly affected muscles are those that oppose gravity, the elbow and wrist flexors, knee extensors and ankle plantarflexors. Spasticity is a side effect of multiple central nervous system disorders including Cerebral Palsy, Stroke, Multiple Sclerosis and spinal cord injuries and results in limited joint range of motion of the affected limb. Electromyography (EMG) has been proposed by multiple researchers as an alternative measurement technique to quantify spasticity. The use of EMG offers a quantitative value of severity as opposed to relying on subjective scoring protocols.
+
+Multiple sclerosis 
+The demyelination and scarring of axons in the neurons of the nervous system can affect their conduction properties and seriously harm the normal communication of the brain with the rest of the body. Multiple sclerosis (MS) is a disease that causes this deterioration of the myelin sheath. There isn't a unique test to diagnose MS and several studies must be combined to determine the presence of this disease. However, visual evoked potentials do play a role in the whole diagnostic process.
+
+References 
+
+Electrophysiology
+Medical diagnosis
+Neuroimaging
+Neurophysiology

@@ -1,0 +1,419 @@
+Die Posttraumatische Belastungsstörung (PTBS), englisch post-traumatic stress disorder (PTSD), zählt zu den psychischen Erkrankungen aus dem Kapitel der Belastungs- und somatoformen Störungen. Der Posttraumatischen Belastungsstörung gehen definitionsgemäß ein oder mehrere belastende Ereignisse von außergewöhnlichem Umfang oder katastrophalem Ausmaß (psychisches Trauma) voran. Dabei muss die Bedrohung nicht unbedingt direkt die eigene Person betreffen, sondern kann auch bei anderen beobachtet und erlebt worden sein (z. B. als Zeuge eines schweren Unfalls oder einer Gewalttat).
+
+Die PTBS tritt in der Regel innerhalb eines halben Jahres nach dem traumatischen Ereignis auf und geht mit unterschiedlichen psychischen und psychosomatischen Symptomen einher. Häufig treten im Verlauf einer PTBS noch weitere Begleiterkrankungen (Komorbidität) und -beschwerden auf (in bis zu 90 % der Fälle). Oftmals kommt es – neben den typischen PTBS-Grundsymptomen einer vegetativen Übererregbarkeit und des Wiedererlebens traumatischer Erinnerungen (oder von Erinnerungsfragmenten), sogenannten Flashbacks – auch zu einem Gefühl von „emotionaler Taubheit“ (Numbing) und der Hilflosigkeit und zu einer Erschütterung des Ich- und Weltverständnisses durch das traumatische Erleben.
+
+Weitere Synonyme für die PTBS sind Posttraumatische Belastungsreaktion (PTBR), Posttraumatische Belastungserkrankung, Posttraumatisches Belastungssyndrom, Psychotraumatische Belastungsstörung, basales psychotraumatisches Belastungssyndrom oder posttraumatic stress disorder (englisch, Abk. PTSD).
+
+Hinweis: Besonderheiten der PTBS bei Kindern und Jugendlichen sind im Artikel Posttraumatische Belastungsstörung bei Kindern und Jugendlichen dargestellt.
+
+Ursachen 
+Grundsätzlich ist die Ursache ein psychisches Trauma, wobei nicht jedes Trauma zwangsläufig zu einer Belastungsstörung führt (ergo ist PTBS ein Traumaerleben zuzüglich einer darauf folgenden Reaktion mit Krankheitswert). Mit zunehmender Anzahl an erlebten Traumata steigt die Wahrscheinlichkeit, eine PTBS zu entwickeln.
+
+Traumatische Erlebnisse 
+
+Gemäß der Definition der AWMF, die auch Behandlungsrichtlinien für die PTBS erstellt hat, ist die
+
+Diese Definition ist gemeinschaftlich von der Deutschsprachigen Gesellschaft für Psychotraumatologie (DeGPT), der Deutschen Gesellschaft für Psychotherapeutische Medizin und ärztliche Psychotherapie (DGPM), dem Deutschen Kollegium für Psychosomatische Medizin (DKPM) und der Deutschen Gesellschaft für Psychoanalyse, Psychotherapie, Psychosomatik und Tiefenpsychologie formuliert worden.
+
+Die Diagnose soll nach aktuellem Stand des Klassifikationssystems ICD-10 nur dann gestellt werden, wenn alle für die Diagnose einer Posttraumatischen Belastungsstörung erforderlichen Symptome vorliegen (Vollbild einer Posttraumatischen Belastungsstörung), zusätzlich ein traumatisches Ereignis in der Biografie des Patienten berichtet wird und dieses Ereignis auch dem im ICD-10 geforderten Schweregrad entspricht. Liegen die Symptome einer Posttraumatischen Belastungsstörung nicht vollständig vor oder wird in der Biografie kein traumatisches Ereignis mit dem geforderten Schweregrad berichtet, ist für die Erkrankung der Diagnoseschlüssel einer F. 43.2 (Anpassungsstörung) zu vergeben.
+
+Gewalttätige Traumata in der Kindheit und Jugend – egal ob einmalig oder länger andauernd – führen oft zu tiefgreifenden Störungen in der Persönlichkeit der Opfer, die über die Symptomatik allgemeiner Posttraumatischer Erkrankungen hinausgehen. Bei langandauerndem Aufwachsen in einem gewaltgeprägten familiären oder sozialen Umfeld wirkt sich die Traumatisierung zudem oft in Form erzieherischer Prägung aus, die sich später in einer spezifisch geformten Denk-, Fühl-, Handlungs-, Kommunikations- und Wertestruktur niederschlagen kann.
+
+Es wird vermutet, dass die klassischen Symptome einer Posttraumatischen Belastungsstörung (Übererregung, Vermeidung, Intrusion) häufig nach Monotraumata auftreten. Komplexe Störungsbilder (gestörte Affektregulation, selbstdestruktives Verhalten, Aufmerksamkeitsstörungen, Störungen des Bewusstseins, dissoziative Störungen, Veränderung der Bedeutungssysteme) sind eher nach durch von Menschen verursachte („man-made disaster“), chronischen Traumata oder Multitraumata zu erwarten und werden auch als Komplexe posttraumatische Belastungsstörung bezeichnet.
+
+Eine Posttraumatische Belastungsstörung entsteht weder aufgrund einer erhöhten psychischen Labilität noch ist sie Ausdruck einer (psychischen) Erkrankung – auch psychisch gesunde und gefestigte Menschen können eine PTBS entwickeln. Es gibt jedoch bestimmte Risikofaktoren, die es wahrscheinlicher machen, dass eine Person das Vollbild der PTBS entwickelt (siehe unten).
+
+Die PTBS stellt einen Versuch des Organismus dar, eine traumatische, mitunter lebensbedrohliche Situation zu überstehen. Daher handelt es sich ursächlich bei den PTB-Reaktionen nicht um eine Störung (Fehlfunktion), sondern um eine „gesunde“, d. h. normale und zweckdienliche Reaktion, um den Menschen vor einer bedrohlichen Gefahrensituation besser zu schützen. So konnten Neurowissenschaftler der Universität Utrecht zeigen, dass PTBS-Patienten ungewöhnlich schwach auf physischen Schmerz reagieren. Die ebenfalls geläufige Bezeichnung „Posttraumatische Belastungsreaktion“ weist auf diese Unterscheidung hin, gleichzeitig verdeutlicht sie in ihrer begrifflichen Anlehnung den Unterschied zur sogenannten Akuten Belastungsreaktion, welche als eine kurzfristige, auf die Überlebenssicherung abzielende Reaktion auftreten kann und nicht wie die PTBS zu einer nachhaltigen Beeinträchtigung führt.
+
+Risiko- und Schutzfaktoren 
+Risikofaktoren sind belastende Lebensereignisse oder Lebensumstände, die einzeln oder in ihrem Zusammenwirken die Entstehung einer PTBS begünstigen. Risikofaktoren können entweder zeitlich vor dem Trauma liegen (prätraumatische Risikofaktoren), in der traumatischen Erfahrung selbst begründet sein (peritraumatische Risikofaktoren) oder zeitlich nach dem Trauma liegen (posttraumatische Risikofaktoren). Risikofaktoren sind unter anderem eine lange Dauer und schwere Stärke des Traumas.
+
+Im Vergleich zu Unfällen oder Naturkatastrophen zieht die Erfahrung von menschlicher Gewalt (zum Beispiel durch Vergewaltigung, Krieg, politische Verfolgung oder Folter) meist tiefergreifende Folgen nach sich. Grausamkeiten, die Menschen etwa während eines Krieges oder in Gefängnissen, sowohl als Augenzeugen als auch als Opfer miterlebt haben, lassen sich nicht mit ihrem bisherigen Weltbild vereinbaren. Es bleibt „ein namenloses Grauen, das unvereinbar ist mit dem ursprünglichen Glauben an die Existenz von Menschlichkeit“. Menschen, die bereits vor dem Trauma unter psychischen Problemen litten, sind besonders oft betroffen. Personen ohne soziales Netzwerk sind ebenfalls besonders anfällig.
+
+Das Erleben von „mental defeat“ (zu Deutsch: mentale Niederlage) wird mit einer erhöhten Wahrscheinlichkeit posttraumatischer Symptombildung in Zusammenhang gebracht. Professionelle Helfende (zum Beispiel Feuerwehrleute, Polizisten) entwickeln im Fall einer Katastrophe seltener eine PTBS als Personen, die nicht speziell geschult sind.
+
+Egle et al. konnten eine Reihe von prätraumatischen Risikofaktoren identifizieren. Zu diesen gehören unter anderem fehlende emotionale Unterstützung durch die Eltern bzw. Angehörige, das Aufwachsen in Armut, eine schlechte Schulbildung der Eltern, das Aufwachsen in einer Großfamilie mit wenig Wohnraum, Kriminalität oder Dissozialität mindestens eines Elternteiles, geringe familiäre Harmonie, psychische Störungen mindestens eines Elternteiles, autoritäres elterliches Verhalten, Unehelichkeit, Aufwachsen bei einer alleinerziehenden Mutter oder einem alleinerziehenden Vater, geringer Altersabstand zum nächsten Geschwisterkind und schlechte Kontakte zu Gleichaltrigen.
+
+In der meistzitierten Studie zu Risiko- und Schutzfaktoren von PTBS, einer Metaanalyse von Brewin et al. (2000), wurden Mangel an sozialer Unterstützung und posttraumatischer Stress als wesentlichste Risikofaktoren identifiziert (mittlere Effektstärke) und in abnehmender Relevanz: Traumaschwere, frühere Traumatisierungen, geringe Intelligenz, sexueller Missbrauch, geringe Sozialschicht, psychiatrische Vorgeschichte, weibliches Geschlecht und ein anderes früheres Trauma als Risikofaktoren mit kleiner Effektstärke.
+
+Die 1983 durchgeführte National Vietnam Veterans’ Readjustment Study lieferte wichtige Erkenntnisse über Risiko- und Schutzfaktoren bei Soldatinnen und Soldaten. Im Laufe ihres Lebens hatten 30,9 % der befragten Männer und 26,9 % der befragten Frauen unter einer PTBS gelitten. Zum Zeitpunkt der Befragung litten jedoch nur noch 15,2 % der männlichen und 8,5 % der weiblichen Veteranen unter einer PTBS. Als Risikofaktoren wurden identifiziert:
+
+ Risikofaktoren vor dem Kampfeinsatz: Depressionen, bestrafender Erziehungsstil der Eltern, Herkunft aus instabilen Familienverhältnissen
+ Risikofaktoren während des Kampfeinsatzes: Peritraumatische Dissoziation (darunter werden Dissoziationen direkt nach dem Trauma verstanden)
+ Risikofaktoren nach dem Kampfeinsatz: aufreibende Lebensereignisse (wie zum Beispiel Scheidung, Verlust von Angehörigen, Krankheit), weitere Traumata
+
+Umgekehrt schützen korrektive Faktoren und Lebensumstände vor Traumatisierung trotz potentiell traumatisierender Ereignisse und Situationsfaktoren. Als Schutzfaktoren wurden identifiziert:
+
+ Schutzfaktoren vor dem Kampfeinsatz: Eine enge Beziehung zu den Eltern, Collegeabschluss, hoher sozioökonomischer Status
+ Schutzfaktoren während des Kampfeinsatzes: keine
+ Schutzfaktoren nach dem Kampfeinsatz: Soziale Unterstützung
+
+Resilienz und Salutogenese 
+Aaron Antonovsky untersuchte eine Gruppe von Frauen, die in einem nationalsozialistischen Konzentrationslager gewesen waren. Ihre emotionale Befindlichkeit wurde mit der einer Kontrollgruppe verglichen. Der Anteil der in ihrer Gesundheit nicht beeinträchtigten Frauen betrug in der Kontrollgruppe 51 Prozent, im Vergleich zu 29 Prozent der KZ-Überlebenden. Nicht der Unterschied an sich, sondern die Tatsache, dass in der Gruppe der KZ-Überlebenden 29 Prozent der Frauen trotz der unvorstellbaren Qualen eines Lagerlebens mit anschließendem Flüchtlingsdasein als körperlich und psychisch gesund beurteilt wurden, war für ihn ein unerwartetes Ergebnis.
+
+Diese Beobachtung führte ihn zu der Frage, welche Eigenschaften und Ressourcen diesen Menschen geholfen hatten, unter den Bedingungen der KZ-Haft sowie in den Jahren danach ihre körperliche und psychische Gesundheit zu erhalten. So schuf Antonovsky (im Gegensatz zum Pathogenesekonzept der traditionellen Medizin) das Konzept der Salutogenese – der Entstehung von Gesundheit.
+
+Unter Resilienz wird die Fähigkeit verstanden, schwierige Lebenssituationen erfolgreich zu meistern. Resiliente Personen haben typischerweise eine Reihe von Eigenschaften:
+ Sie gehen mit Stress effektiv um.
+ Sie haben gute Problemlösefähigkeiten.
+ Bei Problemen bitten sie um Hilfe.
+ Sie glauben, dass es Möglichkeiten gibt, mit Lebensproblemen umzugehen.
+ Ihre Beziehungen zu Freunden und Familienmitgliedern sind eng.
+ Sie teilen vertrauten Menschen mit, ein Trauma erlebt zu haben.
+ Sie sind oft spirituell oder religiös eingestellt.
+ Statt als „Opfer“ (victim) sehen sie sich als „Überlebende“ (survivor) – diese Unterscheidung im Englischen betrifft, ob sich die traumatisierte Person als passiv und hilflos („Opfer“) erlebt oder als stark und selbstbestimmt, in der Regel in Verbindung mit einem bewussten Umgang mit dem Trauma („Überlebender“).
+ Sie helfen anderen.
+ Sie versuchen, dem Trauma etwas Positives abzugewinnen.
+
+PTBS und Gene 
+Es gibt Anzeichen dafür, dass die Anfälligkeit, nach Misshandlungen antisoziale Symptome zu entwickeln, nicht nur durch das Trauma, sondern auch durch genetische Veranlagung beeinflusst werden kann. Jungen mit X-chromosomal vererbter niedriger MAO-A-Aktivität haben nach mehreren Studien eine höhere Wahrscheinlichkeit, infolge traumatischer Erlebnisse im Laufe ihres Lebens Verhaltensstörungen zu entwickeln, als Jungen ohne diese genetische Variante. Die Gen-Umwelt-Interaktion auf diesem Gebiet ist jedoch hochkomplex und (Stand 2020) erst sehr wenig verstanden.
+
+Häufigkeit 
+50 bis 90 Prozent der Erwachsenen und Kinder in den USA erleben in ihrem Leben ein Trauma, zumeist im Kontext eines Verkehrsunfalls, welches aber nicht unbedingt zu einer Posttraumatischen Belastungsstörung (PTBS) führen muss. Die Lebenszeitprävalenz einer PTBS liegt in den USA bei etwa 8 %. In einer epidemiologischen Untersuchung in Deutschland von 2008 lag die Einmonatsprävalenz bei 2,3 %. Dabei ergaben sich keine Unterschiede hinsichtlich des Geschlechts, jedoch wesentliche Unterschiede hinsichtlich der Altersgruppe (3,4 % bei den über 60-Jährigen gegenüber 1,9 % bei den 30- bis 59-Jährigen). Die Autoren identifizierten dies als späte Auswirkungen des 2. Weltkriegs.
+
+Bei exponierten Personen wie Rettungskräften, Ärzten, Polizisten, Soldaten oder Flüchtlingen kann die Prävalenz auf über 50 % ansteigen. Missbrauch führte laut einer deutschen Stichprobe in 30 % der Fälle zur Entwicklung einer PTBS, Vergewaltigung bei jeder zweiten davon betroffenen Person. Laut einer Studie der Universität Kalifornien aus dem Jahr 2011 mit Frauen, die von PTBS betroffen sind, treten im Zusammenhang mit einer PTBS häufiger chronische Entzündungen auf, die zu Herzerkrankungen und anderen chronischen, das Leben verkürzenden Krankheiten führen können.
+
+Nach Guido Flatten und Arne Hofmann 2001 liegt die Eintrittswahrscheinlichkeit für eine PTBS nach politischer Haft und Verfolgung deutlich höher als hier angegeben, nämlich bei 50–70 %. Allerdings lassen sich diese Zahlenwerte nicht unmittelbar mit den anderen Angaben vergleichen, weil die Autoren andere Kriterien für die Diagnose anlegen, als von der Weltgesundheitsorganisation gefordert.
+
+Laut einer Studie von 2004 führen Kampfsituationen bei Soldaten zu 38,8 % zu der Ausbildung einer PTBS. Nach den Erfahrungen des Vietnamkrieges musste man mit Quoten von mehr als 30 % der Kombattanten rechnen. Zehn Jahre nach dem Beginn des Kriegs in Afghanistan und im Irak leiden unerwartet wenige amerikanische Soldaten unter PTBS. In einem Überblicksartikel von 2012 berichtet der Psychologe Richard McNally von der Harvard Medical School, dass je nach Studie 2,1 bis 13,8 % der Kriegsteilnehmer erkrankt sind. In der methodisch zuverlässigsten Studie zeigten 7,6 % der an Gefechten beteiligten Soldaten die typischen Symptome der PTBS. In einer britischen neuen Studie des King’s College in London kommt man zu dem Schluss, dass die Öffentlichkeit ein falsches Bild von den Zahlen betroffener Soldaten habe. Zwei Drittel der Befragten glaubten, dass die Posttraumatische Belastungsstörung bei Soldaten viel häufiger sei als bei Zivilpersonen. Die Wissenschaftler führen diese Wahrnehmung u. a. auf die zahlreichen Berichte über die traumatischen Belastungen bei Soldaten in den Medien zurück und auf Aktionen von Wohlfahrtsunternehmen (Charities), die die Aufmerksamkeit für die PTBS und deren Folgen erhöhen.
+
+Im November 2015 gab der Generalarzt Bernd Mattiesen, Beauftragter für Posttraumatische Belastungsstörungen der Bundeswehr bekannt, dass 2,9 % der deutschen Soldaten die in der Regel vier bis sechs Monate im Einsatz sind, nach aktuellen Studien an PTBS erkrankten.
+
+Diagnostik
+
+Geschichte 
+Die Symptome der PTBS gibt es wahrscheinlich schon so lange wie es Menschen gibt. Immer wieder lassen sie sich in historischen Berichten feststellen, zum Beispiel in dem von Samuel Pepys, der 1666 das große Feuer von London miterlebte. Sechs Monate nach der Katastrophe schrieb er etwa in sein Tagebuch: „Wie merkwürdig, dass ich bis zum heutigen Tag keine Nacht schlafen kann, ohne von grosser Angst vor dem Feuer erfasst zu werden; und in dieser Nacht lag ich bis fast zwei Uhr morgens wach, weil mich die Gedanken an das Feuer nicht losliessen.“
+
+Das in den 1970er Jahren entwickelte Konzept des Vergewaltigungstraumasyndroms (Rape trauma syndrome RTS) in Bezug auf die traumatische Auswirkung einer Vergewaltigung wird heute dem PTBS zugerechnet. Die Theorie wurde zuerst von Ann Wolbert Burgess und der Soziologin Lynda Lytle Holmstrom im Jahr 1974 aufgestellt. Gleiches gilt für die in den 1980er Jahren entwickelte Beschreibung der Folgen von sexueller Gewalt. Auch eine Reihe weiterer Syndrome (war sailor syndrome, trench foot, abused child syndrome) rechnet man heute zum PTBS.
+
+In der Medizin fand die PTBS aber erst in jüngster Zeit Beachtung. Erst seit Mitte des 19. Jahrhunderts sind die Symptome der PTBS Gegenstand wissenschaftlicher Untersuchungen; Ende des 19. Jahrhunderts prägte der deutsche Psychiater Emil Kraepelin den Begriff Schreckneurose (bzw. „Schreckpsychose“), um die Symptome zu beschreiben, die sich bei Opfern von schweren Unfällen und Verletzungen, besonders von Feuersbrünsten, Entgleisungen oder Zusammenstößen auf der Eisenbahn zeigten.
+
+Zur Zeit des Ersten Weltkriegs sprach man von der „bomb-shell disease“; in Deutschland wurden PTBS-Patienten damals als „Kriegszitterer“ bezeichnet. Nach dem Zweiten Weltkrieg wurde das sogenannte KZ-Syndrom bei Überlebenden des Holocaust beschrieben. Die Folgen der Traumatisierung der Menschen in Deutschland nach dem Zweiten Weltkrieg ist nach Aussagen der Bundeszentrale für politische Bildung bisher wenig erforscht.
+
+Obwohl die Symptome der PTBS bereits über 100 Jahre wissenschaftlich untersucht wurden, fand die Diagnose erstmals 1980 Eingang in das amerikanische Diagnose-Manual Diagnostic and Statistical Manual of Mental Disorders (aktuelle Version: DSM-5), das von der American Psychiatric Association (APA) herausgegeben wird. Diese Entwicklung war maßgeblich geprägt durch aus dem Vietnamkrieg heimkehrende amerikanische Soldaten und die Beschreibung des, speziell im englischen Sprachraum bekannte, Post Vietnam Syndrome (PVS).
+
+Im DSM-5 ist das Syndrom heute unter 309.81 als eine Form der trauma- und stressorassoziierten Störungen gelistet. Nach der ICD-10 (International Classification of Diseases) der WHO hat die PTBS den Code F43.1.
+
+Nach ICD-10 
+Für die Diagnose einer PTBS nach ICD-10 müssen folgende Kriterien erfüllt sein:
+
+ Der Betroffene war (kurz oder lang anhaltend) einem belastenden Ereignis von außergewöhnlicher Bedrohung oder mit katastrophalem Ausmaß ausgesetzt, das bei fast jedem eine tiefe Verzweiflung hervorrufen würde.
+ Es müssen anhaltende Erinnerungen an das traumatische Erlebnis oder das wiederholte Erleben des Traumas in sich aufdrängenden Erinnerungen (Nachhallerinnerungen, Flashbacks, Träumen oder Albträumen) oder eine innere Bedrängnis in Situationen, die der Belastung ähneln oder damit in Zusammenhang stehen, vorhanden sein.
+ Der Betroffene vermeidet (tatsächlich oder möglichst) Umstände, die der Belastung ähneln.
+ Mindestens eines der folgenden Kriterien (1. oder 2.) ist erfüllt:
+ eine teilweise oder vollständige Unfähigkeit, sich an einige wichtige Aspekte des belastenden Erlebnisses zu erinnern; oder
+ anhaltende Symptome einer erhöhten psychischen Sensitivität und Erregung, wobei mindestens zwei der folgenden Merkmale erfüllt sein müssen:
+ Ein- und Durchschlafstörungen
+ erhöhte Schreckhaftigkeit
+ Hypervigilanz
+ Konzentrationsschwierigkeiten
+ Reizbarkeit und Wutausbrüche
+
+ Die Symptome müssen innerhalb von sechs Monaten nach dem belastenden Ereignis (oder der Belastungsperiode) aufgetreten sein. Andernfalls ist von einer PTBS mit verzögertem Beginn zu sprechen. Diese kann auch nach vielen Jahren erst auftreten.
+
+Häufig sind zudem sozialer Rückzug, ein Gefühl von Betäubtsein und emotionaler Stumpfheit, Gleichgültigkeit gegenüber anderen Menschen sowie eine Beeinträchtigung der Stimmung.
+
+Nach DSM-5 
+Für die PTBS-Diagnose nach DSM-5 müssen folgende Kriterien erfüllt sein:
+
+A. Traumatisches Ereignis: Die Person war mit einem der folgenden Ereignissen konfrontiert: Tod, tödlicher Bedrohung, schwerer Verletzung, angedrohter schwerer Verletzung, sexueller Gewalt, angedrohter sexueller Gewalt, und zwar in einer der nachfolgenden Weisen (mindestens eine):
+ Direkt ausgesetzt
+ Als Augenzeuge
+ Indirekt; erfahren, dass ein naher Verwandter oder ein Freund einem traumatischen Ereignis ausgesetzt war. Wenn dieses Ereignis ein Todesfall oder eine tödliche Bedrohung war, dann musste dieser bzw. diese die Folge von Gewalt oder eines Unfalles gewesen sein.
+ Konfrontation mit Details von traumatischen Ereignissen (z. B. als Ersthelfer, Polizist …), eventuell auch als Konfrontation durch elektronische Medien.
+
+B. Wiedererleben: Das traumatische Ereignis wird wiederkehrend wiedererlebt und zwar in einer der nachfolgenden Weisen (mindestens eine):
+ Wiederkehrende, unfreiwillige und eindringliche belastende Erinnerungen (Kinder älter als 6 Jahre können diese potentiell in repetitivem Spiel ausdrücken).
+ Traumatische Albträume (Kinder können Albträume haben, ohne dass sich der Inhalt direkt auf das traumatische Ereignis bezieht).
+ Dissoziative Reaktionen (z. B. Flashbacks), in Dauer variierend von einer kurzen Episode bis zum Verlust des Bewusstseins (Kinder können das traumatische Erlebnis im Spiel nachstellen)
+ Intensiver oder langanhaltender Stress, nachdem die Person an das traumatische Erlebnis erinnert wurde (unabhängig von der Ursache für die Erinnerung).
+ Markante physiologische Reaktion, nachdem die Personen einem Reiz ausgesetzt war, der einen Bezug zum traumatischen Erlebnis hat.
+
+C. Vermeiden: Anhaltendes starkes Vermeidungsverhalten von traumaassoziierten Reizen nach dem traumatischen Erlebnis (mindestens eines):
+ Traumaassoziierte Gedanken oder Gefühle
+ Traumaassoziierte externe Reize (z. B. Menschen, Orte, Unterhaltungen, Tätigkeiten, Objekte oder Situationen).
+
+D. Negative Veränderungen von Gedanken und Stimmung: Die negativen Veränderungen von Gedanken und Stimmung begannen oder verschlechterten sich nach dem traumatischen Erlebnis (mindestens zwei):
+ Unfähigkeit, sich an wichtige Merkmale des traumatischen Erlebnisses zu erinnern (normalerweise dissoziative Amnesie; nicht aufgrund einer Kopfverletzung, Alkohol oder anderen Drogen)
+ Andauernde (und oft verzerrte) negative Annahmen von sich selbst oder der Welt (z. B. „Ich bin schlecht“, „Die ganze Welt ist gefährlich“)
+ Andauernde verzerrte Vorwürfe gegen sich selbst oder gegen andere, am traumatischen Erlebnis oder seinen negativen Folgen schuld zu sein
+ Andauernde negative traumaassoziierte Emotionen (z. B. Angst, Wut, Schuld oder Scham)
+ Markant vermindertes Interesse an wichtigen (nicht traumaassoziierten) Tätigkeiten
+ Das Gefühl, anderen fremd zu sein (z. B. Distanziertheit oder Entfremdung)
+ Eingeschränkter Affekt: andauernde Unfähigkeit, positive Emotionen zu empfinden
+
+E. Veränderung in Erregung und Reaktionsfähigkeit: Traumaassoziierte Veränderungen in Erregung und Reaktionsfähigkeit, die nach dem traumatischen Erlebnis begonnen oder sich danach verschlechtert haben (mindestens zwei):
+ Gereiztes oder aggressives Verhalten
+ Selbstverletzendes oder leichtfertiges Verhalten
+ Erhöhte Vigilanz
+ Übermäßige Schreckreaktion
+ Konzentrationsschwierigkeiten
+ Schlafstörungen
+
+F. Dauer: Das Störungsbild (alle Symptome in B, C, D und E) dauert länger als einen Monat.
+
+G. Funktionelle Bedeutsamkeit: Das Störungsbild verursacht in klinisch bedeutsamer Weise Leiden oder Beeinträchtigungen in sozialen, beruflichen oder anderen wichtigen Funktionsbereichen.
+
+H. Ausschluss: Die Symptome sind nicht die Folge von Medikamenten, Substanzeinnahme oder anderen Krankheiten.
+
+Zu spezifizieren bei dissoziativen Symptomen: Zusätzlich zur Diagnose kann eine Person in einem hohen Maße eine der beiden folgenden Reaktionen zeigen:
+ Depersonalisation: Das Gefühl, außerhalb des eigenen Körpers zu sein oder von sich losgelöst zu sein (z. B. das Gefühl, als ob „das nicht mir passiert“ sei, oder in einem Traum zu sein).
+ Derealisation: Das Gefühl von Unrealität, Distanz oder Realitätsverzerrung (z. B. „diese Dinge sind nicht real“).
+
+Zu spezifizieren bei verzögertem Beginn des Krankheitsbildes: Vollständige Diagnosekriterien sind in den ersten sechs Monaten nach dem traumatischen Ereignis nicht erfüllt (einige Symptome können, aber müssen nicht direkt nach dem traumatischen Ereignis präsent sein).
+
+Abgrenzung 
+Die PTBS ist nur eine von mehreren möglichen Traumafolgestörungen. Verwandte Störungsbilder sind:
+ Akute Belastungsreaktion (F43.0)
+ Anpassungsstörung (F43.2)
+ Sonstige Reaktionen auf schwere Belastung (F43.8), bspw. die Posttraumatische Verbitterungsstörung – PTED
+ Andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0), auch beschrieben als Komplexe posttraumatische Belastungsstörung
+
+Weitere Traumafolgestörungen können sein:
+ Somatoforme Schmerzstörung (F45.4)
+ Borderline-Persönlichkeitsstörung (F60.31) [Anmerkung: meist Auftreten erster Symptome in Kindheit und Jugend]
+ Dissoziative Störungsbilder (F44)
+
+Weitere Störungen, die maßgeblich durch traumatische Belastungen mitbedingt sein können:
+ Affektive Störungen (F32, F33, F34)
+ Substanzabhängigkeit (F1)
+ Somatoforme Störungen (F45)
+ Essstörungen (F50)
+ Dissoziale Persönlichkeitsstörung (F60.2)
+
+Zusammenhang mit der Borderlinestörung bei Kindheitstraumata 
+Inwieweit im Kindesalter erlittene Traumata später zu anderen Störungen, wie der Borderline-Persönlichkeitsstörung (BPS), führen können, wird in der Wissenschaft kontrovers diskutiert. Menschen mit einer Borderlinestörung berichten überdurchschnittlich oft von sexuellen Gewalterfahrungen (etwa 65 Prozent), körperlichen Gewalterfahrungen (etwa 60 Prozent) und schwerer Vernachlässigung (etwa 40 Prozent), kumuliert über 85 Prozent und mehr an erinnerbaren, einschlägigen traumatischen Kindheitserfahrungen, zumeist Mehrfachtraumatisierungen. Hierbei gilt es jedoch zu bedenken, dass schwerste Traumatisierungen oft in der frühen Kindheit entstanden sind (in den ersten beiden Lebensjahren besteht die größte Empfindlichkeit für Traumatisierungen) und an solche Ereignisse meist keine Erinnerungen mehr abgerufen werden können (die infantile Amnesie reicht oft bis weit über das zweite Lebensjahr hinaus).
+
+Andererseits kritisieren viele Wissenschaftler die Behauptung, „dass es sich bei der Borderlinestörung um ein chronisches posttraumatisches Belastungssyndrom handelt.“ Diese Aussage finde „auf wissenschaftlicher Ebene keine Evidenz“.
+
+Symptomatik
+
+Allgemeine Symptome 
+Allgemeine Symptome einer Posttraumatischen Belastungsstörung:
+
+ anhaltende Erinnerungen an das traumatische Erlebnis oder wiederholtes, sich aufdrängendes (intrusives) (Wieder-)Erleben des Traumas, Flashbacks, Albträume, die mit dem traumatischen Erleben in Verbindung stehen (dabei können oft kleine Auslöser (Trigger) beispielsweise ins Bewusstsein einschießende Bilder, Wahrnehmungen, aufdringliche Gedanken oder Vorstellungen hervorrufen oder heftige Emotionen auf das traumatische Erlebnis wachrufen, als ob es in der Gegenwart geschehen würde, selbst, wenn sich manche Betroffenen nicht mehr bewusst daran erinnern können, was tatsächlich passiert ist)
+ Vermeidungsverhalten (Betroffene vermeiden (tatsächliche oder mögliche) Umstände, die der Belastung ähneln und Gespräche über Themen im Umfeld des Traumas)
+ Teilamnesie (teilweise oder vollständige Unfähigkeit, sich an einige wichtige Aspekte des belastenden Erlebnisses zu erinnern)
+ körperliche Symptome einer vegetativen Übererregung (Hyperarousal) und einer erhöhten psychischen Sensitivität:
+ Schlafstörungen
+ Reizbarkeit und Wutausbrüche
+ erhöhte Schreckhaftigkeit
+ Hypervigilanz
+ Zittern
+ Ängste
+ Konzentrationsstörungen
+ emotionale Taubheit (auch emotionales Erstarrungssymptom oder Numbing (englisch ‚Taubheitsgefühl‘)), Interessen- und Gefühlsverflachung oder -losigkeit, Entfremdungsgefühl gegenüber Mitmenschen, der Welt, dem eigenen Leben
+ emotionaler und sozialer Rückzug
+
+Weitere Symptome
+
+Gefühle der Hilflosigkeit und des Ausgeliefertseins 
+
+Nach Abraham Maslow gehört das Bedürfnis nach Sicherheit zu den menschlichen Grundbedürfnissen. Menschen ziehen eine sichere, berechenbare, kontrollierbare Umgebung einer Umgebung vor, die gefahrvoll, unkontrollierbar und wenig berechenbar ist. Normalerweise lernt der Mensch im Laufe seiner Kindheit und Jugend, dass seine Bedürfnisse nach Sicherheit und Schutz vor Gefahren befriedigt werden – eine Ausnahme bilden hier Kinder, die von ihren Eltern vernachlässigt (auch emotional), misshandelt oder missbraucht wurden, Kinder, die im Krieg aufwachsen und Kinder in ähnlichen Ausnahmesituationen. Ein Mensch, dessen Sicherheitsbedürfnisse befriedigt wurden, kommt zu folgenden Grundüberzeugungen:
+
+ Die Welt ist ein sicherer Platz, die meisten Leute sind wohlmeinend.
+ Die Dinge, die auf der Welt passieren, passieren aus bestimmten Gründen.
+ Guten Leuten werden gute Dinge passieren.
+
+Nach einem Trauma scheinen diese Grundüberzeugungen oft in Frage zu stehen. Die Welt erscheint nun feindselig, unberechenbar und chaotisch. Die Überzeugung, dass die Welt verlässlich ist, geht verloren.
+
+Das Auftreten von Symptomen ist variabel, beispielsweise können diese sowohl direkt nach Erleben des Traumas als auch mit einer Verzögerung von vielen Jahren oder Jahrzehnten auftreten.
+
+Verlust früherer Grundüberzeugungen über die Welt und sich selbst 
+Ein Trauma kann ein zuvor vorhandenes Gefühl von grundlegender Sicherheit und Geborgenheit im Leben und das Grundvertrauen in das Leben und die Mitmenschen nachhaltig beschädigen und gelegentlich sogar früherer Grundüberzeugungen über die Welt und sich selbst und den Sinn des Lebens in Frage stellen. Traumatisierten Menschen erscheinen häufig die Welt und ihre Mitmenschen plötzlich bedrohlich und nicht mehr vertrauenswürdig.
+
+Viele von ihnen machen sich auch Selbstvorwürfe und entwickeln ein negatives Bild von sich selbst, das auf der irrigen Annahme beruht, sie hätten den katastrophalen Ausgang des Ereignisses durch ein anderes Verhalten positiv beeinflussen können, wenn sie selbst nicht einen Fehler gemacht hätten oder stärker, entschlossener, mutiger oder intelligenter gewesen wären. So entstehen häufig quälende Schuld- und Schamgefühle. Oft wird zudem auch in der eigenen Traumatisierung und den dadurch hervorgerufenen (und für viele unerklärlichen) Symptomen einer PTBS und in der nur langsam voranschreitenden Bewältigung des Traumas eine vermeintliche eigene Schwäche gesehen.
+
+Schwierigkeiten, ins spätere Leben zurückzufinden 
+Viele Menschen haben nach einem Trauma Schwierigkeiten, ihr altes Leben wieder aufzunehmen. Oft fällt es schwer, Beziehungen und soziale Kontakte, wie auch Hobbys und frühere Interessen weiterzupflegen. Nach schweren Traumata besteht ein erhöhtes Risiko für eine langfristige Erwerbsunfähigkeit. Es gibt Statistiken, nach denen jeder vierte Obdachlose auf Amerikas Straßen Veteran eines Krieges ist. Nach Angaben des Ministeriums für Veteranenangelegenheiten sind fast 200.000 Ex-Soldaten ohne feste Bleibe. Viele von ihnen sind Vietnamkriegsveteranen, doch es gibt auch zunehmend arbeitslose und obdachlose Irakkriegsveteranen.
+
+„Speechless terror“ 
+Trauma-Patienten berichten immer wieder von speechless terror (sprachlosem Entsetzen), das sie überkommt, wenn sie sich an das Trauma zurück erinnern. Sie sind oft nicht fähig auszudrücken, wie sie über die Ereignisse fühlen oder denken, und unfähig, das Trauma mit Worten zu beschreiben.
+
+Begleiterkrankungen 
+Mögliche Begleiterkrankungen, sogenannte komorbide Störungsbilder:
+
+ Depressionen
+ Dissoziative Störungen
+ Persönlichkeitsveränderungen
+ Bindungsstörungen
+ Suchterkrankungen
+ Aggressive Verhaltensmuster
+ Selbstverletzendes Verhalten (SVV)
+ Suizidversuche
+ sexuelle Probleme (insbes. bei Opfern von Vergewaltigung und sexuellem Missbrauch)
+
+Körperliche Beschwerden 
+Traumatisierte Menschen befinden sich in einer Art ständiger Alarmstimmung, weil die Erregungsschwelle im ZNS nach einem Trauma abgesenkt ist und bereits kleine Belastungen eine nachhaltigere und stärkere Erregung auslösen können. Kleinigkeiten, die an das Trauma erinnern, Schlüsselreize wie z. B. erinnerungsauslösende Fotos, Menschen, Nachrichten, Filme, Geräusche, Gerüche, Umgebungen oder Jahrestage, sogenannte Trigger können körperliche Symptome wie Herzrasen, Zittern, Angstschweiß, Atemnot, Übelkeit und Ohnmachtsanfälle hervorrufen.
+
+Erhöhte Sterblichkeit 
+Wolff (1960) fand in einer Studie an ehemaligen Gefangenen des Zweiten Weltkrieges heraus, dass innerhalb der ersten sechs Jahre nach der Freilassung neunmal so viele dieser Menschen an Tuberkulose starben, wie es im Zivilleben zu erwarten wäre. Die Raten für Todesfälle durch gastrointestiale Erkrankungen, Krebserkrankungen und Herzerkrankungen waren ebenfalls erhöht. Bullmann und Kang (1997) fanden einen Zusammenhang zwischen PTBS und einem erhöhten Risiko eines Todes durch externe Ursachen (wie Unfälle oder Überdosierungen) bei Vietnamkriegsveteranen.
+
+Eltern und Vorfahren mit PTBS 
+In der Bindungsforschung zeigte sich, dass ein Zusammenhang zwischen Traumatisierung der Eltern und einer Bindungsunsicherheit von Kleinkindern besteht. Wegen dieser transgenerationalen Weitergabe von Traumata ist es wichtig, bei Untersuchungen von Kindern mit Bindungsstörungen (z. B. „Secure base distortion“) oder die von traumatisierten Eltern erzogen werden, auch die Eltern-Kind-Interaktion durch Anamnese und ausführliche Direkt- und Videobeobachtung zu analysieren und eine Zwei-Generationen-Perspektive einzunehmen. In einem solchen Fall kann eine Eltern-Kind-Psychotherapie hilfreich sein.
+
+Das vom Kinderpsychiater Karl Heinz Brisch entwickelte Elternprogramm SAfE – Sichere Ausbildung für Eltern für werdende Eltern zielt auf die Entwicklung elterlicher Feinfühligkeit. Dadurch soll unter anderem einer Weitergabe eigener negativer Bindungserfahrungen an die nächste Generation vorgebeugt werden. Anderenfalls kann eine frühkindliche Bindungsstörung bis ins Erwachsenenalter das Sozialverhalten und das partnerschaftliche Bindungsverhalten (BV) beeinflussen (z. B. unsicher-ambivalentes, unsicher-vermeidendes oder desorganisiertes BV statt sicherem BV). (Siehe auch:. Trauma und Bindung und Kindheitstrauma: Lebensbenachteiligungen, sowie Identitätsorientierte Psychotraumatherapie.)
+
+Die Psychologin und Sozialarbeiterin Joy DeGruy postuliert die Existenz eines Posttraumatic Slave Syndromes PTSS, welches durch das kollektive Trauma der Sklaverei ausgelöst sei und auch die Generation der Afroamerikaner betreffe, welche nie Sklaven gewesen seien. Es äußere sich unter anderem in Ablehnung des Schulsystems und Abwertung der eigenen ethnischen Gruppe.
+
+Prävention durch „Debriefing“ 
+Psychologisches „debriefing“ soll die Verarbeitung eines traumatischen Erlebnisses innerhalb eines Zeitrahmens von 1–2 Tagen bis etwa 2–3 Wochen nach der traumatischen Situation unterstützen und so die Entstehung einer PTBS verhindern. Es wurde entwickelt für Betroffene und für Helfer wie Rettungskräfte oder Polizisten. Debriefing besteht aus einem Entlastungsgespräch, durch das Betroffene sich direkt mit dem Ereignis auseinandersetzen und ihre Gefühle mit einer therapeutisch geschulten Person teilen sollen, um die Erinnerungen an das Ereignis zu strukturieren. Allerdings fanden Übersichtsstudien, dass psychologisches debriefing nicht hilfreich und sogar kontraproduktiv sein kann, indem die Erinnerungen an die traumatischen Erlebnisse noch verstärkt werden. 2017 beurteilte die US-amerikanische Psychologenvereinigung American Psychological Association die Methode als nicht durch Studien gestützt und potenziell schädigend.
+
+Traumatherapie 
+
+Die PTBS verläuft oft chronisch, lässt sich aber psychotherapeutisch meist relativ gut behandeln, sodass oft eine Heilung oder zumindest eine deutliche Linderung der Belastungssymptome und ein Wiedergewinn an Lebensqualität erreicht werden kann; leichte PTBS bessern sich oft spontan, aber auch schwerere PTBS können sich im Lauf der Zeit von selbst bessern. Wichtig bei der Überwindung traumatischer Erfahrungen ist die soziale Unterstützung, insbesondere durch Familie und Freundeskreis.
+
+Die Grundvoraussetzung für die psychotherapeutische Bearbeitung eines Traumas ist immer, dass die Traumatisierung (und auch die traumatische Bedrohungs- oder Gefahrensituation und ggf. der Täterkontakt) beendet sein muss, da es nicht möglich ist, mit der eigentlichen psychotherapeutischen Bearbeitung der traumatischen Erinnerung und der Traumafolgestörungen zu beginnen, während sich der Betroffene noch in einer traumatisierenden Situation befindet (dennoch kann auch hier eine traumatherapeutische Hilfe zur Stabilisierung und besseren Bewältigung der Belastungssituation sinnvoll oder notwendig sein, da so der Entwicklung einer schwereren PTBS oder der Chronifizierung oft entgegengewirkt und der Krankheitsverlauf günstig beeinflusst werden kann).
+
+Meist ist es zumindest nach mittelschweren oder schweren Traumatisierungen oder bei Auftreten stärkerer posttraumatischer Beschwerden und Symptomen (s. o.) zu empfehlen, möglichst rasch einen psychotraumatologisch erfahrenen Arzt oder Psychotherapeuten zu konsultieren und sich fachkundigen Rat zu holen und das weitere Vorgehen zu besprechen (selbst, wenn die traumatisierende Situation noch andauern sollte). Für den Behandlungserfolg und eine möglichst rasche Besserung der Beschwerden spielt der Zeitfaktor (d. h. der zeitliche Abstand zwischen der Traumatisierung und dem Beginn einer Traumatherapie) eine wesentliche Rolle. Insbesondere nach einer schweren Traumatisierung ist es wichtig, möglichst frühzeitig (möglichst innerhalb der ersten Wochen) eine geeignete traumatherapeutische Behandlung (die, angepasst an den Bedarf des Patienten, konkrete psychotherapeutische Unterstützungsmaßnahme zur Bewältigung der Belastung, verhaltenstherapeutische Übungen und Hilfestellungen, die den Umgang mit den Beschwerden erleichtern (Psychoedukation) und einer stabilisierenden Behandlung beinhaltet) zu beginnen, um das Risiko von Spätfolgen und chronischer Residualbeschwerden zu verringern. Nach den Erkenntnissen der Psychotraumatologie und Leitlinien-Empfehlung sollte die Traumabehandlung nur durch Psychotherapeuten mit fundierter traumatherapeutischer Fachausbildung und Erfahrung erfolgen; bei Ausbildung schwerer Dissoziativer Symptome oder einer KPTBS sollte der Therapeut auch auf diesen Gebieten weitere Zusatzqualifikationen besitzen. Dabei zu bedenken, dass in Deutschland ein erheblicher Mangel an Psychotherapeuten mit traumatherapeutischer Fachausbildung herrscht, die ausreichend Erfahrung mit der Behandlung schwerer Traumafolgestörungen besitzen, und diese meist lange Wartezeiten haben. Dauert die traumatische Belastungssituation immer noch an, so sollte ggf. bereits mit einer psychotherapeutischen Stabilisierung und Hilfestellung zur besseren Bewältigung traumatischen Belastungen begonnen werden, um so den Betroffenen im Umgang mit seinen akuten Beschwerden und den inneren und äußeren Belastungen zu unterstützen und ihn zu stabilisieren und die Traumafolgeschäden abzumildern.
+
+Hinsichtlich einer geeigneten Therapie (Auswahl eines geeigneten psychotherapeutischen Verfahrens, evtl. medikamentöse Unterstützung zur Symptomlinderung, in schweren Fällen auch eine teil- oder vollstationäre Behandlung) sollte die Behandlungsentscheidung von Schwere und Typ des Traumas, der im Vordergrund stehenden Symptomatik, wie auch einer etwaigen klinischen Komorbidität des Betroffenen abhängig gemacht werden. Für diese Entscheidungen sollte sich der Betroffene qualifizierten Rat (z. B. durch einen fachkundigen Arzt oder Psychologen, Traumatherapeuten oder eine entsprechende Beratungsstelle) einholen und besprechen, welche Behandlungsmöglichkeiten sinnvoll sind und welche Therapieverfahren im konkreten Fall zu empfehlen sind. Dabei kann auch über das sinnvollste weitere Vorgehen und evtl. auch über eine Kombination der genannten Maßnahmen (falls dies erforderlich sein sollte) beraten und über andere Hilfsangebote für traumatisierte Menschen informiert werden. So kann der Patient z. B. im Rahmen einer Psychoedukation über seine Schwierigkeiten aufgeklärt und ihm ein besseres Verständnis für seine Symptome und deren Ursache, sowie Strategien und Techniken für den besseren Umgang mit seinen Beschwerden vermittelt werden. Falls die traumatischen Beschwerden auch das Alltagsleben stark beeinträchtigen, der Betroffene etwa sich nicht selbst versorgen oder nicht zur Arbeit gehen kann und unter starken Beschwerden leidet oder Begleiterkrankungen (Komorbiditäten) vorliegen, kann eine medikamentöse Behandlung der Symptome in Betracht gezogen werden, die nach herrschender Meinung eine traumatherapeutische Behandlung nicht ersetzen (aber u. U. erleichtern) kann, um die belastenden Beschwerden zu lindern (z. B. Schlafstörungen, Angst- und Panikattacken, Übererregung etc.) und um eine bessere Lebensbewältigung und Therapiefähigkeit zu erreichen. In manchen Fällen kann eine teilstationäre Behandlung zu Beginn einer Behandlung sinnvoll sein. Eine vollstationäre Behandlung kann bei starken Panikreaktionen und sonstigen sehr schweren Symptomen und schweren Komorbiditäten zur Stabilisierung in Betracht gezogen werden. In der Regel sollte sich an eine voll- oder teilstationäre Behandlung eine weitergehende ambulante Traumatherapie anschließen.
+
+Psychotherapien 
+Für die Behandlung von Psychotraumata stehen viele unterschiedliche Verfahren zur Verfügung. Viele dieser Verfahren sind speziell für die Traumabehandlung entwickelt worden und gründen auf unterschiedlichen Ergebnissen der Forschung zu Traumaauswirkungen. Jede große psychotherapeutische Schule hat eigene Ansätze zur Behandlung traumatischer Störungen entwickelt, so z. B. Verfahren der kognitiven Verhaltenstherapie bzw. Verhaltenstherapie und psychodynamische Verfahren.
+
+Das Ziel der psychotherapeutischen Verfahren ist, zu einer geordneten Verarbeitung des Traumas bzw. der Traumata zu kommen und dadurch die traumatypischen Symptome entweder zu begrenzen bzw. zu kontrollieren oder aufzulösen. Die verschiedenen Methoden können teilweise als einander ergänzende multidimensionale Ansätze verwendet werden.
+
+Kognitive Verhaltenstherapie 
+Die kognitive Verhaltenstherapie wurde für die Behandlungen von Traumafolgen weiterentwickelt. Die Entstehung und Aufrechterhaltung der Symptomatik wird in der Verhaltenstherapie mit dem behavioralen Modell von Foa und Kozak aus dem Jahr 1986 oder dem kognitiv-behavioralen Modell von Ehlers und Clark aus dem Jahr 2000 erklärt. Als besonders wirksames Verfahren der Verhaltenstherapie hat sich hier die Konfrontationstherapie herausgestellt, die wiederum speziell für die Behandlung von PTBS modifiziert wurde. Hierbei soll sich der Betroffene durch das geschützte Wiedererinnern an die traumatische Situation gewöhnen. Laut AWMF-Leitlinie wurden Verhaltenstherapien, die auch eine Traumakonfrontation beinhalten, am breitesten untersucht und zeigten konsistent positive Effekte zur Wirksamkeit. Diese sind jedoch nur möglich, wenn die Patienten ausreichend stabil sind. Beim derzeitigen Wissensstand kann keine pauschale klinische Behandlungsempfehlungen abgeleitet werden. Die metakognitive Therapie könnte in diesen Fällen eine mögliche Alternative sein, was derzeit noch in Studien genauer untersucht wird. Die Behandlungsentscheidung sollte von Schwere und Typ des Traumas (z. B. Naturkatastrophe, schwerer Unfall oder menschlich verursachtes schweres Unheil (man-made disaster), wie Kampfeinsatz, Beobachtung des gewaltsamen Todes Anderer oder Opfer sein von Folter, Terrorismus, Vergewaltigung oder anderen Verbrechen) und der im Vordergrund stehenden Symptomatik, wie auch der klinischen Komorbidität des Betroffenen abhängig gemacht werden. Es gibt auch Studien, die nahelegen, dass die verlängerte Konfrontation besonders wirksam ist, wenn Angst die dominante Emotion ist, während sie nur eingeschränkt wirksam sei, wenn Gefühle von Scham, Schuld oder Ärger im Vordergrund stehen. Aus Sicht von Boss und Schönfeld (2014) scheint bei ausgeprägten Schuldgefühlen und eher niedrigen dissoziativen Symptomen eine kognitive Disputation ihrer Befürchtungen am erfolgversprechendsten, da die kognitiven Faktoren der Aufrechterhaltung der PTBS eine größere Rolle spielten als die Vermeidung von Angst. Im Gegensatz dazu halten die Autorinnen auch bei ausgeprägter Dissoziation eine Konfrontationstherapie für sinnvoll, da sie in der Regel der Fall der Vermeidung von Angst dient.
+
+Narrative Expositionstherapie (NET) 
+
+Die Narrative Expositionstherapie (NET) ist ebenfalls der Kognitiven Verhaltenstherapie zugeordnet und ist eine speziell bei Mehrfachtraumatisierung und nach organisierter Gewalt angewendete Behandlungsmethode. Das Verfahren wurde auf Basis der Testimony therapy entwickelt, welche zur Behandlung von Verfolgten des Pinochet-Regimes entstanden ist. Wirkverständnis des Verfahrens ist, dass es durch die spezifische Gedächtnisproblematik Traumatisierter zum Fehlen der Verortung und Vergeschichtlichung der traumatischen Szene kommt und emotionale Gedächtnisinhalte unverbunden bleiben. Um eine raum-zeitliche Rückbindung der traumatischen Erlebnisse zu erreichen, positioniert sich der Patient zusammen mit dem Therapeuten in der Gegenwart, und erlebt, in chronologischer Reihenfolge erzählend, seine komplette Lebensgeschichte wieder. Der Fokus liegt auf den negativen und traumatischen Ereignissen, wobei auch positive Erlebnisse als Ressource (wieder-)entdeckt werden. Durch das intensive Wiedererfahren aktualisiert sich die Vergangenheit auf allen Ebenen in der Gegenwart (Gedanken, Gefühle, Bedeutungen, Empfindungen, Körperhaltung usw.). Im narrativen Vorgehen wird dies so lange bearbeitet, bis das Erlebte sich autobiographisch einordnen, benennen, begreifen, verorten lässt und Erleichterung durch Habituation und Integration eintritt. Nach und nach erstellt der Patient in den Behandlungssitzungen im dialogischen Kontakt mit dem Gegenüber eine detaillierte und konsistente, schriftliche Narration seiner Lebensereignisse, welches als Zeugnis und Anerkennung über das erlittene Unrecht dienen soll. Mittlerweile gibt es gute empirische Evidenz für die Wirksamkeit der NET bei einfachen und multiplen Traumata. Die Therapiemethode wird international empfohlen.
+
+Prolonged Exposure (PE) 
+
+Auch Prolonged Exposure (PE), deutsch prolongierte Expositionstherapie, ist aus der Kognitiven Verhaltenstherapie hervorgegangen. Es besteht aus zwei Hauptkomponenten: Erstens der In Vivo-Exposition, d. h. der wiederholten Konfrontation mit Situationen, Aktivitäten und Orten, die aufgrund von traumatischen Erinnerungen vermieden werden. Diese Konfrontationen sollen traumabezogene Ängste reduzieren und den Patienten befähigen, zu realisieren, dass vermiedene Situationen nicht gefährlich sind und er mit dem Leid umgehen kann. Hinzu kommt die imaginative Exposition, d. h. das wiederholte Wiedererzählen und Verarbeiten des traumatischen Erlebnisses. Die imaginative Exposition soll die Verarbeitung der Traumaerinnerung fördern und helfen, eine realistische Perspektive auf das Trauma zu erlangen. Prolonged Exposure benötigt in der Regel 8–15 Sitzungen um ein Trauma zu verarbeiten. PE wird weltweit durchgeführt um Patienten mit vielfältigen traumatischen Erlebnissen wie Vergewaltigung, Überfall, Kindesmisshandlung, Krieg, Verkehrsunfälle und Naturkatastrophen zu behandeln.
+
+Psychodynamische Verfahren 
+Zusätzlich existieren auch einige psychodynamische Verfahren, die speziell auf die Behandlung der PTBS abgestimmt wurden. In Deutschland sind vor allem die von Luise Reddemann ausgearbeitete Psychodynamische imaginative Traumatherapie (PITT) zu erwähnen, die vor allem zur Behandlung einer komplexen posttraumatischen Belastungsstörung eingesetzt wird. Auch die Mehrdimensionale psychodynamische Traumatherapie (MPTT) von Gottfried Fischer und Peter Riedesser, ist ein zur Behandlung dieser Störung angewendetes Verfahren. Die von John Watkins und Helen Watkins entwickelte Ego-State-Therapie ist ein ressourcenorientiertes, imaginatives Psychotherapie-Verfahren, das sich besonders zur Reintegration traumatisch abgespaltener Persönlichkeitsanteile eignet. Bei der Gruppe der imaginativen Verfahren werden meist unterschiedliche Behandlungsverfahren kombiniert (oft auch in Verbindung mit EMDR), die es dem Betroffenen ermöglichen, eine vorsichtige Integration des traumatisch Erlebten zu erreichen. Hierfür können sie sich etwa an einen inneren, sicheren Ort zurückziehen, wenn die Emotionen, welche die traumatischen Erinnerungen begleiten, zu stark werden. Die integrative Traumatherapie, entwickelt von Willi Butollo an der LMU München, ist ebenfalls eine Kombination verschiedener Behandlungsmethoden, die sich als nützlich für die Psychotherapie der PTBS herausgestellt haben. Allen modernen Behandlungsansätzen ist gemeinsam, dass sie integrativ angelegt sind, also meist mehrere Verfahren in sich vereinen.
+
+EMDR 
+
+Das Eye Movement Desensitization and Reprocessing ist eine Behandlungsform, die sich für die Traumabehandlung als wirkungsvoll erwiesen hat. Im EMDR wurden Elemente der Psychodynamischen imaginativen Traumatherapie (PITT) und kognitiven Verhaltenstherapie integriert und durch den Ansatz der Intersphären-Kommunikation erweitert. Im EMDR wird der Betroffene in einem geschützten Rahmen durch Gespräche an die traumatisierende Situation herangeführt. Das Kernelement der EMDR-Behandlung ist dann, dass beim Erinnern durch schnelle Änderung der Blickrichtung oder einer anderen Form der abwechselnden Stimulation beider Gehirnhälften (Intersphären-Kommunikation) eine Integration des traumatisch Erlebten erreicht werden soll. Während es vielfache Nachweise über die Wirksamkeit von EMDR gibt, wurde der Wirkmechanismus der Intersphären-Kommunikation inzwischen mehrfach widerlegt. Die Augenbewegungen scheinen keinen zusätzlich positiven Effekt zu haben. EMDR wird in der AWMF-Leitlinien ebenfalls als effektive Behandlungsmethode der PTBS beurteilt, allerdings sollte die Behandlung durch gut ausgebildete und erfahrene Therapeuten und mit einer ausreichend hohen Zahl an Behandlungssitzungen durchgeführt werden (Sack et al. 2001).
+
+Weitere Behandlungsansätze 
+Ein biologisch orientierter Ansatz (Somatic Experiencing) zur Behandlung von Schock- und Traumafolgen wurde von Peter Levine entwickelt. Durch die dosiert und bewusst ausgeführte Komplettierung biologischer Selbstschutz- und Orientierungsreaktionen wird die im Trauma fixierte Energie freigesetzt und das Nervensystem kehrt zu seiner natürlichen Balance zurück.
+
+Albträume können mit dem Verfahren „imagery rehearsal“ bekämpft werden: Dabei stellt sich der Betroffene untertags vor, dass der Albtraum ein gutes Ende nimmt. Es ist dabei nicht wichtig, jeden einzelnen Albtraum zu visualisieren. Der Patient verwendet eine typische wiederkehrende Traumhandlung, malt sie sich in allen Einzelheiten aus und erfindet ein gutes Ende. Durch dieses Verfahren können nicht nur die Albträume, sondern auch andere Symptome gebessert werden.
+
+In stationären, teilstationären und anderen ganzheitlichen Behandlungssettings kommen über die bisherigen Verfahren hinaus auch regelmäßig kreative Therapieverfahren, wie z. B. Kunsttherapie, zum Einsatz.
+
+In einer Pilotstudie wurde bei Soldaten mit PTBS die hundegestützte Therapie eingesetzt.
+
+Pharmakotherapie 
+Ab einem bestimmten Schweregrad der Symptome kann eine medikamentöse Therapie der Traumafolgestörungen erwogen werden. In diesem Fall werden neben Psychotherapie auch Psychopharmaka eingesetzt. Psychopharmaka beeinflussen das Gleichgewicht von Neurotransmittern im Gehirn und greifen dadurch in die Hirnfunktionen des Patienten ein. Da jedoch keines der bisher zur Verfügung stehenden Medikamente ursächlich wirkt, können sie eine psychotherapeutische Traumatherapie nicht ersetzen, diese jedoch in manchen Fällen vorbereiten oder begleiten. Die Auswahl des jeweiligen Medikaments erfolgt symptomorientiert und richtet sich nach den im Vordergrund stehenden Beschwerden.
+
+Kritiker bemängeln, dass die Medikamentation bei Traumapatienten oft eine hilflose Reaktion der Ärzte zur medikamentösen Linderung der Symptome der leidenden Patienten darstelle und eine anschließende Absetzung der Medikamente nach überstandener Krise oft nicht mehr riskiert werde. Auch kann die medikamentöse Behandlung dazu führen, dass keine oder erst zu spät geeignete traumafokussierte Psychotherapien begonnen werden und so das Risiko einer Posttraumatischen Belastungsstörung mit chronischen Residualbeschwerden erhöht ist.
+
+Aktuelle Studienlage 
+An der eher zurückhaltenden Beurteilung der Pharmakotherapie bei der Behandlung von PTBS hat sich in den letzten Jahren wenig geändert. Traumafokussierte Psychotherapie ist die Methode der Wahl. Die Studienlage zum Einsatz von Psychopharmakotherapie ist dagegen nach wie vor uneinheitlich. Nichtsdestotrotz werden Psychopharmaka bei PTBS im klinischen Alltag häufig eingesetzt. Dies mag einerseits daran liegen, dass bei PTBS und insbesondere bei komplexen und chronischen Formen in hohem Maße weitere psychische Symptome auftreten, andererseits daran, dass traumaspezifische Psychotherapieplätze zu selten zeitnah zur Verfügung stehen. Quälende Symptome wie Schlafstörungen und Übererregung lassen Betroffene häufig nach beruhigender oder dämpfender Medikation verlangen, was auch zu einer Selbstmedikation durch Alkohol oder Medikamentenmissbrauch führen kann.
+
+In den letzten Jahren wurde eine Vielzahl von Substanzen auf ihre potenzielle Wirksamkeit untersucht, dabei konnten die Substanzen Trazodon, Quetiapin, Mirtazapin, Gabapentin, Desipramin, Prazosin, Alprazolam, Clonazepam, Nefazodon, Brofaromin, Bupropion, Citalopram, Divalproat, Risperidon, Tiagabin und Topiramat jedoch keine überzeugende Wirksamkeit in kontrollierten Studien zeigen.
+
+Statistisch signifikante Befunde für deren Wirksamkeit, allerdings mit geringen Effektstärken, die deutlich unter denen einer traumafokussierten psychotherapeutischen Behandlung lagen und mitunter nur geringgradig effektiver als Placebo, fanden sich nur für einzelne Substanzen wie Venlafaxin, Paroxetin, Sertralin, Phenelzin.
+
+Benzodiazepine 
+Benzodiazepine, und andere GABAerge Substanzen, sind (Stand 2015) kontraindiziert.
+
+Der Einsatz muss einer fachärztlichen Behandlung vorbehalten bleiben, da mögliche Nebenwirkungen genauso wie ein differenziertes Vorgehen beim eventuellen Absetzen von Medikation beachtet werden muss.
+
+Der Einsatz von Benzodiazepine bietet sich nur scheinbar an, da kurzzeitig Symptome gelindert werden, dennoch, selbst bei Insomnien, wird von deren Gebrauch deutlich abgeraten. Eine umfangreiche Metaanalyse zeigte, dass Benzodiazepine unwirksam für die Behandlung und Prävention der PTBS sind. Die Risiken, die mit der Einnahme assoziiert sind, überwiegen gegenüber dem potenziellen kurzfristigen Nutzen. Es wurden ungünstige Therapieergebnisse, Aggressionen, Depressionen, Substanzgebrauch, und ein allgemein höherer Schweregrad der PTBS im Zusammenhang mit der Einnahme von Benzodiazepinen beobachtet.
+
+Die Gabe von Benzodiazepinen unmittelbar im Anschluss an das belastende Ereignis, mit dem Ziel einer günstigen Beeinflussung des Krankheitsverlaufs, erwies sich in klinischen Studien als ungeeignet oder möglicherweise für die behandelten Personen sogar von Nachteil. Von einem frühen Einsatz von Benzodiazepinen wird daher abgeraten. Es existieren auch tierexperimentelle Ergebnisse, welche darauf hindeuten, dass der Einsatz eines Benzodiazepins die Symptomentwicklung begünstigt.
+
+Zulassung und Leitlinienempfehlung in Deutschland 
+In Deutschland sind nur Sertralin und Paroxetin für die Behandlung der PTBS zugelassen.
+
+Die aktuelle S3-Leitlinie kommt vor dem Hintergrund der beschriebenen Evidenz zu folgenden Empfehlungen:
+
+ Eine Psychopharmakotherapie soll weder als alleinige noch als primäre Therapie der Posttraumatischen Belastungsstörung eingesetzt werden (Empfehlung 8).
+ Falls nach einem informierten und partizipativen Entscheidungsprozess trotz der geringen Effekte eine Medikation bevorzugt wird, so sollte lediglich Sertralin, Paroxetin oder Venlafaxin angeboten werden (Empfehlung 9).
+ Benzodiazepine sollen nicht eingesetzt werden (Empfehlung 10).
+
+Die ökonomische Berechnung zeigte, dass die pharmakotherapeutische Behandlung der PTBS (mit SSRI) weniger kosteneffektiv sei, als kurze traumafokussierte kognitive Verhaltenstherapie, EMDR oder Selbsthilfe mit Unterstützung.
+
+Geschichtliches 
+
+Zum ersten Mal wurden die psychischen Folgen eines Traumas 1900 v. Chr. von einem ägyptischen Arzt beschrieben. Pierre Briquet stellte 1859 hysterische Symptome bei vielen Patienten nach traumatischen Erlebnissen fest und Jean-Martin Charcot beschrieb 1867 als erster psychologische Konzepte für die Entstehung der „traumatischen Hysterie“. Während Joseph Babinski (1886) diese hysterischen Phänomene auf Simulation und Suggestibilität reduzierte und damit Weichen für eine problematische Behandlung der späteren Kriegsneurosen stellte (s. u.) und so die spätere Entwicklung der Psychoanalyse durch S. Freud mitprägte, entwickelte Pierre Janet, der Begründer der modernen dynamischen Psychiatrie, bereits 1889 eine bis heute gültige Theorie über die Verarbeitungsprozesse traumatischer Erfahrungen. Janet betrachtete die Trauma-Antwort grundsätzlich als eine Störung des Gedächtnisses, die die Integration der traumatischen Erinnerungen in bestehende kognitive Strukturen verhindere, was zu deren Abspaltung von Bewusstsein und Willenskontrolle und zu Dissoziation und Amnesie führe und die psychischen und somatoformen Trauma-Symptome verursache. Er entwickelte einen therapeutischen Ansatz für traumatisierte Patienten, um mit einer systematischen, phasenorientierten Behandlung die Verminderung von posttraumatischem Stress und eine kognitive Reintegration der traumatischen Erinnerungen zu erreichen. Damit hat Janet bereits 1889 wichtige Erkenntnisse der modernen Psychotraumatologie und -therapie, sowie der Dissoziation in wesentlichen Teilen vorweggenommen, die fast 100 Jahre weitgehend in Vergessenheit gerieten.
+
+Eine andere Theorie verfolgten Josef Breuer und Sigmund Freud in ihren „Studien über Hysterie“ (1895) und beschrieben die möglichen Langzeitfolgen von Traumata als eine Unterklasse der hysterischen Erkrankung (vgl. „traumatische Hysterie“) und bestimmten damit für lange Zeit die weitere Traumaforschung und die öffentliche Wahrnehmung. Ende des 19. Jahrhunderts prägte der deutsche Psychiater Emil Kraepelin den Begriff Schreckneurose, um die Symptome zu beschreiben, die sich bei Opfern von schweren Unfällen und Verletzungen, besonders von Feuersbrünsten, Entgleisungen oder Zusammenstößen auf der Eisenbahn zeigten. Auch der Freud-Schüler Abram Kardiner beschrieb die Symptome der PTBS bereits genauer. Die PTBS-Symptome wurden im letzten Jahrhundert mit verschiedenen anderen Bezeichnungen belegt, zum Beispiel sprach man in Bezug auf die Kriegsgeschädigten des Ersten Weltkrieges von „Granat(en)schock“, „Granatfieber“ oder einer (im Ersten Weltkrieg mit einer Art elektrischem Schock wie der Kaufmann-Methode behandelten) „Kriegsneurose“. Bekannt in diesem Zusammenhang wurden die sogenannten Kriegszitterer. Einige der „Kriegsneurosen“ müssten (laut Maja Möller, Monika Pritzel und Reinhard Steinberg: Die Diagnostik bei ‚Kriegsneurotikern‘) heute als Posttraumatische Belastungsstörung diagnostiziert und behandelt werden.
+
+Die britische Armee allein zählte bis Kriegsende 80.000 Soldaten, die ihren „Breaking Point“ erreicht hatten, die ausgebrannt und nicht mehr einsatzfähig waren. Doch die relativ schnell etablierte Erkenntnis der Ärzte, dass man es mit einem eigenständigen Krankheitsbild zu tun hatte, setzte sich weder in der Militärführung noch bei der Zivilbevölkerung durch. Letztere begrüßte psychisch traumatisierte Heimkehrer oft mit tiefster Verachtung. Man ließ die Soldaten spüren, dass man sie für Feiglinge hielt. Einige Hundert dieser Patienten kamen gar nicht zurück nach Großbritannien: Die Armeeführung hatte sie wegen Feigheit erschießen lassen. In Deutschland soll sich die Zahl der Hinrichtungen auf etwa zwei Dutzend belaufen haben.
+
+Mit dem Begriff Überlebenden-Syndrom belegte der Psychiater William G. Niederland die psychischen Folgen der Verfolgung und der KZ-Inhaftierung im nationalsozialistischen Regime. In mehr als hundert Gutachterprozessen musste er sich auch mit den Gutachten der konservativen deutschen Psychiater auseinandersetzen, die in fast allen Fällen keinen Krankheitswert der KZ-Überlebenden feststellen konnten, eine Rentenneurose attestierten oder aber die Erkrankung auf die „schwache Konstitution“ der Überlebenden schoben. Auch Kurt Eissler kritisierte die deutsche Nachkriegspsychiatrie. In seinem Artikel Die Ermordung von wievielen seiner Kinder muß ein Mensch symptomfrei ertragen können, um eine normale Konstitution zu haben? von 1963 setzt er sich mit der Fehde auseinander, die zwischen den US-amerikanischen und den deutschen Gutachtern bezogen auf die Anerkennung einer Posttraumatischen Belastungsstörung stattfand. Milton Kestenberg untersuchte verschiedene diskriminierende Aspekte der deutschen Entschädigungspraxis und betonte, dass erst ab 1965 von deutschen Gerichten die Möglichkeit eines ursächlichen Zusammenhangs zwischen psychiatrischen Zuständen und der Verfolgung anerkannt wurde.
+
+Der Begriff PTBS wurde vor allem von der US-amerikanischen Psychologin Judith Lewis Herman eingeführt als Konsequenz aus ihrer Arbeit mit Vietnamkriegs-Veteranen wie auch mit von häuslicher Gewalt betroffenen Frauen. Weitere Wegbereiter der Forschung bezüglich Kriegstrauma sind Robert Lifton und später Jonathan Shay.
+
+Der deutsche Psychologe David Becker, der viele Jahre in Chile mit Extremtraumatisierten der Diktatur Pinochets arbeitete, hat seine Erfahrungen mit diesen Patienten in seinem Buch Ohne Hass keine Versöhnung vorgestellt. Dabei beschrieb auch er die Einführung der Diagnose PTBS als im Zusammenhang mit den Veteranen des Vietnamkrieges stehend, äußerte sich über die Diagnose jedoch insofern kritisch, als sie zunächst der Abwehr von Entschädigungsleistungen an die Soldaten gedient habe.
+
+Darstellung in Literatur und Medien 
+
+Die Diagnose Posttraumatische Belastungsstörung fand 1980 erstmals Eingang in das Diagnose-Manual DSM III (aktuell DSM IV), doch existieren schon in älteren literarischen Werken Hinweise auf eine PTBS. Jonathan Shay erkennt etwa bei der Darstellung des Sir Henry Percy („Hotspur“) in William Shakespeares Henry IV Symptome der PTBS. Hotspur hat Schlafstörungen und Albträume, verliert das Interesse an Beschäftigungen, die ihm früher Freude bereitet haben, und wird schreckhaft und launisch. Bei der Darstellung des Achilleus erkennt Shay deutliche Kennzeichen der PTBS. Dichter haben immer wieder traumatisierende Lebensumstände beschrieben sowie die Möglichkeiten der Betroffenen, in ihnen zu überleben, ausgeleuchtet. Oft hat die Darstellung die Leser aufgerüttelt oder hatte gar sozial verändernde Auswirkungen. Ein Beispiel dafür ist der Roman Oliver Twist von Charles Dickens. In diesem wird die psychische Situation eines Jungen, der seine Eltern verloren hat, beschrieben. Dickens zeigt, wie soziale Einrichtungen, die eigentlich die Notlage des Jungen mildern sollen, stattdessen noch zur weiteren Traumatisierung beitragen. Bücher, die sich explizit mit der PTBS befassen, sind das autobiographische A Rumor of War von Philip Caputo, In the Lake of the Woods von Tom O'Brian und das mit dem National Book Award ausgezeichnete Paco's Story von Larry Heinemann.
+
+Die Posttraumatische Belastungsstörung wurde unter anderem in Filmen wie Waltz with Bashir von Ari Folman, Rambo von Ted Kotcheff, Birdy von Alan Parker, Coming Home – Sie kehren heim von Hal Ashby, Die durch die Hölle gehen von Michael Cimino und Geboren am 4. Juli und Zwischen Himmel und Hölle von Oliver Stone thematisiert.
+
+Klaus Dörner bemängelte 2005, Posttraumatische Belastungsstörungen seien zu einer Modediagnose geworden. Menschen könnten nach existentiell einschneidenden Erlebnissen in sehr seltenen Fällen innerlich so zerbrechen, dass sie ihr ganzes Leben lang gezeichnet sind und Hilfe benötigen. Aber dieser an sich richtige Gedanke werde im Augenblick völlig überspannt.
+
+Nachdem 2008 zwei Filme erschienen, die das Syndrom im Zusammenhang mit dem Kriegseinsatz in Afghanistan thematisieren (Nacht vor Augen und Willkommen zu Hause), fordern Politiker des Deutschen Bundestages, dass die Betreuung von betroffenen Soldaten gestärkt und weiterentwickelt werden soll. Der damalige deutsche Bundesverteidigungsminister Franz Josef Jung (CDU) bedankte sich in der Debatte bei der ARD für die Ausstrahlung des Films Willkommen zu Hause. Die Dokumentation Hell and Back Again aus dem Jahr 2011 beschäftigt sich mit einem US-Soldaten, der aus dem Afghanistan-Krieg zurückkehrt und mit einer posttraumatischen Belastungsstörung zu kämpfen hat.
+
+Seit 2017 wird das Thema auch in „Babylon Berlin“ behandelt. In der nach dem Ersten Weltkrieg spielenden Serie sind diverse Kriegsrückkehrer zu sehen, welche den sogenannten „Flattermann“ (Kriegszittern) haben. Behandelt werden sie mit diversen Beruhigungsmitteln und Barbituraten.
+
+Chronologie der Bezeichnungen 
+ 1600 Nostalgie
+ 1800 Effort-Syndrom
+ 1910–1920 traumatische Neurose, Zitterkrankheit (vgl. Kriegszitterer)
+ 1940–1950 Kriegsneurose, „neurozirkulatorische Asthenie“, engl. battle fatigue
+ 1950–1970 Überlebenden-Syndrom
+ 1970–1980 Post-Vietnam-Syndrom
+ 1980 posttraumatische Belastungsstörung (PTBS)
+
+Volksmund:
+ Sezessionskrieg: „soldier’s heart“ (Soldatenherz)
+ Erster Weltkrieg: „shell shock“ (Granatenschock)
+ Zweiter Weltkrieg: „war fatigue“ (Kriegsermüdung)
+ Vietnamkrieg: „combat stress“ (Gefechtsstress)
+
+Siehe auch 
+
+ psychisches Trauma (= Trauma (Psychologie))
+ Akute Belastungsreaktion
+ Komplexe posttraumatische Belastungsstörung
+ Posttraumatische Verbitterungsstörung
+ Dissoziative Identitätsstörung
+ Borderline-Persönlichkeitsstörung
+ Depression
+ Angststörung
+ Überlebenden-Syndrom
+ Kindheitstrauma
+ Psychotraumatologie
+ Posttraumatisches Wachstum
+
+Literatur 
+Allgemein
+ Sefik Tagay, Ellen Schlottbohm, Marion Lindner: Posttraumatische Belastungsstörung: Diagnostik, Therapie und Prävention. Kohlhammer, Stuttgart 2016, ISBN 978-3-17-026069-6.
+ Michaela Huber: Trauma und die Folgen. Trauma und Traumabehandlung, Teil 1. 5. Auflage. Band 1, Junfermann, Paderborn 2012, ISBN 978-3-87387-510-4.
+ Andreas Maercker: Posttraumatische Belastungsstörungen. 4. Auflage. Springer, Berlin 2013, ISBN 978-3-642-35067-2.
+ Christine Knaevelsrud, Alexandra Liedl, Nadine Stammel: Posttraumatische Belastungsstörungen. Beltz, Weinheim/ Basel 2012, ISBN 978-3-621-27811-9.
+ Martin Sack, Ulrich Sachsse, Julia Schellong: Komplexe Traumafolgestörungen: Diagnostik und Behandlung von Folgen schwerer Gewalt und Vernachlässigung. Schattauer, Stuttgart 2013, ISBN 978-3-7945-2878-3.
+ Gottfried Fischer, Peter Riedesser: Lehrbuch der Psychotraumatologie. 4. Auflage. Reinhardt, München 2009, ISBN 978-3-8252-8165-6.
+ Alexander Korittko: Posttraumatische Belastungsstörungen bei Kindern und Jugendlichen. Band 5, Carl-Auer-Systeme Verlag und Verlagsbuchhandlung, Heidelberg, Neckar, ISBN 3-8497-0114-X.
+ Stefan Jacobs: Neurowissenschaften und Traumatherapie. Grundlagen und Behandlungskozepte. Universitätsverlag Göttingen, Göttingen 2009.
+ Guido Flatten, Ursula Gast, Arne Hofmann, Christine Knaevelsrud, Astrid Lampe, Peter Liebermann, Andreas Maercker, Luise Reddemann, Wolfgang Wöller.: Posttraumatische Belastungsstörung: S3-Leitlinie und Quellentexte. Schattauer, Stuttgart 2013, ISBN 978-3-7945-2923-0.
+ Matthew J. Friedman u. a.: Handbook of PTSD: Science and Practice. 2. Auflage. The guilford Press, New York 2014, ISBN 978-1-4625-1617-9.
+ Jonathan Bisson, Martin Andrew: Psychological treatment of post-traumatic stress disorder. In: Cochrane Database of Systematic Reviews. 18. Jg., Nr. 3, Juli 2007. PMID 17636720.
+ Manfred Zielke, Rolf Meermann, Winfried Hackhausen (Hrsg.): Das Ende der Geborgenheit? Die Bedeutung von traumatischen Erfahrungen in verschiedenen Lebens- und Ereignisbereichen: Epidemiologie, Prävention, Behandlungskonzepte und klinische Erfahrungen. Pabst Science Publishers, Lengerich u. a. 2003, ISBN 3-89967-002-7.
+ Jonathan Shay: Achill in Vietnam: Kampftrauma und Persönlichkeitsverlust. Hamburger Edition, Hamburg 1998, ISBN 3-930908-36-0.
+Psychoanalyse
+
+Weblinks 
+ PTBS Hilfe – Initiative Angriff auf die Seele – Informationsangebot für traumatisierte Soldatinnen und Soldaten sowie deren Angehörigen
+ Informationen Gewalt- und Unfallopfer (PDF; 28 kB) TBZ Göttingen, Archiv (PDF)
+ S3 – Leitlinie: Posttraumatische Belastungsstörung, AWMF-Registernummer 051/010; offline, Archiv (PDF) Stand 08/2011
+ Veröffentlichungen des Dachverbands der Psychosozialen Zentren für Flüchtlinge und Folteropfer – Informationsmaterial für Therapierende und Betreuungspersonen von Geflüchteten
+
+Einzelnachweise 
+
+Psychische Störung
+Psychosoziale Notfallversorgung
+Krankheitsbild in der Wehrmedizin

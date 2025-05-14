@@ -1,0 +1,145 @@
+Paranoia is a dystopian science-fiction tabletop role-playing game originally designed and written by Greg Costikyan, Dan Gelber, and Eric Goldberg, and first published in 1984 by West End Games. Since 2004 the game has been published under license by Mongoose Publishing. The game won the Origins Award for Best Roleplaying Rules of 1984 and was inducted into the Origins Awards Hall of Fame in 2007. Paranoia is notable among tabletop games for being more competitive than co-operative, with players encouraged to betray one another for their own interests, as well as for keeping a light-hearted, tongue in cheek tone despite its dystopian setting.
+
+Several editions of the game have been published since the original version, and the franchise has spawned several spin-offs, novels and comic books based on the game.
+
+A crowdfunding at Kickstarter for a new edition was successfully funded.  Delivery to backers began in March 2017.
+
+Premise
+The game is set in a dystopian future city controlled by the Computer (also known as "Friend Computer"), and where information (including the game rules) are restricted by color-coded "security clearance". Player characters are initially enforcers of the Computer's authority (known as Troubleshooter, mainly for the fact that they shoot trouble), and will be given missions to seek out and eliminate threats to the Computer's control. The player characters are also part of prohibited underground movements (which means that the players' characters are usually included among the aforementioned 'security threats'), and will have secret objectives including theft from and murder of other player characters.
+
+Tone
+Paranoia is a humorous role-playing game set in a dystopian future along the lines of Nineteen Eighty-Four, Brave New World, Logan's Run, and THX 1138; however, the tone of the game is rife with black humor, frequently tongue-in-cheek rather than dark and heavy. Most of the game's humor is derived from the players' (usually futile) attempts to complete their assignment while simultaneously adhering to the Computer's arbitrary, contradictory and often nonsensical security directives.
+
+The Paranoia rulebook is unusual in a number of ways; demonstrating any knowledge of the rules is forbidden, and most of the rulebook is written in an easy, conversational tone that often makes fun of the players and their characters, while occasionally taking digs at other notable role-playing games.
+
+Setting
+The game's main setting is an immense, futuristic city called Alpha Complex.  Alpha Complex is controlled by the Computer, a civil service AI construct (a literal realization of the "Influencing Machine" that some schizophrenics fear). The Computer serves as the game's principal antagonist, and fears a number of threats to its 'perfect' society, such as the Outdoors, mutants, and secret societies (especially Communists).  To deal with these threats, the Computer employs Troubleshooters, whose job is to go out, find trouble, and shoot it. Player characters are usually Troubleshooters, although later game supplements have allowed the players to take on other roles, such as High-Programmers of Alpha Complex.
+
+The player characters frequently receive mission instructions from the Computer that are incomprehensible, self-contradictory, or obviously fatal if adhered to, and side-missions (such as Mandatory Bonus Duties) that conflict with the main mission. Failing a mission generally results in termination of the player character, but succeeding can just as often result in the same fate, after being rewarded for successfully concluding the mission. They are issued equipment that is uniformly dangerous, faulty, or "experimental" (i.e., almost certainly dangerous and faulty).  Additionally, each player character is generally an unregistered mutant and a secret society member (which are both termination offenses in Alpha Complex), and has a hidden agenda separate from the group's goals, often involving stealing from or killing teammates. Thus, missions often turn into a comedy of errors, as everyone on the team seeks to double-cross everyone else while keeping their own secrets.  The game's manual encourages suspicion between players, offering several tips on how to make the gameplay as paranoid as possible.
+
+Every player's character is assigned six clones, known as a six-pack, which are used to replace the preceding clone upon his or her death. The game lacks a conventional health system; most wounds the player characters can suffer are assumed to be fatal. As a result, Paranoia allows characters to be routinely killed, yet the player can continue instead of leaving the game. This easy spending of clones tends to lead to frequent firefights, gruesome slapstick, and the horrible yet humorous demise of most if not all of the player character's clone family. Additional clones can be purchased if one gains sufficient favour with the Computer.
+
+Security clearances
+Paranoia features a security clearance system based on colors of the visible spectrum which heavily restricts what the players can and cannot legally do; everything from corridors to food and equipment have security restrictions. The lowest rating is Infrared, but the lowest playable security clearance is Red; the game usually begins with the characters having just been promoted to Red grade. Interfering with anything which is above that player's clearance carries significant risk.
+
+The full order of clearances from lowest to highest is Infrared (visually represented by black), Red, Orange, Yellow, Green, Blue, Indigo, Violet, and Ultraviolet (visually represented by white).  Within the game, Infrared-clearance citizens live dull lives of mindless drudgery and are heavily medicated, while higher clearance characters may be allowed to demote or even summarily execute those of a lower rank and those with Ultraviolet clearance are almost completely unrestricted and have a great deal of access to the Computer; they are the only citizens that may (legally) access and modify the Computer's programming, and thus Ultraviolet citizens are also referred to as "High Programmers". Security clearance is not related to competence but is instead the result of the Computer's often insane and unjustified calculus of trust concerning a citizen. It is suggested that it may in fact be the High Programmers' meddling with The Computer's programming that resulted in its insanity.
+
+Secret Societies
+In the game, secret societies tend to be based on sketchy and spurious knowledge of historical matters.  For example, previous editions included societies such as the "Seal Club" that idolizes the Outdoors but is unsure what plants and animals actually look like. Other societies include the Knights of the Circular Object (based on the Knights of the Round Table), the Trekkies, and the First Church of Christ Computer Programmer. In keeping with the theme of paranoia, many secret societies have spies or double agents in each other's organizations. The 1st edition also included secret societies such as Programs Groups (the personal agents and spies of the High Programmers at the apex of Alpha Complex society) and Spy For Another Alpha Complex.
+
+The actual societies which would be encountered in a game depends on the play style; some societies are more suited for more light-hearted games (Zap-style, or the lighter end of Classic), whereas others represent a more serious threat to Alpha Complex and are therefore more suitable for Straight or the more dark sort of Classic games.
+
+Publication history
+Six editions have been published. Three of these were published by West End Games - the 1st, 2nd, and "Fifth" Editions - whereas the later three editions (Paranoia XP, the 25th Anniversary edition and the "Red Clearance" edition) were published by Mongoose Publishing. In addition to these six published editions, it is known that West End Games were working on a "Third Edition" - to replace the poorly received Fifth Edition - in the late 1990s, but their financial issues would prevent this edition from being published, except for being included in one tournament adventure.
+
+1st edition
+1st edition () - written by Greg Costikyan, Dan Gelber, and Eric Goldberg - published in 1984 by West End Games. In 1985, this edition of Paranoia won the Origins Award for Best Roleplaying Rules of 1984. This edition, while encouraging dark humour in-game, took a fairly serious dystopian tone; the supplements and adventures released to accompany it emphasised the lighter side, however, establishing the freewheeling mix of slapstick, intra-team backstabbing and satire that is classically associated with a game of Paranoia.
+
+2nd edition
+
+2nd edition () - written by Greg Costikyan, Dan Gelber, Eric Goldberg, Ken Rolston, and Paul Murphy - published in 1987 by West End Games. This edition can be seen as a response to the natural development of the line towards a rules-light, fast and entertaining play style. Here, the humorous possibilities of life in a paranoid dystopia are emphasised, and the rules are simplified.
+
+Metaplot and the Second Edition
+Many of the supplements released for the Second edition fall into a story arc set up by new writers and line editors that was intended to freshen up the game and broaden roleplay possibilities. Players could travel in space and time, play in a Computerless Alpha Complex, or an Alpha Complex in which Computer battled for control with other factions. Some fans criticized the change to the default narrative.  Second edition supplements can generally be divided into four eras:
+ Classic: No metaplot.
+ Secret Society Wars: Introduced in The DOA Sector Travelogue, and supported by a series of Secret Society Wars modules. Individual missions can be run in the Classic format, but running themes and conspiracies persist from book to book.
+ The Crash: Detailed in The Crash Course Manual, and supported by the Vulture Warriors of Dimension X series of time-travelling modules. Adventures occur in a fractured Complex in which there is no Computer, possibly as a result of the Secret Society Wars, possibly not.
+ Reboot: Detailed in The Paranoia Sourcebook, and supported by a few modules and supplements. The Computer returns, but does not control all of Alpha Complex - plays as a hybrid of the other eras, with players free to choose sides.
+
+"Fifth" Edition
+
+"Fifth Edition" () - published in 1995 by West End Games - was in fact the third edition of the game released. (The game skipped two editions as a joke, and possibly also as a reference to the two major revisions to the game released during the lifetime of the Second Edition with the Crash Course Manual and the Paranoia Sourcebook.)  It has since been declared an "un-product" (cf. "unperson") by the writers of the current edition, due to its extremely poor commercial and critical reception. Almost none of the original production staff were involved, and the books in this line focused less on the dark humor and oppressive nature of Alpha, and more on cheap pop culture spoofs, such as a Vampire: The Masquerade parody. It had a lighter and sillier atmosphere and fans and more cartoonish illustrations.
+
+In his introduction to Flashbacks, a compilation of Paranoia adventures from the West End Games era, Allen Varney details the management decisions which led, in the eyes of many, to the decline of the Paranoia line, and cites rumours that the line saw a 90% decline in sales before West End Games went into bankruptcy:
+
+Art director Larry Catalano left West End in 1986. Catalano’s successor fired (illustrator) Jim Holloway and brought in a succession of increasingly poor cartoonists. (Writer/editor) Ken Rolston left shortly thereafter for unrelated reasons. In Ken’s wake, developers Doug Kaufman and Paul Murphy in turn briefly supervised the PARANOIA line. After they too departed, editorial control fell to—how do I put this tactfully?—people with different views of the PARANOIA line.
+
+Unreleased West End Games Third Edition
+Following the unfavorable reception of the Fifth Edition, West End Games began planning a new edition of the game, which would be released as the "Third Edition". Pages from this planned edition were exhibited at Gen Con in 1997 - two years after the release of the Fifth Edition.  Due to West End Games' financial problems this edition was never completed.  In an interview in 1999 Scott Palter of West End expressed hopes that the Third Edition would be published that summer; however, he also disclosed that court proceedings had been begun by the original designers in order to reclaim the rights to the game. The designers would ultimately succeed in purchasing the rights to the game, putting an end to any possibility that the final West End Games edition would be released.
+
+A single adventure has surfaced which contained a summary of the third edition rules.
+
+Paranoia XP
+
+Paranoia XP () Following the bankruptcy of West End Games, the original designers of Paranoia banded together and purchased the rights to the game from West End in order to regain control of the line. The designers in turn granted a license to Mongoose Publishing to produce a new version of the game, with the result that Paranoia XP, written by Allen Varney, Aaron Allston, Paul Baldowski, Beth Fischi, Dan Curtis Johnson and Greg Costikyan, was published in 2004.  In 2005, Microsoft requested that the XP be removed.  As such, the name was shortened to just Paranoia.  This edition of the game has received a much warmer critical reception, as well as selling well.
+
+This edition also introduced three different styles of play, with some game mechanics differing between the various modes to support the specific tone being sought-after:
+ Zap is anarchic slapstick with no claims to making sense and little effort at satire. Zap represents Paranoia as popularly understood: troubleshooters who open fire on each other with little to no provocation. It is often associated with the "Fifth Edition". Best for a one-shot game of Paranoia.
+ Classic is the atmosphere associated with the 2nd edition. Conflict within troubleshooter teams is less common and less lethal. Good for a one-shot game of Paranoia, but still suitable for an ongoing campaign.
+ Straight represents a relatively new style. This is more serious and focuses more on dark, complex satire. Players are punished for executing other characters without first filing evidence of the other character's treason; this encourages slower, more careful gameplay and discourages random firefights and horseplay. Poor for one-shoots, good for an ongoing campaign.
+
+Primary designer Allen Varney, in the designer's notes, explained that his aim with the new edition was to return to the game's roots whilst updating both the game system and the satirical setting to take account of twenty years of game design progress. In both the core rulebook and the Flashbacks supplement - a reprint of classic adventures originally published by West End Games - Varney was highly critical of West End Games' handling of the product line in its latter days. In a posting on RPG.net he explained that the point of including the three playstyles in Paranoia XP was to counteract the impression that "Zap"-styled play was the default for Paranoia, an impression which had in part been created by the more cartoonish later supplements in the West End Games line (as well as "Fifth Edition").
+
+In order to distance the new edition from the less commercially and critically successful aspects of the West End Game line, and to discourage new players from wasting time and money on what he considered to be inferior products, Varney additionally used the designer's notes to declare many West End products, including the "Fifth Edition" and everything published for the 2nd Edition after The People's Glorious Revolutionary Adventure, to be "unproducts" - no longer part of the game's continuity, and not recommended for use with the new edition. An upshot of this is that much of the poorly received metaplot established late in the West End Games line, from the Secret Society Wars to the Reboot and beyond, was disposed of. Varney has explained that this is due mainly to his distaste for the direction the metaplot took the game line in, a distaste he asserts is shared by the game's fan community. He has also stated that he personally has little affection for the "Zap" style, and therefore may have given it short shrift in the main rulebook, although later supplements for Paranoia XP did provide more support for Zap play.
+
+Long-time Paranoia artist Jim Holloway, called "the master of the fun-filled illustration", drew the cover art and much of the internal art for the game until 1986. His art for the series generally portray comedic scenarios that capture the essential "deathtrap" feeling of Alpha Complex.  Paranoia XP marked his return to the line as well; he has designed every cover of the XP edition, and many books contain both his classic and new Paranoia art.
+
+While Paranoia XP kept Communists as the big bad scapegoat in spite of the Cold War being long over, the updated edition integrates several 21st century themes into its satire.  Troubleshooters carry PDCs (Personal Digital Companion) that are reminiscent of PDAs and smartphones and can try to acquire gear by bidding on CBay (an obvious pun on eBay).  New threats to Alpha Complex include file sharing, phishing scams, identity theft and Weapons of mass destructions.  Consumerism in Alpha Complex has been tooled into its economy and has taken on an element of patriotism, echoing sentiments expressed after 9/11 along similar trends.  A mission pack released in 2009 titled War On (Insert Noun) lampoons government initiatives like the War on Drugs and the War on Terror.
+
+In writing the new edition, Varney, Goldberg and Costikyan reached out to and actively collaborated with the Paranoia online fan community through an official blog and through Paranoia-Live.net.  In addition, Varney ran an online game, the Toothpaste Disaster, where players took the role of High Programmers documenting the titular disaster in a Lexicon format.  Many ideas established in the Lexicon game were written into the rulebook.  Later, some of the best players and writers from the game and a few other places were formally integrated as the Traitor Recycling Studio to write official Paranoia material; their first credited work was the mission supplement Crash Priority.
+
+In 2006, Varney's fellow Paranoia writer, Mongoose Publishing employee Gareth Hanrahan, took over as primary writer for the Paranoia line. During the lifetime of the XP line Mongoose released numerous supplements and adventures for the game. Notable amongst the supplements was Extreme Paranoia, which provided ideas for scenarios based around characters of security clearances Orange to Violet, with premises differing greatly from the standard Red-clearance Troubleshooter concept but remaining thematically appropriate to the game's setting and atmosphere. (This included an updated reprint of the 1st Edition supplement HIL Sector Blues, which focused on playing Blue-clearance IntSec agents.) The idea of devising new and varied concepts to base Paranoia adventures and campaigns around would be revisited for the next edition of the game.
+
+25th Anniversary Editions
+In June 2009, Mongoose Publishing announced that they would be retiring the books in the XP line to clear the way for the 25th Anniversary Edition line - revealing a new edition of the rulebook as well as two new rulebooks, one casting the players as higher-clearance Internal Security investigators and one as Ultraviolet High Programmers.  They stated that the XP material would "maintain a 90% compatibility rating with the new Paranoia books".
+
+Each of the three books is an entirely self-contained and playable game: Paranoia: Troubleshooters, Paranoia: Internal Security, and Paranoia: High Programmers. The Troubleshooters volume presents a slimmed-down version of the XP rules, the most notable difference being the removal of the Service Firms and the advanced economy of the XP edition, with the focus firmly on the game's traditional premise of casting the player characters as Red-clearance Troubleshooters. The Internal Security volume casts the player characters as Blue-clearance Internal Security agents, a refinement of the premise of the 1st edition supplement HIL Sector Blues (reprinted in the XP line as part of Extreme Paranoia). The third game, Paranoia: High Programmers, casts the player characters as the Ultraviolet-clearance elite of Alpha Complex society and focuses on the political plotting and infighting that dominates the High Programmers' lives, a premise not dissimilar to the Violet-level campaign ideas presented in Extreme Paranoia.
+
+The Troubleshooters volume retains the play styles of the XP rulebook; however, the "Classic" playstyle is assumed by default, with "Zap" and "Straight" relegated to an appendix. Allen Varney, designer of the XP edition, explained in a posting on RPG.net that this decision came about as a result of the XP edition successfully convincing the wider gaming public that "Zap" was not the default playstyle for the game; since it was now generally accepted that Paranoia could have a variety of playstyles and each GM would interpret it somewhat differently, it was considered no longer necessary to emphasise the different playstyles in the main text. The Internal Security volume includes an appendix listing three new styles tailored for the game - "Heist", "Overkill" and "Horror". High Programmers does not specify playstyles.
+
+Red Clearance Edition
+The most recent edition (at the time of writing) from Mongoose Publishing was announced through Kickstarter 24 October 2014. In a departure from previous Mongoose editions, RED Clearance Edition utilises a d6-based dice pool system as well as using cards for equipment, mutant powers, secret societies, and combat actions. The base game was primarily designed by James Wallis, and released in March 2017.  Additional writing for the new edition was initially provided by Gareth Hanrahan, while the first major expansion, Acute PARANOIA, was written by various writers and funded through Kickstarter in 2018 for an early 2019 release.
+
+Reception
+In the Jan-Feb 1985 edition of Space Gamer (Issue No. 72), the editorial staff were enthusiastic about the game, commenting "If you're likely to take it personally when your best friend's character plugs your character from behind, stay away from this game. But if you like high-tension suspense along with a slightly bent sense of humor, Paranoia is a unique and highly desirable experience."
+
+Marcus L. Rowland reviewed Paranoia for White Dwarf #65, giving it an overall rating of 7 out of 10, and stated that "I like Paranoia, but I'm not sure that I'd want to run it as a prolonged campaign. It's the sort of concept which works well as light relief from a 'serious' RPG campaign, and will definitely appeal to 'hack and slay' merchants. Dedicated rule lawyers and wargamers will hate it. Overall, a lot of fun for a minimum of three or four players."
+
+In the April 1988 edition of Dragon (Issue 132), Jim Bambra thought that the second edition had marked improvements compared to the first edition: "The first edition of Paranoia promised hilarious fun and a combat system that didn’t get bogged down in tedious mechanics. It soon found a following among gamers looking for something different in their role-playing adventures. Still, a close inspection of the combat system revealed that it was slow moving and cumbersome. The mechanics were hard to grasp in places, making it difficult to get into the freewheeling fun. Now, all that’s changed. The Paranoia game has been treated to a revamp, and this time the rules are slick. All that tricky stuff which made the combat system such a pain to run has been shelved off into optional rules. If you want the extra complications, you’re welcome to them, or you can do what most people did anyway and simply ignore them." Bambra did express reservations about the suitability of the game for an on-going campaign, saying "It doesn't lend itself easily to long-term campaign play. This game is best treated as a succession of short adventure sessions in which players get to enjoy themselves doing all those despicable things that would spoil a more 'serious’ game."  However Bambra concluded with a recommendation, saying "As a tongue-in-cheek science-fiction game, this one is hard to beat."
+
+In The Games Machine #3, John Wood enjoyed the "darkly humorous" artwork of the second edition, and complimented the writers for a better-organized set of rules. He concluded, "The new edition is far more suitable for those with little or no RPG experience, and is excellent value for a complete system (just add a 20-sided die)."
+
+In a 1996 reader poll conducted by Arcane magazine to determine the 50 most popular roleplaying games of all time, Paranoia was ranked 7th.  Editor Paul Pettengale commented: "For players of games where character development and campaign continuity are a priority, Paranoia is an absolute no-no. If a character (of which there are six versions - each person in Alpha Complex has six clones) lives through an entire scenario then they're doing well. Hell, they're doing better than well, they're probably Jesus Christ reborn (er, no offence intended, all ye Christian types). Suffice to say that Paranoia is, and always will be, a complete laugh - it should be played for nothing more than fun".
+
+Paranoia was chosen for inclusion in the 2007 book Hobby Games: The 100 Best. Steve Jackson described the game as "the first sophisticated parody of the basic tropes of roleplaying. Paranoia didn't offer dungeons full of monsters with sillier names than those in D&D. It introduced something scarier... the futuristic tunnels of Alpha Complex, in which all the monsters were human and nobody ever got out. Paranoia held all of roleplaying, as it was then practiced, to a dark and twisted mirror. Then it threw cream pies."
+
+Awards
+ Paranoia won the Origins Award for Best Roleplaying Rules of 1984. 
+ The game was inducted into the Origins Awards Hall of Fame in 2007.
+
+Other reviews
+Different Worlds #39 (May/June, 1985)
+Arcane #10 (September 1996)
+ Casus Belli #24 (Feb 1985)
+Pyramid - XP
+
+Paranoia-related software
+JParanoia is freeware fan-made software specifically created for playing Paranoia over the Internet. It runs on the Java Virtual Machine and consists of a client and a server with built-in features for character and gameplay management. In September 2004, both attracted some mainstream attention when the UK edition of PC Gamer magazine ran an article about Paranoia as one of their "Extra Life" columns and showcased JParanoia and Paranoia Live; coincidentally the publicity came right before the site was poised to celebrate the launch of the new Paranoia edition from Mongoose.
+
+Paranoia was also made into a video game called The Paranoia Complex released in 1989 by Magic Bytes. It was available for Amiga, Amstrad CPC, Commodore 64 and ZX Spectrum.  It took the form of a top-down maze shooter dressed in a Paranoia plot and trappings; reviews of the game from hobby magazines of the period pegged it as mediocre to poor.
+
+A Paranoia mini-gamebook) was published in issue #77 of SpaceGamer/FantasyGamer magazine in the late 1980s. Unauthorized automated versions of the story (a Troubleshooter's assignment to undermine the subversive activity known as Christmas) have circulated via machine-independent ports to C, Python, Go and Inform as well as to Adventure Game Toolkit and for Applix, CP/M and the Cybiko.
+
+Paranoia: Happiness is Mandatory is a video game that was released on 5 December 2019, for PC on the Epic Game Store. It was developed by Cyanide and Black Shamrock studios and is published by Bigben Interactive. It is an isometric view real-time RPG. In mid-January 2020, the game was removed from the Epic Games Store without explanation from Cyanide or BigBen Interactive. As of 30 April 2020, no public explanation had occurred.
+
+See also
+ List of Paranoia books
+
+References
+
+External links
+ Mongoose Publishing's Paranoia Homepage
+ 
+
+ 
+Artificial intelligence in fiction
+Campaign settings
+Comedy role-playing games
+Dystopian fiction
+Greg Costikyan games
+Mongoose Publishing games
+Origins Award winners
+Role-playing games introduced in 1984
+Post-apocalyptic role-playing games
+West End Games games
+Games with concealed rules

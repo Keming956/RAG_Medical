@@ -1,0 +1,78 @@
+Post-traumatic stress disorder (PTSD) results after experiencing or witnessing a terrifying event which later leads to mental health problems. This disorder has always existed but has only been recognized as a psychological disorder within the past forty years. Before receiving its official diagnosis in 1980, when it was published in the third edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-lll), Post-traumatic stress disorder was more commonly known as soldier's heart, irritable heart, or shell shock. Shell shock and war neuroses were coined during World War I when symptoms began to be more commonly recognized among many of the soldiers that had experienced similar traumas. By World War II, these symptoms were identified as combat stress reaction or battle fatigue. In the first edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-I), post-traumatic stress disorder was called gross stress reaction which was explained as prolonged stress due to a traumatic event. Upon further study of this disorder in World War II veterans, psychologists realized that their symptoms were long-lasting and went beyond an anxiety disorder. Thus, through the effects of World War II, post-traumatic stress disorder was eventually recognized as an official disorder in 1980.
+
+General overview
+
+Changing terminology
+
+Nostalgia, soldier's heart, and railway spine 
+
+The term nostalgia was first coined in 1761 when soldiers reported feeling homesick, sleep disturbances, and anxiety after being in combat. Later, soldier's heart was used to describe these symptoms but instead blamed cardiac problems as the source of anxiety and overstimulation. Railway spine also explained physical causes for PTSD symptoms. After railroad accidents became more common, the victims of these accidents exhibited emotional distress.
+
+Shell shock and war neuroses 
+Before the term post-traumatic stress disorder was established, people that exhibited symptoms were said to have shell shock or war neuroses. This terminology came about in WWI when a commonality among combat soldiers was identified during psychiatric evaluations. These soldiers all appeared to be in a catatonic state following battle, or "shocked by shells", hence the term shell shocked.
+
+Battle fatigue and combat stress reaction 
+During World War II, the diagnosis for shell shock was replaced with combat stress reaction. These diagnoses resulted from soldiers being in combat for long periods of time. There was some skepticism surrounding this diagnosis as some military leadership, including George S. Patton did not believe "battle fatigue" to be real. Yet, due to evolving practices, such as proximity, immediacy, and expectancy (PIE), this new diagnosis was taken seriously and recovery was made the first priority.
+
+Prevalence 
+Post-traumatic stress disorder has always been prevalent whether it was recognized as a psychological disorder or not. Yet, because PTSD was not recognized as an official disorder, it is difficult to estimate what the prevalence rate during WWII was. A rough estimate, found through hospitalization records, suggests that approximately 43 per 1000 soldiers were hospitalized due to war traumas. Again, however, this estimate is only based upon those who actually sought help, with many at this time not seeking help. Another prevalence rate, found in the 1950s, suggests that about 10% of WWII soldiers had PTSD at some point. While it is difficult to retroactively discern prevalence for PTSD in WWII soldiers, what is clear is that it is  prevalent now more than ever due to the long-lasting effects of combat in World War II. For example, half of all male veterans 65 and older have had military experience, which predisposes them to the acquisition of PTSD. Thus, PTSD continues to affect World War II veterans and their families.
+
+Symptoms 
+Symptoms of post-traumatic stress disorder differ from person to person in that they can begin shortly after a traumatic event or even years after the event. Moreover, symptoms can continue to present long after the traumatic event's occurrence, with some people experiencing symptoms for the rest of their lives. Symptoms of PTSD can be grouped into four main categories: "Intrusive memories, avoidance, negative changes in thinking and mood, and changes in physical and emotional reactions".
+
+ Intrusive memories can include symptoms such as nightmares, flashbacks, recurring memories of the event, and emotional and physical stress upon encountering things that remind them of their trauma. 
+ Symptoms for avoidance behavior include avoiding thoughts and conversations surrounding the event, as well as people, places, or other things that remind them of what happened. This, understandably, occurs due to intrusive memories that persistently take place, which makes PTSD patients want to avoid these feelings. 
+ Negative changes in thinking and mood can force patients into experiencing memory loss (especially in regard to the traumatic event), hopelessness about themselves and their future, difficulty maintaining relationships, and a struggle in experiencing positive emotions. 
+ Changes in physical and emotional reactions are seen through behaviors such as trouble sleeping, difficulty concentrating, always being on guard, and becoming startled easily. Some people experience these symptoms when they hear unexpected loud noises, which causes them to "[lose] their cool over minor everyday things". Other symptoms can include self-destructive actions such as excessive drinking or driving too fast and outbursts of anger or overwhelming guilt.
+
+Treatment
+
+Treatments used during WWII 
+
+New treatment methods for PTSD emerged during WWII, likely due to the high demand for care, and the subsequent increase in investigation. Interestingly, despite little understanding of the mechanisms whereby PTSD happened, much of the early interventions by psychiatrists in the 1940s remain similar to the methods still used today, such as medications and group therapy.
+
+One early treatment plan, from 1944, suggests a three part treatment to PTSD through use of sedatives to secure rest; use of intravenous barbiturates to promote mental catharsis, thereby assisting in the recall of a suppressed episode and use of drugs acting directly on the autonomic nervous system. In addition to medication plans, another method that was utilized for PTSD during WWII was the principle of proximity, immediacy, and expectancy, or "PIE". In essence, the PIE method emphasized immediate action in the treatment of PTSD. While first treatment plans for PTSD were crude and simplistic, they represent the rapidly changing field of psychiatry that WWII initiated, as will be further discussed below.
+
+Broader impacts
+
+Divorce rates following WWII 
+
+Following WWII, the high rates of shell-shocked veterans and prisoners of war (POWs) returning home largely impacted marital relationships. A correlation between war and higher divorce rates is typical, and extends to WWII vets, specifically ex-POWs since the rates of PTSD are much higher for this group. For example, it was found that 30% of POWs with PTSD experienced relationship problems, with only 11% of veterans without PTSD experiencing marital problems. Moreover, a different study found that being in active combat or on the front lines also increased likelihood of marital discord. From this, it can be suggested that those who have been in high stress situations, and have subsequently developed PTSD, have a higher prevalence of marital problems than those without PTSD. Those with PTSD likely have more marital problems due to slow adjustment back home, a lack of valuable communication/expression, intimacy problems, life disruption, economic problems, aggression, and lingering mental health impacts. Thus, the effects of PTSD on WWII vets were not isolated to the vets themselves, as evidenced through high rates of marital discord following the war.
+
+Development of psychiatry 
+
+During WWII the field of psychiatry was beginning to evolve, with a specific emphasis on military psychiatry due to the high rates of PTSD in soldiers. This can be seen in the changing technologies and aims of the American Psychological Association (APA) during the years that the United States was fighting in WWII. For example, between the years of 1943 and 1944, APA went from claiming that fear was the mechanism behind PTSD to attempting to understand the real underlying processes of PTSD, which represents a change in understanding of mental illnesses. Additionally, these years in APA history represent a switch from suggesting rest to soldiers to prescribing medications and having specified treatment plans. These changes in understanding were important to evolving psychiatry into what it is today; yet, the ideas about PTSD during WWII were still in their infancy, meaning that psychiatrists during WWII made some unethical choices. For example, two famous military psychiatrists by the names of Roy Grinker and Frederick Hanson implemented mandatory sodium pentothal treatments, which were intended to induce the truth during psychoanalysis for soldiers claiming "exhaustion". These treatments have since been proven harmful rather than helpful. Yet, it was through these initial contributions that the DSM-I was published in 1952, thus proving WWII as a pivotal time for the advancement of psychiatry.
+
+Personal accounts 
+The impacts of PTSD from wartime trauma varies from person to person, yet the degree of trauma often indicates the severity of the PTSD. Additionally, other pre-existing factors, such as personality or preparedness, also play into the development of PTSD in a veteran. Much like how no two people are alike, no two veterans will have the exact same experiences with PTSD, yet, there can still be commonalities such as negative homecoming experiences or lack of social support. With this being said, one way to gain a better understanding of both the similarities and differences of PTSD among WWII veterans is through reading first-hand accounts which emphasize both the chronicity and longevity of war-time PTSD.
+
+Earl Crumby 
+
+71 years after the Battle of the Bulge, Earl Crumby sat down with Tim Madigan in 2015 to be interviewed about his part in it. At the time of the interview, his wife had just recently died and yet, he is quoted as saying, "as dearly as I loved that woman, her death didn’t affect me near as much as it does to sit down here and talk to you about seeing those young boys butchered during the war. It was nothing but arms and legs, heads and guts". This personal account of Crumby’s emphasizes just how intense these experiences were/are as well as underscores the chronicity of PTSD in WWII veterans.
+
+Otis Mackey 
+
+When Otis Mackey was interviewed by Tim Madigan in 2015, his traumatic war experiences had not diminished over the years, but rather had increased in severity. Mackey is quoted saying, "I get that empty feeling, just deep down, and I don’t care whether I live or die". In addition to emptiness, Mackey also has strong flashbacks of comrades being blown up and intense nightmares of bombs going off. "I seen it coming at me. I just ducked, and McGhee’s leg went flying right by my head...I never could figure out why it was him and not me". This personal account of Mackey’s emphasizes the severity of PTSD, even decades after his WWII service.
+
+Dutch Shultz 
+
+Portrayed in the 1962 movie, The Longest Day, Dutch Shultz is remembered as an innocent and happy paratrooper. Yet, this idealized version bears little resemblance to the real Shultz, who is quoted as saying, "people did not want to know what it was like". Based on accounts from Shultz’s daughter, Carol, her father was always drinking in order to take the pain of war away. Additionally, according to Carol, her father "would wake up with nightmares every single day", and even tried to take his own life. This account from both Shultz and his daughter emphasize both the chronicity and longevity of the traumas of war as well as shows that PTSD did not just impact those with the disorder. Dutch Shultz never got help for his PTSD, and Carol went her entire life having a half-present, drunk father.
+
+Roy "Eric" Cooper 
+
+Roy "Eric" Cooper fought at Burma, and according to his daughter Ceri-Ann, "every second of every day, Burma was with him, even to his last breath". While he was alive, Cooper is quoted as saying troubling things such as, "I don’t feel very well in my mind and I am a bad man". Much like the other accounts, this account emphasizes the longevity of his war traumas as well as the hopelessness in Cooper’s life.
+
+Anonymous accounts 
+
+In 2011, researchers  collected quotes from survivors of WWII atomic bombs in order to determine the level of health among survivors. The survivors of these bombings range in age from 75-92, with both veterans and non-veterans included. Non-veteran's experiences are often overlooked, however their levels of health were similar to those who had seen combat. This suggests that non-veteran's experiences with PTSD can be just as severe, and therefore important, as that of veteran's experiences. The following anonymous quote is one of many from the 2011 research  that suggests that the trauma seen within WWII has a strong relationship to a lifetime of PTSD.There were too many kids in the water. And it's hard to pass up someone in the water. We saw real early on that . . . the ones that were squished bad . . . you couldn't get em' in the launch. You couldn't do nothing for em' . . . We took loads of em' and we could hold about 60 . . . In the meantime, we went back out and it just kept repeatin' itself. The above quote is from a veteran who experienced the bombing at Pearl Harbor, which was a traumatic event that influenced both veteran and non-veteran  development of PTSD.
+
+See also 
+Post-traumatic stress disorder
+Combat stress reaction
+Psychological trauma
+National trauma
+Complex post-traumatic stress disorder
+
+References 
+
+Post-traumatic stress disorder

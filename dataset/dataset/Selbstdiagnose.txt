@@ -1,0 +1,8 @@
+Unter Selbstdiagnose (auch: Eigendiagnose) versteht man die medizinische und in der Regel laienhafte Beurteilung von Beschwerden und Krankheitszeichen (Symptomen), die eine Person mithilfe von Fachliteratur, Internet (Dr. Google) und anderen Quellen oder Hilfsmitteln an sich selbst vornimmt. Da deren Qualität auch von der eigenen Fachkenntnis des Patienten abhängig ist, wird hiervon wegen der Risiken einer falschen Beurteilung und einer damit ggf. verbundenen Fehlbehandlung sowie der Angst, welche durch laienhafte Recherche entstehen kann, häufig abgeraten. Gleichwohl ist es sinnvoll, wenn ein Patient sich mit seinen Beschwerden beschäftigt und sie umfänglich schildern und so bei der Anamneseerhebung durch den Arzt hilfreich sein kann, auch wenn er selbst zuvor die falschen Schlussfolgerungen daraus gezogen hat.
+
+Technik 
+Über den medizinischen Bereich hinaus beschreibt in der Technik der Begriff „Selbstdiagnose“ die Untersuchung von möglichen Fehlerquellen, die ein technisches System mit dem Ziel einer Fehlerdiagnose an sich selbst durchführt.
+
+Einzelnachweise 
+
+Diagnostik

@@ -1,0 +1,43 @@
+Die primäre Insomnie (Syn. Agrypnie, Schlaflosigkeit) zählt zu den Schlafstörungen und zeichnet sich, im Gegensatz zur sekundären Form, durch das Fehlen einer organischen oder psychiatrischen Erkrankung aus.
+
+Epidemiologie 
+Folgt man streng den Diagnosekriterien von DSM-IV und ICD-10, hat die primäre Insomnie eine Prävalenz von etwa 3 % in der Gesamtbevölkerung. Frauen sind hierbei häufiger betroffen als Männer. Betrachtet man nicht-organische Schlafstörungen mit oder ohne Tagesmüdigkeit unabhängig von den Kriterien liegt die Prävalenz bei bis zu einem Drittel der Gesamtbevölkerung.
+
+Ätiopathogenese 
+Meist liegt der primären Insomnie ein auslösendes Lebensereignis zugrunde. Dies führt entweder zu schlafbehindernden Gedanken oder zur Aktivierung bzw. Erregung und setzt dann einen entsprechenden Teufelskreis in Gang. Auch können ungünstige Schlafgewohnheiten diesen Circulus vitiosus in Gang setzen.
+
+Der Beginn kann beispielsweise bei schlafbehindernden Gedanken liegen (Grübeln, negative Gedanken, Nachdenken über negative Konsequenzen des schlechten Schlafes). Dies setzt sich dann mit vermehrter Anspannung bzw. Erregung (emotional, motorisch, autonomes Nervensystem) fort. Als Konsequenz davon kommt es zu Müdigkeit, schlechter Stimmung, Abfall der Konzentrations- und Leistungsfähigkeit, geringerer Lebensaktivität oder Einschränkung der sozialen Kontakte. Hierdurch werden ungünstige Schlafgewohnheiten wie lange Bettzeiten, langes Wachliegen, unregelmäßiger Schlaf-Wach-Rhythmus oder Tagschlaf gefördert. Daraus ergeben sich dann wieder schlafbehindernde Gedanken und erhalten folglich diesen Kreislauf der primären Insomnie.
+Daraus wird auch sehr klar ersichtlich, warum die primäre Insomnie chronisch verläuft und langfristige Konsequenzen nach sich zieht.
+
+Klinik 
+Entsprechend der DSM-IV Diagnosekriterien präsentiert sich die primäre Insomnie wie folgt:
+ Vorherrschende Beschwerden in Bezug auf Einschlaf- oder Durchschlafschwierigkeiten für mindestens einen Monat,
+ die Schlaflosigkeit bzw. die damit verbundene Tagesmüdigkeit führt zu deutlichen Beeinträchtigungen in wichtigen Lebensbereichen,
+ die Schlafstörung ist nicht ausschließlich auf eine andere Schlafstörung zurückzuführen,
+ die Schlafstörung ist nicht im Zuge einer psychiatrischen Erkrankung (z. B. Major Depression, Angststörungen etc.) aufgetreten,
+ die Schlafstörung ist nicht die Folge von Medikamenteneinnahme, Drogenkonsum oder einer organischen Grunderkrankung.
+Das Risiko zur Entwicklung einer Depression ist bei Patienten mit primärer Insomnie erhöht.
+
+Diagnostik 
+Zur Beurteilung der Schlafqualität bzw. der Tagesmüdigkeit stehen mehrere standardisierte Messinstrumente im Sinne von Fragebögen zur Verfügung, so etwa der Pittsburgh-Sleep quality-Index (PSQI). Wegweisend für Diagnose und Therapieentscheidung ist das Führen eines Schlaftagebuchs durch den Patienten über ein bis zwei Wochen. Hierbei werden unter anderem Bettzeiten, sowie Schlaf- und Wachphasen protokolliert. Mit Hilfe einer Aktigraphie können die Schlafzeiten grob objektiviert werden. Zum Ausschluss anderer Schlafstörungen bzw. bei Nichtansprechen auf eine Therapie kann auch eine Polysomnographie in einem Schlaflabor durchgeführt werden. In jedem Fall sollte eine körperliche und psychologische/psychiatrische Anamnese erhoben werden.
+
+Therapie
+
+Nicht-medikamentöse Verfahren 
+Die generellen Therapievorschläge bei der nichtorganischen Insomnie beinhalten eine Psychotherapie und gegebenenfalls eine Unterstützung mit Medikamenten. Die Psychotherapie ist hierbei eine sehr bewährte Intervention. Bewährt haben sich Maßnahmen zur Verbesserung der Schlafhygiene (z. B. Einhalten eines konstanten Schlaf-Wach-Rhythmus, Verzicht auf Alkohol und Coffein), der Stimuluskontrolle (Bootzin, 1971), Führung eines Schlaftagebuches und der Schlafrestriktion (Spilman, Saskin und Thorpy, 1987). Bei der Schlafrestriktion geht es um eine Verkürzung der wach gelegenen Zeit im Bett, weshalb nicht von Schlafrestiktion, sondern besser von der „Restriktion der Zeit im Bett“ gesprochen werden sollte. Es können, abhängig von der spezifischen Problematik des Patienten, auch verschiedene Entspannungsverfahren zum Einsatz kommen (z. B. progressive Muskelrelaxation nach Jacobson, autogenes Training). Neben diesen Maßnahmen der Verhaltenskontrolle werden auch kognitive Techniken eingesetzt, deren Ziel es ist, schlafbehindernde Gedanken abzubauen.
+
+Medikamentöse Verfahren 
+Es werden Schlafmittel eingesetzt. Benzodiazepine können kurzfristig zur Therapie verabreicht werden. Längerfristig ergeben sich aber durch die lange Halbwertszeit, die Absetzeffekte, sowie durch die Entwicklung von Toleranz und Abhängigkeit Probleme bei dieser Medikation. Benzodiazepine können zusätzlich die normale, physiologische Schlafstruktur beeinträchtigen. Dabei können diese den REM-Schlaf und Tiefschlafanteile unterdrücken. Dadurch würden sie kontraproduktiv wirken. Als Alternativen stehen die so genannten „Z-Präparate“ (Zopiclon, Zolpidem, Zaleplon) zur Verfügung, die eine kürzere Halbwertszeit haben und ein günstigeres Nebenwirkungsprofil aufweisen sollen. Sichere Belege hierfür stehen allerdings noch aus. Auch diese können zu schweren Abhängigkeitssyndromen führen. Sedierende Antidepressiva (z. B. Mirtazapin, Trimipramin, Trazodon) haben sich in der längerfristigen Therapie als gut wirksam und nebenwirkungsarm herausgestellt. Deren Gebrauch als Schlafmittel wird bisher als Off-label-Anwendung verabreicht und gelten als Mittel der 1. Wahl. Auch hier gilt die generelle Regel in Hinsicht auf die Dauer der Pharmakotherapie, Medikamente nur so lang, wie notwendig einzunehmen. Die Patienten müssen bei diesen Medikamenten auf die beeinträchtigte Fahrtauglichkeit hingewiesen werden. Anti-Histaminika der ersten Generation können dank ihrer ZNS-Gängigkeit als Hypnotikum verordnet werden. Meistens sind sie bei dieser Erkrankung nicht genügend wirksam. Ebenso können sie deutliche anticholinerge Nebenwirkungen verursachen.
+
+Literatur 
+ M. Berger (Hrsg.): Psychische Erkrankungen. Klinik und Therapie. 3. Auflage. Urban & Fischer, 2009, ISBN 978-3-437-22481-2.
+ P. J. Hauri: Verhaltenstherapie bei Schlafstörungen. In: K. Meier-Ewert, H. Schulz (Hrsg.): Schlaf und Schlafstörungen. Springer, Berlin 1989, ISBN 3-540-52073-2.
+ M. Kryger u. a. (Hrsg.): Principles and Practice of Sleep Medicine. 4. Auflage. Saunders, 2005, ISBN 1-4160-0320-7.
+ H.-J. Möller, D. Laux, A. Deister: Psychiatrie und Psychotherapie. 4. Auflage. Thieme, 2009, ISBN 978-3-13-128544-7.
+
+Weblinks 
+  (PDF)
+
+Einzelnachweise 
+
+Schlafstörung

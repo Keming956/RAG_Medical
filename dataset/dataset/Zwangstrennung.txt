@@ -1,0 +1,24 @@
+Die Zwangstrennung ist die Trennung eines Internetzugangs vonseiten des Internetdienstanbieters (Providers). Sie erfolgt meist bei ausbleibender Nutzung einer bestehenden Verbindung (kein Datenverkehr über einen festgelegten Zeitraum) oder zu einem festgelegten Zeitpunkt.
+
+Eine Zwangstrennung kann aus mehreren Gründen erfolgen. Zum einen verfügt der Anbieter nur über ein begrenztes Kontingent an IP-Adressen und ist daher daran interessiert, dass keine Adressen für ungenutzte Verbindungen verschwendet werden.
+
+Wenn der Anbieter den privaten Betrieb eines Servers erschweren will, so geschieht dies dadurch, dass bei Wiedereinwahl nach der Zwangstrennung dem Anschluss eine neue IP-Adresse zugewiesen wird. Somit ist der Anschluss nicht immer unter derselben IP-Adresse erreichbar und der Betrieb eines eigenen, stets zu erreichenden Servers wird somit erschwert. Dienste wie dynamisches DNS können dem Anschluss zumindest einen statischen Namen zuweisen, das Problem der abreißenden Verbindungen und kurzzeitigen Unerreichbarkeit bleibt jedoch bestehen.
+
+Weiterhin kann die Zwangstrennung unter Umständen für das Billing der Internetanbieter notwendig sein. Wird ein Tarif nach Datenmenge abgerechnet, so wird von vielen Systemen der Umfang des Datenverkehrs zwischen dem Beginn der Verbindung und dem Ende ermittelt. Moderne Billing-Systeme hingegen benötigen keine Zwangstrennung, um den Datenverkehr zu erfassen. Zudem sind mengenbasierte Tarife im Festnetz-Bereich heute kaum noch anzutreffen.
+
+Es ist nicht möglich, die Zwangstrennung zu verhindern, jedoch können Router und Softwarelösungen automatisiert die Trennung erkennen und sich sofort wieder einwählen.
+
+Die Neuvergabe der IP-Adresse oder des IP-Präfixes (IPv4 wie IPv6) bietet dem Privatanwender einen beschränkten Schutz der Privatsphäre und – solange gegen ihn keine behördlichen Ermittlungen laufen – auch eine gewisse Anonymität. Bei IPv6 gibt es darüber hinaus die im RFC 4941 definierten „Privacy Extensions“. Alle populären Betriebssysteme setzen diese Erweiterungen standardmäßig um.
+
+(Neue Adresszuweisungen können, je nach eingesetzter Technologie zum Providernetz, allerdings auch ohne Zwangstrennung erfolgen, z. B. wenn DHCP oder IPv6 RA/SLAAC zum Einsatz kommt.)
+
+Situation in Deutschland 
+Diese Maßnahme wird in Deutschland von nahezu allen DSL-Anbietern im SOHO-Bereich nur noch bei Analog- und ISDN-Anschlüssen angewandt. Dort erfolgt die Trennung meist alle 24 Stunden. Bei modernen Datenanschlüssen – auch „All-IP-Anschlüsse“ genannt – verzichten viele Provider in der Regel darauf, da hiervon auch die Telefoniedienste des Anschlusses betroffen wären.
+Ebenso gibt es bei Breitbandanschlüssen über das TV-Kabelnetz keine Zwangstrennung, da hierbei meist statische IP-Adressen vergeben werden und durch eine Trennung kein Vorteil für den Provider entsteht.
+
+Weblinks 
+ netzikon.net
+
+Einzelnachweise 
+
+Internetzugang

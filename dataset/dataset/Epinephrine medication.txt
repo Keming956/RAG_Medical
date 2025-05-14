@@ -1,0 +1,88 @@
+Epinephrine, also known as adrenaline, is a medication and hormone. As a medication, it is used to treat a number of conditions, including anaphylaxis, cardiac arrest, asthma, and superficial bleeding. Inhaled epinephrine may be used to improve the symptoms of croup. It may also be used for asthma when other treatments are not effective. It is given intravenously, by injection into a muscle, by inhalation, or by injection just under the skin.
+
+Common side effects include shakiness, anxiety, and sweating. A fast heart rate and high blood pressure may occur. Occasionally, it may result in an abnormal heart rhythm. While the safety of its use during pregnancy and breastfeeding is unclear, the benefits to the mother must be taken into account.
+
+Epinephrine is normally produced by both the adrenal glands and a small number of neurons in the brain where it acts as a neurotransmitter. It plays an important role in the fight-or-flight response by increasing blood flow to muscles, output of the heart, pupil dilation, and blood sugar. Epinephrine does this by its effects on alpha and beta receptors. It is found in many animals and some one cell organisms, but the medication is produced synthetically and is not harvested from animals.
+
+Jōkichi Takamine first isolated epinephrine in 1901 and it came into medical use in 1905. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2017, it was the 263rd most commonly prescribed medication in the United States, with more than one million prescriptions.
+
+Medical uses 
+
+Epinephrine is used to treat a number of conditions including: cardiac arrest, anaphylaxis, and superficial bleeding. It has been used historically for bronchospasm and low blood sugar, but newer treatments for these that are selective for β2 adrenoceptors, such as salbutamol are currently preferred.
+
+Heart problems 
+
+While epinephrine is often used to treat cardiac arrest, it has not been shown to improve long-term survival or mental function after recovery. It does, however, improve return of spontaneous circulation. When used intravenously, epinephrine is typically given every three to five minutes.
+
+Epinephrine infusions may also be used for symptomatic bradycardia.
+
+Anaphylaxis
+Epinephrine is the drug of choice for treating anaphylaxis. Different strengths, doses and routes of administration of epinephrine are used.
+
+The commonly used epinephrine autoinjector delivers a 0.3 mg epinephrine injection (0.3 mL, 1:1000) and is indicated in the emergency treatment of allergic reactions including anaphylaxis to stings, contrast agents, medicines or people with a history of anaphylactic reactions to known triggers. A single dose is recommended for people who weigh 30 kg or more, repeated if necessary. A lower strength product is available for children.
+
+Intramuscular injection can be complicated in that the depth of subcutaneous fat varies and may result in subcutaneous injection, or may be injected intravenously in error, or the wrong strength used. Intramuscular injection does give a faster and higher pharmacokinetic profile when compared to subcutaneous injection.
+
+Asthma
+Epinephrine is also used as a bronchodilator for asthma if specific β2 agonists are unavailable or ineffective.
+
+When given by the subcutaneous or intramuscular routes for asthma, an appropriate dose is 0.3 to 0.5 mg.
+
+Because of the high intrinsic efficacy (receptor binding ability) of epinephrine, high concentrations of the drug cause negative side effects when treating asthma. The value of using nebulized epinephrine in acute asthma is unclear.
+
+Croup
+Racemic epinephrine has historically been used for the treatment of croup. Regular epinephrine however works equally well. Racemic adrenaline is a 1:1 mixture of the two enantiomers of adrenaline. The L-form is the active component. Racemic adrenaline works by stimulation of the alpha adrenergic receptors in the airway, with resultant mucosal vasoconstriction and decreased subglottic edema, and by stimulation of the β adrenergic receptors, with resultant relaxation of the bronchial smooth muscle.
+
+Bronchiolitis
+There is a lack of consensus as to whether inhaled nebulized epinephrine is beneficial in the treatment of bronchiolitis, with most guidelines recommending against its use.
+
+Local anesthetics
+When epinephrine is mixed with local anesthetic, such as bupivacaine or lidocaine, and used for local anesthesia or intrathecal injection, it prolongs the numbing effect and motor block effect of the anesthetic by up to an hour. Epinephrine is frequently combined with local anesthetic and can cause panic attacks.
+
+Epinephrine is mixed with cocaine to form Moffett's solution, used in nasal surgery.
+
+Adverse effects
+
+Adverse reactions to adrenaline include palpitations, tachycardia, arrhythmia, anxiety, panic attack, headache, tremor, hypertension, and acute pulmonary edema. The use of epinephrine based eye-drops, commonly used to treat glaucoma, may also lead to buildup of adrenochrome pigments in the conjunctiva, iris, lens, and retina.
+
+Rarely, exposure to medically administered epinephrine may cause Takotsubo cardiomyopathy.
+
+Use is contraindicated in people on nonselective β-blockers, because severe hypertension and even cerebral hemorrhage may result.
+
+Mechanism of action
+
+As a hormone, epinephrine acts on nearly all body tissues. Its actions vary by tissue type and tissue expression of adrenergic receptors. For example, high levels of epinephrine causes smooth muscle relaxation in the airways but causes contraction of the smooth muscle that lines most arterioles.
+
+Epinephrine acts by binding to a variety of adrenergic receptors. Epinephrine is a nonselective agonist of all adrenergic receptors, including the major subtypes α1, α2, β1, β2, and β3. Epinephrine's binding to these receptors triggers a number of metabolic changes. Binding to α-adrenergic receptors inhibits insulin secretion by the pancreas, stimulates glycogenolysis in the liver and muscle, and stimulates glycolysis and inhibits insulin-mediated glycogenesis in muscle. β adrenergic receptor binding triggers glucagon secretion in the pancreas, increased adrenocorticotropic hormone (ACTH) secretion by the pituitary gland, and increased lipolysis by adipose tissue. Together, these effects lead to increased blood glucose and fatty acids, providing substrates for energy production within cells throughout the body. In the heart, the coronary arteries have a predominance of β2 receptors, which cause vasodilation of the coronary arteries in the presence of epinephrine.
+
+Its actions are to increase peripheral resistance via α1 receptor-dependent vasoconstriction and to increase cardiac output via its binding to β1 receptors. The goal of reducing peripheral circulation is to increase coronary and cerebral perfusion pressures and therefore increase oxygen exchange at the cellular level. While epinephrine does increase aortic, cerebral, and carotid circulation pressure, it lowers carotid blood flow and end-tidal CO2 or ETCO2 levels. It appears that epinephrine may be improving macrocirculation at the expense of the capillary beds where actual perfusion is taking place.
+
+History 
+
+Extracts of the adrenal gland were first obtained by Polish physiologist Napoleon Cybulski in 1895. These extracts, which he called nadnerczyna, contained adrenaline and other catecholamines. American ophthalmologist William H. Bates discovered adrenaline's usage for eye surgeries prior to 20 April 1896. Japanese chemist Jōkichi Takamine and his assistant Keizo Uenaka independently discovered adrenaline in 1900. In 1901, Takamine successfully isolated and purified the hormone from the adrenal glands of sheep and oxen. Adrenaline was first synthesized in the laboratory by Friedrich Stolz and Henry Drysdale Dakin, independently, in 1904.
+
+Society and culture
+
+Brand names
+Common brand names include Asthmanefrin, Micronefrin, Nephron, VapoNefrin, and Primatene Mist.
+
+Delivery forms
+
+Epinephrine is available in an autoinjector delivery system.
+
+There is an epinephrine metered-dose inhaler sold over-the-counter in the United States for the relief of bronchial asthma. It was introduced in 1963 by Armstrong Pharmaceuticals.
+
+A common concentration for epinephrine is 2.25% w/v epinephrine in solution, which contains 22.5 mg/mL, while a 1% solution is typically used for aerosolization.
+ Adults: 0.5–0.75 ml of a 2.25% solution in 2.0 ml normal saline.
+ Pediatrics: 0.25–0.75 ml of a 2.25% solution in 2.0 ml normal saline.
+
+References
+
+External links 
+ 
+
+Peripherally selective drugs
+Respiratory therapy
+World Anti-Doping Agency prohibited substances
+World Health Organization essential medicines
+Wikipedia medicine articles ready to translate

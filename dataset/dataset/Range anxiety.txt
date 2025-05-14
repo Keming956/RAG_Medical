@@ -1,0 +1,82 @@
+Range anxiety is the driver's fear that a vehicle has insufficient energy storage (fuel and/or electric) to cover the road distance needed to reach its intended destination, and would thus strand the vehicle's occupants mid-way. The term, which is now primarily used in reference to battery electric vehicles (BEVs), is considered to be one of the major psychological barriers to large-scale public adoption of electric cars.
+
+The term "range anxiety" was first reported in the press on September 1, 1997, in the San Diego Business Journal by Richard Acello referring to worries of GM EV1 electric car drivers. On July 6, 2010, General Motors filed to trademark the term, stating it was for the purpose of "promoting public awareness of electric vehicle capabilities".  The Norwegian equivalent rekkeviddeangst was assigned second place in a list of Norwegian "words of the year" for 2013 by the Norwegian Language Council.
+
+The main strategies to alleviate range anxiety among electric car drivers are the deployment of extensive charging infrastructure, the development of higher battery capacity at a cost-effective price, battery swapping technology, use of range extenders, accurate navigation and range prediction and availability of free loan vehicles for long trips.
+
+According to a study by the American Automobile Association, the cure to range anxiety is owning an electric vehicle.
+
+Responses to range anxiety
+
+Range anxiety may be exaggerated, as recent studies have concluded that most daily trips can be accomplished within the range of an inexpensive electric vehicle.
+
+The concern that users of all-electric vehicles may become stranded has led to public calls for extensive public charging networks. , Estonia is the only country that had deployed an EV charging network with nationwide coverage, with fast chargers available along highways at a maximum distance of between , and a higher density in urban areas.
+
+Electric vehicle manufacturers have sought to quell range anxiety concerns through increased battery capacities to extend the vehicle's range. REVA has a proprietary technology called "Revive", which is a battery reserve that can be released by electric vehicle users by texting or calling an operations center.  Using a range extender solution, as implemented in the Chevrolet Volt or the BMW i3, the internal combustion engine switches on to recharge the battery before it is empty.  Another method is the proposed Ridek modular vehicle approach whereby a vehicle's chassis could be exchanged for one containing a larger-capacity battery at a network of chassis-exchange stations before embarking on a long journey.
+
+Since lack of information can be a contributing factor, a good navigation system with knowledge of the battery capacity and remaining distance can minimize the fear. There is also the possibility to minimize the fear before buying a vehicle.
+
+The American Automobile Association (AAA) has started a road-recharge pilot program in six cities: Knoxville, Los Angeles, Portland, San Francisco, Seattle and Tampa. EV-driving AAA members can use the truck's level 3 charging capacity to recharge a Nissan Leaf to 80% capacity in 30 minutes.
+
+Battery swapping
+Battery swapping is a strategy to avoid range anxiety that allows electric cars to extend their range through a battery switch station. At the station, the depleted battery is swapped for fully charged battery in about the same time that it takes to fill up a car with gasoline. Battery swapping is common in warehouses using electric forklift trucks.
+
+As the electric car emerged as the main competing technology in the late 1890s until the 1920s, the concept of exchangeable battery service was first proposed as early as 1896 in order to overcome the limited operating range of electric cars and trucks. The concept was first put into practice by Hartford Electric Light Company through the GeVeCo battery service and initially available for electric trucks. The vehicle owner purchased the vehicle from General Vehicle Company (GVC, a subsidiary of the General Electric Company) without a battery and the electricity was purchased from Hartford Electric through an exchangeable battery. The owner paid a variable per-mile charge and a monthly service fee to cover maintenance and storage of the truck. Both vehicles and batteries were modified to facilitate a fast battery exchange. The service was provided between 1910 and 1924 and during that period covered more than 6 million miles. Beginning in 1917 a similar successful service was operated in Chicago for owners of Milburn Light Electric cars who also could buy the vehicle without the batteries.
+
+Better Place
+
+The Better Place network was the first modern commercial deployment of the battery switching model. The Renault Fluence Z.E. was the first electric car with a switchable battery available for the Better Place network in operation in Israel and Denmark. Better Place launched its first battery-swapping station in Israel, in Kiryat Ekron, near Rehovot in March 2011.  The battery exchange process took five minutes.  , there were 17 battery switch stations fully operational in Denmark enabling customers to drive anywhere across the country in an electric car.
+
+By late 2012 the company began to suffer financial difficulties, and decided to put on hold the roll out in Australia and reduce its non-core activities in North America, as the company decided to concentrate its resources on its two existing markets. Better Place filed for bankruptcy in Israel in May 2013. The company's financial difficulties were caused by the high investment required to develop the charging and swapping infrastructure, about  million in private capital, and a market penetration significantly lower than originally predicted by Shai Agassi. Less than 1,000 Fluence Z.E. cars were deployed in Israel and around 400 units in Denmark. Under Better Place's business model, the company owns the batteries, so the court liquidator will have to decide what to do with customers who do not have ownership of the battery and risk being left with a useless car.
+
+Tesla Motors
+
+Tesla Motors designed its Model S to allow fast battery swapping. In June 2013, Tesla announced their goal to deploy a battery swapping station in each of its supercharging stations. At a demonstration event Tesla showed that a battery swap operation with the Model S takes just over 90 seconds, about half the time it takes to refill a gasoline-powered car used for comparison purposes during the event.
+
+The first stations were planned to be deployed along Interstate 5 in California where, according to Tesla, a large number of Model S sedans made the San Francisco-Los Angeles trip regularly. These would be followed by the Washington, DC to Boston corridor. Elon Musk said the service would be offered for the price of about  of gasoline at the current local rate, around  to  at June 2013 prices. Owners would pick up their battery pack fully charged on the return trip, which would be included in the swap fee. Tesla would also offer the option to keep the pack received on the swap and paying the price difference if the battery received was newer; or to receive the original pack back from Tesla for a transport fee. Pricing had not been determined.
+
+Range extender
+
+Series plug-in hybrids
+
+Plug-in hybrids (PHEVs), as opposed to pure electric cars, eliminate the range anxiety concerns because the gasoline engine serves as a back-up to recharge the battery to provide electric power to the electric motor, or to provide propulsion directly. Access to a regular fuel station guarantees that a PHEV has similar driving ranges as conventional gasoline-powered automobile when required. Nevertheless, a study conducted by the Norwegian Institute of Transport Economics published in June 2016 found that plug-in hybrid owners in Norway drive on average 55% of their annual kilometers in charge-depleting or all-electric mode (EV mode), and the share goes up to about 63% for work trips.
+
+However, parallels and series-parallel hybrids operate most of the time in blended mode while charge-depleting. Because the Toyota Prius Plug-in Hybrid operates as a series-parallel hybrid, the U.S. EPA estimated its all-electric range for blended operation on a combination of electricity (from a fully charged battery pack) and gasoline as  until the battery is depleted. Other plug-in hybrids that operated mostly in blended mode are the Ford C-Max Energi, Ford Fusion Energi and Honda Accord Plug-in Hybrid.
+
+On the other hand, series hybrids,  also been referred to as extended-range electric vehicles (EREV) or range-extended electric vehicles (REEV), are designed to be run mostly by the battery, but have a gasoline or diesel generator to recharge the battery when going on long trips. The Chevrolet Volt, Fisker Karma and the upcoming Cadillac ELR are series plug-in hybrids.
+
+Chevrolet Volt
+General Motors describes the Chevrolet Volt as an electric vehicle equipped with a "range extending" gasoline-powered internal combustion engine (ICE) as a genset and therefore dubbed the Volt an "Extended Range Electric Vehicle" or E-REV.  In a January 2011 interview, the Chevy Volt's Global Chief Engineer, Pamela Fletcher, referred to the Volt as "an electric car with extended range." The first generation Volt operates as a purely electric car for the first  in charge-depleting mode (EV mode). When the battery capacity drops below a pre-established threshold from full charge, the vehicle enters charge-sustaining mode, and the Volt's control system will select the most optimally efficient drive mode to improve performance and boost high-speed efficiency. The range in EV mode of the second generation Volt was increased  to .
+
+In December 2012, two years after the Volt was launched, General Motors reported that cumulative miles driven in electric mode had passed the 100 million mark on November 30, 2012. The carmaker also reported that Volt owners have driven more than 65% percent of the time in all-electric mode, and on average they drive around , or a month and a half, between fill-ups. A similar report, issued by GM in August 2016, reported that Volt owners have accumulated almost 1.5 billion miles (2.4 billion km) driven in EV mode, representing 60% of their total miles traveled. A 2014 analysis conducted by the Idaho National Laboratory using a sample of 21,600 all-electric cars and plug-in hybrids, found that Volt owners traveled on average 9,112 miles in all-electric mode (e-miles) per year, while Leaf owners traveled 9,697 e-miles per year, despite the Volt's shorter all-electric range, about half of the Leaf's.
+
+BMW i3
+
+BMW i is offering the BMW i3 all-electric car with an optional gasoline-powered range extender engine added. The range extender is powered by the same 647 cc two-cylinder gasoline engine used in the BMW C650 GT motorcycle with a  fuel tank. The range extender engine only engages when the battery level drops to a pre-specified point, acting purely as a generator to produce electricity to extend the range from  to  The i3 performance in range-extending mode may be more limited than when it is running on battery power, as BMW clarified that the range extender is designed not for long-distance travel but purely as an emergency backup to keep the electric system going until the next recharging location.
+
+The range-extender option costs an additional  in the United States, an additional  (~ ) in France, and  (~ ) in the Netherlands.
+
+Free loaners
+As a mitigation to range anxiety issues, some carmakers are offering the use of a gasoline-powered standard car for free with the purchase of an electric vehicle to mitigate, thus allowing their customers to cover long trips on a certain number of days per year.
+
+BMW i
+
+BMW i is planning to offer additional mobility packages for trips where the range of an BMW i3 would not be enough to allow customers to cover longer distances, including the provision of a conventional BMW vehicle on a given number of days per year. In areas of high sales, BMW will also offer a roadside assistance program, which, instead of a tow, the assistance vehicle will provide a charge so the i3 can travel to the next charging station.
+
+Fiat 500e
+In April 2013, Fiat North America announced a program to allow customers to cover longer travel distances, as each Fiat 500e purchase includes the use of rental vehicles for up to 12 days a year for free through the first three years of ownership. The program, called ePass, entitles 500e owners to a business account with enough points to rent a gasoline-powered standard car with Enterprise Holdings, which owns Enterprise Rent-A-Car, National Car Rental and Alamo Rent a Car. Fiat deposits additional points the following two years to extend the program.
+
+See also
+Genset trailer
+List of electric cars currently available
+List of modern production plug-in electric vehicles
+
+References
+
+External links
+ Anxiety Attack,  Oak Ridge National Laboratory Review
+ Overcoming Barriers to Electric-Vehicle Deployment: Interim Report (2013), Transportation Research Board, U.S National Research Council
+ EV Owners Address Range Anxiety,  TorqueNews
+
+Anxiety
+Electric vehicle industry

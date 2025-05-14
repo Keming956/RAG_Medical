@@ -1,0 +1,46 @@
+A monothematic delusion is a delusional state that concerns only one particular topic. This is contrasted by what is sometimes called multi-thematic or polythematic delusions where the person has a range of delusions (typically the case of schizophrenia). These disorders can occur within the context of schizophrenia or dementia or they can occur without any other signs of mental illness. When these disorders are found outside the context of mental illness, they are often caused by organic dysfunction as a result of traumatic brain injury, stroke, or neurological illness.
+
+People who experience these delusions as a result of organic dysfunction often do not have any obvious intellectual deficiency nor do they have any other symptoms. Additionally, a few of these people even have some awareness that their beliefs are bizarre, yet they cannot be persuaded that their beliefs are false.
+
+Types
+Some delusions that fall under this category are:
+ Capgras delusion: the belief that (usually) a close relative or spouse has been replaced by an identical-looking impostor.
+ Fregoli delusion: the belief that various people whom the believer meets are actually the same person in disguise.
+ Intermetamorphosis: the belief that people in one's environment swap identities with each other while maintaining the same appearance.
+ Subjective doubles: a person believes there is a doppelgänger or double of him- or herself carrying out independent actions.
+ Cotard delusion: the belief that oneself is dead or does not exist; sometimes coupled with the belief that one is putrefying or missing internal organs.
+ Mirrored-self misidentification: the belief that one's reflection in a mirror is some other person.
+ Reduplicative paramnesia: the belief that a familiar person, place, object, or body part has been duplicated. For example, a person may believe that they are, in fact, not in the hospital to which they were admitted, but in an identical-looking hospital in a different part of the country.
+ Somatoparaphrenia: the delusion where one denies ownership of a limb or an entire side of one's body (often connected with stroke). 
+Note that some of these delusions are sometimes grouped under the umbrella term of delusional misidentification syndrome.
+
+Causes
+Current cognitive neuropsychology research points toward a two-factor approach to the cause of monothematic delusions. The first factor being the anomalous experience—often a neurological defect—which leads to the delusion, and the second factor being an impairment of the belief formation cognitive process.
+
+As an example of one of these first factors, several studies point toward Capgras delusion being the result of a disorder of the affect component of face perception. As a result, while the person can recognize their spouse (or other close relation) they do not feel the typical emotional reaction, and thus the spouse does not seem like the person they once knew.
+
+As studies have shown, these neurological defects are not enough on their own to cause delusional thinking. An additional second factor—a bias or impairment of the belief formation cognitive process—is required to solidify and maintain the delusion. Since we do not currently have a solid cognitive model of the belief formation process, this second factor is still somewhat of an unknown.
+
+Some research has shown that delusional people are more prone to jumping to conclusions, and thus they would be more likely to take their anomalous experience as veridical and make snap judgments based on these experiences. Additionally, studies have shown that they are more prone to making errors due to matching bias—indicative of a tendency to try and confirm the rule. These two judgment biases help explain how delusion-prone people could grasp onto extreme delusions and be very resistant to change.
+
+Researchers claim this is enough to explain the delusional thinking. However, other researchers still argue that these biases are not enough to explain why they remain completely impervious to evidence over time. They believe that there must be some additional unknown neurological defect in the patient's belief system (probably in the right hemisphere).
+
+See also
+ Belief
+ Cognitive neuropsychiatry
+ Cognitive neuropsychology
+ Cognitive neuroscience
+ Delusion
+ Face perception
+ Neurocognitive
+ Neuropsychology
+ Philosophy of mind
+
+References
+
+External links
+ The Belief Formation Project a project of the Macquarie Centre for Cognitive Science, which uses research on delusions with the aim of developing a cognitive model of beliefs (link accessed on February 1, 2016)
+
+Psychosis
+Delusional disorders
+Delusions

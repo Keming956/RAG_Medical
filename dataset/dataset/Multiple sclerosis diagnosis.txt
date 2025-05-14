@@ -1,0 +1,129 @@
+Current standard for diagnosing multiple sclerosis (MS) is based in the 2018 revision of McDonald criteria. They rely in MRI detection (or clinical demonstration) of demyelinating lesions in the CNS, which are distributed in space (DIS) and in time (DIT). It is also a requirement that any possible known disease that produces demyelinating lesions is ruled out before applying McDonald's criteria.
+
+This last requirement makes MS an ill-defined entity, whose borders change every time that a new disease is set apart. Some previous cases considered MS are now considered apart, like Neuromyelitis optica or antiMOG associated encephalomyelitis. Besides, because of the requirement of distributed lesions, a single lesion (RIS) is not considered MS. For the same reason, the prodromal stage of MS (the unknown condition that causes the lesions) would not be considered as MS if it could be found.
+
+Sometimes the diagnosis must be retrospective, relying on gradual worsening of neurological signs/symptoms, due to the lack of understanding of the pathogenicity driving disease progression. However, the only definite diagnosis of MS is post-mortem autopsy, where lesions typical of MS can be detected through histopathological techniques.
+
+Overview
+Multiple sclerosis is typically diagnosed based on the presenting signs and symptoms, in combination with supporting medical imaging and laboratory testing. It can be difficult to confirm, especially early on, since the signs and symptoms may be similar to those of other medical problems. The McDonald criteria, which focus on clinical, laboratory, and radiologic evidence of lesions at different times and in different areas, is the most commonly used method of diagnosis with the Schumacher and Poser criteria being of mostly historical significance. While the above criteria allow for a non-invasive diagnosis, some state that the only definitive proof is an autopsy or biopsy where lesions typical of MS are detected.
+
+Clinical data alone may be sufficient for a diagnosis of MS if an individual has had separate episodes of neurologic symptoms characteristic of the disease. In those who seek medical attention after only one attack, other testing is needed for the diagnosis. The most commonly used diagnostic tools are neuroimaging, analysis of cerebrospinal fluid and evoked potentials. Magnetic resonance imaging of the brain and spine may show areas of demyelination (lesions or plaques). Gadolinium can be administered intravenously as a contrast agent to highlight active plaques and, by elimination, demonstrate the existence of historical lesions not associated with symptoms at the moment of the evaluation. Testing of cerebrospinal fluid obtained from a lumbar puncture can provide evidence of chronic inflammation in the central nervous system. The cerebrospinal fluid is tested for oligoclonal bands of IgG on electrophoresis, which are inflammation markers found in 75–85% of people with MS. The nervous system in MS may respond less actively to stimulation of the optic nerve and sensory nerves due to demyelination of such pathways. These brain responses can be examined using visual- and sensory-evoked potentials.
+
+Trends towards earlier diagnosis
+
+Prodomal or early phase
+Studies have found increased interactions with health services by people who were diagnosed with MS several years later. The range of symptoms included pain and fatigue. Studies continue on whether MS has a prodromal or early phase, and could possibly be diagnosed and treated much earlier.
+
+DMT effectiveness
+A range of disease-modifying treatments (DMT) are now available, to reduce the long-term progression of MS. Studies are increasingly indicating that early and aggressive use of DMTs is beneficial for long-term outcomes.
+
+Diagnostic criteria
+
+McDonald criteria
+
+As of 2021, the McDonald criteria for MS are the most commonly used.
+
+The 2017 McDonald criteria can be summarize in this table:
+
+Okuda Criteria
+
+These criteria, used mainly for research in MS, define what should be considered a Radiologically Isolated Syndrome (RIS). Some reports point to the possibility of predicting RIS to CIS conversion based on oligoclonal bands and neurofilament light chain.
+
+Research into diagnostic techniques
+
+Multiple sclerosis diagnosis can only be made when there is proof of lesions disseminated in time and in space. Therefore, when damage in the CNS is big enough to be seen. It would be desirable to make it faster.
+
+The ideal diagnosis schema would be able to determine for any given subject, if he will develop MS, at any point in his life, and when. Nevertheless, not enough is currently known about the MS underlying conditions to achieve that.
+
+In order to get as close as possible to the ideal diagnosis status, a lot of research into multiple sclerosis biomarkers is taking place currently.
+
+Biomarkers in MS
+
+An active field of research is looking for biomarkers for MS that could speed-up the diagnosis doing it more accurate at the same time. While most of them are still under research, there are some of them already well stablished:
+
+oligoclonal bands: They present proteins that are in the CNS or in blood. Those that are in CNS but not in blood suggest a diagnosis of MS.
+MRZ reaction: A polyspecific antiviral immune response against the viruses of measles, rubella and zoster found in 1992. In some reports the MRZR showed a lower sensitivity than OCB (70% vs. 100%), but a higher specificity (69% vs. 92%) for MS.
+free light chains (FLC), specially the kappa-FLCs (kFLCs). Several authors have reported that the nephelometric and ELISA FLCs determination is comparable with OCBs as markers of IgG synthesis, and kFLCs behave even better than oligoclonal bands.
+
+Differential diagnosis
+Several conditions can mimic MS. Given the unknown pathogenesis of MS, its differential diagnosis is based in exclusion of known conditions.
+
+Very close diseases with similar symptoms are the whole "inflammatory demyelinating diseases spectrum", specially neuromyelitis optica and anti-MOG associated encephalomyelitis.
+
+Outside this spectrum, another important mimic is neuroborreliosis. A Borrelia-specific IgG index exists, and testing for it could make the differential diagnosis.
+
+Clinical courses
+
+Several phenotypes (commonly named types), or patterns of progression, have been described. Phenotypes use the past course of the disease in an attempt to predict the future course. They are important not only for prognosis but also for treatment decisions. In 1996, the United States National Multiple Sclerosis Society described four clinical courses.
+
+The original structure approved in 1996, sometimes still used, was:
+
+ relapsing-remitting
+ secondary progressive (SPMS)
+ primary progressive (PPMS)
+ progressive relapsing.
+
+This set of courses was reviewed by an international panel in 2013, adding clinically isolated syndrome (CIS) and radiologically isolated syndrome (RIS) as phenotypes, and finally removing the "progressive relapsing" phenotype. They also added modificators for the clinical courses based on a pair of characteristics: Active/non-active and with/without progression.
+
+The four currently accepted courses or stages are:
+
+ Clinically isolated syndrome (CIS)
+ Relapsing-remitting MS (RRMS)
+ Primary progressive MS (PPMS)
+ Secondary progressive MS (SPMS)
+
+Relapsing-remitting
+The relapsing-remitting subtype is characterized by unpredictable relapses followed by periods of months to years of relative quiet (remission) with no new signs of disease activity. Deficits that occur during attacks may either resolve or leave problems, the latter in about 40% of attacks and being more common the longer a person has had the disease. This describes the initial course of 80% of individuals with MS. When deficits always resolve between attacks, this is sometimes referred to as benign MS, although people will still build up some degree of disability in the long term. On the other hand, the term malignant multiple sclerosis is used to describe people with MS having reached significant level of disability in a short period. The relapsing-remitting subtype usually begins with a clinically isolated syndrome (CIS). In CIS, a person has an attack suggestive of demyelination, but does not fulfill the criteria for multiple sclerosis. 30 to 70% of persons experiencing CIS later develop MS.
+
+Secondary progressive
+
+Secondary progressive MS occurs in around 65% of those with initial relapsing-remitting MS, who eventually have progressive neurologic decline between acute attacks without any definite periods of remission. Occasional relapses and minor remissions may appear. The most common length of time between disease onset and conversion from relapsing-remitting to secondary progressive MS is 19 years.
+
+Primary progressive
+The primary progressive subtype occurs in approximately 10–20% of individuals, with no remission after the initial symptoms. It is characterized by progression of disability from onset, with no, or only occasional and minor, remissions and improvements. The usual age of onset for the primary progressive subtype is later than of the relapsing-remitting subtype. It is similar to the age that secondary progressive usually begins in relapsing-remitting MS, around 40 years of age.
+
+Progressive relapsing
+Progressive relapsing MS describes those individuals who, from onset, have a steady neurologic decline but also have clear superimposed attacks. This is the least common of all subtypes.
+
+Atypical MS
+Unusual types of MS have been described; these include Devic's disease, Balo concentric sclerosis, Schilder's diffuse sclerosis, and Marburg multiple sclerosis. There is debate on whether they are MS variants or different diseases. Multiple sclerosis behaves differently in children, taking more time to reach the progressive stage. Nevertheless, they still reach it at a lower average age than adults usually do.
+
+History
+Since the first description of multiple sclerosis (MS) by Charcot, the Neurological community has been striving to create reliable and reproducible criteria for diagnosis of MS. The first attempts were made by Charcot himself, followed by Marburg  and later Allison. The first criteria however were lacking in sensitivity and specificity for clinical use.
+
+The first landmark event in the history of diagnostic criteria for MS was the development of the Schumacher criteria. These were the first internationally recognized criteria for diagnosis of MS and introduced very important diagnostic concepts that are the cornerstone of MS diagnosis nowadays, such as the clinical definition of MS and the requirement of dissemination in time and space for accurate diagnosis.
+
+Since then, other diagnostic criteria have been proposed. Among them, Poser criteria utilized several laboratory and paraclinical studies to enhance the diagnostic accuracy. McDonald criteria, which are the ones used today, successfully introduced MRI findings as surrogates for the criterion of dissemination in time and space when clinical data are lacking, thus allowing earlier diagnosis of MS.
+
+Historic diagnostic criteria
+
+Schumacher criteria
+
+To get a diagnosis of CDMS a patient must show the following:
+
+Clinical signs of a problem in the CNS
+Evidence of two or more areas of CNS involvement
+Evidence of white matter involvement
+One of these: Two or more relapses (each lasting ≥ 24 hr and separated by at least 1 month) or progression (slow or stepwise)
+Patient should be between 10 and 50 yr old at time of examination
+No better explanation for patient's symptoms and signs
+
+The last condition, no better explanation for symptoms, has been heavily criticised, but it has been preserved and it is currently included in the new McDonalds criteria in the form that "no better explanation should exist for MRI observations"
+
+Poser criteria
+
+Poser criteria can be summarized in this table:
+
+Any of the five conclusions have subpossibilities. Here a table is shown with each one of them:
+
+If none of these requirements is fulfilled, the diagnosis is "No MS", meaning that there is not enough clinical evidence to support a clinical diagnosis of MS.
+
+Barkhof-Tintoré criteria
+
+Barkhof criteria, later modified by Tintoré were an early attempt to use MRI to diagnose MS. It was developed by Frederik Barkhof.
+
+Their observations were taken into account when McDonald criteria were published, and therefore they can be considered deprecated by the latter.
+
+References 
+
+Multiple sclerosis

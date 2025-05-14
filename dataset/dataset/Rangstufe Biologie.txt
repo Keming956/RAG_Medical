@@ -1,0 +1,23 @@
+Als Rangstufe oder einfach Rang wird in der biologischen Nomenklatur eine hierarchische Stufe des taxonomischen Systems bezeichnet. Im taxonomischen System werden Lebewesen und Gruppen von Lebewesen klassifiziert und nach ihrer Verwandtschaft geordnet eingegliedert.
+
+Allgemeine Verwendung in der Biologie 
+Der Begriff Rangstufe oder einfach Rang im weiten Sinn wird für die durch Konvention in der Biologie (genauer der Taxonomie) legitimierten hierarchischen Stufen Reich bis Unterordnung angewendet. Außerhalb der Nomenklaturregeln wird weiterhin statt Rangstufe oder Rang noch häufig der ansonsten synonyme Begriff „Kategorie“ verwendet.
+
+Mehrere Rangstufen werden zu Gruppen zusammengefasst. Die heutigen Rangstufen sind historisch meistens als Differenzierungen von ursprünglichen, nun als Gruppe geführten Gliederungsrängen entstanden. Die Ränge Gattung und Art haben jedoch für die Typisierung von Taxa der jeweils nächsthöheren Gruppe (Familie und Gattung) eine besondere Bedeutung gegenüber ihren Nebenrängen.
+
+In der Zoologie ist die hierarchisch höchste benutzte Rangstufe das Reich, das mit seiner taxonomischen Einheit Animalia alle tierischen Lebewesen vertritt. In der Systematik der vielzelligen Tiere sind die taxonomischen Einheiten mit ihren Rangstufenbezeichnungen dargestellt.
+
+Internationale Regeln für die Zoologische Nomenklatur 
+Der Begriff Rangstufe im engeren Sinne wurde durch den offiziellen deutschsprachigen Text der vierten Auflage der Internationale Regeln für die Zoologische Nomenklatur (ICZN) im Jahr 2000 eingeführt. Er bezeichnet die hierarchischen Stufen der Familien-, Gattungs- und Artgruppe. Er ersetzt in Anlehnung an den englischen Text (hier: rank) den noch in der gedruckten zweiten deutschsprachigen Auflage verwendeten Terminus Kategorie.
+
+Prinzip der Koordination nach Artikel 36 der IRZN
+
+Die Einführung einer mit einem neuen Namen bezeichneten neuen taxonomischen Einheit einer Rangstufe der Familien-, Gattungs- oder Artgruppe führt gleichzeitig latent für alle übrigen Rangstufen der betroffenen Gruppe einen neuen Namen ein. Jeder dieser sich gegebenenfalls in der Endung unterscheidenden koordinierten Namen wird, sofern er verwendet wird, mit demselben Autornamen und Datum zitiert.
+
+Würde ein Zoologe etwa für eine Gattung „Beispielia“ eine neue Familie, mit dieser als Typusgattung einführen, so müsste diese den Namen „Beispilidae“ tragen. Eine unabhängige Namensvergabe mit einem anderen Namen wäre nicht gestattet.
+
+Literatur 
+ Internationale Regeln für die Zoologische Nomenklatur, beschlossen vom XV. Internationalen Kongress für Zoologie. -- Deutscher Text ausgearbeitet von Otto Kraus, 2. Aufl., Senckenberg-Buch, 51: IX + 92 S.; Frankfurt am Main (Kramer) 1970. -- [IRZN 1970]
+ Internationale Regeln für die Zoologische Nomenklatur. Vierte Auflage. Angenommen von der International Union of Biological Sciences. Offizieller Deutscher Text: ausgearbeitet von Otto Kraus. -- Naturwissenschaftlicher Verein in Hamburg, Abhandlungen, N.F., 34: 232 S.; Hamburg 2000. -- [IRZN 2000]
+
+Taxonomie

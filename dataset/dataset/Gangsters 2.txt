@@ -1,0 +1,67 @@
+Gangsters 2 (Originaltitel: Gangsters 2 – Vendetta) ist ein Computerspiel von Eidos Interactive und der Nachfolger von Gangsters: Organisiertes Verbrechen. Es spielt in New Temperance, einem fiktiven Bundesstaat während der Zeit der Prohibition in den Vereinigten Staaten. Letzteres, und das Vorkommen amerikanischer Flaggen sowie des FBI, deuten wohl auf die USA als groben Schauplatz hin. Alles dreht sich um den Aufbau eines Mafia-Imperiums und die gewaltsame Auseinandersetzung mit rivalisierenden Gangs.
+
+Handlung 
+
+Als der Protagonist Joey Bane von der Armee zurückkehrt, erfährt er, dass sein Vater, ein Mafioso, von einem verfeindeten Bandenchef ermordet wurde. Er schwört Rache und bricht zu einer Vendetta durch die verschiedenen Städte von New Temperance auf. Dabei kommen immer mehr Verstrickungen mit anderen Bossen ans Tageslicht, die letztlich zum Paten des Bundesstaats führen. Das Spiel ist gewonnen, wenn in der letzten Mission Banes Gegenspieler Frankie Constantine getötet wird.
+
+Spielprinzip 
+Gangsters 2 stützt sich hauptsächlich auf die 21 Missionen umfassende Einzelspielerkampagne. Daneben gibt es noch einen Multiplayermodus; ein offenes Spiel im klassischen Sinne wie beim Vorgänger Gangsters ist nicht möglich. Wie bei Gangsters überblickt der Spieler von Beginn an die ganze Stadt, und anders als beim Vorgänger ist auch das gegnerische Territorium einschließlich des Hauptquartiers bekannt. Eine Mission ist abgeschlossen, wenn der Spieler das vorgegebene Primärziel erreicht hat, außerdem kann er durch die Erfüllung von Sekundärzielen seine Punktzahl erhöhen. Diese Ziele bestehen darin, bestimmte Gegner zu eliminieren, bestimmte Personen zu beschützen oder bestimmte Geschäfte zu zerstören beziehungsweise zu übernehmen und zu halten.
+
+Das Spiel unterscheidet zwischen Tag und Nacht, was Einfluss auf manche Aktivitäten hat. Grundsätzlich lässt sich das Spiel in einen Kampf- und einen Wirtschaftsteil unterteilen. Beide Bereiche bedingen sich gegenseitig.
+
+Kampfteil 
+Dem Spieler stehen maximal acht Gangster zur Verfügung, die sich im Verlaufe der Kampagne ansammeln und zusätzlich in der Zeitung rekrutiert werden können. Diese sind quasi die "Soldaten" einer Gang, da sie kämpfen und gegnerische Geschäfte angreifen bzw. übernehmen. Einige sind feststehende Charaktere einer bestimmten Mission, andere werden vom Computer frei generiert. Alle werden, sobald sie sich Banes Gang angeschlossen haben,  vom Spieler gesteuert. Sie können Verstärkung in Form von bis zu vier Leibwächtern, Schläger genannt, erhalten. Jeder Gangster hat die Grundfähigkeiten Kampf und Tarnung. Manche haben noch zusätzliche Spezialfähigkeiten:
+
+ Attentäter: Gangster mit dieser Fähigkeit vermögen im Kampf besonders gezielt einzelne Feinde auszuschalten.
+ Bombenleger: Diese Fähigkeit ermöglicht Attacken mit Bomben entweder in Gebäuden, auf offener Straße oder per Fernzündung an zuvor präparierten feindlichen Fahrzeugen.
+ Schmeicheln/Ablenken: Schmeichler können wichtige Personen wie Polizeikommissare, Richter und Priester bestechen, so dass diese bei der Ausübung ihrer Ämter nicht mehr ganz so genau auf die Verbrechen der Gang, auf deren Gehaltsliste sie stehen, achten. Einzig das FBI ist unbestechlich. Des Weiteren können Schmeichler Personen auf der Straße für begrenzte Zeit vom eigentlichen Geschehen ablenken, indem sie sie in ein Gespräch verwickeln.
+ Fluchtwagen fahren: Gangmitglieder mit dieser Fähigkeit fahren Fahrzeuge deutlich schneller als andere.
+ Kidnappen: Kidnapper können andere Spielfiguren entführen, die daraufhin im Büro oder Versteck festgehalten werden. Dies kann sinnvoll sein, um einem Feind zu schaden, jedoch auch um den Entführten zu schützen. Der Spieler kann entscheiden, ob er ihn freilässt oder umbringt.
+ Überfall: Diese Eigenschaft ermöglicht Überfälle auf Geschäfte (z. B. Banken), um Geld oder Dokumente zu stehlen. Funktioniert nur am Tag.
+ Tresorknacker: Hat denselben Effekt wie ein Überfall, allerdings durch einen Einbruch. Funktioniert nur nachts.
+ Spionage: Spione können die Bewegungen und Pläne feindlicher Gangs auskundschaften, was dem Spieler unter Umständen einen taktischen Vorteil bringt.
+
+In jeder Kampagnenmission ist auch die Hauptfigur Joey Bane als Gangster verfügbar. Er darf, im Gegensatz zu seinen Kollegen, allerdings niemals sterben, da das Spiel sonst als verloren gilt. Nach jeder Mission werden neu hinzugekommene Gangster entweder gefeuert oder in die „Familie“ aufgenommen, das heißt, sie können jetzt mit Hilfe von Erfahrungspunkten in ihren Fähigkeiten verbessert werden und bei späteren Missionen wieder eingesetzt werden. Insgesamt können, vom Bandenchef abgesehen, acht Gangster in die Familie aufgenommen werden.
+
+Neben den Gangstern und Schlägern gibt es zudem noch Profikiller, die für einen bestimmten Geldbetrag versuchen, Schlüsselfiguren wie gegnerische Bandenchefs oder Polizeikommissare zu ermorden. Diese Profikiller werden im Unterschied zu den Gangstern ausschließlich vom Computer gesteuert.
+
+Wirtschaftsteil 
+Da Gangster und Schläger ihre Dienste nicht unentgeltlich tun, muss der Spieler für Einnahmen sorgen. Dies geschieht hauptsächlich durch den Aufbau illegaler Geschäfte. Möglich sind:
+
+ Schnapsbrennereien
+ Bierbrauereien
+ Flüsterkneipen
+ Spielhöllen (verschiedene Variationen)
+ Kredithaie
+ Bordelle
+ Boxringe
+ Wettbüros
+ Falschgelddruckereien
+ Schutzgeldzentralen
+
+Jedes einzelne illegale Geschäft benötigt einen entsprechend qualifizierten Spezialisten, der es leitet. Spezialisten können wie die Gangster über die Zeitung angeworben, nach Abschluss der Runde mit Erfahrungspunkten ausgestattet und bis zu acht von ihnen längerfristig in Banes „Familie“ aufgenommen werden. Die entsprechenden Gebäude können entweder gekauft oder dem Gegner durch den Einsatz von Gangstern entrissen werden. Zusätzlich können Schläger zur Bewachung angeheuert werden. Sind die angeheuerten Spezialisten einmal in ein illegales Geschäft entsandt, kann ihr Verhalten dort wie das Verhalten der Schläger und der dortigen Mitarbeiter in illegalen Gesellschaften vom Spieler nicht beeinflusst werden.
+
+Alle eigenen Gangster, Spezialisten und Schläger haben nur ein einziges Bedürfnis, um das sich der Spieler kümmern muss: ihre Bezahlung. Ist Banes Kasse leer, gilt das Spiel als verloren.
+
+Sonstiges 
+Neben feindlichen Gangs agieren auch noch die Polizei, das FBI, die Justiz, das Militär und Priester als Gegenspieler.
+
+Gangsters 2 hatte keinen Nachfolger mehr. Ähnliche Spiele erschienen später mit Gangland (2004) und Omerta – City of Gangsters (2013).
+
+Rezeption 
+Generell wurde das Spiel mittelmäßig bewertet.
+
+Die PC Games nannte es eine „unausgegorene Mischung aus Echtzeit-Taktik und Wirtschaftssimulation“ und gab ihm eine Wertung von 55 %.
+
+Das Onlinemagazin gbase schrieb: „Gangsters 2 ist ein Spiel, welches nicht aus den Fehlern des Vorgängers gelernt hat. Im Gegenteil, durch zahlreiche Optionen, die weggefallen sind, hat das Spiel viel an Reiz verloren.“ Die Wertung betrug 7,5 Punkte.
+
+Etwas positiver fiel das Urteil von golem.de aus: „Mit Gangsters 2 erlebt das von der Mafia geprägte Chicago der zwanziger Jahre eine Auferstehung am PC, die sich sowohl optisch als auch spielerisch durchaus sehen lassen kann“.
+
+Weblinks
+
+Einzelnachweise 
+
+Computerspiel 2001
+Echtzeit-Strategiespiel
+Computer-Rollenspiel
+Windows-Spiel

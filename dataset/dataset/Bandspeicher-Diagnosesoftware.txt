@@ -1,0 +1,55 @@
+Bandspeicher-Diagnosesoftware ist eine Software mit der man Bandspeicherlaufwerke testen kann.
+
+Entwicklung 
+Die ersten Bandspeicherlaufwerke konnten nur durch interne Testprozeduren diagnostiziert werden. 
+Da solche Tests zwar geeignet sind die Laufwerke zu überprüfen, jedoch nicht das gesamte Umfeld, wurden externe Programme entwickelt, die die Laufwerke ähnlich wie ein Backup-Programm eines ISVs sozusagen „von außen“ testen. Durch diese Vorgehensweise kann nicht nur das Laufwerk selbst, sondern auch die Verkabelung, die Schnittstellen als auch der Computer selbst mit seinen Gerätetreibern getestet werden. Moderne Bandspeicher-Diagnosesoftware benutzt Entwicklungsplattform, welche es erlauben, die Software auf verschiedenen Betriebssysteme zu portiert. Dies reduziert den Entwicklungsaufwand und gewährleistet durch ein einheitliches Look and Feel eine größere Akzeptanz der Benutzer.
+
+Produkte 
+Die Auswahl von Bandspeicher-Diagnosesoftware ist begrenzt. Die unterschiedlichen Programme unterscheiden sich gravierend in Funktionsumfang und in der Unterstützung verschiedener Betriebssysteme. 
+
+ HP TapeAlert (Diagnosesoftware von HP)
+ ITDT ("IBM Tape Diagnostic Tool" von IBM)
+ L&TT ("Library and Tape Tool" von HP)
+ StorageCare Guardian (SDLT-Diagnosesoftware von Quantum)
+ STT ("Sony Tape Tool" von Sony)
+ TapeUtil (Diagnosesoftware von IBM)
+ tdkit (Tandberg Data SLR-Diagnosesoftware von Tandberg Data)
+ VXA Tool (VXA-Diagnosesoftware von Exabyte)
+
+Tests 
+ Anstoßen von interne Diagnosetests, den sogenannten POSTs
+ Leistungs-Tests, den sogenannten Performance-Tests
+ Auslesen von Dump-Informationen
+ Logdateianalyse
+ Auslesen und Auswerten von TapeAlerts (ANSI und T10-Standard)
+ Auslesen von SCSI-Logpages
+ Datenkompressions-Tests
+ Verschlüsselungs-Test
+ Schreib-Test
+ Lese-Test
+
+Unterstützte Standardprotokolle  
+Bandspeicher-Diagnosesoftware unterstützen eine Vielzahl von 
+ Fibre Channel (Enterprise-Laufwerke)
+ SAS (High-End-Laufwerke)
+ SCSI (veraltetes Protokoll für Midrange-Laufwerke)
+ Fibre Channel over IP
+ iSCSI
+ FireWire (Entrylevel-Laufwerke)
+ USB (Entrylevel-Laufwerke)
+
+Siehe auch 
+ Liste von Betriebssystemen
+ Advanced Encryption Standard
+ Advanced Intelligent Tape
+ Digital Linear Tape
+ Linear Tape Open
+
+Literatur 
+ IBM System Storage Tape Library Guide for Open Systems (engl.)
+
+Weblinks 
+ T10 Technisches Komitee (engl.)
+ TapeAlert Erklärungen zu TapeAlerts (engl.)
+
+Systemsoftware

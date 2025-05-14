@@ -1,0 +1,47 @@
+The characteristics of memory function in autism have been studied for decades. Individuals with autism have both specific difficulties with memory and memory strengths.
+
+While memory difficulty is not part of the diagnostic criteria for autism spectrum disorder (ASD), it is a common symptom experienced by many individuals with this diagnosis. This article emphasizes declarative and non-declarative memory functions and their connection with autism. Habbi, Harris, Pollick, and Melville (2019) in their meta-analysis reported a connection between autism and working memory. Working memory impairments appear to involve both phonological and visual spatial arenas.
+
+Overview 
+Because autism is a spectrum disorder, there are many challenges to the study of autism and memory function. It is important for researchers to be able to collect data across the spectrum and develop experimental designs to study both individuals with high functioning autism (HFA) and those with moderate-low functioning autism (M-LFA). Methods to classify individuals into one of these groups include intelligence testing, which enables researchers to make methodical comparisons and analyses between HFA and M-LFA individuals. Alternatively, in recent years, “mixed” studies of both HFA and M-LFA participants have been done as well.
+
+Some of the earliest references to the topic of autism and memory date back to the 1960s and 70s when several studies appeared proposing that autism should be classified as an amnesic disorder. What is now diagnosed as autism was formerly diagnosed as developmental amnesia. Although the view of autism as an amnesic disorder of memory has now been rejected, there are still many studies done on the relationship between memory function and autism.
+
+Declarative memory  
+Declarative memory is memory which can be consciously recalled, such as facts and knowledge. For instance, autobiographical memory is an example of declarative memory. Declarative memory includes semantic and episodic memory. Semantic memory involves the recollection of facts, and episodic memory involves the recollection of previous experiences in life. Studies on individuals with ASD have shown impairments to their episodic memory but a relative preservation of their semantic memory. The brain regions that play a major role in declarative learning and memory are the hippocampus and regions of the medial temporal lobe.
+Little research has been conducted on M-LFA individuals and memory function. Memory profiles of M-LFA individuals and of HFA individuals seem to be similar, but there is some evidence that declarative memory impairment is consistently greater for M-LFA individuals than for HFA individuals.
+
+Autobiographical memory 
+One aspect of autobiographical memory is the self-reference effect, which means that typically people have a stronger memory for information that is relevant to themselves. It has been theorized that individuals with ASD have diminished psychological self-knowledge, but an intact physical self-knowledge. As a result, these individuals show impaired autobiographical episodic memory and a reduced self-reference effect (which may each rely on psychological aspects of the self-concept) but do not show specific impairments in memory for their own rather than others’ actions (which may rely on physical aspects of the self-concept).
+
+Explicit memory retrieval 
+
+ASD individuals do not always conform to the Levels of Processing principle, since they benefit the same from deep and superficial recall cues.
+
+Recognition 
+
+Recognition in HFA individuals has been widely studied. Overall, these studies conclude that the majority of HFA individuals have intact recognition ability. Non-social stimuli recognition is often superior, or “robustly intact”, although there is some evidence suggesting that HFA individuals have difficulty with complex scenes and color combinations. For example, HFA individuals exhibit intact recognition of non-social stimuli such as written words, spoken sentences, pictures of common objects, and meaningless patterns or shapes. For HFA individuals impaired recognition have been found in object-location and object-color recognition tests, and recognition of words encoded self-referentially. For more information regarding recognition of social stimuli for individuals with autism, see the face perception page.
+
+Contrary to the plethora of HFA recognition memory studies, the study of recognition for M-LFA individuals is considerably lacking. The studies that do exist predominantly point to impaired recognition of pictures, words to name objects and other non-social stimuli. Four delayed recognition studies reported recognition impairment for M-LFA participants. Additionally, four of the seven primary studies of non-social stimuli recognition revealed significant impairment of non-social stimuli for M-LFA individuals. The other three studies were less reliable because of methodology. Boucher, Lewis and Collis gathered data supporting poor facial recognition, something widely observed for M-LFA individuals.
+
+Implicit/Non-declarative memory 
+
+Implicit memory is non-declarative memory that relies on past experiences to help recall things without actively thinking of them. Procedural memory, classical conditioning and priming are all included in implicit memory. For example, procedural skills, such as riding a bike, become so natural over time that one does not have to explicitly think about them. The brain regions that process implicit memory are the basal ganglia and the cerebellum. Research suggests that both HFA and M-LFA individuals show strong implicit memory function. HFA individuals display intact implicit memory for non-social stimuli, unimpaired classical conditioning and performance on other implicit learning tasks. HFA individuals displayed normal perceptual and conceptual priming. Studies concerning implicit memory in M-LFA individuals are sparse and further study is needed.
+
+As mentioned above, there are very few reliable studies of non-declarative memory for M-LFA. However, there are some speculations. Some consider that the impaired motor skills evident in many cases of M-LFA may suggest impaired procedural learning. Other studies, including Walenski (2006) and Romero-Muguia (2008), also think that ASD behavior is indicative of implicit memory function. For example, many ASD individuals have exceptional implicit perceptual processing abilities in mathematics, the arts and in musical improvisation. Furthermore, there is speculation that because M-LFA individuals are often characterized by habit and routine, habit formation is likely unimpaired. Behavioral treatments and therapies used with M-LFA individuals are usually very helpful, suggesting that implicit knowledge can be acquired and conditioning is intact.
+
+Behavioral treatments and therapies used with M-LFA individuals are usually very helpful, suggesting that implicit knowledge can be acquired and conditioning is intact.
+
+Memory strengths 
+Although many people who have been diagnosed with autism suffer some memory difficulties, there are some who excel with memory. There are some individuals with HFA who have been diagnosed with Savant syndrome. Those who are considered savants have abilities, usually related to memory, that are far above average, while also experiencing mental disabilities. Savants can also excel in a range of skills other than memory, including math, art and music.
+
+Further research 
+Across the board, it is agreed that there is an urgent need for more research concerning M-LFA memory function. Specifically, there are about half as many M-LFA studies on memory compared to HFA. Very few studies of implicit/non-declarative memory exist and almost no brain studies. Almost all of the M-LFA studies are conducted with school-aged children, so there is a great need for a wider age range in memory studies. Recently a specific call has been issued for the investigation of total loss of declarative memory in significantly low-functioning, nonverbal individuals with ASD.
+
+See also
+
+ Monotropism
+
+References 
+
+Autism

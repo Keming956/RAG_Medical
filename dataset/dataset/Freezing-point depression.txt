@@ -1,0 +1,64 @@
+Freezing-point depression is a drop in the temperature at which a substance freezes, caused when a smaller amount of another, non-volatile substance is added. Examples include adding salt into water (used in ice cream makers and for de-icing roads), alcohol in water, ethylene or propylene glycol in water (used in antifreeze in cars), adding copper to molten silver (used to make solder that flows at a lower temperature than the silver pieces being joined), or the mixing of two solids such as impurities into a finely powdered drug.
+
+In all cases, the substance added/present in smaller amounts is considered the solute, while the original substance present in larger quantity is thought of as the solvent. The resulting liquid solution or solid-solid mixture has a lower freezing point than the pure solvent or solid because the chemical potential of the solvent in the mixture is lower than that of the pure solvent, the difference between the two being proportional to the natural logarithm of the mole fraction. In a similar manner, the chemical potential of the vapor above the solution is lower than that above a pure solvent, which results in boiling-point elevation. Freezing-point depression is what causes sea water, (a mixture of salt and other compounds in water), to remain liquid at temperatures below , the freezing point of pure water.
+
+Explanation
+The freezing point is the temperature at which the liquid solvent and solid solvent are at equilibrium, so that their vapour pressures are equal. When a non-volatile solute is added to a volatile liquid solvent, the solution vapour pressure will be lower than that of the pure solvent. As a result, the solid will reach equilibrium with the solution at a lower temperature than with the pure solvent. This explanation in terms of vapor pressure is equivalent to the argument based on chemical potential, since the chemical potential of a vapor is logarithmically related to pressure. All of the colligative properties result from a lowering of the chemical potential of the solvent in the presence of a solute. This lowering is an entropy effect. The greater randomness of the solution (as compared to the pure solvent) acts in opposition to freezing, so that a lower temperature must be reached, over a broader range, before equilibrium between the liquid solution and solid solution phases is achieved. Melting point determinations are commonly exploited in organic chemistry to aid in identifying substances and to ascertain their purity.
+
+Uses
+
+The phenomenon of freezing-point depression has many practical uses. The radiator fluid in an automobile is a mixture of water and ethylene glycol. The freezing-point depression prevents radiators from freezing in winter. Road salting takes advantage of this effect to lower the freezing point of the ice it is placed on. Lowering the freezing point allows the street ice to melt at lower temperatures, preventing the accumulation of dangerous, slippery ice. Commonly used sodium chloride can depress the freezing point of water to about . If the road surface temperature is lower, NaCl becomes ineffective and other salts are used, such as calcium chloride, magnesium chloride or a mixture of many. These salts are somewhat aggressive to metals, especially iron, so in airports safer media such as sodium formate, potassium formate, sodium acetate, potassium acetate are used instead.
+
+Freezing-point depression is used by some organisms that live in extreme cold. Such creatures have evolved means through which they can produce a high concentration of various compounds such as sorbitol and glycerol. This elevated concentration of solute decreases the freezing point of the water inside them, preventing the organism from freezing solid even as the water around them freezes, or as the air around them becomes very cold. Examples of organisms that produce antifreeze compounds include some species of arctic-living fish such as the rainbow smelt, which produces glycerol and other molecules to survive in frozen-over estuaries during the winter months. In other animals, such as the spring peeper frog (Pseudacris crucifer), the molality is increased temporarily as a reaction to cold temperatures. In the case of the peeper frog, freezing temperatures trigger a large-scale breakdown of glycogen in the frog's liver and subsequent release of massive amounts of glucose into the blood.Conifers have concentrated cell sap that also act like antifreeze in winters.
+
+With the formula below, freezing-point depression can be used to measure the degree of dissociation or the molar mass of the solute. This kind of measurement is called cryoscopy (Greek cryo = cold, scopos = observe; "observe the cold") and relies on exact measurement of the freezing point. The degree of dissociation is measured by determining the van 't Hoff factor i by first determining mB and then comparing it to msolute. In this case, the molar mass of the solute must be known. The molar mass of a solute is determined by comparing mB with the amount of solute dissolved. In this case, i must be known, and the procedure is primarily useful for organic compounds using a nonpolar solvent. Cryoscopy is no longer as common a measurement method as it once was, but it was included in textbooks at the turn of the 20th century. As an example, it was still taught as a useful analytic procedure in Cohen's Practical Organic Chemistry  of 1910, in which the molar mass of naphthalene is determined using a Beckmann freezing apparatus.
+
+Freezing-point depression can also be used as a purity analysis tool when analyzed by differential scanning calorimetry. The results obtained are in mol%, but the method has its place, where other methods of analysis fail.
+
+This is also the same principle acting in the melting-point depression observed when the melting point of an impure solid mixture is measured with a melting-point apparatus since melting and freezing points both refer to the liquid-solid phase transition (albeit in different directions).
+
+In principle, the boiling-point elevation and the freezing-point depression could be used interchangeably for this purpose. However, the cryoscopic constant is larger than the ebullioscopic constant, and the freezing point is often easier to measure with precision, which means measurements using the freezing-point depression are more precise.
+
+This phenomenon is applicable in preparing a freezing mixture to make ice cream. For this purpose, NaCl or another salt is used to lower the melting point of ice.
+
+FPD measurements are also used in the dairy industry to ensure that milk has not had extra water added. Milk with a FPD of over 0.509 °C is considered to be unadulterated.
+
+Of a solvent and a nonvolatile solute 
+Consider the problem in which the solvent freezes to a very nearly pure crystal, regardless of the presence of the nonvolatile solute. This typically occurs simply because the solute molecules do not fit well in the crystal, i.e. substituting a solute for a solvent molecule in the crystal has high enthalpy. In this case, for low solute concentrations, the freezing point depression depends solely on the concentration of solute particles, not on their individual properties. The freezing point depression thus is called a colligative property.
+
+The explanation for the freezing point depression is then simply that as solvent molecules leave the liquid and join the solid, they leave behind a smaller volume of liquid in which the solute particles can roam. The resulting reduced entropy of the solute particles thus is independent of their properties. This approximation ceases to hold when the concentration becomes large enough for solute-solute interactions to become important. In that case, the freezing point depression depends on particular properties of the solute other than its concentration.
+
+Calculation for dilute solution
+If the solution is treated as an ideal solution, the extent of freezing-point depression depends only on the solute concentration that can be estimated by a simple linear relationship with the cryoscopic constant ("Blagden's Law"):
+ΔTF = KF · b ·  i,
+where:
+ ΔTF, the freezing-point depression, is defined as TF (pure solvent) − TF (solution).
+ KF, the cryoscopic constant, which is dependent on the properties of the solvent, not the solute. (Note: When conducting experiments, a higher KF value makes it easier to observe larger drops in the freezing point. For water, KF = 1.853 K·kg/mol.)
+ b is the molality (moles solute per kilogram of solvent)
+ i is the van 't Hoff factor (number of ion particles per formula unit of solute, e.g. i = 2 for NaCl, 3 for BaCl2).
+
+Values of cryoscopic constants
+Values of the cryoscopic constant Kf for selected solvents:
+
+More accurate equation for concentrated solution
+The simple relation above doesn't consider the nature of the solute, so it is only effective in a diluted solution. For a more accurate calculation at a higher concentration, for ionic solutes, Ge and Wang (2010) proposed a new equation:
+
+In the above equation, TF is the normal freezing point of the pure solvent (273 K for water, for example); aliq is the activity of the solvent in the solution (water activity for aqueous solution); ΔHfusTF is the enthalpy change of fusion of the pure solvent at TF, which is 333.6 J/g for water at 273 K; ΔCfusp is the difference between the heat capacities of the liquid and solid phases at TF, which is 2.11 J/(g·K) for water.
+
+The solvent activity can be calculated from the Pitzer model or modified TCPC model, which typically requires 3 adjustable parameters. For the TCPC model, these parameters are available for many single salts.
+
+See also
+Melting-point depression
+Boiling-point elevation
+Colligative properties
+Deicing
+Eutectic point
+Frigorific mixture
+List of boiling and freezing information of solvents
+Snow removal
+
+References
+
+Amount of substance
+Chemical properties
+Phase transitions

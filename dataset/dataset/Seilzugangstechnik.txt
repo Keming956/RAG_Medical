@@ -1,0 +1,80 @@
+Seilzugangstechnik (SZT) (auch Seilzugangs- und Positionierungstechnik (SZP), umgangssprachlich Industrieklettern, Berufsklettern oder Technosport (DDR), englisch Rope Access) ist ein Zugangs- und Arbeitsverfahren für Arbeiten an hoch gelegenen, tiefen oder schwer zugänglichen Arbeitsplätzen bei denen ein  Absturz oder ein nur Zugang nur unter permanenter Absturzsicherung möglich ist.
+Die Höhenarbeiter, auch Industriekletterer, Seilarbeiter oder SZP/SZT-Anwender genannt, sind immer redundant (doppelt) gesichert. Sie positionieren sich für Arbeiten immer mit Hilfe von zwei Systemen beziehungsweise zwei Seilen: dem Tragseil und dem Sicherungsseil.
+Der Seilzugang im Arbeitseinsatz erfolgt unter Verwendung von Techniken, die sich aus der Einseiltechnik der Höhlenforschung, aus Abseil- und aus Klettertechniken entwickelt haben.
+
+Gesondert zu betrachten ist die PSAgA-Anwendung. PSAgA gehören zu den persönlichen Schutzmaßnahmen. Sie schützen vor einem Absturz entweder durch Verhinderung eines Sturzes (Rückhaltesystem), Auffangen eines freien Falls (Auffangsystem) oder durch Positionieren am Arbeitsplatz (Arbeitsplatzpositionierungssystem).
+
+Grundlagen zu Funktion und Einsatzbereich
+
+Abgrenzung zu anderen Klettertechniken 
+SZP/SZT grenzt sich vom Klettern als Sport ab, da die Motivation hier nicht die Bezwingung eines Hindernisses ist, sondern das Ermöglichen einer Arbeitstätigkeit an einem Ort, der auf anderem Wege nicht oder nur mit kosten- und materialintensiven Mitteln erreichbar wäre.
+
+In der Vorgehensweise ist es auch nicht mit dem alpinistischen technischen Klettern zu vergleichen, da in den meisten Fällen ein Zugang von oben durch Abseilen erfolgt. Dies entspricht der Vorgehensweise in der Speläologie, die erstmals die Einseiltechnik etablierte.
+Im Gegensatz zum Bergsport wird die Möglichkeit eines Sturzes ins Seil ausgeschlossen, die Arbeitsstelle wird durch spezielle Arbeitsplatzpositionierungsverfahren erreicht. Das erfolgt durch die Verwendung eines Kernmantelseiles nach EN 1891 (semistatisches Kernmantelseil aus Chemiefaser (überwiegend Polyamid 6.6)), das für das Auffangen eines Sturzes ungeeignet wäre. Sollte das Tragsystem versagen, sorgt eine zusätzliche Sicherung (nach EN 353-2; mitlaufendes Auffangsystem an beweglicher Führung) für eine wirkungsvolle Verhinderung des Absturzes.
+
+Seilzugangstechnik 
+Höhenarbeiter sind heute in Deutschland gut ausgebildete Anwender – ungesichertes Arbeiten ist nach Standards der modernen Arbeitssicherheit nicht mehr zulässig. Sie seilen sich vorwiegend unter Verwendung von genormter Spezialausrüstung ab und verrichten ihre Arbeiten. Anschließend seilen sie sich abhängig von den örtlichen Gegebenheiten bis zum Boden ab oder steigen am Seil wieder auf.
+Um auf Gefahren wie das Hängetrauma schnell reagieren zu können, wird in der Ausbildung auch das Vorgehen bei der Selbstrettung und Rettung anderer Personen vermittelt.
+
+Einsatzbereiche 
+Höhenarbeiter kommen vor allem zum Einsatz, wenn Gerüste oder Hubsteiger im Vergleich zu gefährlich oder wirtschaftlich nicht vertretbar sind:
+ Montage z. B. Windenergieanlagen, Stahlbaumontagearbeiten und anderes im Hochhausbau, Brückenbau, bei Bohrinseln usw. und andere Arbeiten bei denen technische Sammeleinrichtungen nicht einsetzbar sind.
+ Dachreparaturen und Holzschutz − im Besonderen etwa von Kirchendächern, Schornsteinsanierung, Montage von Taubenabwehr und Blitzschutzanlagen, Fassadensanierung, Korrosionsschutz an Metall und Beton bei technischen Strukturen, Anstricharbeiten, Fugensanierung und Dichtungsarbeiten
+ Wartungsarbeiten an hohen Gebäuden, Fenster- und Dachrinnenreinigung, Reinigungsarbeiten im Industrie- und Kraftwerksbereich
+ Felssicherung („Felsputzen“) im Verkehrswegebau und oberhalb von Siedlungsräumen
+ Durchführen von Fotodokumentationen und Baugutachten
+ Installation von Werbebannern
+ Montage von Personenfangnetzen, Staubschutznetzen sowie von Schutzmatten im Vorfeld von Sprengungen
+
+Die organisierte Höhenrettung und Bergrettungsdienste sind dagegen üblicherweise keine Einsatzgebiete von Höhenarbeitern. Höhenarbeiter werden allerdings teilweise zur Gewährleistung einer raschen Rettung z. B. auf Großbaustellen eingesetzt.
+
+In der Veranstaltungstechnik arbeiten Sachkundige für Veranstaltungsrigging, die eine Zusatzqualifizierung zum SZP/SZT-Anwender haben können.
+Bei Film-, Fernseh-, Show- oder Theaterproduktionen arbeiten Veranstaltungs-, Stunt- oder Showrigger, die eine Zusatzqualifizierung zum SZP/SZT-Anwender haben können.
+
+Geschichte
+
+Erste Einsätze und Etablierung von Sicherungen 
+Zwischen 1879 und 1900 wurden die ersten großen Stahl- und Eisenbauten errichtet wie die  Forth Rail Bridge, der Eiffelturm, der Blackpool Tower, die Müngstener Brücke, der Garabit-Viadukt und weitere Bauten.
+Damals stiegen die Kletterer ohne jede Sicherung auf die Konstruktionen, um zu arbeiten. Das wurde als Lattice Climbing bezeichnet.
+
+Seilsicherungen in der Höhenarbeit sind erst seit den 1930er Jahren üblich. Eine der ersten prominenten Baustellen, in denen die Arbeiter zur Selbstsicherung verpflichtet waren, war der Bau der Golden Gate Bridge in den späteren 1930er Jahren, wo Joseph B. Strauss die Mortalitätsrate weit unter dem damaligen Durchschnitt halten konnte.
+
+Die Industriekletterei im heutigen Sinne wurde in den 1970er Jahren in Großbritannien entwickelt. Die Errichtung, Wartung und Sanierung der Bohrinseln in der Nordsee bewog britische Kletterer, mit Seiltechniken zu arbeiten. Allerdings wurden rudimentäre seilunterstützte Arbeitsverfahren schon beim Ernten von Vogeleiern an Steilklippen Anfang des 20. Jahrhunderts – vor allem in England – durchgeführt.
+Aufgrund europäischer Vorgaben in der Arbeitssicherheit entstand das Arbeitsverfahren mit einem zweiten Sicherungsseil. Die Öl- und Gasindustrie verlangte nach einem redundanten Seil und nach für am Seil ausgebildeten Arbeitern. Der Verband Industrial Rope Access Trade Association (IRATA) wurde Anfang der 1970er Jahre in England gegründet. Mit weltweit über 15.000 lizenzierten Industriekletterern die größte Vereinigung im Bereich der seilunterstützten Arbeitsverfahren. Inzwischen gibt es in verschiedenen Ländern Verbände für diese Arbeiten, wie beispielsweise die IRAA in Australien, die SPRAT in den USA und den FISAT (Fach- und Interessenverband für seilunterstützte Arbeitstechniken) in Deutschland.
+
+Etablierung als Branche in Deutschland 
+Die Industriekletterei wurde auch in der DDR eingesetzt; beispielsweise zur Abdichtung von Fugen in Plattenbauten wurden Bergsteiger herangezogen, da das Aufstellen von Gerüsten wesentlich mehr Aufwand bedeutet hätte. Diese Arbeitsverfahren wurden staatlich anerkannt und als Technosport bezeichnet. Die DDR hatte dafür eigene technische Regeln (TGR).
+Nach der Wiedervereinigung wurde die Industriekletterei in Deutschland in ihrer Entwicklung gestoppt, da diese Form der Arbeitsplatzpositionierung von den Berufsgenossenschaften als Unfallversicherungsträger nicht anerkannt wurden.
+1995 wurde in Deutschland der Fach- und Interessenverband für seilunterstützte Arbeitstechniken e.V. gegründet. Der Verband hat in Zusammenarbeit verschiedener Expertengruppen und durch Mitarbeit in unterschiedlichen staatlichen, europäischen und internationalen Gremien die Zulassung dieser Arbeitsverfahren und die Implementierung in europäische Unfallverhütungsvorschriften erreicht.
+
+In Deutschland sind seilunterstützte Zugangs- und Positionierungsverfahren formal erst seit Mitte der 1990er Jahre von der Berufsgenossenschaft der Bauwirtschaft (BG-Bau) zugelassen. Zuvor gab es zwar Aktivitäten, diese fanden aber in einer rechtlichen Grauzone statt. In der DDR tätige Unternehmen arbeiteten nach den seit 1988 gültigen Technischen Normen, Gütevorschriften und Lieferbedingungen (TGL), die mit der Wiedervereinigung außer Kraft gesetzt wurden. Der Fach- und Interessenverband für seilunterstützte Arbeitstechniken tritt als Dachverband und Interessenvertreter der Branche auf. Der Verband gab 1997 Richtlinien zur Ausbildung und Arbeitssicherheit für seilunterstützte Zugangstechniken heraus. Seitdem können Anwender seilunterstützter Arbeitsverfahren in Deutschland eine von diesem Verband anerkannte Ausbildung absolvieren.
+
+Die vom Verband vertretenen Ausbildungsstandards entsprechen internationalen Standards und müssen innerhalb Europas anerkannt werden. Eine internationale Norm für das sichere Arbeiten am Seil wurde zwar erarbeitet (ISO 10333-1 bis 10333-3), wird aber von der Europäischen Union nicht in ihr Normenwerk übernommen da diese Normen Arbeitsverfahren regeln. Die Anwendung seilunterstützter Arbeitsverfahren wird in Deutschland hauptsächlich durch die Technische Regel für Betriebssicherheit TRBS 2121-3 geregelt. Vorläufer dieser Regel waren die ZH 709/710 und danach die BGR 198/199.
+Die Tätigkeit ist in Deutschland kein anerkannter Beruf. Für die gewerbliche Anwendung hat sich in Deutschland eine entsprechende Ausbildung in Seilzugangstechnik SZT (Level 1–3) etabliert die das Bestehen einer Prüfung und die Ausbildung in Arbeits- und Rettungsverfahren verlangt. Ein gültiger Erste-Hilfe-Grundlehrgang und eine Arbeitsmedizinische Vorsorgeuntersuchung G41 sind vorgeschrieben. Eine handwerkliche Vorbildung ist für die Ausbildungszulassung nicht notwendig.
+
+Situation in Österreich 
+  ASchG Unterweisung, ArbeitnehmerInnenschutzgesetz Österreich
+ ÖNORM Z 1700 Sicherer Zugang zu Antennenanlagen (Weblink, Austrian Standards International)
+
+Situation in der Schweiz 
+ Factsheet Suva: 33016.D Arbeiten am hängenden Seil
+ Bauarbeitenverordnung (BauAV) Art. 82
+
+Normative und rechtliche Verweise 
+ TRBS 2121-3: Gefährdungen von Personen durch Absturz - Bereitstellung und Benutzung von Zugangs- und Positionierungsverfahren unter Zuhilfenahme von Seilen (Download)
+ Schweiz: Bauarbeitenverordnung (BauAV), 9. Kapitel: Arbeiten am hängenden Seil
+
+Siehe auch 
+ Rigging, Anwendungsbereiche mit Seiltechnik
+
+Weblinks 
+
+ Rope Access
+ Industrial Rope Access Trade Association (IRATA)
+ Fach- und Interessenverband für seilunterstützte Arbeitstechniken (FISAT)
+ Schweizerische Unfallversicherungsanstalt (Suva) - "Arbeiten am hängenden Seil"
+
+Einzelnachweise 
+
+Arbeitsschutz
+Persönliche Schutzausrüstung

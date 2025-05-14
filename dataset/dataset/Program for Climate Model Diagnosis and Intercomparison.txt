@@ -1,0 +1,15 @@
+The Program for Climate Model Diagnosis and Intercomparison (PCMDI) is a program at the Lawrence Livermore National Laboratory in Livermore, California. Livermore is in the San Francisco Bay Area in the United States. It is funded by the Regional and Global Climate Modeling Group (RGCM) and the Atmospheric System Research (ASR) programs of the Climate and Environment Sciences Division of the United States Department of Energy.
+
+Main activities
+The main goal of PCMDI is to develop improved methods and tools for the diagnosis and intercomparison of general circulation models (GCMs). PCMDI is the canonical resource for a number of model intercomparison projects, including the Atmospheric Model Intercomparison Project (AMIP), Coupled Model Intercomparison Project (CMIP), Seasonal Prediction Model Intercomparison Project (SMIP), Aqua-Planet Experimental Project (APE), and Paleoclimate Modelling Intercomparison Project (PMIP). PCMDI is also developing the Cloud-Associated Parameterizations Testbed (CAPT) and is involved with other research and innovations that will help with the diagnosis, tweaking, and intercomparison of models.
+
+Reception
+The model intercomparisons run by PCMDI are used in the Intergovernmental Panel on Climate Change (IPCC) reports, such as in Chapter 8 of the Working Group I report for the IPCC Fourth Assessment Report.
+
+On April 6, 2009, the American Meteorological Society held a meeting in Bethesda, Maryland to celebrate the twentieth anniversary of the operation of the PCMDI. The meeting summary was published in the Journal of the American Meteorological Society in May 2011.
+
+References
+
+External links
+
+Climate modeling

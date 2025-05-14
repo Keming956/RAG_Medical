@@ -1,0 +1,92 @@
+Le délire d'illusion des sosies de Capgras  (parfois appelé illusion des sosies ou délire d'illusion des sosies ou encore syndrome de Capgras) est un trouble psychiatrique dans lequel le patient, tout en étant parfaitement capable d'identifier la physionomie des visages, affirme envers et contre tout que les personnes de son entourage ont été remplacées par des sosies qui leur ressemblent parfaitement.
+
+Ce syndrome délirant a été décrit par le psychiatre Joseph Capgras en 1923. Il appartient au groupe des psychoses chroniques non dissociatives qui surviennent chez l'adulte. Le délire consiste à méconnaître l'identité d'un familier alors que sa reconnaissance formelle paraît préservée. Par exemple le patient, se retrouvant face à un proche, déclare que ce dernier a été remplacé par quelqu'un qui lui ressemble, un sosie, un double ou un imposteur mais que ce n'est pas la personne qu'il connaît : « il lui ressemble mais ce n'est pas lui ». L'examen des détails (couleur de cheveux, yeux) le renforce dans son idée : ce n'est pas vraiment la bonne personne. Le patient vit très mal la proximité avec ces sosies qui n'ont pas d'individualité, pas de nom. Des réactions agressives sont possibles.
+
+Cette affection est plus fréquente chez les patients ayant des troubles neurologiques ou psychiatriques comme dans la schizophrénie, les traumatismes cérébraux ou les démences. Il est plus fréquent chez les patients qui ont une maladie neurodégénérative que chez ceux qui n'en ont pas. Il a aussi été rapporté une association avec le diabète, l'hypothyroïdie et les crises de migraine. Il est plus fréquent chez les femmes avec un ratio femme-homme de 3-2.
+
+Diagnostic 
+Les objets du délire sont les proches comme le conjoint, les parents, les enfants,  (Capgras). La  peut aussi toucher toutes les personnes connues du patient. Le sosie de soi est plus rare. Les sosies sont en général considérés comme des imposteurs malveillants.
+
+Le diagnostic différentiel peut induire : hallucinations (une perception sans objet), puisque c'est en présence d'un proche que le patient dit voir son sosie ; illusions, c'est-à-dire une dysperception, mais bien une construction délirante ; prosopagnosie : la difficulté des patients Capgras pourrait concerner la reconnaissance visuelle puisque pour un certain nombre d'entre eux, leurs proches sont des imposteurs uniquement quand ils les regardent en face mais pas quand ils leur téléphonent.
+
+Les causes peuvent inclure des lésions organiques (accident vasculaire cérébral, démence, troubles métaboliques, intoxication), des troubles fonctionnels (troubles psychiques). Le principal diagnostic psychiatrique associé au syndrome de Capgras est celui de schizophrénie (54 %). Les troubles de l'humeur (dépression, manie, trouble bipolaire) sont moins fréquemment associés. Puis viennent les troubles schizoaffectifs ;  un trouble fonctionnel isolé, dans le cas de . Il existe aussi des cas de Capgras isolés .  est une patiente de 59 ans, adressée pour des idées délirantes à thème de persécution et de faux-semblant (F22 dans le DSM-). Elle soutient que son mari et sa fille ont été remplacés par des doubles malfaisants.
+
+Recherche
+
+Mécanismes constatés 
+Les explorations fonctionnelles mettent en évidence une atteinte lésionnelle préférentielle de la région temporo-pariétale, surtout de l'hémisphère droit (pour les droitiers).
+
+Modèles explicatifs
+
+Modèle neuropsychologique à deux voies 
+
+Dans les , Ellis et Young ont proposé un modèle de reconnaissance des visages suivant deux voies parallèles :
+ une voie accédant consciemment aux informations sémantiques sur l'identité de la personne
+ une voie affective et inconsciente, donnant une réponse affective à des stimulus familiers mis en évidence par une activation du système nerveux autonome (augmentation du rythme cardiaque, sudation, mydriase).
+Ces deux voies sont ensuite réunies dans un module d'intégration.
+
+Les patients prosopagnosiques, incapables de reconnaître les visages familiers, manifesteraient une atteinte spécifique de la  explicite, les patients atteint du syndrome de Capgras une atteinte de la  affective et implicite, en miroir de la prosopagnosie. Les prosopagnosiques manifestent une réaction du système nerveux autonome (par une sudation) en présence de visages de proches, alors que les patients Capgras n'en manifestent aucune (même conductance cutanée que pour les personnes inconnues). Une autre différence est que les patients Capgras refusent d'admettre leur erreur d'identification même en face de preuves convaincantes alors que les prosopagnosiques sont tout à fait convaincus de leur déficit.
+
+En d'autres termes, ce syndrome serait lié à une dissociation dans la perception des visages entre la reconnaissance des caractéristiques affectives et celles des traits physionomiques. En effet, ces patients ne sont pas du tout prosopagnosiques : ils reconnaissent parfaitement les traits des visages mais leur cerveau serait incapable d'accéder à l'information affective associée au visage d'un proche. N'éprouvant pas d'émotion ni de sensation de familiarité, ils interpréteraient leur sensation de façon délirante comme une situation où un sosie a remplacé leur être cher.
+
+Le délire de faux-semblant n'intervient qu'en tant qu'élaboration à visée explicative pour le sujet. Le patient reconnaît bien physiquement le visage de son proche mais il ne ressent aucun lien affectif avec lui. Il doit, pour se sortir de cette contradiction, recourir à une élaboration délirante secondaire. Henriet  proposent la séquence suivante :
+
+Perturbation des communications neuronales 
+
+Pour Hirstein et Ramachandran (1997) la cause principale du syndrome de Capgras vient de la défaillance de la communication entre le centre de reconnaissance visuelle du lobe temporal inférieur et le complexe limbique et en particulier l'amygdale. Cette perturbation de la communication conduit à un dysfonctionnement de la mémoire épisodique. Quand le patient Capgras rencontre une personne familière, au lieu de compléter l'information épisodique sur cette personne stockée dans un « fichier » dédié, il va ouvrir un nouveau « fichier » comme si c'était une personne inconnue.
+
+Dans un ouvrage publié en 2011, Ramachandran reprend son schéma de connexions mais sans faire intervenir la mémoire épisodique. Il rajoute à la voie du « quoi » qui va de l'aire  au gyrus temporal, la voie qu'il nomme du « et alors ? » qui part du . La voie du Quoi est liée à la reconnaissance des objets et à leur signification, celle du Et alors ? concerne les réponses émotionnelles suscitées par les stimuli biologiquement importants comme les yeux, la nourriture, les expressions faciales et les mouvements. David, le patient Capgras étudié par Ramachandran, a été victime d'un accident de voiture qui, à son avis, a partiellement endommagé les fibres de la voie du Et alors ? qui relie son gyrus fusiforme, en partie via le STS, à son amygdale, laissant cependant ces deux structures, ainsi que la voie du Quoi, parfaitement intactes. .
+
+L'étude d'un patient présentant des hallucinations visuelles et des troubles de l'identification dans le cadre d'un syndrome de Capgras ont amené Antérion et ses collègues (2008) à s'interroger sur le rôle des jugements de familiarité dans le syndrome. Le patient, un ancien artisan de , lors d'un séjour à l'hôpital, prit plusieurs femmes devant lui pour sa femme bien qu'elles ne lui ressemblaient pas (syndrome de Fregoli). Plus tard, il développa un syndrome de Capgras : sa femme était un imposteur. Cependant quelque chose de spécial  le caractérisait : 
+Ce phénomène de perte de familiarité concernant non seulement le visage, mais également tous les aspects de la vie intime suggère une déconnexion entre les voies visuelles ventrales d'identification des visages et le système limbique impliqué dans le souvenir de leur contenu émotionnel et de leur association à des épisodes antérieurs de la vie. Plusieurs études d'imagerie ont montré que le cortex cingulaire postérieur (dont le rétrosplenial) était impliqué dans le jugement de familiarité. Il est donc possible qu'une déconnexion entre l'amygdale et le cortex rétrosplenial puisse expliquer en partie les symptômes.
+
+Le syndrome de Capgras a aussi été associé à la paramnésie réduplicative, autre syndrome délirant de trouble de l'identification. Cette association est fréquente. Il a donc été proposé que des aires cérébrales similaires sont touchées. La paramnésie réduplicative apparaît dans des lésions du lobe frontal. On pense que le syndrome de Capgras est aussi lié à une atteinte de régions frontales. Cependant, cette hypothèse n'est pas tranchée. On évoque des atteintes des lobes temporaux et pariétaux par ailleurs.
+
+Histoire et société
+
+Cas princeps de J. Capgras (1923) 
+Avec son assistant, Jean Reboul-Lachaux, Joseph Capgras (1873-1950), un psychiatre français, a décrit dans une étude appelée L’illusion des sosies dans un délire systématisé chronique en 1923 le cas de , âgée de , qui affirmait que tous ses proches et elle-même avaient plusieurs sosies. Ce terme de « sosie » était utilisé par la patiente elle-même.  (Capgras 1923).
+
+L'« illusion des sosies » de Capgras deviendra sous l'impulsion de Lévy-Valensi le « syndrome de Capgras » en 1929.
+
+Dans la culture 
+Ce syndrome, quoique jamais explicitement défini comme tel, sert de trame générale à l'intrigue de Le Double, nouvelle de l’écrivain russe Fiodor Dostoïevski publiée le  (adaptée au cinéma par Richard Ayoade en 2013), ainsi qu'au roman de science-fiction de Jack Finney, L'Invasion des Profanateurs, paru en 1955 (adapté au cinéma). Ce syndrome est au centre de l'intrigue d'un roman de Richard Powers : La Chambre aux Échos, édition Le Cherche midi, . Dans le roman Les Yeux de Slimane-Baptiste Berhoun, le personnage de Capgras souffre du syndrome du même nom.
+
+Il apparaît également dans plusieurs séries télévisées :
+ dans Scrubs (, ), l'un des patients refuse d'aider les médecins à le soigner car il pense qu'ils ont été remplacés par des sosies maléfiques ;
+ dans Esprits criminels (, ), le tueur est atteint du syndrome de Capgras ;
+ dans Perception (, ), une femme est atteinte de syndrome de Capgras ;
+ dans Profilage (, ), un ancien militaire tue des promeneurs et des membres d'un cabinet médical ;
+ dans  (, ), une étude est lancée sur ce syndrome par Catherine Black ;
+ dans New York unité spéciale (, ), la mère de l'enfant maltraitée est atteinte du syndrome de Capgras.
+ dans la série New Amsterdam, (saison 3 épisode 4), un ado est mis dehors par sa mère qui ne le reconnait pas. C'est le Docteur Froome qui s'occupe de lui.
+ dans la série littéraire Le Destin des Jedi ( de l'univers littéraire étendu de la saga Star Wars ), un mal similaire frappe les Jedi de l'Ordre reconstitué par Luke Skywalker, qui se mettent soudainement à prendre leur entourage pour des clones parfaits de leurs amis, maîtres et membres de leur famille. L'origine de ce syndrome n'est en revanche pas neurologique, mais magique.
+
+Il est également au centre du film  de Veronika Franz et Severin Fiala, où deux jumeaux sont persuadés que leur mère, qui rentre d'une opération de chirurgie esthétique, a été remplacée par un sosie, et feront alors tout pour faire parler le supposé sosie quant à ce qui est arrivé à leur bien-aimée mère.
+
+Il est évoqué dans le film fantastique The Broken de Sean Ellis.
+
+Dans le thriller argentin  () de  sorti en 2019, le syndrome de Capgras du héros, Lorenzo, est un des ressorts de l'action.
+
+Dans le manga Time Shadows de Tanaka Yasuki, la maladie des Ombres est inspirée de ce syndrome.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Prosopagnosie
+ Syndrome de Fregoli 
+ Changeling (folklore)
+ Délire monothématique
+
+Bibliographie 
+ Délires d'identité et troubles d'identification.
+ Armin Schneider « Syndrome de Capgras » in Neurologie du comportement, Masson, 2008.
+
+Liens externes 
+ Marc Gozlan, « L’homme qui croyait que son chat en était un autre », 
+
+Délire d'illusion des sosies de Capgras
+Délire d'illusion des sosies de Capgras
+Sémiologie psychiatrique

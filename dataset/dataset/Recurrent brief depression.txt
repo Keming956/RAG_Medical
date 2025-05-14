@@ -1,0 +1,60 @@
+Recurrent brief depression (RBD) defines a mental disorder characterized by intermittent depressive episodes, not related to menstrual cycles in women, occurring between approximately 6–12 times per year, over at least one year or more fulfilling the diagnostic criteria for major depressive episodes (DSM-IV and ICD-10) except for duration which in RBD is less than 14 days, typically 5–7 days. Despite the short duration of the depressive episodes, such episodes are severe, and suicidal ideation and impaired function is rather common. The majority of patients with RBD also report symptoms of anxiety and increased irritability. Hypersomnia is also rather frequent. About 1/2 of patients fulfilling diagnostic criteria for RBD may have additional short episodes of brief hypomania which is a severity marker of RBD. RBD may be the only mental disorder present, but RBD may also occur as part of a history of recurrent major depressive episodes or bipolar disorders. RBD is also seen among some patients with personality disorders.
+
+Prevalence
+The lifetime prevalence of RBD has been estimated at 2.6 to 10.0%, and the one-year prevalence at 5.0–8.2%. The World Health Organization project on "Psychological problems in general health care", which was based on primary care samples, reported a one-year prevalence of 3.7 – 9.9%. However none of these studies differentiate between RBD with and without a history of other mood disorders (e.g. major depression). DSM-IV field trial estimated the lifetime of RBD only to be about 2%.
+
+Cause
+The cause (etiology) of RBD is unknown, but recent findings may suggest a link between RBD and bipolar disorders, pointing to the importance of genetic factors. A small subgroup of patients with RBD has temporal lobe epilepsy.
+
+Diagnosis
+From the International Statistical Classification of Mental and Behavioral Disorders:
+
+F33 Recurrent depressive disorder
+ G1. There has been at least one previous episode, mild (F32.0), moderate (F32.1), or severe (F32.2 or F32.3), lasting a maximum of two weeks and separated from the current episode by at least two months free from any significant mood symptoms.
+ G2. At no time in the past has there been an episode meeting the criteria or hypomanic or manic episode (F30.-).
+ G3. Most commonly used exclusion criteria: the episode is not attributable to psychoactive substance use (F1) or any organic mental disorder, in the sense of F0.  It is recommended to specify the predominant type of previous episodes (mild, moderate, severe, uncertain). 
+F33.0 Recurrent depressive disorder, current episode mild
+A. The general criteria for recurrent depressive disorder (F33) are met.
+B. The current episode meets the criteria for depressive episode, mild severity (F32.0).
+ A fifth character may be used to specify the presence of the somatic syndrome, as defined in F32, in the current episode:  
+F33.00 without somatic syndrome 
+F33.01 with somatic syndrome 
+F33.1 Recurrent depressive disorder, current episode moderate
+A. The general criteria for recurrent depressive disorders (F33) are met. 
+B. The current episode meets the criteria for depressive episode, moderate severity (F32.1).  
+A fifth character may be used to specify the presence of the somatic syndrome, as defined in F32, in the current episode: 
+F33.10 without somatic syndrome
+F33.11 with somatic syndrome
+
+F33.2 Recurrent depressive disorder, current episode severe without psychotic symptoms
+A. The general criteria for recurrent depressive disorders (F33) are met. 
+B. The current episode meets the criteria for severe depressive episode without psychotic symptoms (F32.2). 
+F33.3 Recurrent depressive disorder, current episode severe with psychotic symptoms
+A. The general criteria for recurrent depressive disorders (F33) are met. 
+B. The current episode meets the criteria for severe depressive episode with psychotic symptoms (F32.3).  A fifth character may be used to specify whether the psychotic symptoms are congruent or incongruent with the mood:
+F33.30 with mood congruent psychotic symptoms
+F33.31 with mood incongruent psychotic symptoms
+
+F33.4 Recurrent depressive disorder, currently in remission
+A. The general criteria for recurrent depressive disorder (F33) have been met in the past. 
+B. The current state does not meet the criteria for a depressive episode  (F32.-) of any severity, or for any other disorder in F3 (the patient may receive treatment to reduce the risk of further episodes).
+
+F33.8 Other recurrent depressive disorders
+
+F33.9 Recurrent depressive disorder, unspecified
+
+Treatment
+Both psychotherapy as well as different drugs (e.g. serotonin reuptake inhibitors – SSRIs or mood stabilizers, e.g. lithium, antiepileptics) have been suggested as treatments. However, no randomized controlled treatment trial of RBD has been conducted.
+
+History
+Disorders characterized by periods with depressive episodes lasting hours to days have been described since 1852 and have been labelled "periodic melancholia", "intermittent depressive disorder" or "very brief depression". The third version of the Diagnostic and Statistical Manual of Mental Disorders (1980), which relied heavily on findings from studies conducted in psychiatric in- and out-patient settings, required at least 14 days duration for a diagnosis of depression. No diagnostic category was allocated a depressive episode of shorter duration. Thus, intermittent depressive disorder, included in the Research Diagnostic Criteria (1975) was considered to identify minor versions of major depression ("minor depression") and not included in the DSM-III.
+
+However, based on data from epidemiological studies, the Swiss psychiatrist and researcher, Jules Angst, coined the concept "recurrent brief depression" (RBD) and provided diagnostic criteria for this type of mood disorder in 1985. Several other European studies independently confirmed the occurrence of RBD in the general population and clinical samples. RBD was thus included in the 10th classification of mental and behavioural disorders (ICD-10 F38.1) published by the World Health Organization in 1992 (WHO, 1992; WHO, 1993). Less frequent episodes of brief depressions were labelled infrequent brief depression and not included in ICD-10. The American classification system of mental disorders, DSM-IV (1994), provided provisional diagnostic criteria for RBD, but decided to await further studies before including RBD in the classification system. The fate of RBD in DSM-5, expected to occur in 2013, is not known.
+
+References
+
+External links
+ J. Angst's Editorial on RBD History
+ W. Maier's Article on RBD in Primary Care Settings
+
+Depression (mood)

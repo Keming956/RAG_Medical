@@ -1,0 +1,28 @@
+The Geriatric Depression Scale (GDS) is a 30-item self-report assessment used to identify depression in the elderly. The scale was first developed in 1982 by J.A. Yesavage and others.
+
+Description
+In the Geriatric Depression Scale, questions are answered "yes" or "no." A five-category response set is not utilized in order to ensure that the scale is simple enough to be used when testing ill or moderately cognitively impaired individuals, for whom a more complex set of answers may be confusing, or lead to inaccurate recording of responses.
+
+The GDS is commonly used as a routine part of a Comprehensive Geriatric Assessment. One point is assigned to each answer and the cumulative score is rated on a scoring grid. The grid sets a range of 0-9 as "normal", 10-19 as "mildly depressed", and 20-30 as "severely depressed".
+
+A diagnosis of clinical depression should not be based on GDS results alone. Although the test has well-established reliability and validity evaluated against other diagnostic criteria, responses should be considered along with results from a comprehensive diagnostic work-up. A short version of the GDS (GDS-SF) containing 15 questions has been developed, and the scale is available in languages other than English. The conducted research found the GDS-SF to be an adequate substitute for the original 30-item scale.
+
+The GDS was validated against Hamilton Rating Scale for Depression (HRS-D) and the Zung Self-Rating Depression Scale (SDS). It was found to have a 92% sensitivity and an 89% specificity when evaluated against diagnostic criteria.
+
+Scale questions and scoring
+The scale consists of 30 yes/no questions. Each question is scored as either 0 or 1 points. The following general cutoff may be used to qualify the severity: 
+normal 0–9, 
+mild depressives 10–19, 
+severe depressives 20–30.
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links
+Online version of the Geriatric Depression Scale
+Stanford University web site on the Geriatric Depression Scale including translations
+
+Rating scales for depression
+Geriatric psychiatry

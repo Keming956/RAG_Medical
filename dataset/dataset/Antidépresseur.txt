@@ -1,0 +1,264 @@
+Les antidépresseurs sont des médicaments psychotropes  utilisés notamment contre la dépression. On les classe parmi les psychoanaleptiques (car ce sont des stimulants psychiques) : ce sont des thymoanaleptiques (car ils ont une action stimulante sur l'humeur). Tous les antidépresseurs ont une activité sur les neurotransmetteurs monoaminergiques, soit directement soit indirectement ; ceux qui agissent directement n'interfèrent pas sur les monoamines de la même manière.
+
+L'utilisation des antidépresseurs répond à un besoin de rétablissement de l'équilibre chimique du cerveau, basé sur l'hypothèse monoaminergique de la dépression. Cet hypothétique déséquilibre monoaminergique (sérotonine, dopamine, noradrénaline) dans le cerveau n'a jamais été prouvé.
+
+D'après un rapport de l'ANSM, après huit semaines d'un traitement par antidépresseur bien conduit, un tiers des patients déprimés traités ont une réponse complète au traitement avec rémission des symptômes, un tiers des patients ont une réponse partielle ou insuffisante au traitement et un tiers des patients ne répondent pas au traitement. On observe d'autre part que l'efficacité des antidépresseurs est très faiblement supérieure à celle d'un placebo.
+
+Les différentes classes et molécules d'antidépresseurs ont une efficacité statistiquement équivalente sur la dépression.
+
+Types
+
+Antidépresseurs pharmaceutiques 
+Ils peuvent être classés de la façon suivante :
+ Inhibiteurs de la monoamine oxydase (IMAO) ;
+ Antidépresseurs tricycliques (ATC) ;
+ Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) ;
+ Inhibiteurs de la recapture de la sérotonine-noradrénaline (IRSNa) ;
+ Antidépresseur noradrénergique et sérotoninergique spécifique ;
+ Antidépresseurs tétracycliques.
+
+Thymorégulateurs 
+Les thymorégulateurs ont d'abord des propriétés anti-épileptiques (anticonvulsivantes), mais ils constituent une alternative sûre et efficace aux antidépresseurs classiques. 
+Ces produits, employés à l'origine principalement dans le traitement des troubles bipolaires, s'avèrent en effet efficaces dans celui de la dépression classique (unipolaire). 
+Les principaux sont :
+ les sels de lithium (traitement de première intention pour les dépressions majeures en cas de non-réponse aux antidépresseurs standards ) ;
+ le valproate ou acide valproïque (Dépakine) (mieux tolérée que le lithium ) ;
+ la carbamazepine (Tégretol) ;
+ la lamotrigine (Lamictal), dont l'efficacité est démontrée aussi en cas de non-réponse aux antidépresseurs classiques .
+
+Autres antidépresseurs pharmaceutiques 
+Il existe d'autres antidépresseurs n'entrant pas dans les classes mentionnées ci-dessus. Malgré leur action sur l'humeur, ils sont peu utilisés pour le traitement des épisodes dépressifs. Il s'agit de :
+ l'agomélatine (proche de la mélatonine) ;
+ le bupropion (Zyban), dopaminergique employé pour le sevrage tabagique ;
+ le méthylphénidate (Ritaline) :
+ plus efficace dans la dépression des personnes âgées que les antidépresseurs , 
+ efficace dans la dépression bipolaire sans induire de manie ou hypomanie 
+ efficace seule ou en association avec un antidépresseur sérotoninergique  ;
+ l'amisulpride (neuroleptique ayant un effet antidépresseur à faibles doses uniquement) ;
+ les hormones thyroïdiennes ;
+ le pramipexole (dopaminergique antiparkinsonien) ;
+ le Tramadol (antalgique niveau 2 sérotoninergique).
+
+Antidépresseurs non pharmaceutiques 
+ Le millepertuis.
+L'inositol
+
+Des hallucinogènes, tels que le LSD ou la psilocybine déjà prescrits par le passé en tant qu'antidépresseurs, sont également étudiés pour leurs effets antidépresseurs. De plus les arylcyclohexylamines montrent un très haut potentiel antidépresseur.
+
+Recherche 
+ la kétamine (à faible dose) et autres médicaments glutamatergiques ;
+ des peptides pour empêcher la surexpression anormale de la protéine Elk1 dans l'hippocampe ;
+ la stimulation magnétique transcrânienne, dont le nouveau protocole iTBS ;
+ l'électroconvulsivothérapie ;
+ les anti-inflammatoires comme l'infliximab.
+
+Mécanismes d'action 
+La pharmacologie (mécanisme d'action) des antidépresseurs n'est pas totalement élucidée. Elle est basée sur l'hypothèse monoaminergique de la dépression. L'hypothèse monoaminergique postule que la dépression serait due à un déséquilibre chimique en monoamines (sérotonine, dopamine, noradrénaline) dans le cerveau. Cette hypothèse n'a jamais été prouvée.
+
+Le mécanisme d'action des antidépresseurs est généralement lié à un effet sur les neurotransmetteurs.
+ Les IMAO (Inhibiteurs de monoamine oxydase) augmentent la concentration en sérotonine en inhibant les enzymes (les monoamines oxydases ou MAO) chargées de sa dégradation. Leur usage requiert pour la plupart une surveillance contraignante de l'alimentation et ils ne sont plus que rarement utilisés.
+ Les antidépresseurs tricycliques inhibent la recapture de divers neurotransmetteurs, y compris  sérotonine, la noradrénaline et la dopamine.
+ Les ISRS (inhibiteurs sélectifs de la recapture de la sérotonine) augmentent la concentration de sérotonine dans la synapse en empêchant sa recapture dans le neurone pré-synaptique (voir synapse). Cette classe d'antidépresseurs est récente (milieu des années 1980).
+ Les IRSNa (inhibiteurs de la recapture de la sérotonine-noradrénaline) inhibent de façon sélective la recapture de la noradrénaline et de la sérotonine.
+les antidépresseur tétracyclique
+
+Effets épigénétiques 
+Tout effet secondaire épigénétique causé par un médicament peut persister une fois le médicament arrêté. Les antidépresseurs ISRS et les antidépresseurs tricyclique provoquent des altérations à long terme dans l'expression des gènes (épigénétique), sans doute en raison de l'élévation chronique de la sérotonine (5-HT) neurotransmission dans le cerveau.
+
+Par exemple la fluoxétine, prise de manière chronique, provoque une désensibilisation persistante des récepteurs 5HT1A même après l'arrêt du traitement avec l'ISRS. Certains de ces changements d'expression génique sont le résultat d'une structure ADN altérée provoqué par le remodelage de la chromatine. Une étude suggère que l'utilisation chronique d'antidépresseurs peut causer une expression altérée et persistante de gène cérébral conduisant à une neurotransmission catécholaminergique altérée; et des perturbations neuroendocrines telles que la diminution des taux de testostérone, une fertilité réduite et une dysfonction sexuelle persistante (Dysfonction sexuelle liée aux médicaments ISRS).
+
+Recherche néonatale sur des animaux 
+On peut créer des modèles animaux de dépression en donnant de la clomipramine (antidépresseur tricyclique) à des animaux nouveau-nés entre 8 et 21 jours de vie. L'exposition néonatale au citalopram (ISRS) et à l'escitalopram opèrent des changements persistants de la transmission sérotonergique du cerveau, ce qui entraine des changements comportementaux. Ces anomalies comportementales, dues à l'exposition néonatale d'antidépresseurs, présentes chez les animaux adultes sont renversés par un traitement antidépresseurs.
+
+Chez les rats, si les mères en gestation sont mises sous ISRS, la descendance présente des comportements ressemblant à l'autisme.
+
+Néanmoins, chez l'humain, les études en 2017 indiquent qu'il n'y a pas plus de risque d'avoir des enfants autistes si la mère était sous antidepresseur pendant la gestation.
+
+Indications 
+Les antidépresseurs ont une indication dans les troubles dépressifs majeurs unipolaires et, éventuellement, dans les épisodes dépressifs caractérisés mais d’intensité légère, uniquement en cas d’échec de la psychothérapie.
+
+De nombreux troubles anxieux sont une indication à un traitement antidépresseur.
+
+Ils peuvent avoir un intérêt dans des pathologies non psychiatriques comme la cataplexie, les accidents vasculaires cérébraux et les douleurs chroniques (notamment les douleurs neuropathiques, inacessibles aux antalgiques classiques).
+
+Efficacité 
+Tous les antidépresseurs présentent la même efficacité clinique. Cette efficacité est régulièrement remise en cause parce que de nombreuses études négatives (c'est-à-dire ne prouvant pas l'efficacité de ces médicaments) ne sont pas publiées, ce qui fausserait leur évaluation (Effet qui est communément appelé l'effet Tiroir). De plus la différence d'efficacité entre les antidépresseurs et un placebo est très faible. Ainsi environ 50 % des patients inclus dans les études cliniques sur les antidépresseurs connaissent une amélioration de leur score de dépression mesuré à partir de l'échelle de Hamilton contre 40 % chez les patients ayant reçu un placebo. Un médicament légèrement sédatif peut apparaître comme un traitement de la dépression si l'échelle d'évaluation comporte des questions relatives à l'anxiété ou à la qualité du sommeil. La différence d'efficacité entre les antidépresseurs et le placebo augmenterait avec le degré de sévérité de la dépression, mais cette différence demeure faible, même pour les dépressions sévères.
+
+De nombreuses études visent à comparer les antidépresseurs entre eux. Ainsi une étude avait pour but de comparer douze antidépresseurs de seconde génération dans le traitement de la dépression majeure en excluant les tricycliques.
+Elle a montré qu'il n'y avait aucune différence statistique significative d'efficacité entre le citalopram, le milnacipran et le bupropion et sept autres antidépresseurs, à l'exception de la réboxétine, qui est significativement moins efficace que les dix autres molécules étudiées. En d'autres termes, le citalopram est aussi efficace que le milnacipran, le bupropion, la sertraline, l'escitalopram, la fluoxétine, la venlafaxine… mais plus efficace que la réboxetine. Même raisonnement pour le minalcipran et le bupropion (fig3. 752). Leur estimation indique que l'escitalopram, la mirtazapine et la venlafaxine sont plus efficaces que la duloxétine, la fluoxétine, la fluvoxamine, la paroxétine et la réboxetine (figure 3. 752). Elle indique également que la sertraline est plus efficace que la fluoxétine, la paroxétine et la réboxetine. Enfin leur estimation révèle que la duloxétine et la paroxétine sont moins bien tolérées que l'escitalopram et la sertraline. Les auteurs de cette étude ayant bénéficié du soutien financier de nombreux laboratoires, il convient d'interpréter leurs conclusions avec beaucoup de précautions d'autant qu'ils n'ont pas introduit dans leur analyse les antidépresseurs tricycliques, beaucoup moins coûteux et donc moins rentables (754), mais aussi moins bien tolérés. L'efficacité des antidépresseurs ne se manifeste en général qu'après quatre semaines de traitement.
+
+Selon les recommandations de l'AFSSAPS (7), après huit semaines de traitement bien conduit un tiers des patients déprimés traités par des antidépresseurs ont une réponse complète au traitement avec rémission des symptômes, un tiers ont une réponse partielle ou insuffisante au traitement, un tiers enfin ne répond pas au traitement. Le délai nécessaire à l’obtention d’une réponse thérapeutique complète est de six à huit semaines. Par conséquent, à l’exception des cas où l'état des patients s’aggrave, l'AFSSAPS conseille de ne pas interrompre avant quatre semaines un traitement antidépresseur à posologie efficace en l’absence d’amélioration.
+
+Elle recommande aussi d'associer des consultations en début de traitement (par exemple au moins une fois la première semaine, une fois la deuxième semaine, au moins une fois après quatre semaines et une fois après huit semaines) et d'évaluer régulièrement la tolérance tant du point de vue somatique que du point de vue psychique, en particulier au début du traitement.
+
+Dans les troubles dépressifs majeurs unipolaires, elle préconise une durée de traitement variant de seize à vingt semaines après la rémission symptomatique.
+
+En 2018, une méta-analyse a montré que les antidépresseurs fonctionnent plus efficacement que les placebos. Cette étude est dénoncée comme mal conduite et erronée par les chercheurs de la Collaboration Cochrane. Après avoir réanalysé les données, ils concluent au contraire qu'il n'existe pas de preuve que les antidépresseurs soient supérieurs au placebo. La supériorité des antidépresseurs sur le placebo est jugée "incertaine".
+
+Antidépresseurs les plus efficaces 
+	 
+L'étude citée plus haut a compilé les résultats de 522 essais cliniques (comprenant 116 477 participants en tout).
+	 
+Sur les 21 antidépresseurs étudiés, les plus efficaces ont été :  
+ n° 1 : l’amitriptyline (Laroxyl, Elavil, tricyclique)
+ n° 2 : la mirtazapine (Norset, Remeron, alpha2 bloqueur)
+ n° 3 : la duloxetine (Cymbalta, IRSNa)
+ n° 4 : la venlafaxine (Effexor, IRSNa)
+ n° 5 : la paroxétine (Deroxat, ISRS)
+ n° 6 : le milnacipran (Ixel, IRSNa)
+ n° 7 : la fluvoxamine (Floxyfral, ISRS)
+ n° 8 : l'escitalopram (Seroplex, ISRS)
+ n° 9 : le nefazodone (Serzone, atypique )
+ n° 10 : la vortioxétine (Brintellix, antidépresseur multimodal)
+Néanmoins, ce classement ne doit pas faire oublier que chacun de ces traitements possède une action propre (par exemple antidépresseurs sédatifs ou stimulants) qui l'indique plutôt dans telle ou telle dépression (avec anxiété, avec asthénie, avec caractéristiques mélancoliques, etc.). Ainsi, un même antidépresseur pourra rendre service à un patient, mais n'avoir aucun impact sur les symptômes d'un autre. En outre, les antidépresseurs tricycliques ne sont en général prescrits qu'en deuxième ou troisième ligne (c'est-à-dire après échec de un à deux traitements conduits à posologie et sur une durée suffisantes) en raison de leurs effets secondaires plus marqués. En France, les ISRS sont aujourd'hui prescrits en première intention de préférence.
+
+Effets secondaires 
+Les effets secondaires induits par les antidépresseurs varient selon les individus. Ces variations seraient plus importantes d'un individu à l'autre que d'une molécule à l'autre. Les antidépresseurs peuvent avoir des effets secondaires et  De plus, il arrive que certains patients ne répondent pas aux antidépresseurs.
+
+Les dysfonctionnements sexuels (anorgasmie, baisse de la libido, etc.) font partie des effets secondaires les plus souvent constatés. Ce point doit être pris en compte lors d'une indication dans la mesure où ce qui s'améliore d'un côté (l'humeur du patient) peut être contrebalancé par quelque chose qui l'empire (la vie sexuelle avec ses répercussions sur la vie de couple). Comme dans toute indication médicale, la balance "bénéfices attendus et inconvénients" doit être sérieusement envisagée et discutée avec le patient. Un dysfonctionnement sexuel peut être la conséquence de l'utilisation d'un ISRS chez plus de 80 % des hommes.
+
+Ce dysfonctionnement peut être permanent et les stratégies pour en venir à bout n'en sont encore qu'à l'état d'ébauche avec, dans la majorité des cas, une absence totale d'amélioration(Dysfonction sexuelle liée aux médicaments ISRS).
+
+Le syndrome sérotoninergique est une complication potentiellement mortelle liée à des médicaments antidépresseurs inhibiteurs de la recapture sélective de sérotonine, IMAO, tricycliques. D'après certains auteurs, les cas de syndrome sérotoninergique sont largement sous-estimés.
+
+Il existe certains moyens prédictifs de déterminer la propension chez un patient à développer des effets secondaires avant la prise d'un traitement. La plupart des antidépresseurs étant métabolisée par le cytochrome P450 2D6, un test de ce cytochrome permet de savoir si une personne est un métaboliseur rapide, normal ou lent (avec des nuances). Plus la métabolisation est lente, plus la propension à développer des effets secondaires sera élevée. Ce test peut se faire à partir de salive ou à la suite d'une prise de sang. D'autres tests existent mais se révèlent parfois beaucoup plus complexes à mettre en œuvre. Par exemple, dans le cas du citalopram, il faut tester le gène CRK4 sur le chromosome 19.
+
+Certains antidépresseurs s'accumulent dans le cerveau.
+
+L'usage de certains antidépresseurs pendant la grossesse pourraient augmenter le risque de diabète de type 2 et d'obésité pendant l'enfance.
+
+Les antidépresseurs augmenteraient les niveaux de mélatonine ; la mélatonine est synthétisée à partir de la sérotonine.
+
+Les antidépresseurs modulant la sérotonine entraînent la perte de densité osseuse et l'ostéoporose. Une étude de 2007 indique que la fluoxétine entraine une baisse de 56% du taux d'ostéocalcine.  
+
+Les antidépresseurs qui modulent la sérotonine modifient le transit intestinal. En effet la sérotonine est un médiateur du péristaltisme intestinal. Quand le taux de sérotonine baisse, le transit des aliments dans l'intestin grêle et le colon est plus lent, mais la vidange gastrique est plus rapide, et il y a moins d’inflammation intestinale. Lorsque son taux augmente, le transit des aliments dans l'intestin grêle et le colon est plus rapide, mais la vidange gastrique est plus lente et l’inflammation intestinale augmentée.
+
+Effets indésirables 
+Tous les antidépresseurs sont susceptibles de provoquer le « déclenchement d'un épisode de manie ou d'hypomanie ».
+ Premier groupe : hypotension orthostatique et troubles de la conduction cardiaque (effet de type quinidine), surtout chez les personnes âgées, en cas de pathologie cardio-vasculaire préexistante et à doses élevées. En cas de surdosage, des troubles du rythme à issue éventuellement fatale peuvent survenir.
+ Premier groupe et certaines substances du deuxième groupe : effets anticholinergiques (sécheresse de la bouche, troubles mictionnels, troubles de l'accommodation, etc.). Cela peut occasionner des problèmes chez les patients atteints d'une hypertrophie de la prostate ou d'un glaucome à angle fermé, ou en cas de traitement concomitant avec d'autres médicaments à action anticholinergique.
+ Avec l'amitriptyline, la doxépine, la maprotiline, la miansérine, la mirtazapine et la trazodone : sédation. Cette propriété sédative est intéressante en cas d'anxiété associée à la dépression ; la prise principale ou unique journalière se fera de préférence le soir. D'autres antidépresseurs sont peu ou pas sédatifs, ou au contraire se montrent légèrement stimulants (désipramine, nortriptyline) ; ils peuvent parfois entraîner de l'anxiété, de l'agitation et de l'insomnie.
+ Avec la trazodone : risque de priapisme.
+ Surtout avec la miansérine (peut-être aussi avec la mirtazapine apparentée) : risque d'agranulocytose.
+Les antidépresseurs peuvent entraîner des désordres de la transpiration : une transpiration excessive sur le cuir chevelu, le visage et la poitrine, ou un manque de transpiration (hypohydrose).
+Effet indésirable : baisse de la libido très fréquent dans la plupart des antidépresseurs.
+
+La suppression du sommeil paradoxal ou REM (monoamine oxydase, trycicliques, inhibiteur de recapture de la sérotonine) avec une rėduction de 30 à 50% sur le long terme ; et une rėduction de 75 à 85% sur le court terme.
+
+Effets indésirables avec les antidepresseur 
+ Effets gastro-intestinaux fréquents (nausées, diarrhées).
+ Effets indésirables centraux fréquents (céphalées, vertiges, agitation, insomnie).
+ Effets indésirables dissociatifs. (dépersonnalisation, déréalisation, impression de ralentissement du temps, expériences de déjà vu, amnésie, hallucinations visuelles et auditives).
+ Effets indésirables sexuels fréquents : dysfonction sexuelle liée aux médicaments ISRS (baisse de la libido, difficulté à maintenir une érection et/ou à éjaculer plus particulièrement). Des difficultés sexuelles chez plus de 80 % des hommes consommant des ISRS a été rapporté. Ces troubles peuvent dans certains cas être permanents ou apparaître à l'issue du traitement.
+ Émoussement émotionnel (la personne peut se sentir émotionnellement éteinte).
+ Confusion et désorientation.
+ Réaction maniaque ou psychotique.
+ Akathisie.
+ Syndrome sérotoninergique chez les patients traités avec des doses élevées d'ISRS, surtout en association avec d'autres médicaments sérotoninergiques. Ce syndrome se caractérise entre autres par une hyperthermie, de l'agitation, des myoclonies et, plus rarement, des convulsions, une arythmie ventriculaire avec parfois une évolution fatale
+ Manifestations extrapyramidales.
+ Hémorragies, par exemple au niveau du système gastro-intestinal, de la peau et des muqueuses.
+ Hyponatrémie (surtout chez les personnes âgées).
+ Troubles oculaires (douleur, rougeurs, troubles pupillaires).
+ Désinhibition, parfois recherchée.
+
+Suicide 
+Les études établissant un lien entre le risque suicidaire et la consommation d'antidépresseur sont nombreuses. Une méta-analyse de Healy et Whitaker (2003) rassemblant 26435 sujets dans des essais randomisés en double aveugle montre que le suicide était 5 fois plus fréquent dans le groupe antidépresseur que dans le groupe placebo, et la tentative de suicide 2 fois plus fréquente. Cependant, une méta-analyse de Stone et all. (2009) rassemblant 99231 sujets dans le même genre d'essais clinique montre que le risque de comportement suicidaire sous antidépresseurs dépend fortement de l'âge: il est majoré en dessous de 25 ans, neutre entre 25 et 65 ans et minoré au-delà de 65 ans. Cette méta-analyse ne trouve pas d'augmentation globale du risque de comportement suicidaire sous antidépresseur. Enfin les données de Khan et all. (2018) réanalysées par Hengartner et Plöderl (2019), rassemblant 40857 sujets dans la méta-analyse, montrent que le taux de suicide est triplé sous antidépresseur (vs placebo), et le taux de tentative de suicide est un peu plus que doublé (vs placebo), toujours dans des essais randomisés en double aveugle. Cependant, l'étude originale concluait à l'absence d'augmentation du risque suicidaire, en calculant non pas le taux de suicide ou le taux de tentative de suicide, mais le nombre de suicides ou de tentative par 100,000 patient-années d'exposition, une méthode statistique controversée.
+
+Il existe ainsi des méta-analyses concluant à une forte augmentation du suicide sous antidépresseur (vs placebo), et d'autres concluant à un effet globalement neutre. Le choix des données, la méthode de calcul et les biais pourraient expliquer ces fortes disparités dans la recherche.
+
+D'après David Healy, les risques accrus d'actes suicidaires seraient liés à l'impatience pathologique, la tension, les réactions psychotiques ou dissociatives induites par les antidépresseurs. De tels risques s'observeraient également, selon lui, chez des patients qui prendraient des ISRS pour des indications autres que la dépression, ou chez des volontaires sains. Il révèle que les essais cliniques ont maintenant démontré de façon récurrente que les ISRS ont doublé le taux de suicide et d'actes suicidaires chez les déprimés et les anxieux, en comparaison avec un placebo. Il constate que même si les ISRS et les nouveaux antidépresseurs sont beaucoup moins dangereux en cas d'intoxication volontaire que les tricycliques, l'ancienne génération d'antidépresseurs présentait moins de risque, parce qu'elle était prescrite sous surveillance à l'hôpital, plutôt que lors d'une consultation en ambulatoire de première ligne.
+
+Néanmoins la plupart des études excluent les patients souffrant d'une dépression grave, avec un risque suicidaire maximal et pour qui le traitement antidépresseur aurait un effet diminutif sur le taux de suicide, la mise de ces patients sous placebo posant des problèmes d'éthique.
+
+Ce risque de passage à l'acte suicidaire est surtout présent en début de traitement, autour du 10 au  de traitement, principalement dans la période de latence, entre le début du traitement, où le ralentissement psychomoteur induit par la dépression est levé, et le début des effets souhaités sur l'humeur du patient ; ce phénomène s'appelle la levée d'inhibition. Elle a motivé une note d'avertissement de la FDA américaine en 2004.
+
+Syndrome de discontinuation associé aux antidépresseurs 
+
+Le syndrome de discontinuation associé aux antidépresseurs, appelé aussi syndrome d'arrêt des antidépresseurs ou syndrome de sevrage, désigne l'ensemble des symptômes qui peuvent apparaître à la suite de l'arrêt brutal ou d'une réduction marquée d'un traitement antidépresseur pris pendant au moins un mois.
+
+Précautions particulières 
+Des études ont montré que l'utilisation d'antidépresseurs est corrélée à un risque accru de comportement suicidaire et de pensées suicidaires chez les moins de vingt-cinq ans. Il convient d'être attentif, surtout durant les quatre semaines qui suivent l'instauration du traitement et les quatre semaines qui suivent son arrêt.
+
+Ce problème a été suffisamment grave pour justifier l'intervention de la Food and Drug Administration (FDA) américaine concernant le risque accru de tendances suicidaires au cours du traitement antidépresseur.
+
+Lorsque l'on désire passer d'un ISRS à un autre antidépresseur, surtout lorsqu'il s'agit d'un IMAO, la longue demi-vie de certains ISRS peut poser des problèmes. C'est surtout important dans le cas de la fluoxétine, dont le métabolite actif (la norfluoxétine) a une demi-vie de plus de sept jours. C'est pourquoi, un intervalle sans médicament de une à deux semaines (cinq pour la fluoxétine) devrait être respecté.
+
+En cas d'utilisation de miansérine ou de mirtazapine, l'apparition de fièvre, maux de gorge, etc. doit faire envisager la possibilité d'une agranulocytose.
+
+Les antidépresseurs tricycliques ne devraient pas être pris en plus des contraceptifs oraux, car ce mélange peut provoquer « léthargie, maux de tête, baisse de la tension artérielle, akathisie (envie irrépressible de bouger) ». De plus « l'alcool augmente l'effet sédatif des antidépresseurs tricycliques. »
+
+Posologie 
+La posologie doit être déterminée individuellement, notamment parce que la vitesse de métabolisation diffère d'une personne à l'autre. Il est recommandé de commencer par une dose faible et de l'augmenter progressivement si nécessaire. Concernant la meilleure façon d'administrer la dose journalière, en une prise le soir ou en plusieurs prises journalières, il n'existe pratiquement pas de données. L'administration le soir est souvent préférée pour éviter un effet sédatif gênant durant la journée. L'arrêt du traitement doit être progressif, étant donné que des symptômes de sevrage sont décrits pour certains médicaments.
+
+Après disparition des symptômes dépressifs, le traitement doit être poursuivi pendant au moins six mois. En cas de dépression grave et récidivante, on se trouve parfois dans la nécessité de prescrire un traitement d'entretien de plusieurs années. L'effet thérapeutique n'apparaît pas plus rapidement en cas d'administration parentérale.
+
+Observance 
+Les taux d'interruption d'un traitement antidépresseur sont particulièrement élevés. Ainsi entre 28 % et 68 % des patients consommant des antidépresseurs interrompent leur traitement durant le premier mois, et entre 44 % et 50 % durant les trois premiers mois.
+
+Par ailleurs de nombreux cas d'abandon ont été observés durant les essais thérapeutiques sans que les experts puissent expliquer pourquoi.
+
+Prescription 
+La prescription des antidépresseurs serait largement encouragée par le lobby des industries pharmaceutiques et notamment par le biais de programmes de diagnostic de troubles mentaux : par exemple, au Texas, le programme initié par George W. Bush. Le lobbying pharmaceutique très puissant exercé par la famille Bush aurait débuté lorsque George H. W. Bush aurait rejoint en 1976 le conseil d'administration de Lilly. Il se serait ensuite amplifié avec l'arrivée de Mitch Daniels ou de Martin Feldstein, qui font partie de leurs proches, au conseil d'administration de la firme.
+
+Des psychiatres français, comme le professeur Édouard Zarifian, auteur en 1996 d'un rapport remis à Simone Veil, et les professeurs Frédéric Rouillon et Jean-Pierre Olié, ont souligné ce qu'ils soupçonnent être une communauté d'intérêt entre l'industrie pharmaceutique et les prescripteurs dans le domaine du traitement de la dépression. Zarifian a indiqué en  que l'efficacité des antidépresseurs ISRS (inhibiteurs sélectifs de la recapture de la sérotonine) n'est démontrée et affirmée que par des études commanditées par des laboratoires producteurs d'antidépresseurs, ce qui jette une suspicion sur les résultats publiés dans des revues médicales financées par des laboratoires. Le psychiatre britannique David Healy et le chercheur américain Christopher Lane ont, chacun de leur côté, étayé à leur manière la thèse de l'influence néfaste exercée par Pharmas sur le monde médical, notamment celui de la recherche.
+
+Historique 
+Avant les années 1950, les opioïdes, l'amphétamine et la méthamphétamine ont été couramment utilisés comme antidépresseurs. Leur utilisation a ensuite été limitée à cause de leur nature addictive et de leurs effets secondaires. Les antidépresseurs de type métamphétamine (pervitine) ont été très largement utilisés par les soldats lors de la Seconde Guerre mondiale, notamment les Allemands et les Finlandais, mais aussi les Japonais.
+
+Controverses 
+
+Plusieurs études affirmant l'efficacité du Deroxat (paroxétine) sur les personnes de moins de dix-huit ans ont été falsifiées, les études authentiques n'ayant pas réussi à prouver cette efficacité sur les individus de cet âge.
+
+Le , GlaxoSmithKline (GSK) a payé trois milliards de dollars pour conclure le plus gros accord pour fraude de l'histoire de l'industrie pharmaceutique. Cela concernait entre autres les antidépresseurs Paxil (paroxétine) et Wellbutrin (bupropione).
+
+Les antidépresseurs sont régulièrement remis en cause dans la mesure où leur mécanisme d'action repose sur l'hypothèse que la dépression serait due à un  en monoamines (sérotonine, dopamine, noradrénaline) dans le cerveau. Cette hypothèse est appelée hypothèse monoaminergique de la dépression. Or, bien que largement admise concernant la biologie de la dépression, cette hypothèse est régulièrement remise en cause.
+
+Utilisation dans le monde 
+Un Américain sur six prend un médicament psychiatrique en 2014. Un Américain sur dix prenait des antidépresseurs en 2011.
+
+Un Anglais sur dix prend des antidépresseurs en 2017.
+
+On estime qu'un million de personnes prennent des antidépresseurs en Suède. En 2018, environ un Suédois sur dix a pris des antidépresseurs, selon la Télévision suédoise (SVT), deux fois plus qu’au début des années 2000. Bo Runeson, professeur de psychiatrie à la recherche sur le suicide à l'Institut Karolinska, affirme avoir constaté une diminution du nombre de suicides depuis l'introduction des antidépresseurs. Les antidépresseurs ont pour effet positif selon lui, de largement remplacer la prescription de sédatifs dans les troubles anxieux.
+
+Notes et références
+
+Voir aussi
+
+Bibliographie 
+ Les Antidépresseurs, Académie nation de médecine (France) Rapport du  Jean-Pierre Olié, Marie-Christine Mouren au nom de la Commission V (Psychiatrie et santé mentale)
+ U.S. Food and Drug Administration, GlaxoSmithKline Letter. June 2006 U S Food and Drug Administration.
+ Les Médicaments psychiatriques démystifiés, David Healy, Elsevier, 2009
+  R. Delle Chiaie, P. Pancheri, P. Scapicchio. «  » Am J Clin Nutr. 2002;76(5):1172S-6S.
+   JAMA 2002;287(14):1807-14.
+  D. Mischoulon, M. Fava. «  » Am J Clin Nutr. 2002;76(5):1158S-61S.
+  L. Tamam, N. Ozpoyraz. «  » Adv Ther. 2002;19:17-26. .
+  Roni Shiloh  , 2nd ed., London, Informa Health Care, 2006.
+  Samuel H. Barondes, , Oxford, Oxford University Press, 2003.
+ Charles-Henri Beau, Sandrine Thauby, Synopsis 2007 des médicaments en psychiatrie, Callian, Éd. Santé, prévention, communication, 2007.
+ David Cohen, Suzanne Cailloux-Cohen et l'AGIDS-SMQ, Guide critique des médicaments de l'âme, Montréal, Éd. de l'Homme, 1995. Guide - AGIDD-SMQ.
+ Philippe Dorosz Guide pratique des médicaments en neuro-psychiatrie, Paris, Maloine, 2005.
+ David Healy, Le Temps des antidépresseurs, Paris, Les Empêcheurs de penser en rond, 2002 [trad. de The Antidepressant Era, Cambridge (Mass.), Harvard University Press, 1997].
+  , 2002 [paperback ed., 2004].
+ David Healy, Les Médicaments psychiatriques démystifiés, Issy-les-Moulineaux, Elsevier-Masson, 2009 [trad. et adaptation par Monique Debauche de Psychiatric Drugs Explained, 5th ed., Edinburgh, Churchill Livingstone, 2009].
+ Medication Management in Mental Health, ed. by Neil Harris, John Baker, and Richard Gray, Oxford, Wiley-Blackwell, 2009.
+ Metabolic effects of psychotropic drugs, ed. by Jogin Thakore and Brian E. Leonard, Basel-Paris, Karger, 2009.
+Prescrire les psychotropes, 3è édition, Bruno Millet et Jean-Marie Vanelle (dir.), Abrégés de médecine, Elsevier Masson, Paris, 2020
+ Antoine Pelissolo, Bien se soigner avec les médicaments psy : antidépresseurs, tranquillisants, somnifères, Paris, Éd. Odile Jacob, 2005.
+ Antoine Pelissolo, Des troubles anxieux à la dépression, Paris, Éd. Phase 5, 2006.
+ Philippe Pignarre, Comment la dépression est devenue une épidémie, Paris, La Découverte, 2001.
+ Philippe Pignarre, Les Malheurs des psys : psychotropes et médicalisation du social, Paris, La Découverte, 2006.
+ Principles and Practice of Psychopharmacotherapy, by Philip G. Janicak [et al.], 4th ed., Philadelphia, Lippincott Williams & Wilkins, 2006.
+ Denis Richard, Jean-Louis Senon, Nicolas Tournier, Médicaments en psychiatrie, Rueil-Malmaison, Lamarre, 2006.
+ Alan F. Schatzberg, Jonathan O. Cole, Charles DeBattista, Manual of Clinical Psychopharmacology, 5th ed., American Psychiatric Publ., 2005.
+ Stephen M. Stahl, Psychopharmacologie essentielle. Le guide du prescripteur, Paris, Médecine-sciences Flammarion, 2007 [trad. de Essential Psychopharmacology. The Prescriber's Guide, Cambridge, Cambridge University Press, 2005].
+ Padraig Wrigh, Core Psychopharmacology, Edinburgh, Saunders Elsevier, 2006.
+
+Articles connexes 
+ Médicament psychotrope
+ Syndrome de Sissi
+ Texas Medication Algorithm Project
+
+Psychotrope
+Psychiatrie
+Traitement en psychiatrie
+Dépression (psychiatrie)

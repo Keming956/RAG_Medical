@@ -1,0 +1,56 @@
+Functional analytic psychotherapy (FAP) is a psychotherapeutic approach based on clinical behavior analysis (CBA) that focuses on the therapeutic relationship as a means to maximize client change. Specifically, FAP suggests that in-session contingent responding to client target behaviors leads to significant therapeutic improvements.
+
+FAP was first conceptualized in the 1980s by psychologists Robert Kohlenberg and Mavis Tsai who, after noticing a clinically significant association between client outcomes and the quality of the therapeutic relationship, set out to develop a theoretical and psychodynamic model of behavioral psychotherapy based on these concepts. Behavioral principles (e.g., reinforcement, generalization) form the basis of FAP. (See  below.)
+
+FAP is an idiographic (as opposed to nomothetic) approach to psychotherapy. This means that FAP therapists focus on the function of a client's behavior instead of the form. The aim is to change a broad class of behaviors that might look different on the surface but all serve the same function. It is idiographic in that the client and therapist work together to form a unique clinical formulation of the client's therapeutic goals, rather than one therapeutic target for every client who enters therapy.
+
+Basics
+
+FAP posits that client behaviors that occur in their out-of-session interpersonal relationships (i.e. in the "real world") will, if clients are given a therapeutic relationship of sufficiently high quality, occur in the therapy session as well. Based on these in-session behaviors, FAP therapists, in collaboration with their client, develop a case formulation that includes classes of behaviors (based on their function not their form) that the client wishes to increase and decrease.
+
+In-session occurrence of a client's problematic behavior is called clinically relevant behavior 1 (CRB1). In-session occurrence of improvements is called clinically relevant behavior 2 (CRB2). The goal of FAP therapy is to decrease the frequency of CRB1s and increase the frequency of CRB2s.
+
+The FAP therapist evokes (i.e. sets the context for) CRB1s and in response gradually shapes CRB2s.
+
+The five rules
+"The five rules" operationalize the FAP therapist's behavior with respect to this goal. It is important to note that the five rules are not rules in the traditional sense of the word, but instead a set of guidelines for the FAP therapist.
+
+Rule 1: Watch for CRBs – Therapists focus their attention on the occurrence of CRBs that are in-session problems (CRB1s) and improvements (CRB2s).
+Rule 2: Evoke CRBs – Therapists set a context which evoke the client's CRBs.
+Rule 3: Reinforce CRB2s naturally – Therapists reinforce the occurrence of CRB2s (in-session improvements), increasing the probability that these behaviors will occur more frequently.
+Rule 4: Observe therapist impact in relation to client CRBs – Therapists assess the degree to which they actually reinforced behavioral improvements by noting the client's behavior subsequent behavior after Rule 3. This is similar to the behavior analytic concept of performing a functional analysis.
+Rule 5: Provide functional interpretations and generalize – Therapists work with the client to generalize in-session behavioral improvements to the client's out-of-session relationships. This can include, but is not limited to, providing homework assignments.
+
+The ACL model
+Researchers at the Center for the Science of Social Connection at the University of Washington are developing a model of social connection that they believe is relevant to FAP. This model – called the ACL model – delineates behaviors relevant to social connection based on decades of scientific research.
+Awareness (A) behaviors include paying attention to your own and the other's needs and values within an interpersonal relationship.
+Courage (C) behaviors include experiencing emotion in the presence of another person, asking for what you need, and sharing deep, vulnerable experiences with another person in the service of improving the relationship.
+Love (L) behaviors involve responding to another's courage behaviors with attunement to what that person needs in the moment. These include providing safety and acceptance in response to a client's vulnerability.
+FAP has the potential to target awareness, courage, and love behaviors as they occur in session as described by the five rules above. More research is needed to confirm the utility of the ACL model.
+
+Research support
+Radical behaviorism and the field of clinical behavior analysis have strong scientific support. Additionally, researchers have conducted a number of case studies, component process analyses, a study with non-randomized design on FAP-enhanced cognitive therapy for depression, and a randomized controlled trial on FAP-enhanced acceptance and commitment therapy for smoking cessation.
+
+Third generation behavior therapy
+FAP belongs to a group of therapies referred to as third-generation behavior therapies (or third-wave behavior therapies) that includes dialectical behavior therapy (DBT), acceptance and commitment therapy (ACT), behavioral activation (BA), and integrative behavioral couples therapy (IBCT).
+
+Criticism
+
+FAP has been criticized for "being ahead of the data", i.e. having not enough empirical support to justify its widespread use. Challenges encountered by FAP researchers are widely discussed
+There is also criticism of using the ACL model as it detracts from the idiographic nature of FAP.
+
+Professional organizations
+Association for Contextual Behavioral Science (ACBS) – Founded in 2005 (incorporated in 2006), the Association for Contextual Behavioral Science (ACBS) is dedicated to the advancement of functional contextual cognitive and behavioral science and practice so as to alleviate human suffering and advance human well being.
+The Association for Behavior Analysis International (ABAI) has a special interest group for practitioner issues, behavioral counseling, and clinical behavior analysis. ABAI has larger special interest groups for behavioral medicine. ABAI serves as the core intellectual home for behavior analysts.
+The Association for Behavioral and Cognitive Therapies (ABCT) also has an interest group in behavior analysis, which focuses on clinical behavior analysis. In addition, the Association for Behavioral and Cognitive Therapies has a special interest group in addictions.
+Doctoral level behavior analysts who are psychologists belong to the American Psychological Association's Division 25 (behavior analysis). APA offers a diplomate in behavioral psychology.
+The World Association for Behavior Analysis offers a certification for clinical behavior analysis which covers functional analytic psychotherapy.
+
+References
+
+External links
+ Kohlenberg & Tsai's FAP website
+ Center for the Science of Social Connection
+
+Cognitive behavioral therapy
+Behaviorism

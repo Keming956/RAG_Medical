@@ -1,0 +1,74 @@
+In Abgrenzung zur einfachen Baumkontrolle ist die Baumdiagnose (auch Baumuntersuchung, Baumgutachten) die eingehende Untersuchung eines Baumes durch einen Sachverständigen auf mögliche Schäden, die die Bruch- oder Standsicherheit des Baumes beeinträchtigen können.
+Zentrales Thema der eingehenden Untersuchung ist es zu überprüfen, ob der vorliegende Baum mit seinen Schäden am konkreten Standort den dort herrschenden Bedingungen standhalten kann. Dafür wurden in Deutschland zwei unterschiedliche Verfahren entwickelt, die in starker Konkurrenz zueinander stehen. Beide Verfahren beginnen die Untersuchung mit einer optischen Inaugenscheinnahme des Baumes. Dabei werden Schadsymptome am Baum und Baumumfeld gesucht, die auf eine Beeinträchtigung der Stand- und Bruchsicherheit hindeuten. Der Hauptunterschied liegt in der Methodik, wie die Frage nach der Stand- und Bruchsicherheit beantwortet wird:
+
+1. Statisch integrierte Abschätzung kurz SIA
+Es wird die Windlast des Baumes berechnet und mit der Tragkraft des Stammes, des Astes oder der Wurzelplatte verglichen und somit die Stand- und Bruchsicherheit berechnet.
+
+2. Visual Tree Assessment, kurz VTA
+Über Bohrungen wird der Zustand des Holzes an der Untersuchungsstelle ermittelt und über Erfahrungssätze (Versagenskriterien) abgeschätzt, ob der Baum bruchgefährdet ist.
+
+Untersuchungsmethode 
+
+Werner Koch hatte sich die Visual Tree Assessment-Lehre (kurz VTA) zu eigen gemacht und somit wurde sie auch in seinem Sinn in seine Schrift „Aktualisierte Gehölzwerttabellen“ – Standardliteratur der Gehölzwertermittlung – mit aufgenommen. Die VTA-Methode ist eine weltweit verbreitete und rechtlich akzeptierte Methode zur Baumkontrolle. Sie interpretiert die Körpersprache der Bäume, hilft deren Warnsignale zu deuten, Defekte zu bestätigen und zu vermessen und dies alles mit Versagenskriterien zu bewerten. VTA hilft, nur scheinbar gefährliche Bäume von wirklich gefährlichen zu unterscheiden und somit sichere Bäume zu erhalten. Weiterhin eignet sie sich, bei Baumunfällen unbegründete Schadenersatzansprüche abzuwehren und begründete Schadenersatzansprüche durchzusetzen. VTA soll daher auch ein Beitrag zum Rechtsfrieden sein.
+
+Untersuchungsschritte 
+Die VTA-Methode erfolgt in Teilschritten:
+Grundlage der VTA-Methode ist das Axiom der konstanten Spannung. Das Axiom der konstanten Spannung erklärt als Regel von der gerechten Lastverteilung die Bildung von Defektsymptomen am Baum als Reparaturanbaute. In der VDI-Richtlinie 6224 von 2012, Verein Deutscher Ingenieure, "Bionische Optimierung" werden Optimierungsmethoden auf Basis des Axioms konstanter Spannung, empfohlen, Optimierungen nach den Regeln der Natur. Solche Richtlinien des VDI reifen in langen Beratungs- und Prüfungsverfahren.
+Die Schritte:
+ Symptomerkennung
+ Körpersprache der Bäume
+ Reparaturanbauten
+ Das Gesicht der Rinde
+ Kronenarchitektur und Belaubung
+ Pilzfruchtkörper und deren Körpersprache
+ Standortmerkmale
+ Defektbestätigung und Vermessung
+ Bohrtechniken (die weitgehend unschädlich sind – durch Langzeitstudien erwiesen – Holzfestigkeitsmessung mit Fractometer)
+ Jahresringanalyse
+ Defektbewertung
+ Versagenskriterien für hohle und faule Bäume
+ Versagenskriterien für Wurzelschäden (wichtig: siehe Baumunfall nach Zugversuch in Gießen am 3. April 2008)
+ Versagenskriterien für gesunde aber hohe Bäume (H/D-Verhältnis) OLG Hamm 2004
+
+Die Versagenskriterien wurden durch Feldstudien abgesichert und von höchster Stelle als wissenschaftlich korrekt bewertet.
+
+VTA ist Stand der Technik. Siehe auch Agrar- und Umweltrecht 6/2012, S. 208–210
+
+Die VTA basiert auf abgesicherten Forschungsergebnissen und ist von der Wissenschaft für die Praxis bestimmt. Die Methode wird weltweit in 57 Ländern der Erde angewendet. Die Europäische Normenkonferenz hat VTA als die effektivste Methode in ihrer DIN vorgeschrieben: Kletterwaldnorm DIN EN 15567 März 2008. VTA sei überzeugend logisch, praktisch und direkt der Natur entnommen.
+
+Anmerkungen 
+Es gibt noch weitere Methoden und Meinungen, die mit Werner Koch jedoch nicht in Einklang stehen. Aber natürlich auch angeführt werden können. So wurde noch Folgendes vermerkt.
+Reicht eine rein visuelle Baumdiagnose nicht aus, müssen Messgeräte zur Feststellung des Baumzustands eingesetzt werden. Verwendete man früher beispielsweise Endoskopie oder Bohrspanentnahme, sind diese verletzenden Methoden in den letzten Jahren zunehmend durch weniger invasive Geräte ersetzt worden (Bohrwiderstandsmessung, Schalltomographie (z. B. Arbotom, Arborsonic 3D oder PICUS Schalltomograph), im wissenschaftlichen Bereich auch Tomografie mit Strahlenquellen oder elektrischem Widerstand). Fachleute können so Informationen über die Stabilität des Baumes ableiten. Ein wichtiger Parameter ist die verbleibende Restwandstärke eines Baumstammes. Zahlreiche Bäume sind allerdings noch mit geringer Restwandstärke ausreichend bruchsicher. Ein weiteres Verfahren ist der Zugversuch, mit dem die Elastizität des Holzes und die Verankerungskraft des Baumes ermittelt und unter Einbeziehung des Windwiderstandes der Krone die Bruchsicherheit und die Standsicherheit des Baumes geschätzt werden.
+
+Baumuntersuchung im Rahmen der Verkehrssicherheit 
+Bäume stehen auch entlang von Straßen und in Parkanlagen. Überall dort, wo sie in verkehrsexponierten Bereichen stehen, muss ihre Verkehrssicherheit regelmäßig durch Inaugenscheinnahme ohne Geräte kontrolliert werden (Baumkontrolle).
+
+Allerdings reicht hier manchmal die visuelle Kontrolle des Baumes nicht aus. Verschiedene Messgeräte und Methoden ergänzen dann bei der Baumuntersuchung die Befunde der Baumkontrolle. Die Messungen sollen fallspezifisch und problembezogen erfolgen, so dass Informationen über das Schadensausmaß, die Restwandstärke, die Materialeigenschaften etc. des Baumes möglich werden. Die Mess- und Prüfgeräte erkennen und lokalisieren innere Schäden in Bäumen, die von außen oftmals nicht zu erkennen sind.
+
+Mess- und Prüfgeräte zur Defektvermessung 
+ IML-RESI. -in verschiedenen Serien -
+ Fractometer II
+ Elasto-Inclino-Methode
+ Schallgeschwindigkeitsmessung (Schalltomographie, Impulshammer, Arborsonic Decay Detector)
+ Bohrwiderstandsmessung (Resistograph, Teredo, Decay Detection Drill)
+ Elektrischer Widerstandstomograph (PICUS Treetronic)
+
+Literatur 
+ Tagungsordner des Seminars Messen und Beurteilen am Baum –VTA– jährliches Baumdiagnoseseminar im Forschungszentrum für Technik und Umwelt, Karlsruhe. – An der Spitze der internationalen Forschung -. Es werden neue Entwicklungen und Forschungsergebnisse für die Praxis vorgestellt.
+ Claus Mattheck: STUPSI erklärt den Baum, in 8 Sprachen übersetzt, Verlag Forschungszentrum Karlsruhe, 2010, ISBN 3-923704-20-8
+ Claus Mattheck Denkwerkzeuge nach der Natur, Verlag KIT Karlsruhe, 2010, ISBN 978-3-923704-73-6, übersetzt ins Englische
+ Claus Mattheck: Aktualisierte Feldanleitung für Baumkontrollen mit Visual Tree Assessment –VTA–, Verlag Forschungszentrum Karlsruhe, 2007, ISBN 978-3-923704-58-3, übersetzt ins Englische und Japanische
+ Claus Mattheck: Verborgene Gestaltgesetze der Natur, Verlag Forschungszentrum Karlsruhe, 2006, ISBN 978-3-923704-53-8, auch in Englisch
+ Claus Mattheck: Warum alles kaputt geht – Form und Versagen in Natur und Technik, Verlag Forschungszentrum Karlsruhe, 2003, ISBN 3-9237-0441-0, übersetzt ins Englische und Japanische
+ Claus Mattheck: Mechanik am Baum, Verlag Forschungszentrum Karlsruhe, 2002, ISBN 3-923704-39-9, übersetzt ins Englische, Italienische, Japanische.
+ K. Weber, C. Mattheck: Taschenbuch der Holzfäulen im Baum, Verlag Forschungszentrum Karlsruhe, 2001, ISBN 3-923704-28-3
+ D. Dujesiefken, P. Kockerbeck: Jahrbuch der Baumpflege, mehrere Bände, erscheint im Thalacker-Verlag
+ Claus Mattheck: Die Baumgestalt als Autobiographie. Einführung in die Mechanik der Bäume und ihre Körpersprache, 2. Auflage, Thalacker-Verlag, Braunschweig 1992, ISBN 3-87815-050-4
+ Claus Mattheck et al.: Die Körpersprache der Bäume – Enzyklopädie des Visual Tree Assessment Karlsruher Institut für Technologie (KIT) – Campus Nord, Karlsruhe 2014 ISBN 978-3-923704-86-6
+
+Weblinks 
+ Beschreibung der VTA-Methode
+ Beschreibung der Elasto-/Inclino-Methode
+
+Straßenverkehr
+Baumpflege

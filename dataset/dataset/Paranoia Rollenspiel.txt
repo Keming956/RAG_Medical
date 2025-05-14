@@ -1,0 +1,100 @@
+Paranoia ist ein englischsprachiges satirisches Pen-&-Paper-Rollenspiel, das in einer düsteren Science-Fiction-Umgebung spielt, die Anleihen von Werken wie Catch-22, 1984 und Brazil nimmt. Das Besondere an Paranoia ist, dass die Spieler zwar – wie es in Rollenspielen häufig üblich ist – im Team eine Aufgabe zu erledigen haben, dabei jedoch individuell oft widersprüchliche Ziele genannt bekommen, mit Saboteuren in den eigenen Reihen rechnen müssen und mit Bürokraten zu kämpfen haben, die allzu häufig unfreundlich und hinderlich sind. Das führt dazu, dass die Spieler-Charaktere oft sterben und durch Klone ersetzt werden.
+
+Das Spiel durchlief insgesamt vier Editionen in englischer Sprache. Die ersten beiden Editionen erschienen 1984 und 1989 bei West End Games. Die bei Fans verpönte „fünfte“ Edition erschien dort 1995. 2004 wurde Paranoia von Mongoose Publishing neu aufgelegt, zunächst unter dem Titel Paranoia XP, und orientierte sich vor allem an den beliebten und erfolgreichen ersten beiden Editionen, während es einige Neuerungen hinzufügte. 1989 erschien eine deutsche Übersetzung der zweiten Edition.
+
+Nachdem 2018 erfolgreich abgeschlossenen Crowdfunding (678 %) gibt es eine aktuelle Deutsche Ausgabe von Paranoia im Ulissesverlag.
+
+Hintergrundgeschichte 
+
+Nach einem Jahrhundert voll Glück und Frieden rast im Jahr 2097 ein Meteorit auf die Erde zu. Während ein riesiger, hochtechnisierter Bunker, der „Alpha-Komplex“, für Millionen Menschen errichtet wird, startet eine alte sowjetische Atomrakete mit Ziel auf den Meteorit, verfehlt diesen jedoch, und trifft schließlich San Francisco. Der dortige Computer des Alpha-Komplexes zieht mit Hilfe seiner alten Datenbanken folgende Schlüsse: Die Attacke ging von Kommunisten-Verrätern aus. Verräter sind überall. Verräter müssen ausgeschaltet werden.
+
+So entwickelt die Künstliche Intelligenz die namengebende Paranoia. Das weltumspannende Computernetz wird in einzelne Komplexe aufgelöst, jedes Computersystem misstraut fortan allen anderen und schwingt sich im eigenen Bereich zum Diktator auf. Weil nur Kommunisten einen solchen Atomschlag auslösen könnten, besteht ein wichtiges Ziel des Computers im Aufspüren und Terminieren von Kommunisten-Verrätern.
+
+Der Alpha-Komplex, eine futuristische unterirdische Stadt mit Zugang zur Oberfläche für Außenmissionen, in dem dieses Szenario spielt, steht stellvertretend für jede dieser isolierten Inseln.
+
+Troubleshooter 
+
+Jeder Spieler ist ein sogenannter Troubleshooter, der vom übermächtigen Computer zu dessen Sicherheit engagiert wurde. Grundsätzlich beginnt ein Troubleshooter als Mitglied der niedrigsten Sicherheitsstufe, Infrarot, das an den Nährbecken arbeiten oder andere niedere Tätigkeiten verrichten muss. Um auf den Level Rot aufsteigen zu können, muss man einen anderen Troubleshooter verraten haben, der entweder Mutant ist, Verräter, nicht glücklich, oder der einer verbotenen Geheimgesellschaft angehört. Tatsächlich besitzt jeder Troubleshooter eine Mutation und ist Mitglied einer Geheimgesellschaft.
+
+Dementsprechend misstraut jeder Troubleshooter jedem anderen Troubleshooter – und das zu Recht. Jeder Troubleshooter hat sechs Klone, so dass ein Spielercharakter bei den häufig vorkommenden Toden einer Figur mehrmals auf Ersatz zurückgreifen kann. So können während eines Einsatzes ohne Weiteres mehrere oder auch alle Klone einer Figur ums Leben kommen.
+
+Mutationen und Geheimgesellschaften 
+
+Durch eine Mutation hat ein Spieler Fähigkeiten, die ihm den anderen gegenüber Vorteile verschaffen. Allerdings läuft er bei der Anwendung dieser Fähigkeiten Gefahr, als Mutant enttarnt zu werden oder bei bestimmten Mutationen Katastrophen auszulösen.
+
+Eine Geheimgesellschaft ermöglicht es einem Troubleshooter, Vergünstigungen in Form von SIB (Steine im Brett) zu erwerben. Dazu muss er für die Geheimgesellschaften Aufgaben erfüllen. Allerdings ist es bei Erfüllung der Aufgabe egal, wer die Aufgabe erfüllt hat. Die SIB bekommt der Troubleshooter, dem die Aufgabe gestellt wurde.
+
+Teilweise sind die Geheimgesellschaften miteinander befreundet, teilweise sind sie sich spinnefeind. Ein paar der Geheimgesellschaften stehen sogar direkt unter der Kontrolle des Computers.
+
+Die Enttarnung einer Mutation oder der Mitgliedschaft in einer Geheimgesellschaft kann zur Terminierung des betreffenden Troubleshooter führen. Allerdings kann sich der Troubleshooter bei bestimmten Mutationen und der Mitgliedschaft in ausgewählten Geheimgesellschaften registrieren lassen. Trotzdem erhält der Troubleshooter bei Offenlegung seiner Mutation und/oder Mitgliedschaft Verräterpunkte.
+
+Servicegruppen 
+Jeder Charakter gehört einer Servicegruppe an. Dabei wurde er seinen Fähigkeiten entsprechend vom Computer der jeweilige Gruppe zugeordnet. In der Realität erfolgte dies zufällig und sorgt mitunter für Chaos bei unfähigen Mitarbeitern der Servicegruppen.
+In der aktuellen Fassung von Paranoia von 2019 haben sich die Bezeichnungen der Servicegruppen teilweise geändert. Die neue Bezeichnung stehen gegebenenfalls hinter dem Bindestrich.
+
+Interne Sicherheit (INT-SIC) – Innere Sicherheit (INN-SIC) Die Interne Sicherheit ist eine Mischung aus Polizei und Geheimdienst, vergleichbar mit der Gestapo oder der Stasi. Das bevorzugte Interesse der INT-SIC ist das Aufspüren von Verrätern. Oft tarnt sich ein Agent der INT-SIC als Mitglied einer anderen Servicegruppe, um unauffällig ermitteln zu können.
+Streitkräfte Die Streitkräfte sind für militärische Aufgaben zuständig, konkurrieren aber auch mit der INT-SIC, auf die sie mitleidig herunterblicken. Dafür sind sie aber auch nicht so versessen auf Verräter.
+Technischer Dienst (TD) – Technische Service (TS) Der Technische Dienst führt Wartungsarbeiten durch. Allerdings ist es häufig notwendig, die Mitarbeiter des TD durch Bestechung zur Erledigung ihrer Arbeit zu motivieren.
+Produktion, Logistik und Verpflegung (PLV) Die PLV ist für das Wohl und Ausrüstungsgegenstände der Troubleshooter zuständig. Allerdings gilt für die PLV das gleiche wie für den TD: Ohne Bestechung geht oft gar nichts.
+Forschung und Design (F&D)- Forschung & Entwicklung (F&E) Wenn man ganz exklusive Gegenstände wie Waffen, Fluggeräte o. ä. haben möchte, kann man sich von der F&D Experimentalgeräte zum Testen geben lassen. Allerdings funktionieren diese Geräte nur zu 50 %, und zu einem nicht geringen Anteil passiert das Gegenteil, oder es wird gar eine Katastrophe ausgelöst. Dabei bedient sich F&D bei alten Berichten aus vergangenen Zeiten, um die „ultimative“ Waffe zu erfinden, wie das „Bügeleisen“, welches früher durch Hitze zu Verbrennungen führte, und deshalb nun mit einem Nuklearreaktor nachgebaut wurde, um die Feinde des Alphakomplexes ebenfalls durch Hitze zu terminieren.
+Wohnraumverwaltung, Unterhaltung und Politische Erziehung (WU&PE) – Wohnraumerhaltung und -ausbau & Bewusstseinskontrolle (WEA&BK) WU&PE entspricht dem Beamtenapparat des Alpha-Komplexes. Hier werden die Dinge erledigt, für die Behörden zuständig sind. Dabei wird der Dienstweg peinlich genau eingehalten. Weiterhin ist WU&PE für die Medien verantwortlich und übt somit einen gewissen Einfluss auf die Massen an infraroten Arbeitern aus. Die anderen Servicegruppen haben für WU&PE allerdings nur Verachtung übrig.
+Energie und Transport (E&T) – Versorgungsservice (VS) E&T ist für die Wartung der Kraftwerke und der Transportsysteme des Alpha Komplexes zuständig.
+CPU – Zentrale Rechenei (ZRE) Mitglieder der Servicegruppe CPU werden ständig nach den neuesten Managementtheorien geschult. Sie werden in anderen Servicegruppen eingesetzt, wenn es dort Probleme gibt. Da die Theorien meist wenig mit der Praxis zu tun haben, wird durch ihren Einsatz im Allgemeinen alles nur noch schlimmer. CPU genießt das besondere Vertrauen des Computers, weswegen sich niemand offen gegen ihre Anordnungen auflehnen kann.
+
+Ablauf eines typischen „freiwilligen“ Einsatzes 
+
+Zunächst werden die Troubleshooter zu einer Lagebesprechung zitiert. Diese Anweisung erhalten sie von Klonen höherer Sicherheitsstufe (orange, zitro, …) oder sogar Mal einem Hohen Programmierer persönlich. Auch Nachricht des Computers persönlich, Durchsagen oder Datenträger. Widersetzung führt zur Terminierung. Bis alle Troubleshooter eingetroffen sind, sind in der Regel schon die ersten Klone wegen Todesfällen aktiviert worden.
+
+Die Troubleshooter erhalten bei der Lagebesprechung völlig widersprüchliche, schwachsinnige, unmögliche und wahnwitzige Anweisungen, denen unbedingt Folge zu leisten ist. Sie werden auch noch mit Standardausrüstung versorgt, etwa mit Gummiknüppel, Zahnpasta, leerer Limonadenflasche, Pullover ohne Armlöcher, und dringend angewiesen, diese unversehrt aus dem Einsatz zurückzubringen. Bis diese Ausrüstung verteilt ist, treten meistens schon die nächsten Klone auf den Plan.
+
+Weiter geht es zu F&D, einer Persiflage auf den „Q“ der James-Bond-Filme. Hier erhalten einige Troubleshooter „Spezialgegenstände“, die sie zu Testzwecken zur Verfügung gestellt bekommen – mit der dringenden Anweisung, sie unversehrt wieder zurückzubringen. Diese Spezialausrüstung hat häufig den Effekt, die Troubleshooter-Verluste möglichst hoch zu treiben. Typische Gegenstände sind etwa neu entwickelte Waffen-Systeme (zum Beispiel eine aus einer Panzerfaust schlagende Boxhand, die bei Benutzung mit hoher Wahrscheinlichkeit einen nuklearen GAU auslöst), experimentelle Pillen (deren Wirkung von der Aufhellung der Haut nach Orange bis zur Hervorrufung eitriger Geschwülste reichen kann – und so häufig Probleme mit den erlaubten Farben verursacht) oder Gegenstände, deren näherer Sinn sich den Charakteren (und den Spielern, sowie, nicht zuletzt, auch dem Spielleiter) völlig entzieht.
+
+Nach einem kurzen Intermezzo bei den Geheimgesellschaften startet dann die eigentliche Mission, meist begleitet durch einen Beauftragten von Int-Sic, der sicherstellen soll, dass auch alles nach Plan verläuft. Die Geheimgesellschaften der Troubleshooter können sich prinzipiell in jeder Phase des Spiels zu Wort melden und vergeben ihrerseits zweideutige Anweisungen, die mehr oder weniger mit der offiziellen Mission verknüpft sind, meist aber Sabotage verfeindeter Gesellschaften zum Gegenstand haben.
+
+Früher oder später endet die typische Mission in einem völligen Fiasko. Int-Sic ist enttäuscht, der Computer ist enttäuscht, F&D ist enttäuscht. Es folgt eine Endbesprechung mit dem Auftraggeber – die Anzahl der verbrauchten Klone sind zu diesem Zeitpunkt deutlich angewachsen – und die Troubleshooter erhalten Lob und Tadel. In den meisten Fällen eine Terminierung.
+
+Alternative Abläufe 
+Schon ab der ersten Fassung unterscheidet Paranoia zwischen drei Arten das Spiel zu spielen. Zunächst werden sie noch als Stufen bezeichnet mit Paranoia: Troubleshooter werden ganze Spielvarianten daraus.
+
+Schießwütig 
+Es läuft so ab wie oben geschildert.
+
+Spiel mit den Möglichkeiten 
+Man beginnt damit die Möglichkeiten die der Alpha Komplex bietet zu nutzen. Man beschafft sich also etwa Informationen über den Einsatz bei seiner Geheimgesellschaft oder Gebrauchsanleitungen zu F&D Gerät auf dem Infrarot- / Schwarzmarkt.
+Man terminiert nicht einfach so seine Mittroubleshooter, sondern man sammelt Beweise und klagt sie dann bei der Nachbesprechung an.
+
+Erfolgreiche Einsätze 
+Auch das kann es geben: eine Paranoia Mission, die tatsächlich einen Sinn hat und lösbar ist. Gerade wenn man als Spielleiter vom Hintergrund des Spiels begeistert ist, kann man fast schon klassisches Rollenspiel betreiben.
+Je nach Wunsch kann man sich die Elemente herauspicken die einem besonders gut gefallen bzw. die die Spieler besonders gut annehmen.
+
+Sonstiges
+
+Stufen und Klone 
+In Paranoia gibt es neun Spielerlevel, welche nach dem Farbspektrum geordnet sind. Beginnend bei Infrarot (Schwarz) über Rot, Orange, Zitro (wegen des gleichen Anfangsbuchstaben wie Grün eben nicht Gelb), Grün, Blau, Indigo, Violett bis Ultraviolett (Weiß). Infrarot wird nicht gespielt, da jeder Troubleshooter mit der Stufe Rot seine Karriere beginnt.
+
+Jeder Charakter hat zumindest sechs Klone, so dass ein Charakter bei „Unfällen“ mehrmals einen Ersatz hat. Aufgrund der hohen Verlustraten ist jedoch auch ein Spielstart mit einer größeren Anzahl Klone verbreitet.
+
+Besonders interessant wird Paranoia, wenn ein Troubleshooter nach mehreren Missionen ein oder zwei Level über den Mitspielern steht. So kann sich der Spielleiter einen kleinen „Computer“ heranzüchten: Niedere Farbstufen haben den höheren grundsätzlich Folge zu leisten. Gerade diese Regelung ist das Comic-ähnliche, ansonsten handelt es sich bei Paranoia um ein Rollenspiel für Leute, die alles andere schon gespielt haben oder eine Abwechslung im „Rollenspielalltag“ haben möchten.
+
+Der Spielleiter wird in Paranoia dazu angehalten, keine Regeln an die Spieler weiterzugeben – nur er soll sich mit dem Regelwerk vertraut machen. Dies verknüpft die Unwissenheit der Spieler mit der Unwissenheit ihrer Troubleshooter zu einem paranoiden Mix. Es herrscht eine Atmosphäre von ständiger Willkür – der Spielleiter verkörpert in erster Linie den wahnsinnigen Computer. So ist es Troubleshootern beispielsweise nur erlaubt, Gänge mit gleicher oder niederer Farbe als die eigene zu benutzen. Durch plötzliche Änderung von Lichtverhältnissen kann ein rot gestrichener Gang durchaus orange erscheinen – oder ein Service-Roboter wechselt eine rote Glühbirne gerade mit einer blauen aus; in jedem Fall ein zusätzliches Problem für die Spieler.
+
+Erfahrungspunkte und Levelaufstiege (Rot nach Orange usw.) gibt es nach keinem festen System. Die Spieler sollen möglichst „gut“ ihre Rolle spielen und sich der paranoiden Situation anpassen. Je verrückter und unglaubwürdiger die Aktionen sind, desto mehr sollte sie belohnt werden. Demnach sollte man grundsätzlich in Paranoia das machen, was in anderen Rollenspielen unmöglich ist. Sich in fünffachem Flic-Flac mit einer Hand auf den Feind zubewegen, gleichzeitig die unkontrollierbare Mutantenkraft unterdrücken und seine experimentelle Waffe abfeuern – derartiges Verhalten führt zwar unweigerlich zum Einsatz des nächsten Klons, könnte aber eine Beförderung nach sich ziehen.
+
+Namengebung 
+
+Der Name eines Troubleshooters setzt sich aus den Elementen Name-Sicherheitsstufe-Sektor-Klonnummer zusammen, also zum Beispiel PETER-O-QTR-3. Dieses Schema verführt zu Namen, die einen inneren Sinn haben, wie etwa PETE-R-PAN-4, HAM-B-URG-2 oder BERNDDAS-B-ROT-5.
+
+, lautet das Motto, angelehnt an Aldous Huxley (Schöne neue Welt), und weiter:
+
+Veröffentlichungen 
+Paranoia. Welt der Spiele, Frankfurt am Main 1989, ISBN 3-9801850-3-6 (Grundregelwerk).
+In einer schönen neuen Welt. Akute Paranoia – Neue (un)wichtige Regeln. Welt der Spiele, Frankfurt am Main 1993, ISBN 3-927903-92-2.
+Edward S. Bolme, Paul Murphy: Der Klon aus der Kälte. Ein satirischer Agententhriller. Welt der Spiele, Frankfurt am Main 1990, ISBN 3-9801850-7-9 (Abenteuer).
+John M. Ford: Black box blues. Ein satirischer Agententhriller für Paranoia. Welt der Spiele, Frankfurt am Main 1996, ISBN 3-9801850-8-7 (Abenteuer).
+
+Weblinks 
+Paranoia Systemübersicht auf drosi.de.
+
+Anmerkung 
+
+Pen-&-Paper-Rollenspiel

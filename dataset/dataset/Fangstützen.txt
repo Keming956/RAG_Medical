@@ -1,0 +1,11 @@
+Fangstützen, auch Fangklinken genannt, sind bewegliche Stahlriegel, die dazu dienen, einen Förderkorb oder ein Fördergefäß, bei dem das Förderseil nach einem Übertreiben gerissen ist, aufzufangen. Fangstützen werden im Förderturm oder bei Blindschächten im Blindschachtkopf eingebaut.
+
+Notwendigkeit und Funktion 
+Bei Schachtförderanlagen kann es bei Versagen der elektrischen Sicherheitsvorrichtungen passieren, dass das Fördermittel nicht angehalten wird und trotz Übertreibsicherung bis unter die Prellträger fährt. Dabei kann der Aufprall so stark sein, dass das Förderseil abreißt und das Fördermittel seillos wird. Damit das Fördermittel nicht in den Schacht stürzt, muss es über geeignete mechanische Sicherungen am Absturz gehindert werden. Hierzu dienen die Fangstützen. Diese beweglichen Bauteile sind so aufgebaut, dass sie dem hochgehenden Fördermittel ausweichen und danach wieder in ihre Ausgangslage zurückfallen. Fällt dann der Korb nach unten, wird er von den Fangstützen gehalten.
+
+Auslegung und Einbau 
+Die Berechnung der Fangstützen erfolgt gemäß der DIN 4118 Fördergerüste und Fördertürme für den Bergbau; Lastannahmen, Berechnungs- und Konstruktionsgrundlagen. Zusätzlich ist bei der Dimensionierung der Fangstützen die Anpassungsrichtlinie Stahlbau, Abschnitt 4.8 zu berücksichtigen. Damit die Fangstützen auch einwandfrei funktionieren, müssen sie bestimmte Konstruktionsmerkmale aufweisen. So muss sichergestellt sein, dass sie nach dem Durchfahren des Fördermittels in ihre Ausgangslage zurückfallen und beim Auffangen des Fördermittels nicht ausweichen können. Außerdem müssen sie so aufgebaut sein, dass sie sich nicht überschlagen können. Pro Fördermittel sind insgesamt vier Fangstützen erforderlich. Jeweils im Bereich der Stirnflächen des Fördermittels müssen zwei Fangstützen angebracht sein. Damit die Fangstützen das herabfallende Fördermittel fassen können, werden sie so im Förderturm eingebaut, dass sie zumindest den obersten Tragboden fassen können. Dabei darf die Fallhöhe, die das Fördermittel bis zu den Fangstützen zurücklegt, maximal 0,5 Meter betragen. Dort, wo es die Höhe des Förderturms erlaubt, werden die Fangstützen nach Möglichkeit so angebaut, dass sie im Fehlerfall unter den untersten Tragboden greifen. Für Förderanlagen mit Förderkübeln werden keine Fangstützen benötigt.
+
+Einzelnachweise 
+
+Schachtfördertechnik

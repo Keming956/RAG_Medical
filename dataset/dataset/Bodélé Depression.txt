@@ -1,0 +1,42 @@
+The Bodélé Depression (), located at the southern edge of the Sahara Desert in north central Africa, is the lowest point in Chad. It is 500 km long, 150 km wide and around 160 m deep. Its bottom lies about 155 meters above sea level. The dry endorheic basin is a major source of fertile dust essential for the Amazon rainforest.
+
+Dust storms from the Bodélé Depression occur on average about 100 days per year, one typical example being the massive dust storms that swept over West Africa and the Cape Verde Islands in February 2004. As the wind sweeps between the Tibesti and the Ennedi Mountains in Northern Chad, it is channeled across the depression. The dry bowl that forms the depression is marked by a series of ephemeral lakes, many of which were last filled during wetter periods of the Holocene.
+
+Diatoms from these fresh water lakes, once part of Mega-Lake Chad, now make up the surface of the depression and are the source material for the dust, which, carried across the Atlantic Ocean, is an important source of nutrient minerals for the Amazon rainforest.
+
+Drying up of Lake Chad
+As the Sahara dried out over the last few thousand years, Mega-Lake Chad receded to the current position of Lake Chad in the south-west corner of Chad. In the mid-1960s, Lake Chad was about the size of Lake Erie. But persistent drought conditions associated with the great Sahel drought, coupled with increased demand for fresh water for irrigation, have reduced Lake Chad to about 5 percent of its former size. As the waters receded, the silts and sediments resting on the lakebed were left to dry in the scorching sun. The small grains of the diatomite are swept up by the strong wind gusts that occasionally blow over the region. Once heaved aloft, the Bodélé dust can be carried for hundreds or even thousands of kilometers. In winter, the depression produces an average of 700,000 tonnes of dust each day (Todd et al., 2007).
+
+Research published in the 25 March 2004 edition of Geophysical Research Letters, which used images taken by the Moderate Resolution Imaging Spectroradiometer (MODIS), aboard NASA's Terra and Aqua satellites, indicated that storms move across the Bodélé Depression at about 47 km/h (29 mi/h)—two times faster than previously believed. The research also found that winds have to whip across the region at a minimum of 36 km/h (22 mi/h), to kick up a dust storm. The pattern of air flow is so common that the winds have scoured a straight path in the ground, marking its southwesterly flow.
+
+Complementary research published in Geophysical Research Letters by Richard Washington from the University of Oxford and Martin Todd (University of Sussex) has shown that these strong winds are part of feature now called the Bodélé Low Level Jet. In the reanalysis data sets such as ERA-40, the wind shows up as a clear wind speed maximum at about 900 hPa (or roughly 1 km above the surface) near 18 N and 19 E.  This jet maximum coincides with the exit gap of the North-easterlies between the Tibesti mountains and the Ennedi massif, which lie 2600 m and 1000 m above the flat terrain in the Djourab Desert of Chad, respectively. The effect of the Tibesti massif is clearly evident in creating a split in the low-level easterly flow north and south of these mountains. While the jet feature is pronounced over the Bodélé, it is absent from other longitudes over west Africa along 18 N. It is therefore a feature which uniquely overlies the greater Bodélé region, downwind of the mountains of Chad.
+
+The Bodélé Low Level Jet undergoes a marked seasonal cycle. It is active in the October–March period and relatively inactive from June–August. This timing closely matches the seasonality of dust emission from the Bodélé. Individual dust storms in the Bodélé were also shown in this research to coincide with a major strengthening of the Bodélé Low Level Jet which, in turn, is associated with the ridging of the Libyan High, a feature of the subtropical High Pressure belt.
+
+The same researchers who in 2004 more accurately determined the speed of wind through the depression also published in 2006 work showing that more than half of the dust needed for fertilizing the Amazon Rainforest is provided by the Bodélé depression, which deposits up to 50 million tonnes in South America per year. The research also shows that, contrary to what was previously thought, most of the Saharan dust that reaches the east coast of the United States originates from a single source—the Bodélé depression.
+
+Bodélé Dust Experiment
+In February 2005 the first field experiment, the Bodélé Dust Experiment or BoDEx 2005, was carried out in the Bodélé Depression. The experiment measured the surface winds and near surface winds, dust concentrations, and the influence of dust on the radiation budget in the Bodélé Depression for the first time. This work coincided with a major dust emission event during which the Bodélé Low Level Jet sustained surface wind speeds of around 16 m/s. The core of the Bodélé Low Level Jet was also mapped for the first time from the wind data, and was shown to undergo a very marked diurnal cycle with peak winds occurring mid morning. During night time, the Bodélé Low Level Jet flows over a near-surface inversion, but quickly mixes down to the surface a few hours after sunrise once the intense surface heating induces turbulence in the lowest layers.
+
+Dust from the Bodélé may be seen as a simple coincidence of two key requirements for deflation: strong surface winds and erodible sediment. But recent research has argued that long-term links exist between topography, wind, deflation and dust, and that topography acts as the controlling agent ensuring the long term maintenance of this source. The spatial co-location of strong winds and dust is not simply fortuitous, but results from a set of processes. Specifically:
+
+ Contemporary deflation from the Bodélé is delineated by topography, such that wind stress, the maximum in dust output and the topographic depression are colocated. 
+ The topography of the Tibesti and Ennedi Mountains plays a key role in the generation of the Bodélé Low Level Jet.
+ Enhanced deflation from a stronger Bodélé Low Level Jet during drier phases, such as the Last Glacial Maximum, was probably sufficient to create or enhance a shallow lake populated by diatoms during wetter phases, such as the Holocene pluvial.
+
+Wind conditions which deflate the erodible sediment now may have created the depression necessary for generating the erodible diatomite in the past. Instead of a simple coincidence of nature, the world's largest dust source results from a system of processes operating over paleo timescales.
+
+The largest town associated with the Bodélé dust source is Faya-Largeau (), located just to the northeast of the depression.
+
+References
+
+Scientific American Feb 2012  Swept from Africa to the Amazon
+
+External links
+ The Bodélé Dust Experiment BoDEx
+ The Bibliography of Aeolian Research
+ Bodélé Low Level Jet: Atmospheric Dynamics and Dust Emissions
+
+Landforms of Chad
+Depressions (geology)
+Landforms of Africa

@@ -1,0 +1,288 @@
+As a medication, insulin is any pharmaceutical preparation of the protein hormone insulin that is used to treat high blood glucose. Such conditions include type 1 diabetes, type 2 diabetes, gestational diabetes, and complications of diabetes such as diabetic ketoacidosis and hyperosmolar hyperglycemic states. Insulin is also used along with glucose to treat hyperkalemia (high blood potassium levels). Typically it is given by injection under the skin, but some forms may also be used by injection into a vein or muscle. There are various types of insulin, suitable for various time spans. The types are often all called insulin in the broad sense, although in a more precise sense, insulin is identical to the naturally occurring molecule whereas insulin analogues have slightly different molecules that allow for modified time of action.
+
+The common side effect is hypoglycemia (low blood sugar). Other side effects may include pain or skin changes at the sites of injection, hypokalemia (low blood potassium), and allergic reactions. Use during pregnancy is relatively safe for the baby. Insulin can be made from the pancreas of pigs or cows. Human versions can be made either by modifying pig versions or recombinant technology. It comes in three main types: short–acting (such as regular insulin), intermediate–acting (such as neutral protamine Hagedorn (NPH) insulin), and longer-acting (such as insulin glargine).
+
+Insulin was first used as a medication in Canada by Charles Best and Frederick Banting in 1922. It is on the World Health Organization's List of Essential Medicines. In 2019, regular human insulin was the 298th most commonly prescribed medication in the United States, with more than 1million prescriptions.
+
+Medical uses
+
+Insulin is used to treat a number of diseases including diabetes and its acute complications such as diabetic ketoacidosis and hyperosmolar hyperglycemic states. It is also used along with glucose to treat high blood potassium levels. Insulin was formerly used in a psychiatric treatment called insulin shock therapy.
+
+Side effects
+
+Allergy
+Allergy to insulin affected about 2% of people, of which most reactions are not due to the insulin itself but to preservatives added to insulin such as zinc, protamine, and meta-cresol. Most reactions are Type I hypersensitivity reactions and rarely cause anaphylaxis. A suspected allergy to insulin can be confirmed by  skin prick testing, patch testing and occasionally skin biopsy. First line therapy against insulin hypersensitivity reactions include symptomatic therapy with antihistamines. The affected persons are then switched to a preparation that does not contain the specific agent they are reacting to or undergo desensitization.
+
+Cutaneous adverse effects
+
+Repeated subcutaneous injection without site rotation can lead to lipohypertrophy and amyloidomas, which manifest as firm palpable nodules under the skin.
+
+Principles
+
+Insulin is an endogenous hormone, which is produced by the pancreas.
+The insulin protein has been highly conserved across evolutionary time, and is present in both mammals and invertebrates. The insulin/insulin-like growth factor signalling pathway (IIS) has been extensively studied in species including nematode worms (e.g.C. elegans), flies (Drosophila melanogaster) and mice (Mus musculus). Its mechanisms of action are highly similar across species.
+
+Both type 1 diabetes and type 2 diabetes are marked by a loss of pancreatic function, though to differing degrees. People who have either type of diabetes are at risk for low and high blood sugar, with potentially severe consequences. A lot of people require insulin therapy to manage their blood sugar levels and keep them within a target range.
+
+In 1916, Nicolae C. Paulescu (1869-1931) succeeded in developing an aqueous pancreatic extract that normalized a diabetic dog. In 1921, he published 4 papers in the Society of Biology in Paris centering on the successful effects of the pancreatic extract in diabetic dogs. Research on the Role of the Pancreas in Food Assimilation by Paulescu was published in August 1921 in the Archives Internationales de Physiologie, Liège, Belgium.
+Initially, the only way to obtain insulin for clinical use was to extract it from the pancreas of another creature.  Animal glands were obtainable as a waste product of the meatpacking industry. Insulin was derived primarily from cows (Eli Lilly and Company) and pigs (Nordisk Insulinlaboratorium). The making of eight ounces of purified insulin could require as much as two tons of pig parts.
+Insulin from these sources is effective in humans as it is highly similar to human insulin (three amino acid difference in bovine insulin, one amino acid difference in porcine). Initially, lower preparation purity  resulted in allergic reactions to the presence of non-insulin substances.  Purity has improved steadily since the 1920s ultimately reaching purity of 99% by the mid-1970s thanks to high-pressure liquid chromatography (HPLC) methods. Minor allergic reactions still occur occasionally, even to synthetic "human" insulin varieties.
+
+Beginning in 1982, biosynthetic "human" insulin has been manufactured for clinical use through genetic engineering techniques using recombinant DNA technology. Genentech developed the technique used to produce the first such insulin, Humulin, but did not commercially market the product themselves. Eli Lilly marketed Humulin in 1982. Humulin was the first medication produced using modern genetic engineering techniques in which actual human DNA is inserted into a host cell (E. coli in this case). The host cells are then allowed to grow and reproduce normally, and due to the inserted human DNA, they produce a synthetic version of human insulin. Manufacturers claim this reduces the presence of many impurities. However, the clinical preparations prepared from such insulins differ from endogenous human insulin in several important respects; an example is the absence of C-peptide which has in recent years been shown to have systemic effects itself.
+Novo Nordisk has also developed a genetically engineered insulin independently using a yeast process.
+
+According to a survey that the International Diabetes Federation conducted in 2002 on the access to and availability of insulin in its member countries, approximately 70% of the insulin that is currently sold in the world is recombinant, biosynthetic 'human' insulin.  A majority of insulin used clinically today is produced this way, although clinical experience has provided conflicting evidence on whether these insulins are any less likely to produce an allergic reaction.  Adverse reactions have been reported; these include loss of warning signs that sufferers may slip into a coma through hypoglycemia, convulsions, memory lapse and loss of concentration. However, the International Diabetes Federation's position statement from 2005 is very clear in stating that "there is NO overwhelming evidence to prefer one species of insulin over another" and "[modern, highly purified] animal insulins remain a perfectly acceptable alternative."
+
+Since January 2006, all insulins distributed in the U.S. and some other countries are synthetic "human" insulins or their analogues. A special FDA importation process is required to obtain bovine or porcine derived insulin for use in the U.S., although there may be some remaining stocks of porcine insulin made by Lilly in 2005 or earlier, and porcine lente insulin is also sold and marketed under the brand name Vetsulin(SM) in the U.S. for veterinary usage in the treatment of companion animals with diabetes.
+
+Basal insulin
+In type 1 diabetes, insulin production is extremely low, and as such the body requires exogenous insulin. Some people with type 2 diabetes, particularly those with very high hemoglobin A1c values, may also require a baseline rate of insulin, as their body is desensitized to the level of insulin being produced. Basal insulin regulates the body's blood glucose between mealtimes, as well as overnight. This basal rate of insulin action is generally achieved via the use of an intermediate-acting insulin (such as NPH) or a long-acting insulin analog. In type 1 diabetics, it may also be achieved via continuous infusion of rapid-acting insulin using an insulin pump. Approximately half of a person's daily insulin requirement is administered as a basal insulin, usually administered once per day at night.
+
+Prandial insulin
+When a person eats food containing carbohydrates and glucose, insulin helps regulate the body's metabolism of the food. Prandial insulin, also called mealtime or bolus insulin, is designed as a bolus dose of insulin prior to a meal to regulate the spike in blood glucose that occurs following a meal. The dose of prandial insulin may be static, or may be calculated by the patient using either their current blood sugar, planned carbohydrate intake, or both. This calculation may also be performed by an insulin pump in patients using a pump. Insulin regiments that consist of doses calculated in this manner are considered intensive insulin regimens. Prandial insulin is usually administered no more than 15–30 minutes prior to a meal using a rapid-acting insulin or a regular insulin. In some patients, a combination insulin may be used that contains both NPH (long acting) insulin and a rapid/regular insulin to provide both a basal insulin and prandial insulin.
+
+Challenges in treatment
+There are several challenges involved in the use of insulin as a clinical treatment for diabetes:
+ Mode of administration.
+ Selecting the 'right' dose and timing. The amount of carbohydrates one unit of insulin handles varies widely between persons and over the day but values between 7 and 20 grams per 1 IE is typical.
+ Selecting an appropriate insulin preparation (typically on 'speed of onset and duration of action' grounds).
+ Adjusting dosage and timing to fit food intake timing, amounts, and types.
+ Adjusting dosage and timing to fit exercise undertaken.
+ Adjusting dosage, type, and timing to fit other conditions, for instance the increased stress of illness.
+ Variability in absorption into the bloodstream via subcutaneous delivery
+ The dosage is non-physiological in that a subcutaneous bolus dose of insulin alone is administered instead of combination of insulin and C-peptide being released gradually and directly into the portal vein.
+ It is simply a nuisance for people to inject whenever they eat carbohydrate or have a high blood glucose reading.
+ It is dangerous in case of mistake (most especially 'too much' insulin).
+
+Types
+Medical preparations of insulin are never just insulin in water (with nothing else). Clinical insulins are mixtures of insulin plus other substances including preservatives. These prevent the protein from spoiling or denaturing too rapidly, delay absorption of the insulin, adjust the pH of the solution to reduce reactions at the injection site, and so on.
+
+Slight variations of the human insulin molecule are called insulin analogues, (technically "insulin receptor ligands") so named because they are not technically insulin, rather they are analogues which retain the hormone's glucose management functionality. They have absorption and activity characteristics not currently possible with subcutaneously injected insulin proper. They are either absorbed rapidly in an attempt to mimic real beta cell insulin (as with insulin lispro, insulin aspart, and insulin glulisine), or steadily absorbed after injection instead of having a 'peak' followed by a more or less rapid decline in insulin action (as with insulin detemir and insulin glargine), all while retaining insulin's glucose-lowering action in the human body. However, a number of meta-analyses, including those done by the Cochrane Collaboration in 2005, Germany's Institute for Quality and Cost Effectiveness in the Health Care Sector [IQWiG] released in 2007, and the Canadian Agency for Drugs and Technology in Health (CADTH) also released in 2007 have shown no unequivocal advantages in clinical use of insulin analogues over more conventional insulin types.
+
+Choosing insulin type and dosage/timing should be done by an experienced medical professional working closely with people who are diabetic .
+
+The commonly used types of insulin are as follows.
+
+Fast-acting
+
+Includes the insulin analogues aspart, lispro, and glulisine. These begin to work within 5 to 15 minutes and are active for 3 to 4 hours. Most insulins form hexamers, which delay entry into the blood in active form; these analog insulins do not but have normal insulin activity. Newer varieties are now pending regulatory approval in the U.S. which are designed to work rapidly, but retain the same genetic structure as regular human insulin.
+
+Short-acting
+Includes regular insulin, which begins working within 30 minutes and is active about 5 to 8 hours.
+
+Intermediate-acting
+
+Includes NPH insulin, which begins working in 1 to 3 hours and is active for 16 to 24 hours.
+
+Long-acting
+
+Includes the analogues glargine U100 and detemir, each of which begins working within 1 to 2 hours and continues to be active, without major peaks or dips, for about 24 hours, although this varies in many individuals.
+
+Ultra-long acting
+Includes the analogues insulin glargine U300 and degludec, which begin working within 30 to 90 minutes and continues to be active for greater than 24 hours.
+
+Combination insulin products
+Includes a combination of either fast-acting or short-acting insulin with a longer acting insulin, typically an NPH insulin.  The combination products begin to work with the shorter acting insulin (5–15 minutes for fast-acting, and 30 minutes for short acting), and remain active for 16 to 24 hours. There are several variations with different proportions of the mixed insulins (e.g. Novolog Mix 70/30 contains 70% aspart protamine [akin to NPH], and 30% aspart.)
+
+Methods of administration
+
+Unlike many medicines, insulin cannot be taken orally at the present time. Like nearly all other proteins introduced into the gastrointestinal tract, it is reduced to fragments (single amino acid components), whereupon all activity is lost. There has been some research into ways to protect insulin from the digestive tract, so that it can be administered in a pill. So far this is entirely experimental.
+
+Subcutaneous
+Insulin is usually taken as subcutaneous injections by single-use syringes with needles, an insulin pump, or by repeated-use insulin pens with needles.  People who wish to reduce repeated skin puncture of insulin injections often use an injection port in conjunction with syringes.
+
+The use of subcutaneous injections of insulin is designed to mimic the natural physiological cycle of insulin secretion, while taking into account the various properties of the formulations used such as half-life, onset of action, and duration of action. In many people, both a rapid- or short-acting insulin product as well as an intermediate- or long-acting product are used to decrease the amount of injections per day. In some, insulin injections may be combined with other injection therapy such as GLP-1 agonists. Cleansing of the injection site and injection technique are required to ensure effective insulin therapy.
+
+Insulin pump
+
+Insulin pumps are a reasonable solution for some. Advantages to the person are better control over background or basal insulin dosage, bolus doses calculated to fractions of a unit, and calculators in the pump that may help with determining bolus infusion dosages. The limitations are cost, the potential for hypoglycemic and hyperglycemic episodes, catheter problems, and no "closed loop" means of controlling insulin delivery based on current blood glucose levels.
+
+Insulin pumps may be like 'electrical injectors' attached to a temporarily implanted catheter or cannula. Some who cannot achieve adequate glucose control by conventional (or jet) injection are able to do so with the appropriate pump.
+
+Indwelling catheters pose the risk of infection and ulceration, and some peoples may also develop lipodystrophy due to the infusion sets. These risks can often be minimized by keeping infusion sites clean. Insulin pumps require care and effort to use correctly.
+
+Dosage and timing
+
+Dosage units
+
+One international unit of insulin (1 IU) is defined as the "biological equivalent" of 34.7 μg pure crystalline insulin.
+
+The first definition of a unit of insulin was the amount required to induce hypoglycemia in a rabbit. This was set by James Collip at the University of Toronto in 1922.  Of course, this was dependent on the size and diet of the rabbits.  The unit of insulin was set by the insulin committee at the University of Toronto.  The unit evolved eventually to 
+the old USP insulin unit, where one unit (U) of insulin was set equal to the amount of insulin required to reduce the concentration of blood glucose in a fasting rabbit to 45 mg/dl (2.5 mmol/L).  Once the chemical structure and mass of insulin was known, the unit of insulin was defined by the mass of pure crystalline insulin required to obtain the USP unit.
+
+The unit of measurement used in insulin therapy is not part of the International System of Units  (abbreviated SI) which is the modern form of the metric system. Instead the pharmacological international unit (IU) is defined by the WHO Expert Committee on Biological Standardization.
+
+Potential complications
+
+The central problem for those requiring external insulin is picking the right dose of insulin and the right timing.
+
+Physiological regulation of blood glucose, as in the non-diabetic, would be best. Increased blood glucose levels after a meal is a stimulus for prompt release of insulin from the pancreas. The increased insulin level causes glucose absorption and storage in cells, reduces glycogen to glucose conversion, reducing blood glucose levels, and so reducing insulin release. The result is that the blood glucose level rises somewhat after eating, and within an hour or so, returns to the normal 'fasting' level. Even the best diabetic treatment with synthetic human insulin or even insulin analogs, however administered, falls far short of normal glucose control in the non-diabetic.
+
+Complicating matters is that the composition of the food eaten (see glycemic index) affects intestinal absorption rates. Glucose from some foods is absorbed more (or less) rapidly than the same amount of glucose in other foods. In addition, fats and proteins cause delays in absorption of glucose from carbohydrates eaten at the same time. As well, exercise reduces the need for insulin even when all other factors remain the same, since working muscle has some ability to take up glucose without the help of insulin.
+
+Because of the complex and interacting factors, it is, in principle, impossible to know for certain how much insulin (and which type) is needed to 'cover' a particular meal to achieve a reasonable blood glucose level within an hour or two after eating. Non-diabetics' beta cells routinely and automatically manage this by continual glucose level monitoring and insulin release. All such decisions by a diabetic must be based on experience and training (i.e., at the direction of a physician, PA, or in some places a specialist diabetic educator) and, further, specifically based on the individual experience of the person. But it is not straightforward and should never be done by habit or routine. With some care however, it can be done reasonably well in clinical practice. For example, some people with diabetes require more insulin after drinking skim milk than they do after taking an equivalent amount of fat, protein, carbohydrate, and fluid in some other form. Their particular reaction to skimmed milk is different from other people with diabetes, but the same amount of whole milk is likely to cause a still different reaction even in that person. Whole milk contains considerable fat while skimmed milk has much less. It is a continual balancing act for all people with diabetes, especially for those taking insulin.
+
+People with insulin-dependent diabetes typically require some base level of insulin (basal insulin), as well as short-acting insulin to cover meals (bolus also known as mealtime or prandial insulin). Maintaining the basal rate and the bolus rate is a continuous balancing act that people with insulin-dependent diabetes must manage each day. This is normally achieved through regular blood tests, although continuous blood sugar testing equipment (Continuous Glucose Monitors or CGMs) are now becoming available which could help to refine this balancing act once widespread usage becomes common.
+
+Strategies
+A long-acting insulin is used to approximate the basal secretion of insulin by the pancreas, which varies in the course of the day. NPH/isophane, lente, ultralente, glargine, and detemir may be used for this purpose. The advantage of NPH is its low cost, the fact that you can mix it with short-acting forms of insulin, thereby minimizing the number of injections that must be administered, and that the activity of NPH will peak 4–6 hours after administration, allowing a bedtime dose to balance the tendency of glucose to rise with the dawn, along with a smaller morning dose to balance the lower afternoon basal need and possibly an afternoon dose to cover evening need.  A disadvantage of bedtime NPH is that if not taken late enough (near midnight) to place its peak shortly before dawn, it has the potential of causing hypoglycemia. One theoretical advantage of glargine and detemir is that they only need to be administered once a day, although in practice many people find that neither lasts a full 24 hours. They can be administered at any time during the day as well, provided that they are given at the same time every day. Another advantage of long-acting insulins is that the basal component of an insulin regimen (providing a minimum level of insulin throughout the day) can be decoupled from the prandial or bolus component (providing mealtime coverage via ultra-short-acting insulins), while regimens using NPH and regular insulin have the disadvantage that any dose adjustment affects both basal and prandial coverage. Glargine and detemir are significantly more expensive than NPH, lente and ultralente, and they cannot be mixed with other forms of insulin.
+
+A short-acting insulin is used to simulate the endogenous insulin surge produced in anticipation of eating. Regular insulin, lispro, aspart and glulisine can be used for this purpose. Regular insulin should be given with about a 30-minute lead-time prior to the meal to be maximally effective and to minimize the possibility of hypoglycemia. Lispro, aspart and glulisine are approved for dosage with the first bite of the meal, and may even be effective if given after completing the meal.  The short-acting insulin is also used to correct hyperglycemia.
+
+The usual schedule for checking fingerstick blood glucose and administering insulin is before all meals and sometimes also at bedtime. More recent guidelines also call for a check 2 hours after a meal to ensure the meal has been 'covered' effectively.
+
+Sliding scales
+First described in 1934, what physicians typically refer to as sliding-scale insulin (SSI) is fast- or rapid-acting insulin only, given subcutaneously, typically at meal times and sometimes bedtime, but only when blood glucose is above a threshold (e.g. 10 mmol/L, 180 mg/dL). 
+No basal insulin is given, usually resulting in an elevated blood glucose each morning, which is then chased throughout the day, with the cycle repeated the next day. 
+The so-called "sliding-scale" method is still widely taught, although it has been heavily criticized. 
+Sliding scale insulin (SSI) is not an effective way of managing long-term diabetes in individuals residing in nursing homes. Sliding scale insulin leads to greater discomfort and increased nursing time.
+
+Sample regimen using insulin glargine and insulin lispro:
+Insulin glargine: 20 units at bedtime
+
+Carb counting and DAFNE
+A more complicated method that allows greater freedom with meal times and snacks is "carb counting." This approach is taught to people who are diabetic in the UK and elsewhere as "Dose Adjustment For Normal Eating" or DAFNE.
+
+In Europe, people who are not familiar with the DAFNE regime can take an educational course where the basic starting insulin dose guideline is "for every 10g of carbohydrates you eat, take 1 unit of insulin". DAFNE courses also cover topics that naturally work alongside this regime, such as blood glucose monitoring, exercise and carbohydrate estimation to help the person work out their personal control requirements.
+
+People can also use their total daily dose (TDD) of insulin to estimate how many grams of carbohydrates will be "covered" by 1 unit of insulin, and using this result, estimate how many units of insulin should be administered depending on the carbohydrate content of their meal. For example, if the person determines that 1 unit of insulin will cover 15 grams of carbohydrates, then they must administer 5 units of insulin before consuming a meal that contains 75 grams of carbohydrates.
+
+Some alternative methods also consider the protein content of the meal (since excess dietary protein can be converted to glucose via gluconeogenesis).
+
+With DAFNE, most dosages involve a fair degree of guesswork, especially with non-labeled foods, and will only work fairly consistently from one dosage to the next if the person is aware of their body's requirements. For example, a person finds they can take 1 unit of insulin to 10g of carbohydrates in the morning and the evening, but find that their body requires more insulin for a meal in the middle of the day so they have to adjust to 1 unit per 8.5g of carbohydrates.
+
+Other less obvious factors that affect the body's use of insulin must also be taken into account. For example, some people may find that their bodies process insulin better on hot days so require less insulin. With this, the person again has to adjust their dose to the best of their understanding from their past experiences.
+
+The DAFNE regime requires the person to learn about their body's needs through experience, which takes time and patience, but it can then become effective.
+
+Closed-loop predictive modeling
+People with fluctuating insulin requirements may benefit from a closed-loop predictive modeling approach. As an extension on "carb counting", in this closed-loop predictive modeling approach, the four daily insulin dosages needed to reach the target blood sugar levels for the "normal" daily carbohydrate consumption and amount of physical activity, are continuously adjusted based on the pre-meal and pre-night blood sugar level readings. Each new blood sugar reading provides the feedback to fine-tune and track the body's insulin requirements. Within this strategy, the key specific factors, which have to be determined experimentally, are the blood sugar correction factor and the carbohydrate ratio. The blood sugar correction factor sets both the "proportional gain" and "integral gain" factors for the four feedback loops. When taken too low, deviations from the target blood sugar level are not corrected for effectively, when taken too high, the blood sugar regulation will become unstable. Since in this approach, the carbohydrate ratio is only used to account for non-standard carbohydrate intakes, it is usually not required to work with meal specific ratios.
+
+Proper modeling of the amount of insulin remaining to act in the person's body is essential in this strategy, for instance to ensure that any adjustment in the amount of basal insulin is accounted for when calculating the bolus amounts needed for the meals. Due to the need to account for each insulin's activity profile, analyze past blood sugar trends, and to factor in non-standard carbohydrate intakes and exercise levels, this strategy requires a dedicated smartphone application to handle all the calculations, and to return meaningful dosing recommendations and expected blood sugar levels.
+
+Dose calculation 
+
+Insulin dosage is given by the formula
+ 
+
+based on the person's blood glucose and carbohydrate intake and these constants:
+ TR = target rate
+ CF = corrective factor
+ KF = carbohydrate factor
+Blood glucose and target rate are expressed in mg/dL or mmol/L. Constants should be set by a physician or clinical pharmacist.
+
+Abuse
+The abuse of exogenous insulin carries with it an attendant risk of hypoglycemic coma and death when the amount used is in excess of that required to handle ingested carbohydrate. Acute risks include brain damage, paralysis, and death. Symptoms may include dizziness, weakness, trembling, palpitations, seizures, confusion, headache, drowsiness, coma, diaphoresis and nausea. All persons suffering from overdoses should be referred for medical assessment and treatment, which may last for hours or days.
+
+Data from the US National Poison Data System (2013) indicates that 
+89.3% of insulin cases reported to poison centers are unintentional, as a result of therapeutic error. Another 10% of cases are intentional, and may reflect attempted suicide, abuse, criminal intent, secondary gain or other unknown reasons. Hypoglycemia that has been induced by exogenous insulin can be chemically detected by examining the ratio of insulin to C-peptide in peripheral circulation. It has been suggested that this type of approach could be used to detect exogenous insulin abuse by athletes.
+
+The possibility of using insulin in an attempt to improve athletic performance was suggested as early as the 1998 Winter Olympics in Nagano, Japan, as reported by Peter Sönksen in the July 2001 issue of Journal of Endocrinology. The question of whether non-diabetic athletes could legally use insulin was raised by a Russian medical officer. Whether insulin would actually improve athletic performance is unclear, but concerns about its use led the International Olympic Committee to ban use of the hormone by non-diabetic athletes in 1998.
+
+The book Game of Shadows (2001), by reporters Mark Fainaru-Wada and Lance Williams, included allegations that baseball player Barry Bonds used insulin (as well as other drugs) in the apparent belief that it would increase the effectiveness of the growth hormone he was alleged to be taking.
+Bonds eventually testified in front of a federal grand jury as part of a government investigation of BALCO.
+
+Bodybuilders in particular are claimed to be using exogenous insulin and other drugs in the belief that they will increase muscle mass. Bodybuilders have been described as injecting up to 10 IU of regular synthetic insulin before eating sugary meals.
+A 2008 report suggested that insulin is sometimes used in combination with anabolic steroids and growth hormone (GH), and that "Athletes are exposing themselves to potential harm by self‐administering large doses of GH, IGF‐I and insulin".
+Insulin abuse has been mentioned as a possible factor in the deaths of bodybuilders Ghent Wakefield and Rich Piana.
+
+Insulin, human growth hormone (HGH) and insulin-like growth factor 1 (IGF-1) are self-administered by those looking to increase muscle mass beyond the scope offered by anabolic steroids alone. Their rationale is that since insulin and HGH act synergistically to promote growth, and since IGF-1 is a primary mediator of musculoskeletal growth, the 'stacking' of insulin, HGH and IGF-1 should offer a synergistic growth effect on skeletal muscle. This theory has been supported in recent years by top-level bodybuilders whose competition weight is in excess of  of muscle, larger than that of competitors in the past, and with even lower levels of body fat.
+
+Detection in biological fluids
+Insulin is often measured in serum, plasma or blood in order to monitor therapy in people who are diabetic, confirm a diagnosis of poisoning in hospitalized persons or assist in a medicolegal investigation of suspicious death. Interpretation of the resulting insulin concentrations is complex, given the numerous types of insulin available, various routes of administration, the presence of anti-insulin antibodies in insulin-dependent diabetics and the ex vivo instability of the drug. Other potential confounding factors include the wide-ranging cross-reactivity of commercial insulin immunoassays for the biosynthetic insulin analogs, the use of high-dose intravenous insulin as an antidote to antihypertensive drug overdosage and postmortem redistribution of insulin within the body. The use of a chromatographic technique for insulin assay may be preferable to immunoassay in some circumstances, to avoid the issue of cross-reactivity affecting the quantitative result and also to assist identifying the specific type of insulin in the specimen.
+
+Combination with other antidiabetic drugs
+A combination therapy of insulin and other antidiabetic drugs appears to be most beneficial in people who are diabetic, who still have residual insulin secretory capacity. A combination of insulin therapy and sulfonylurea is more effective than insulin alone in treating people with type 2 diabetes after secondary failure to oral drugs, leading to better glucose profiles and/or decreased insulin needs.
+
+History
+This is a chronology of key milestones in the history of the medical use of insulin.  For more details on the discovery, extraction, purification, clinical use, and synthesis of insulin, see Insulin
+
+ 1921 Research on the role of pancreas in the nutritive assimilation
+ 1922 Frederick Banting, Charles Best and James Collip use bovine insulin extract in humans at Connaught Laboratories in Toronto, Canada.
+ 1922 Leonard Thompson becomes the first human to be treated with insulin.
+1922 James D. Havens, son of former congressman James S. Havens, becomes the first American to be treated with insulin.
+ 1922 Elizabeth Hughes Gossett, daughter of the U.S. Secretary of State, becomes the first American to be (officially) treated in Toronto.
+ 1923 Eli Lilly produces commercial quantities of much purer bovine insulin than Banting et al. had used
+ 1923 Farbwerke Hoechst, one of the forerunners of today's Sanofi Aventis, produces commercial quantities of bovine insulin in Germany
+ 1923 Hans Christian Hagedorn founds the Nordisk Insulinlaboratorium in Denmark – forerunner of today's Novo Nordisk
+1923 Constance Collier returns to health after being successfully treated with insulin in Strasbourg
+ 1926 Nordisk receives a Danish charter to produce insulin as a non-profit
+ 1936 Canadians David M. Scott and Albert M. Fisher formulate a zinc insulin mixture at Connaught Laboratories in Toronto and license it to Novo
+ 1936 Hagedorn discovers that adding protamine to insulin prolongs the duration of action of insulin
+ 1946 Nordisk formulates Isophane porcine insulin aka Neutral Protamine Hagedorn or NPH insulin
+ 1946 Nordisk crystallizes a protamine and insulin mixture
+ 1950 Nordisk markets NPH insulin
+ 1953 Novo formulates Lente porcine and bovine insulins by adding zinc for longer lasting insulin
+ 1955 Frederick Sanger determines the amino acid sequence of insulin
+ 1965 Synthesized by total synthesis by Wang Yinglai, Chen-Lu Tsou, et al.
+ 1969 Dorothy Crowfoot Hodgkin solves the crystal structure of insulin by X-ray crystallography
+ 1973 Purified monocomponent (MC) insulin is introduced
+ 1973 The U.S. officially "standardized" insulin sold for human use in the U.S. to U-100 (100 units per milliliter).  Prior to that, insulin was sold in different strengths, including U-80 (80 units per milliliter) and U-40 formulations (40 units per milliliter), so the effort to "standardize" the potency aimed to reduce dosage errors and ease doctors' job of prescribing insulin for people.  Other countries also followed suit.
+ 1978 Genentech produces biosynthetic human insulin in Escherichia coli bacteria using recombinant DNA techniques, licenses to Eli Lilly
+ 1981 Novo Nordisk chemically and enzymatically converts porcine to human insulin
+ 1982 Genentech synthetic human insulin (above) approved
+ 1983 Eli Lilly and Company produces biosynthetic human insulin with recombinant DNA technology, Humulin
+ 1985 Axel Ullrich sequences a human cell membrane insulin receptor.
+ 1988 Novo Nordisk produces recombinant biosynthetic human insulin
+ 1996 Lilly Humalog "lispro" insulin analogue approved.
+ 2000 Sanofi Aventis Lantus insulin "glargine" analogue approved for clinical use in the US and Europe.
+ 2004 Sanofi Aventis Apidra insulin "glulisine" insulin analogue approved for clinical use in the US.
+ 2006 Novo Nordisk Levemir "detemir" insulin analogue approved for clinical use in the US.
+
+Society and culture
+
+Economics 
+
+In the United States the unit price of insulin has increased steadily from 1991 to 2019. It rose threefold from 2002 to 2013. Costs can be as high as US$900 per month. Concerns were raised in 2016 of pharmaceutical companies working together to increase prices. In January 2019, lawmakers from the United States House of Representatives sent letters to insulin manufacturers Eli Lilly and Co., Sanofi and Novo Nordisk asking for explanations for their rapidly raising insulin prices. The annual cost of insulin for people with type 1 diabetes in the U.S. almost doubled from $2,900 to $5,700 over the period from 2012 to 2016.
+
+People in the U.S. pay two to six times more than the rest of the world, including Canada, for brand name prescription medicine, according to the International Federation of Health Plans. Canada, like many other industrialized countries, has price controls on the cost of pharmaceuticals.
+
+Legal status 
+On 24 February 2022, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal product Inpremzia, intended for the treatment of diabetes mellitus. The applicant for this medicinal product is Baxter Holding B.V.
+
+Research
+
+Inhalation
+
+In 2006 the U.S. Food and Drug Administration approved the use of Exubera, the first inhalable insulin. It was withdrawn from the market by its maker as of third quarter 2007, due to lack of acceptance.
+
+Inhaled insulin claimed to have similar efficacy to injected insulin, both in terms of controlling glucose levels and blood half-life. Currently, inhaled insulin is short acting and is typically taken before meals; an injection of long-acting insulin at night is often still required. When people were switched from injected to inhaled insulin, no significant difference was observed in HbA1c levels over three months. Accurate dosing was a particular problem, although people showed no significant weight gain or pulmonary function decline over the length of the trial, when compared to the baseline.
+
+Following its commercial launch in 2005 in the United Kingdom, it was not (as of July 2006) recommended by National Institute for Health and Clinical Excellence for routine use, except in cases where there is "proven injection phobia diagnosed by a psychiatrist or psychologist".
+
+In January 2008, the world's largest insulin manufacturer, Novo Nordisk, also announced that the company was discontinuing all further development of the company's own version of inhalable insulin, known as the AERx iDMS inhaled insulin system.  Similarly, Eli Lilly and Company ended its efforts to develop its inhaled Air Insulin in March 2008.  However, MannKind Corp. (majority owner, Alfred E. Mann) remains optimistic about the concept.
+
+Transdermal
+There are several methods for transdermal delivery of insulin. Pulsatile insulin uses microjets to pulse insulin into the person, mimicking the physiological secretions of insulin by the pancreas. Jet injection had different insulin delivery peaks and durations as compared to needle injection. Some diabetics may prefer jet injectors to hypodermic injection.
+
+Both electricity using iontophoresis and ultrasound have been found to make the skin temporarily porous. The insulin administration aspect remains experimental, but the blood glucose test aspect of "wrist appliances" is commercially available.
+
+Researchers have produced a watch-like device that tests for blood glucose levels through the skin and administers corrective doses of insulin through pores in the skin.  A similar device, but relying on skin-penetrating "microneedles", was in the animal testing stage in 2015.
+
+Intranasal
+Intranasal insulin is being investigated. A randomized controlled trial that will determine whether intranasal insulin can delay or prevent the onset of type 1 diabetes in at-risk children and young adults is expected to yield results in 2016.
+
+By mouth
+The basic appeal of hypoglycemic agents by mouth is that most people would prefer a pill or an oral liquid to an injection. However, insulin is a peptide hormone, which is digested in the stomach and gut and in order to be effective at controlling blood sugar, cannot be taken orally in its current form.
+
+The potential market for an oral form of insulin is assumed to be enormous, thus many laboratories have attempted to devise ways of moving enough intact insulin from the gut to the portal vein to have a measurable effect on blood sugar.
+
+A number of derivatization and formulation strategies are currently being pursued to in an attempt to develop an orally available insulin. Many of these approaches employ nanoparticle delivery systems and several are being tested in clinical trials.
+
+Pancreatic transplantation
+
+Another improvement would be a transplantation of the pancreas or beta cell to avoid periodic insulin administration. This would result in a self-regulating insulin source. Transplantation of an entire pancreas (as an individual organ) is difficult and relatively uncommon. It is often performed in conjunction with liver or kidney transplant, although it can be done by itself. It is also possible to do a transplantation of only the pancreatic beta cells. However, islet transplants had been highly experimental for many years, but some researchers in Alberta, Canada, have developed techniques with a high initial success rate (about 90% in one group). Nearly half of those who got an islet cell transplant were insulin-free one year after the operation; by the end of the second year that number drops to about one in seven.  However, researchers at the University of Illinois at Chicago (UIC) have slightly modified the Edmonton Protocol procedure for islet cell transplantation and achieved insulin independence in diabetic people, with fewer but better-functioning pancreatic islet cells.  Longer-term studies are needed to validate whether it improves the rate of insulin-independence.
+
+Beta cell transplant may become practical in the near future. Additionally, some researchers have explored the possibility of transplanting genetically engineered non-beta cells to secrete insulin. Clinically testable results are far from realization at this time. Several other non-transplant methods of automatic insulin delivery are being developed in research labs, but none is close to clinical approval.
+
+References
+
+External links
+ 
+ 
+ 
+
+Insulin therapies
+Eli Lilly and Company brands
+Wikipedia medicine articles ready to translate
+World Health Organization essential medicines

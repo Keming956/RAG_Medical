@@ -1,0 +1,62 @@
+Langstrecken-Ultraschalluntersuchung mit geführten Wellen (englisch: long range ultrasonic testing (LRUT) bzw. guided wave testing (GWT)) ist eine Methode der zerstörungsfreien Werkstoffprüfung (ZfP).
+
+Verfahrensbeschreibung 
+Das Verfahren verwendet Ultraschallwellen, die sich entlang eines langgestreckten Bauteils ausbreiten, wobei sie an dessen Oberflächen reflektiert werden und damit im Bauteil geführt werden. Dadurch können die Wellen mit geringem Energieverlust eine lange Strecke zurücklegen. Das Verfahren wird zunehmend für die Inspektion und Prüfung von Pipelines und Rohrleitungen sowie anderer technischer Strukturen wie Eisenbahnschienen, Masten und Metallplatten eingesetzt. Bis zu zweimal 180 m Rohrlänge können von einer einzigen Zugangsstelle aus untersucht werden, sowohl 180 m in die eine als auch 180 m in die andere Richtung.
+
+Das Verfahren unterscheidet sich wesentlich von der konventionellen Ultraschallprüfung. Die bei der Inspektion verwendete Frequenz hängt von der Dicke des Bauteils ab, jedoch werden bei geführten Wellen normalerweise langwellige Ultraschallfrequenzen im Bereich von 20 kHz bis zu 100 kHz verwendet, während bei konventionellen Ultraschalluntersuchungen normalerweise Megahertz eingesetzt werden. In manchen Fällen werden auch höhere Frequenzen verwendet, der Erfassungsbereich wird dann jedoch erheblich reduziert. Darüber hinaus ist die zugrunde liegende Physik geführter Wellen komplexer als volumetrische Wellenausbreitung.
+
+Pipeline-Untersuchung 
+
+Im Gegensatz zu herkömmlichen Ultraschalluntersuchungen gibt es für eine Rohrgeometrie eine unendliche Anzahl von geführten Wellenmoden, die in drei Familien gruppiert werden können, nämlich Torsions-, Längs- und Biegemodus. Die akustischen Eigenschaften dieser Wellenmoden hängen von der Rohrgeometrie, dem Material und der Frequenz ab. Um diese Eigenschaften der Wellenmoden vorherzusagen, ist häufig eine aufwendige mathematische Modellierung erforderlich, die typischerweise in grafischen Darstellungen (Dispersionskurven) dargestellt wird.
+
+Bei der Langstrecken-Untersuchung von Pipelines wird eine Anordnung von Niederfrequenzwandlern um den Umfang der Leitung herum angebracht, um eine axialsymmetrische Welle zu erzeugen, die sich entlang der Leitung sowohl in Vorwärts- als auch in Rückwärtsrichtung der Wandleranordnung ausbreitet. Der Torsionswellenmodus wird am häufigsten verwendet, und der Längsmodus selten eingesetzt. Das Gerät arbeitet in einer Impuls-Echo-Konfiguration, bei der das Wandlerarray sowohl zur Anregung als auch zur Erfassung der Signale verwendet wird.
+
+An der Stelle, an der sich der Querschnitt oder die lokale Steifigkeit der Rohrleitung ändert, wird ein Echo erzeugt. Basierend auf der Ankunftszeit der Echos und der vorhergesagten Geschwindigkeit des Wellenmodus bei einer bestimmten Frequenz kann der Abstand des Merkmals in Relation zur Position der Wandleranordnung genau berechnet werden. Die Langstrecken-Ultraschalluntersuchung nutzt ein System von Entfernungsamplitudenkurven, um die Dämpfung und die Amplitudenabfälle zu korrigieren, und kann so die in einem bestimmten Abstand vorliegende Querschnittsänderung aufgrund der Ultraschallwellenreflexion abschätzen. Die Entfernungsamplitudenkurven werden normalerweise mit einer Reihe von Echos mit bekannter Signalamplitude wie Schweißnahtechos kalibriert.
+
+Das Verfahren zeigt Metallverluste von 9 % oder mehr der Wandstärke, die durch Erosion, Korrosion oder betriebsbedingte Beschädigungen verursacht werden. Sobald die Entfernungsamplitudenkurvenpegel eingestellt sind, korreliert die Signalamplitude gut mit dem Querschnittsänderung eines Defekts. Die verbleibende Wandstärke wird von der Untersuchungseinheit nicht direkt gemessen, aber es ist möglich, die Schwere der Fehler in mehrere Kategorien zu gruppieren. Eine Methode, dies zu tun, besteht darin, das Modenkonvertierungsphänomen des Erregungssignals auszunutzen, bei dem etwas Energie des axialsymmetrischen Wellenmodus an einem Rohrmerkmal in die Biegemoden umgewandelt wird. Die Menge der Modusumwandlung liefert eine genaue Abschätzung der Umfangslänge des Defekts, und zusammen mit der Querschnittsänderung könnten die Bediener die Schweregradkategorie festlegen.
+
+Ein typisches Ergebnis einer Langstrecken-Ultraschalluntersuchung mit geführten Wellen wird in einem A-Scan mit der Reflexionsamplitude gegen den Abstand von der Position des Transducer-Arrays angezeigt. In den letzten Jahren haben einige fortschrittliche Systeme begonnen, C-Scans zu liefern, bei denen die Ausrichtung jedes Merkmals leicht interpretiert werden kann. Dies hat sich als äußerst nützlich bei der Prüfung von großen Rohrleitungen erwiesen.
+
+Fokussierung der geführten Wellen 
+Die aktive Fokussierkapazität kann nicht nur vom C-Scan übernommen werden, sondern auch durch Langstrecken-Ultraschalluntersuchung mit geführten Wellen unter Verwendung von Biegewellenmoden. Dies bietet zwei Hauptvorteile. Erstens kann das Signal-zu-Rausch-Verhältnis (SNR) eines Defektechos verbessert werden, zweitens kann es als zusätzliches Hilfsmittel verwendet werden, um bei der Unterscheidung zwischen 'echten' und 'falschen' Anzeigen zu helfen. Mit dieser Technik sind jedoch Nachteile verbunden. Erstens muss der Ort des Fehlers bekannt sein, bevor die Fokussierung angewendet werden kann. Zweitens kann der für die aktive Fokussierungstechnik erforderliche separate Datensatz auch die Zeit- und Kosteneffizienz der Langstrecken-Ultraschalluntersuchung mit geführten Wellen erheblich reduzieren.
+
+Biegewellenmoden haben eine sinusförmige Variation in ihrem Verschiebungsmuster um den Umfang in ganzzahligen Werten im Bereich von 1 bis unendlich. Aktive Fokussierung beinhaltet die Übertragung mehrerer Biegewellenmoden mit angewendeten Zeit- und Amplitudenkorrekturen derart, dass ein Umfangsknoten aus jedem Wellenmode zur gleichen Zeit an derselben Zielposition an derselben Zielposition und mit derselben Phase ankommt verursacht konstruktive Störungen. An anderen Umfangspositionen werden die Umfangsknoten der Biegewellenmoden zueinander phasenversetzt ankommen und destruktiv interferieren. Durch Anpassen der Erregungsbedingungen kann dieser Brennpunkt um den Rohrumfang gedreht werden.
+
+Die Fokussiertechnik kann auch verwendet werden, um die Unterscheidung zwischen 'echten' und falschen' Anzeigen zu unterstützen, wobei eine 'falsche' Anzeige ein empfangenes Signal ist, das nicht direkt der Position eines Fehlers entspricht, z. B. durch Nachhall oder unvollständige Aufhebung unerwünschter Wellenmoden. Wenn im A-Scan eine 'falsche' Anzeige vorhanden ist, wird sie auch im C-Scan wiedergegeben, da bei der Datenverarbeitung die gleichen Originaldaten verwendet werden. Da die aktive Fokussierung eine separate Datenerfassung umfasst, führt die Fokussierung an der Position einer 'falschen' Anzeige zu einem negativen Ergebnis, während die Fokussierung auf eine 'wahre' Anzeige zu einem positiven Ergebnis führt. Daher kann die aktive Fokussierungstechnik dazu beitragen, die Neigung zu 'falschen' Anzeige zu überwinden.
+
+Eigenschaften
+
+Vorteile 
+ Schnelles Screening auf Degradation während des Betriebs (Langstreckeninspektion)
+ Potenzial für hunderte von Metern Inspektionsreichweite
+ Erkennung von internen oder externen Metallverlusten durch Korrosion, Erosion oder mechanische Beschädigung
+ Reduzierung der Zugangskosten bei isolierten Leitungen mit minimaler Entfernung der Isolation
+ Untersuchung auf Korrosionsschäden unter Stützen und Trägern ohne Anheben des Rohres sowie an Überführungen mit minimalem Gerüstbedarf
+ Inspektion von Rohre unter der Erde, z. B. an Straßenkreuzungen, sowie unter Wasser, z. B. von Bohrinsel-Steigleitungen und Ölverladeeinrichtungen
+ Daten werden vollständig aufgezeichnet und in vollautomatischen Datenerfassungsprotokollen gespeichert
+
+Nachteile 
+ Die Interpretation der Daten ist stark vom Prüfpersonal abhängig
+ Es ist schwierig, kleine Lochfehler zu finden
+ Nicht sehr effektiv bei der Untersuchung von Bereichen in der Nähe von Abzweigungen oder Zubehör
+ Die Entwicklung von anwendungsspezifischen Anpassungen des Prüfverfahrens ist aufwendig
+ Aufwändige Gerätetechnik und Schulung des Prüfpersonals
+
+Geschichte 
+Die Untersuchung mit geführten Wellen, die sich in einer Struktur ausbreiten, kann bis in die 1920er Jahre zurückverfolgt werden, hauptsächlich inspiriert von der Seismologie. Seitdem wird zunehmend auch die Ausbreitung geführter Wellen in zylindrischen Strukturen analytisch untersucht.
+
+Erst seit den frühen 1990er Jahren wird die Langstrecken-Ultraschalluntersuchung mit geführten Wellen als praktikable Methode für die zerstörungsfreie Prüfung von technischen Bauteilen untersucht. Sie wurde seitdem vor allem am The Welding Institute in Großbritannien zu einem industriell einsetzbaren Untersuchungsverfahren für Pipelines und Rohrleitungen weiterentwickelt. Inzwischen wird sie weltweit zur Überwachung der Strukturintegrität in der Öl-, Gas- und chemischen Industrie eingesetzt.
+
+Normen 
+British Standards (BSI)
+ BS 9690-1:2011, Non-destructive testing. Guided wave testing. General guidance and principles
+ BS 9690-2:2011, Non-destructive testing. Guided wave testing. Basic requirements for guided wave testing of pipes, pipelines and structural tubulars
+
+ASTM International (ASTM)
+ E2775 – 16, Standard Practice for Guided Wave Testing of Above Ground Steel Pipework Using Piezoelectric Effect Transduction
+ E2929 – 13, Standard Practice for Guided Wave Testing of Above Ground Steel Piping with Magnetostrictive Transduction
+
+Einzelnachweise 
+
+Werkstoffprüfung
+Ultraschall

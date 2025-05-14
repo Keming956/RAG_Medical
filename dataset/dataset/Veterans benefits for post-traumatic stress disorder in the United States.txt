@@ -1,0 +1,148 @@
+The United States has compensated military veterans for service-related injuries since the Revolutionary War, with the current indemnity model established near the end of World War I. The Department of Veterans Affairs (VA) began to provide disability benefits for post-traumatic stress disorder (PTSD) in the 1980s after the diagnosis became part of official psychiatric nosology.
+
+Post-traumatic stress disorder (PTSD) is a serious, potentially debilitating psychiatric disorder that can develop after experiencing one or more terrifying or horrific events. It is characterized by (1) re-experiencing the trauma(s) in the form of vivid intrusive memories, dissociative flashback episodes, or nightmares; (2) avoidance of trauma-related thoughts and memories; and (3) frequently feeling under threat manifested as, for example, hypervigilance and intense startle reactions.
+
+Some research suggests that VA disability benefits achieve their goal of helping veterans suffering from PTSD. The Veterans Benefits Administration (VBA), a component of the Department of Veterans Affairs, processes disability claims and administers all aspects of the VA disability program. Since 1988 VA disability claim decisions have been subject to federal court review.
+
+Disability ratings theoretically represent a veteran's "average impairment in earnings capacity", on a scale from 0 to 100. Veterans who file a disability claim due to PTSD almost always receive a compensation and pension examination (C&P exam) by VA-employed or VA-contracted psychologists or psychiatrists. Social scientists and others have expressed concern about the consistency and accuracy of PTSD C&P exam findings, although the VA generally rejects such concerns as unfounded or exaggerated.
+
+Recent efforts to change VA disability benefits for PTSD include urging the VA to place more emphasis on vocational rehabilitation and treatment versus cash payments; revising the General Rating Formula for Mental Disorders to better reflect problems experienced by veterans with PTSD; and considering a veteran's quality of life when determining the disability rating.
+
+Post-traumatic stress disorder 
+
+Post-traumatic stress disorder (PTSD) may develop following exposure to an extremely threatening or horrific event. It is characterized by several of the following signs or symptoms: unwanted re-experiencing of the traumatic event—such as vivid, intense, and emotion-laden intrusive memories—dissociative flashback episodes, or nightmares; active avoidance of thoughts, memories, or reminders of the event; hyperarousal symptoms such as always being on guard for danger, enhanced (exaggerated) startle response, insomnia, trouble concentrating, or chronic irritability; anhedonia, social detachment, excessively negative thoughts about oneself or the world, marked guilt or shame, or a persistent depressed or anxious mood. PTSD is the third-most compensated disability after hearing loss and tinnitus.
+
+Traumatic stressor 
+Matthew J. Friedman of the National Center for PTSD notes that PTSD is unique among mental health problems because of the great importance placed upon the cause, the traumatic stressor.
+
+A traumatic stressor is an event that meets Criterion A of the DSM-5 diagnostic criteria for PTSD, which requires, in part, that an individual "... was exposed to death, threatened death, actual or threatened serious injury, or actual or threatened sexual violence ...."
+
+Veterans filing a disability claim for PTSD complete a form describing the traumatic stressors they endured during their military service. VA has separate forms for PTSD generally and PTSD "secondary to personal assault".
+
+Diagnosis
+Prior to 2014, VA C&P examiners determined if a veteran had PTSD based on DSM-IV diagnostic criteria for the disorder. VA updated most of its relevant regulations in August 2014 to reflect the publication of DSM-5.
+
+VA disability benefits for PTSD 
+The United States provides a range of benefits for veterans with post-traumatic stress disorder (PTSD), which was incurred in, or aggravated by, their military service. The United States Department of Veterans Affairs (VA) provides benefits to veterans whom the VA has determined have PTSD that developed during, or as a result of, their military service. These benefits not only include tax-free cash payments but can also include free or low-cost mental health treatment and other healthcare, vocational rehabilitation services, employment assistance, independent living support, and more.
+
+History
+ 
+Since the founding of the country, the United States has compensated the men and women who have served in its armed forces and uniformed services generally. Near the end of World War I, the U.S. Congress passed legislation establishing an indemnity model for veterans' disability benefits. Since that year, compensation has been provided to veterans suffering from physical or mental disabilities that were incurred during, or aggravated by, military service, and which have adversely impacted their ability to work. The amount of compensation provided—both cash payments and VA-sponsored services—is based on the veteran's "average impairment in earnings capacity".
+
+Service-connection 
+Service-connected means that a veteran has a disease or injury that is connected to his or her military service; that is, the disease or injury was incurred in, or aggravated by, their military service.
+
+Effectiveness 
+Whether disability benefits adequately compensate veterans with PTSD for loss in average earning capacity has been debated.  A 2007 study found that older veterans (age 65 and up) rated at 50% disabled or higher for PTSD, including individual unemployability (IU) benefits, receive more in compensation (plus any earned income and retirement benefits such as Social Security or pensions) than non-disabled veterans earn in the workforce or receive in Social Security and other retirement benefits. However, younger veterans (age 55 and below) generally receive less in compensation benefits (plus any earned income) than their non-disabled counterparts earn via employment. For example, the "parity ratio" for a 25-year-old veteran rated 100% disabled by PTSD is 0.75, and for a 35-year-old veteran rated 100% disabled by PTSD the ratio is 0.69. The parity ratio for a 75-year-old veteran receiving IU benefits is 6.81.
+
+Research based on data collected in the 1990s indicates that veterans receiving disability benefits for PTSD experience a reduction in PTSD symptom severity and have lower rates of poverty and homelessness. A 2017 study found that "denied" veterans (those who applied for—but did not receive—disability compensation) exhibit significantly worse overall health, functional limitations, poverty, and social isolation, when compared to veterans who were awarded VA disability benefits.
+
+In addition to lost income, a Congressionally mandated commission, argued that the VA disability benefits program should compensate veterans for non-economic losses, such as a decline in the veteran's quality of life. The U.S. Government Accountability Office (GAO) analyzed this recommendation and suggested that it be considered as one of three major changes to modernize the VA disability benefits program.
+
+Some scholars argue that the VA disability benefits program is counter-therapeutic because it provides no incentives to overcome symptoms and problems caused by the disorder, and, in fact rewards veterans for staying sick. In a similar vein, a military scholar suggests that current VA disability benefits policy inculcates in veterans a lack of self-efficacy and fosters dependency. However, some VA researchers take issue with this assertion.
+
+Claims process
+
+Eligibility 
+In order to be eligible for VA benefits, a veteran must have been discharged under "other than dishonorable conditions". Stated differently, if a veteran received a "Bad Conduct" discharge or a "Dishonorable" discharge they will, under most circumstances, not be eligible for VA benefits.
+
+Types of military service 
+
+Federal regulations describe three categories of military service, "active duty", "active duty for training", and "inactive duty training". Eligibility for VA disability compensation requires that the veteran's service falls under one of these three categories. The definition of "active duty" military service includes "service at any time as a cadet at the United States Military, Air Force, or Coast Guard Academy, or as a midshipman at the United States Naval Academy".
+
+In line of duty and exceptions 
+There are exceptions to the general rule that injuries or diseases incurred in, or aggravated by, military service are eligible for VA disability compensation benefits. For example, such injuries or diseases must meet the "in line of duty" criteria. "In line of duty" means an injury or disease incurred or aggravated during a period of active military, naval, or air service unless such injury or disease was the result of the veteran's own willful misconduct or ..."was a result of his or her abuse of alcohol or drugs".
+
+Evidence 
+In order for a veteran to receive disability benefits for PTSD, the Veterans Benefits Administration (VBA), an organizational element of the VA, based on their review of medical and psychological evidence, must conclude that the veteran indeed has PTSD that developed as a result of military service. Reaching such a determination usually requires that the veteran receive a Compensation and Pension examination (C&P exam), which is a forensic mental health evaluation conducted by a psychologist or psychiatrist at a local VA medical facility or by a psychologist or psychiatrist in independent practice who conducts evaluations for a VA-contracted private vendor.
+
+Benefits claim procedures 
+VA provides a detailed description of the benefits claims process on its website. Briefly, a Veterans Service Representative (VSR), a VBA employee, reviews the information submitted by a veteran to determine if the VBA needs any additional evidence (e.g., medical records) to adjudicate the claim.
+
+VA has a legal obligation to help veterans obtain any evidence that will support their claim.  For example, the VSR might request a veteran's military personnel records, Social Security disability records, or private medical records. The VSR will almost always request a Compensation and Pension examination (C&P exam), also referred to as a "VA claim exam".
+
+After the VBA obtains all relevant documentation (evidence), the "rating activity" renders a decision regarding the veteran's claim. The VBA's M21-1 Adjudication Procedures Manual defines the "rating activity" as "... a group of specially qualified employees vested with the authority to make formal decisions, called 'rating decisions,' and take other actions on claims that require a rating decision".
+
+Obtaining assistance 
+Veterans may receive assistance with filing a VA disability compensation claim from a Veterans Service Officer. As the VA states, "[veterans] ... can work with a trained professional ... to get help filing a claim for disability compensation". VA publishes an annual directory of accredited veterans' service organizations and state departments of veterans affairs. These organizations and state agencies employ veterans service officers who provide assistance to veterans without charge. Some veterans' advocates recommend that veterans learn how to file claims on their own so that they retain full control over the process.
+
+Federal court review
+If a claimant questions the decision made by the VBA, they can ask for the case to reviewed by the Board of Veterans Appeals. That decision can be reviewed by the Court of Appeals for Veterans Claims, an Article I federal tribunal, which was established by The Veterans Judicial Review Act of 1988.
+
+Post-adjudication representation
+
+Veterans may appeal the VBA's decision regarding their compensation claim, and they may ask to be represented by an accredited Veterans Service Officer, attorney, or claims agent in the appeals process. The VA does not require a veteran to be represented on appeal.
+
+VA prohibits attorneys or claims agents from charging a veteran for professional services prior to the adjudication of the veteran's claim.
+
+Unless they agree to work on a pro bono basis, attorneys and claims agents who represent veterans before the Veterans Benefits Administration, Board of Veterans Appeals, and Court of Appeals for Veterans Claims require payment for their services. At the federal court level, most attorneys work for Equal Access to Justice Act fees.  These are attorney fees ordered by the court to be paid by the federal government when the government's position in litigation was not substantially justified.
+
+Disability rating
+
+General rating formula for mental disorders
+
+If the VBA determines that a veteran has service-connected PTSD, then they assign a disability rating, expressed as a percentage. This disability rating determines the amount of compensation and other disability benefits the VA provides the veteran. The disability rating indicates the extent to which PTSD has deprived the veteran of their average earnings capacity.
+
+The VA assigns disability ratings based on criteria set forth in the Code of Federal Regulations, Title 38, Part 4—Schedule for Rating Disabilities, often referred to as the "VA Schedule for Rating Disabilities" or VASRD. The rating schedule for mental disorders is called the "General Rating Formula for Mental Disorders" (38 C.F.R. § 4.130), which specifies criteria for disability ratings of 0%, 10%, 30%, 50%, 70%, or 100%.
+
+Some argue that by relying on the current Rating Formula, "VA uses decades-old regulations developed for mental disorders that do not resemble PTSD", and consequently, "[i]rrelevant criteria ... may outweigh ... more relevant factors, leading VA to undercompensate veterans with valid diagnoses of PTSD." Similarly, veterans service organizations have argued, for example, that a "... veteran service connected for schizophrenia and another veteran service connected for another psychiatric disorder should not be evaluated using the same general formula" and have supported efforts to revise the Rating Formula.
+
+Concern has been expressed by some RSVRs (VBA "raters" who adjudicate claims) that automated software discourages their use of independent judgment to evaluate the claim as a whole, a charge senior VA officials reject.
+
+In 2012 the General Accountability Office reported that "VA's modifications of the medical information in the disability criteria have been slow and have not fully incorporated advances in technology and medicine. Moreover, the rating schedule has not been adjusted since its creation in 1945 to reflect ongoing changes in the labor market."
+
+On February 15, 2022 the Department of Veterans Affairs (VA) proposed to substantially change their disability rating schedule regarding mental disorders, including revising the General Rating Formula for Mental Disorders. This "proposed rule", part of the executive branch's rulemaking process, will not become law until after VA reviews public comments, makes revisions, and publishes a "final rule".
+
+Claims for an increased disability rating
+A veteran currently receiving compensation for service-connected PTSD may file a claim for an increase in his or her disability rating if PTSD symptom severity and related functional impairment has worsened.
+
+Individual unemployability
+Under certain conditions, veterans receiving service-connected disability compensation for PTSD may file a claim for individual unemployability. If the VBA concludes that PTSD, either alone or in combination with other service-connected disabilities, would make it "... impossible for the average person to follow a substantially gainful occupation...", the veteran will receive disability compensation at the 100% rate, even though their schedular rating is less than 100%.
+
+PTSD C&P exam 
+As noted above, the VBA almost always requires a compensation and pension examination (C&P exam), also known as a "VA claim exam", for veterans claiming service-connected PTSD. There are two types of PTSD C&P exams: Initial and Review. The Initial PTSD exam must be conducted by a VA psychologist or psychiatrist certified by the VHA Office of Disability and Medical Assessment (DMA) to evaluate veterans for this purpose.
+
+The definition of "VA psychologist or psychiatrist" includes psychologists and psychiatrists in the private sector who conduct C&P exams for a Medical Disability Evaluation (MDE) company under contract with the VBA. The companies with current VBA contracts are Logistics Health, Inc. (LHI); Veterans Evaluation Services (VES); Vet Fed; and QTC (QTC in turn contracts with Magellan Health to manage their network of providers).
+
+The Review PTSD exam may be completed by VA or non-VA psychologists and psychiatrists. Clinical or counseling psychology interns, psychiatric residents, licensed clinical social workers, nurse practitioners, physician assistants, and clinical nurse specialists may also conduct review PTSD exams, although they must be "closely supervised" by a psychologist or psychiatrist.
+
+Presumption of competence 
+In most federal legal proceedings a psychologist or psychiatrist must demonstrate that they are competent to testify as an expert witness by satisfying standards specified in the Federal Rules of Evidence, particularly Rule 702, "Testimony by Expert Witnesses" (FRE 702). However, VA medical examiners are presumed competent to provide expert witness testimony without having to meet FRE 702 standards.
+
+Concerns about reliability 
+Researchers, current and former VA psychologists, investigative journalists, and individual veterans have expressed concerns about the inter-rater reliability and validity of C&P exams for PTSD. For example:
+ Some current or former VA psychologists assert that VA medical centers do not allocate enough time for C&P psychologists and psychiatrists to conduct a thorough, evidence-based assessment, with less time presumably reducing the reliability and validity of the results.
+ Research has demonstrated marked regional variance with regard to the proportion of veteran claimants who receive VA disability compensation for PTSD.
+ A survey of C&P examiners (psychologists) revealed that 85% "never" or "rarely" used the Clinician-Administered PTSD Scale (CAPS), for PTSD compensation and pension exams, even though a VA Best Practice Manual recommends its use during C&P exams, and research has shown that using the CAPS improves PTSD C&P exam reliability and validity.
+
+ An empirical study published in 2017 suggested C&P examiner racial bias might have led to an increased rate of false negative conclusions (regarding PTSD diagnosis and service connection) for Black veterans, and a high rate of false positive conclusions for White veterans. This finding corresponds with past research, subsequent research, and legal scholarship discussing the potential for implicit racial biases on the part of mental health clinicians in general, and C&P psychologists and psychiatrists in particular.
+ Some VA facilities prohibit examiners from using symptom validity tests to screen or assess for malingering and other forms of dissimulation.
+ Several researchers have published empirical studies in peer-reviewed scholarly journals pointing to significant rates of both false positive and false negative PTSD C&P exam conclusions.  
+ Social scientists conducted independent PTSD assessments of veterans who had filed disability benefits claims for PTSD, some of whom had been awarded service-connected compensation for PTSD and some had not. The study found significant rates of both false positive and false negative VBA adjudicative decisions. Although VBA adjudicators rely on other sources of evidence, in addition to C&P exam results, VBA almost always requests a C&P exam for PTSD claims, and C&P exam results significantly influence VBA determinations.
+ Individual combat veterans, newspaper articles and editorials, assert that a sizable percentage of veterans filing PTSD disability claims exaggerate or feign PTSD symptoms.
+
+Disability Benefits Questionnaire 
+Mental health professionals document the results of Initial and Review PTSD C&P exams on a Disability Benefits Questionnaire (DBQ). VA developed Disability Benefit Questionnaires (DBQs) to streamline the VBA ratings process and thereby complete the claims process faster. In addition, veterans may ask their treating clinicians to complete a DBQ and possibly bypass the need for a C&P exam. However, it is important to note that the VA discourages their mental health clinicians from completing DBQs for their patients.
+
+Some authors have expressed concern that the DBQ symptom list (for example, Section VII on the Review PTSD DBQ) contains a series of signs, symptoms, and descriptions of functional impairment without any guidance regarding when these items should be endorsed.
+
+The Veterans Benefits Administration (VBA) discontinued publicly available DBQs in April 2020, explaining that the lengthy approval process for publicly available government forms often meant DBQs contained outdated information. In addition, VBA indicated that in recent years "... a growing industry of individuals and companies marketing the service of completing DBQs for Veterans ... [were] engaged in questionable, even fraudulent, practices ...."  VBA's decision to remove publicly available DBQs came in the wake of a VA Office of Inspector General report that recommended the action. However, the U.S. Congress negated VA's decision, passing a law in December 2020 requiring the agency to post the DBQs on the VA website.
+
+Notes
+
+References
+
+External links
+ Department of Veterans Affairs' website
+ National Center for PTSD, Department of Veterans Affairs
+
+Aftermath of war
+Disability in the United States
+Mental health in the United States
+Military life
+Military medicine in the United States
+Military psychology
+Veterans' affairs in the United States
+Post-traumatic stress disorder
+United States Department of Veterans Affairs
+United States military pay and benefits

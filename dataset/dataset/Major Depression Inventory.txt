@@ -1,0 +1,26 @@
+The Major Depression Inventory (MDI) is a self-report mood questionnaire developed by the World Health Organization. The instrument was constructed by a team led by Professor Per Bech, a psychiatrist based at Frederiksborg General Hospital in Denmark. The MDI differs from many other self-report inventories, such as the Beck Depression Inventory (BDI), because it is able to generate an ICD-10 or DSM-IV diagnosis of clinical depression in addition to an estimate of symptom severity.
+
+Unlike many other similar instruments, the MDI is available free of charge and can be downloaded from the internet with a full manual and scoring instructions. This makes it an attractive option in epidemiological population surveys. It has also been translated into seven languages.
+
+
+
+Scoring
+To measure treatment outcome the sum of the ten items is used. A higher score signifies deeper depression.
+
+When using the scale to diagnose depression according to ICD-10, there are the following possibilities:
+ Mild depression: A score of 4 or 5 in two of the first three items. Plus a score of at least 3 on two or three of the last seven items.
+ Moderate depression: A score of 4 or 5 in two or three of the first three items. Plus a score of at least 3 on four of the last seven items.
+ Severe depression: A score of 4 or 5 in all of the first three items. Plus a score of at least 3 on five or more of the last seven items.
+ Major depression: The number of items is reduced to nine, as Item 4 is part of Item 5. Include whichever of the two items has the highest score (item 4 or 5). A score on at least five items is required, to be scored as follows: the score on the first three items must be at least 4, and on the other items at least 3. Either Item 1 or 2 must have a score of 4 or 5.
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+Fawzi, M.H., Fawzi, M.M., Abu-Hindi, W., (2012). Arabic version of the Major Depression Inventory as a diagnostic tool: reliability and concurrent and discriminant validity. East. Mediterr. Health J.;18(4):304-10.
+
+External links
+ Online version of the Major Depression Inventory
+ World Health Organization's Collaborating Centre in Mental Health
+
+Rating scales for depression

@@ -1,0 +1,13 @@
+Le diagnostic foliaire est une méthode d'analyse utilisée en agriculture ou en recherche agronomique afin d'évaluer l'état nutritionnel des plantes cultivées.
+
+Il consiste à mesurer la teneur des feuilles en un nutriment minéral donné et à mettre cette concentration en relation avec les conditions du milieu ou les pratiques agricoles.
+
+Elle permet par exemple de déterminer la carence ou la surcharge d'une plante pour un nutriment donné par comparaison à des valeurs de référence, ce qui permet de raisonner la fertilisation. Utilisée en recherche, elle permet de déterminer les valeurs de référence, notamment la teneur foliaire en nutriment à partir de laquelle le rendement n'augmente plus (valeur appelée « seuil critique »).
+
+C'est une méthode complémentaire de l'analyse de sol, la teneur en nutriments du sol n'étant pas toujours un indicateur de leur disponibilité pour la plante, notamment pour les éléments peu mobiles comme le phosphore et le potassium.
+
+La pratique du diagnostic foliaire a été développée dans les années 1920 par Lagatu et Maune à l'École nationale supérieure agronomique de Montpellier sur la vigne et la pomme de terre.
+
+Références 
+
+Agronomie

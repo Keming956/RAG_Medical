@@ -1,0 +1,89 @@
+Developmental disorders comprise a group of psychiatric conditions originating in childhood that involve serious impairment in different areas. There are several ways of using this term. The most narrow concept is used in the category "Specific Disorders of Psychological Development" in the ICD-10. These disorders comprise developmental language disorder, learning disorders, motor disorders, and autism spectrum disorders. In broader definitions ADHD is included, and the term used is neurodevelopmental disorders. Yet others include antisocial behavior and schizophrenia that begins in childhood and continues through life. However, these two latter conditions are not as stable as the other developmental disorders, and there is not the same evidence of a shared genetic liability.
+
+Developmental disorders are present from early life. Most improve as the child grows older, but some entail impairments that continue throughout life. There is a strong genetic component; more males are afflicted than females.
+
+Emergence
+Learning disabilities are diagnosed when the children are young and just beginning school. Most learning disabilities are found under the age of 9.
+
+Young children with communication disorders may not speak at all, or may have a limited vocabulary for their age. Some children with communication disorders have difficulty understanding simple directions or are unable to name objects. Most children with communication disorders are able to speak by the time they enter school, however, they continue to have problems with communication. School-aged children often have problems understanding and formulating words. Teens may have more difficulty with understanding or expressing abstract ideas.
+
+Causes 
+The scientific study of the causes of developmental disorders involves many different theories. Some of the major differences between these theories involves whether or not environment disrupts normal development, if abnormalities are pre-determined, or if they are products of human evolutionary history which become disorders in modern environments (see evolutionary psychiatry).
+Normal development occurs with a combination of contributions from both the environment and genetics. The theories vary in the part each factor has to play in normal development, thus affecting how the abnormalities are caused.
+
+One theory that supports environmental causes of developmental disorders involves stress in early childhood. Researcher and child psychiatrist Bruce D. Perry, M.D., Ph.D, theorizes that developmental disorders can be caused by early childhood traumatization. In his works he compares developmental disorders in traumatized children to adults with post-traumatic stress disorder, linking extreme environmental stress to the cause of developmental difficulties. Other stress theories suggest that even small stresses can accumulate to result in emotional, behavioral, or social disorders in children.
+
+A 2017 study tested all 20,000 genes in about 4,300 families with children with rare developmental difficulties in the UK and Ireland in order to identify if these difficulties had a genetic cause. They found 14 new developmental disorders caused by spontaneous genetic mutations not found in either parent (such as a fault in the CDK13 gene). They estimated that about one in 300 children are born with spontaneous genetic mutations associated with rare developmental disorders.
+
+Types
+
+Autism spectrum disorder (ASD)
+
+Diagnosis
+The first diagnosed case of ASD was published in 1943 by American psychiatrist Leo Kanner.  There is a wide range of cases and severity to ASD so it is very hard to detect the first signs of ASD. A diagnosis of ASD can be made accurately before the child is 3 years old, but the diagnosis of ASD is not commonly confirmed until the child is somewhat older. The age of diagnosis can range from 9 months to 14 years, and the mean age is 4 years old in the USA. On average each case of ASD is tested at three different diagnostic centers before confirmed. Early diagnosis of the disorder can diminish familial stress, speed up referral to special educational programs and influence family planning. The occurrence of ASD in one child can increase the risk of the next child having ASD by 50 to 100 times.
+
+Abnormalities in the brain
+The cause of ASD is still uncertain. What is known is that a child with ASD has a pervasive problem with how the brain is wired. Genes related to neurotransmitter receptors (serotonin and gamma-aminobutyric acid [GABA]) and CNS structural control (HOX genes) are found to be potential target genes that get affected in ASD. Autism spectrum disorder is a disorder of the many parts of the brain. Structural changes are observed in the cortex, which controls higher functions, sensation, muscle movements, and memory. Structural defects are seen in the cerebellum too, which affect the motor and communication skills. Sometimes the left lobe of the brain is affected and this causes neuropsychological symptoms. The distribution of white matter, the nerve fibers that link diverse parts of the brain, is abnormal. The corpus callosum, the band of nerve fibers, that connects the left and right hemispheres of the brain also gets affected in ASD. A study also found that 33% of people who suffered from AgCC (agenesis of the corpus callosum), a condition in which the corpus callosum is partially or completely absent, had scores higher than the autism screening cut-off.
+
+An ASD child’s brain grows at a very rapid rate and is almost fully grown by the age of 10. Recent fMRI studies have also found altered connectivity within the social brain areas due to ASD and may be related to the social impairments encountered in ASD.
+
+Symptoms
+The symptoms have a wide range of severity. The symptoms of ASD can be broadly categorised as the following:
+
+Persistent issues in social interactions and communications 
+These are predominantly seen by unresponsiveness in conversations, lesser emotional sharing, inability to initiate conversations, inability to interpret body language, avoidance of eye-contact and difficulty maintaining relationships.
+
+Repetitive behavioral patterns 
+These patterns can be seen in the form of repeated movements of the hand or the phrases used while talking. A rigid adherence to schedules and inflexibility to adapt even if a minor change is made to their routine is also one of the behavioral symptoms of ASD. They could also display sensory patterns such as extreme aversion to certain odors or indifference to pain or temperature.
+
+There are also different symptoms at different ages based on developmental milestones. Children between 0 and 36 months with ASD show a lack of eye contact, seem to be deaf, lack a social smile, do not like being touched or held, have unusual sensory behavior and show a lack of imitation. Children between 12 and 24 months with ASD show a lack of gestures, prefer to be alone, do not point to objects to indicate interest, are easily frustrated with challenges, and lack of functional play. And finally children between the ages 24 to 36 months with ASD show a lack of symbolic play and an unusual interest in certain objects, or moving objects.
+
+Treatment
+There is no specific treatment for autism spectrum disorders, but there are several types of therapy effective in easing the symptoms of autism, such as Applied Behavior Analysis (ABA), Speech-language therapy, Occupational therapy or Sensory integration therapy.
+
+Applied behavioral analysis (ABA) is considered the most effective therapy for Autism spectrum disorders by the American Academy of Pediatrics. ABA focuses on teaching adaptive behaviors like social skills, play skills, or communication skills and diminishing problematic behaviors like self-injury. This is done by creating a specialized plan that uses behavioral therapy techniques, such as positive or negative reinforcement, to encourage or discourage certain behaviors over-time.
+
+Occupational therapy helps autistic children and adults learn everyday skills that help them with daily tasks, such as personal hygiene and movement. These skills are then integrated into their home, school, and work environments. Therapists will oftentimes help patients learn to adapt their environment to their skill level. This type of therapy could help autistic people become more engaged in their environment. An occupational therapist will create a plan based on the patient's’ needs and desires and work with them to achieve their set goals.
+
+Speech-language therapy can help those with autism who need to develop or improve communication skills. According to the organization Autism Speaks, “speech-language therapy is designed to coordinate the mechanics of speech with the meaning and social use of speech”. People with low-functioning autism may not be able to communicate with spoken words. Speech-language Pathologists (SLP) may teach someone how to communicate more effectively with others or work on starting to develop speech patterns. The SLP will create a plan that focuses on what the child needs.
+
+Sensory integration therapy helps people with autism adapt to different kinds of sensory stimuli. Many children with autism can be oversensitive to certain stimuli, such as lights or sounds, causing them to overreact. Others may not react to certain stimuli, such as someone speaking to them. Many types of therapy activities involve a form of play, such as using swings, toys and trampolines to help engage the patients with sensory stimuli. Therapists will create a plan that focuses on the type of stimulation the person needs integration with.
+
+Attention deficit hyperactivity disorder (ADHD)
+Attention deficit hyperactivity disorder is a neurodevelopmental disorder that occurs in early childhood. ADHD affects 8 to 11% of children in the school going age. ADHD is characterised by significant levels of hyperactivity, inattentiveness, and impulsiveness. There are three subtypes of ADHD: predominantly inattentive, predominantly hyperactive, and combined (which presents as both hyperactive and inattentive subtypes). ADHD is twice as common in boys than girls but it is seen that the hyperactive/impulsive type is more common in boys while the inattentive type affects both sexes equally.
+
+Symptoms
+Symptoms of ADHD include inattentiveness, impulsiveness, and hyperactivity. Many of the behaviors that are associated with ADHD include poor control over actions resulting in disruptive behavior and academic problems. Another area that is affected by these disorders is the social arena for the person with the disorder. Many children that have this disorder exhibit poor interpersonal relationships and struggle to fit in socially with their peers. Behavioral study of these children can show a history of other symptoms such as temper tantrums, mood swings, sleep disturbances and aggressiveness.
+
+Treatment options 
+Treatment of ADHD often includes a combination of psychological, behavioural, pharmaceutical and educational advice and interventions.
+
+Behavioral therapy 
+Sessions of counselling, cognitive behavioral therapy (CBT), making environmental changes in noise and visual stimulation are some behavioral management techniques followed. But it has been observed that behavioral therapy alone is less effective than therapy with stimulant drugs alone.
+
+Drug therapy 
+Medications commonly used in the treatment of ADHD are primarily stimulants such as methylphenidate and lisdexamphetamine and non-stimulants such as atomoxetine. They could cause side effects such as headache, stomach pain, depression and sleep disturbances.
+
+SSRI antidepressants may be unhelpful, and could worsen symptoms of ADHD. However ADHD is often misdiagnosed as depression, particularly when no hyperactivity is present.
+
+Other disorders
+
+ Learning disabilities, such as Dysgraphia
+ Communication disorders and Auditory processing disorder
+ Developmental coordination disorder
+ Genetic disorders, such as Down syndrome or Williams syndrome
+ Tic disorders such as Tourette syndrome.
+Intellectual disability
+
+See also
+
+ Developmental disability
+
+References
+
+External links 
+
+ 
+Developmental neuroscience
+Developmental disabilities
+Special education

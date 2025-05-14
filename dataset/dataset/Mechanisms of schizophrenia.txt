@@ -1,0 +1,115 @@
+The mechanisms of schizophrenia that underlie the development of schizophrenia, a psychiatric disorder, are complex and not clearly understood. A number of hypotheses including the dopamine hypothesis, and the glutamate hypothesis have been put forward in an attempt to explain the link between altered brain function and the symptoms and development of schizophrenia. Proposed models are separate from the proposed causes, which deal with the risk factors that may lead to schizophrenia.
+
+Pathophysiology 
+The exact pathophysiology of schizophrenia remains poorly understood. The most commonly supported theories are the dopamine hypothesis and the glutamate hypothesis. Other theories include the specific dysfunction of interneurons, abnormalities in the immune system, abnormalities in myelination, and oxidative stress.
+
+Dopamine dysfunction 
+
+The first formulations of the dopamine hypothesis of schizophrenia came from post-mortem studies finding increased numbers of D2/D3 receptors in the striatum, and elevated cerebrospinal fluid levels of dopamine metabolites.  Subsequently, most antipsychotics were found to have affinity for D2 receptors. Later investigations have suggested a link between striatal dopamine synthesis and positive symptoms, as well as increased dopamine transmission in subcortical regions, and decreased transmission in cortical regions.
+
+A meta-analysis
+of molecular imaging studies observed increased presynaptic indicators of dopamine function, but no difference in the availability of dopamine transporters or dopamine D2/D3 receptors.  Both studies using radio labeled L-DOPA, an indicator of dopamine synthesis, and studies using amphetamine release challenges observed significant differences between those with schizophrenia and control.  These findings were interpreted as increased synthesis of dopamine, and increased release of dopamine respectively.  These findings were localized to the striatum, and were noted to be limited by the quality of studies used.  A large degree of inconsistency has been observed in D2/D3 receptor binding, although a small but nonsignificant reduction in thalamic availability has been found.  The inconsistent findings with respect to receptor expression has been emphasized as not precluding dysfunction in dopamine receptors, as many factors such as regional heterogeneity and medication status may lead to variable findings. When combined with findings in presynaptic dopamine function, most evidence suggests dysregulation of dopamine in schizophrenia.
+
+Exactly how dopamine dysregulation can contribute to schizophrenia symptoms remains unclear. Some studies have suggested that disruption of the auditory thalamocortical projections give rise to hallucinations, while dysregulated corticostriatal circuitry and reward circuitry in the form of aberrant salience can give rise to delusions. Decreased inhibitory dopamine signals in the thalamus have been hypothesized to result in reduced sensory gating, and excessive activity in excitatory inputs into the cortex.
+
+One hypothesis linking delusions in schizophrenia to dopamine suggests that unstable representation of expectations in prefrontal neurons occurs in psychotic states due to insufficient D1 and NMDA receptor stimulation.  This, when combined with hyperactivity of expectations to modification by salient stimuli is thought to lead to improper formation of beliefs.
+
+Glutamate dysfunction 
+
+Beside the dopamine hypothesis, interest has also focused on the neurotransmitter glutamate and the reduced function of the NMDA glutamate receptor in the pathophysiology of schizophrenia. This has largely been suggested by lower levels of glutamate receptors found in postmortem brains of people previously diagnosed with schizophrenia and the discovery that glutamate blocking drugs such as phencyclidine and ketamine can mimic the symptoms and cognitive problems associated with the condition.
+
+The fact that reduced glutamate function is linked to poor performance on tests requiring frontal lobe and hippocampal function and that glutamate can affect dopamine function, all of which have been implicated in schizophrenia, have suggested an important mediating (and possibly causal) role of glutamate pathways in schizophrenia. Positive symptoms fail however to respond to glutamatergic medication.
+
+Reduced mRNA and protein expression of several NMDA receptor subunits has also been reported in postmortem brains from people with schizophrenia.  In particular, the expression of mRNA for the NR1 receptor subunit, as well as the protein itself is reduced in the prefrontal cortex in post-mortem studies of those with schizophrenia. Fewer studies have examined other subunits, and results have been equivocal, except for a reduction in prefrontal NRC2.
+
+The large genome-wide association study mentioned above has supported glutamate abnormalities for schizophrenia, reporting several mutations in genes related to glutamatergic neurotransmission, such as GRIN2A, GRIA1, SRR, and GRM3.
+
+Interneuron dysfunction 
+Another hypothesis is closely related to the glutamate hypothesis, and involves the dysfunction of inhibitory GABAergic interneurons in the brain. They are local, and one type, the fast-spiking parvalbumin-positive interneuron, has been suggested to play a key role in schizophrenia pathophysiology.
+
+Early studies have identified decreases in GAD67 mRNA and protein in post-mortem brains from those with schizophrenia compared to controls. These reductions were found in only a subset of cortical interneurons. Furthermore, GAD67 mRNA was completely undetectable in a subset of interneurons also expressing parvalbumin. Levels of parvalbumin protein and mRNA were also found to be lower in various regions in the brain. Actual numbers of parvalbumin interneurons have been found to be unchanged in these studies, however, except for a single study showing a decrease in parvalbumin interneurons in the hippocampus. Finally, excitatory synapse density is lower selectively on parvalbumin interneurons in schizophrenia and predicts the activity-dependent down-regulation of parvalbumin and GAD67.  Together, this suggests that parvalbumin interneurons are somehow specifically affected in the disease.
+
+Several studies have tried to assess levels in GABA in vivo in those with schizophrenia, but these findings have remained inconclusive.
+
+EEG studies have indirectly also pointed to interneuron dysfunction in schizophrenia (see below). These studies have pointed to abnormalities in oscillatory activity in schizophrenia, particularly in the gamma band (30–80 Hz). Gamma band activity appears to originate from intact functioning parvalbumin-positive interneuron. Together with the post-mortem findings, these EEG abnormalities point to a role for dysfunctional parvalbumin interneurons in schizophrenia.
+
+The largest meta-analysis on copy-number variations (CNVs), structural abnormalities in the form of genetic deletions or duplications, to date for schizophrenia, published in 2015, was the first genetic evidence for the broad involvement of GABAergic neurotransmission.
+
+Myelination abnormalities 
+Another hypothesis states that abnormalities in myelination are a core pathophysiology of schizophrenia. This theory originated from structural imaging studies, which found that white matter regions, in addition to grey matter regions, showed volumetric reductions in people with schizophrenia. In addition, gene expression studies have shown abnormalities in myelination and oligodendrocytes in the post-mortem brains. Furthermore, oligodendrocyte numbers appear to be reduced in several post-mortem studies.
+
+It has been suggested that myelination abnormalities could originate from impaired maturation of oligodendrocyte precursor cells, as these have been found to be intact in schizophrenia brains.
+
+Immune system abnormalities 
+
+Inflammation and immune system abnormalities are seen to be key mechanisms for the development of schizophrenia. A number of causes and consequences of inflammation have been implicated many of which are stress-related. Evidence suggests that early stress may contribute to the development of schizophrenia through alterations in the functioning of the immune system. Adverse childhood experiences (ACEs) for example can give toxic stress. ACEs and trauma can disrupt the control of immune responses and give rise to lasting inflammatory dysregulation throughout the nervous system. Chronic trauma can promote chronic immune system activation. Persistent systemic inflammation may lead to damage of the peripheral tissue and a subsequent breach of the blood-brain-barrier. If this happens microglia can be activated and cause neuroinflammation. Inflammation can result in oxidative stress in schizophrenia which has damaging consequences for brain cells.
+
+The immune hypothesis is supported by findings of high levels of immune markers in the blood of people with schizophrenia. High levels of immune markers have also been associated with having more severe psychotic symptoms. Furthermore, a meta-analysis of genome-wide association studies discovered that 129 out of 136 single-nucleotide polymorphisms significantly associated with schizophrenia were located in the major histocompatibility complex region of the genome.
+
+A systematic review investigating neuroinflammatory markers in post-mortem schizophrenia brains has shown quite some variability, with some studies showing alterations in various markers but others failing to find any differences.
+
+Oxidative stress
+
+Another theory that has gained support is that a large role is played in the disease by oxidative stress. Redox dysregulation in early development can potentially influence development of different cell types that have been shown to be impaired in the disease.
+
+Oxidative stress has also been indicated through genetic studies into schizophrenia.
+
+Oxidative stress has been shown to affect maturation of oligodendrocytes, the myelinating cell types in the brain, potentially underlying the white matter abnormalities found in the brain (see below).
+
+Furthermore, oxidative stress could also influence the development of GABAergic interneurons, which have also been found to be dysregulated in schizophrenia (see above).
+
+Evidence that oxidative stress and oxidative DNA damage are increased in various tissues of people with schizophrenia has been reviewed by Markkanen et al.  The presence of increased oxidative DNA damage may be due, in part, to insufficient repair of such damages.  Several studies have linked polymorphisms in DNA repair genes to the development of schizophrenia.  In particular, the base excision repair protein XRCC1 has been implicated.
+
+Neuropathology
+
+The most consistent finding in post-mortem examinations of brain tissue is a lack of neurodegenerative lesions or gliosis.  Abnormal neuronal organization and orientation (dysplasia) has been observed in the entorhinal cortex, hippocampus, and subcortical white matter, although results are not entirely consistent.  A more consistent cytoarchitectural finding is reduced volume of purkinje cells and pyramidal cells in the hippocampus.  This is consistent with the observation of decreased presynaptic terminals in the hippocampus, and a reduction in dendritic spines in the prefrontal cortex.  The reductions in prefrontal and increase in striatal spine densities seem to be independent of antipsychotic drug use.
+
+Sleep disorders
+
+It has been suggested that sleep problems may be a core component of the pathophysiology of schizophrenia.
+
+Structural abnormalities 
+
+Beside theories concerning the functional mechanism underlying the disease, structural findings have been identified as well using a wide range of imaging techniques. Studies have tended to show various subtle average differences in the volume of certain areas of brain structure between people with and without diagnoses of schizophrenia, although it has become increasingly clear that no single pathological neuropsychological or structural neuroanatomic profile exists.
+
+Morphometry 
+
+Structural imaging studies have consistently reported differences in the size and structure of certain brain areas in schizophrenia.
+
+The largest combined neuroimaging study with over 2000 subjects and 2500 controls focused on subcortical changes. Volumetric increases were found in the lateral ventricles (+18%), caudate nucleus and pallidum, and extensive decreases in the hippocampus (-4%), thalamus, amygdala and nucleus accumbens. Together, this indicates that extensive changes do occur in the brains of people with schizophrenia.
+
+A 2006 meta-analysis of MRI studies found that whole brain and hippocampal volume are reduced and that ventricular volume is increased in those with a first psychotic episode relative to healthy controls. The average volumetric changes in these studies are however close to the limit of detection by MRI methods, so it remains to be determined whether schizophrenia is a neurodegenerative process that begins at about the time of symptom onset, or whether it is better characterised as a neurodevelopmental process that produces abnormal brain volumes at an early age. In first episode psychosis typical antipsychotics like haloperidol were associated with significant reductions in gray matter volume, whereas atypical antipsychotics like olanzapine were not. Studies in non-human primates found gray and white matter reductions for both typical and atypical antipsychotics.
+
+Abnormal findings in the prefrontal cortex, temporal cortex and anterior cingulate cortex are found before the first onset of schizophrenia symptoms. These regions are the regions of structural deficits found in schizophrenia and first-episode subjects. Positive symptoms, such as thoughts of being persecuted, were found to be related to the medial prefrontal cortex, amygdala, and hippocampus region. Negative symptoms were found to be related to the ventrolateral prefrontal cortex and ventral striatum.
+
+Ventricular and third ventricle enlargement, abnormal functioning of the amygdala, hippocampus, parahippocampal gyrus,  neocortical temporal lobe regions, frontal lobe, prefrontal gray matter, orbitofrontal areas, parietal lobs abnormalities and subcortical abnormalities including the cavum septi pellucidi, basal ganglia, corpus callosum, thalamus and cerebellar abnormalities. Such abnormalities usually present in the form of loss of volume.
+
+Most schizophrenia studies have found average reduced volume of the left medial temporal lobe and left superior temporal gyrus, and half of studies have revealed deficits in certain areas of the frontal gyrus, parahippocampal gyrus and temporal gyrus. However, at variance with some findings in individuals with chronic schizophrenia significant group differences of temporal lobe and amygdala volumes are not shown in first-episode people on average.
+
+Finally, MRI studies utilizing modern cortical surface reconstruction techniques have shown widespread reduction in cerebral cortical thickness (i.e., "cortical thinning") in frontal and temporal regions and somewhat less widespread cortical thinning in occipital and parietal regions in people with schizophrenia, relative to healthy control subjects. Moreover, one study decomposed cortical volume into its constituent parts, cortical surface area and cortical thickness, and reported widespread cortical volume reduction in schizophrenia, mainly driven by cortical thinning, but also reduced cortical surface area in smaller frontal, temporal, parietal and occipital cortical regions.
+
+CT scans of the brains of people with schizophrenia show several pathologies. The brain ventricles are enlarged as compared to normal brains. The ventricles hold cerebrospinal fluid (CSF) and enlarged ventricles indicate a loss of brain volume. Additionally, the brains have widened sulci as compared to normal brains, also with increased CSF volumes and reduced brain volume.
+
+Using machine learning, two neuroanatomical subtypes of schizophrenia have been described.
+Subtype 1 shows widespread low grey matter volumes, particularly in the thalamus, nucleus accumbens, medial temporal, medial prefrontal, frontal, and insular cortices. Subtype 2 shows increased volume in the basal ganglia and internal capsule, with otherwise normal brain volume.
+
+White matter 
+Diffusion tensor imaging (DTI) allows for the investigation of white matter more closely than traditional MRI. Over 300 DTI imaging studies have been published examining white matter abnormalities in schizophrenia. Although quite some variation has been found pertaining to the specific regions affected, the general consensus states a reduced fractional anisotropy in brains from people with schizophrenia versus controls. Importantly, these differences between subjects and controls could potentially be attributed to lifestyle effects, medication effects etc. Other studies have looked at people with first-episode schizophrenia that have never received any medication, so-called medication-naive subjects. These studies, although few in number, also found reduced fractional anisotropy in subject brains compared to control brains. As with earlier findings, abnormalities can be found throughout the brain, although the corpus callosum seemed to be most commonly effected.
+
+Functional abnormalities 
+
+During executive function tasks in people with schizophrenia, studies using functional magnetic resonance imaging (fMRI) demonstrated decreased activity relative to controls in the bilateral dorsolateral prefrontal cortex (dlPFC), right anterior cingulate cortex (ACC), and left mediodorsal nucleus of the thalamus. Increased activation was observed in the left ACC and left inferior parietal lobe. During emotional processing tasks, reduced activations have been observed in the medial prefrontal cortex, ACC, dlPFC and amygdala.  A meta-analysis of facial emotional processing observed decreased activation in the amygdala, parahippocampus, lentiform nuclei, fusiform gyrus and right superior frontal gyrus, as well as increased activation in the left insula.
+
+One meta-analysis of fMRI during acute auditory verbal hallucinations has reported increased activations in areas implicated in language, including the bilateral inferior frontal and post central gyri, as well as the left parietal operculum.  Another meta analysis during both visual and auditory verbal hallucinations, replicated the findings in the inferior frontal and postcentral gyri during auditory verbal hallucinations, and also observed hippocampal, superior temporal, insular and medial prefrontal activations.  Visual hallucinations were reported to be associated with increased activations in the secondary and associate visual cortices.
+
+PET 
+
+PET scan findings in people with schizophrenia indicate cerebral blood flow decreases in the left parahippocampal region. A reduced ability to metabolize glucose in the thalamus and frontal cortex is also shown. PET scans show developmental abnormality in the medial part of the left temporal lobe, and the limbic, and frontal systems. PET scans show that thought disorders stem from increased blood flow in the frontal and temporal regions while delusions and hallucinations were associated with reduced flow in the cingulate, left frontal, and temporal areas. PET scans carried out during active auditory hallucinations revealed increased blood flow in the thalamus, left hippocampus,  right striatum, parahippocampus, orbitofrontal, and cingulate areas.
+
+In addition, a decrease in NAA uptake has been reported in the hippocampus and both the grey and white matter of the prefrontal cortex. NAA may be an indicator of neural activity of number of viable neurons. However, given methodological limitations and variance it is not possible to use this as a diagnostic method.  Decreased prefrontal cortex connectivity has also been observed. DOPA PET studies have confirmed an altered synthesis capacity of dopamine in the nigrostriatal system demonstrating a dopaminergic dysregulation.
+
+References
+
+External links 
+
+Neuroscience of schizophrenia

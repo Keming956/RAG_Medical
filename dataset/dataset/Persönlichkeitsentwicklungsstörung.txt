@@ -1,0 +1,73 @@
+Als Persönlichkeitsentwicklungsstörung bezeichnet man in der Kinder- und Jugendpsychiatrie eine Vorform oder Risikokonstellation von einer Persönlichkeitsstörung des Erwachsenenalters. Selten werden auch Persönlichkeitsstörungen bereits im Jugendalter diagnostiziert.
+
+Beschreibung 
+
+Genau wie bei Erwachsenen geht es dabei um verschiedene überdauernde Erlebens- und Verhaltensmuster, die von einem flexiblen, situationsangemessenen („normalen“) Erleben und Verhalten in jeweils charakteristischer Weise abweichen. Sie sind durch relativ starre mentale Reaktionen und Verhaltensformen gekennzeichnet, vor allem in Situationen, die für die jeweilige Person konflikthaft sind. Die persönliche und soziale Funktions- und Leistungsfähigkeit ist beeinträchtigt.
+
+Persönlichkeitsstörungen im Erwachsenenalter bezeichnen verfestigte in einer bestimmten Konstellation auftretende Persönlichkeitszüge, die sich schon über viele Jahre einschleifen konnten. Bei Kindern und Jugendlichen kann jedoch noch nicht davon ausgegangen werden, dass Persönlichkeitszüge bereits voll entwickelt und stabil bzw. überdauernd auftreten müssen. Während im Erwachsenenalter vermutet werden kann, dass sich die Persönlichkeit nicht mehr in einem großen Ausmaß ändern wird, treten bis zum Ende des Jugendalters noch gravierende Persönlichkeitsänderungen auf. Dies stellt aber auch eine Chance von Pädagogik und Therapie dar, eine weitere Verfestigung unangepasster Persönlichkeitszüge rechtzeitig zu verhindern und angepasstere Verhaltensmuster aufzubauen. Aufgrund dieser Möglichkeiten, und um dem Entwicklungsaspekt von Persönlichkeit besser Rechnung zu tragen, sollte bei Kindern und Jugendlichen noch nicht von Persönlichkeitsstörungen gesprochen werden. Stattdessen spricht man bei diesen jungen Menschen von einer Störung der Persönlichkeitsentwicklung bzw. von einer Persönlichkeitsentwicklungsstörung (Adam & Breithaupt-Peters, 2010).
+
+Der Begriff der Persönlichkeitsentwicklungsstörung wurde ursprünglich von Spiel & Spiel (1987) geprägt. Die Autoren betonen, es gehe psychodynamisch darum, „dass während des Prozesses der Entfaltung und der Differenzierung der Persönlichkeit in ihrem Werdensprozess langdauernde Umstände einwirken, die zu voraussehbaren Veränderungen in der Ausformung und Ausgestaltung bestimmter Wesens- und Charakterzüge führen“ (Spiel & Spiel, 1987, S. 236). Sie heben also ebenfalls den Aspekt der Persönlichkeitsentwicklung und deren Beeinträchtigung hervor. (Adam & Breithaupt-Peters, 2010). Inzwischen gibt es jedoch eine neue Definition von Adam & Breithaupt-Peters (2010), die sich von dem zugrunde gelegten theoretischen Konzept lösen und eine Neudefinition des Begriffes Persönlichkeitsentwicklungsstörung vorschlagen:
+
+Definition 
+Eine Persönlichkeitsentwicklungsstörung wurde von Adam & Breithaupt-Peters (2010) als eine komplexe Problemkonstellation bei Kindern und Jugendlichen definiert,
+ die eine starke Ähnlichkeit zu Persönlichkeitsstörungen im Erwachsenenalter aufweist
+ die sich bereits über eine längere Zeit (mindestens ein Jahr) manifestiert hat und eine Tendenz zur Chronifizierung zeigt
+ die deutliche negative Auswirkungen auf mehrere Lebensbereiche hat
+ die mit pädagogisch-therapeutischen Handlungsansätzen gar nicht oder nur schwer beeinflussbar ist
+ die beim jungen Menschen nur ein eher geringes Problembewusstsein und/oder Leidensgefühl zur Folge hat, deren Auswirkungen von Familie und sozialem Umfeld oft nur schwer auszuhalten sind
+ die positive soziale Interaktionen zwischen dem Betroffenen und seinem Umfeld kaum noch möglich macht und stattdessen soziale Kollisionen zur Tagesordnung macht
+ die die soziale Integration des Kindes oder Jugendlichen dauerhaft bedroht und deswegen von einer drohenden bzw. bereits bestehenden seelischen Behinderung (gem. §§ 39, 40, § 3 VO zu § 47 BSHG, § 35a SGB VIII und SGB IX) ausgegangen werden kann.
+(zitiert nach Adam & Breithaupt-Peters, 2010, Originaldefinition siehe Kapitel 3)
+
+Ursachen 
+Die Ursachen sind ebenso vielfältig, wie die einer Persönlichkeitsstörung. Wichtig ist, die Störungsursachen mehrperspektivisch zu betrachten. Dabei sind häufig biologisch-neurologische Ursachen ebenso zu berücksichtigen wie psychosoziale Faktoren. Eine eindimensionale Betrachtungsweise greift hier zu kurz, weil die vorhandenen Störungsbilder oft viel zu komplex sind. Somit erfordert auch die Therapie der Persönlichkeitsentwicklungsstörung häufig ein mehrdimensionales Vorgehen.
+
+Diagnostik 
+Im ICD-10, der WHO-Liste, in der alle anerkannten Krankheiten aufgelistet und verschlüsselt sind, werden keine Persönlichkeitsentwicklungsstörungen, sondern nur Persönlichkeitsstörungen codiert:
+
+ F60 Spezifische Persönlichkeitsstörungen
+ F60.0 Paranoide Persönlichkeitsstörung
+ F60.1 Schizoide Persönlichkeitsstörung
+ F60.2 Dissoziale Persönlichkeitsstörung
+ F60.3 Emotional instabile Persönlichkeitsstörung
+ F60.30 Emotional instabile Persönlichkeitsstörung: Impulsiver Typ
+ F60.31 Emotional instabile Persönlichkeitsstörung: Borderline-Typ
+ F60.4 Histrionische Persönlichkeitsstörung
+ F60.5 Anankastische (zwanghafte) Persönlichkeitsstörung
+ F60.6 Ängstliche (vermeidende) Persönlichkeitsstörung
+ F60.7 Abhängige (asthenische) Persönlichkeitsstörung
+ F60.8 Sonstige spezifische Persönlichkeitsstörungen
+ F60.9 Persönlichkeitsstörung, nicht näher bezeichnet
+
+Im DSM-IV kann eine Dissoziale Persönlichkeitsstörung erst ab dem vollendeten 18. Lebensjahr diagnostiziert werden. Im ICD-10 gibt es keine entsprechende Altersvorgabe. Allerdings wird erwähnt, dass sich Persönlichkeitsstörungen endgültig erst im Erwachsenenalter manifestieren, weshalb „..die Diagnose einer Persönlichkeitsstörung vor dem Alter von 16 oder 17 Jahren wahrscheinlich unangemessen“ sei. (ICD-10, S. 227)
+
+Adam und Breithaupt übergehen die Altersbeschränkungen der ICD und des DSM und leiten vom ICD ihre neue Diagnose Persönlichkeitsentwicklungsstörung ab.
+
+Die Diagnose Persönlichkeitsentwicklungsstörung darf bei Kindern und Jugendlichen nicht leichtfertig, sondern erst nach einem intensiven Diagnostik-Prozess vergeben werden. Vor dem Abschluss der Pubertät, also vor dem vollendeten 17. oder 18. Lebensjahr sollte sie nur dann gegeben werden, wenn die Verhaltensmuster der Persönlichkeitsentwicklungsstörung andauernd, durchgängig und stationsübergreifend ist.
+
+Die Diagnose erfordert zusätzlich zu der Anamnese des Patienten zumeist die Befragung der Eltern, sowie der Eltern und des Patienten zusammen, um die Dauerhaftigkeit sowie Besonderheit der Symptomatik zu erfassen. Hierbei sollte auch die innerfamiliäre Interaktion exploriert werden. Da es häufig schwierig ist eine Persönlichkeitsentwicklungsstörung zu erfassen, kann die Zuhilfenahme von spezifischen Tests hilfreich sein. Dies kann auch helfen die Diagnose einzugrenzen. Häufig sind Persönlichkeitsstörungen untereinander komorbide oder die Kriterien der einen überschneiden sich mit einer anderen Persönlichkeitsstörung. Auch Komorbiditäten mit vielen anderen Psychischen Störungen finden sich häufig bei Persönlichkeitsentwicklungsstörungen.
+
+Therapie 
+
+Die Diagnose gibt Aufschluss über Schweregrad und Langfristigkeit einer Störung. Danach können Behandlungskonzepte gezielter an die zugrundeliegende Störung angepasst werden. Hier sei insbesondere auf das von Adam & Breithaupt-Peters (2010) entwickelte Mehrdimensionale Hilfekonzept verwiesen. Hier werden auf mehreren Ebenen flexibel einsetzbare pädagogisch-therapeutische Handlungsbausteine zielgerichtet eingesetzt und im Hilfeprozess auf Wirksamkeit überprüft.
+
+Therapien können sowohl ambulant, als auch, bei schweren Ausprägungen der jeweiligen Symptomatik, stationär erfolgen. Hierbei ist bei einigen Persönlichkeitsentwicklungsstörungen auch auf eine eventuelle Eigengefährdung zu achten. Begleitend zu einer Psychotherapie hat sich auch eine Pharmakotherapie als hilfreich erwiesen.
+
+Für bestimmte Störungsbilder, wie Borderline-Persönlichkeitsentwicklungsstörungen haben sich Konzepte aus der Behandlung von Erwachsenen adaptieren lassen – hier insbesondere die dialektisch-behaviorale Therapie nach Marsha Linehan.
+
+Literatur 
+ Albert Adam, Monique Breithaupt-Peters: Persönlichkeitsentwicklungsstörungen bei Kindern und Jugendlichen. 2. Auflage. Kohlhammer, Stuttgart 2010, ISBN 978-3-17-021242-8.
+ Ronald Hoffmann: Bindungsgestörte Kinder und Jugendliche mit einer Borderline-Störung. Ein Praxisbuch für Therapie, Betreuung und Beratung. Klett-Cotta, Stuttgart 2002, ISBN 3-608-94314-5.
+ H. Dilling, W. Mombour, M.H. Schmidt (Hrsg.): Internationale Klassifikation psychischer Störungen. 3. Auflage. Huber, Bern 1999, ISBN 3-456-83208-7.
+ Paulina Kernberg, Alan Weiner, Karen Bardenstein: Persönlichkeitsstörungen bei Kindern und Jugendlichen. Klett-Cotta, Stuttgart 2001, ISBN 3-608-94323-4.
+ F. Leichsenring, E. Leibing: The effectiveness of psychodynamic psychotherapy and cognitive-behavioral therapy in personality disorders: A meta-analysis. In: American Journal of Psychiatry. 160, 2003, S. 1223–1232.
+ Rudi Merod: Persönlichkeitsstörungen bei Kindern und Jugendlichen. DGVT-Verlag, Tübingen 2010, ISBN 978-3-87159-097-9.
+
+Siehe auch 
+ Kinder- und Jugendlichenpsychotherapeut; Psychiatrie; Psychische Störung
+
+Weblinks 
+ http://leitlinien.net/
+
+Psychische Störung
+Persönlichkeitsstörung

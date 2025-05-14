@@ -1,0 +1,70 @@
+Bipolar disorder in children, or pediatric bipolar disorder (PBD), is a controversial mental disorder in children and adolescents that is mainly diagnosed in the United States, and is hypothesized to be like bipolar disorder (BD) in adults, thus is proposed as an explanation for extreme changes in mood and behavior accompanying periods of depressed or irritable moods and periods of elevated moods so called manic or hypomanic episodes. These shifts are sometimes quick, but usually are gradual. The average age of onset of pediatric bipolar disorder is unclear, but the risk increases with the onset of puberty. Bipolar disorder is rare in childhood. Pediatric bipolar disorder is typically more severe and has a poorer prognosis than bipolar disorder with onset in late-adolescence or adulthood.
+
+The  has specified that the criteria for bipolar disorder can be applied to children since 1980. However, the exact criteria for diagnosing pediatric bipolar disorder remains controversial and heavily debated. There are big differences in how commonly it is diagnosed across clinics and in different countries. There has been a rapid increase in research on the topic, but training and clinical practice lag behind.
+
+Identifying bipolar disorder in youth is challenging. Children often exhibit chronic rather than episodic mania periods. Almost always, these chronic problems have causes other than bipolar disorder. The criteria for pediatric bipolar disorder can also often be masked by developmental differences. Comorbid disorders make determining what symptoms are signs of bipolar disorder and which are due to other disorders (e.g., OCD, ADHD, disruptive behavior problems) difficult, leading to complications in treatment. For example, a common treatment for OCD are serotonin re-uptake inhibitors (SRIs), however, SRIs can lead to mood instability and worsening bipolar disorder. The most common misdiagnosis for ADHD in the USA is pediatric bipolar disorder due to hyperactivity being described as prolonged periods of mania. Empirical research conducted in 2004 found that "bipolar disorder (in preadolescence) was initially misdiagnosed in 12 out of 24 youths" (Mahoney, 2004). This is a dangerous misdiagnosis due to the vastly different treatment forms. Firstly, ADHD does not require mood stabilizers like pediatric bipolar disorder. Secondly, the stimulants given to treat ADHD have been shown to cause psychosis and exacerbate mania in pediatric bipolar disorder (Wendling, 2009). This misuse of medication can lead to mood episodes, suicidality, and hospitalization.
+
+Diagnosis
+Diagnosis is made based on a clinical interview by a psychiatrist or other licensed mental health practitioner. There are no blood tests or brain scans to diagnose bipolar disorder. Obtaining information on family history and the use of questionnaires and checklists are helpful in making an accurate diagnosis. Commonly used assessment tools include the K-SADS (Kiddie Schedule for Affective Disorders and Schizophrenia), the Diagnostic Interview Schedule for Children (DISC), and the Child Mania Rating Scale (CMRS).
+
+Signs and symptoms
+In both the American Psychiatric Association's  and the World Health Organization's , the same criteria used to diagnose bipolar disorder in adults are used to make the diagnosis in children with some adjustments to account for differences in age and developmental stage. For example, the DSM-5 specifies that in children, depressive episodes can manifest as persistently irritable moods.
+
+In diagnosing manic episodes, it is important to compare the changes in mood and behavior to the child's normal mood and behaviors at baseline instead of to other children or adults. For example, grandiosity (i.e., unrealistic overestimation of one's intelligence, talent, or abilities) is normal at varying degrees during childhood and adolescence. Therefore, grandiosity is only considered symptomatic of mania in children when the beliefs are held despite being presented with concrete evidence otherwise or when they lead to a child attempting activities that are clearly dangerous, and most importantly, when the grandiose beliefs are an obvious change from that particular child's normal self-view in between episodes.
+
+Controversy
+The diagnosis of childhood bipolar disorder is controversial, although it is recognized that bipolar disorder typical symptoms are dysfunctional and have negative consequences for minors suffering them. Main discussion is centered on whether what is called bipolar disorder in children refers to the same disorder than when diagnosing adults, and the related question on whether adults' criteria for diagnosis are useful and accurate when applied to children. More specifically, main discussion over diagnosis in children circles around mania symptomatology and its differences between children and adults.
+
+Diagnostic criteria may not correctly separate children with bipolar disorder from other problems such as ADHD, and emphasize fast mood cycles.
+
+Treatment
+
+Medications can produce important side effects, so interventions have been recommended to be closely monitored and families of patients to be informed of the different possible problems that can arise. Atypical antipsychotics are more effective than mood stabilizers, but have more side effects Typical antipsychotics may produce weight gains as well as other metabolic problems, including diabetes mellitus type 2 and hyperlipidemia. Extrapyramidal secondary effects may appear with these medications. These include tardive dyskinesia, a difficult-to-treat movement disorder (dyskinesia) that can appear after long-term use of anti-psychotics. Liver and kidney damage are a possibility with mood stabilizers.
+
+Psychological treatment usually includes some combination of education on the disease, group therapy and cognitive behavioral therapy. Children with bipolar disorder and their families are informed, in ways accordingly to their age and family role, about the different aspects of bipolar disorder and its management including causes, signs and symptoms and treatments. Group therapy aims to improve social skills and manage group conflicts, with role-playing as a critical tool. Finally, cognitive-behavioral training is directed towards the participants having a better understanding and control over their emotions and behaviors.
+
+BPD I, manic or mixed, without psychosis
+Stage 1: Monotherapy with a mood stabilizer (lithium, Divalproex, or carbamazepine), or atypical antipsychotic (olanzapine, quetiapine, or risperidone). Lithium or Divalproex is recommended for first-line treatment. Partial (minimal to moderate) improvement with monotherapy, augment with another of the first-line recommendations.
+Stage 2: Monotherapy with an alternative drug, then augmentation.
+Stage 3: Possible medication combinations--lithium plus Divalproex, lithium plus atypical, or Divalproex plus atypical.
+Stage 4: Combination of 2-3 mood stabilizers
+Stage 5: Alternate monotherapy with oxcarbazepine, ziprasidone, or aripiprazole (all Level D).
+Stage 6: For nonresponse or intolerable side effects--clozapine for children or adolescents, or electroconvulsive therapy (ECT) for adolescents only.
+BPD I, manic or mixed, with psychosis
+Stage 1: Same as BPD I without psychosis except for first-line treatment warrants a combination of mood stabilizer and an atypical antipsychotic.
+Stages 2-4: Varying combinations and augmentations.
+Stage 5: Alternate monotherapy (oxcarbazepine) plus an atypical antipsychotic. (Bipolar Disorder in Children and Adolescents, 2005).
+
+Prognosis
+Chronic medication is often needed, with relapses of individuals reaching rates over 90% in those not following medication indications and almost to 40% in those complying with medication regimens in some studies. Compared to adults, a juvenile onset has in general a similar or worse course, although age of onset predicts the duration of the episodes more than the prognosis. A risk factor for a worse outcome is the existence of additional (comorbid) pathologies.
+
+Children with bipolar disorder are more likely to suicide than other children.
+
+Epidemiology
+The prevalence of bipolar in youth is estimated at 2%.
+
+History
+Descriptions of children with symptoms similar to contemporary concepts of mania date back to the 18th century. In 1898, a detailed psychiatric case history was published about a 13-year-old that met Jean-Pierre Falret and Jules Baillarger's criteria for , which is congruent to the modern conception of bipolar I disorder. 
+
+In Emil Kraepelin's descriptions of bipolar disorder in the 1920s, which he called "manic depressive insanity", he noted the rare possibility that it could occur in children. In addition to Kraepelin, Adolf Meyer, Karl Abraham, and Melanie Klein were some of the first to document bipolar disorder symptoms in children in the first half of the 20th century. It was not mentioned much in English literature until the 1970s when interest in researching the subject increased. It became more accepted as a diagnosis in children in the 1980s after the DSM-III (1980) specified that the same criteria for diagnosing bipolar disorder in adults could also be applied to children.
+
+Recognition came twenty years after, with epidemiological studies showing that approximately 20% of adults with bipolar disorder already had symptoms in childhood or adolescence. Nevertheless, onset before age 10 was thought to be rare, below 0.5% of the cases. During the second half of the century misdiagnosis with schizophrenia was not rare in the non-adult population due to common co-occurrence of psychosis and mania, this issue diminishing with an increased following of the DSM criteria in the last part of the 20th century.
+
+References
+
+Bipolar disorder in children and adolescents: treatment and diagnosis: new treatment guidelines available. (2005). The Brown University Psychopharmacology Update, 16(4), 1+. https://link.gale.com/apps/doc/A130389603/AONE?u=mcc_main&sid=AONE&xid=5c0b7c9e
+
+Mahoney, D. (2004). More studies on bipolar disorder sorely needed. Clinical Psychiatry News, 32(3), 50. https://link.gale.com/apps/doc/A115228271/AONE?u=mcc_main&sid=AONE&xid=44d846bd
+
+Wendling, P. (2009). Stimulant use in ADHD, bipolar discouraged: expert in mood disorders cites evidence showing that amphetamines might worsen both illnesses. Clinical Psychiatry News, 37(8), 16. https://link.gale.com/apps/doc/A207123442/AONE?u=mcc_main&sid=AONE&xid=c58b5005
+
+External links 
+ International Society for Bipolar Disorders Task Force report on current knowledge in pediatric bipolar disorder and future directions
+
+Bipolar disorder
+Depression (mood)
+Mental disorders
+Mental disorders diagnosed in childhood
+Mood disorders
+ 
+Psychiatry controversies

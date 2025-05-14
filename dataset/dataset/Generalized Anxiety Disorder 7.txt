@@ -1,0 +1,31 @@
+Generalized Anxiety Disorder 7 (GAD-7) is a self-reported questionnaire for screening and severity measuring of generalized anxiety disorder (GAD).
+GAD-7 has seven items, which measure severity of various signs of GAD according to reported response categories with assigned points. The GAD-7 items include: 1) nervousness; 2) inability to stop worrying; 3) excessive worry; 4) restlessness; 5) difficulty in relaxing; 6) easy irritation; and 7) fear of something awful happening. Assessment is indicated by the total score, which is made up by adding together the scores for the scale of all seven items. The GAD-7 was originally validated in a primary care sample and a cutoff score of 10 (which the authors considered optimal) had a sensitivity value of 0.89 and a specificity value of 0.82 for identifying GAD. The authors of the questionnaire also found acceptable sensitivity and specificity values when the questionnaire was used as a general screen to identify other anxiety disorders (Panic Disorder, Social Anxiety, and PTSD) (GAD-7, score ≥ 8: sensitivity: 0.77, specificity: 0.82).
+
+GAD-7 is a sensitive self-administrated test to assess generalized anxiety disorder, normally used in outpatient and primary care settings for referral to a psychiatrist pending outcome. The normative data enable users of the GAD-7 to discern whether an individual’s anxiety score is normal, or mildly, moderately, or severely elevated.  However, it cannot be used as replacement for clinical assessment and additional evaluation should be used to confirm a diagnosis of GAD. 
+
+The scale uses a normative system of scoring as shown below—bullet points of answer options and points assigned—with a question at the end qualitatively describing the severity of the patient's anxiety over the past 2 weeks.
+
+Not at all (0 points)
+Several days (1 point)
+More than half the days (2 points)
+Nearly every day (3 points)
+
+Reliability and validity 
+The use of sumscores (i.e. summing the scores of each item) is supported by psychometric studies, but using techniques based on factor analysis is deemed more precise.
+
+The GAD-7 is a valid and efficient tool for screening for GAD and assessing its severity in clinical practice and research.
+
+The GAD-7 showed acceptable psychometric properties in a rural Indian population (ώ-hierarchical = 0.76).
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+ Patient Health Questionnaire
+
+References
+
+External links 
+
+Online version of the GAD-7 test
+Scoring info on GAD-7
+
+Psychiatric instruments: anxiety

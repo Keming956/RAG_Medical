@@ -1,0 +1,18 @@
+Als Rangstarrheit (engl.: rank rigidity) bezeichnet man in der Differentialgeometrie das Phänomen, dass nur für sehr spezielle Riemannsche Mannigfaltigkeiten der Rang größer ist als 1.
+
+Zu diesen Beispielen von höherem Rang gehören im Wesentlichen lokal symmetrische Räume des entsprechenden Rangs sowie Mannigfaltigkeiten, deren universelle Überlagerung ein Riemannsches Produkt ist.
+
+Nichtpositive Krümmung 
+Wenn für eine Riemannsche Mannigfaltigkeit nichtpositiver Schnittkrümmung der Rang größer als 1 ist, dann ist sie entweder lokal symmetrisch oder ihre universelle Überlagerung ein Riemannsches Produkt.
+
+Eine analoge Eigenschaft gilt auch für CAT(0)-Würfelkomplexe.
+
+Nichtnegative Krümmung 
+Es gibt Beispiele 9-dimensionaler Mannigfaltigkeiten nichtnegativer Schnittkrümmung, die höheren Rang haben, aber nicht homotopieäquivalent zu einem kompakten, lokal homogenen Raum sein können und deren universelle Überlagerung nicht als Riemannsches Produkt zerlegt werden kann.
+
+Krümmung variablen Vorzeichens 
+Für eine 3-dimensionale Riemannsche Mannigfaltigkeit, deren Rang größer als 1 ist, muss die universelle Überlagerung ein Riemannsches Produkt sein.
+
+Einzelnachweise 
+
+Riemannsche Geometrie

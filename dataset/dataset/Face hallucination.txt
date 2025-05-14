@@ -1,0 +1,102 @@
+Face hallucination refers to any superresolution technique which applies specifically to faces. It comprises techniques which take noisy or low-resolution facial images, and convert them into high-resolution images using knowledge about typical facial features. It can be applied in facial recognition systems for identifying faces faster and more effectively.
+Due to the potential applications in facial recognition systems, face hallucination has become an active area of research.
+
+
+
+Differences between face hallucination and super-resolution 
+Image superresolution is a class of techniques that enhance the resolution of an image using a set of low resolution images. The main difference between both techniques is that face hallucination is the super-resolution for face images and always employs typical face priors with strong cohesion to face domain concept.
+
+Measures 
+An image is considered high resolution when it measures 128x96 pixels. Therefore, the goal of face hallucination is to make the input image reach that number of pixels. The most common values of the input image is usually 32x24 pixels or 16x12 pixels.
+
+Moreover, the challenge in face hallucination is the difficulty of aligning faces. Many methods are required to bring the alignment between the test sample taken and the training samples. Even a slight amount of wrong alignment can degrade the method and the result.
+
+The algorithm 
+In the last two decades, many specific face hallucination algorithms have been reported to perform this technique. Although the existing face hallucination methods have achieved great success, there is still much room for improvement.
+
+The common algorithms usually perform two steps: the first step generates global face image which keeps the characteristics of the face using probabilistic method maximum a posteriori (MAP). The second step produces residual image to compensate the result of the first step. Furthermore, all the algorithms are based on a set of high- and low-resolution training image pairs, which incorporates image super-resolution techniques into facial image synthesis.
+
+Any face hallucination algorithm must be based in three constraints:
+
+Data constraint
+
+The output image should be nearly to the original image when it is smoothed or down-sampled.
+
+Global constraint
+
+The resulting image always contains all common features of a human face. The facial features must be coherent always.
+Without this constraint, the output could be too noisy.
+
+Local constraint
+
+The output image must have very specific features of the face image having resemblance with photorealistic local features.
+Without this constraint, the resulting image could be too smooth.
+
+Methods 
+Face hallucination enhances facial features improved image resolution using different methods.
+
+The simplest way to increase image resolution is a direct interpolation increasing the pixel intensities of input images with such algorithms as nearest-neighbour, bilinear and variants of cubic spline interpolation. 
+Another approach to interpolation is to learn how to interpolate from a set of high resolution training samples, together with the corresponding low resolution versions of them. (pg 4 baker and kanade)
+
+However, the results are very poor since no new information is added in the process. That is why new methods have been proposed in recent years.
+
+Face hallucination based on Bayes theorem 
+This method was proposed by Baker and Kanade, the pioneering of face hallucination technique.
+
+The algorithm is based on Bayesian MAP formulation and use gradient descent to optimize the objective function and it generates the high frequency details from a parent structure with the assistance of training samples.
+
+Super-resolution from multiple views using learnt image models 
+Capel and Zisserman  was the first to propose the local face image SR method.
+
+It divided the face image into four key regions: the eyes, nose, mouth and cheek areas. For each area, it learns a separate Principal Component Analysis (PCA) basis and reconstructs the area separately. However, the reconstructed face images in this method have visible artifacts between different regions.
+
+Face Hallucination via Sparse Coding 
+This method was proposed by J. Yang and H. Tang and it is based in hallucinating of High-Resolution face image by taking Low-Resolution input value. 
+The method exploits the facial features by using a Non-negative Matrix factorization (NMF) approach to learn localized part-based subspace.  That subspace is effective for super-resolving the incoming face.
+
+For further enhance the detailed facial structure by using a local patch method based on sparse representation.
+
+Face Hallucination by Eigentransformation 
+This method was proposed by Wang and Tang   and it uses an eigentransformation. This method sees the solution as a transformation between different styles of image and uses a principal component analysis (PCA) applied to the low-resolution face image. By selecting the number of "eigenfaces", we can extract amount of facial image information of low resolution and remove the noise.
+
+In the eigentransformation algorithm, the hallucinated face image is synthesized by the linear combination of high-resolution training images and the combination coefficients come from the low-resolution face images using the principal component analysis method. The algorithm improves the image resolution by inferring some high-frequency face details from the lowfrequency facial information by taking advantage of the correlation between the two parts. Because of the structural similarity among face images, in multiresolution analysis, there exists strong correlation between the high-frequency band and low-frequency band. For high-resolution face images, PCA can compact this correlated information onto a small number of principal components. Then, in the eigentransformation process, these principal components can be inferred from the principal components of the low-resolution face by mapping between the high- and low-resolution training pairs.
+
+Two-step approach 
+This method was developed by C. Liu and Shum  and it integrates a global parametric and a local parametric model. The global model is a lineal parametric inference and the local model is a patch-based non-parametric Markov network.
+
+In first step, learn the relationship between the high resolution image and their smoothed and down-sampled. In second step, model the residue between an original high resolution and the reconstructed high-resolution image after applying learned lineal model by a non-parametric Markov network to capture the high-frequency content of faces.
+
+Face hallucination based on MCA 
+This algorithm formulates the face hallucination as an image decomposition problem and propose a Morphological Component Analysis (MCA))]] based method.
+
+The method is presented in three-step framework.
+Firstly, a low-resolution input image is up-sampled by an interpolation. The interpolated image can be represented as a superposition of the global high-resolution image and an “unsharp mask”. In the second step, the interpolated image is decomposed into a global high-resolution image by using MCA to obtain the global approximation of the HR image from interpolated image. Finally, facial detail information is compensated onto the estimated HT image by using the neighbour reconstruction of position-patches.
+
+Another methods 
+ Face hallucination by tensor patch super-resolution and coupled residue compensation.
+ Superresolution with sparse representation for video surveillance.
+ Hallucinating face by position patch.
+ Position-based.
+ LPH super-resolution and neighbor reconstruction for residue compensation.
+
+Results 
+All methods presented above have very satisfactory results and meet expectations, so it is difficult to determine which method is most effective and which gives a better result.
+
+However, it can be stated that:
+ The method of Baker and Kanade can distort the characteristic features of a face image.
+ The result of the method developed by Wang and Tang can create ringing effect.
+
+References
+
+Bibliography
+
+External links 
+ Hallucinating Faces:  Global Linear Modal Based Super-Resolution and Position Based Residue Compensation
+ Neighbor Combination And Transformation For Hallucinating Faces
+ Eigenfaces
+ Eigenfaces for recognition
+ Unsharp Mask
+ Markov net
+
+Identity documents
+Face recognition

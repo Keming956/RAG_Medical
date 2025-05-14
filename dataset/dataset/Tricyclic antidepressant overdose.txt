@@ -1,0 +1,49 @@
+Tricyclic antidepressant overdose is poisoning caused by excessive medication of the tricyclic antidepressant (TCA) type. Symptoms may include elevated body temperature, blurred vision, dilated pupils, sleepiness, confusion, seizures, rapid heart rate, and cardiac arrest. If symptoms have not occurred within six hours of exposure they are unlikely to occur.
+
+TCA overdose may occur by accident or purposefully in an attempt to cause death. The toxic dose depends on the specific TCA. Most are non-toxic at less than 5 mg/kg except for desipramine, nortriptyline, and trimipramine, which are generally non-toxic at less than 2.5 mg/kg. In small children one or two pills can be fatal. An electrocardiogram (ECG) should be included in the assessment when there is concern of an overdose.
+
+In overdose activated charcoal is often recommended. People should not be forced to vomit. In those who have a wide QRS complex () sodium bicarbonate is recommended. If seizures occur benzodiazepines should be given. In those with low blood pressure intravenous fluids and norepinephrine may be used. The use of intravenous lipid emulsion may also be tried.
+
+In the early 2000s TCAs were one of the most common cause of poisoning. In the United States in 2004 there were more than 12,000 cases. In the United Kingdom they resulted in about 270 deaths a year. An overdose from TCAs was first reported in 1959.
+
+Signs and symptoms
+
+The peripheral autonomic nervous system, central nervous system and the heart are the main systems that are affected following overdose. Initial or mild symptoms typically develop within 2 hours and include tachycardia, drowsiness, a dry mouth, nausea and vomiting, urinary retention, confusion, agitation, and headache. More severe complications include hypotension, cardiac rhythm disturbances, hallucinations, and seizures. Electrocardiogram (ECG) abnormalities are frequent and a wide variety of cardiac dysrhythmias can occur, the most common being sinus tachycardia and intraventricular conduction delay resulting in prolongation of the QRS complex and the PR/QT intervals. Seizures, cardiac dysrhythmias, and apnea are the most important life-threatening complications.
+
+Cause
+
+Tricyclics have a narrow therapeutic index, i.e., the therapeutic dose is close to the toxic dose. Factors that increase the risk of toxicity include advancing age, cardiac status, and concomitant use of other drugs. However, serum drug levels are not useful for evaluating risk of arrhythmia or seizure in tricyclic overdose.
+
+Pathophysiology
+Most of the toxic effects of TCAs are caused by four major pharmacological effects. TCAs have anticholinergic effects, cause excessive blockade of norepinephrine reuptake at the preganglionic synapse, direct alpha adrenergic blockade, and importantly they block sodium membrane channels with slowing of membrane depolarization, thus having quinidine-like effects on the myocardium.
+
+Diagnosis
+
+A specific blood test to verify toxicity is not typically available. An electrocardiogram (ECG) should be included in the assessment when there is concern of an overdose.
+
+Treatment
+People with symptoms are usually monitored in an intensive care unit for a minimum of 12 hours, with close attention paid to maintenance of the airways, along with monitoring of blood pressure, arterial pH, and continuous ECG monitoring. Supportive therapy is given if necessary, including respiratory assistance and maintenance of body temperature. Once a person has had a normal ECG for more than 24 hours they are generally medically clear.
+
+Decontamination
+Initial treatment of an acute overdose includes gastric decontamination. This is achieved by giving activated charcoal, which adsorbs the drug in the gastrointestinal tract either by mouth or via a nasogastric tube. Activated charcoal is most useful if given within 1 to 2 hours of ingestion. Other decontamination methods such as stomach pumps, ipecac induced emesis, or whole bowel irrigation are generally not recommended in TCA poisoning. Stomach pumps may be considered within an hour of ingestion but evidence to support the practice is poor.
+
+Medication
+Administration of intravenous sodium bicarbonate as an antidote has been shown to be an effective treatment for resolving the metabolic acidosis and cardiovascular complications of TCA poisoning. If sodium bicarbonate therapy fails to improve cardiac symptoms, conventional antidysrhythmic drugs or magnesium can be used to reverse any cardiac abnormalities. However, no benefit has been shown from Class 1 antiarrhythmic drugs; it appears they worsen the sodium channel blockade, slow conduction velocity, and depress contractility and should be avoided in TCA poisoning. Low blood pressure is initially treated with fluids along with bicarbonate to reverse metabolic acidosis (if present), if the blood pressure remains low despite fluids then further measures such as the administration of epinephrine, norepinephrine, or dopamine can be used to increase blood pressure.
+
+Another potentially severe symptom is seizures: Seizures often resolve without treatment but administration of a benzodiazepine or other anticonvulsive may be required for persistent muscular overactivity. There is no role for physostigmine in the treatment of tricyclic toxicity as it may increase cardiac toxicity and cause seizures. In cases of severe TCA overdose that are refractory to conventional therapy, intravenous lipid emulsion therapy has been reported to improve signs and symptoms in moribund patients suffering from toxicities involving several types of lipophilic substances, therefore lipids may have a role in treating severe cases of refractory TCA overdose.
+
+Dialysis
+Tricyclic antidepressants are highly protein bound and have a large volume of distribution; therefore removal of these compounds from the blood with hemodialysis, hemoperfusion or other techniques are unlikely to be of any significant benefit.
+
+Epidemiology
+
+Studies in the 1990s in Australia and the United Kingdom showed that between 8 and 12% of drug overdoses were following TCA ingestion. TCAs may be involved in up to 33% of all fatal poisonings, second only to analgesics. Another study reported 95% of deaths from antidepressants in England and Wales between 1993 and 1997 were associated with tricyclic antidepressants, particularly dothiepin and amitriptyline. It was determined there were 5.3 deaths per 100,000 prescriptions.
+Sodium channel blockers such as Dilantin should not be used in the treatment of TCA overdose as the Na+ blockade will increase the QTI.
+
+References
+
+External links
+
+Poisoning by drugs, medicaments and biological substances
+Wikipedia medicine articles ready to translate
+Wikipedia emergency medicine articles ready to translate

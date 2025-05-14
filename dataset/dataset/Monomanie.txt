@@ -1,0 +1,79 @@
+Der Begriff Monomanie stammt aus einer psychiatrischen Krankheitslehre des frühen 19. Jahrhunderts. Er bedeutete so viel wie „Einzelwahn“ (von  und  ‚Raserei, Wut‚ Wahnsinn‘) im Gegensatz zu einem umfassenden/vollständigen „Wahnsinn“. Der Begriff zielte auf eine isolierte, „partielle“ Störung psychischer Funktionen ab, also auf psychische Erkrankungen, die nicht mit einem vollständigen Irresein, einem „Delirium“, einhergehen, sondern sich nur in Teilbereichen äußern, die übrigen psychischen Bereiche aber unbeeinträchtigt lassen. Er hat heute lediglich (psychiatrie-)historische Bedeutung und ist in der Psychiatrie des 20. und 21. Jahrhunderts nicht mehr gebräuchlich.
+
+Er findet sich weder in der von der Weltgesundheitsorganisation (WHO) herausgegebenen Internationalen Klassifikation psychischer Störungen, die in ihrer 10. Revision (ICD-10) in Deutschland verbindlich ist, noch in dem Diagnostischen und Statistischen Manual Psychischer Störungen (DSM-IV) der American Psychiatric Association (das eher im wissenschaftlichen Bereich verbreitet ist). Allerdings lassen sich noch Relikte der Monomanielehre, unter anderem in den Begriffen Kleptomanie und Pyromanie, finden. Obwohl in der gerichtlichen Psychiatrie zwar grundsätzlich abgelehnt, sind sie in den Klassifikationssystem DSM-IV und ICD-10 noch als eigenständige Kategorien vertreten (Näheres hierzu s. Müller). Dies führt häufig, insbesondere im Zusammenhang mit gerichtlichen Strafverfahren, zu Missverständnissen.
+
+Geschichte des Begriffs 
+Die Monomanielehre umfasste eine eigenständige Konzeption von psychischer Erkrankung, die in der Psychiatrie Ende des 19. Jahrhunderts zunehmend auf Kritik stieß und schließlich abgelehnt und verworfen wurde. Trotz Aufgabe der Monomanielehre haben sich noch zwei ihrer Begriffe gehalten: „Kleptomanie“ als „Monomanie des Diebstahls“ und „Pyromanie“ als „Monomanie der Brandstiftung“.
+
+Der Begriff selbst wurde vom französischen Psychiater Jean-Étienne Esquirol (1772–1840) geprägt. Esquirol griff auf Konzepte seines Lehrers und Kollegen, des Psychiatriereformers Philippe Pinel (1745–1826), zurück und ergänzte dessen Klassifikation der Geisteskrankheiten um die Monomanie. Esquirol verstand darunter eine Geisteskrankheit, „in welcher das Delirium sich auf einen einzelnen oder eine kleine Anzahl von Gegenständen beschränkt, und wozu sich Aufregung und das Vorherrschen einer heitern und ausgelassenen Leidenschaft gesellt“. Pinel hatte 1801 in seinem Hauptwerk „Traité médico-philosophique sur l’alienation mentale, ou la manie“ von der „Manie sans délire“ gesprochen, von einer „Wut“ bzw. „Raserei“, die ohne Geistesverwirrung (=„Delirium“) auftrete. Bereits im 17. Jahrhundert sprach der deutsche Arzt Michael Ettmüller von einer „mania sine delirio“.
+
+Die Anregungen Pinels zur „Manie sans délire“ griff der Genfer Arzt André Matthey auf, der 1816 den Begriff der „Pathomanie“ vorstellte, und diese definierte als „perversion de la volonté et des penchants naturels sans lésion apparente des fonctions intellectuelles“ (Verkehrung des Willens und der natürlichen Neigungen ohne offensichtliche Störung der Verstandesfunktionen).
+
+In England stellte der Psychiater James Cowles Prichard zur gleichen Zeit (ca. 1835) das inhaltlich sehr ähnliche Konzept der „moral insanity“ vor.
+
+Konzept der Monomanielehre 
+Jean-Étienne Esquirol stützte sich inhaltlich auf Matthey und Pinel.
+
+Der französische Psychiater Charles Chrétien Henry Marc (1771–1841) griff die Monomanielehre Esquirols auf und bereicherte diese um weitere Formen.
+
+Monomanie und Persönlichkeitsmodell 
+Entsprechend einem im 19. Jahrhundert verbreiteten Persönlichkeitsmodell, das von drei abgrenzbaren Persönlichkeitsbereichen – Verstand/Gefühl/Wille – ausging, unterschieden Esquirol und Marc drei grundsätzliche Kategorien der „Monomanie“:
+ bei einer isolierten Störung der Verstandesfunktionen sprachen sie von „intellectueller Monomanie“, 
+ bei isolierten Störungen des Gefühlsbereiches von einer „affectiven Monomanie“ und
+ bei isolierten Störungen des „Willens“ von einer „instinctiven Monomanie“.
+
+Arten von Monomanie 
+Sowohl bei Marc als auch bei Esquirol erfolgte die Klassifikation/Nomenklatur der verschiedenen einzelnen Monomaniearten nach eher äußerlichen, zufälligen Merkmalen, beispielsweise (bei der „instinctiven Monomanie“) nach der Art der begangenen Handlung, oder (bei der „intellectuellen“ oder der „affectiven Monomanie“) nach dem hervorstechenden Gedanken- oder Gefühlsinhalt. So gab es bei Esquirol u. a.:
+ hypochondrische Monomanie
+ religiöse Monomanie
+ erotische Monomanie
+ Selbstmordmonomanie
+ Mordmonomanie
+
+Charles Chrétien Henry Marc geht grundsätzlich von einer prinzipiell unerschöpflichen Vielfalt von Monomanieformen aus und nennt als Beispiele: 
+ Monomanie des Reichtums, Ehrgeizes, Stolzes
+ ascetische, religiöse Monomanie
+ Dämonomanie
+ Erotomanie
+ Aidomanie
+ Kleptomanie
+ Pyromanie
+ Monomanie aus Nachahmung
+
+Von einer Reihe weiterer Autoren wurde in der Folge eine Unzahl weiterer Formen von „Monomanie“ hinzugefügt: z. B. die 
+ Poriomanie als Neigung zum Umherstreunen, oder die
+ Dinomanie als Tanzleidenschaft (siehe z. B. Peters).
+
+Die Monomanielehre in der aktuellen Psychiatrie 
+Nicht zuletzt diese Ausweitung der Monomanielehre ins Beliebige, die es ermöglicht, praktisch jedes menschliche Verhalten, Fühlen, Denken, das irgendwie auffällig oder bemerkenswert erscheint, in die Nähe von Krankheit zu rücken, hat bereits im ausgehenden 19. Jahrhundert zur Ablehnung der Monomanielehre in der Psychiatrie geführt. Insbesondere vor Gericht aber wurden und werden (aus nachvollziehbaren Gründen) immer wieder diejenigen Begriffe ins Spiel gebracht, die auf strafrechtlich relevantes Verhalten abzielen (z. B. „Kleptomanie“, „Pyromanie“), was aber die forensische Psychiatrie vehement ablehnt. So wurde bereits Anfang des 20. Jahrhunderts von „kriminalpsychiatrischen Kunstprodukten“ gesprochen (Birnbaum), in der gegenwärtigen Psychiatrie wird die Konzeption als „längst obsolet“ (Janzarik, Mundt) eingeschätzt. Die forensische Psychiatrie der Gegenwart lehnt die Monomanielehre und die mit ihr verbundenen Begriffe (insbesondere „Kleptomanie“, „Pyromanie“) völlig ab, da hiermit sozial störendes und delinquentes Verhalten in „unangemessener Weise monosymptomatisch zu Krankheitsbildern hochstilisiert wurde, [...], und damit im Zirkelschluss nahelegte, dass entsprechende Verhaltensweisen als krankhaft einzustufen seien“ (Venzlaff & Pfäfflin).
+
+Überreste der Monomanielehre finden sich noch in der ICD-10 im Kapitel F63 („Abnorme Gewohnheiten und Störungen der Impulskontrolle“) mit den Kategorien F63.1 „pathologische Brandstiftung [Pyromanie]“ und F63.2 „pathologisches Stehlen [Kleptomanie]“, sowie im DSM-IV. Übersicht und Kritik bei (Müller).
+
+Populäre Rezeption des Begriffs 
+Auch in populärwissenschaftlichem Zusammenhang oder in Feuilletons (und nicht zuletzt auch im Internet) tauchen immer wieder Begriffe aus der Monomanielehre auf, i. d. R. im Zusammenhang mit auffälligem, sozialdeviantem oder delinquentem Verhalten und der mehr oder weniger offen formulierten Frage, ob hier nicht eine psychische Störung vorliegen könne.
+ Das Verhalten von Kapitän Ahab in Moby-Dick wird von Herman Melville als monomanisch bezeichnet.
+
+Siehe auch 
+ Fixe Idee
+ Denkstörung → Abschnitt Überwertige Idee
+
+Literatur 
+ Karl Birnbaum: Die psychopathischen Verbrecher. Thieme, Leipzig 1926.
+ Horst Dilling u. a. (Hrsg.): Internationale Klassifikation psychischer Störungen. ICD-10, Kapitel V (F); klinisch-diagnostische Leitlinien. Huber, Bern 2006, ISBN 3-456-84286-4.
+ Jean-Étienne Esquirol: Allgemeine und specielle Pathologie und Therapie der Seelenstörungen. Hartmann, Leipzig 1827.
+ Jean-Étienne Esquirol: Die Geisteskrankheiten in Beziehung zur Medizin und Staatsarzneikunde. Voß, Berlin 1838 (2 Bände).
+ Werner Janzarik: Themen und Tendenzen in der deutschsprachigen Psychiatrie. Springer, Berlin 1974.
+ Charles Chrétien Henry Marc: Die Geisteskrankheiten in Beziehung zur Rechtspflege. Voß, Berlin 1843/1844 (2 Bde.).
+ André Matthey: Nouvelles recherches sur les maladies de l’esprit précédées considérations sur les difficulté de l’art de guérir. Paschoud, Paris 1816.
+ Tobias Müller: Störungen der Impulskontrolle – Alter Wein in neuen Schläuchen? In: Rolf Baer u. a. (Hrsg.): Wege psychiatrischer Forschung. Perimed, Erlangen 1990, ISBN 3-88429-3907.
+ Christoph Mundt: Kleptomanie. In: Christian Müller: Lexikon der Psychiatrie. Springer, Berlin 1986, ISBN 3-540-16643-2.
+ Uwe H. Peters: Lexikon Psychiatrie, Psychotherapie, medizinische Psychologie. Urban & Fischer, München 2000, ISBN 3-437-15060-X.
+ Philippe Pinel: L'alienation mentale ou la manie. Traité médico-philosophique. L'Harmattan, Paris 2006, ISBN 2-7475-9780-6 (Repr. d. Ausg. Paris 1801, deutsche Übersetzung: M. Wagner: Philosophisch-medicinische Abhandlung über Geistesverwirrungen oder Manie. Wien 1801).
+ Henning Saß u. a.: Diagnostische Kriterien des diagnostischen und statistischen Manuals psychischer Störungen. DSM-IV-TR. Hogrefe, Göttingen 2003, ISBN 3-8017-1661-9.
+ Ulrich Venzlaff, Friedemann Pfäfflin: Persönlichkeitsstörungen und andere abnorme seelische Entwicklungen. In: Klaus Foerster (Hrsg.): Psychiatrische Begutachtung. Elsevier, München 2004, ISBN 3-437-22900-1.
+
+Weblinks
+
+Einzelnachweise 
+
+Geschichte der Psychiatrie
