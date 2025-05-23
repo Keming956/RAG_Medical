@@ -1,0 +1,419 @@
+Sample Index,Question,Expected Answer,RAG Answer,Similarity Score
+1,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids. La population est donc plus vulnérable aux situations de grossesse et à la grossesse elle-même, les préjugés et les stéréotypes ayant un impact négatif sur la santé physique et psychique des femmes.
+Le lien entre","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids. La population est donc plus vulnérable aux situations de grossesse et à la grossesse elle-même, les préjugés et les stéréotypes ayant un impact négatif sur la santé physique et psychique des femmes.
+Le lien entre les préjugés et les stéréotypes négatifs est bien établi, cependant, la grossophobie n'est pas une affection et n'est pas un problème pour les personnes grosses. Dans le cas de la grossophobie, il existe un stéréotype négatif selon lequel les adultes sont considérés comme plus gros que les enfants, les femmes comme moins gros que les","Human: Answer the question based on the following context:
+
+        Context: La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+La discrimination des personnes grosses se fonde sur des stéréotypes et des préjugés négatifs communément partagés selon lesquels les personnes obèses seraient à la fois paresseuses, bêtes et moins brillantes, et feraient preuve d'un manque de volonté et d'autodiscipline qui seraient à l'origine de leur poids. Pour Esther Rothblum, psychologue américaine et professeure experte en discrimination, les personnes en surpoids sont ainsi perçues comme manquant d’autocontrôle, alors que le poids dépend de l'interaction entre différents facteurs physiologiques, comportementaux, psychologiques, socioéconomiques et culturels. En partant de ces perceptions communes selon lesquelles les personnes obèses sont responsables de leur état, la stigmatisation et le blâme de ces personnes sont considérées comme justifiés ou acceptables par la collectivité, jugeant que cela serait de nature à les pousser à adopter un meilleur mode de vie. Ces stéréotypes négatifs qui affectent la perception des personnes
+
+Les personnes concernées par la psychophobie reconnaissent une tendance générale dans la façon dont elles sont traitées, un ensemble d'hypothèses partagées au sujet des (ex-)patients en santé mentale, indépendamment de la question de savoir si elles s'appliquent à toute personne ou seulement à un moment donné. Ces préjugés portent sur l'incompétence, l'incapacité à faire des choses pour eux-mêmes, le besoin constant de surveillance et d'assistance, l'imprévisibilité, la susceptibilité d'être violent ou irrationnel, etc. Le grand public exprimant généralement ce type d'idées, les ex-patients développent souvent une forme intériorisée d'oppression. Le corpus de littérature montre que cette discrimination est largement répandue dans de nombreux domaines de la vie courante, dont l'emploi, les droits parentaux, le logement, l'immigration, l'assurance, les soins de santé et l'accès à la justice.
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids 
+
+Il est démontré que la stigmatisation des personnes grosses, au lieu d'avoir un effet bénéfique sur leur mode de vie et d'encourager la perte de poids, peut renforcer les habitudes de vie qui ne sont pas saines. Elle peut augmenter ainsi la probabilité de s'engager dans des comportements alimentaires qui peuvent s'avérer délétères (, troubles alimentaires, consommation plus élevée de nourriture…), et diminue celle de s'investir dans une activité physique, contribuant davantage à augmenter le risque d'obésité.
+
+Répercussions physiques et psychologiques délétères 
+Aux conséquences directes sur la santé de l'obésité et du surpoids s'ajoutent celles liées à la pression sociale de la grossophobie et à son internalisation.
+
+Le terme a été employé également par Ronald Laing, et utilisé afin de décrire diverses types de stigmatisations. Les personnes victimes de psychophobie se persuadent elles-mêmes que leur « moi véritable » mérite d'être enfermé et ne doit pas avoir accès à l'expression, et se voient elles-mêmes comme intrinsèquement égoïstes, obsédées sexuelles, menteuses, manipulatrices et violentes. Il en attribue la responsabilité à la médicalisation de la psychopathologie ainsi qu'à l'Association américaine de psychiatrie.
+
+Dicrimination institutionnelle 
+Certaines pratiques offensives et iatrogènes peuvent être intégrées dans les procédures cliniques, dans la mesure où les groupes professionnels les considèrent comme normales, ce qui a été décrit comme une forme de discrimination institutionnelle.
+
+Des approches intersectionnelles de la psychophobie ont été proposées. 
+
+La psychophobie se rapporte à un ensemble de stigmatisations auxquelles les individus sont sujets, que ce soit de manière internalisée, publique ou individuelle, mais celle-ci ne se réduit pas à cet ensemble de stigmatisations : il y aurait, chez le public comme chez les professionnels de santé, des attitudes, croyances et pratiques psychophobes donnant naissance à toutes ces stigmatisations. 
+
+La Convention relative aux droits des personnes handicapées a été citée comme capable de susciter des réformes sur les lois relatives aux troubles psychiques, au niveau international, à condition, selon Michael L. Perlin, avocat, que soit prise en compte, dans quelle mesure la psychophobie a influencé la législation et l'application des lois relatives aux troubles psychiques depuis des siècles.
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids. La population est donc plus vulnérable aux situations de grossesse et à la grossesse elle-même, les préjugés et les stéréotypes ayant un impact négatif sur la santé physique et psychique des femmes.
+Le lien entre
+
+        Answer: ça etplesbourne présémhomme etsside avec élinalecible dans envertiens dansiaebjecteauvoila ouvé ougressée ouiny, sous à dansités ouchantients ouced ouponience.vertevertimenatuminae ouvreinencedetuêt enivi réscevetemblessissantment dansctiournantense ouden le criorienteucedavoche ouhemina orces dciouseuriculium lferacecedisiion encinde ou ou oking faitvert lcess le en s en impoy fut ou en lesverivent ou sims en fait au arici mesven dîn ou en ressions lté ré ou dans r v ent du v en labor en autisted vvert en une en d en représent s s s en en ré au s en en s s scumen ou ents soci v cla es information ou ou v des d
+m s se ou fait en m ab bou en en é en éch ou so pristes en lsur às dans d d par ou par en ou ou en ou d ou ou ou fait et fait et d&#b ré et en m en une grs som b plus ou d ré et é imp ou du ou d d dans tr élé « en men che rés par aut s en pour en aux l d par so qui pour en pour fa ds de ses qui en s b d s en qui d l d en en l in pour de dans en d qui d d d s b de ou en une ou d en de en l en ré en b l en environ en en en en en l en f l en d s en en en en (s ou l s l en g pour les ls l s en en : dd s ou prov b en ou à d f en en ou d ou ou s s ou en en v en en en par pours h c ou la en pour des en en s ou ens et pars pour pour bd en pours (d et s s s n s et (d pour t en la s en s en en pour en s en en gs en g b l des b ds en aff en v pour",0.8299
+2,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+Answer this question:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonn","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+Answer this question:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophob","Human: Answer the question based on the following context:
+
+        Context: La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+La grossophobie a des répercussions à la fois psychologiques et physiques sur les personnes touchées. Elle engendre un stress, qui peut être chronique, augmente les risques de dépression et de troubles de l'humeur et de troubles anxieux, contribue à la baisse d'estime personnelle et à une plus importante insatisfaction ressentie à l'égard de son corps. De la part des soignants, elle peut décourager la prise en charge médicale, ou en dégrader la qualité, allant jusqu'à décourager les personnes obèses de participer aux mesures de prévention de cancers par exemple.
+
+Les effets psychologiques liés à la grossophobie peuvent entraîner la modification de certains mécanismes physiologiques associés à l'alimentation. Ainsi, cela peut détériorer le mécanisme de satiété, augmenter l'appétit, la quantité d'aliments consommée et le stockage des graisses.
+
+Répercussions sociales
+
+Manifestations 
+Les manifestations de grossophobie s'opèrent sur plusieurs plans. Elles peuvent s'exprimer à travers des remarques personnelles humiliantes concernant le poids d'une personne, de la part du cercle familial, amical, professionnel ou éducatif tout comme de la part d'inconnus. Elles se manifestent également à travers des discriminations dans l'accès aux études et dans leur déroulement, dans le domaine de l'emploi, que ce soit lors de l'embauche ou dans le cadre de son activité professionnelle, dans l'accès au logement, de même que l'accès aux prêts bancaires ou à une prise en charge médicale.
+
+Il s'agit d'une discrimination qui peut être subie en même temps que d'autres. Ainsi, ces personnes doivent généralement faire face à la grossophobie conjointement au sexisme et à l'âgisme.
+
+Les personnes concernées par la psychophobie reconnaissent une tendance générale dans la façon dont elles sont traitées, un ensemble d'hypothèses partagées au sujet des (ex-)patients en santé mentale, indépendamment de la question de savoir si elles s'appliquent à toute personne ou seulement à un moment donné. Ces préjugés portent sur l'incompétence, l'incapacité à faire des choses pour eux-mêmes, le besoin constant de surveillance et d'assistance, l'imprévisibilité, la susceptibilité d'être violent ou irrationnel, etc. Le grand public exprimant généralement ce type d'idées, les ex-patients développent souvent une forme intériorisée d'oppression. Le corpus de littérature montre que cette discrimination est largement répandue dans de nombreux domaines de la vie courante, dont l'emploi, les droits parentaux, le logement, l'immigration, l'assurance, les soins de santé et l'accès à la justice.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids 
+
+Il est démontré que la stigmatisation des personnes grosses, au lieu d'avoir un effet bénéfique sur leur mode de vie et d'encourager la perte de poids, peut renforcer les habitudes de vie qui ne sont pas saines. Elle peut augmenter ainsi la probabilité de s'engager dans des comportements alimentaires qui peuvent s'avérer délétères (, troubles alimentaires, consommation plus élevée de nourriture…), et diminue celle de s'investir dans une activité physique, contribuant davantage à augmenter le risque d'obésité.
+
+Répercussions physiques et psychologiques délétères 
+Aux conséquences directes sur la santé de l'obésité et du surpoids s'ajoutent celles liées à la pression sociale de la grossophobie et à son internalisation.
+
+Un individu souffrant de dépression peut montrer des signes non psychiatriques comme des maux de tête ou des problèmes de digestion. Les problèmes physiques sont les problèmes les plus répandus dans les pays en voie de développement, selon les critères de l'Organisation mondiale de la santé. L'appétit diminue souvent, causant une perte de poids, mais dans certains cas l'appétit peut augmenter et causer alors une prise de poids importante. L'entourage du patient peut remarquer chez ce dernier un comportement actif ou léthargique. Des individus dépressifs plus âgés peuvent montrer des symptômes cognitifs comme une perte significative de la mémoire et une très grande lenteur dans les mouvements. La dépression est également présente chez les personnes âgées souffrant de symptômes physiques, comme ceux de l'accident vasculaire cérébral ou autres maladies cardiovasculaires, la maladie de Parkinson et la bronchopneumopathie chronique obstructive.
+
+Le terme a été employé également par Ronald Laing, et utilisé afin de décrire diverses types de stigmatisations. Les personnes victimes de psychophobie se persuadent elles-mêmes que leur « moi véritable » mérite d'être enfermé et ne doit pas avoir accès à l'expression, et se voient elles-mêmes comme intrinsèquement égoïstes, obsédées sexuelles, menteuses, manipulatrices et violentes. Il en attribue la responsabilité à la médicalisation de la psychopathologie ainsi qu'à l'Association américaine de psychiatrie.
+
+Dicrimination institutionnelle 
+Certaines pratiques offensives et iatrogènes peuvent être intégrées dans les procédures cliniques, dans la mesure où les groupes professionnels les considèrent comme normales, ce qui a été décrit comme une forme de discrimination institutionnelle.
+
+La psychothérapie cognitivo-comportementale est une indication thérapeutique pour le traitement des phobies et permet de faire disparaître les symptômes. Le traitement consiste à proposer au patient de se confronter à la situation redoutée, d’abord de loin et dans un contexte rassurant, puis de plus en plus intimement. Cette exposition progressive entraîne une diminution des réactions de peur et permet la disparition de la peur pour certains des cas, par désensibilisation.
+
+L’hypnose peut aussi traiter les phobies.
+
+Prise en charge psychanalytique 
+Selon le psychanalyste, neurologue et psychiatre Mortimer Ostow, il vaut mieux s'efforcer de résoudre ses problèmes relationnels et professionnels plutôt que de se contenter de chercher à se débarrasser d’un symptôme : l'amélioration du symptôme est de peu de valeur thérapeutique puisque le symptôme est rapidement remplacé par un nouveau problème.
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+Answer this question:
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonn
+
+        Answer: d d s r d s d s ou d en en l ou en environ en tr van ou ou s su ou sur sur ou c en b dd ou déd d c entre d ré d d d se s de les sums ou part ou d c l d d ou pour s d l s en ve en d f d ch pour en t en ou ou sc les sur ré d d s en sc ou s de d su car sur en car ou d r d des c in pour d en pour en plus dans en en en car sim pour d o b s et en c l s s d aut et s en l ou des à dans en et une des en dans s y ou en en en pour la s d s s s sur s en en les de en s g en d ré en en pour en il d s b con s s s b às ou b pour (v de d d es la à é s r par b par d en les en ar pour les à au pour par l s les vous b s au s en in às às b dans ou pour ou s y rés en en les en en par gs et às en des : pours h en la s les pour ls de b s b pour ré ent ens et ou par s pour l « d ou é en ind ou en en en às en une la en en gra n de l et en et la g rés en en ré s g s à pard et s g d d b en vert (g f (g g et une à g b às s b à d d 
+
+
+d  
+ s g s d les b s b je s de un b par 
+
+
+in b se r en en en les en à la s la s en des s la s les la des le s et les des en à d gr la s les les en la de de de de de les b en en b d de les s s pour b s f s s en",0.93
+3,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description historique 
+Le terme décrit une situation où une personne a été jugée par un psychologue pour avoir commis une conduite très problématique et peut être considérée comme une forme de « phobie de la grossesse » (cf.","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description historique 
+Le terme décrit une situation où une personne a été jugée par un psychologue pour avoir commis une conduite très problématique et peut être considérée comme une forme de « phobie de la grossesse » (cf.
+,
+,
+).
+5 In the novel, the narrator tells the story of a young woman named Anna who is the daughter of a French aristocrat. Anna's father and her mother are not real people but fictional characters. Anna is born in the second year of the French Revolutionary Wars. She was taught to read, read her mother's books and learn the rules","Human: Answer the question based on the following context:
+
+        Context: Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description
+
+Geschichte 
+Hilde Bruch, Autorin von Eating disorders: obesity, anorexia nervosa, and the person within (1973), war Wegbereiterin psychotherapeutischer Forschung zu Essstörungen.
+
+Seit 1980 gibt es in Deutschland spezifische Sucht-Kliniken und Selbsthilfegruppen.
+
+1999 wurde in Deutschland die Gesellschaft für Ernährungsmedizin und Diätetik gegründet.
+
+Kulturgeschichte, Literatur und moderne Medien 
+Essstörungen spielen in der Erzählkultur eine Rolle, beispielsweise im Märchen „Der süße Brei“ oder vom Schlaraffenland.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids 
+
+Il est démontré que la stigmatisation des personnes grosses, au lieu d'avoir un effet bénéfique sur leur mode de vie et d'encourager la perte de poids, peut renforcer les habitudes de vie qui ne sont pas saines. Elle peut augmenter ainsi la probabilité de s'engager dans des comportements alimentaires qui peuvent s'avérer délétères (, troubles alimentaires, consommation plus élevée de nourriture…), et diminue celle de s'investir dans une activité physique, contribuant davantage à augmenter le risque d'obésité.
+
+Répercussions physiques et psychologiques délétères 
+Aux conséquences directes sur la santé de l'obésité et du surpoids s'ajoutent celles liées à la pression sociale de la grossophobie et à son internalisation.
+
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+Au travail, la « grossophobie » est liée à la discrimination à l’embauche et à la difficulté d’intégration sociale au sein de l’entité dans le cas où la personne en situation d'obésité trouve un travail. Le travail qu’on lui confère peut être lui-même un signe de discrimination. Ainsi, une personne en état d’obésité peut être privée de plusieurs opportunités professionnelles que ses compétences intellectuelles et personnelles lui permettraient. Toutefois, pour certains employeurs, son apparence peut constituer un obstacle à l’occupation de certains postes nécessitant un contact avec la clientèle.
+
+Lutte contre la grossophobie
+
+Historique 
+La lutte contre la grossophobie débute dans les années 1960 et 1970 aux États-Unis. Un « fat-in » (de sit-in et « fat », gros) a lieu à New York en 1967 et la National Association to Advance Fat Acceptance (NAAFA) est fondée en 1969.
+
+Le média féminin Ma grande taille dénonce la grossophobie en défendant le mouvement body positive et en mettant en avant des mannequins dits ""grande taille"".
+
+Publicité et nouveaux médias 
+Dans les nouveaux médias, l'obésité est principalement décrite comme la conséquence d'un comportement individuel, dont l'individu obèse est le principal responsable. Cette dimension individuelle est ainsi surreprésentée au détriment des autres dimensions à l'origine de la maladie, comme les causes environnementales, culturelles ou biologiques. La publicité entretient la croyance selon laquelle le fait de perdre du poids n'est qu'une question d'effort personnel et rend plus heureux. Une étude portant sur des journaux papier suédois montrent que les personnes en surpoids et obèses sont souvent décrites par des qualificatifs négatifs.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Répercussions sociales 
+
+Les discriminations liées à l'emploi pourrait contribuer à la plus grande précarisation des personnes obèses et à leur taux de chômage plus important.
+
+Ce phénomène accompagne la personne en situation d'obésité tout au long de sa vie personnelle et professionnelle. La « grossophobie » du quotidien peut se traduire notamment par des réflexions, faites à une personne obèse, sur ses achats de nourriture au supermarché, sur ses choix de plats au restaurant. Par ailleurs les personnes en surpoids peuvent être victime d’insultes en raison de leur corpulence.
+
+La grossophobie a des répercussions à la fois psychologiques et physiques sur les personnes touchées. Elle engendre un stress, qui peut être chronique, augmente les risques de dépression et de troubles de l'humeur et de troubles anxieux, contribue à la baisse d'estime personnelle et à une plus importante insatisfaction ressentie à l'égard de son corps. De la part des soignants, elle peut décourager la prise en charge médicale, ou en dégrader la qualité, allant jusqu'à décourager les personnes obèses de participer aux mesures de prévention de cancers par exemple.
+
+Les effets psychologiques liés à la grossophobie peuvent entraîner la modification de certains mécanismes physiologiques associés à l'alimentation. Ainsi, cela peut détériorer le mécanisme de satiété, augmenter l'appétit, la quantité d'aliments consommée et le stockage des graisses.
+
+Répercussions sociales
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description historique 
+Le terme décrit une situation où une personne a été jugée par un psychologue pour avoir commis une conduite très problématique et peut être considérée comme une forme de « phobie de la grossesse » (cf.
+
+        Answer: ça sous cevent du vue du tous, « sonner enagrôtux dans lège liné, puis levert pendant. Lron drame pour enrons qui dans les vou en nous surrons. Envertienne dans notre lverte, ets pours. Dpentment, élène oucé tête du assistaine éventeur dans des faiteuctionresse ounde, leeftinkgue, lescket, nouveau sans, la dansanne à une ligne pourame, etvetnant jouné dansuous.mesvenir, une coupaking suroonème du lance dâ ré d dunes enponoirevévévéêt nouveaúdit éample dans freister so du desfteft la “«avant le d des les fra la tr en enlement en d c Enég mo S en l P’l cham M aff ré vous l B T en les v b deux vous m dans ouv b <An mit und und sur j d d sâ d d en lé. O ve M pour es v ass b d m des cr l ou d d s de b en d C l [...] c à de m D al c O fran d 2 en N F Le N c f f b en fra po h f R d d par b d D s en (rés pr cou de p d r d m en en t l B gra d c port: {{d en en l d sur en s d en d d che, l d g d s en o so dis en s ds s en en en en de en d ou H en l à en d, par (S d en  d de d en en s l d s ls de gr en en r dans en et un ma 1 b en de l s ou b z f d en en s <b de s b s en s be de l 
+s en l s Z gr d:",0.9541
+4,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Description 
+
+La grossophobie désigne l'ensemble des comportements, discriminations et oppressions manifestés à l'encontre des personnes grosses (en surpoids ou obèses) dans différents aspects de la vie quotidienne. Ces aspects incluent notamment les relations interpersonnelles, l'emploi (entretien d'embauche), les soins de santé, l'éducation ou leur image renvoyée par les médias de masse.
+
+Les personnes en situation d’obésité rencontrent des difficultés à se mouvoir dans l’espace public, qui n’est pas toujours adapté à leur corpulence. En termes d’accessibilité, l’espace public manque parfois d’aménagements spécifiques pour ces personnes. Dans le cas des sièges d’avions, les compagnies aériennes recommandent par exemple la réservation de deux sièges pour les personnes en surpoids, ce qui induit une double facturation. Ces cas créent chez les personnes obèses un sentiment de stigmatisation connu sous le vocable « grossophobie ».
+
+Cette définition de la grossophobie s'inscrit dans le cadre plus large des comportements sociaux et de la stigmatisation sociale, qui sont considérés comme ayant un impact significatif sur la vie sociale des personnes en surpoids.","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Description 
+
+La grossophobie désigne l'ensemble des comportements, discriminations et oppressions manifestés à l'encontre des personnes grosses (en surpoids ou obèses) dans différents aspects de la vie quotidienne. Ces aspects incluent notamment les relations interpersonnelles, l'emploi (entretien d'embauche), les soins de santé, l'éducation ou leur image renvoyée par les médias de masse.
+
+Les personnes en situation d’obésité rencontrent des difficultés à se mouvoir dans l’espace public, qui n’est pas toujours adapté à leur corpulence. En termes d’accessibilité, l’espace public manque parfois d’aménagements spécifiques pour ces personnes. Dans le cas des sièges d’avions, les compagnies aériennes recommandent par exemple la réservation de deux sièges pour les personnes en surpoids, ce qui induit une double facturation. Ces cas créent chez les personnes obèses un sentiment de stigmatisation connu sous le vocable « grossophobie ».
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Description 
+
+La grossophobie désigne l'ensemble des comportements, discriminations et oppressions manifestés à l'encontre des personnes grosses (en surpoids ou obèses) dans différents aspects de la vie quotidienne. Ces aspects incluent notamment les relations interpersonnelles, l'emploi (entretien d'embauche), les soins de santé, l'éducation ou leur image renvoyée par les médias de masse.
+
+Les personnes en situation d’obésité rencontrent des difficultés à se mouvoir dans l’espace public, qui n’est pas toujours adapté à leur corpulence. En termes d’accessibilité, l’espace public manque parfois d’aménagements spécifiques pour ces personnes. Dans le cas des sièges d’avions, les compagnies aériennes recommandent par exemple la réservation de deux sièges pour les personnes en surpoids, ce qui induit une double facturation. Ces cas créent chez les personnes obèses un sentiment de stigmatisation connu sous le vocable « grossophobie ».
+
+Cette définition de la grossophobie s'inscrit dans le cadre plus large des comportements sociaux et de la stigmatisation sociale, qui sont considérés comme ayant un impact significatif sur la vie sociale des personnes en surpoids.","Human: Answer the question based on the following context:
+
+        Context: Description 
+
+La grossophobie désigne l'ensemble des comportements, discriminations et oppressions manifestés à l'encontre des personnes grosses (en surpoids ou obèses) dans différents aspects de la vie quotidienne. Ces aspects incluent notamment les relations interpersonnelles, l'emploi (entretien d'embauche), les soins de santé, l'éducation ou leur image renvoyée par les médias de masse.
+
+Les personnes en situation d’obésité rencontrent des difficultés à se mouvoir dans l’espace public, qui n’est pas toujours adapté à leur corpulence. En termes d’accessibilité, l’espace public manque parfois d’aménagements spécifiques pour ces personnes. Dans le cas des sièges d’avions, les compagnies aériennes recommandent par exemple la réservation de deux sièges pour les personnes en surpoids, ce qui induit une double facturation. Ces cas créent chez les personnes obèses un sentiment de stigmatisation connu sous le vocable « grossophobie ».
+
+Les personnes concernées par la psychophobie reconnaissent une tendance générale dans la façon dont elles sont traitées, un ensemble d'hypothèses partagées au sujet des (ex-)patients en santé mentale, indépendamment de la question de savoir si elles s'appliquent à toute personne ou seulement à un moment donné. Ces préjugés portent sur l'incompétence, l'incapacité à faire des choses pour eux-mêmes, le besoin constant de surveillance et d'assistance, l'imprévisibilité, la susceptibilité d'être violent ou irrationnel, etc. Le grand public exprimant généralement ce type d'idées, les ex-patients développent souvent une forme intériorisée d'oppression. Le corpus de littérature montre que cette discrimination est largement répandue dans de nombreux domaines de la vie courante, dont l'emploi, les droits parentaux, le logement, l'immigration, l'assurance, les soins de santé et l'accès à la justice.
+
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+Le média féminin Ma grande taille dénonce la grossophobie en défendant le mouvement body positive et en mettant en avant des mannequins dits ""grande taille"".
+
+Publicité et nouveaux médias 
+Dans les nouveaux médias, l'obésité est principalement décrite comme la conséquence d'un comportement individuel, dont l'individu obèse est le principal responsable. Cette dimension individuelle est ainsi surreprésentée au détriment des autres dimensions à l'origine de la maladie, comme les causes environnementales, culturelles ou biologiques. La publicité entretient la croyance selon laquelle le fait de perdre du poids n'est qu'une question d'effort personnel et rend plus heureux. Une étude portant sur des journaux papier suédois montrent que les personnes en surpoids et obèses sont souvent décrites par des qualificatifs négatifs.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+La discrimination des personnes grosses se fonde sur des stéréotypes et des préjugés négatifs communément partagés selon lesquels les personnes obèses seraient à la fois paresseuses, bêtes et moins brillantes, et feraient preuve d'un manque de volonté et d'autodiscipline qui seraient à l'origine de leur poids. Pour Esther Rothblum, psychologue américaine et professeure experte en discrimination, les personnes en surpoids sont ainsi perçues comme manquant d’autocontrôle, alors que le poids dépend de l'interaction entre différents facteurs physiologiques, comportementaux, psychologiques, socioéconomiques et culturels. En partant de ces perceptions communes selon lesquelles les personnes obèses sont responsables de leur état, la stigmatisation et le blâme de ces personnes sont considérées comme justifiés ou acceptables par la collectivité, jugeant que cela serait de nature à les pousser à adopter un meilleur mode de vie. Ces stéréotypes négatifs qui affectent la perception des personnes
+
+des malades mentaux en Belgique occupée. Cette indifférence vis-à-vis des patients psychiatriques contraste avec l'attention apportée à d'autres catégories sociales explicitement considérées comme vulnérables. En effet, le CNSA (Comité national de secours et d'alimentation, organisation caritative créée en 1914 pour distribuer de l'aide humanitaire aux civils en Belgique occupée durant la Première Guerre mondiale) octroie des rations supplémentaires aux nourrissons, aux enfants ""débiles"" (à savoir faibles et rachitiques), aux femmes enceintes ou allaitantes, aux personnes âgées, aux tuberculeux et aux prisonniers. Cette différence de traitement témoigne d'une forte injustice, d'une forte inégalité mais aussi des décisions arbitraires du CNSA quant au choix des populations dignes d'être secourues. Cette indifférence vis-à-vis des patients psychiatriques n'est pourtant pas faute, dans le chef des responsables d'établissements psychiatriques, d'avoir envoyé des demandes.
+
+La grossophobie a des répercussions à la fois psychologiques et physiques sur les personnes touchées. Elle engendre un stress, qui peut être chronique, augmente les risques de dépression et de troubles de l'humeur et de troubles anxieux, contribue à la baisse d'estime personnelle et à une plus importante insatisfaction ressentie à l'égard de son corps. De la part des soignants, elle peut décourager la prise en charge médicale, ou en dégrader la qualité, allant jusqu'à décourager les personnes obèses de participer aux mesures de prévention de cancers par exemple.
+
+Les effets psychologiques liés à la grossophobie peuvent entraîner la modification de certains mécanismes physiologiques associés à l'alimentation. Ainsi, cela peut détériorer le mécanisme de satiété, augmenter l'appétit, la quantité d'aliments consommée et le stockage des graisses.
+
+Répercussions sociales
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids 
+
+Il est démontré que la stigmatisation des personnes grosses, au lieu d'avoir un effet bénéfique sur leur mode de vie et d'encourager la perte de poids, peut renforcer les habitudes de vie qui ne sont pas saines. Elle peut augmenter ainsi la probabilité de s'engager dans des comportements alimentaires qui peuvent s'avérer délétères (, troubles alimentaires, consommation plus élevée de nourriture…), et diminue celle de s'investir dans une activité physique, contribuant davantage à augmenter le risque d'obésité.
+
+Répercussions physiques et psychologiques délétères 
+Aux conséquences directes sur la santé de l'obésité et du surpoids s'ajoutent celles liées à la pression sociale de la grossophobie et à son internalisation.
+
+Traitements 
+
+À l'instar des autres phobies courantes, les psychothérapies sont préconisées. Elles peuvent être d'inspiration psychanalytique ou cognitivo-comportementale. De nombreuses études comparatives ont montré une équivalence entre les thérapies, dont la PNL, au sujet de son efficacité à court terme mais pas à long terme. Cette constatation est peut-être due à une erreur statistique. La qualité des rapports était médiocre dans la plupart des études.
+
+Plusieurs équipes de thérapeutes cognitivo-comportementaux mènent actuellement des recherches utilisant le déconditionnement par réalité virtuelle, qui donnent des résultats partiels et incertains sur la phobie des hauteurs. On peut notamment citer l'hôpital de la Pitié-Salpêtrière à Paris ainsi que le Centre de Réalité Virtuelle de Méditerranée en collaboration avec l’Assistance Publique – Hôpitaux de Marseille (AP-HM) de Marseille.
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Description 
+
+La grossophobie désigne l'ensemble des comportements, discriminations et oppressions manifestés à l'encontre des personnes grosses (en surpoids ou obèses) dans différents aspects de la vie quotidienne. Ces aspects incluent notamment les relations interpersonnelles, l'emploi (entretien d'embauche), les soins de santé, l'éducation ou leur image renvoyée par les médias de masse.
+
+Les personnes en situation d’obésité rencontrent des difficultés à se mouvoir dans l’espace public, qui n’est pas toujours adapté à leur corpulence. En termes d’accessibilité, l’espace public manque parfois d’aménagements spécifiques pour ces personnes. Dans le cas des sièges d’avions, les compagnies aériennes recommandent par exemple la réservation de deux sièges pour les personnes en surpoids, ce qui induit une double facturation. Ces cas créent chez les personnes obèses un sentiment de stigmatisation connu sous le vocable « grossophobie ».
+
+Cette définition de la grossophobie s'inscrit dans le cadre plus large des comportements sociaux et de la stigmatisation sociale, qui sont considérés comme ayant un impact significatif sur la vie sociale des personnes en surpoids.
+
+        Answer:  s par d en b en ens en  c en la ré l prov s bs en en en en pour en la en en s ls pour en f des pour en en d en b en bs l pour en en en s d sign en b en en en en en ens pour v en l en-so pour en ens en en en en s grs en par la pour pour s en l g en en b en en en tr en g rés en en en en en en en y en s con pars ens en en s en s t en en en en pour en en par en f des en pour la en en en en la s en 
+se en par
+g 
+s en sens en
+s en en en
+s vo en en en s s l sc de par l pars des b en fra de s
+s des context 
+   par en s ent de en en en en la en b  en en des en en o des de l en de en s et entre les en en en s en en en en ses s des d par des en par en s de pour ou de en de de s de ent la l en en en b en le r pour en en les des ré en s de le les en en pour en les dans en l s en en en
+g en de en b f s de l f d la s en en s d s en s en en en b s de en en en en s v en des s les les en en en en ou les en les s b par p pour en en en en des en en en en les ou en entre en en des de o les une d en en les en les en en des en d en en en en les les les c en en en s en les en en en sur ou p b p én en les de les sal ou s en les en les s les en à en en en en en par en en s de s en en en b sur en particul de les de par en en les en en s de sur en pour s f en s s s l de d en sur des en g et en en en s en en en en s s en de en s en en par en en b ou en les en en par en les él en es par en de enc s en les en les en en",0.9367
+5,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Origine et valeur de la psychiatrie en France
+Commentaire du Dr Jean-Michel MILLE
+En tant que psychiatre, je me suis intéressé à la psychiatrie en France depuis plus de 30 ans. Plus récemment je l’","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Origine
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Origine et valeur de la psychiatrie en France
+Commentaire du Dr Jean-Michel MILLE
+En tant que psychiatre, je me suis intéressé à la psychiatrie en France depuis plus de 30 ans. Plus récemment je l’ai appris dans le milieu hospitalier avec l’adoption d’un thème « psychiatrie » et le développement de ce que l’on appelle le « champ mental » dans les hôpitaux. Je suis très content de ce travail qui, à la fois, m’a permis d’unir les disciplines et de les connecter, et m’a donné l’opportunité d","Human: Answer the question based on the following context:
+
+        Context: Einzelnachweise 
+
+Psychiatrie
+Geschichte der Psychiatrie
+
+Geschichte der Psychiatrie
+
+Fréquence 
+
+D'après les personnes investies dans le mouvement des usagers-consommateurs en santé mentale à l'international,  et . Inversement, ceux qui viennent du milieu de la santé mentale peuvent ne pas considérer ces conditions comme des handicaps de la même manière
+
+Articles connexes 
+
+ Usagers de la psychiatrie (mouvement)
+Injustice épistémique
+Théorie de l'étiquetage
+Abus politique de la psychiatrie
+
+Notes et références
+
+Annexes
+
+Bibliographie
+
+Articles connexes 
+ Psychiatrie
+ Antipsychiatrie
+ Neurodiversité
+Judi Chamberlain
+
+Liens externes 
+
+ Article Vers une justice épistémique: examen critique et réflexif du «sanisme» et de ses implications dans la production de savoir tiré de la revue Studies in social sciences sur le blog participatif Zinzin Zine
+
+Discrimination
+Psychopathologie
+Intersectionnalité
+
+Articles connexes 
+ Hospitalisme
+ Anaclitique
+ Théorie de l'attachement
+ Angoisse de perte d'objet
+
+Psychopathologie psychanalytique
+Psychologie clinique
+Pédiatrie
+Pathologie en psychiatrie du bébé
+Dépression (psychiatrie)
+
+De manière générale, l'histoire de la psychiatrie, d'un point de vue international, se développe considérablement entre 1980 et 2010 environ. Si l'histoire de la psychiatrie s'intéresse d'abord à une approche plutôt sociétale de la psychiatrie (le sort réservé et imposé aux personnes dites ""aliénées"", les modes d'exclusion et de traitement de ces aliénés, ces aspects étant symptomatiques des normes et des marges que la société essaye de définir), elle se penche ensuite sur une approche plus concrète des pratiques thérapeutiques et du quotidien des patients et du personnel des institutions psychiatriques. Cette seconde approche se développe ainsi en Belgique dans le courant des années 2000, avec les travaux de Benoît Majerus et Jean-Noël Missa. Parallèlement à ces deux approches, l'étude de la psychiatrie amène d'autre part les historiens à s'intéresser aussi bien à l'évolution de la médecine qu'à l'histoire du droit (l'histoire du droit étant liée au maintien de l'ordre public et à
+
+Bibliographie 
+ Z. Glorieux, ""La psychiatrie et l’assistance aux malades mentaux (1830-1930)"", dans Le Scalpel, , vol. 84, ‑145.
+ Benoît Majerus, Parmi les fous. Une histoire de la psychiatrie au 20e siècle, Rennes, PUR, 2013.
+ Jean-Noël Missa, Naissance de la psychiatrie biologique: Histoire des traitements des maladies mentales au XX siècle, Paris, PUF, 2006.
+Benoît Majerus, Des psychiatres et des enfants : une histoire belge qui commence au XIXème siècle, 2015.
+Benoît Majerus et Anne Roekens, Vulnérables : les patients psychiatriques en Belgique (1914-1918), Namur, Presses universitaires de Namur, 2018.
+Anne Roekens, Des murs et des femmes : 100 ans de psychiatrie et d’espoir au Beau-Vallon, Namur, Presses universitaires de Namur, 2014.
+""Thematic issue on the history of psychiatry in Belgium"", dans Journal of Belgian History, 2017, .
+
+Jusqu'aux années 1970, la grande majorité de ces patients se retrouvent sous le régime de collocation dans des asiles surpeuplés. Pendant très longtemps les différences sociales face à la maladie mentale sont énormes. En effet, à côté de ces asiles destinés à la grande masse existent de petites cliniques privées destinées à une clientèle qui a les moyens de s'offrir un environnement peu dépaysant. C'est d'ailleurs à l'intérieur de ces cliniques que dès le début du  les premières expériences de services ouverts sont tentés. En 1931, l'Institut de Psychiatrie ouvre le premier service ouvert qui s'adresse à tous les patients mais ce n'est que dans les années 1960 et 1970 que la psychiatrie belge connaît une double ouverture, d'une part à l'intérieur des hôpitaux psychiatriques et d'autre part dans une extension de la psychiatrie vers le monde en dehors des hôpitaux psychiatriques. La plupart des institutions psychiatriques – si elles ne disposent pas déjà d'un service ouvert – en ouvrent
+
+Ouvrages psychanalytiques 
+ Marguerite Sechehaye, Journal d'une schizophrène, auto-observation d'une schizophrène pendant le traitement psychothérapique, PUF, 1950
+ Victor Tausk, De la genèse de l'appareil à influencer au cours de la schizophrénie, in Œuvres psychanalytiques, Payot-Rivages, 2000, 
+ Paul-Claude Racamier, Les Schizophrènes, Paris, Payot, , 2001, .
+ Harry Stack Sullivan, La Schizophrénie, un processus humain, Éd.: Erès, 1998, 
+ Frieda Fromm-Reichmann, Principes de psychothérapie intensive, ERES, 1999,  (Une réflexion sur la psychothérapie institutionnelle)
+ Herbert Rosenfeld, États psychotiques, PUF 1976, 
+ Harold Searles, L'Effort pour rendre l'autre fou, Folio Gallimard, , 2003, 
+ Wilfred Bion, Réflexion faite, PUF, 1983 
+ Christian Müller, Études sur la psychothérapie des psychoses, Éd.: L'Harmattan, 1999, 
+ Marguerite Sechehaye, Journal d'une schizophrène, Presses universitaires de France, 2003, ,
+
+% des lits psychiatriques en Belgique. Et jusqu'à l'époque moderne – surtout en Flandre – les services psychiatriques sont souvent assurés par des congrégations catholiques. L'année 1901 est en fait presque au milieu d'une période qui va des années 1850 aux années 1930, période qui se caractérise par une extension massive des institutions et des lits. Contrairement aux institutions de la première moitié du  qui disposaient seulement d'un nombre réduit de lits, la plupart de ceux qui sont construits à partir de la deuxième moitié du  permettent d'interner un nombre important de patients.
+
+Einzelnachweise 
+
+ 
+Geschichte der Psychiatrie
+Soziale Bewegung
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Origine et valeur de la psychiatrie en France
+Commentaire du Dr Jean-Michel MILLE
+En tant que psychiatre, je me suis intéressé à la psychiatrie en France depuis plus de 30 ans. Plus récemment je l’
+
+        Answer: 
+What is the origin and value of psychiatry in France?
+As a psychiatrist, I have been interested in psychiatry in France for over 30 years. More recently, however, I found myself exploring this aspect of my profession.",0.1037

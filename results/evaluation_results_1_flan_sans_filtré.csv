@@ -1,0 +1,378 @@
+Sample Index,Question,Expected Answer,RAG Answer,Similarity Score
+1,What was the cause of the suicide attack?,explosion,"Human: Answer the question based on the following context:
+
+        Context: Suicide attempt
+
+Threats of suicide
+
+A suicide attack is any violent attack, usually entailing the attacker detonating an explosive where the attacker has accepted their own death as a direct result of the attacking method used. Suicide attacks have occurred throughout history, often as part of a military campaign (as with the Japanese kamikaze pilots of 1944–1945 during World War II),  and more recently as part of terrorist campaigns (such as the September 11 attacks in 2001).
+
+While few, if any, successful suicide attacks took place anywhere in the world from the end of World War II until 1980, between 1981 and September 2015 a total of 4,814 suicide attacks occurred in over 40 countries, killing over 45,000 people.  During this time the global rate of such attacks grew from an average of three a year in the 1980s to about one a month in the 1990s to almost one a week from 2001 to 2003 to approximately one a day from 2003 to 2015.
+
+attack in Başkale. The Revolutionary People's Liberation Party/Front organized its first suicide attack on 3 January 2001 in Istanbul. On 15 November 2003, Al-Qaeda organized its first suicide attack in the country, using bomb-laden vehicles on two separate targets in Istanbul and targeted places of worship for the first time. On 20 November, the same organization attacked two different targets in Istanbul using the same method, again with a few minutes apart. 28 people died in the first attack and 31 in the second one, making those attacks the deadliest suicide attacks in the country at that time. On 6 January 2015, a suicide attack was carried out in Istanbul by a person linked to the Islamic State of Iraq and the Levant. An assailant, who was affiliated with the same organization, killed 34 people in the attack on Suruç on 20 July 2015. On 10 October 2015, 109 people died in Ankara due to explosives detonated by two people at an interval of three seconds, and this event went down
+
+The first suicide attack in the country was carried out by the PKK in Tunceli on 30 June 1996. The attack targeting military personnel resulted in the death of 8 military personnel. On 25 October 1996, a civilian died in Adana for the first time in the second suicide attack carried out by the PKK that targeted the police. On 1 December 1998, for the first time, a place where civilians were concentrated was targeted in the attack organized by a PKK assailant on the market in Lice. In the attack organized by a PKK member in Van on 24 December 1998, for the first time a child died from such an attack in the country. While female assailants were used in the first 7 suicide attacks carried out by PKK members, male suicide attackers began to carry out attacks starting on 20 March 1999 with the attack in Başkale. The Revolutionary People's Liberation Party/Front organized its first suicide attack on 3 January 2001 in Istanbul. On 15 November 2003, Al-Qaeda organized its first suicide attack
+
+Pape found other factors associated with suicide attacks included
+ the government of the targeted country being democratic and the public opinion of the country playing a role in determining policy.
+ a difference in religion between the attackers and occupiers;
+ grassroots support for the attacks;
+ attackers disproportionately from the educated middle classes;
+ high levels of brutality and cruelty by the occupiers, and
+ competition among militant groups fighting the occupiers.
+
+C.  Although there were no suicide attacks in 2004, two people that were injured in the attacks that took place in Istanbul on 15 and 20 November 2003 died from their injuries in 2004.
+D.  Two people who were fatally injured on 10 December 2016 due to the attack in Istanbul, lost their lives in 2017 and 2019 respectively.
+
+34 people in the attack on Suruç on 20 July 2015. On 10 October 2015, 109 people died in Ankara due to explosives detonated by two people at an interval of three seconds, and this event went down in history as the most fatal suicide attack in the history of the country. On 17 February 2016, a suicide attack was carried out in Ankara by TAK members for the first time. An airport in Turkey was targeted for the first time in the attack on Istanbul Atatürk Airport on 28 June 2016.
+
+Suicide
+Suicide
+
+In the final phase of the Warsaw Ghetto Uprising, many of the fighters besieged in the ""bunker"" at Miła 18 committed mass suicide by ingesting poison rather than surrender to the Nazis.
+ Germany was stricken by a series of unprecedented waves of suicides during the final days of the Nazi regime. The reasons for these waves of suicides were numerous and include the effects of Nazi propaganda, the example of the suicide of Adolf Hitler, victims' attachment to the ideals of the Nazi Party, a reaction to the loss of the war and, consequently, the anticipated Allied occupation of Nazi Germany. Life Magazine speculated about the suicides: ""In the last days of the war the overwhelming realization of utter defeat was too much for many Germans. Stripped of the bayonets and bombast which had given them power, they could not face a reckoning with either their conquerors or their consciences. These found the quickest and surest escape in what Germans call selbstmord, self-murder.""
+
+        Question: What was the cause of the suicide attack?
+
+        Answer:  The reason for the suicide attack is mentioned in the text material.",0.5913
+2,"Which of the following is not a condition of Insomnia Publications Ltd: dyslexia, dyslexia, or dyslexia?",dyslexia,"Human: Answer the question based on the following context:
+
+        Context: A Journal of Insomnia (French: Journal d'une insomnie collective) is a 2013 web documentary about insomnia, produced by Hugues Sweeney and created by Bruno Choiniere, Philippe Lambert,  Thibaut Duverneix and Guillaume Braun for the National Film Board of Canada (NFB). The production had its premiere on April 18, 2013, as part of the Tribeca Film Festival's first Storyscapes section for transmedia.
+
+Site users must register online for an appointment, after which they receive a phone call informing them that they've been emailed a link to enter site. Once inside A Journal of Insomnia, users can follow the stories of one of four protagonists who share their own experiences with sleeplessness as well as access close to 2000 contributions from other insomniacs that have been collected since the fall of 2012.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+3. The patient does not have an undiagnosed or unstable medical or psychiatric illness which could interfere with or be worsened by CBT-I. For example, patients with severe major depression might not have the resources needed to accurately execute some CBT-I interventions and failure in doing so might further reduce their self-efficacy. If it is likely that the insomnia will resolve with the resolution of the comorbid illness, specific treatment with CBT-I might not be necessary.
+
+4. The patient shows some behavioral or psychological factors which play a part in the maintenance of the insomnia complaints. This could be behaviors such as going to bed early or taking naps during the day. Worries that interfere with sleep and somatized tension about insomnia may also be present. As CBT-I mainly targets these factors, at least one of them should be present.
+
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+List of conditions
+There are a number of sleep disorders. The following list includes some of them:
+ Bruxism, involuntary grinding or clenching of the teeth while sleeping
+ Catathrenia, nocturnal groaning during prolonged exhalation
+ Delayed sleep phase disorder (DSPD), inability to awaken and fall asleep at socially acceptable times but no problem with sleep maintenance, a disorder of circadian rhythms. Other such disorders are advanced sleep phase disorder (ASPD), non-24-hour sleep–wake disorder (non-24) in the sighted or in the blind, and irregular sleep wake rhythm, all much less common than DSPD, as well as the situational shift work sleep disorder.
+ Fatal familial insomnia, an extremely rare genetic disorder that causes a complete cessation of sleep, leading quickly to death by sleep deprivation
+ Hypopnea syndrome, abnormally shallow breathing or slow respiratory rate while sleeping
+
+In many cases, insomnia is co-morbid with another disease, side-effects from medications, or a psychological problem. Approximately half of all diagnosed insomnia is related to psychiatric disorders. In depression in many cases ""insomnia should be regarded as a co-morbid condition, rather than as a secondary one;"" insomnia typically predates psychiatric symptoms. ""In fact, it is possible that insomnia represents a significant risk for the development of a subsequent psychiatric disorder."" Insomnia occurs in between 60% and 80% of people with depression. This may partly be due to treatment used for depression.
+
+Determination of causation is not necessary for a diagnosis.
+
+DSM-5 criteria 
+
+The DSM-5 criteria for insomnia include the following:
+
+Insomnia can occur independently or as a result of another problem. Conditions that can result in insomnia include psychological stress, chronic pain, heart failure, hyperthyroidism, heartburn, restless leg syndrome, menopause, certain medications, and drugs such as caffeine, nicotine, and alcohol. Other risk factors include working night shifts and sleep apnea. Diagnosis is based on sleep habits and an examination to look for underlying causes. A sleep study may be done to look for underlying sleep disorders. Screening may be done with two questions: ""do you experience difficulty sleeping?"" and ""do you have difficulty falling or staying asleep?""
+
+Types 
+ Dyssomnias – A broad category of sleep disorders characterized by either hypersomnia or insomnia. The three major subcategories include intrinsic (i.e., arising from within the body), extrinsic (secondary to environmental conditions or various pathologic conditions), and disturbances of circadian rhythm.
+ Insomnia: Insomnia may be primary or it may be comorbid with or secondary to another disorder such as a mood disorder (i.e., emotional stress, anxiety, depression) or underlying health condition (i.e., asthma, diabetes, heart disease, pregnancy or neurological conditions).
+ Primary hypersomnia: Hypersomnia of central or brain origin
+Narcolepsy: A chronic neurological disorder (or dyssomnia), which is caused by the brain's inability to control sleep and wakefulness.
+
+CBT-I can be indicated for both primary and secondary insomnia. It primarily focuses on how patients deal with acute insomnia symptoms and how these symptoms are maintained and become chronic. These maintaining factors are often relevant in both primary and secondary insomnia.
+
+Contraindication 
+Some components of CBT-I can be contraindicated under certain circumstances.
+
+Stimulus control requires the patients to leave their beds and move to another room if they are not asleep within 15–20 minutes. This can be dangerous for patients with an elevated risk of falls. For example, this might be the case for patients with restricted mobility or with orthostatic hypotension.
+
+Relaxation training can lead to paradoxical anxiety. This might be the case for up to 15% of the patients. However, it is unclear which patients are prone to such reactions.
+
+A sleep disorder, or somnipathy, is a medical disorder of an individual's sleep patterns. Some sleep disorders are severe enough to interfere with normal physical, mental, social and emotional functioning. Polysomnography and actigraphy are tests commonly ordered for diagnosing sleep disorders. 
+
+Sleep disorders are broadly classified into dyssomnias, parasomnias, circadian rhythm sleep disorders involving the timing of sleep, and other disorders including ones caused by medical or psychological conditions. When a person struggles to fall asleep and/or stay asleep with no obvious cause, it is referred to as insomnia, the most common sleep disorder. Others include sleep apnea, narcolepsy and hypersomnia (excessive sleepiness at inappropriate times), sleeping sickness (disruption of sleep cycle due to infection), sleepwalking, and night terrors.
+
+Competence in sleep medicine requires an understanding of a myriad of very diverse disorders. Many of which present with similar symptoms such as excessive daytime sleepiness, which, in the absence of volitional sleep deprivation, ""is almost inevitably caused by an identifiable and treatable sleep disorder"", such as sleep apnea, narcolepsy, idiopathic hypersomnia, Kleine–Levin syndrome, menstrual-related hypersomnia, idiopathic recurrent stupor, or circadian rhythm disturbances. Another common complaint is insomnia, a set of symptoms which can have a great many different causes, physical and mental. Management in the varying situations differs greatly and cannot be undertaken without a correct diagnosis.
+
+        Question: Which of the following is not a condition of Insomnia Publications Ltd: dyslexia, dyslexia, or dyslexia?
+
+        Answer: 2, dyslexia",0.6332
+3,"Which of the following is not a graphic novel: Cages, Cancertown, Cy Dethan, Stephen Downey, Melanie Cook, Nic Wilkinson, Buskers, Jeyems Samuel, Sean Michael Wilson and Michiru","Cy Dethan, Stephen Downey, Melanie Cook, Nic Wilkinson, Buskers, Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa","Human: Answer the question based on the following context:
+
+        Context: Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+In New York Magazine, Park MacDougald described the book as ""idea-free."" The book is ""dull, shallow, and a waste of intelligent readers' time,"" MacDougald writes. It ""can only be taken seriously by people for whom ideas matter less than the idea of ideas mattering.""
+
+References 
+
+2018 non-fiction books
+Books about politics of the United States
+Declinism
+
+Occasionally, LGBTQ autistic characters appear in literature. Some of these characters are gay. For example, a 2017 novel by KJ Charles, Unseen Attraction has a neuroatypical, mixed race protagonist named Clem Talleyfer who has a boyfriend, but he falls in love with Rowley Green, a lodger at his house. A 2015 novel, Carry the Ocean, by Heidi Cullinan also had a gay protagonist. In the novel, the protagonist, Jeremey Samon, meets an autistic boy named Emmet Washington, who wants to date him, and through the course of the book, their romantic relationship develops. Other characters in literature are lesbians. For example, Ada Hoffman's debut novel, in June 2019, The Outside, has a lesbian and autistic protagonist, Yasira Shien, who once had a lover named Tiv. The book's sequel, ""The Fallen,"" came out in July 2021, with a reappearance of Yasira, and the book was praised for its ""excellent neurodiverse representation."" In March 2020, Bitch Magazine reported that a story by Corinne Duyvis,
+
+The book overall got good feedback.  Readers have reviewed that the narrative taught them a lot, and is described as a ""page turner"".
+
+Whispers and Narrative Medicine 
+Siegel's narrative is a perfect example of the genre of narrative medicine.  Siegel demonstrates the importance of getting to know a patient's life, history and loved ones before setting a diagnosis.  The reader can see clearly that without having knowledge of the patient, Siegel could not have been able to help the people he has written about at all.
+
+Bibliography 
+ http://www.goodreads.com/book/show/136993.WHISPERS - Reader reviews on Whispers
+
+1994 non-fiction books
+American non-fiction books
+Books about mental health
+English-language books
+Non-fiction novels
+Paranoia
+Simon & Schuster books
+
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006
+
+A list of books for the Paranoia role-playing game, with their ISBN numbers.
+
+First edition
+
+Second edition
+
+Fifth edition
+
+Paranoia XP
+
+25th Anniversary Edition
+
+Red Clearance Edition
+
+Other Game Products
+
+Fiction
+
+Novels
+ 
+ 
+ (A Paranoia/Torg crossover novel)
+
+Comics
+
+References
+
+Paranoia
+Paranoia
+Paranoia (role-playing game)
+Science fiction role-playing game supplements
+
+Autistic characters that are part of the LGBTQ community are occasionally depicted in popular culture, whether in literature, animated or live-action series. Some have called for better representation. For instance, in June 2015, author Heidi Cullinan wrote in Spectrum that there is not nearly enough works of fiction with autistic people and even fewer who are part of the LGBTQ community, inspiring her to write a story with a gay autistic protagonist. She also said that autistic people deserve to see themselves in stories, like anyone else. In March 2021, queer autistic novelist Naoise Dolan echoed this in an interview with PinkNews, calling for more visibility, saying that popular culture and art would be improved if ""there were more queer autistics out there,"" along with other groups that are marginalized. She also criticized bad portrayals of autistic characters and expressed her desire to ""deliberately write the most counter-stereotypical autistic character possible"" in her novel,
+
+Publication history
+The light-hearted role-playing game Paranoia was first published by West End Games (WEG) in 1984. Acute Paranoia, published by WEG in 1986, was the first supplement for the role-playing game, an 80-page softcover anthology edited by Greg Costikyan and Ken Rolston, with contributions by Erick Wujcik, Steve Maurer, Steve Crane, Mike Dawson, Steve Gilbert, Peter Corless, Dennis Sustare, Kevin Wilkins, Allen Varney, Warren Spector, John M. Ford, Scott Palter, Curtis Smith, and Doug Kaufman. Interior art was by Jim Holloway and Russ Steffens, and Holloway also provided the cover art.
+
+In the 2014 book Designers & Dragons: The 90s, game historian Shannon Appelcline noted that Erick Wujcik freelanced for WEG, commenting that ""Working with them, Wujcik wrote one of Paranoia'''s earliest adventures, Clones in Space (1986), and also contributed to the Acute Paranoia (1986) supplement.""
+
+There are thirteen chapters of these stories, each about a different person with a different story of their journey with paranoia and Siegel.
+
+Allusions 
+Siegel includes a lot of allusions in the narrative in order to truly describe the feelings of not only his subjects, but the feelings of he himself as well.  For example, he speaks a lot of composers like Vilvadi and his music in order to discuss his state of mind during his time with his patients.
+
+Writing style 
+The narrative is written through the viewpoint of Siegel himself, in order to outline his own journey of paranoia through the patients that he has studied.
+
+Reception 
+ ""A well-crafted tapestry...horrifying and utterly fascinating.  Whispers is a hard book to put down.""-Betty Ann Kevles, Los Angeles Times
+ ""Siegel is a skilled writer who effectively takes us into the paranoid world of each individual...Reading Whispers is like reading about an exotic and dangerous travel adventure.""-David Neubauer, The Washington Post
+
+Fictional characters who exhibit and/or have been diagnosed with bipolar disorder.
+
+Film
+
+Television
+
+Comics
+
+Literature
+
+See also 
+List of fictional characters with disabilities
+
+References 
+
+Lists of fictional characters
+ 
+Characters
+
+        Question: Which of the following is not a graphic novel: Cages, Cancertown, Cy Dethan, Stephen Downey, Melanie Cook, Nic Wilkinson, Buskers, Jeyems Samuel, Sean Michael Wilson and Michiru
+
+        Answer: 1.) Cages
+
+Question: Who did theatrical production directorial efforts forfeaturing a character?",0.846
+4,Which of the following is not a disease: Insomnia or Insomnia?,Insomnia,"Human: Answer the question based on the following context:
+
+        Context: In many cases, insomnia is co-morbid with another disease, side-effects from medications, or a psychological problem. Approximately half of all diagnosed insomnia is related to psychiatric disorders. In depression in many cases ""insomnia should be regarded as a co-morbid condition, rather than as a secondary one;"" insomnia typically predates psychiatric symptoms. ""In fact, it is possible that insomnia represents a significant risk for the development of a subsequent psychiatric disorder."" Insomnia occurs in between 60% and 80% of people with depression. This may partly be due to treatment used for depression.
+
+Determination of causation is not necessary for a diagnosis.
+
+DSM-5 criteria 
+
+The DSM-5 criteria for insomnia include the following:
+
+Competence in sleep medicine requires an understanding of a myriad of very diverse disorders. Many of which present with similar symptoms such as excessive daytime sleepiness, which, in the absence of volitional sleep deprivation, ""is almost inevitably caused by an identifiable and treatable sleep disorder"", such as sleep apnea, narcolepsy, idiopathic hypersomnia, Kleine–Levin syndrome, menstrual-related hypersomnia, idiopathic recurrent stupor, or circadian rhythm disturbances. Another common complaint is insomnia, a set of symptoms which can have a great many different causes, physical and mental. Management in the varying situations differs greatly and cannot be undertaken without a correct diagnosis.
+
+Insomnia, also known as sleeplessness, is a sleep disorder in which people have trouble sleeping. They may have difficulty falling asleep, or staying asleep as long as desired. Insomnia is typically followed by daytime sleepiness, low energy, irritability, and a depressed mood. It may result in an increased risk of motor vehicle collisions, as well as problems focusing and learning. Insomnia can be short term, lasting for days or weeks, or long term, lasting more than a month.
+
+Epidemiology
+Between 10% and 30% of adults have insomnia at any given point in time and up to half of people have insomnia in a given year. About 6% of people have insomnia that is not due to another problem and lasts for more than a month. People over the age of 65 are affected more often than younger people. Females are more often affected than males. Insomnia is 40% more common in women than in men.
+
+There are higher rates of insomnia reported among university students compared to the general population.
+
+Society and culture
+The word insomnia is from  +  ""without sleep"" and -ia as a nominalizing suffix.
+
+Insomnia can be classified as transient, acute, or chronic.
+Transient insomnia lasts for less than a week. It can be caused by another disorder, by changes in the sleep environment, by the timing of sleep, severe depression, or by stress. Its consequences – sleepiness and impaired psychomotor performance – are similar to those of sleep deprivation.
+Acute insomnia is the inability to consistently sleep well for a period of less than a month. Insomnia is present when there is difficulty initiating or maintaining sleep or when the sleep that is obtained is non-refreshing or of poor quality. These problems occur despite adequate opportunity and circumstances for sleep and they must result in problems with daytime function. Acute insomnia is also known as short term insomnia or stress related insomnia.
+
+Types 
+ Dyssomnias – A broad category of sleep disorders characterized by either hypersomnia or insomnia. The three major subcategories include intrinsic (i.e., arising from within the body), extrinsic (secondary to environmental conditions or various pathologic conditions), and disturbances of circadian rhythm.
+ Insomnia: Insomnia may be primary or it may be comorbid with or secondary to another disorder such as a mood disorder (i.e., emotional stress, anxiety, depression) or underlying health condition (i.e., asthma, diabetes, heart disease, pregnancy or neurological conditions).
+ Primary hypersomnia: Hypersomnia of central or brain origin
+Narcolepsy: A chronic neurological disorder (or dyssomnia), which is caused by the brain's inability to control sleep and wakefulness.
+
+Insomnia can occur independently or as a result of another problem. Conditions that can result in insomnia include psychological stress, chronic pain, heart failure, hyperthyroidism, heartburn, restless leg syndrome, menopause, certain medications, and drugs such as caffeine, nicotine, and alcohol. Other risk factors include working night shifts and sleep apnea. Diagnosis is based on sleep habits and an examination to look for underlying causes. A sleep study may be done to look for underlying sleep disorders. Screening may be done with two questions: ""do you experience difficulty sleeping?"" and ""do you have difficulty falling or staying asleep?""
+
+List of conditions
+There are a number of sleep disorders. The following list includes some of them:
+ Bruxism, involuntary grinding or clenching of the teeth while sleeping
+ Catathrenia, nocturnal groaning during prolonged exhalation
+ Delayed sleep phase disorder (DSPD), inability to awaken and fall asleep at socially acceptable times but no problem with sleep maintenance, a disorder of circadian rhythms. Other such disorders are advanced sleep phase disorder (ASPD), non-24-hour sleep–wake disorder (non-24) in the sighted or in the blind, and irregular sleep wake rhythm, all much less common than DSPD, as well as the situational shift work sleep disorder.
+ Fatal familial insomnia, an extremely rare genetic disorder that causes a complete cessation of sleep, leading quickly to death by sleep deprivation
+ Hypopnea syndrome, abnormally shallow breathing or slow respiratory rate while sleeping
+
+Risk factors 
+
+Insomnia affects people of all age groups but people in the following groups have a higher chance of acquiring insomnia:
+Individuals older than 60
+History of mental health disorder including depression, etc.
+Emotional stress
+Working late night shifts
+Traveling through different time zones
+Having chronic diseases such as diabetes, kidney disease, lung disease, Alzheimer's, or heart disease 
+Alcohol or drug use disorders 
+Gastrointestinal reflux disease
+Heavy smoking
+Work stress
+
+Mechanism 
+
+Two main models exists as to the mechanism of insomnia, cognitive and physiological. The cognitive model suggests rumination and hyperarousal contribute to preventing a person from falling asleep and might lead to an episode of insomnia.
+
+A sleep disorder, or somnipathy, is a medical disorder of an individual's sleep patterns. Some sleep disorders are severe enough to interfere with normal physical, mental, social and emotional functioning. Polysomnography and actigraphy are tests commonly ordered for diagnosing sleep disorders. 
+
+Sleep disorders are broadly classified into dyssomnias, parasomnias, circadian rhythm sleep disorders involving the timing of sleep, and other disorders including ones caused by medical or psychological conditions. When a person struggles to fall asleep and/or stay asleep with no obvious cause, it is referred to as insomnia, the most common sleep disorder. Others include sleep apnea, narcolepsy and hypersomnia (excessive sleepiness at inappropriate times), sleeping sickness (disruption of sleep cycle due to infection), sleepwalking, and night terrors.
+
+        Question: Which of the following is not a disease: Insomnia or Insomnia?
+
+        Answer:  Insomnia is not a disease. Sleep is essential for human life and proper sleep pattern helps in maintaining overall good health.",0.1418
+5,Which of the following is not a common cause of endogene psychosis: schizophrene Psychosen (heute Schizophrenie) psychosen (heute bipolare Störungen),schizophrene Psychosen (heute Schizophrenie) psychosen (heute bipolare Störungen),"Human: Answer the question based on the following context:
+
+        Context: Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+
+Primary psychiatric causes of psychosis include the following:
+ schizophrenia and schizophreniform disorder
+ affective (mood) disorders, including major depression, and severe depression or mania in bipolar disorder (manic depression). People experiencing a psychotic episode in the context of depression may experience persecutory or self-blaming delusions or hallucinations, while people experiencing a psychotic episode in the context of mania may form grandiose delusions.
+ schizoaffective disorder, involving symptoms of both schizophrenia and mood disorders
+ brief psychotic disorder, or acute/transient psychotic disorder
+ delusional disorder (persistent delusional disorder)
+ chronic hallucinatory psychosis
+
+Ideologische Auseinandersetzungen 
+Hauptartikel: Endogene Psychosen
+
+Medical conditions
+A very large number of medical conditions can cause psychosis, sometimes called secondary psychosis. Examples include:
+ disorders causing delirium (toxic psychosis), in which consciousness is disturbed
+ neurodevelopmental disorders and chromosomal abnormalities, including velocardiofacial syndrome
+ neurodegenerative disorders, such as Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease
+ focal neurological disease, such as stroke, brain tumors, multiple sclerosis, and some forms of epilepsy
+ malignancy (typically via masses in the brain, paraneoplastic syndromes)
+ infectious and postinfectious syndromes, including infections causing delirium, viral encephalitis, HIV/AIDS, malaria, syphilis
+ endocrine disease, such as hypothyroidism, hyperthyroidism, Cushing's syndrome, hypoparathyroidism and hyperparathyroidism; sex hormones also affect psychotic symptoms and sometimes giving birth can provoke psychosis, termed postpartum psychosis
+
+As with many psychiatric phenomena, psychosis has several different causes. These include mental illness, such as schizophrenia or schizoaffective disorder, bipolar disorder, and in rare cases, major depression. Other causes include: trauma, sleep deprivation, some medical conditions, certain medications, and drugs such as cannabis, hallucinogens, and stimulants. One type, known as postpartum psychosis, can occur after giving birth. The neurotransmitter dopamine is believed to play an important role. Acute psychosis is considered primary if it results from a psychiatric condition and secondary if it is caused by a medical condition or drugs. The diagnosis of a mental health condition requires excluding other potential causes. Testing may be done to check for central nervous system diseases, toxins, or other health problems as a cause.
+
+Die Zuordnung ist jedoch je nach Autor als unterschiedlich anzusehen. Manfred Bleuler zählte nur noch die Schizophrenie zu den endogenen Psychosen. Die ICD-10-Klassifikation gebraucht die Bezeichnung endogen nur noch im Zusammenhang mit endogener Depression. Mit dem Begriff endogene Psychose werden organische Psychosen als „exogen“ aus der Gruppe der Psychosen nosologisch ausgeschlossen. Nach der Einteilung des triadischen Systems der Psychiatrie sind auch die Variationen seelischen Wesens (Neurosen und Persönlichkeitsstörungen) als weitestgehend „psychogen“ bzw. als „nicht psychotisch“ abgegrenzt. Endogen bedeutet daher im Sinne der Abgrenzung von organischen Psychosen so viel wie „nicht-somatisch“ und im Sinne der Abgrenzung von Neurosen und Persönlichkeitsstörungen so viel wie „nicht-psychogen“.(a) Im Gegensatz dazu wird der eindeutig biologistische Standpunkt des Krankheitskonzepts als „noch nicht genau erwiesene“, aber hypostasierte Krankheitsursache betont.(a)
+
+Rolf Baer: Endogene Psychosen im 19. Jahrhundert: Von den Vesaniae Cullens zum Schizophreniebegriff Bleulers. In: Gundolf Keil, Gerhardt Nissen (Hrsg.): Psychiatrie auf dem Wege zur Wissenschaft. Psychiatrie-historisches Symposium anläßlich des 90. Jahrestages der Eröffnung der „Psychiatrischen Klinik der Königlichen Universität Würzburg“. Stuttgart/ New York 1985, S. 19–27.
+ Jakob Wyrsch: Zur Geschichte und Deutung der endogenen Psychosen. Thieme, Stuttgart 1956.
+ Rudolf Degkwitz (Hrsg.) & Hans-Joachim Bochnik (Mitverf.): Zum umstrittenen psychiatrischen Krankheitsbegriff. In: Standorte der Psychiatrie; Bd. 2, U&S-Taschenbücher 65, Urban & Schwarzenberg, München 1981, ISBN 3-541-07972-X.
+ Bernhard Pauleikhoff: Endogene Psychosen als Zeitstörungen: Zur Grundlegung einer personalen Psychiatrie unter Berücksichtigung historischer Entwicklung. Hürtgenwald 1986
+ Peter Reuter: Springer Lexikon Medizin. Springer, Berlin u. a. 2004, ISBN 3-540-20412-1, S. 1775.
+
+Nichtorganische Psychosen 
+Erkrankungen mit nichtorganischen (ähnliche Bezeichnungen auch endogene oder funktionelle) Psychosen umfassen:
+ Schizophrenie bzw. Erkrankungen des schizophrenen Formenkreises,
+ Anhaltende wahnhafte Störung (:en:Delusional disorder),
+ Akute oder vorübergehende psychotische Störungen (:en:Brief psychotic disorder),
+ Induzierte wahnhafte Störung,
+ Schizoaffektive Störung,
+ affektive Psychosen (hierunter fallen manche Formen von bipolarer Störung oder schwerer Depression).
+
+Endogene Psychosen und ICD-10 
+In der ICD-10, Kapitel V, werden die psychischen Störungen überwiegend beschreibend klassifiziert, d. h. ohne Berücksichtigung einer auslösenden Ursache (vgl. Nosologie). Lediglich die Diagnosen unter F00 bis F09 („Organische, einschließlich symptomatischer psychischer Störungen “) und F10 bis F19 („Psychische und Verhaltensstörungen durch psychotrope Substanzen“) werden mit Bezug auf die Ursache verschlüsselt. Der Begriff „endogen“ wird nur noch im Zusammenhang mit der endogenen Depression (ICD-10 F296.1) verwendet.
+
+Kritik
+
+Differential diagnosis
+
+To make a diagnosis of schizophrenia other possible causes of psychosis need to be excluded. Psychotic symptoms lasting less than a month may be diagnosed as brief psychotic disorder, or as schizophreniform disorder. Psychosis is noted in Other specified schizophrenia spectrum and other psychotic disorders as a DSM-5 category. Schizoaffective disorder is diagnosed if symptoms of mood disorder are substantially present alongside psychotic symptoms. Psychosis that results from a general medical condition or substance is termed secondary psychosis.
+
+        Question: Which of the following is not a common cause of endogene psychosis: schizophrene Psychosen (heute Schizophrenie) psychosen (heute bipolare Störungen)
+
+        Answer: 
+ affektive Psychosen",0.7843

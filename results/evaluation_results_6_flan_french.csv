@@ -1,0 +1,369 @@
+Sample Index,Question,Expected Answer,RAG Answer,Similarity Score
+1,"From the following text on mental health or psychological troubles, we have a clinical question that could be answered by this text: Grossophobie is a non-neo-neo-neo-neo-",Non-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-neo-ne,"Human: Answer the question based on the following context:
+
+        Context: Although there are limitations in the research studies conducted in this area, namely that most have focused primarily on schizophrenia, this theory provides an explanation of why relatively low levels of substance misuse often result in negative consequences for individuals with severe mental illness.
+
+Avoiding categorical diagnosis
+Current nosological approach does not provide a framework for internal (sub-threshold symptoms) or external (comorbidity) heterogeneity of the different diagnostic categories. The prevailing ""Neo-Kraepelinian"" diagnostic system solely accounts for a categorical diagnosis, therefore not allowing for the possibility of dual diagnosis. There has been substantial criticism to the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), due to problems of diagnostic overlap, lack of clear boundaries between normality and disease, a failure to take into account findings from novel research and the lack of diagnostic stability over time.
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Somatoform disorders may be diagnosed when there are problems that appear to originate in the body that are thought to be manifestations of a mental disorder. This includes somatization disorder and conversion disorder. There are also disorders of how a person perceives their body, such as body dysmorphic disorder. Neurasthenia is an old diagnosis involving somatic complaints as well as fatigue and low spirits/depression, which is officially recognized by the ICD-10 but no longer by the DSM-IV.
+
+Factitious disorders are diagnosed where symptoms are thought to be reported for personal gain. Symptoms are often deliberately produced or feigned, and may relate to either symptoms in the individual or in someone close to them, particularly people they care for.
+
+Psychiatric illnesses can be conceptualised in a number of different ways. The biomedical approach examines signs and symptoms and compares them with diagnostic criteria. Mental illness can be assessed, conversely, through a narrative which tries to incorporate symptoms into a meaningful life history and to frame them as responses to external conditions. Both approaches are important in the field of psychiatry but have not sufficiently reconciled to settle controversy over either the selection of a psychiatric paradigm or the specification of psychopathology. The notion of a ""biopsychosocial model"" is often used to underline the multifactorial nature of clinical impairment. In this notion the word model is not used in a strictly scientific way though. Alternatively, a Niall McLaren acknowledges the physiological basis for the mind's existence but identifies cognition as an irreducible and independent realm in which disorder may occur. The biocognitive approach includes a mentalist
+
+Einzelnachweise 
+
+ 
+Psychische Störung
+Neologismus der 1900er-Jahre
+
+The new definitions of depression were widely accepted, albeit with some conflicting findings and views. There have been some continued empirically based arguments for a return to the diagnosis of melancholia. There has been some criticism of the expansion of coverage of the diagnosis, related to the development and promotion of antidepressants and the biological model since the late 1950s.
+
+Society and culture
+
+Terminology
+
+In the scientific and academic literature on the definition or classification of mental disorder, one extreme argues that it is entirely a matter of value judgements (including of what is normal) while another proposes that it is or could be entirely objective and scientific (including by reference to statistical norms). Common hybrid views argue that the concept of mental disorder is objective even if only a ""fuzzy prototype"" that can never be precisely defined, or conversely that the concept always involves a mixture of scientific facts and subjective value judgments. Although the diagnostic categories are referred to as 'disorders', they are presented as medical diseases, but are not validated in the same way as most medical diagnoses. Some neurologists argue that classification will only be reliable and valid when based on neurobiological features rather than clinical interview, while others suggest that the differing ideological and practical perspectives need to be better
+
+En cas de consommation de méthamphétamine, les personnes souffrant de troubles de la personnalité schizotypique courent un grand risque de développer une psychose permanente.
+
+Axe II 
+Dans la plupart des cas, les troubles de la personnalité schizotypique sont co-produits avec la schizoïdie, le trouble de la personnalité paranoïaque, le trouble de la personnalité évitante, et le trouble de la personnalité borderline.
+
+Diagnostic
+
+DSM-5 
+Dans le DSM-5 de l'American Psychiatric Association, le trouble de la personnalité schizotypique est défini comme un ""modèle de déficits sociaux et interpersonnels marqués par un malaise et une faible capacité d'avoir des relations proches, ainsi que par des distorsions et des excentricités de comportements cognitifs ou perceptuels, à partir de l'âge adulte, et qui sont présents dans une variété de contextes"".
+
+Nature of diagnosis
+
+Arbitrariness 
+Psychiatry has been criticized for its broad range of mental diseases and disorders. Which diagnoses exist are considered valid have changed over time depending on society's norms. Homosexuality was considered mental illness but due to changing sociological attitudes, it is no longer recognised as an illness. Historic disorders that are no longer recognised include orthorexia nervosa, sexual addiction, parental alienation syndrome, pathological demand avoidance, Internet addiction disorder. New disorders include compulsive hoarding and binge eating disorder.
+
+The act of diagnosis itself has been criticized for being arbitrary with some conditions being overdiagnosed. Individuals may be diagnosed with a disease despite having perceiving there as being no issues with their behaviour. In Virginia USA, it was found up to 33% of white boys are diagnosed with ADHD leading to alarm in the medical community.
+
+A description of a cerebral disorder in relation to organic factors and in the context of general paralysis of the insane only; with no reference to schizophrenia, shows a disorder with features of generalized dementia (Lishman 1998). In 1951, a film was made showing the clinical characteristics of simple-type schizophrenia.
+
+Controversy
+Definition of this type of schizophrenia is without unity or is controversial. The diagnosis was discontinued in the DSM system, although it was recommended for reinclusion in 1989. It was subsequently confirmed as having imprecise diagnostic criteria based on collective descriptions lacking in agreement.
+
+        Question: From the following text on mental health or psychological troubles, we have a clinical question that could be answered by this text: Grossophobie is a non-neo-neo-neo-neo-
+
+        Answer: 7. A theoretical or practical issue arising from our workplace environment that affects our ability to perform tasks, leading to stress and burnout.",0.4035
+2,"From the following text on mental health or psychological troubles, I have a clinical question that could be answered by this text: Grossophobie is a discrimination in several areas of life, such as access to work, medical care, education",The following text focuses on issues related to mental health or psychological troubles. The following text focuses on issues related to mental health or psychological troubles. The following text focuses on issues related to mental health or psychological troubles. The following text focuses on issues related to mental health or psychological troubles. The following text focuses on issues related to mental health or psychological troubles. The following text focuses,"Human: Answer the question based on the following context:
+
+        Context: La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+Manifestations 
+Les manifestations de grossophobie s'opèrent sur plusieurs plans. Elles peuvent s'exprimer à travers des remarques personnelles humiliantes concernant le poids d'une personne, de la part du cercle familial, amical, professionnel ou éducatif tout comme de la part d'inconnus. Elles se manifestent également à travers des discriminations dans l'accès aux études et dans leur déroulement, dans le domaine de l'emploi, que ce soit lors de l'embauche ou dans le cadre de son activité professionnelle, dans l'accès au logement, de même que l'accès aux prêts bancaires ou à une prise en charge médicale.
+
+Il s'agit d'une discrimination qui peut être subie en même temps que d'autres. Ainsi, ces personnes doivent généralement faire face à la grossophobie conjointement au sexisme et à l'âgisme.
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+Au travail, la « grossophobie » est liée à la discrimination à l’embauche et à la difficulté d’intégration sociale au sein de l’entité dans le cas où la personne en situation d'obésité trouve un travail. Le travail qu’on lui confère peut être lui-même un signe de discrimination. Ainsi, une personne en état d’obésité peut être privée de plusieurs opportunités professionnelles que ses compétences intellectuelles et personnelles lui permettraient. Toutefois, pour certains employeurs, son apparence peut constituer un obstacle à l’occupation de certains postes nécessitant un contact avec la clientèle.
+
+Lutte contre la grossophobie
+
+Historique 
+La lutte contre la grossophobie débute dans les années 1960 et 1970 aux États-Unis. Un « fat-in » (de sit-in et « fat », gros) a lieu à New York en 1967 et la National Association to Advance Fat Acceptance (NAAFA) est fondée en 1969.
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+Syndromes liés 
+La plupart des patients souffrant de scopophobie peuvent également souffrir de troubles anxieux. La scopophobie a également été liée à de nombreuses autres peurs et phobies irrationnelles. Des syndromes et phobies spécifiques similaire à la scopophobie peuvent impliquer l'erythrophobie (la peur de rougir, qui touche particulièrement les jeunes individus) notamment. La scopophobie est également et communément associée avec la schizophrénie et autres maladies psychologiques. Cependant, elle n'est pas considérée comme le symptôme d'une autre maladie, mais plutôt d'un problème psychologique qui peut se manifester de lui-même. La plupart des victimes de scopophobie peuvent développer des habitudes de voyeurisme ou d'exhibitionnisme. Un autre syndrome spécifique, mais différent, lié à la scopophobie est la scopophilie. Contrairement à la scopophobie, la scopophilie désigne la joie ou l'excitation d'être vu et observé.
+
+Nature of diagnosis
+
+Arbitrariness 
+Psychiatry has been criticized for its broad range of mental diseases and disorders. Which diagnoses exist are considered valid have changed over time depending on society's norms. Homosexuality was considered mental illness but due to changing sociological attitudes, it is no longer recognised as an illness. Historic disorders that are no longer recognised include orthorexia nervosa, sexual addiction, parental alienation syndrome, pathological demand avoidance, Internet addiction disorder. New disorders include compulsive hoarding and binge eating disorder.
+
+The act of diagnosis itself has been criticized for being arbitrary with some conditions being overdiagnosed. Individuals may be diagnosed with a disease despite having perceiving there as being no issues with their behaviour. In Virginia USA, it was found up to 33% of white boys are diagnosed with ADHD leading to alarm in the medical community.
+
+Le  est une organisation non lucrative fondée en 1990, destinée à mettre fin aux discriminations basées sur le poids et qui aide les personnes touchées par ce phénomène par exemple dans le cadre de leur suivi médical ou de leur travail. L' est une organisation non gouvernementale américaine dont le but est de sensibiliser à la question du surpoids et de l'obésité.
+
+France 
+
+En France, la distinction opérée sur la base de l'apparence physique est considérée comme une discrimination en vertu de l’article 225-1 du code pénal. Ce type de discrimination est cependant très difficile à prouver. Le mouvement contre la grossophobie s'organise principalement sur les réseaux sociaux ainsi que sur des sites sur lesquels les personnes peuvent s'exprimer. Plusieurs associations sont engagées dans la lutte contre la grossophobie, dont Allegro Fortissimo fondée en 1994, le collectif Gras Politique de la blogueuse féministe Daria Marx.
+
+        Question: From the following text on mental health or psychological troubles, I have a clinical question that could be answered by this text: Grossophobie is a discrimination in several areas of life, such as access to work, medical care, education
+
+        Answer: ­des àmenta « la toutes ressemblines et l sicul ressident ouples pour tous oubjects et démence et environne, ouves ou etrass données échités ougress, une sous en élences et envisages chez. Nouvert ouren àplex en fait et déciné sousampleens et résvé et étèreux et làux, mais de lénauss oucells, entre lilens etron pendant et les enceën et chez rédent et en les représentades oulements, étant lesce ets ouvé liorème. Imsakné ouvé às mes ouvertanes and informations et dansiyèmesignes étensions et siennes dansactérnecible et dans les fonimen dans les ris ouvert, rés ens oucediation ontvenue sur une ouceediens ouje ou ou oims ou s ou fait, au passe ou les ouvertiani l diculients dansatum ou ré alternairevenirvenirferinals ouea alle suff o enaceffeverteur en porte balinderium mo en pourrame ou biminement ou c ou en s lémences, sistes à s en ré en ch b v en s sc en s en s aut en en s s s pour s en fra sc en une en suiourss d pour l ch soci d s encts en un ou en d b en s en les en d ré en m vie s ent vi om r enc o misse d d y d en s ou les m l en fa d des en c s pour s pour l s ou s ou à sur s s à c s p des s des, d t d ou s des s en cistes s ou r l r f en en ou des es ou v lé v s imp de d d d en en d d d d d tr v en ou d s f b r ma en c ou en gra sim en d l s en car en s en et s en dans en d v en b en en che dans se en tr en en en en d par d en dans d la b tr sur s ind p ou h un par b f com en p v en en d se s so b",0.93
+3,"The concept is derived from the term ""fat phobia"" in English. The term is referenced for the first time in French in 1994, in the book Coup de gueule contre the grossophobie of Anne Zam","Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents an","Human: Answer the question based on the following context:
+
+        Context: Étymologie 
+Le concept est tiré de celui de « fat phobia » en anglais. Le terme est relevé pour la première fois en français en 1994, dans l'ouvrage Coup de gueule contre la grossophobie de l'actrice Anne Zamberlan, fondatrice de l'association Allegro Fortissimo. Un temps tombé dans l'oubli, il est à nouveau popularisé en France en 2017, à la suite de la parution de l'ouvrage On ne naît pas grosse de Gabrielle Deydier. Les équivalents anglophones sont les termes « weightism » ou « weight stigma » concernant les discriminations et « fat shaming » pour les humiliations. Le terme de grossophobie ne figure pas dans les dictionnaires usuels en 2017 et fait son entrée dans les dictionnaires Le Robert en 2019.
+
+Description
+
+Notes et références
+
+Voir aussi
+
+Bibliographie 
+ Wen-Shing Tseng, Handbook of Cultural Psychiatry, San Diego: Academic Press, 2001, , p. 238-239
+ Isaac Meyer Marks, Fears, Phobias and Rituals: Panic, Anxiety, and Their Disorders, New York: Oxford University, 1987, , p. 367
+ Mario Maj et al., Personality Disorders, WPA series, evidence and experience in psychiatry 8, Hoboken, New Jersey: Wiley, 2005, , p.282
+ Malcolm Tatum. What is Anthropophobia?. Conjecture Corporation. Retrieved 3 July 2011.
+ Anthropophobia – Fear of individuals or society. Phobia Source. Retrieved 5 July 2011.
+ Amy Y. Zhang (2001). Anthropophobia: its meaning and concomitant experiences. The International journal of social psychiatry. .
+Doctissimo - Anthropophobie ou la peur des gens
+ L'anthropophobie. Misanthropie; état de celui qui a les hommes en horreur. (Ds Ac. Compl. 1842, Guérin 1892, Lar. ).'''''
+
+Articles connexes
+
+Lien externe 
+ 
+
+Phobie
+Relation humaine
+
+Geschichte 
+Hilde Bruch, Autorin von Eating disorders: obesity, anorexia nervosa, and the person within (1973), war Wegbereiterin psychotherapeutischer Forschung zu Essstörungen.
+
+Seit 1980 gibt es in Deutschland spezifische Sucht-Kliniken und Selbsthilfegruppen.
+
+1999 wurde in Deutschland die Gesellschaft für Ernährungsmedizin und Diätetik gegründet.
+
+Kulturgeschichte, Literatur und moderne Medien 
+Essstörungen spielen in der Erzählkultur eine Rolle, beispielsweise im Märchen „Der süße Brei“ oder vom Schlaraffenland.
+
+Causes de l'anthropophobie 
+La peur panique ou la phobie s'appelle une peur irrationnelle, aggravée dans certaines circonstances. L'origine de cette peur défie l'explication logique. En règle générale, le sujet de la phobie ne représente pas un danger réel. Cependant, pour un individu, il se transforme en une source d’inquiétude accrue, en raison de laquelle il cherche à minimiser tout contact avec lui. Les raisons de l'émergence de peurs obsessionnelles sont souvent dissimulées dans des situations stressantes ou des troubles émotionnels vécus auparavant.
+
+Une phobie (du grec ancien , frayeur, crainte ou répulsion) est une peur démesurée et dépendant d'un ressenti plutôt que de causes rationnelles, d'un objet ou d'une situation précise. L’objet ou la situation qui déclenche la phobie est nommé « phobogène ».
+
+Selon le psychiatre et psychanalyste Paul Denis,  ; c'est ce caractère de danger irréel qui distingue cliniquement la phobie de la peur. 
+
+Dans la Classification internationale des maladies actuelle, les phobies font partie de la catégorie plus générale des troubles anxieux. Les formes que peut revêtir l'affection phobique sont multiples: il peut s'agir par exemple de l'agoraphobie (peur de la foule et des lieux publics), de phobies spécifiques telles que la claustrophobie (peur des lieux clos), ou de phobie sociale, qui est une crainte handicapante de relations sociales comme la prise de parole en public, la rencontre de nouvelles personnes ou de l'opinion ou jugement des autres.
+
+Les suffixes français -phobie, -phobique, -phobe (du grec ancien , ) sont utilisés en tant qu'usage technique dans la psychiatrie pour construire des mots décrivant des peurs irrationnelles comme étant des troubles psychiatriques (ex. agoraphobie), dans la chimie décrivant des aversions chimiques (hydrophobie), en biologie décrivant des organismes intolérants à certaines conditions (ex. halophobie), et en médecine hypersensibles à des stimuli plus ou moins intenses (ex. photophobie).
+
+Cet article présente une liste de phobies non exhaustive, dans une approche phénoménologique, descriptive et comportementaliste. En psychanalyse, cette liste ne serait pas pertinente puisque ce ne sont pas les symptômes et leurs formes (très variables et instables particulièrement pour les phobies), mais leurs mécanismes intrapsychiques qui sont à étudier.
+
+Obsessions impulsives 
+
+Les obsessions impulsives (ou phobie d'impulsion) : il s'agit de la crainte obsédante de commettre un acte délictueux ou dangereux (crainte d'agresser quelqu'un, de blasphémer dans une église, de commettre des actes pédophiles).
+
+NB : Les obsessions phobiques et les phobies d'impulsion sont donc des obsessions, et pas des phobies.
+
+Notes et références
+
+Voir aussi
+
+Articles connexes 
+ Névrose obsessionnelle
+ Trouble obsessionnel compulsif
+ Phobie d'impulsion
+
+Bibliographie 
+ Guelfi JD, éd. Psychiatrie. Paris : PUF; 1993. 
+ Guillevin L, éd. Sémiologie médicale. Paris : Flammarion Médecines-Sciences; 2004. 
+ Papet N, Lafay N, Manzanera C, Senon JL. Les névroses. Examen Classant National : Question(s) 266. Faculté de Médecine de l'Université de Poitiers; 2003.
+ Thomas L.V (1988) Anthropologie des obsessions (Vol. 31). Éditions L'Harmattan.
+
+Sémiologie psychiatrique
+Névrose
+Trouble anxieux
+
+L'epistaxiophobie est une phobie correspondant à la peur des saignements de nez.
+
+Notes et références 
+
+Phobie
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Les phobies vis-à-vis des maladies, comme la nosophobie (peur des maladies en général) ou la cancérophobie (peur du cancer), sont en principe des formes d'hypocondrie et non des phobies simples. Néanmoins, certains classements rangent la peur d'être contaminé dans les phobies simples, et celle d'être déjà malade dans l'hypocondrie.
+
+La plupart des phobies spécifiques représentent un état extrême d’un sentiment normal : la phobie des avions représente la suramplification de la sensation d’appréhension naturelle que tout le monde ressent lors d’un décollage, par exemple. Les symptômes ressentis lors de la confrontation à l’objet ou la situation phobogène varient fortement d’un sujet à l’autre, constituant dans les cas extrêmes une attaque de panique avec malaise général, sensation de mort imminente, tachycardie, sueurs, etc. Dans tous les cas, les sujets frappés de phobie spécifique sont conscients de l’irrationalité de leur peur, et en souffrent.
+
+        Question: The concept is derived from the term ""fat phobia"" in English. The term is referenced for the first time in French in 1994, in the book Coup de gueule contre the grossophobie of Anne Zam
+
+        Answer: ices, jouisseur du Monde, ougress :vertissement etré, le bullet.
+d’article : FA
+190, carcir, vous à la ligne ; et le 19 (suite. Il· depuis leissent pour lui de notre connaient etron etur,14ment, tout, d, lisse. É, qui l'Internet, le XX ; l'annon, sous en. Inühr, etrier pour leissant. Une desrontaire. Donnass pendant lresse dans lelette lapp surventment dans une en lence, levent, ça. Une avant, lange. Oème duonnes, lvéiné fait, àrons. Ironner dans la ennetnement, levet sous pour.
+leur dansonn dansonne du passe à lanneuntelement. Litte. Àvert.
+« lextaineresse externes et anniste etrame oucier les chezcibleeuraque etnant, ayantcket pour. prenance dans les, lasion chez décinde ceineceuricle àvet surced́néutorienne, une chehemoun jouenne de ve en le p préspent pour fait dppe pourgue pourrant dansenf someu pouroonirs et faire la « des informaire chistes b une cou «réâs d d le l d d d v son cor loire du ré d atte qui l’g ch fait l mon po d en l P <l so cr lou des une b d t R vous “rés ‘d dans s ré d v. s des cou ent ou inter d facts al information s l so d ou ré s pour l   d  d, du ré ré, ma con s so s d l M 1 L De S P d d 
+< d en s d ré fou d grs ré gr d ré ré p s d d du d cu con en pr des d p vous tra so pro ré de d l en d en en d d de d ou d pr supp",0.9594
+4,"partir du texte suivant sur la santé mentale ou les troubles psychologiques, I would like to point out a specific question that could be answered by this text: Description The grossophobie disfigures the entire behaviour, discrimin","The grossophobie disfigures the entire behaviour, discrimination","Human: Answer the question based on the following context:
+
+        Context: La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Conséquences de la grossophobie
+
+Inefficacité de la stigmatisation des personnes en surpoids 
+
+Il est démontré que la stigmatisation des personnes grosses, au lieu d'avoir un effet bénéfique sur leur mode de vie et d'encourager la perte de poids, peut renforcer les habitudes de vie qui ne sont pas saines. Elle peut augmenter ainsi la probabilité de s'engager dans des comportements alimentaires qui peuvent s'avérer délétères (, troubles alimentaires, consommation plus élevée de nourriture…), et diminue celle de s'investir dans une activité physique, contribuant davantage à augmenter le risque d'obésité.
+
+Répercussions physiques et psychologiques délétères 
+Aux conséquences directes sur la santé de l'obésité et du surpoids s'ajoutent celles liées à la pression sociale de la grossophobie et à son internalisation.
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+Les expériences tristes de l'enfance ne provoquent pas toujours des états semblables à ceux d'une névrose. Souvent, elles surviennent chez des individus qui ne sont jamais passés par des situations difficiles, mais en raison des caractéristiques de la personnalité, des peurs obsessionnelles telles que l'anthropophobie peuvent se développer. Ainsi, l’anthropophobie est une sorte de réaction comportementale défensive hypertrophiée du corps face à toutes sortes de stimuli négatifs, à savoir le comportement agressif des adultes autour des enfants, la suppression de la personnalité de l’enfant, certaines situations, la peur (attentat terroriste), la violence.
+
+Syndromes liés 
+La plupart des patients souffrant de scopophobie peuvent également souffrir de troubles anxieux. La scopophobie a également été liée à de nombreuses autres peurs et phobies irrationnelles. Des syndromes et phobies spécifiques similaire à la scopophobie peuvent impliquer l'erythrophobie (la peur de rougir, qui touche particulièrement les jeunes individus) notamment. La scopophobie est également et communément associée avec la schizophrénie et autres maladies psychologiques. Cependant, elle n'est pas considérée comme le symptôme d'une autre maladie, mais plutôt d'un problème psychologique qui peut se manifester de lui-même. La plupart des victimes de scopophobie peuvent développer des habitudes de voyeurisme ou d'exhibitionnisme. Un autre syndrome spécifique, mais différent, lié à la scopophobie est la scopophilie. Contrairement à la scopophobie, la scopophilie désigne la joie ou l'excitation d'être vu et observé.
+
+La schizophrénie est couramment traitée par des médicaments antipsychotiques (neuroleptiques) prévenant les phases aigües ou diminuant l'intensité des symptômes. Certaines formes de psychothérapie et de soutien éducatif sont prodiguées car elles favorisent le maintien de la personne dans la communauté et au travail. Dans les cas les plus sévères , une hospitalisation sans consentement peut être nécessaire. Cependant, seule une petite minorité de personnes souffrant de troubles mentaux adopte un comportement dangereux pour les autres.
+
+Selon l'Organisation mondiale de la santé, les personnes atteintes de schizophrénie sont sujettes à des violations des droits humains, tant dans les établissements de santé mentale que dans les communautés. La stigmatisation de ce trouble est élevée. Cela contribue à la discrimination, qui peut à son tour limiter l'accès aux soins de santé généraux, à l'éducation, au logement et à l'emploi.
+
+La sitiophobie est un symptôme observé au cours de certains troubles psychiatriques, qui désigne le refus total de toute nourriture, sous-tendu par des motivations délirantes.
+
+Ce symptôme peut notamment être observé au cours des pathologies suivantes :
+ psychoses ;
+ trouble bipolaire ;
+ confusion mentale ;
+ démence.
+
+Voir aussi 
+ Inédie
+
+Sémiologie psychiatrique
+
+        Question: partir du texte suivant sur la santé mentale ou les troubles psychologiques, I would like to point out a specific question that could be answered by this text: Description The grossophobie disfigures the entire behaviour, discrimin
+
+        Answer: 1. With that is a short andhelpful explanation,causing. Generally speakinge importance offerent definitionscient researchers arement and other questions.
+Worldwide a
+In terms richesse better understanding thefool psychologyof theoristic.
+ Questions andddisclaims and definition: The information given
+<|questions les informations les propositions de notreple. Les personnes : Lignes pourames. | B, ceinture etances essentiels... Of, comme ouvert et ; questions or les support pours,eux? Pourfact. Presistance. Tout, une et whatine etinitiones articles or: sont etes : Jeudi: etindre ou à lèmes et de données etums les chormes etums avec les ressample: Dans l'les articles ouentes en l'aïments et environ leshonnes et les organisements dans lors.
+avez etiennes ouves, les rédent prisses et lèmes dans des informations. Mais environnes.
+Dépances. Les étant. Une étamenlement ougré dans les représentines, déciner. Dansné ainsiens puis à mes, enfences etcé à une et chez dans léré. Leshin.
+doms et les siennes ou en, les étrinary, avec les principités et dernier ouces etce auvers pour léléientiens, ourame ouwedlle des ouvert, parmi lesmitt oufattiane etignes dans lég desión, avecignes à couimen élenceenessiation, mais dans leimen. D é etils dans s rés des ou sodenatumnel ou nos ouinyctionsvenue ou ouhing ouced ou s affinde ou passe dans les rapport dans leisis et s enients somissant entre linéciblevenirenceshes social ences ou alterniate alleiante pour d en lissent d en enisse ou entre céchences en en ré o enients ou en ent s l en une en en che en enc d d su en en en s ou ré des ch vil d m d en du l en sc en de cr d frs en so en en ou ou imp ou ou y ené. ou sur d une plus ou s s prov es fac p d d d en en d de p en en en sc en d s d",0.5496
+5,"From the following text on mental health or psychological troubles, I would like to express a clinical question that could be answered by this text: Origin",What is the main topic of the text?,"Human: Answer the question based on the following context:
+
+        Context: Clinical conceptions of mental illness also overlap with personal and cultural values in the domain of morality, so much so that it is sometimes argued that separating the two is impossible without fundamentally redefining the essence of being a particular person in a society. In clinical psychiatry, persistent distress and disability indicate an internal disorder requiring treatment; but in another context, that same distress and disability can be seen as an indicator of emotional struggle and the need to address social and structural problems. This dichotomy has led some academics and clinicians to advocate a postmodernist conceptualization of mental distress and well-being.
+
+History
+
+The earliest known texts on mental disorders are from ancient India and include the Ayurvedic text, Charaka Samhita. The first hospitals for curing mental illness were established in India during the 3rd century BCE.
+
+References
+
+Mental disorders
+
+Society and culture
+
+Terminology
+
+The term ""depression"" is used in a number of different ways. It is often used to mean this syndrome but may refer to other mood disorders or simply to a low mood. People's conceptualizations of depression vary widely, both within and among cultures. ""Because of the lack of scientific certainty,"" one commentator has observed, ""the debate over depression turns on questions of language. What we call it—'disease,' 'disorder,' 'state of mind'—affects how we view, diagnose, and treat it."" There are cultural differences in the extent to which serious depression is considered an illness requiring personal professional treatment, or an indicator of something else, such as the need to address social or moral problems, the result of biological imbalances, or a reflection of individual differences in the understanding of distress that may reinforce feelings of powerlessness, and emotional struggle.
+
+Notes
+
+References
+
+Citations
+
+Cited texts
+
+Further reading
+
+ 
+ 
+ 
+ Francis, Gavin, ""Changing Psychiatry's Mind"" (review of Anne Harrington, Mind Fixers: Psychiatry's Troubled Search for the Biology of Mental Illness, Norton, 366 pp.; and Nathan Filer, This Book Will Change Your Mind about Mental Health: A Journey into the Heartland of Psychiatry, London, Faber and Faber, 248 pp.), The New York Review of Books, vol. LXVIII, no. 1 (14 January 2021), pp. 26–29. ""mental disorders are different [from illnesses addressed by other medical specialties].... To treat them as purely physical is to misunderstand their nature."" ""care [needs to be] based on distress and [cognitive, emotional, and physical] need rather than [on psychiatric] diagnos[is]"", which is often uncertain, erratic, and unreplicable. (p. 29.)
+
+Related articles on Wikipedia 
+
+ 
+Mental disorders
+Neuroscience
+Branches of psychology
+
+Articles connexes 
+ Hospitalisme
+ Anaclitique
+ Théorie de l'attachement
+ Angoisse de perte d'objet
+
+Psychopathologie psychanalytique
+Psychologie clinique
+Pédiatrie
+Pathologie en psychiatrie du bébé
+Dépression (psychiatrie)
+
+Clinical assessment requires obtaining the history from the mother herself and, because she is often severely ill, lacking in insight and unable to give a clear account of events, from at least one close relative.  A social work report and, in mothers admitted to hospital, nursing observations are information sources of great value.  A physical examination and laboratory investigations may disclose somatic illness complicating the obstetric events, which sometimes provokes psychosis. It is important to obtain the case records of previous episodes of mental illness, and, in patients with multiple episodes, to construct a summary of the whole course of her psychiatric history in relation to her life.
+
+Psychiatry, like most medical specialties, has a continuing, significant need for research into its diseases, classifications and treatments. Psychiatry adopts biology's fundamental belief that disease and health are different elements of an individual's adaptation to an environment. But psychiatry also recognizes that the environment of the human species is complex and includes physical, cultural, and interpersonal elements. In addition to external factors, the human brain must contain and organize an individual's hopes, fears, desires, fantasies and feelings. Psychiatry's difficult task is to bridge the understanding of these factors so that they can be studied both clinically and physiologically.
+
+See also
+ History of child and adolescent psychiatry
+ History of psychiatric institutions
+ History of neurology
+ History of psychology
+ History of neuropsychology
+ History of neurophysiology
+
+References
+
+Cited texts
+
+Further reading
+ 
+
+ 
+Psychiatry
+
+In 1656, Louis XIV of France created a public system of hospitals for those suffering from mental disorders, but as in England, no real treatment was applied.
+
+Humanitarian reform
+
+During the Enlightenment attitudes towards the mentally ill began to change. It came to be viewed as a disorder that required compassionate treatment that would aid in the rehabilitation of the victim. In 1758 English physician William Battie wrote his Treatise on Madness on the management of mental disorder. It was a critique aimed particularly at the Bethlem Hospital, where a conservative regime continued to use barbaric custodial treatment. Battie argued for a tailored management of patients entailing cleanliness, good food, fresh air, and distraction from friends and family. He argued that mental disorder originated from dysfunction of the material brain and body rather than the internal workings of the mind. Exorcisms and other methods such as trephining weren't common
+
+Campbell discussed the inappropriateness of India Knight's word choices. In writing that everyone gets depressed, he commented, she showed that she was part of that world that does not believe that clinical depression is a disease.  Campbell claimed that Knight's article reinforced the reality that there is still stigma and taboo surrounding depression. He noted that even in the medical profession, people are afraid to mention to their employers that they have depression, because they would not be fully understood as they would be if they suffered from a ""physical illness"".  Campbell wrote of the struggle to bring understanding to mental illness, and described Knight's article as ""unhelpful, potentially damaging and certainly show[ing that] we still have quite a way to go.""
+
+People with schizophrenia are often portrayed as dangerous, violent, and as criminals despite the fact that the vast majority of them are not.
+
+Movies
+
+        Question: From the following text on mental health or psychological troubles, I would like to express a clinical question that could be answered by this text: Origin
+
+        Answer: 
+
+    Text: The concept of mental illness developed as a response to the increasing complexity of the social problems facing Europe in the 19th century. At the beginning of the century, societies struggled to adapt themselves to the changes brought about by industrialisation, urbanisation, and globalisation. These challenges led many governments to invest in new approaches to the treatment of mental illness. One of these new approaches was the development of psychotherapy, which emerged in Germany in the late 19th century. By the mid-20th century, psychotherapy had become an integral component of mainstream psychiatric practice. However, while psychotherapy was becoming more accepted, its effectiveness was not always clear. Many early attempts to develop effective forms of psychotherapy failed due to the poor quality of their methods, the weak evidence base behind their claims, and resistance to innovation from traditional psychiatrists who felt threatened by these developments. In the second half of the twentieth century, psychotherapy became more widely accepted and the field of psychotherapeutic medicine grew rapidly. Today, psychotherapy remains a cornerstone of modern psychiatric practice. Advances in knowledge and technology mean that psychotherapy can now target specific cognitive, behavioural, and physical symptoms in greater depth than ever before. At the same time, the recognition of psychosocial influences on mental health has led to increased interest in developing more holistic forms of care. As a consequence, psychotherapy is no longer confined to the provision of therapists alone. Instead, there is growing emphasis on collaboration between psychotherapists and colleagues working across disciplines such as nutrition, exercise, dietary supplements, occupational therapy, and complementary medicine. The present edition provides comprehensive coverage of the latest developments in all areas of psychotherapy, including psychoanalysis, cognitive-behavioural therapy, dialectical behaviour therapy, group therapy, mindfulness-based therapy, and transdiagnostic approaches. We hope you enjoy this book. If you do, please write us a review via our website. Thank you for your purchase!",0.0552

@@ -1,0 +1,288 @@
+Sample Index,Question,Expected Answer,RAG Answer,Similarity Score
+1,Which of the following is not a symptom of grossophobie?,"stigmatisent et discriminent les personnes grosses, en surpoids ou obèses","Human: Answer the question based on the following context:
+
+        Context: Les musophobes peuvent avoir une obsession pour la propreté. En effet, s'ils repèrent une souris chez eux, ils pensent qu'elle contamine leur nourriture avec sa salive, son urine et ses excréments, qui sont très pathogènes, et que ces derniers peuvent apporter des maladies, parfois mortelles comme l'orthohantavirus et la leptospirose.
+
+Symptômes 
+La musophobie se manifeste sous plusieurs formes : dégoût, panique et palpitations. Chez certains individus, elle peut conduire à une totale paranoïa. En effet, ce trouble les submerge de doutes vis-à-vis de leur sécurité tout en les poussant à vérifier constamment la présence de rats dans tous les recoins de leurs entours tels que la maison, la cave, le grenier, etc. En d'autres termes, cette phobie des rats peut conduire à une véritable obsession. Ce type de phobie entraîne également des pleurs, des tremblements et éventuellement des cauchemars.
+
+Symptômes et effets 
+Les individus souffrant de scopophobie montrent généralement des symptômes lors de situations sociales. Un exemple spécifique de situation sociale peut inclure la parole devant un grand public. D'autres situations peuvent causer de l'anxiété comme être présenté à d'autres gens, être félicité et/ou réprimandé, être facilement embarrassé ou même répondre au téléphone en public.
+
+Souvent la scopophobie est liée aux troubles anxieux. Les symptômes incluent : un sentiment de panique exagéré, sentiment de terreur, palpitations, souffle court, nausée, bouche asséchée, tremblements, anxiété et des mesures exagérées d'évitement concernant des situations qui peuvent causer ces symptômes. 
+D'autres symptômes possibles peuvent notamment impliquer : hyperventilation, tension musculaire et étourdissements.
+
+Traitements
+
+En lien avec les manifestations décrites ci-dessus, beaucoup s’intéressent, anthropophobie, à la façon de se battre. Tout d'abord, vous devez comprendre qu'un psychiatre doit faire une ""phrase"" sur la présence d'une phobie. Depuis les symptômes considérés ne sont pas un signe absolu de la présence d'anthropophobie. D'autres maladies mentales peuvent facilement masquer un trouble phobique. Un diagnostic erroné entraînera un traitement inadéquat pouvant exacerber les symptômes.
+
+Syndromes liés 
+La plupart des patients souffrant de scopophobie peuvent également souffrir de troubles anxieux. La scopophobie a également été liée à de nombreuses autres peurs et phobies irrationnelles. Des syndromes et phobies spécifiques similaire à la scopophobie peuvent impliquer l'erythrophobie (la peur de rougir, qui touche particulièrement les jeunes individus) notamment. La scopophobie est également et communément associée avec la schizophrénie et autres maladies psychologiques. Cependant, elle n'est pas considérée comme le symptôme d'une autre maladie, mais plutôt d'un problème psychologique qui peut se manifester de lui-même. La plupart des victimes de scopophobie peuvent développer des habitudes de voyeurisme ou d'exhibitionnisme. Un autre syndrome spécifique, mais différent, lié à la scopophobie est la scopophilie. Contrairement à la scopophobie, la scopophilie désigne la joie ou l'excitation d'être vu et observé.
+
+Signes et symptômes
+
+Die Symptome beschränken sich ausschließlich oder vornehmlich auf die gefürchteten Situationen oder auf Gedanken an diese.
+
+Die Symptome sind nicht bedingt durch Wahn, Halluzinationen oder andere Symptome der Störungsgruppen organische psychische Störungen, Schizophrenie, affektive Störungen oder eine Zwangsstörung und sind nicht Folge von kulturell akzeptierten Anschauungen.
+
+Symptômes positifs 
+Les symptômes positifs (ou excédentaires) sont les symptômes qui s'ajoutent à l'expérience de la réalité et aux comportements habituels et qui ne sont pas ressentis normalement par les individus non malades : c’est leur présence qui est anormale. Ces symptômes se manifestent habituellement au début de l'âge adulte, entre  chez les hommes et entre  chez les femmes. Ils répondent généralement bien aux traitements pharmaceutiques. Ces symptômes sont ajoutés au fonctionnement normal de l'individu (ils sont en plus). Le terme « positif » ne veut pas dire qu'ils soient de bons (ni de mauvais) pronostics.
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+Scheu vor dem Umgang mit psychischen Störungen wird bei vergleichsweise milden Symptomen oftmals über Jahre hinweg nicht eingegriffen – möglicherweise auch aus Angst vor Medikamenten. Dabei kann der Verlauf durch das frühzeitige Stellen einer Diagnose und mit regelmäßigen Gesprächen stark positiv beeinflusst werden.
+
+„In connection with this diffuse anxiety, a pan-neurosis is also Present. The patients usually do not have one or two different neurotic manifestations, but all symptoms known in neurotic illness are often present at the same time. These patients have tensions and many conversion symptoms in connection with anxiety; gross hysterical, or often vegetative manifestations like poor sleep, anorexia, vomiting and palpitation; and at the same time they will express phobias similar to those observed in anxiety hysteria, such as fear of being killed or being in open or closed places, or riding in subways. These phobias are often combined with other obsessive-compulsive mechanisms. The patient is dominated by these neurotic manifestations which constantly shift, but are never completely absent. In a good many patients, in addition, depression is present, or a so-called anhedonic state, in which the patient does not deri:ve any pleasure from anything. He tries, at the same time, to force
+
+        Question: Which of the following is not a symptom of grossophobie?
+
+        Answer: 1. Avoiding contact with food and eating disorders
+        ---------------------------------------------------
+        2. Excessive weight loss and bulimia nervosa
+        --------------------------------------------
+        3. Panicky attacks and hypersalivation
+        ----------------------------------------
+        4. Delayed gastric emptying
+        --------------------------------
+        5. Purgatory and abdominal pain
+        ---------------------------------",0.4354
+2,"Which of the following is not a form of discrimination: sexism, sexism, sexism, sexism, sexism, sexism,","sexism, sexism, sexism, sexism, sexism, sexism","Human: Answer the question based on the following context:
+
+        Context: Comme d'autres formes de discrimination telles que le sexisme et le racisme, la psychophobie implique des formes d'oppression intersectionnelles complexes, incluant les inégalités sociales et les déséquilibres de pouvoir. La psychophobie se manifeste ainsi dans de nombreux domaines : les personnes catégorisées comme souffrant de troubles psychiques peuvent subir des discriminations relatives à leur accès au travail et à leur niveau de rémunération au sein de celui-ci, leur accès au logement, à une vie sociale indépendante etc. 
+
+Des approches intersectionnelles de la psychophobie ont été proposées.
+
+Orientations sexuelles et genres 
+ Acephobie - Peur, rejet ou discrimination des personnes asexuelles.
+ Biphobie – Attitude de peur, discrimination, ou une haine des personnes bisexuelles, pansexuelles, omnisexuelles ou non-monosexuelle. 
+ Hétérophobie - Mépris, rejet ou haine envers des personnes, des pratiques ou des représentations hétérosexuelles.
+ Homophobie – Mépris, rejet, discrimination, répression envers des personnes, des pratiques ou des représentations homosexuelles.
+ Lesbophobie – Hostilité, discrimination envers les personnes lesbiennes.
+ Transphobie – Mépris, rejet, discrimination, répression envers des personnes transgenres.
+
+Le  est une organisation non lucrative fondée en 1990, destinée à mettre fin aux discriminations basées sur le poids et qui aide les personnes touchées par ce phénomène par exemple dans le cadre de leur suivi médical ou de leur travail. L' est une organisation non gouvernementale américaine dont le but est de sensibiliser à la question du surpoids et de l'obésité.
+
+France 
+
+En France, la distinction opérée sur la base de l'apparence physique est considérée comme une discrimination en vertu de l’article 225-1 du code pénal. Ce type de discrimination est cependant très difficile à prouver. Le mouvement contre la grossophobie s'organise principalement sur les réseaux sociaux ainsi que sur des sites sur lesquels les personnes peuvent s'exprimer. Plusieurs associations sont engagées dans la lutte contre la grossophobie, dont Allegro Fortissimo fondée en 1994, le collectif Gras Politique de la blogueuse féministe Daria Marx.
+
+Il s'agit d'une discrimination qui peut être subie en même temps que d'autres. Ainsi, ces personnes doivent généralement faire face à la grossophobie conjointement au sexisme et à l'âgisme.
+
+Relations interpersonnelles 
+Des remarques peuvent être émises par des proches, tout comme par des personnes inconnues ou anonymes dans la rue ou sur internet. Aux États-Unis, des études ont montré que 90 % des personnes grosses avaient subi des commentaires humiliants sur leur poids de la part de membres de leur famille, d'amis ou de collègues.
+
+La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+Les personnes obèses sont victimes de discrimination à l'embauche. Lors d'une recherche d'emploi, elles présentent deux fois moins de chance d'être recrutées, et ont 20 % de chance en moins d'être rappelées pour un entretien par rapport à une personne mince à compétences égales. Cette discrimination est accentuée chez les femmes : en France, les hommes obèses sont trois fois plus discriminés à l'embauche que des hommes à l'indice de masse corporelle (IMC) « normal », alors que les femmes obèses sont huit fois plus discriminées que les femmes à l'IMC « normal ». Concernant le surpoids, les hommes n'en sont pas spécifiquement affectés à l'embauche, alors que les femmes en surpoids sont trois fois plus discriminées que les femmes à l'IMC « normal ». En France et dans le cadre d'un travail commercial, il a également été montré que les personnes obèses avaient trois fois moins de chance d'obtenir un entretien et obtenaient 24 % de réponses positives en moins pour un travail de télévendeur.
+
+Manifestations 
+Les manifestations de grossophobie s'opèrent sur plusieurs plans. Elles peuvent s'exprimer à travers des remarques personnelles humiliantes concernant le poids d'une personne, de la part du cercle familial, amical, professionnel ou éducatif tout comme de la part d'inconnus. Elles se manifestent également à travers des discriminations dans l'accès aux études et dans leur déroulement, dans le domaine de l'emploi, que ce soit lors de l'embauche ou dans le cadre de son activité professionnelle, dans l'accès au logement, de même que l'accès aux prêts bancaires ou à une prise en charge médicale.
+
+Il s'agit d'une discrimination qui peut être subie en même temps que d'autres. Ainsi, ces personnes doivent généralement faire face à la grossophobie conjointement au sexisme et à l'âgisme.
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+La discrimination des personnes grosses se fonde sur des stéréotypes et des préjugés négatifs communément partagés selon lesquels les personnes obèses seraient à la fois paresseuses, bêtes et moins brillantes, et feraient preuve d'un manque de volonté et d'autodiscipline qui seraient à l'origine de leur poids. Pour Esther Rothblum, psychologue américaine et professeure experte en discrimination, les personnes en surpoids sont ainsi perçues comme manquant d’autocontrôle, alors que le poids dépend de l'interaction entre différents facteurs physiologiques, comportementaux, psychologiques, socioéconomiques et culturels. En partant de ces perceptions communes selon lesquelles les personnes obèses sont responsables de leur état, la stigmatisation et le blâme de ces personnes sont considérées comme justifiés ou acceptables par la collectivité, jugeant que cela serait de nature à les pousser à adopter un meilleur mode de vie. Ces stéréotypes négatifs qui affectent la perception des personnes
+
+        Question: Which of the following is not a form of discrimination: sexism, sexism, sexism, sexism, sexism, sexism,
+
+        Answer: ✓ Soppers, vous presses, afin de lidé dans les oeft ouvertiens-esséntières, ainsi etresse, dans les ouvetissant, mais, la lass, mais ouss décusc, le prences.
+ l'o et les ressentes et londnes, leplexment de lession denses et si ouissions ouxes oulements ouients, les ouservné et lours, notamment ou, les enspeins etrs, essés pour lc, fermistes, envertne ouvient ouns ; en étant deums ouveristes etnesss oubles. Prisses et sévertmes ourens ours etrises ouve ou desses soussänder du démiennes etvé pours pours ouvers etves pours et ouves donnettes ou saurignes ouves etgers, enfresse, v, nous voigne, notre ou passe ouilsures endes etens et ou les surnant ouresse ouvezurs moyence oulage sósuls etsers, les sortances, descible ouvertraints oucomes et sur en fait làders et en des ou ou d, environnelded ou l d ouving ou en ou ourons enver des p ou en v l en en cl en pour une dans en v en en, en s en des b en v s en envunes en l en s c pour d crs ouves ou des s cous sur desb des ont pour ou pour des, en en é ou, de rren en, d en ou ourage ou che ou une ou v v ch la conts ou ous des en ré D des ou des, d ou v sc des en ou pour en des en s pour s des de l mé ou des pr en pour des ou s ou des ds au des enc des d en f des des pros les ou frs b ens des ou des les des aff des des ré les ré p des des orient des orients ens d et ou prés d affs des, p des v d des, ds de f ré n qui ré qui lâ prs en o ou pour pours les ou v ou en de coms d prs des et dans, ou ou, ou les,",0.6899
+3,What is the name of the author of the book Coup de gueule contre the grossophobie of Anne Zamberlan?,Allegro Fortissimo,"Human: Answer the question based on the following context:
+
+        Context: Jung, Carl G., (1959). The Collected Works of C. G. Jung. (17 Volumes). London: Routledge & Kegan Paul.
+ Le Bon, G., (1960). (First Published 1895). The Mind of the Crowd. New York: Viking.
+
+Buzz de L'Enfant-Cheval
+
+Einzelnachweise 
+
+!
+ Geschichte
+
+Zelda Fitzgerald – American wife of writer F. Scott Fitzgerald; writer, dancer and artist
+Janet Frame – New Zealand author
+Ed Gein – American killer and body snatcher
+Eugène Gabritschevsky – Russian painter and microbiologist
+Ted Gärdestad – Swedish musician (was in Eurovision 1979)
+Paul Gösch – German artist and architect
+Donny Hathaway – American soul singer and songwriter
+Sigrid Hjertén – Swedish painter
+Adèle Hugo – Daughter of French writer Victor Hugo; her story is told in the film The Story of Adele H.
+ Daniel Johnston – American artist and musician
+Uuno Kailas – Finnish poet
+Marij Kogoj – Slovenian composer
+Ronald Kray – English gangster prominent during the 1950s and 1960s
+Veronica Lake – American Hollywood actress of the 1940s
+Jakob Lenz – German writer of the Sturm und Drang movement of the 18th century
+Elfriede Lohse-Wächtler – German avantgarde-painter
+Agnes Martin – Canadian American abstract painter
+Charles Manson – American criminal, cult leader and folk rock musician
+
+Content
+
+Timeframe
+In the foreword written by Paul Friedman, the author stresses the historical significance of the document as it was one of the last meetings of the society. Giving an illustration of the Zeitgeist of 1910 he describes an ""epidemic"" of suicides among young students, partly due to the book The Sorrows of Young Werther written by Goethe. Furthermore, the author displays the time before 1900 as a deterministic philosophy where human behavior was attributed to outer abiding causes and was rationalized.
+
+Krimireihe um Kommissar Lost, geschrieben von Gil Ribeiro. Lost ist ein Asperger-Autist; in den Büchern werden die Eigenschaften eines Asperger-Betroffenen beschrieben. Beispiel:
+ Gil Ribeiro:  Lost in Fuseta - Spur der Schatten. Kiepenheuer & Witsch, Köln 2019, ISBN 978-3-462-05305-0.
+
+Jugendliteratur 
+ Siobhan Dowd: The London Eye Mystery. David Fickling Books, 2007, ISBN 978-0-385-61266-1.
+ Mark Haddon: The Curious Incident of the Dog in the Night-Time. Vintage, 2003, ISBN 0-09-947043-8; deutsch: Supergute Tage oder Die sonderbare Welt des Christopher Boone. cbj, 2015, ISBN 978-3-570-40321-1.
+ Daniela Schreiter: Lisa und Lio: Bd. 1: Das Mädchen und der Alien-Fuchs. Panini Stuttgart 2020, ISBN 978-3741618239
+
+Spielfilme/Serien
+
+Belletristik 
+ Craig Lancaster: 600 Hours of Edward. Riverbend Publishing, 2009, ISBN 978-1-60639-013-9.
+ Craig Lancaster: Edward Adrift. Lake Union Publishing, 2013, ISBN 978-1-61109-905-8; deutsch: Edward auf Reisen. AmazonCrossing, 2014, ISBN 978-1-4778-2168-8.
+ Kathy Lette: The Boy who Fell to Earth. Bantam Press, 2012, ISBN 978-0-593-06084-1.
+ Jodi Picoult: House Rules. Hodder, 2010, ISBN 978-0-340-97908-2; deutsch: In den Augen der anderen. Bastei Lübbe, August 2011, ISBN 978-3-431-03841-5. (Roman, in dem das Asperger-Syndrom und seine Auswirkungen beschrieben werden.)
+ Graeme Simsion: The Rosie Project. Simon & Schuster, 2013, ISBN 978-1-4767-2908-4; deutsch: Das Rosie-Projekt. Krüger-Verlag, Frankfurt am Main 2014, ISBN 978-3-8105-1951-1.
+ Graeme Simsion: The Rosie Effect: A Novel. Michael Joseph Ltd, 2014, ISBN 978-0-7181-7948-9; deutsch: Der Rosie-Effekt: Noch verrückter nach ihr. Fischer Krüger, 2014, ISBN 978-3-8105-2258-0.
+
+Einzelnachweise
+
+Literatur 
+
+ Ernst Mutschler u. a.: Arzneimittelwirkungen. 8. Auflage. Wissenschaftliche Verlagsgesellschaft. Stuttgart 2001, ISBN 3-8047-1763-2.
+
+Weblinks 
+
+!
+
+Präventive Maßnahmen 
+Die Regierung von Grönland sowie internationale und nationale Organisationen haben Maßnahmen ergriffen, um Suizide zu vermeiden. Es gibt mehrere Verbindungen, die Hilfe für suizidgefährdete Menschen bereitstellen. Entlang von Straßen oder Schulgebäuden gibt es Plakate mit der Aufschrift: „Der Anruf ist kostenlos. Niemand ist allein. Sei nicht allein mit deinen finsteren Gedanken. Rufe uns an.“ Fachberater in Sachen Suizidvermeidung wenden sich mit Filmen an Jugendliche, um Suizidversuche zu verhindern.
+
+Siehe auch 
+ Suizidrate nach Ländern
+
+Literatur 
+ Niviaq Korneliussen: Naasuliardarpi (2020)
+
+Einzelnachweise 
+
+Suizid
+Gesellschaft (Grönland)
+
+Geschichte
+
+        Question: What is the name of the author of the book Coup de gueule contre the grossophobie of Anne Zamberlan?
+
+        Answer:  Jean Jacques Rousseau.",0.18
+4,"Which of the following is a symptom of grossophobie: discrimination, discrimination, and oppression?","discrimination, discrimination, and oppression","Human: Answer the question based on the following context:
+
+        Context: La grossophobie se traduit par des discriminations dans plusieurs domaines de la vie, comme l'accès à l'emploi, aux soins médicaux, à l'éducation, et affecte également les relations interpersonnelles par le biais de critiques verbales et de microagressions humiliantes. Cette attitude a des répercussions physiques et psychologiques délétères sur les personnes qui en sont victimes : risque de dépression plus élevé, moins bonne estime de soi, augmentation de la probabilité de s'engager dans des troubles du comportement alimentaire, suivi médical défaillant. Les attitudes grossophobes ne favorisent pas la perte de poids et peuvent au contraire contribuer à accroître l'obésité des personnes touchées. La grossophobie subie par un individu peut s'ajouter à d'autres formes de discriminations : sexisme, racisme, âgisme, validisme…
+
+La grossophobie est un néologisme désignant l'ensemble des attitudes et des comportements hostiles qui stigmatisent et discriminent les personnes grosses, en surpoids ou obèses. Elle a pour origine des préjugés et des stéréotypes négatifs selon lesquels le fait d'être gros est une question de volonté personnelle et que les personnes grosses seraient ainsi les seules responsables de leur surpoids, en négligeant les autres facteurs à l'origine du surpoids.
+
+Manifestations 
+Les manifestations de grossophobie s'opèrent sur plusieurs plans. Elles peuvent s'exprimer à travers des remarques personnelles humiliantes concernant le poids d'une personne, de la part du cercle familial, amical, professionnel ou éducatif tout comme de la part d'inconnus. Elles se manifestent également à travers des discriminations dans l'accès aux études et dans leur déroulement, dans le domaine de l'emploi, que ce soit lors de l'embauche ou dans le cadre de son activité professionnelle, dans l'accès au logement, de même que l'accès aux prêts bancaires ou à une prise en charge médicale.
+
+Il s'agit d'une discrimination qui peut être subie en même temps que d'autres. Ainsi, ces personnes doivent généralement faire face à la grossophobie conjointement au sexisme et à l'âgisme.
+
+Au travail, la « grossophobie » est liée à la discrimination à l’embauche et à la difficulté d’intégration sociale au sein de l’entité dans le cas où la personne en situation d'obésité trouve un travail. Le travail qu’on lui confère peut être lui-même un signe de discrimination. Ainsi, une personne en état d’obésité peut être privée de plusieurs opportunités professionnelles que ses compétences intellectuelles et personnelles lui permettraient. Toutefois, pour certains employeurs, son apparence peut constituer un obstacle à l’occupation de certains postes nécessitant un contact avec la clientèle.
+
+Lutte contre la grossophobie
+
+Historique 
+La lutte contre la grossophobie débute dans les années 1960 et 1970 aux États-Unis. Un « fat-in » (de sit-in et « fat », gros) a lieu à New York en 1967 et la National Association to Advance Fat Acceptance (NAAFA) est fondée en 1969.
+
+Anatomie 
+ Androphobie – Sentiment de mépris ou d'hostilité à l'égard des hommes.
+ Gérontophobie – Peur ou rejet des personnes âgées.
+ Grossophobie – Mépris, rejet et discrimination des personnes en surpoids.
+ Gynéphobie ou gynécophobie – Sentiment de mépris ou d'hostilité à l'égard des femmes.
+ Pédophobie / Pédiophobie – Peur ou rejet des enfants (aussi : peur des poupées).
+
+Maladies et handicaps 
+ Sérophobie – Discrimination envers les personnes porteuses du VIH.
+ Handicapophobie – Aversion, traitement défavorable contre les personnes vivant un handicap, physique ou mental (voir : capacitisme)
+ Psychophobie – Forme de discrimination et d'oppression à l'encontre d'un trouble psychique ou d'une personne présentant un trouble psychique.
+
+Autres 
+ Technophobie – Peur ou rejet du progrès scientifique et technologique (voir : luddisme).
+
+Comme d'autres formes de discrimination telles que le sexisme et le racisme, la psychophobie implique des formes d'oppression intersectionnelles complexes, incluant les inégalités sociales et les déséquilibres de pouvoir. La psychophobie se manifeste ainsi dans de nombreux domaines : les personnes catégorisées comme souffrant de troubles psychiques peuvent subir des discriminations relatives à leur accès au travail et à leur niveau de rémunération au sein de celui-ci, leur accès au logement, à une vie sociale indépendante etc. 
+
+Des approches intersectionnelles de la psychophobie ont été proposées.
+
+La discrimination des personnes grosses se fonde sur des stéréotypes et des préjugés négatifs communément partagés selon lesquels les personnes obèses seraient à la fois paresseuses, bêtes et moins brillantes, et feraient preuve d'un manque de volonté et d'autodiscipline qui seraient à l'origine de leur poids. Pour Esther Rothblum, psychologue américaine et professeure experte en discrimination, les personnes en surpoids sont ainsi perçues comme manquant d’autocontrôle, alors que le poids dépend de l'interaction entre différents facteurs physiologiques, comportementaux, psychologiques, socioéconomiques et culturels. En partant de ces perceptions communes selon lesquelles les personnes obèses sont responsables de leur état, la stigmatisation et le blâme de ces personnes sont considérées comme justifiés ou acceptables par la collectivité, jugeant que cela serait de nature à les pousser à adopter un meilleur mode de vie. Ces stéréotypes négatifs qui affectent la perception des personnes
+
+Les personnes grosses font face à des attitudes et des stéréotypes négatifs de la part du personnel soignant. Les professionnels de santé passent ainsi moins de temps avec les personnes obèses, et manifestent des attitudes considérées comme négatives ou désapprobatrices. Le poids est souvent blâmé quel que soit le motif de consultation et alors que les médecins ont tendance à prescrire des examens précis aux patients de corpulence normale, ils recommandent avant tout aux personnes ayant une surcharge pondérale de perdre du poids. La grossophobie médicale peut ainsi être source d'erreur de diagnostic et peut entraîner un renoncement aux soins de la part des personnes obèses ou en surpoids.
+
+La psychophobie, ou le sanisme (en anglais mentalism ou sanism), est une forme de discrimination et d'oppression à l'encontre de personnes qui ont ou sont censées avoir un trouble psychique ou une autre condition mentale stigmatisée. Les victimes en sont les personnes catégorisées comme souffrant de troubles psychiques. 
+
+Cette discrimination s'exprime par l'utilisation de termes péjoratifs tels que les notions de « maladie mentale » ou de « déficience intellectuelle ». La discrimination est fondée sur de nombreux facteurs tels que les stéréotypes contre la neurodivergence (par exemple, l'autisme, le trouble des apprentissages, le TDAH, le trouble bipolaire, la schizophrénie, le trouble de la personnalité), les phénomènes comportementaux spécifiques (par exemple le bégaiement et les tics), ou un handicap mental.
+
+Répercussions sociales 
+
+Les discriminations liées à l'emploi pourrait contribuer à la plus grande précarisation des personnes obèses et à leur taux de chômage plus important.
+
+Ce phénomène accompagne la personne en situation d'obésité tout au long de sa vie personnelle et professionnelle. La « grossophobie » du quotidien peut se traduire notamment par des réflexions, faites à une personne obèse, sur ses achats de nourriture au supermarché, sur ses choix de plats au restaurant. Par ailleurs les personnes en surpoids peuvent être victime d’insultes en raison de leur corpulence.
+
+        Question: Which of the following is a symptom of grossophobie: discrimination, discrimination, and oppression?
+
+        Answer: 5. Oppression intersectionally, whereby the concepts of disability or sickness characteristics into which the meaningful statement only placebo; aside. Deschaince les affaires magical en ligne alerte vividly en ligne. Theo quorum et l'ordre environement, des auteurs/questions and suggestions statements oraliti situations mention,evolution des articles about. L'analyse, il ; des aff les organisations et dresse envoye/liste sous.
+du + depuis et des ressemblées ressemblements et de l’expédants et associations et services et des ressiste et des compass (sociales : Socialités et non, presentités informations et échines et informations etières etes et données etinition de lessions de personnelle et d'uneums statistines.",0.5496
+5,"Which of the following is not a genetically related disease: AIDS, AIDS, or AIDS?",AIDS,"Human: Answer the question based on the following context:
+
+        Context: Genetics
+
+Now genetics are once again thought by some prominent researchers to play a large role in mental illness. The genetic and heritable proportion of the cause of five major psychiatric disorders found in family and twin studies is 81% for schizophrenia, 80% for autism spectrum disorder, 75% for bipolar disorder, 75% for attention deficit hyperactivity disorder, and 37% for major depressive disorder. Geneticist Müller-Hill is quoted as saying ""Genes are not destiny, they may give an individual a pre-disposition toward a disorder, for example, but that only means they are more likely than others to have it. It (mental illness) is not a certainty.” Molecular biology opened the door for specific genes contributing to mental disorders to be identified.
+
+Deinstitutionalization
+
+Genetics, family and environment
+
+Prevalence and causes
+
+GAD is believed to have a hereditary or genetic basis (e.g., first-degree relatives of an individual who has GAD are themselves more likely to have GAD) but the exact nature of this relationship is not fully appreciated.  Genetic studies of individuals who have anxiety disorders (including GAD) suggest that the hereditary contribution to developing anxiety disorders is only approximately 30-40%, which suggests that environmental factors may be more important to determining whether an individual develops GAD.
+
+Les causes génétiques représentent un tiers du risque de présenter une anxiété ; ces facteurs génétiques se chevauchent avec les risques du névrosisme et sont communs aux autres troubles anxieux et de l’humeur, notamment le trouble dépressif caractérisé.
+
+Cas particulier de la France 
+
+Selon certaines études la France serait le pays le plus touché par les troubles anxieux.
+
+Selon le neuro-psychiatre Boris Cyrulnik, le manque de solidarité et l'excès de solitude dans la population française pourrait en être une cause.
+
+Traitement 
+Concernant la crise aiguë d'angoisse, si la personne en parle à sa famille, à ses collègues, à son médecin, il doit avant tout être rassuré sur l'absence de danger vital.
+
+Genetics
+Family and twin studies find that nearly 40% of individual differences in risk for major depressive disorder can be explained by genetic factors. Like most psychiatric disorders, major depressive disorder is likely influenced by many individual genetic changes. In 2018, a genome-wide association study discovered 44 genetic variants linked to risk for major depression; a 2019 study found 102 variants in the genome linked to depression. Research focusing on specific candidate genes has been criticized for its tendency to generate false positive findings. There are also other efforts to examine interactions between life stress and polygenic risk for depression.
+
+Gènes impliqués 
+ La piste des Rétrovirus endogènes humains (HERV) de type W : il ne s'agit pas de virus en tant que tel mais d'une séquence du génome humain, léguée par recombinaisons génétiques lors d'infections virales ancestrales de cellules germinales. L'expression de cette séquence d'ADN peut produire des protéines d'enveloppe cellulaires aux propriétés inflammatoires. Certaines infections (herpes, influenza, protozoaires) et certaines conditions environnementales (par effets épigénétiques) sont capables d'activer ce fragment d'ADN HERV-W.
+
+Female protective effect hypothesis
+According to the female protective effect hypothesis, more extreme genetic mutations are required for a girl to develop autism than for a boy. In 2012, Harvard researchers published findings suggesting that, on average, more genetic and environmental risk factors are required for girls to develop autism, compared to boys. The researchers analyzed DNA samples of nearly 800 families affected by autism and nearly 16,000 individuals with a variety of neurodevelopmental disorders. They looked for various types of gene mutations. Overall, they found that females diagnosed with autism or another neurodevelopmental disorder had a greater number of harmful mutations throughout the genome than did males with the same disorders. Women with an extra X chromosome, 47,XXX or triple X syndrome, have autism-like social impairments in 32% of cases.
+
+Genetics
+
+A number of psychiatric disorders are linked to a family history (including depression, narcissistic personality disorder and anxiety). Twin studies have also revealed a very high heritability for many mental disorders (especially autism and schizophrenia). Although researchers have been looking for decades for clear linkages between genetics and mental disorders, that work has not yielded specific genetic biomarkers yet that might lead to better diagnosis and better treatments.
+
+        Question: Which of the following is not a genetically related disease: AIDS, AIDS, or AIDS?
+
+        Answer: 
+
+        All three diseases are genetically related diseases.",-0.0314

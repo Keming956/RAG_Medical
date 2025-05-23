@@ -1,0 +1,1028 @@
+Sample Index,Question,Expected Answer,RAG Answer,Similarity Score
+1,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+On 3 January 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Gültekin Koç in Şişli, Istanbul, at a police station. As a result of the explosion, one civilian along with the perpetrator was killed and 7 others were injured, 2 being critically.
+
+Attack 
+At around 13:50 (UTC+02.00), Revolutionary People's Liberation Party/Front member Gültekin Koç introduced himself as a business man and entered a police station. He went to the room of Şişli District Chief Constable Selçuk Tanrıverdi using an elevator. Bodyguard of Tanrıverdi, Naci Canan Tuncer realized him and asked him why he wants to see Tanrıverdi. Koç panicked and detonated the explosives on him. Naci Canan Tuncer and perperator Gültekin Koç died in the attack while seven people including three police officers and 4 civilians were injured.
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks in Turkey
+2001 Suicide bombings in Turkey
+2001 Suicide bombings in Turkey
+2000s Suicide bombings in Turkey
+Suicide bombings in Istanbul
+Suicide bombings in Şişli.","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+On 3 January 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Gültekin Koç in Şişli, Istanbul, at a police station. As a result of the explosion, one civilian along with the perpetrator was killed and 7 others were injured, 2 being critically.
+
+Attack 
+At around 13:50 (UTC+02.00), Revolutionary People's Liberation Party/Front member Gültekin Koç introduced himself as a business man and entered a police station. He went to the room of Şişli District Chief Constable Selçuk Tanrıverdi using an elevator. Bodyguard of Tanrıverdi, Naci Canan Tuncer realized him and asked him why he wants to see Tanrıverdi. Koç panicked and detonated the explosives on him. Naci Canan Tuncer and perperator Gültekin Koç died in the attack while seven people including three police officers and 4 civilians were injured.
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+On 3 January 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Gültekin Koç in Şişli, Istanbul, at a police station. As a result of the explosion, one civilian along with the perpetrator was killed and 7 others were injured, 2 being critically.
+
+Attack 
+At around 13:50 (UTC+02.00), Revolutionary People's Liberation Party/Front member Gültekin Koç introduced himself as a business man and entered a police station. He went to the room of Şişli District Chief Constable Selçuk Tanrıverdi using an elevator. Bodyguard of Tanrıverdi, Naci Canan Tuncer realized him and asked him why he wants to see Tanrıverdi. Koç panicked and detonated the explosives on him. Naci Canan Tuncer and perperator Gültekin Koç died in the attack while seven people including three police officers and 4 civilians were injured.
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks in Turkey
+2001 Suicide bombings in Turkey
+2001 Suicide bombings in Turkey
+2000s Suicide bombings in Turkey
+Suicide bombings in Istanbul
+Suicide bombings in Şişli.
+
+4 According to the 2014 census, the birth rate is 40.1% among women living with a partner and 43.1% among those living alone.
+Religion
+
+Among the world's most widely known religions, Islam is the largest. Islam is the world's second largest religious group, with 70.3% of Muslims according to the World Factbook. Muslims in","Human: Answer the question based on the following context:
+
+        Context: On 3 January 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Gültekin Koç in Şişli, Istanbul, at a police station. As a result of the explosion, one civilian along with the perpetrator was killed and 7 others were injured, 2 being critically.
+
+Attack 
+At around 13:50 (UTC+02.00), Revolutionary People's Liberation Party/Front member Gültekin Koç introduced himself as a business man and entered a police station. He went to the room of Şişli District Chief Constable Selçuk Tanrıverdi using an elevator. Bodyguard of Tanrıverdi, Naci Canan Tuncer realized him and asked him why he wants to see Tanrıverdi. Koç panicked and detonated the explosives on him. Naci Canan Tuncer and perperator Gültekin Koç died in the attack while seven people including three police officers and 4 civilians were injured.
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks
+
+A total of 47 suicide attacks have occurred in Turkey, 24 of which were carried by PKK, 10 by the Islamic State of Iraq and the Levant, 6 by TAK, 4 by Revolutionary People's Liberation Party/Front, and 3 by Al-Qaeda's branch in Turkey. The assailants who carried out these attacks - except the one on 9 March 2003 and another on 25 May 2012 - all lost their lives, and a total of 593 people including 37 assailants were killed. 15 Suicide attacks have occurred in Istanbul, followed by 6 in Hakkâri, 5 in Ankara, 4 in Adana and Gaziantep, 3 in Van, 2 in Bingöl, Diyarbakır and Kayseri, and 1 in Ağrı, Antalya, Bursa, Elazığ, Sivas, Şanlıurfa, Şırnak and Tunceli. In addition to these attacks, a total of three attempted attacks, two by PKK and one by Revolutionary People's Liberation Party/Front, were not successfully carried out and the assailants lost their lives following the explosion of the explosives.
+
+On 10 September 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Uğur Bülbül in Beyoğlu, Istanbul, at a police checkpoint in the Gümüşsuyu neighborhood. As a result of the explosion, two police officers and one passerby civilian along with the attacker were killed and 23 others were injured.
+
+Attack 
+At around 05:30 pm (UTC+02:00), Revolutionary People's Liberation Party/Front member Uğur Bülbül detonated explosive material at a police checkpoint between Vakıf Leasing-National Education Publications and the Chinese Restaurant buildings İnönü Street, which connects Gümüşsuyu to Taksim Square. While two police officers were killed in the blast, an Australian tourist passing by was seriously injured and died on 13 September. Due to the attack, 17 police officers and 6 other people were wounded.
+
+See also
+ Terrorism in Turkey
+
+References
+
+See also
+ Terrorism in Turkey
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks
+
+attack in Başkale. The Revolutionary People's Liberation Party/Front organized its first suicide attack on 3 January 2001 in Istanbul. On 15 November 2003, Al-Qaeda organized its first suicide attack in the country, using bomb-laden vehicles on two separate targets in Istanbul and targeted places of worship for the first time. On 20 November, the same organization attacked two different targets in Istanbul using the same method, again with a few minutes apart. 28 people died in the first attack and 31 in the second one, making those attacks the deadliest suicide attacks in the country at that time. On 6 January 2015, a suicide attack was carried out in Istanbul by a person linked to the Islamic State of Iraq and the Levant. An assailant, who was affiliated with the same organization, killed 34 people in the attack on Suruç on 20 July 2015. On 10 October 2015, 109 people died in Ankara due to explosives detonated by two people at an interval of three seconds, and this event went down
+
+34 people in the attack on Suruç on 20 July 2015. On 10 October 2015, 109 people died in Ankara due to explosives detonated by two people at an interval of three seconds, and this event went down in history as the most fatal suicide attack in the history of the country. On 17 February 2016, a suicide attack was carried out in Ankara by TAK members for the first time. An airport in Turkey was targeted for the first time in the attack on Istanbul Atatürk Airport on 28 June 2016.
+
+C.  Although there were no suicide attacks in 2004, two people that were injured in the attacks that took place in Istanbul on 15 and 20 November 2003 died from their injuries in 2004.
+D.  Two people who were fatally injured on 10 December 2016 due to the attack in Istanbul, lost their lives in 2017 and 2019 respectively.
+
+Perpetrator
+Six people, including three foreigners, were detained over the attack.
+
+On January 7, the far-left armed group Revolutionary People's Liberation Party–Front (DHKP/C) claimed responsibility for the attack, saying it was meant ""to punish (the) murderers of Berkin Elvan"" and ""to call to account the fascist state that protects AKP's corrupt, stealing ministers"". Berkin Elvan was a 15-year-old boy who was killed by a tear-gas canister fired by a police officer during the 2013 Istanbul protests. The bombing came five days after another member of DHKP/C attacked police on guard outside the Ottoman-era Dolmabahçe Palace, hurling two grenades that failed to explode. The building houses the Istanbul offices of the Turkish prime minister.
+
+The group also claimed that the suicide bomber was Elif Sultan Kalsen. After being called to a criminal medical center to identify the body, Kalsen's family denied the claims, stating that it was not their daughter.
+
+See also 
+ Terrorism in Turkey
+
+References 
+
+Suicide bombings in Istanbul
+2012 murders in Europe
+Building bombings in Turkey
+DHKP/C attacks
+
+The 2012 Instanbul suicide bombing occurred at a police station in the Sultangazi district of Istanbul, Turkey. The suicide bomber was İbrahim Çuhadar, a member of the Revolutionary People's Liberation Party/Front (DHKP-C). On 11 September 2012, he went to the police station and attempted to enter, then detonated the explosives at the entrance of the station after the police refused him entrance. As a result of the explosion, the attacker and a police officer died and seven others were injured.
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+On 3 January 2001, a suicide attack was carried out by Revolutionary People's Liberation Party/Front member Gültekin Koç in Şişli, Istanbul, at a police station. As a result of the explosion, one civilian along with the perpetrator was killed and 7 others were injured, 2 being critically.
+
+Attack 
+At around 13:50 (UTC+02.00), Revolutionary People's Liberation Party/Front member Gültekin Koç introduced himself as a business man and entered a police station. He went to the room of Şişli District Chief Constable Selçuk Tanrıverdi using an elevator. Bodyguard of Tanrıverdi, Naci Canan Tuncer realized him and asked him why he wants to see Tanrıverdi. Koç panicked and detonated the explosives on him. Naci Canan Tuncer and perperator Gültekin Koç died in the attack while seven people including three police officers and 4 civilians were injured.
+
+References 
+
+2001 murders in Europe
+Explosions in 2001
+Suicide bombings in Istanbul
+2000s murders in Turkey
+DHKP/C attacks in Turkey
+2001 Suicide bombings in Turkey
+2001 Suicide bombings in Turkey
+2000s Suicide bombings in Turkey
+Suicide bombings in Istanbul
+Suicide bombings in Şişli.
+
+        Answer: 15 and ices, killing forcible and bombings.
+<Europe!
+
+Turkurst and ISI in theater and what bomb in 2.50 and 20. What20000 and2001:ISMoteless:202 and theatrly, ""in Istnismission in hiszingledledencing,2 in Ist0000, axx and01. Bombress; Istince, 1,İnten, Şumer.1,6:İMMUMUM. Istionningning, Ist andding, 6,0 and ISSIMM.
+kilence, 1 and the IstUMMPCTIST.ISMPMPIONSTMP:ISNTIST,2and1 and the IS and Istensorming bydingheid and the police withster´bysterister (de0,2 andirstinationssímuntened andnbspence andmission andferningstensister",0.9651
+2,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+Insomnia also published an anthology title, Insomnia Saga, in 2011, which featured a novel by David Clancy and a book by James Tontini. Insomnia Saga was chosen for its interest in the","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+Insomnia also published an anthology title, Insomnia Saga, in 2011, which featured a novel by David Clancy and a book by James Tontini. Insomnia Saga was chosen for its interest in the subject of mental illness and was the first novel in the Insomnia series to be published in the UK.
+
+Insomnia also published a new book, Insomnia: The Insomniac Chronicles, in 2012, featuring stories by David Clancy, Andrew C. Gray, Danny C. McMullen, David O'Donnell and David S. Tanner","Human: Answer the question based on the following context:
+
+        Context: Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+A Journal of Insomnia (French: Journal d'une insomnie collective) is a 2013 web documentary about insomnia, produced by Hugues Sweeney and created by Bruno Choiniere, Philippe Lambert,  Thibaut Duverneix and Guillaume Braun for the National Film Board of Canada (NFB). The production had its premiere on April 18, 2013, as part of the Tribeca Film Festival's first Storyscapes section for transmedia.
+
+Site users must register online for an appointment, after which they receive a phone call informing them that they've been emailed a link to enter site. Once inside A Journal of Insomnia, users can follow the stories of one of four protagonists who share their own experiences with sleeplessness as well as access close to 2000 contributions from other insomniacs that have been collected since the fall of 2012.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+Insomnia is a sleep disorder.
+
+Insomnia may also refer to:
+
+Companies
+ Insomnia Coffee Company, a chain of coffee shops in the Republic of Ireland
+ Insomnia Cookies, a chain of bakeries in the US
+ Insomnia Publications, a defunct UK comic-book publisher
+
+Film and television
+ Insomnia (1997 film), a Norwegian thriller directed by Erik Skjoldbjærg
+ Insomnia (2002 film), an American remake of the Norwegian film, directed by Christopher Nolan
+ Insomnia, a Brazilian television show hosted by Jackeline Petkovic
+
+Literature
+ Insomnia (novel), a 1994 novel by Stephen King
+ Insomnia, a 2005 short-story collection by Jeremy Robinson
+ Insomnia, a 2015 poetry collection by Linda Pastan
+
+Music
+ Insomnia (band), a Bengali rock band
+ Insomnia (composition), an orchestral piece by Esa-Pekka Salonen, 2002
+ Insomnia Festival, an annual electronic music festival in Tromsø, Norway
+
+Songs
+ ""Insomnia"" (Craig David song), 2008
+ ""Insomnia"" (Daya song), 2019
+ ""Insomnia"" (Faithless song), 1995
+ ""Insomnia"" (Feeder song), 1999
+ ""Insomnia"", by Ashley Tisdale from Symptoms, 2019
+ ""Insomnia"", by Audien, 2015
+ ""Insomnia"", by Caroline Polachek from Pang, 2019
+ ""Insomnia"", by Coldrain from The Side Effects, 2019
+ ""Insomnia"", by Cynthia Alexander from Insomnia & Other Lullabyes, 1996
+ ""Insomnia"", by Ellen Benediktson during Melodifestivalen 2015
+ ""Insomnia"", by Haken from Visions, 2011
+ ""Insomnia"", by Jelena Karleuša from Diva, 2012
+ ""Insomnia"", by Kamelot from Haven, 2015
+ ""Insomnia"", by Koop Arponen from New Town, 2009
+ ""Insomnia"", by L2, 2012
+ ""Insomnia"", by Megadeth from Risk, 1999
+ ""Insomnia"", by Periphery from Periphery, 2010
+ ""Insomnia"", by Pete Philly and Perquisite from Mindstate, 2005
+ ""Insomnia"", by The Records from Shades in Bed (also known as The Records), 1979
+ ""Insomnia"", by Silverchair from Young Modern, 2007
+ ""Insomnia"", by Stray Kids from I Am Who, 2018
+
+Insomnia is a 1994 horror/fantasy novel by American writer Stephen King. It follows retired widower Ralph Roberts whose increasing insomnia allows him to perceive auras and other hidden things, leading him to join a conflict between the forces of the Purpose and the Random. Like It and Dreamcatcher, the story is set in the fictional town of Derry, Maine. It includes connections to other Stephen King stories, particularly his novel series The Dark Tower.
+
+Plot 
+The story is set in the fictional town of Derry, Maine. Retiree Ralph Roberts encounters his formerly good-natured acquaintance Ed Deepneau at the local airfield. Ed is aggressive and swearing obscenely at a driver he accuses of secretly transporting fetal tissue from abortions. Some months later, Ralph (now a widower) encounters Ed's wife Helen who has been badly beaten by her husband after having signed a pro-choice related petition. Months later, Helen leaves Ed and hides at a women's shelter.
+
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006
+
+References
+
+External links
+ 
+ 
+ 
+Insomnia an essay by Peter Cowie at the Criterion Collection
+Insomnia: Unbearable Lightness an essay by Jonathan Romney at the Criterion Collection
+
+1990s psychological thriller films
+1997 films
+Films directed by Erik Skjoldbjærg
+Films set in Norway
+Films set in the Arctic
+Neo-noir
+Norwegian films
+Norwegian-language films
+Police detective films
+Swedish-language films
+Insomnia in film
+
+Insomnia is a 1997 Norwegian thriller film about a police detective investigating a murder in a town located above the Arctic Circle. The investigation goes horribly wrong when he mistakenly shoots his partner and subsequently attempts to cover up his bungle. The title of the film refers to his inability to sleep, the result of his guilt (represented by the relentless glare of the midnight sun). Insomnia was the film debut of director Erik Skjoldbjærg. The screenplay was written by Nikolaj Frobenius and Skjoldbjærg, and the soundtrack by Geir Jenssen.
+
+The film inspired the 2002 American remake Insomnia.
+
+Plot
+
+Insomnia, also known as sleeplessness, is a sleep disorder in which people have trouble sleeping. They may have difficulty falling asleep, or staying asleep as long as desired. Insomnia is typically followed by daytime sleepiness, low energy, irritability, and a depressed mood. It may result in an increased risk of motor vehicle collisions, as well as problems focusing and learning. Insomnia can be short term, lasting for days or weeks, or long term, lasting more than a month.
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+Insomnia also published an anthology title, Insomnia Saga, in 2011, which featured a novel by David Clancy and a book by James Tontini. Insomnia Saga was chosen for its interest in the
+
+        Answer: origining;`Arch and 1 “liter answer ‘and publishing to9viding andging&# and [[produs printed print publishing studio’ and publishing ‘pros and purchising advertisation covering advert advert publishing� and Ports Fin Publishing publishing and publishing Publishing magazine publishing editor instant publish, and providing articles “c issues and ‘millist publish publishing “the publish and port’ answer answering and “launch Super and publishing prior Inst’ and and and andiding questionings Industys andansities answering Insning three questions and n port reading fouriding two and****porting and port and In portading port answers and colour and ngedns major writing and parings and answering answers advertations and andins and archsning. Port portning holding, portsing and question and portning portners and publication, answering and answering ands and producing. andumsances and port marketing and port port, referencing, and andc and insing Ins and port pols port and providing answering v port and answers advertisms answers fin answers “part answers descri prov insns ins-follows Super port answers port Ins C Cins questions ledss questions instant two answers and port and questioninging and Ins and n and and and and all Ins ins and and thecns and Ins Major, and ins and c and answers features, Answer, illustr (t and Inst Sol C& Ins C Ins Under Arch: C (Co C port ports and publishs and Inst and and C and C Print Ins Ins and port and and and and and and Insast and and and and and and and and C20lying Ins Ins and Ins and Ins and and Ins Ins C and Ins and Ins and and and publishing and port Ins Ins Insiding Ins Ins Ins  Ins In Cover Ins Om Ins An Mon and and In andngs answers (Pres and the and Ins and Ins and Ins Ins C E Ins C Sol Ins providing ins Ins  Pub Ins Ins ins C & Print Pres Ins Ports Ins Ins Ins C and Ins and Ins C and Ins and Ins and Ins Cs1 Ins Ins Corpor002 Ins and and C and and Ins and Ins Ins Ins and and Ins and Ins and and and Ins, ins Ins, Ins Ins Ins and and Ins Ins Ins and Ins Ins Ins Ins Ins Ins Ins Ins Ins and ins and and and and and and Ins Ins Ins Ins and and Ins Ins and Ins and Ins ins Ins Ins Ins Ins and and Ins and Ins and and and Ins",0.9223
+3,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+Pages
+
+References
+
+External links
+ Insomnia Books website
+ Insomnia Publications website
+ Insomnia Publications' website
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graph","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+Pages
+
+References
+
+External links
+ Insomnia Books website
+ Insomnia Publications website
+ Insomnia Publications' website
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graph","Human: Answer the question based on the following context:
+
+        Context: Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006
+
+A Journal of Insomnia (French: Journal d'une insomnie collective) is a 2013 web documentary about insomnia, produced by Hugues Sweeney and created by Bruno Choiniere, Philippe Lambert,  Thibaut Duverneix and Guillaume Braun for the National Film Board of Canada (NFB). The production had its premiere on April 18, 2013, as part of the Tribeca Film Festival's first Storyscapes section for transmedia.
+
+Site users must register online for an appointment, after which they receive a phone call informing them that they've been emailed a link to enter site. Once inside A Journal of Insomnia, users can follow the stories of one of four protagonists who share their own experiences with sleeplessness as well as access close to 2000 contributions from other insomniacs that have been collected since the fall of 2012.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+Production
+The idea for the site was conceived by Sweeney, who is head of the NFB's French-language Digital Studio, when he became a father for the first time in the summer of 2009. Sweeney was often up at night with his wife due to his infant daughter's irregular sleep patterns and found himself wondering about all the other people who also might be up at this hour, and the impact of sleeplessness on their lives. As one of NFB French Program's main areas of interest is works related to mental health, Sweeney began to imagine what a webdoc on insomnia might be like. The NFB worked with Montreal-based web design firm Akufen to create A Journal of Insomnia.
+
+Insomnia is a sleep disorder.
+
+Insomnia may also refer to:
+
+Companies
+ Insomnia Coffee Company, a chain of coffee shops in the Republic of Ireland
+ Insomnia Cookies, a chain of bakeries in the US
+ Insomnia Publications, a defunct UK comic-book publisher
+
+Film and television
+ Insomnia (1997 film), a Norwegian thriller directed by Erik Skjoldbjærg
+ Insomnia (2002 film), an American remake of the Norwegian film, directed by Christopher Nolan
+ Insomnia, a Brazilian television show hosted by Jackeline Petkovic
+
+Literature
+ Insomnia (novel), a 1994 novel by Stephen King
+ Insomnia, a 2005 short-story collection by Jeremy Robinson
+ Insomnia, a 2015 poetry collection by Linda Pastan
+
+Music
+ Insomnia (band), a Bengali rock band
+ Insomnia (composition), an orchestral piece by Esa-Pekka Salonen, 2002
+ Insomnia Festival, an annual electronic music festival in Tromsø, Norway
+
+Insomnia is a 1994 horror/fantasy novel by American writer Stephen King. It follows retired widower Ralph Roberts whose increasing insomnia allows him to perceive auras and other hidden things, leading him to join a conflict between the forces of the Purpose and the Random. Like It and Dreamcatcher, the story is set in the fictional town of Derry, Maine. It includes connections to other Stephen King stories, particularly his novel series The Dark Tower.
+
+Plot 
+The story is set in the fictional town of Derry, Maine. Retiree Ralph Roberts encounters his formerly good-natured acquaintance Ed Deepneau at the local airfield. Ed is aggressive and swearing obscenely at a driver he accuses of secretly transporting fetal tissue from abortions. Some months later, Ralph (now a widower) encounters Ed's wife Helen who has been badly beaten by her husband after having signed a pro-choice related petition. Months later, Helen leaves Ed and hides at a women's shelter.
+
+Cognitive behavioral therapy for insomnia (CBT-I) is a technique for treating insomnia without (or alongside) medications. Insomnia is a common problem involving trouble falling asleep, staying asleep, or getting quality sleep. CBT-I aims to improve sleep habits and behaviors by identifying  and changing the thoughts and the behaviors that affect the ability of a person to sleep or sleep well.
+
+The first step in treating insomnia with CBT-I is to identify the underlying causes of insomnia. People with insomnia should evaluate or have their sleep patterns evaluated and take into account all possible factors that may be affecting the person's ability to sleep. This would involve keeping a sleep diary/journal for a couple of weeks. The journal will help to identify patterns of thoughts or behaviors, stressors, etc. that could be contributing to the person's insomnia.
+
+References
+
+External links
+ 
+ 
+ 
+Insomnia an essay by Peter Cowie at the Criterion Collection
+Insomnia: Unbearable Lightness an essay by Jonathan Romney at the Criterion Collection
+
+1990s psychological thriller films
+1997 films
+Films directed by Erik Skjoldbjærg
+Films set in Norway
+Films set in the Arctic
+Neo-noir
+Norwegian films
+Norwegian-language films
+Police detective films
+Swedish-language films
+Insomnia in film
+
+Technology
+
+ Insomnia, an open-source API design and testing platform owned by Kong Inc.
+
+See also
+ Insomniac (disambiguation)
+ ""Insomya"", a song by the Eraserheads from Circus
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+Pages
+
+References
+
+External links
+ Insomnia Books website
+ Insomnia Publications website
+ Insomnia Publications' website
+ Insomnia Graphic Novel Awards
+ Insomnia Graphic Novel Awards
+ Insomnia Graph
+
+        Answer: musicisterdingppersisfumsppingificationsumsninghemnersumsumsumsisation andftileumsisterorieshingenceakingidinginationdersbersmondmesvingicesgersendersencingriesestsencesirsumsistsotsastsciiilsenseppings:[ststerstersummingutesister, andideances anditionscriptivesister “literisteristeroryronsuresumsisingtieswersacingeningnsums’reading in,wardslednersimenttainting, andredraintisterents -presentningisfionister halfumsakes –mill-theorsitions and 2eleorationises overisteristerister reading,[writing magazine.writscheseingningdingdrainingnerningariesirs:intersersuals incesories, andoriesised interview andteromsaclesitiesFootnote ‘information information articles illustrities and “underments and ‘produorsastsidesivesizingorsningningstershesences,filmishing¸app'which0 track, publish, about or**** and mysterningors andcible or and papers ‘grbingnsms “anal11derings publishing, answeringns, andives Fgsideds were’pointsister, references, features, Imilingiesives, Fo or 1ions, releases publications questionsments events reviews losses “underansties answers, coiding&#judssns ‘facts details, answering answering ‘skegingna n, anding sbingsns andsnder answers, answer answer and details andsns writing ining answers& and Ri and and and and & and subs invests anddastdinging referring and questions, answers. Milning and publications. and letters,tinging, and Ins, fictionments, but Bla B Inter and F Vo Gr F, C Tar publish, 20, answer, literary Hay, and Vv, V. V. Edit, Imning, Bell written  and Vs, Bon stud (pros Bond Ins An and Bill Accounts publish and Bill Om H bal answers,s account, ske answering; 1 Vv and Vs [[Bv V Bank Fin C V Ha Po C: Prov V V and Ins V and V Answer Vs Co Sup V and V General Arch and Vv v V. A Vv (ex (v Vs V Vi V c and Cons and V Bla Deb V V Ho Vent Co Aud publishing Bud Ins cre V V C Co V Publishing Fo V Coains Sups C, and Cens Co c c auds",0.8152
+4,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006.
+3 The University of Kansas
+
+In 2009, the University of Kansas (KU) moved its location from the campus of the University of Kansas Medical Center to the University of Kansas Medical Center campus.
+The name of the","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006.
+3 The University of Kansas
+
+In 2009, the University of Kansas (KU) moved its location from the campus of the University of Kansas Medical Center to the University of Kansas Medical Center campus.
+The name of the company is the title of the book titled ""The Insomnia Breakout Cages at Bristol Comic Expo"", by Will Pickering.
+4 The U.S. Food and Drug Administration (FDA) is the federal agency responsible for regulatory compliance with the Food and Drug Labeling Act of 1934.  In response to the passage of the Federal Food, Drug, and","Human: Answer the question based on the following context:
+
+        Context: Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+In 2009 Insomnia launched the Vigil imprint for ""Bio-Graphic Novels"", starting with Burke and Hare.
+
+Following internal problems in early 2010, Insomnia Publications filed final accounts with Companies House on 30 June 2010. On the 20 August 2010, Crawford Coutts issued a statement released creators from their contracts with the company.
+
+Management team
+ Crawford Coutts (Managing Director and Publisher, Co-founder)
+
+Titles
+Layer Zero Anthologies by various creators
+
+Graphic novels
+Cages by Xander Bennet and Melanie Cook. Foreword by Ben Templesmith (January 2009, )
+Cancertown by Cy Dethan, Stephen Downey, Melanie Cook and Nic Wilkinson. Foreword by Bryan Talbot (May 2009, )
+Buskers by Jeyems Samuel, Sean Michael Wilson and Michiru Morikawa (Oct 2009)
+
+Insomnia Publications Ltd was a British comic book publishing company.
+
+History
+Insomnia was an independent comics publisher founded by Managing Director Crawford Coutts in 2006 to publish his own work. It was based in Edinburgh, Scotland, with various partners in London, Dundee and Vancouver.
+
+Insomnia began publishing Layer Zero in 2007, an anthology title as showcase for new creators.
+
+2009 saw the release of Cancertown and Cages, the first Insomnia Graphic Novels by which the company would make its name as an independent publisher, focused on ""instant trades"" or ""albums"" in the European model, along with art portfolio books. It was also one of the first independent companies to partner with Sony to bring digital comics to the PSP.
+
+Insomnia books are aimed at teen/mature readers and most have an 18+ age rating. The focus is on stories which are unusual, literate, challenging and thought-provoking.
+
+A Journal of Insomnia (French: Journal d'une insomnie collective) is a 2013 web documentary about insomnia, produced by Hugues Sweeney and created by Bruno Choiniere, Philippe Lambert,  Thibaut Duverneix and Guillaume Braun for the National Film Board of Canada (NFB). The production had its premiere on April 18, 2013, as part of the Tribeca Film Festival's first Storyscapes section for transmedia.
+
+Site users must register online for an appointment, after which they receive a phone call informing them that they've been emailed a link to enter site. Once inside A Journal of Insomnia, users can follow the stories of one of four protagonists who share their own experiences with sleeplessness as well as access close to 2000 contributions from other insomniacs that have been collected since the fall of 2012.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+It was nominated for the Sheffield Innovation Award at the 2013 Sheffield Doc/Fest.
+
+Production
+The idea for the site was conceived by Sweeney, who is head of the NFB's French-language Digital Studio, when he became a father for the first time in the summer of 2009. Sweeney was often up at night with his wife due to his infant daughter's irregular sleep patterns and found himself wondering about all the other people who also might be up at this hour, and the impact of sleeplessness on their lives. As one of NFB French Program's main areas of interest is works related to mental health, Sweeney began to imagine what a webdoc on insomnia might be like. The NFB worked with Montreal-based web design firm Akufen to create A Journal of Insomnia.
+
+Academics
+The National Board of Examinations (NBE) has accredited SCARF as the centre for post-graduate training for DNB in psychiatry since 2009. SCARF offers various training and workshop in psychology, social work, nursing and occupational therapy. It offers one year Diploma in 'Mental Health Care and Counselling' in collaboration with NIMHANS and doctoral research (PhD) in mental health in affiliation with the Dr. MGR Medical University.
+
+Awareness
+SCARF is involved in promoting mental health awareness and lobbying for the benefits for the mentally ill patients through educational materials, and an International film festival, Frame of Mind, to improve awareness and deal with stigma. The foundation has also initiated a media award for journalists writing on mental health.
+
+References
+
+External links
+ Official Website
+
+Insomnia is a sleep disorder.
+
+Insomnia may also refer to:
+
+Companies
+ Insomnia Coffee Company, a chain of coffee shops in the Republic of Ireland
+ Insomnia Cookies, a chain of bakeries in the US
+ Insomnia Publications, a defunct UK comic-book publisher
+
+Film and television
+ Insomnia (1997 film), a Norwegian thriller directed by Erik Skjoldbjærg
+ Insomnia (2002 film), an American remake of the Norwegian film, directed by Christopher Nolan
+ Insomnia, a Brazilian television show hosted by Jackeline Petkovic
+
+Literature
+ Insomnia (novel), a 1994 novel by Stephen King
+ Insomnia, a 2005 short-story collection by Jeremy Robinson
+ Insomnia, a 2015 poetry collection by Linda Pastan
+
+Music
+ Insomnia (band), a Bengali rock band
+ Insomnia (composition), an orchestral piece by Esa-Pekka Salonen, 2002
+ Insomnia Festival, an annual electronic music festival in Tromsø, Norway
+
+IACP celebrated its Golden Jubilee Year in 2018 by holding 44th National Annual Conference of Indian Association of Clinical Psychologists on 23–25 February 2018 at Gautam Buddha University, Greater Noida, U.P. 45th National Annual Conference of Indian Association of Clinical Psychologists is scheduled on 25–27 May 2019 at National Institute for the Empowerment of Persons with Visual Disabilities (Divyangjan), Dehradun, India. 46NACIACP was held in Panjab University Chandigarh from 21-23February 2020 by Organising Director Dr Manoj Kumar Bajaj, Associate Professor of Clinical Psychology, Government Medical College and hospital sector 32 Chandigarh India.
+
+References
+
+External links
+Official Website
+
+Mental health organisations in India
+1968 establishments in India
+Organizations established in 1968
+
+References
+
+Sources
+
+Further reading 
+  
+ 
+
+ 
+Organizations established in 1980
+1980 establishments in the Netherlands
+Organisations based in Hilversum
+International medical and health organizations
+International human rights organizations
+Scientific supraorganizations
+Mental health organisations in the Netherlands
+Health and disability rights organisations in the Netherlands
+Non-profit organisations based in the Netherlands
+Struggle against political abuse of psychiatry in the Soviet Union
+
+The International Review of Psychiatry is a bimonthly peer-reviewed medical journal published by Taylor & Francis on behalf of the Institute of Psychiatry (King's College London).  The editors-in-chief are Dinesh Bhugra (Institute of Psychiatry/Maudsley Hospital) and Margaret Chisolm (Johns Hopkins University). The journal was established in 1989.
+
+Abstracting and indexing 
+The journal is abstracted and indexed in:
+
+According to the Journal Citation Reports, the journal has a 2016 impact factor of 2.240.
+
+References
+
+External links 
+
+Publications established in 1989
+Bimonthly journals
+Taylor & Francis academic journals
+Psychiatry journals
+English-language journals
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Vigil
+Titles in the Virgil ""Bio-Graphic Novels"" imprint include:
+Burke and Hare by Martin Conaghan and Will Pickering. Foreword by Alan Grant (Oct 2009, )
+
+Art books
+Art books include:
+MILK by Stref (Sept 2009 )
+
+Notes
+
+References
+
+Insomnia breaks out Cages at Bristol Comic Expo, Press Release, Insomnia Productions, April 14, 2008
+
+External links
+
+The Red Eye Weekly News Blog
+Cancertown Website
+
+Comic book publishing companies of the United Kingdom
+2006 establishments in Scotland
+2010 disestablishments in Scotland
+Publishing companies established in 2006
+Publishing companies disestablished in 2010
+Defunct companies of the United Kingdom
+British companies disestablished in 2010
+British companies established in 2006.
+3 The University of Kansas
+
+In 2009, the University of Kansas (KU) moved its location from the campus of the University of Kansas Medical Center to the University of Kansas Medical Center campus.
+The name of the
+
+        Answer: 1ums",0.8021
+5,"Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+ psychische Dysfunktionen in der Arbeit
+ Psychische Krankheiten
+
+Literatur
+
+  (Zusatzmaterial).
+Grund, N.; Schäfer, H.; Jürgens, A.; Schäfer, A.;","The following text discusses topics related to mental health or psychological conditions. Based on it, answer the question below in a medically accurate and concise way, please be concise !:
+Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+ psychische Dysfunktionen in der Arbeit
+ Psychische Krankheiten
+
+Literatur
+
+  (Zusatzmaterial).
+Grund, N.; Schäfer, H.; Jürgens, A.; Schäfer, A.; Reutemann, A.; Schaller, H.; Paus, V. (2011): Klassische deutsche Psychiatrie: Theorie und Praxis. Stuttgart: Deutsche Verlagsanstalt.
+Grund, N.; Reutemann, A.; Schäfer, H.; Jürgens, A.; Schaller, H.; Paus, V. (2013): Handbuch der deutschen Psych","Human: Answer the question based on the following context:
+
+        Context: Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+
+Schriften (Auswahl) 
+ Zur Aetiologie und Nosologie endogener depressiver Psychosen. Eine genetische, soziologische und klinische Studie. Springer, Berlin 1966 (Habilitationsschrift, Universität Zürich).
+ Die somatische Therapie der Schizophrenie. Thieme, Stuttgart 1969.
+
+Literatur 
+ Der bekannteste Schweizer Psychiater forscht mit 84 immer noch jeden Tag. In: Tages-Anzeiger. 7. Juni 2011.
+
+Weblinks 
+ Kurzbiografie, Website der Deutschen Gesellschaft für Bipolare Störungen
+
+Einzelnachweise 
+
+Psychiater
+Mediziner (21. Jahrhundert)
+Mediziner (20. Jahrhundert)
+Hochschullehrer (Universität Zürich)
+Autor
+Ehrendoktor der Ruprecht-Karls-Universität Heidelberg
+Schweizer
+Geboren 1926
+Mann
+
+Nichtorganische Psychosen 
+Erkrankungen mit nichtorganischen (ähnliche Bezeichnungen auch endogene oder funktionelle) Psychosen umfassen:
+ Schizophrenie bzw. Erkrankungen des schizophrenen Formenkreises,
+ Anhaltende wahnhafte Störung (:en:Delusional disorder),
+ Akute oder vorübergehende psychotische Störungen (:en:Brief psychotic disorder),
+ Induzierte wahnhafte Störung,
+ Schizoaffektive Störung,
+ affektive Psychosen (hierunter fallen manche Formen von bipolarer Störung oder schwerer Depression).
+
+Karl Leonhard hat sechs Hauptgruppen der endogenen Psychosen unterschieden:
+
+ Die drei phasischen Psychosen (ohne die Zykloiden):
+ Unipolare Manien
+ Unipolare Depressionen
+ Bipolare Krankheit
+
+ Die zykloiden Psychosen: Angst-Glücks-Psychose, Erregt-gehemmte Verwirrtheitspsychose, Hyperkinetisch-akinetische Motilitätspsychose
+ Die unsystematischen Schizophrenien: Affektvolle Paraphrenie, periodische Katatonie etc.
+ Die systematischen Schizophrenien: Katatonien, Hebephrenien und Paraphrenien.
+
+Dabei sollten die zykloiden Psychosen eine gute Prognose haben und „defektfrei“ ausheilen.
+
+Klassifikation psychotischer Erkrankungen 
+Zur Klassifikation psychiatrischer Erkrankungen insgesamt dominierte historisch das Triadische System, dessen Entwicklung auf den Psychiater Emil Kraepelin zurückgeht. Das Triadische System teilt die Psychosen in organische (körperlich begründbare) und endogene („nicht körperlich begründbare“) Psychosen ein. Eine weitere Unterteilung der endogenen Psychosen erfolgte 1899 in der 6. Auflage von Kraepelins psychiatrischen Lehrbuchs, worin er die Dementia praecox (durch Eugen Bleuler später Schizophrenie genannt) dem manisch-depressiven Irresein (Bipolare Störung) gegenüberstellte. Das Triadische System dominierte die Psychiatrie bis in die 1980er-Jahre hinein, als mit der Veröffentlichung von DSM-III bzw. ICD-10 ein Paradigmenwechsel erfolgte: Eine ätiologisch motivierte Einteilung der Erkrankungen wurde aufgegeben, der Fokus verschob sich auf eine deskriptive Einteilung mit Einbeziehung des Verlaufs einer Erkrankung (Zeitkriterium).
+
+Die Zuordnung ist jedoch je nach Autor als unterschiedlich anzusehen. Manfred Bleuler zählte nur noch die Schizophrenie zu den endogenen Psychosen. Die ICD-10-Klassifikation gebraucht die Bezeichnung endogen nur noch im Zusammenhang mit endogener Depression. Mit dem Begriff endogene Psychose werden organische Psychosen als „exogen“ aus der Gruppe der Psychosen nosologisch ausgeschlossen. Nach der Einteilung des triadischen Systems der Psychiatrie sind auch die Variationen seelischen Wesens (Neurosen und Persönlichkeitsstörungen) als weitestgehend „psychogen“ bzw. als „nicht psychotisch“ abgegrenzt. Endogen bedeutet daher im Sinne der Abgrenzung von organischen Psychosen so viel wie „nicht-somatisch“ und im Sinne der Abgrenzung von Neurosen und Persönlichkeitsstörungen so viel wie „nicht-psychogen“.(a) Im Gegensatz dazu wird der eindeutig biologistische Standpunkt des Krankheitskonzepts als „noch nicht genau erwiesene“, aber hypostasierte Krankheitsursache betont.(a)
+
+Rolf Baer: Endogene Psychosen im 19. Jahrhundert: Von den Vesaniae Cullens zum Schizophreniebegriff Bleulers. In: Gundolf Keil, Gerhardt Nissen (Hrsg.): Psychiatrie auf dem Wege zur Wissenschaft. Psychiatrie-historisches Symposium anläßlich des 90. Jahrestages der Eröffnung der „Psychiatrischen Klinik der Königlichen Universität Würzburg“. Stuttgart/ New York 1985, S. 19–27.
+ Jakob Wyrsch: Zur Geschichte und Deutung der endogenen Psychosen. Thieme, Stuttgart 1956.
+ Rudolf Degkwitz (Hrsg.) & Hans-Joachim Bochnik (Mitverf.): Zum umstrittenen psychiatrischen Krankheitsbegriff. In: Standorte der Psychiatrie; Bd. 2, U&S-Taschenbücher 65, Urban & Schwarzenberg, München 1981, ISBN 3-541-07972-X.
+ Bernhard Pauleikhoff: Endogene Psychosen als Zeitstörungen: Zur Grundlegung einer personalen Psychiatrie unter Berücksichtigung historischer Entwicklung. Hürtgenwald 1986
+ Peter Reuter: Springer Lexikon Medizin. Springer, Berlin u. a. 2004, ISBN 3-540-20412-1, S. 1775.
+
+Bestätigungen 
+Die für die Psychiatrie in der zweiten Hälfte des 19. Jahrhunderts aufgestellten naturwissenschaftlichen Grundannahmen erfuhren durch folgende Kriterien eine Bestätigung.
+
+Körperliche Wirkstoffe 
+Zur körperlichen Begründbarkeit bei der Auslösung psychotischer Störungen ist die Rolle körperlicher Agenzien, wie Alkohol, Drogen oder höhere Dosen von Cortison allgemein bekannt. Psychotische Störungen können etwa auch durch Hirninfektionen (z. B. bakteriell) ausgelöst werden (Somatogenese). Auch wenn diese Auslösung weitestgehend als „exogen“ zu bezeichnen ist, so wirft sie doch ein prinzipielles Licht auf die evtl. auch für endogene Psychosen ursächlich zugrundeliegenden Stoffwechselvorgänge.
+
+Psychopharmaka
+
+Differenzialtypologie gegen andere psychische Störungen 
+Sodann erfolgt die Abgrenzung der Schizophrenie gegen andere psychische Störungen. Die Abgrenzung gegen andere Psychosen, insbesondere gegenüber den affektiven Störungen, bezeichnet man nach K. Schneider nicht als Differenzialdiagnose, sondern als Differenzialtypologie, da die Ursache der Schizophrenie unbekannt ist. Hier kommen an erster Stelle in Frage die:
+
+ Anhaltende wahnhafte Störung (F 22)
+ Akute Psychose (F23)
+ Schizoaffektive Störung (F25)
+
+Sowie die affektiven Psychosen:
+
+ Depression mit psychotischen Symptomen (F32/33)
+ Manie oder bipolare Störung mit psychotischen Symptomen (F30/31)
+
+Das der heutigen Psychiatrie geläufige Spektrum der „Endogenen Psychosen“ sieht eine Gruppe von Erkrankungen vor, die erstmals Robert Gaupp in der oben zitierten Arbeit als „Mischpsychose“ bezeichnet hatte und die heute als „Schizoaffektive Psychosen“ bekannt sind (ICD-10 F 25). Diese Erkrankungen unterscheiden sich nicht nur in ihrem Querschnittsbild, sondern auch in ihrem Verlauf und der Prognose. Obwohl diese Tatsachen schon in den 1920er Jahren in der Psychiatrie hinlänglich bekannt waren, änderte sich an der Hospitalisierungspraxis schizophrener Patienten nichts. Retrospektive Untersuchungen zeigten, dass in den 1930er Jahren 40–50 % der schizophrenen Patienten länger als fünf Jahre hospitalisiert waren.
+
+Langzeitstudien zur Schizophrenie
+
+        Question: Based on the following text about mental health or psychological disorders, generate a clinically relevant question that could be answered by the text:
+Endogene Psychose war eine in der klassischen deutschen Psychiatrie maßgebliche Sammelbezeichnung für bestimmte psychische Krankheiten (Psychosen) mit vermuteten endogenen Ursachen. Man nahm an, dass diese Erkrankungen vor allem durch eine innere Konstitution verursacht würden und weniger durch äußere Einflüsse. Psychiatriegeschichtlich wurden hierzu meist gezählt:(a)
+ schizophrene Psychosen (heute Schizophrenie)
+ manisch-depressive Psychosen (heute bipolare Störungen)
+ affektive Psychosen
+ genuin epileptische Psychosen (heute genetisch bedingte Epilepsien)
+ psychische Dysfunktionen in der Arbeit
+ Psychische Krankheiten
+
+Literatur
+
+  (Zusatzmaterial).
+Grund, N.; Schäfer, H.; Jürgens, A.; Schäfer, A.;
+
+        Answer: von und vor. Aufnekde und bes mit Le
+g-Sch-Wuduf aus zu und
+ged ausdemni bzial und und hai und sch-dan kich, aus vi aus hoder henschideziich rib-h hmer veri-Wzi imzi.
+aufensch z
+Be
+F
+m und und wesch aus imek in
+kur-De schb-St-k-Mele-Mode-B-ma-ha-Schbkt-beg-Sch und sch in (Benuz (zu: im zb geschchaten e gen b-b und schal -Gb-bgener und Aus und ver-Gener-G und und aus  und aus (schen von b und er-sch und aus und und, M (M und ben und-und zu von o b im und winnen oder-gen b mau, f, im f underen unden zu stg bei gener w ent aus Un aus gs sch der es sch gunes um und nach mb kunb es k oder g mm hzoen km m sch-B aus,
+b m der oder schs z oder h-g sch schen b derb unden M-b aus ein bei ein aus und und Aufb Me und und Hende kho en und vorss und und Endet oder der (spe im F bder undb Sb oder denm und sch und und und undsch z (m
+E m Bs und nb f sch H und ein Ent um inrsts E Bm
+fschmmm unddem-b ein und aus als und um Hm m und Le m Sch und Hmbzi
+m K Als unters
+rr
+sch und aus
+b und:bsch-der (gzi Leen bzwschzi.
+m (sch und Sch einbbm und Mm ein in:m und H in f (E für b gener und im Schma: G bei Aus H und m und:
+
+m (Fm und
+
+
+h
+F (Schb und
+
+
+
+
+
+m
+m:
+E Mm
+
+b kfs 
+
+
+s und und Aus Fm
+",0.8775
