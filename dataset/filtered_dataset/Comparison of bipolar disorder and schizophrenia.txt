@@ -1,0 +1,57 @@
+Both schizophrenia and bipolar disorder are characterized as psychiatric disorders in the Diagnostic and Statistical Manual of Mental Disorders fifth edition (DSM-5). Schizophrenia is a primary psychotic disorder, and bipolar disorder is a primary mood disorder but can also involve psychosis. However, because of some similar symptoms, differentiating between the two can sometimes be difficult; indeed, there is an intermediate diagnosis termed schizoaffective disorder.
+
+While reported and observed symptoms are a main way to diagnose either disorder, studies in the 21st century have allowed psychiatrists to use magnetic resonance imaging (MRI) scans to try to find better, definite markers. Through MRIs, psychiatrists can see specific structural differences in the brains of people with schizophrenia. These differences include volume of gray matter, neuropathological size differences variations and cortical thickness, which are associated with cognitive differences on tests. These differences may sometimes be seen throughout the lifespan of the diseases and often occur soon after the initial episode. Although the diseases are different, some of their treatments are similar, because of some shared symptoms.
+
+Cause and epidemiology 
+Both bipolar disorder and schizophrenia appear to result from gene–environment interaction. Evidence from numerous family and twin studies indicates a shared genetic etiology between schizophrenia and bipolar disorder. Geoffroy, Etain, and Houenou note that the largest family study available found a combined heritability for bipolar disorder and schizophrenia of approximately 60%, with environmental factors accounting for the remainder. Genetic contributions to schizoaffective disorder appear to be entirely shared with those contributing to schizophrenia and mania.
+
+Bipolar I disorder and schizophrenia each occur in approximately 1% of the population; schizoaffective disorder is estimated to occur in less than 1% of the population.
+
+Symptoms 
+During severe episodes of mania or depression people with bipolar disorder may have psychotic symptoms, such as  hallucinations or delusions. When experiencing hallucinations or delusions, people with schizophrenia often seem to "lose touch" with reality. "Voices" are the most common type of hallucination in schizophrenia. In bipolar disorder, the psychotic symptoms tend to reflect the person's extreme depressed or elated mood (mood congruence). People with either disorder may have delusions of grandeur in which they believe they are a famous person or historical figure. When psychotic symptoms are present, bipolar disorder is sometimes misdiagnosed as schizophrenia.
+
+Other symptoms of schizophrenia, including lack of pleasure, difficulty making decisions, and difficulty focusing, are similar to some symptoms of depression seen in bipolar disorder. Jumping from one idea to another and being unusually distracted during a manic episode may resemble the disorganized thinking that is  characteristic of schizophrenia.
+
+Substance abuse is a complicating factor for both conditions, making symptoms more difficult to recognize as a mental illness and interfering with treatment efficacy and adherence.
+
+Gray matter 
+Patients with schizophrenia may have some gray matter volume loss in both hemispheres of the brain. The most significant losses are typically in the left thalamus and right caudate, and this loss extends into the cerebrum, parahippocampal gyrus, and the hippocampus. There are increases in the temporal and parietal lobes, along with the anterior cerebellum. When patients with schizophrenia are compared to healthy participants, there is a decrease in gray matter volume in prefrontal and temporal regions.  The only region in which the volume increases for gray matter is within the right cerebellum, an area that contributes to the cognitive, affective, perceptual, and other deficits seen in schizophrenia.
+
+Unlike schizophrenia, bipolar disorder has very little differences for gray matter volume. Overall, there is no difference between bipolar patients and healthy patients.
+
+Neuropathological 
+
+Magnetic resonance imaging studies found that schizophrenia is associated with significantly smaller amygdala volume compared to both healthy controls and participants with bipolar disorder. Although there was no significant difference in amygdala volume between individuals with bipolar disorder and controls, amygdala size in the group with bipolar disorder was positively correlated with treatment using mood stabilizer medications This is important to consider as mood stabilizers like lithium appear to have protective and growth-stimulating effects in multiple regions of the brain, including the amygdala. Thus, it is possible that the size differences of the amygdala are due to medication rather than disease. Even so, the amygdala might still be a place of partially shared pathophysiology between these disorders.
+
+Besides the amygdala, there are other neuropathological areas of degeneration as well; the overall brain volume can also be measured. Research shows that the overall brain volume is not statistically significantly different between patients with bipolar disorder and patients with schizophrenia, except when making comparisons in the intracranial volume. A larger intracranial volume is present in the brains in bipolar disorder, but no variation occurs in the brains of people with schizophrenia.
+
+Treatment 
+Due to low rates of full remission for either disorder, with poorly understood and under-researched mechanisms of change, most treatments are designed to control symptoms and make them more tolerable. Treatments for the diseases include medication, psychotherapy, and others.
+
+Medication 
+Mood-stabilizers, such as lithium, are the primary medication treatment bipolar disorder. Lithium's method of effectiveness is unknown.
+
+Second generation antipsychotics (dopamine and serotonin antagonists) medications may also be used for bipolar disorder, often in combination with antidepressant medications (which typically increase serotonin availability). Antipsychotics ( usually second generation but also first generation) are the major class of medications used to treat schizophrenia.
+
+Psychotherapy 
+Psychotherapy is a treatment both types of disorder patients use. They guide the patients in their thoughts, and use communication or behavioral work as a means of healing. Families of the affected also benefit from this treatment, as they can sit on sessions and talk to the therapist as well.
+
+Other 
+Rehabilitation is one of several psychosocial treatments for schizophrenia. It involves social and job-skills training to improve an individual's ability to function in society. Electroconvulsive therapy (ECT) may be used to treat bipolar disorder when other treatments are ineffective or when medication would be dangerous because of another medical condition.
+
+See also
+ Kraepelinian dichotomy
+ Psychotic depression
+ Schizoaffective disorder
+
+References
+
+ 
+ 
+ 
+ 
+
+Bipolar disorder
+Schizophrenia
+Medical comparisons
+Psychiatry controversies

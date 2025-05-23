@@ -1,0 +1,55 @@
+Unipolar mania is an unrecognized mental illness characterized by episodes of mania and normal mood, with the absence of depressive symptoms.  The concept has its origins as far back as the year 1889, when the German psychiatrist Emil Kraepelin first used the term of "periodic mania" to refer to people with recurrent manic episodes and no depression. One year later, Carl Wernicke proposed that mania and depression should be viewed as separate disorders.  As the time went on, unipolar mania became an invalid diagnosis due to its variations across different patients.  Currently patients with symptoms of mania, even in the absence of any depressive symptoms, would get the bipolar 1 diagnosis.
+
+Symptoms 
+Symptoms of unipolar mania are similar to those of bipolar mania.  They can include:
+Elevated self-esteem or grandiosity
+Increased motivation or psychomotor agitation
+Decreased need for sleep
+Unusually talkative
+Difficulty maintaining attention
+Racing thoughts
+Excessive involvement in activities with a high likelihood of painful consequences.(e.g., extravagant shopping, improbable commercial schemes, hypersexuality)
+
+The episode generally have a stronger tendency to present with psychosis or/and need psychiatric assistance.
+
+Research 
+Although being viewed as a well-accepted and approved diagnostic criteria, unipolar mania is considered to be an invalid diagnosis.  Due to this, it has been a popular topic of research to investigate variation in symptoms across different patients and explore the phenomenon of unipolar mania further.
+
+Longitudinal Studies 
+Studies which are longitudinal in design have been used to assess the validity of unipolar mania as a sperate diagnosis and to distinguish it from bipolar I disorder. 
+
+An example of this is by Solomon et al (2003), who looked at the condition of participants when they first entered the study and followed up on them for a period of 15 years. This was done through the use of the Longitudinal Internal Follow-Up Evaluation, looking at the participants psychopathology, every 6 months for the first 5 years and then on an annual basis.  It was found that those who were categorised as having mania, without any signs of depression, at the start of the study, also didn’t have any major or minor signs of depression during the 15 year follow-up.  From this it can be understood that unipolar mania should be a separate diagnostic category from bipolar I disorder, as although the DSM-IV is inclusive for people to have unipolar mania within the bipolar I diagnosis, it however doesn’t include the long-term course which unipolar mania can have on individuals.  Hence, illustrating, the prevalence of unipolar mania as a distinct condition, however due to being a rare entity, claiming for it to be a separate diagnosis needs further research and evidence.
+
+Meta-Analysis 
+Studies employing meta-analysis, as a research design, have found consistent findings as those with longitudinal studies.
+
+An example of this is by Yazıcı (2014), who compiled data from the PubMed records through searching for mania-based keywords throughout the database like unipolar mania and pure mania. Manual searching was also used to find any cross-reference points and recent publications. 
+Although this form of research has various limitations, it has managed to yield valuable data in exploring the phenomenon of unipolar mania further. Such limitations include lack of clarity regarding the measure of unipolar mania in terms of the number of manic episodes, the specific criteria for exclusion, and the minimum duration needed for a follow-up, as a result of the limited research in the disorder. Irrespective of these limitations, such meta-analysis research has found variations in the way unipolar mania is expressed in individuals without depression, showing clear differences in the diagnostic criteria of bipolar I disorder from unipolar mania.  Examples of these variations include increased likelihood of the diagnosis in females and earlier onset age of the diagnosis. However, the onset age of unipolar mania is argued on as the meta-analysis included some studies which found no significant difference in the onset ages. The conclusions drawn from this research suggested clear clinical differences in the characteristics of unipolar mania from the bipolar diagnosis, supported by the meta-analysis summary that 15-20% of the patients diagnosed as bipolar I  may be unipolar mania.  However, similar to the longitudinal research, as a result of insufficient data it is difficult to distinguish unipolar mania as a separate entity. Thus, stressing the need for further studies; particularly those with a standardised set of Diagnostic criteria, which was lacking in this meta-analysis.
+
+Case Studies 
+To further previous research conducted on unipolar mania, case studies have been employed as a research method to find clinical differences between mania and bipolar I disorder across different parameters. 
+
+A recent example of such case study is by Gorgulu et al (2021), who studied patients from the Department of Psychiatry in Trakya University Hospital. The study consisted of a group of 38 patients, aged 18-65, who met the diagnostic category for unipolar mania as they had experienced a minimum of four manic episodes and were in the euthymic period.  The second group consisted of 42 patients, aged 18-65, who were diagnosed with bipolar I disorder (as per the DSM-IV), due to previously experiencing both manic and depressive episodes whilst also being in the euthymic period. To assess the differences between the two disorders, hospitalisation files were retrospectively reviewed to check for all manic episodes, in order to compare symptoms during these episodes.  Further, to assess these differences across parameters, the blood samples of patients were taken and analysed during fasting conditions to check for neurotrophins such as brain-derived neurotrophic factor (BDNF), which is the most common neurotrophin found in the brain and is significantly reduced in patients with bipolar disorder. 
+
+Interesting findings observed through this case study include: 
+ No statistical difference in the mean ages of the two groups
+ 8.08% of the patients with bipolar I diagnosis also met the diagnostic criteria for unipolar mania
+ Unipolar mania ran more common amongst males while bipolar I disorder was more common amongst the females
+ Statistically significant difference was found in the manic symptoms amongst the two groups, with the symptoms being more common in patients with unipolar mania than the patients with bipolar disorder
+ These include symptoms like increased sexual interest, delusions, and euphoria 
+ Similar BDNF levels between the two groups
+
+These findings illustrate the way in which  unipolar mania and bipolar I disorder differ in terms of their clinical features. Also, it clears the ambiguity observed involving the onset ages in meta-analysis studies, through acknowledging the ways in which both disorders are similar such as the mean ages. Nonetheless, a limitation of this research is the lack of attention paid to external factors like age, gender, habits (e.g. alcohol use), and anti-psychotic treatments which could have influenced BDNF levels, resulting in them being similar across the two groups.  Hence, further research needs to be conducted which account for such external factors to find further differences amongst the two disorders.
+
+See also 
+
+ Bipolar I Disorder
+ Depression mood
+ Mania
+ Diagnostic and Statistical Manual of Mental Disorders
+ Diagnostic criteria
+ Euthymia (medicine)
+ Neurotrophin
+ Brain-derived neurotrophic factor
+
+References

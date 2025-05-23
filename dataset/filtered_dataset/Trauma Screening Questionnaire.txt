@@ -1,0 +1,9 @@
+Trauma Screening Questionnaire abbreviated as (TSQ) is a questionnaire developed for screening of posttraumatic stress disorder. The TSQ was adapted from the PTSD Symptom Scale – Self-Report Version (PSS-SR). This self-reported assessment scale consists of 10 items, which cover one of the main signs of PTSD. Each item is answered with binary yes or no responses. Overall assessment is done by total score, and the total score higher than 5 indicates on likelihood of PTSD.
+The TSQ is considered as a valid assessment scale for screening of posttraumatic stress disorder.
+
+See also 
+ Diagnostic classification and rating scales used in psychiatry
+
+References 
+
+Mental disorders diagnostic procedures

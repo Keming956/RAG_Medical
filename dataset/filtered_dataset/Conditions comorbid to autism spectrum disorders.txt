@@ -1,0 +1,169 @@
+Autism spectrum disorders (ASDs) are developmental disorders that begin in early childhood, persist throughout adulthood, and affect three crucial areas of development: communication, social interaction and restricted patterns of behavior. There are many conditions comorbid to autism spectrum disorders such as fragile X syndrome and epilepsy.
+
+In medicine and in psychiatry, comorbidity is the presence of one or more additional conditions co-occurring with the primary one, or the effect of such additional disorders.  About 10–15% of autism cases have an identifiable Mendelian (single-gene) condition, chromosome abnormality, or other genetic syndrome, and ASD is associated with several genetic disorders, perhaps due to an overlap in genetic causes.
+
+Distinguishing between ASDs and other diagnoses can be challenging because the traits of ASDs often overlap with symptoms of other disorders and the characteristics of ASDs make traditional diagnostic procedures difficult.
+
+Comorbid conditions
+
+Anxiety
+Anxiety disorders are common among children and adults with ASD.  Symptoms are likely affected by age, level of cognitive functioning, degree of social impairment, and ASD-specific difficulties. Many anxiety disorders, such as social anxiety disorder and generalized anxiety disorder, are not commonly diagnosed in people with ASD because such symptoms are better explained by ASD itself, and it is often difficult to tell whether symptoms such as compulsive checking are part of ASD or a co-occurring anxiety problem. The prevalence of anxiety disorders in children with ASD has been reported to be anywhere between 11% and 84%; the wide range is likely due to differences in the ways the studies were conducted.
+
+A systematic review summarized available evidence on interventions to reduce anxiety in school children with autism spectrum disorder. Of the 24 studies reviewed, 22 used a cognitive behavioral therapy (CBT) approach. The review found that CBT was moderately to highly effective at reducing anxiety in school children with autism spectrum disorder, but that effects varied depending on whether they were reported by clinicians, parents or self-reported. Treatments involving parents and one-on-one compared to group treatments were more effective.
+
+Brain fog
+Brain fog is a constellation of symptoms that include reduced cognition, inability to concentrate and multitask, as well as loss of short and long term memory. Brain fog can be present in patients with autism spectrum disorder (ASD). Its prevalence, however, remains unknown.
+
+Bipolar disorder
+Bipolar disorder, or manic-depression, is itself often claimed to be comorbid with a number of conditions, including autism. Autism includes some symptoms commonly found in mood and anxiety disorders.
+
+Bowel disease
+Gastrointestinal symptoms are a common comorbidity in patients with autism spectrum disorders (ASD), even though the underlying mechanisms are largely unknown. The most common gastrointestinal symptoms reported by proprietary tool developed and administered by Mayer, Padua, & Tillisch (2014) are abdominal pain, constipation, diarrhea and bloating, reported in at least 25 percent of participants. Carbohydrate digestion and transport is impaired in individuals with autism spectrum disorder, which is thought to be attributed to functional disturbances that cause increased intestinal permeability, deficient enzyme activity of disaccharides, increased secretin-induced pancreatico-biliary secretion, and abnormal fecal flora Clostridia taxa  Altered gastrointestinal function accompanied by pain may induce feeding issues and increase perceived negative behaviors, including self injury, in individuals with autism.
+
+Depression 
+Major depressive disorder has been shown by several studies to be one of the most common comorbid conditions in those with ASD, and is thought to develop and occur more in high-functioning individuals during adolescence, when the individual develops greater insight into their differences from others. In addition, the presentation of depression in ASDs can depend on the level of cognitive functioning in the individual, with lower functioning children displaying more behavioral issues and higher functioning children displaying more traditional depressive symptoms.
+
+Developmental coordination disorder
+The initial accounts of Asperger syndrome and other diagnostic schemes include descriptions of developmental coordination disorder. Children with ASD may be delayed in acquiring motor skills that require motor dexterity, such as bicycle riding or opening a jar, and may appear awkward or "uncomfortable in their own skin". They may be poorly coordinated, or have an odd or bouncy gait or posture, poor handwriting, other hand/dexterity impairments, or problems with visual-motor integration, visual-perceptual skills, and conceptual learning. They may show problems with proprioception (sensation of body position) on measures of developmental coordination disorder, balance, tandem gait, and finger-thumb apposition.
+
+Epilepsy
+ASD is also associated with epilepsy, with variations in risk of epilepsy due to age, cognitive level, and type of language disorder. One in four autistic children develops seizures, often starting either in early childhood or adolescence. Seizures, caused by abnormal electrical activity in the brain, can produce a temporary loss of consciousness (a "blackout"), a body convulsion, unusual movements, or staring spells. Sometimes a contributing factor is a lack of sleep or a high fever. An EEG can help confirm the seizure's presence. Typically, onset of epilepsy occurs before age five or during puberty, and is more common in females and individuals who also have a comorbid intellectual disability.
+
+Fragile X syndrome
+Fragile X syndrome is the most common inherited form of intellectual disability. It was so named because one part of the X chromosome has a defective piece that appears pinched and fragile when under a microscope. Fragile X syndrome affects about two to five percent of people with ASD. If one child has Fragile X, there is a 50% chance that boys born to the same parents will have Fragile X (see Mendelian genetics). Other members of the family who may be contemplating having a child may also wish to be checked for the syndrome.
+
+Gender dysphoria
+
+Gender dysphoria is a diagnosis given to transgender people who experience discomfort related to their gender identity. Autistic people are more likely to experience gender dysphoria.  Around 20% of gender identity clinic-assessed individuals reported characteristics of ASD.
+
+Abnormal folate metabolism
+Several lines of evidence indicate abnormalities of folate metabolism in ASD. These abnormalities can lead to a decrease in 5-methyltetrahydrofolate production, alter the production of folate metabolites and reduce folate transport across the blood-brain barrier and in neurons. The most significant abnormalities of folate metabolism associated with ASDs may be autoantibodies to the alpha folate receptor (FRα). These autoantibodies have been associated with cerebral folate deficiency. Autoantibodies can bind to FRα and greatly impair its function.
+
+In 2013, one study reported that 60% and 44% of 93 children with ASD were positive for FRα-blocking and binding autoantibodies, respectively. This high rate of anti-FRα autoantibody positivity was confirmed by Ramaekers et al who compared 75 children with ASD to 30 non-autistic controls with developmental delay. FRα-blocking autoantibodies were positive in 47% of children with ASD, but only in 3% of control children.
+
+Many children with ASD and cerebral folate deficiency have marked improvements in their clinical status when taking folinic acid.
+
+A series of five children with cerebral folate deficiency and low functioning autism with neurological deficits found a complete recovery of ASD symptoms with the use of folinic acid in a child and substantial improvements in communication in two other children.
+
+Abnormal redox metabolism
+An imbalance in glutathione-dependent redox metabolism has been shown to be associated with autism spectrum disorders (ASD). Glutathione synthesis and intracellular redox balance are related to folate metabolism and methylation, metabolic pathways that have also been shown to be abnormal in ASD. Together, these metabolic abnormalities define a distinct endophenotype of TSA closely associated with genetic, epigenetic and mitochondrial abnormalities, as well as environmental factors related to ASD. Glutathione is involved in neuroprotection against oxidative stress and neuroinflammation by improving the antioxidant stress system.
+
+In autistic children, studies have shown that glutathione metabolism can be improved. - Subcutaneously by injection of methylcobalamin. - Oral folinic acid. - A vitamin and mineral supplement that includes antioxidants, coenzyme Q10 and vitamins B. - Tetrahydrobiopterin. Interestingly, recent DBPC studies have shown that N-acetyl-1-cysteine, a glutathione precursor supplement, is effective in improving the symptoms and behaviors associated with ASD. However, glutathione was not measured in these studies.
+
+Small, medium and large DPBC trials and open small and medium-sized clinical trials demonstrate that new treatments for children with ASD for oxidative stress are associated with improvements in baseline symptoms of ASD, sleep, gastrointestinal symptoms, hyperactivity, seizures and parental impression, sensory and motor symptoms. These new treatments include N-acetyl-l-cysteine, methylcobalamin with and without oral folinic acid, vitamin C, and a vitamin and mineral supplement that includes antioxidants, enzyme Q10, and B vitamins.
+
+Several other treatments that have antioxidant properties, including carnosine, have also been reported to significantly improve ASD behaviors, suggesting that treatment of oxidative stress could be beneficial for children with ASD. Many antioxidants can also help improve mitochondrial function, suggesting that clinical improvements with antioxidants could occur through a reduction in oxidative stress and / or an improvement in mitochondrial function.
+
+Some of these treatments can have frequent serious side effects (bronchospasm, etc ...).
+
+Neurotransmitter anomalies
+
+Mitochondrial diseases
+The central player in bioenergetics is the mitochondrion. Mitochondria produce about 90% of cellular energy, regulate cellular redox status, produce ROS, maintain Ca2+ homeostasis, synthesize and degrade high-energy biochemical intermediates, and regulate cell death through activation of the mitochondrial permeability transition pore (mtPTP). When they fail, less and less energy is generated within the cell. Cell injury and even cell death follow. If this process is repeated throughout the body, whole organ systems begin to fail.
+
+Mitochondrial diseases are a heterogeneous group of disorders that can affect multiple organs with varying severity. Symptoms may be acute or chronic with intermittent decompensation. Neurological manifestations include encephalopathy, stroke, cognitive regression, seizures, cardiopathies (cardiac conduction defects, hypertensive heart disease, cardiomyopathy, etc...), diabetes, visual and hearing loss, organ failure, neuropathic pain and peripheral neuropathy.
+
+The prevalence estimates of mitochondrial disease and dysfunction across studies ranging from about 5 to 80%. This may be, in part, due to the unclear distinction between mitochondrial disease and dysfunction. Mitochondrial diseases are difficult to diagnose and have become better known and detected. Studies indicating the highest rates of mitochondrial diagnosis are usually the most recent.
+
+Some drugs are toxic to mitochondria. These can trigger or aggravate dysfunctions or mitochondrial diseases.
+
+ Antiepileptics :
+Valproic acid (also used in various other indications) and phenytoin are the most toxic. Phenobarbital, carbamazepine, oxcarbazepine, ethosuximide, zonisamide, topiramate, gabapentin and vigabatrin are also.
+
+ Other types of drugs :
+Corticosteroids (cortisone), accutane (isotretinoin) and other vitamin A derivatives, barbiturates, certain antibiotics, propofol, volatile anesthetics, non-depolarizing muscle relaxants, some local anesthetics, statins, fibrates, glitazones, beta blockers, biguanides, amiodarone, some chemotherapies, some neuroleptics, nucleoside reverse transcriptase inhibitors and various other drugs.
+
+Neurofibromatosis type I 
+ASD is also associated with Neurofibromatosis type I (NF-1). NF-1 is a complex multi-system human disorder caused by the mutation of a gene on chromosome 17 that is responsible for production of a protein, called neurofibromin 1, which is needed for normal function in many human cell types. NF-1 causes tumors along the nervous system which can grow anywhere on the body. NF-1 is one of the most common genetic disorders and is not limited to any person's race or sex. NF-1 is an autosomal dominant disorder, which means that mutation or deletion of one copy (or allele) of the NF-1 gene is sufficient for the development of NF-1, although presentation varies widely and is often different even between relatives affected by NF-1.
+
+Neuroinflammation and immune disorders
+The role of the immune system and neuroinflammation in the development of autism is controversial. Until recently, there was scant evidence supporting immune hypotheses, but research into the role of immune response and neuroinflammation may have important clinical and therapeutic implications. The exact role of heightened immune response in the central nervous system (CNS) of patients with autism is uncertain, but may be a primary factor in triggering and sustaining many of the comorbid conditions associated with autism. Recent studies indicate the presence of heightened neuroimmune activity in both the brain tissue and the cerebrospinal fluid of patients with autism, supporting the view that heightened immune response may be an essential factor in the onset of autistic symptoms. A 2013 review also found evidence of microglial activation and increased cytokine production in postmortem brain samples from people with autism.
+
+Neuropathies
+The prevalence of peripheral neuropathies would be significantly increased in ASD. Peripheral neuropathies may be asymptomatic. Peripheral neuropathy is a common manifestation of mitochondrial diseases and polyneuropathies would be relatively common. Neuropathies could also be caused by other features of ASD.
+
+Nonverbal learning disorder
+
+Obsessive–compulsive disorder 
+Obsessive–compulsive disorder is characterized by recurrent obsessive thoughts or compulsive acts. About 30% of individuals with autism spectrum disorders also have OCD.
+
+Obsessive–compulsive personality disorder 
+Obsessive–compulsive personality disorder (OCPD) is a cluster c personality disorder characterized by a general pattern of excessive concern with orderliness, perfectionism, attention to details, mental and interpersonal control and a need for control over one's environment which interferes with personal flexibility, openness to experience and efficiency as well as interfering with relationships.
+
+There are considerable similarities and overlap between Asperger's syndrome and OCPD, such as list-making, inflexible adherence to rules and obsessive aspects of Asperger's syndrome, though the latter may be distinguished from OCPD especially regarding affective behaviors, worse social skills, difficulties with theory of mind and intense intellectual interests e.g. an ability to recall every aspect of a hobby. A 2009 study involving adult autistic people found that 40% of those diagnosed with Asperger's syndrome met the diagnostic requirements for a co-morbid OCPD diagnosis.
+
+Psychosis and schizophrenia 
+
+Childhood-onset schizophrenia is preceded by childhood autistic spectrum disorders in almost half of cases, and an increasing number of similarities are being discovered between the two disorders.
+
+Studies have also found that the presence of psychosis in adulthood is significantly higher in those with autism spectrum disorders, especially those with PDD-NOS, than in the general population. This psychosis generally occurs in an unusual way, with most individuals with ASD experiencing a highly atypical collection of symptoms. Recent studies have also found that the core ASD symptoms also generally present in a slightly different way during the childhood of the individuals that will later become psychotic, long before the actual psychosis develops.
+
+Schizoid personality disorder 
+Schizoid personality disorder (SPD) is a personality disorder characterized by a lack of interest in social relationships, a tendency towards a solitary or sheltered lifestyle, secretiveness, emotional coldness, detachment and apathy. Other associated features include stilted speech, a lack of deriving enjoyment from most, if not all, activities, feeling as though one is an "observer" rather than a participant in life, an inability to tolerate emotional expectations of others, apparent indifference when praised or criticised, a degree of asexuality and idiosyncratic moral or political beliefs. Symptoms typically start in late childhood or adolescence.
+
+Several studies have reported an overlap, confusion or comorbidity with the autism spectrum disorder Asperger syndrome. Asperger syndrome had traditionally been called "schizoid disorder of childhood", and Eugen Bleuler coined both the terms "autism" and "schizoid" to describe withdrawal to an internal fantasy, against which any influence from outside becomes an intolerable disturbance. In a 2012 study of a sample of 54 young adults with Asperger syndrome, it was found that 26% of them also met criteria for SPD, the highest comorbidity out of any personality disorder in the sample (the other comorbidities were 19% for obsessive–compulsive personality disorder, 13% for avoidant personality disorder and one female with schizotypal personality disorder). Additionally, twice as many men with Asperger syndrome met criteria for SPD than women. While 41% of the whole sample were unemployed with no occupation, this rose to 62% for the Asperger's and SPD comorbid group. Although the cause for this comorbidity is not yet certain, genetic evidence for a spectrum between cluster A personality disorders/schizophrenia and autism spectrum disorders has been found. Tantam suggested that Asperger syndrome may confer an increased risk of developing SPD.
+
+In the same 2012 study, it was noted that the DSM may complicate diagnosis of SPD by requiring the exclusion of a pervasive developmental disorder (PDD) before establishing a diagnosis of SPD. The study found that social interaction, stereotyped behaviours and specific interests were more severe in the individuals with Asperger syndrome also fulfilling SPD criteria, against the notion that social interaction skills are unimpaired in SPD. The authors believe that substantial subgroup of people with autism spectrum disorder or PDD have clear "schizoid traits" and correspond largely to the "loners" in Lorna Wing's classification The autism spectrum (Lancet 1997), described by Sula Wolff.
+
+Sensory problems
+
+Unusual responses to sensory stimuli are more common and prominent in individuals with autism, and sensory abnormalities are commonly recognized as diagnostic criteria in autism spectrum disorder (ASD), as reported in the Diagnostic and Statistical Manual of Mental Disorders (DSM-V); although there is no good evidence that sensory symptoms differentiate autism from other developmental disorders. Sensory processing disorder is comorbid with ASD, with comorbidity rates of 42–88%. With or without meeting the standards of SPD; about 90% of ASD individuals have some type of atypical sensory experiences, described as both hyper- and hypo-reactivity. The prevalence of reported “unusual sensory behaviors” that effect functioning in everyday life is also higher; ranging from 45 to 95% depending on factors such as age, IQ and the control group used.
+
+Several studies have reported associated motor problems that include poor muscle tone, poor motor planning, and toe walking; ASD is not associated with severe motor disturbances.
+
+Many with ASD often find it uncomfortable to sit or stand in a way which neurotypical people will find ordinary, and may stand in an awkward position, such as with both feet together, supinating, sitting cross-legged or with one foot on top of the other or simply having an awkward gait. However, despite evidently occurring more often in people with ASD, all evidence is anecdotal and unresearched at this point. It has been observed by some psychologists that there is commonality to the way in which these 'awkward' positions may manifest.
+
+Reduced NMDA‐receptor function
+Reduced NMDA receptor function has been linked to reduced social interactions, locomotor hyperactivity, self-injury, pre-impulse inhibition (PPI) deficits, and sensory hypersensitivity, among others. Results suggest that NMDA dysregulation could contribute to core ASD symptoms.
+
+Sleep disorders
+Sleep disorders are commonly reported by parents of individuals with ASDs, including late sleep onset, early morning awakening, and poor sleep maintenance;  sleep disturbances are present in 53–78% of individuals with ASD.  Unlike general pediatric insomnia, which has its roots in behavior, sleep disorders in individuals with ASD are comorbid with other neurobiological, medical, and psychiatric issues.
+
+If not addressed, severe sleep disorders can exacerbate ASD behaviors such as self-injury; however, there are no Food and Drug Administration-approved pharmacological treatments for pediatric insomnia at this time.
+
+Studies have found abnormalities in the physiology of melatonin and circadian rhythm in people with autism spectrum disorders (ASD). These physiological abnormalities include lower concentrations of melatonin or melatonin metabolites in ASDs compared to controls. Some evidence suggests that melatonin supplements improve sleep patterns in children with autism but robust, high-quality studies are overall lacking.
+
+Tinnitus
+According to one study, 35% of people with Asperger syndrome would be affected by tinnitus, which is much higher than in the general population.
+
+Tourette syndrome
+The prevalence of Tourette syndrome among individuals with autism is estimated to be 6.5%, higher than the 2% to 3% prevalence for the general population. Several hypotheses for this association have been advanced, including common genetic factors and dopamine, glutamate or serotonin abnormalities.
+
+Tuberous sclerosis
+Tuberous sclerosis is a rare genetic disorder that causes benign tumors to grow in the brain as well as in other vital organs. It has a consistently strong association with the autism spectrum. One to four percent of autistic people also have tuberous sclerosis. Studies have reported that between 25% and 61% of individuals with tuberous sclerosis meet the diagnostic criteria for autism with an even higher proportion showing features of a broader pervasive developmental disorder.
+
+Vitamin deficiencies
+
+Vitamin deficiencies are more common in autism spectrum disorders than in the general population.
+
+ Vitamin D : Vitamin D deficiency was concerned in a German study 78% of hospitalized autistic population. 52% of the entire ASD group in the study was severely deficient, which is much higher than in the general population. Other studies also show a higher rate of vitamin D deficiencies in ASDs.
+ Vitamine B12 : The researchers found that, overall, B12 levels in the brain tissue of autistic children were three times lower than those of the brain tissue of children not affected by ASD. This lower-than-normal B12 profile persisted throughout life in the brain tissues of patients with autism. These deficiencies are not visible by conventional blood sampling. As for the classic deficiency of vitamin B12, it would affect up to 40% of the population, its prevalence has not yet been studied in autism spectrum disorders. Vitamin B12 deficiency is one of the most serious.
+ Vitamin B9 (folic acid) : Studies have been conducted regarding folic acid supplementation in autism in children. "The results showed that folic acid supplementation significantly improved certain symptoms of autism such as sociability, verbal / preverbal cognitive language, receptive language, and emotional expression and communication. In addition, this treatment improved the concentrations of folic acid, homocysteine and redox metabolism of standardized glutathione. "
+ Vitamin A : Vitamin A can induce mitochondrial dysfunction. According to a non-specific study on ASD: "Vitamin A and its derivatives, retinoids, are micronutrients necessary for the human diet in order to maintain several cellular functions of human development in adulthood as well as during aging (...) Although it is either an essential micronutrient, used in clinical applications, vitamin A has several toxic effects on the redox environment and mitochondrial function. A decline in the quality of life and an increase in the mortality rate among users of vitamin A supplements have been reported. Although the exact mechanism by which vitamin A causes its deleterious effects is not yet clear (...) Vitamin A and its derivatives, retinoids , disrupt mitochondrial function by a mechanism that is not fully understood."
+ Zinc : Zinc deficiency incidence rates in children aged 0 to 3, 4 to 9 and 10 to 15 years were estimated at 43.5%, 28.1% and 3.3% for boys and at 52.5%, 28.7% and 3.5% among girls.
+ Magnesium :  Incidence rates of magnesium deficiency in children aged 0 to 3, 4 to 9 and 10 to 15 years were estimated at 27%, 17.1% and 4.2% for boys and at 22.9%, 12.7% and 4.3% among girls.
+ Calcium : Incidence rates of calcium deficiency in children aged 0 to 3, 4 to 9 years and 10 to 15 years were estimated at 10.4%, 6.1% and 0.4% for boys and at 3.4%, 1.7% and 0.9% among girls.
+
+It has been found that special diets that are inappropriate for children with ASD usually result in excessive amounts of certain nutrients and persistent vitamin deficiencies.
+
+Other mental disorders
+Phobias and other psychopathological disorders have often been described along with ASD but this has not been assessed systematically.
+
+Intellectual disability
+The fraction of autistic individuals who also meet criteria for intellectual disability has been reported as anywhere from 25% to 70%,  a wide variation illustrating the difficulty of assessing autistic intelligence. For example, a 2001 British study of 26 autistic children found about 30% with intelligence in the normal range (IQ above 70), 50% with a mild to moderate intellectual disability, and about 20% with a severe to profound intellectual disability (IQ below 35). For ASD other than autism the association is much weaker: the same study reported normal intelligence in about 94% of 53 children with PDD-NOS. Estimates are that 40–69% of individuals with ASD have some degree of an intellectual disability,  with females more likely to be in severe range of an intellectual disability. Learning disabilities are also highly comorbid in individuals with an ASD. Approximately 25–75% of individuals with an ASD also have some degree of learning disability, although the types of learning disability vary depending on the specific strengths and weaknesses of the individual.
+
+A 2006 review questioned the common assumption that most children with autism have an intellectual disability. It is possible that the association between an intellectual disability and autism is not because they usually have common causes, but because the presence of both makes it more likely that both will be diagnosed.
+
+The CDC states that based on information from 11 reporting states 46% of people with autism have above 85 IQ.
+
+Attention-deficit hyperactivity disorder
+Previously, the diagnosis manual DSM-IV did not allow the co-diagnosis of ASD and attention-deficit hyperactivity disorder (ADHD). However, following years of clinical research, the most recent publication (DSM-5) in 2013 removed this prohibition of co-morbidity. Thus, individuals with autism spectrum disorder may also have a diagnosis of ADHD, with the modifiers of inattentive, hyperactive, combined-type, or not otherwise specified. Clinically significant symptoms of these two conditions commonly co-occur, and children with both sets of symptoms may respond poorly to standard ADHD treatments. Individuals with autism spectrum disorder may benefit from additional types of medications.
+
+See also
+ Autism and working memory
+
+Notes
+
+References
+
+Autism

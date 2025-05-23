@@ -1,0 +1,70 @@
+Late-life depression refers to a major depressive episode occurring for the first time in an older person (usually over 50 or 60 years of age). The term can also include depression that develops in an older person who suffered from the illness earlier in life. Concurrent medical problems and lower functional expectations of elderly patients often obscure the degree of impairment. Typically, elderly patients with depression do not report depressed mood, but instead present with less specific symptoms such as insomnia, anorexia, and fatigue. Elderly persons sometimes dismiss less severe depression as an acceptable response to life stress or a normal part of aging.
+
+Primary care is most often where diagnosis and treatment of late-life depression occurs, though is often missed or not treated even following a diagnosis. Diagnosis is made in the same way as other age groups, using DSM-5 criteria for major depressive disorder;however, diagnosis can be more difficult due to the unique challenges the elderly face. Common reasons for this difficulty include: medical illnesses and medication side effects that present similarly to depression, difficulty communicating with providers, lack of time in an appointment, and beliefs about mental illness and treatment from the patient, friends, family members, and society. Treatments for late-life depression include medicine and psychotherapy, along with lifestyle changes such as exercise, bright light therapy, and family support In patients who do not respond to initial treatments, neurostimulation techniques such as electroconvulsive therapy (ECT) can be used. ECT has demonstrated effectiveness in treating the elderly.
+
+Symptoms and diagnosis
+Diagnosis of depression in late life is made using the same criteria for Major Depressive Disorder found in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)
+
+To meet criteria for a major depressive episode, a patient must have five of the nine symptoms listed below nearly every day for at least two weeks and must have at least either a depressed mood or anhedonia. The symptoms they are facing must also harm their ability to function in daily life and must not be better explained by a medical illness or a substance. To further meet criteria for Major Depressive Disorder, the depressive episode must not be attributable to another psychiatric disorder such as psychosis or a bipolar disorder.
+
+ Depressed or sad mood
+ Anhedonia (loss of interest in pleasurable activities)
+ Sleep disturbance (increased or decreased sleep)
+ Appetite disturbance (increased or decreased appetite) typically with weight change
+ Energy disturbance (increased or decreased energy/activity level), usually fatigue
+ Poor memory or concentration
+ Feelings of guilt or worthlessness
+ Psychomotor retardation or agitation (a change in mental and physical speed perceived by other people)
+ Thoughts of wishing they were dead; suicidal ideation or suicide attempts
+
+Causes
+The exact changes in brain chemistry and function that cause either late-life or earlier onset depression are unknown. It is known, however, that brain changes can be triggered by the stresses of certain life events such as illness, childbirth, death of a loved one, life transitions (such as retirement), interpersonal conflicts, or social isolation. Risk factors for depression in elderly persons include a history of depression, chronic medical illness, female sex, being single or divorced, brain disease, alcohol use disorder, use of certain medications, and stressful life events.
+
+Treatments
+Treatment is effective in about 80% of identified cases, when treatment is provided. Effective management requires a biopsychosocial approach, combining pharmacotherapy and psychotherapy. Therapy generally results in improved quality of life, enhanced functional capacity, possible improvement in medical health status, increased longevity, and lower health care costs. Improvement should be evident as early as two weeks after the start of therapy, but full therapeutic effects may require several months of treatment. Therapy for older patients should be continued for longer periods than are typically used in younger patients.
+
+Psychotherapy
+Psychologic therapies are recommended for elderly patients with depression because of this group's vulnerability to adverse effects and high rates of medical problems and medication use. Psychotherapeutic approaches include cognitive behavioral therapy, supportive psychotherapy, problem-solving therapy, and interpersonal therapy. Life review therapy is another type of therapy with evidence supporting its usefulness in older adults with moderate depression. The potential benefit of psychotherapy is not diminished by increasing age. Older adults often have better treatment compliance, lower dropout rates, and more positive responses to psychotherapy than younger patients. While therapy can be beneficial, it is not always provided due to factors such as lack of trained therapists or lack of coverage by health insurance.
+
+Pharmacotherapy
+Pharmacotherapy for acute episodes of depression usually is effective and free of complications. Antidepressant medications are often the first treatment choice for adults with moderate or severe depression, sometimes along with psychotherapy. The most promising therapeutic effect is achieved when the treatment continues for at least six weeks. Underuse or misuse of antidepressants and prescribing inadequate dosages are the most common mistakes physicians make when treating elderly patients for depression. Only 10% to 40% of depressed elderly patients are given medication.
+
+Selective serotonin reuptake inhibitors, commonly referred to as SSRIs, are considered first line pharmacotherapy for depression in late life as they are more tolerable and safer than other antidepressants. Serotonin-norepinephrine reuptake inhibitors (SNRIs) are considered second-line but also can be useful for patients suffering from chronic pain. Atypical antidepressants such as bupropion and mirtazapine have not been studied extensively in older adults but appear to offer some benefit. Monoamine oxidase inhibitors (MAOIs) similarly have been shown to offer some benefit, but have not been studied extensively MAOIs must be used with caution to prevent side effects such as serotonin syndrome and adrenergic crisis.
+
+Tricyclic antidepressants are no longer the first line therapy for depression, but can still benefit patients who do not respond to initial therapies. TCAs have also demonstrated a unique ability to prevent re-occurrence of depression following electroconvulsive therapy. TCAs are typically not used initially due to their side effects and risk from overdose compared to SSRIs. A TCA overdose can be fatal at a much lower dose than SSRIs.
+
+Antidepressants, in general, may also work by playing a neuroprotective role in how they relieve anxiety and depression. It's thought that antidepressants may increase the effects of brain receptors that help nerve cells keep sensitivity to glutamate which is an organic compound of a nonessential amino acid. This increased support of nerve cells lowers glutamate sensitivity, providing protection against the glutamate overwhelming and exciting key brain areas related to depression.   Although antidepressants may not cure depression, they can lead to remission, which is the disappearance or nearly complete reduction of depression symptoms.
+
+Continuation and maintenance treatments for depression in older people
+
+A 2016 Cochrane review provided limited evidence that continuing antidepressant medication for one year seems to reduce the risk of depression recurrence with no additional harm. However, a robust recommendation can not be drawn about psychological treatments or combination treatments in preventing recurrence.
+
+Neurostimulation 
+Neurostimulation, specifically electroconvulsive therapy (ECT) is an effective treatment for depression in the elderly. It is particularly useful in treating severe major depression that does not respond well to the above treatments. In the geriatric population specifically, including patients over the age of 85, ECT provides a safe and effective treatment option. Compared to treatment with younger patients, ECT appears to work more effectively in the older patients. A typical course of ECT treatment ranges from 6 to 12 treatments, with some requiring more or less. A normal treatment schedule in the United States might include three treatments a week on Monday, Wednesday, and Friday. Two treatments a week compares favorably with three and can also be used. Maintenance ECT, which is ECT given longitudinally after the initial set of acute treatments, also helps depression in late life and helps prevent reoccurring depression.
+
+If an older person requires hospitalization for their depression, ECT has been shown in multiple studies to work faster than medicine and reduce mortality associated with depression. Even in cases such as depression following a stroke, ECT can be efficacious; however, the evidence is not as strong on its ability to treat vascular depression caused by long-term disease, versus an acute event like a stroke.
+
+Transcranial magnetic stimulation (TMS) is another example of neurostimulation used to treat depression, but ECT is considered to be the more effective modality.
+
+Epidemiology
+
+Major depression is a mental disorder characterized by an all-encompassing low mood accompanied by low self-esteem, and loss of interest or pleasure in normally enjoyable activities. Nearly five million of the 31 million Americans who are 65 years or older are clinically depressed, and one million have major depression. Approximately 3% of healthy elderly persons living in the community have major depression. Recurrence may be as high as 40%. Suicide rates are nearly twice as high in depressed patients as in the general population. Major depression is more common in medically ill patients who are older than 70 years and hospitalized or institutionalized. Severe or chronic diseases associated with high rates of depression include stroke (30–60%), coronary heart disease (8–44%), cancer (1–40%), Parkinson's disease (40%), Alzheimer's disease (20–40%), and dementia (17–31%).
+
+Minor depression is a clinically significant depressive disorder that does not fulfill the duration criterion or the number of symptoms necessary for the diagnosis of major depression. Minor depression, which is more common than major depression in elderly patients, may follow a major depressive episode. It also can be a reaction to routine stressors in older populations. 15–50% of patients with minor depression develop major depression within two years.
+
+Research
+Brain imaging (functional/structural MRI) may help direct the search for microscopic abnormalities in brain structure and function responsible for late life depression. Ultimately, imaging technologies may serve as tools for early diagnosis and subtyping of depression.
+
+See also 
+Major depressive disorder
+Depression
+ Clinical geropsychology
+Electroconvulsive therapy
+Deep brain stimulation
+Tricyclic antidepressant
+Monoamine oxidase inhibitor
+
+References 
+
+Aging-associated diseases
+Major depressive disorder

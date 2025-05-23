@@ -1,0 +1,59 @@
+Das Depressions-Inventar für Kinder und Jugendliche (kurz DIKJ) ist ein psychologischer Test zur Überprüfung der Ausprägung depressiver Symptome bei Kindern und Jugendlichen.
+Das Inventar wurde von J. Stiensmeier-Pelster, M. Schürmann und K. Duda entwickelt. Die erste Auflage erschien 1989, die zweite überarbeitete Auflage im Jahr 2000. 2014 ist die 3., überarbeitete und neu normierte Auflage erschienen.
+
+Hintergrund 
+
+Im angloamerikanischen Raum lässt sich seit dem Ende der 1970er Jahre eine wachsende Zahl an Studien zu den Ursachen, dem Verlauf und der Behandlung depressiver Störungen im Kindes- und Jugendalter feststellen. Im deutschsprachigen Raum wurde die Forschung diesbezüglich eher vernachlässigt. Aus diesem Grund war kein geeignetes Messverfahren zur Diagnostik depressiver Störungen im Kindes- und Jugendalter verfügbar. Deshalb entwickelten die Autoren das DIKJ in Anlehnung an das Kovacs Children's Depression Inventory (CDI).
+
+Aufbau 
+
+Das DIKJ verfügt über 26 Items, wobei jedes Item eine Entscheidung zwischen drei Antwortmöglichkeiten verlangt. Die Antwortalternativen kennzeichnen unterschiedliche Ausprägungen eines Symptomzustands. Bei einem Wert von null liegt keine Symptomatik vor, ein Wert von eins beschreibt eine mittelstarke Ausprägung des Symptoms, bei einem Wert von drei geht man von einer starken Ausprägung aus. Die Reihenfolge der Antwortmöglichkeiten ist je zur Hälfte auf- bzw. absteigend angeordnet.
+
+Anwendung 
+
+Das DIKJ wurde für Kinder und Jugendliche im Alter von acht bis sechzehn Jahren entwickelt. In Ausnahmefällen kann die Altersgrenze nach oben abweichen, abhängig von der kognitiven und psychischen Reife des Jugendlichen. Zum Einsatz des Inventars bei Kindern unter acht Jahren liegen keine Untersuchungen vor. Bei der Durchführung sind sowohl Einzel- als auch Gruppentests möglich. Der Einsatz kann zur Diagnose, aber auch therapiebegleitend erfolgen. Es gilt zu beachten, dass der Test keine Auskunft darüber gibt, ob ein Kind oder Jugendlicher depressiv ist oder nicht, sondern nur über den Schweregrad eines depressiven Symptoms, falls ein Symptom vorliegt.
+
+Reliabilität und Validität 
+
+Das DIKJ ist ein reliables und valides Messinstrument. Alle Items weisen hinreichende bis zufrieden stellende, teils sogar sehr gute Trennschärfen auf. Bei psychopathologisch auffälligen Kindern und Jugendlichen zeigten sich jedoch deutlichere Trennschärfen als bei unauffälligen. Ebenso war die Trennschärfe bei älteren Probanden besser als bei Jüngeren.
+Das DIKJ wurde geeicht und verfügt über Normtabellen. Dadurch hat der Testanwender die Möglichkeit, das Testergebnis eines Probanden vor dem Hintergrund einer Vergleichsgruppe zu interpretieren sowie Testergebnisse verschiedener Probanden untereinander zu vergleichen. Zudem wird ein Vergleich mit anderen normierten Testverfahren möglich.
+
+Kritik 
+
+Positiv zu bewerten ist die leichte Verständlichkeit der Items und die simple Durchführung des Testverfahrens. Auch die Auswertung und die Einordnung der Testergebnisse in die entsprechenden Normtabellen gestalten sich als problemlos und zeitsparend.
+Ob sich dieses Testinstrument jedoch tatsächlich dafür eignet, therapiebegleitend eingesetzt zu werden, bleibt fraglich.
+
+Das Verfahren ist mit der auf- und abfallenden Strukturierung leicht durchschaubar. Es wäre also sicherlich möglich, nach sozialer Erwünschtheit zu antworten und den Test bei vielfacher Wiederholung zu manipulieren.
+Jedoch ist das DIKJ ein gut einsetzbares Messverfahren, um einen Verdacht der depressiven Störung abzusichern und bei der Bestätigung des Verdachts eine klinische Diagnostik einzuleiten.
+
+Komorbidität 
+
+Gerade bei Kindern und Jugendlichen treten depressive Störungen häufig komorbid auf.
+Studien zufolge besteht das häufigste Komorbiditätsmuster aus Depression in Verbindung mit Angststörungen. Dies trifft besonders für Kinder zu. Im Jugendalter sind häufige Kombinationen mit Alkohol-, Drogen- und Tablettenmissbrauch verzeichnet. Außerdem finden sich hier bei Mädchen oft Essstörungen, bei Jungen aggressives Verhalten.
+Die Bremer Jugendstudie belegt, dass von allen Jugendlichen mit depressiver Störung mehr als die Hälfte eine oder mehrere weitere Störungen aufweisen.
+
+Besonderheiten bei Kindern und Jugendlichen 
+
+Bei Kindern liegt die Prävalenz von Depression etwa bei drei Prozent, bei Jugendlichen bei etwa achtzehn Prozent. Die Symptome sind bei Kindern und Jugendlichen oft nur schwer zu erkennen, da sie von alterstypischen Verhaltensweisen überlagert werden. Dies erschwert die Diagnostik. Bei Jugendlichen sind Aufsässigkeit, Trotzverhalten, Aggressivität, negatives Körperbild und Schulunlust oft alterstypisches pubertäres Verhalten, daher können depressive Symptome leicht übersehen werden.
+
+Jüngere Kinder hingegen können oft noch gar nicht artikulieren, was sie bedrückt. Häufig finden Übertragungen in den somatischen Bereich statt. Sie klagen vermehrt über Bauch- oder Kopfweh. Außerdem ist bei Kindern oft eine übersteigerte Angst zu beobachten (Angst vor Trennung der Eltern, Angst vor dem Tod eines Familienmitglieds, Angst allein gelassen zu werden, vergessen zu werden, nicht abgeholt zu werden; aber auch Angst vor Dunkelheit; Tieren, Monstern, Angst vor Strafe, Angst etwas falsch zu machen).
+Deshalb haben Kinder oft Schwierigkeiten Aufgaben zu lösen, sie grübeln darüber aus Angst sie falsch zu lösen.
+
+Oft sind betroffene Kinder auch von einer extremen Unruhe geplagt, was die depressive Symptomatik verschleiert.
+
+Deshalb gilt es besonders bei Kindern und Jugendlichen sehr aufmerksam zu sein, um die Symptome nicht zu übersehen oder herunterzuspielen.
+
+Siehe auch 
+ Schulpädagogik
+ Beck-Depressions-Inventar, Depressionsfragebogen für Erwachsene
+
+Einzelnachweise
+
+Weiterführende Literatur 
+ C. Eggers, A. Stage: Kinder- und Jugendpsychiatrische Ansätze bei Depression: Ein integratives Modell. In: Kindheit und Entwicklung. Band 3, 1994, S. 178–184.
+ G. Groen, H. Scheithauer, C. A. Essau, F. Petermann: Epidemiologie depressiver Störungen im Kindes und Jugendalter: Eine kritische Übersicht. In: Zeitschrift für Klinische Psychologie, Psychiatrie und Psychotherapie. Band 45, 1997, S. 115–144.
+ L. L. Kerns: Hilfen für depressive Kinder. Ein Ratgeber. Huber, Bern 1997, ISBN 3-456-82815-2.
+ M. Kusch, F. Petermann: Komorbidität von Aggression und Depression. In: Kindheit und Entwicklung. Band 6, 1997, S. 212–223.
+ P. Leyendecker, U. Petermann: Suizidalität im Denken und Erleben von Kindern und Jugendlichen. In: Zeitschrift für Klinische Psychologie, Psychiatrie und Psychotherapie. Band 41, 1993, S. 255–270.
+
+Psychologisches Testverfahren

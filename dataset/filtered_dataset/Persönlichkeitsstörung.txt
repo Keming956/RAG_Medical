@@ -1,0 +1,201 @@
+Persönlichkeitsstörungen (PS) stellen eine Klasse von psychischen Störungen dar. Bei ihnen sind bestimmte Merkmale der Persönlichkeitsstruktur und des Verhaltens in besonderer Weise ausgeprägt, unflexibel oder wenig angepasst. Sie gehören zu den häufigsten Diagnosen in der Psychiatrie.
+
+Persönlichkeitsstörungen bezeichnen lang andauernde Erlebens- und Verhaltensmuster mit vielfältiger Verursachung (z. B. durch Entwicklungsbedingungen in der Kindheit oder späteren Lebensabschnitten, genetische Faktoren oder erworbene Hirnschäden). Diese Verhaltensmuster weichen von einem flexiblen, situationsangemessenen Erleben und Verhalten in charakteristischer Weise ab. Die persönliche Leistungsfähigkeit im sozialen, beruflichen und privaten Leben ist meist deutlich beeinträchtigt (siehe Lebensqualität bei PS).
+
+Persönlichkeitsstörungen werden nach charakteristischen Merkmalen unterteilt, wobei jedoch häufig Überschneidungen vorkommen. In Psychiatrie und klinischer Psychologie wurden dazu verschiedene Typologien oder Klassifikationen entwickelt, etwa im ICD-10 und DSM-5. Der Begriff Persönlichkeitsstörung wurde früher auch als Charakterneurose bezeichnet und ist eng verwandt, aber nicht inhaltlich identisch mit den Begriffen Neurosenstruktur und Neurosendisposition.
+
+Bei Kindern und Jugendlichen finden sich in seltenen Fällen Vorstufen oder Risikokonstellationen von Persönlichkeitsstörungen. Da aber die Entwicklung der Persönlichkeit noch nicht vollendet ist, wird hier eher von einer Persönlichkeitsentwicklungsstörung gesprochen.
+
+Geschichtliches 
+Früher verwendete man den allgemeinen Begriff der „Psychopathie“ für jene Persönlichkeitsauffälligkeiten, die man heute unter dem Begriff „Persönlichkeitsstörung“ zusammenfasst. Diese weitgefasste Bezeichnung wurde erst 1980 mit Einführung des DSM-III durch „Persönlichkeitsstörung“ ersetzt. Im heutigen forensisch-psychiatrischen Sprachgebrauch ist die Bedeutung von Psychopathie dagegen sehr eng begrenzt und bezeichnet ausschließlich eine extrem schwere Form der antisozialen Persönlichkeitsstörung.
+
+Bereits Philippe Pinel (1809) unterschied zwischen Psychotikern und Psychopathen und benutzte dabei den Begriff manie sans delire, wobei er Psychopathie als Beeinträchtigung der affektiven Funktionen bei ungestörten Verstandeskräften definierte. Bénédict Morel (1857) glaubte an die Degenerationslehre: Danach entstünde gewohnheitsmäßige Dissozialität durch die Umwelt, könne dann aber in einer Art Lamarckismus genetisch weitergegeben werden.
+
+Das erste Diathese-Stress-Modell der Persönlichkeitsstörungen wurde von Valentin Magnan und Lagrain (1895) vorgestellt, die vererbten neurophysiologischen Faktoren eine entscheidende Rolle für die Anfälligkeit zusprachen, eine Persönlichkeitsstörung zu entwickeln. Diese könnten aber erst durch psychosoziale Stressoren wirksam werden.
+
+Der Begriff Psychopathie wurde vor allem durch die Monographie über psychopathische Minderwertigkeiten (1891) von Julius Koch geprägt. Koch war ebenfalls Anhänger einer genetischen Degenerationslehre und beschrieb verschiedene Störungstypen wie zart Besaitete oder Stadt- und Weltverbesserer.
+
+Um die Jahrhundertwende zum 20. Jahrhundert erfolgte ein Paradigmenwechsel von der Degenerationslehre weg hin zur Konstitutionslehre. Besonders die deutschen Psychiater Kraepelin und Kretschmer brachten konstitutionelle Faktoren wie Triebstärke oder Körperbau mit verschiedenen Störungen in Verbindung. Ernst Kretschmer untersuchte dabei typische Körperbauformen und damit korrelierende Risiken für psychische Erkrankungen. Mit Kurt Schneiders Die psychopathischen Persönlichkeiten (1923) verschwand in der Terminologie die wertende Begrifflichkeit und in seinen zehn verschiedenen Typen waren bereits die meisten der bekannten Persönlichkeitsstörungen enthalten.
+
+Diagnostik 
+Beide Diagnosesysteme beschreiben genau sechs Kriterien für eine Allgemeine Persönlichkeitsstörung. Diese Kriterien beschreiben grundsätzliche Bedingungen, die in jedem Einzelfall erfüllt sein müssen, um von einer Persönlichkeitsstörung sprechen zu können. Erst dann kann eine genauere Diagnose einer spezifischen PS vergeben werden.
+
+DSM-5
+
+Im DSM sind das die Folgenden:
+ Ein überdauerndes Muster von innerem Erleben und Verhalten, das merklich von den Erwartungen der soziokulturellen Umgebung abweicht. Dieses Muster manifestiert sich in mindestens zwei der folgenden Bereiche:
+ Kognition (d. h. die Art, sich selbst, andere Menschen und Ereignisse wahrzunehmen und zu interpretieren),
+ Affektivität (d. h. die Variationsbreite, Intensität, Labilität und Angemessenheit emotionaler Reaktionen),
+ Gestaltung zwischenmenschlicher Beziehungen.
+ Impulskontrolle.
+ Das überdauernde Muster führt in klinisch bedeutsamer Weise zu Leiden oder Beeinträchtigungen in sozialen, beruflichen oder anderen wichtigen Funktionsbereichen.
+ Das Muster ist stabil und lang andauernd, und sein Beginn ist mindestens bis in die Adoleszenz oder ins frühe Erwachsenenalter zurückzuverfolgen.
+ Das überdauernde Muster lässt sich nicht besser als Manifestation oder Folge einer anderen psychischen Störung erklären.
+ Das überdauernde Muster ist nicht Folge der physiologischen Wirkung einer Substanz oder eines medizinischen Krankheitsfaktors (z. B. Hirnverletzung).
+ Das überdauernde Muster ist unflexibel und tiefgreifend in einem weiten Bereich persönlicher und sozialer Situationen.
+ICD-10
+
+In den Leitlinien der Internationalen Klassifikation psychischer Störungen gelten folgende allgemeine Kriterien für Persönlichkeitsstörungen:
+ Klinisch wichtige, meist länger anhaltende Zustandsbilder und Verhaltensmuster.
+ Ausdruck des charakteristischen, individuellen Lebensstils, des Verhältnisses zur eigenen Person und zu anderen Menschen.
+ Tief verwurzelte, anhaltende Verhaltensmuster, die sich in starren Reaktionen auf unterschiedliche persönliche und soziale Lebenslagen zeigen.
+ Deutliche Abweichungen im Wahrnehmen, Denken, Fühlen und in den Beziehungen zu anderen.
+ Verhaltensmuster meistens stabil und beziehen sich auf vielfältige Bereiche des Verhaltens und der psychologischen Funktionen.
+ Meist persönliches Leiden und gestörte soziale Funktionsfähigkeit.
+
+Abgrenzung 
+Persönlichkeitsstörungen müssen unterschieden werden von folgenden neurologischen und psychischen Störungen (Differenzialdiagnose):
+
+ Organische Wesensveränderungen
+ Dazu gehören vor allem Hirnschädigungen nach Schädel-Hirn-Trauma (Frontalhirnsyndrome), Demenzen (etwa die Pick-Krankheit) oder langjähriger schwerer Alkoholmissbrauch. Alle diese Erkrankungen können zu starken Persönlichkeitsänderungen führen.
+ Affektive Störungen
+ Berücksichtigt werden müssen auch Erkrankungen wie Depression oder bipolare Störung, die sich ausschließlich auf den Umgang mit Stimmungen beziehen. Menschen mit affektiver Störung verhalten sich nur während akuter Krankheitsphasen auffällig; aber sonst in der übrigen Zeit wie alle anderen Menschen. Menschen mit Persönlichkeitsstörung zeigen hingegen dauerhaft und gleichmäßig ein anderes Verhalten als die Mehrzahl der Menschen. Und zwar besonders im Hinblick darauf, wie sie Gefühle erleben und mit ihnen umgehen, wie sie mit anderen Menschen umgehen, wie sie über Probleme denken und wie sie Situationen interpretieren.
+ Autismus
+ Bei der Abklärung von Störungen des autistischen Spektrums sind Persönlichkeitsstörungen eine der wichtigsten Differenzialdiagnosen und Komorbiditäten. In Untersuchungen mit Patienten mit Asperger-Syndrom (AS) erfüllten davon
+
+ 19–32 % die formalen Kriterien der zwanghaften PS,
+ 21–26 % die der schizoiden PS,
+ 13–25 % die der ängstlich-vermeidenden PS
+ und 3–13 % der Fälle die der schizotypischen PS.
+
+Umgekehrt ist nicht bekannt, wie viele Menschen mit einer PS zusätzlich eine autistische Störung haben. Im Gegensatz zum Asperger-Syndrom zeigen sich PS jedoch in der Regel erst ab der Pubertät und bis dahin lässt sich zunächst häufig noch ein angepasstes und unauffälliges Sozialverhalten feststellen. Zudem haben Menschen mit PS, im Gegensatz zu Autisten, zumeist eine normal entwickelte Fähigkeit zur Theory of Mind. Während Autisten Schwierigkeiten haben, soziale Signale zu erkennen und zu verstehen ("Hypo-Mentalizing"), entstehen Kommunikationsprobleme bei Menschen mit PS eher dadurch, dass sie soziale Signale in einer bestimmten Weise überinterpretieren („Hyper-Mentalizing“). So tendieren Menschen mit Cluster-A-PS dazu, feindselige Botschaften in neutrale Signale „hineinzulesen“, während Menschen mit ängstlich-vermeidender PS dagegen übermäßig auf kritische und ablehnende Signale achten.
+
+Weitere Störungen
+ komplexen posttraumatischen Belastungsstörungen
+ Störungen der Impulskontrolle (z. B. Pyromanie oder Kleptomanie)
+ Störungen der Geschlechtsidentität oder der Sexualpräferenz
+ dissoziative Identitätsstörung, früher multiple Persönlichkeit(sstörung), ist eine dissoziative Störung, die nie als Persönlichkeitsstörung galt
+
+Cluster-Einteilung der PS 
+Im DSM-5 werden die Persönlichkeitsstörungen in Cluster gruppiert:
+
+Im ICD-10 ist die schizotypische Persönlichkeitsstörung unter der Kodierung F21 als schizotype Störung gelistet. Obwohl sie dort der Gruppe der Schizophrenien und wahnhaften Störungen zugeordnet ist, heißt es aber auch: „Entwicklung und Verlauf entsprechen gewöhnlich einer Persönlichkeitsstörung.“
+
+Klassifizierung nach ICD-10 
+Im ICD-10 gibt es in Kapitel V einen Abschnitt zu Persönlichkeits- und Verhaltensstörungen.
+
+Paranoide Persönlichkeitsstörung 
+Die paranoide Persönlichkeitsstörung (F60.0) ist gekennzeichnet durch übermäßiges Misstrauen (bis hin zur häufigen Annahme von Verschwörungen, um Ereignisse zu erklären), Streitsucht, dauernden Groll und starke Selbstbezogenheit. Handlungen, Äußerungen und kommunikative Signale anderer Personen werden häufig als feindlich missgedeutet.
+
+Schizoide Persönlichkeitsstörung 
+Im ICD-10 wird die schizoide Persönlichkeitsstörung (F60.1) so beschrieben: „Eine Persönlichkeitsstörung, die durch einen Rückzug von affektiven, sozialen und anderen Kontakten mit übermäßiger Vorliebe für Phantasie, einzelgängerisches Verhalten und in sich gekehrte Zurückhaltung gekennzeichnet ist. Es besteht nur ein begrenztes Vermögen, Gefühle auszudrücken und Freude zu erleben.“
+
+Dissoziale Persönlichkeitsstörung 
+Typisch für die dissoziale Persönlichkeitsstörung (F60.2) sind Verantwortungslosigkeit und Missachtung sozialer Normen, Regeln und Verpflichtungen, fehlendes Schuldbewusstsein sowie geringes Einfühlungsvermögen in andere. Oft besteht eine niedrige Schwelle für aggressives oder gewalttätiges Verhalten, eine geringe Frustrationstoleranz sowie mangelnde Lernfähigkeit aufgrund von Erfahrung. Beziehungen zu anderen Menschen werden eingegangen, sind jedoch nicht stabil.
+
+Menschen mit dissozialer Persönlichkeitsstörung kommen häufiger als im Bevölkerungsdurchschnitt mit dem Gesetz in Konflikt. Der ältere Begriff Psychopathie für diese Störung wird in der aktuellen deutschsprachigen Literatur nicht mehr verwendet.
+
+Emotional instabile Persönlichkeitsstörung 
+Die ICD-10 unterscheidet zwei Subtypen der emotional instabilen Persönlichkeitsstörung: Impulsiver Typ (F60.30, vorwiegend gekennzeichnet durch emotionale Instabilität und mangelnde Impulskontrolle) und Borderline-Typ (F60.31). Das DSM-5 spricht dagegen von einer Borderline-Persönlichkeitsstörung (Diagnose-Nr. 301.83) und unterscheidet nicht zwischen diesen beiden Unterformen.
+
+Die wesentlichen Merkmale der Borderline-Persönlichkeitsstörung sind nach ICD-10 impulsive Handlungen ohne Berücksichtigung der Konsequenzen für den Betroffenen selbst oder dritte Personen in Verbindung mit häufigen, unvorhersehbaren und launenhaften Stimmungsschwankungen. Hinzu kommt eine Neigung zu intensiven und instabilen Beziehungen, oft mit der Folge emotionaler Krisen, Störungen und Unsicherheiten bezüglich des Selbstbildes, der eigenen Ziele und inneren Präferenzen. Es zeigen sich ein anhaltendes Gefühl der Leere und Zornesausbrüche. Wenn gewalttätiges Verhalten gegen andere oder gegen sich selbst auftritt, spricht man in diesem Fall von autoaggressiven Verhaltensweisen und mangelnder Impulskontrolle als überdauerndem Erlebens- und Verhaltensmuster. Ferner beobachtet man eine Tendenz zu streitsüchtigem Verhalten und Konflikten mit anderen Menschen, insbesondere, wenn impulsive Handlungen unterbunden oder getadelt werden. Ein wichtiges Kennzeichen dieser Störung ist die große Angst vor dem Alleinsein. Menschen mit dieser Erkrankung haben gelegentlich ausgeprägte Trennungsängste, Verlustängste oder Angst vor Isolation, auch wenn kein konkreter Grund dazu gegeben ist.
+
+Histrionische Persönlichkeitsstörung 
+Kennzeichnend für die histrionische Persönlichkeitsstörung (F60.4) sind Übertreibung, theatralisches Verhalten, Tendenz zur Dramatisierung, Oberflächlichkeit, labile Stimmungslage, gesteigerte Beeinflussbarkeit, dauerndes Verlangen nach Anerkennung und der Wunsch, im Mittelpunkt der Aufmerksamkeit zu stehen, erhöhte Kränkbarkeit sowie ein übermäßiges Interesse an körperlicher Attraktivität.
+
+Personen mit dieser Struktur verfügen oftmals über hohes schauspielerisches Talent, sie schreiben sich für viele Lebenslagen eigene Rollen zu, die sie perfekt inszenieren. Falls sie in Situationen, denen sie Bedeutung beimessen, nicht die gewünschte Aufmerksamkeit bekommen, fühlen sie sich hilflos und ausgeschlossen.
+
+Zwanghafte Persönlichkeitsstörung 
+Die anankastische (zwanghafte) Persönlichkeitsstörung (F60.5) ist gekennzeichnet durch Gefühle von Zweifel, Perfektionismus, übertriebener Gewissenhaftigkeit, ständige Kontrollen, allgemein große Vorsicht und Starrheit in Denken und Handeln, die sich als Unflexibilität, Pedanterie und Steifheit zeigt. Typisch ist die übermäßige Beschäftigung mit Details und Regeln, so dass die eigentliche Aktivität oftmals in den Hintergrund tritt. Es können beharrliche und unerwünschte Gedanken oder Impulse auftreten, die nicht die Schwere einer Zwangsstörung erreichen. Die Fähigkeit zum Ausdruck von Gefühlen ist häufig vermindert. In zwischenmenschlichen Beziehungen wirken Betroffene dementsprechend kühl und rational. Die Anpassungsfähigkeit an die Gewohnheiten und Eigenheiten der Mitmenschen ist eingeschränkt. Menschen mit zwanghafter Persönlichkeitsstörung sind meist übermäßig leistungsorientiert und perfektionistisch. Daher erweisen sie sich im Arbeitsleben als fleißig, übermäßig gewissenhaft und übergenau, wobei der überstrenge Perfektionismus die Aufgabenerfüllung mitunter verhindert. Ihre Angst vor Fehlern behindert die Entscheidungsfähigkeit der Betroffenen. Etwa ein Prozent der Gesamtbevölkerung ist von einer anankastischen Persönlichkeitsstörung betroffen.
+
+Ängstlich-vermeidende Persönlichkeitsstörung 
+Die ängstlich-vermeidende Persönlichkeitsstörung oder auch selbstunsicher-vermeidende Persönlichkeitsstörung (F60.6) ist gekennzeichnet durch übermäßige Sorge bis hin zur Überzeugung, abgelehnt zu werden, unattraktiv oder minderwertig zu sein. Folgen davon sind andauernde Angespanntheit und Besorgtsein, der Lebensstil ist wegen des starken Bedürfnisses nach Sicherheit starken Einschränkungen unterworfen. Teilweise sind Betroffene überempfindlich gegenüber Ablehnung oder Kritik.
+
+Abhängige Persönlichkeitsstörung 
+Die abhängige (asthenische) Persönlichkeitsstörung (F60.7) ist geprägt durch mangelnde Fähigkeit zu eigenen Entscheidungen, ständiges Appellieren an die Hilfe anderer, Abhängigkeit von und unverhältnismäßige Nachgiebigkeit gegenüber anderen. Dazu kommen Ängste, nicht für sich selbst sorgen zu können und von einer nahestehenden Person verlassen zu werden und hilflos zu sein.
+
+Schizotypische Persönlichkeitsstörung 
+Die schizotypische Persönlichkeitsstörung oder schizotype Störung zeichnet sich aus durch ein tiefgreifendes Verhaltensdefizit im zwischenmenschlichen oder psychosozialen Bereich. Dies äußert sich in teils als unpassend empfundenen Verhaltenseigentümlichkeiten, der mangelnden Fähigkeit enge Beziehungen einzugehen und Verzerrungen in Denken und Wahrnehmung. Das Auftreten wirkt oft schrullig und exzentrisch. Im ICD-10 wird diese Störung den „schizophrenen und wahnhaften Störungen“ (F2x) zugeordnet.
+
+Narzisstische Persönlichkeitsstörung 
+Die narzisstische Persönlichkeitsstörung zeichnet sich durch einen Mangel an Empathie, Überschätzung der eigenen Fähigkeiten und gesteigertes Verlangen nach Anerkennung aus. Sie können jedoch leistungsstark (in Schule, Beruf, Hobby) sein und haben bisweilen gepflegte und statusbewusste Umgangsformen. Betroffene sind häufig sehr stolz und besitzen eine hohe Anspruchshaltung an sich selbst. Betroffene zeigen ein meist ausbeutendes Verhalten und einen Mangel an Empathie. Es können wahnhafte Störungen mit Größenideen auftreten.
+
+Die narzisstische Persönlichkeitsstörung ist im ICD-10 unter der Rubrik „Andere spezifische Persönlichkeitsstörungen (F 60.8)“ aufgeführt. Sie wird jedoch nur im Anhang I der Ausgabe „Forschungskriterien“ näher beschrieben, obwohl sie als Diagnose in der Praxis häufig gebraucht wird. Im DSM-5 der American Psychiatric Association ist die NPS dagegen als selbstständiges Störungsbild enthalten und gehört dort zum Cluster B, der die „launisch, dramatisch, emotionalen“ Persönlichkeitsstörungen umfasst. In jedem Fall muss sie von normalem Narzissmus als tatsächlicher oder zugeschriebener Charaktereigenschaft abgegrenzt werden.
+
+Passiv-aggressive Persönlichkeitsstörung 
+Die passiv-aggressive Persönlichkeitsstörung ist gekennzeichnet durch ein tiefgreifendes Muster negativistischer Einstellungen und passiven Widerstandes gegenüber Anregungen und Leistungsanforderungen, die von anderen Menschen kommen. Sie fällt insbesondere durch passive Widerstände gegenüber Anforderungen im sozialen und beruflichen Bereich auf und durch die häufig ungerechtfertigte Annahme, missverstanden, ungerecht behandelt oder übermäßig in die Pflicht genommen zu werden.
+
+Ein eigener Code existierte nur bis DSM-IV und wurde im DSM-5 gestrichen. In der ICD-10 und den Vorläufern wird die Störung nur in F60.8 aufgeführt, jedoch nur in der Ausgabe „Forschungskriterien“ im Anhang I durch Kriterien genauer beschrieben.
+
+Kombinierte Persönlichkeitsstörung 
+Kombinierte Persönlichkeitsstörungen führen häufig zu Beeinträchtigungen, weisen aber nicht die spezifischen Symptombilder der in F60.- beschriebenen Störungen auf. Dies führt dazu, dass es häufig schwieriger ist, diese zu diagnostizieren.
+
+Beispiele:
+ Kombinierte Persönlichkeitsstörungen mit unterschiedlichen Merkmalen aus den unter F60.- aufgeführten Störungen, allerdings ohne ein vorherrschendes Symptombild, das eine genauere Diagnose ermöglichen würde.
+
+ Störende Persönlichkeitsänderungen, die nicht in F60.- oder F62.- einzuordnen sind oder Zweitdiagnosen zu bisher bestehenden Angst- oder Affektstörungen.
+
+ICD-11 
+Die WGH hat ab 1. Januar 2022 die bisherigen spezifischen Persönlichkeitsstörungen aus dem Katalog gestrichen : Kein Narzissmus mehr, keine paranoide oder dissoziale Persönlichkeitsstörung. Es gibt nur noch die „allgemeine Diagnose Persönlichkeitsstörung“.
+
+Lebensqualität 
+Meist wird angenommen, dass alle Persönlichkeitsstörungen die normale Lebensführung erschweren und zu niedriger Lebensqualität beitragen, da erkennbares Leiden und Beeinträchtigungen eine grundlegende Bedingung für die Diagnose sind. Aber das scheint nicht für alle Arten von PS gleichermaßen zuzutreffen.
+
+Verschiedene Studien belegten zwar, dass die ängstliche, abhängige, schizoide, paranoide, schizotype und die dissoziale Persönlichkeitsstörung mit einer verminderten Funktionsfähigkeit und Lebensqualität einhergeht. Die zwanghafte und histrionische PS dagegen hatten jedoch kaum einen negativen Einfluss auf Lebensqualität und Leistungsfähigkeit im Alltag. In einer Langzeitstudie waren noch nach 15 Jahren fast alle PS mit psychosozialen Einschränkungen assoziiert; mit Ausnahme der zwanghaften und narzisstischen Persönlichkeitsstörung.
+
+Diese beiden PS scheinen sich im Gegenteil sogar positiv auszuwirken, wie eine Untersuchung zu bestimmten Aspekten des „Lebenserfolgs“ ergab (d. h. sozialer Stellung, Wohlstand und erfolgreichen intimen Beziehungen). Denn sie erreichten hier die höchste Stufe und zeigten eher gute Werte; die schizotypische, antisoziale, borderline und abhängige PS dagegen eher schlechte Werte. Die paranoide, histrionische und ängstliche Persönlichkeitsstörung lagen im Mittelfeld, die schizoide PS war mit schlechten Werten verbunden und bildete somit das Schlusslicht.
+
+Insgesamt gibt es einen direkten negativen Zusammenhang zwischen der Menge erfüllter Diagnosekriterien und Lebensqualität. Das bedeutet, je mehr Persönlichkeitsstörungen und je mehr einzelne Kriterien (von allen PS) vorliegen, desto geringer ist die Lebensqualität einer Person. Einige Befunde deuten auch auf einen ungünstigen Einfluss der meisten PS auf Ausbildungsniveau, wirtschaftliche Probleme (Arbeitslosigkeit o. ä.) und sozioökonomischen Status.
+
+Abhängig von der Art der PS kann auch das Risiko für Selbsttötungsversuche erhöht sein. Das gilt insbesondere für die dissoziale, narzisstische und Borderline-Persönlichkeitsstörung; in geringerem Grad aber auch für andere wie die schizoide PS.
+
+Überlappungen scheinen zwischen Persönlichkeitsstörungen und dem Konsum psychoaktiver Substanzen zu bestehen: 16,4 % der Betroffenen mit einer Persönlichkeitsstörung zeigen einen problematischen Alkoholkonsum, 5,5 % nehmen illegale Drogen. Umgekehrt weisen 28,6 % der Personen mit problematischem Alkoholkonsum und 47,7 % der Personen mit einem problematischen Drogenkonsum zumindest eine Persönlichkeitsstörung auf.
+
+Häufigkeit 
+Die Häufigkeit von Persönlichkeitsstörungen ist nur begrenzt erforscht, dementsprechend ungewiss und diesbezügliche Angaben schwanken stark. In Deutschland wurde bisher nur eine einzige Studie hierzu durchgeführt, laut der etwa 9,4 Prozent der Gesamtbevölkerung an einer Persönlichkeitsstörung leidet. Unter psychiatrischen Patienten haben allerdings 40 bis 60 Prozent eine PS, sodass der Anteil dort deutlich größer ist. Innerhalb dieser Bevölkerungsgruppe ist die ängstliche Persönlichkeitsstörung häufigste Diagnose, die paranoide und schizoide Persönlichkeitsstörung hingegen die seltenste.
+
+Häufig sind Persönlichkeitsstörungen unter Obdachlosen, besonders die paranoide, schizotypische oder schizoide PS (Cluster A). Ähnliches gilt für männliche Inhaftierte, wobei hier Borderline, histrionische, antisoziale und narzisstische PS (Cluster B) erwartbar überwiegen. Die paranoide, ängstliche und abhängige Persönlichkeitsstörung scheint häufiger unter Menschen mit geringerer Ausbildung vorzukommen, die zwanghafte dagegen öfter in höheren sozialen Schichten. Auch Menschen, die im Zentrum einer Stadt leben, haben häufiger Persönlichkeitsstörungen; die Ursachen hierfür sind jedoch noch unklar.
+
+Auch die Frage nach der Geschlechterverteilung von Persönlichkeitsstörungen ist nicht ausreichend geklärt. Es gibt jedoch Hinweise dafür, dass sie sich bei bestimmten Störungen erheblich unterscheidet. So sind um die 80 Prozent der Menschen mit dissozialer Persönlichkeitsstörung männlich. Auch die schizotypische und die paranoide PS sind bei Männern vermutlich häufiger. Die histrionische, abhängige und die Borderline-Persönlichkeitsstörung scheinen hingegen bei Frauen öfter vorzukommen.
+
+Ursachen 
+Es existiert keine einheitliche Vorstellung über die Ursachen oder die Entstehung von Persönlichkeitsstörungen. Die Entwicklung der Persönlichkeit wird allgemein als Ergebnis komplexer Wechselwirkungen aus Umweltfaktoren (Eltern, soziales Umfeld) und genetischer Veranlagung gesehen.
+
+Die verschiedenen Erklärungsansätze der Psychologie gewichten einzelne Aspekte stärker als andere, ergänzen sich jedoch im Großen und Ganzen. Aus Sicht der Tiefenpsychologie werden Störungen in der kindlichen Entwicklung als ursächlich oder begünstigend für die Ausbildung von Persönlichkeitsstörungen angenommen. Beispielsweise werden ein ungünstiges soziales Umfeld und eventuelle traumatische Erlebnisse als belastende Faktoren angesehen. Die klassische Psychoanalyse wertet die Prozesse der Identitätsentwicklung stärker. Lerntheoretische Ansätze betonen, dass Persönlichkeitsstörungen im Kern ein gelerntes Verhalten darstellen. Prinzipien des operanten Konditionierens (Beeinflussung durch positive oder negative Verstärkung) und Modell-Lernens (dem Lernen am Beispiel) führen demnach dazu, dass bereits angelegte Verhaltenstendenzen verstärkt oder abgeschwächt werden können. Diese Annahmen sind der Ansatz für die moderne Verhaltenstherapie, die beispielsweise bei der Behandlung der Borderline-Symptomatik empirisch belegte Behandlungserfolge aufweist.
+
+Therapie 
+Die Behandlung von Persönlichkeitsstörungen erfolgt in erster Linie mit psychotherapeutischen Verfahren. Dabei kommen meist psychoanalytische oder tiefenpsychologische Therapie (nach Peter Fonagy oder Otto F. Kernberg) und kognitive Verhaltenstherapie (nach Aaron T. Beck oder Marsha M. Linehan) zum Einsatz.
+
+In einigen Fällen werden auch Medikamente verschrieben. Diese bewirken jedoch nur eine Abmilderung von Symptomen: So können beispielsweise einige Antidepressiva und Antipsychotika impulsive oder selbstverletzende Handlungen reduzieren. Gleichzeitig bestehende andere psychiatrische Erkrankungen, wie zum Beispiel Depressionen, sollten mitbehandelt werden; hier sind antidepressiv wirksame Medikamente durchaus indiziert.
+
+Je nach Ausgangslage können sich Therapien über Jahre hinziehen und stellen somit große Ansprüche an die Therapeuten wie auch die Patienten. In einigen Fällen treten Suizidalität oder selbstverletzendes Verhalten auf, bei anderen die Tendenz zu Drogenmissbrauch, Delinquenz oder Gewalttätigkeit. Sehr häufig kommt es im Rahmen einer Persönlichkeitsstörung zu Depressionen, seltener sind psychotische Symptome. All diese Faktoren erschweren die therapeutische Arbeit.
+
+Es ist fraglich, ob Persönlichkeitsstörungen mit psychiatrisch-psychotherapeutischen Interventionen so behandelt werden können, dass eine vollständige Heilung eintritt. Oftmals wird darauf hingewiesen, dass die Behandlung eine Besserung der psychischen Störung oder die Lösung konkreter, zum Behandlungszeitpunkt bestehender Alltagsprobleme zum Ziel hat. In verschiedenen Studien zum Behandlungserfolg von Persönlichkeitsstörungen konnten Therapieeffekte nachgewiesen werden, nach denen die Diagnose einer Persönlichkeitsstörung nicht mehr gerechtfertigt war. Aber auch hier kann nicht von einer vollständigen Genesung gesprochen werden, lediglich von einer starken Verbesserung.
+
+Stigmatisierung 
+Die Öffentlichkeit hat weniger Kenntnisse über Persönlichkeitsstörungen als über andere psychische Erkrankungen. Es gibt Hinweise darauf, dass Persönlichkeitsstörungen möglicherweise noch stärker als andere psychiatrische Diagnosen stigmatisiert werden. Tatsächlich reagiert die Öffentlichkeit weniger mitfühlend auf Personen, bei denen eine Persönlichkeitsstörung beschrieben wird. Häufig wird Betroffenen eher unterstellt, dass sie weniger professionelle Hilfe benötigen als Personen mit anderen psychiatrischen Störungen. Sowohl Angst als auch Frustration sind die allgemeinen Reaktionen der Öffentlichkeit auf Persönlichkeitsstörungen. Die Unkenntnis in der Öffentlichkeit kann dazu führen, dass Personen mit Persönlichkeitsstörungen eher ausgegrenzt als behandelt werden. Die Überzeugung, dass Menschen mit Persönlichkeitsstörungen in der Lage sein sollten, Kontrolle über ihr Verhalten zu haben, führt dazu, dass Krankheitssymptome als manipulatives Verhalten oder Ablehnung von Hilfe interpretiert werden. Dies kann außerdem dazu führen, dass Betroffene eher als schwierig im Umgang statt als krank angesehen werden.
+
+Kritik 
+Peter Fiedler übt aus einer verhaltenstherapeutisch orientierten klinisch-psychologischen Perspektive Kritik am Konzept der Persönlichkeitsstörungen.
+
+Mit Hilfe eines Zitats des Philosophen und Psychiaters Karl Jaspers beschreibt er das Stigmatisierungsproblem: „Menschlich aber bedeutet die Feststellung des Wesens eines Menschen eine Erledigung, die bei näherer Betrachtung beleidigend ist und die Kommunikation abbricht“. Die Festschreibung einer gesamten Persönlichkeit als „gestört“ sei ethisch zweifelhaft. Insbesondere führt Fiedler an, dass Personen mit Persönlichkeitsstörungen sich auf charakteristisch gestörte Art und Weise in zwischenmenschlichen Interaktionen verhalten. Erst auf dieser Ebene trete die Störung zu Tage, die Betroffenen selbst empfänden sich als Person oft nicht als gestört (Ich-Syntonie).
+
+Somit erfolge durch die „Diagnose“ einer Persönlichkeitsstörung eine Umdeutung des Geschehens durch den „gesunden“ Interaktionspartner, und zwar derart, dass der abweichende Interaktionspartner per „Charakter-Diagnose“ allein verantwortlich für die Störung gemacht wird. Diese Umdeutung des Geschehens stelle letztlich eine Pseudoerklärung dar: Die Person in ihrer Gesamtheit ist gestört und die Person ist das Störende, die Ursache der Störung. Mögliche Störungen des sozialen Systems, der Interaktion, der Gesellschaft gerieten aus dem Blickfeld.
+
+Verhaltenstherapeutisch orientierte Klinische Psychologen (im deutschen Sprachraum u. a. Rainer Sachse) betrachten Persönlichkeitsstörungen primär als „Interaktionsstörungen“. Im englischen Sprachraum verstehen z. B. Beck und Freeman Persönlichkeitsstörungen als eine Kombination von grundlegenden Gedanken über sich selbst (z. B.: „Ich bin hilflos.“) und entsprechenden interaktionellen Verhaltensstrategien (z. B. Anhänglichkeit), die in charakteristischer und unflexibler Weise die soziale Interaktion bestimmen und somit zu Folgeproblemen führen können.
+
+Literatur 
+Fachbücher
+ Sven Barnow: Persönlichkeitsstörungen: Ursachen und Behandlung. Mit fünf Fallbeispielen. Huber, Bern 2007, ISBN 978-3-456-84406-0.
+ Thomas Bronisch, Martin Bohus, Matthias Dose: Krisenintervention bei Persönlichkeitsstörungen. Klett-Cotta-Verlag, Stuttgart 2005, ISBN 3-608-89007-6.
+ Peter Fiedler, Sabine Herpertz: Persönlichkeitsstörungen. 7. Auflage, Beltz Verlag 2016. ISBN 3-621-28013-8.
+ H. Haltenhof, G. Schmid-Ott, U. Schneider (Hrsg.): Persönlichkeitsstörungen im therapeutischen Alltag. Pabst, Lengerich 2009, ISBN 978-3-89967-517-7.
+ Otto F. Kernberg: Schwere Persönlichkeitsstörungen. 2000, ISBN 3-608-95369-8.
+ Rudi Merod (Hrsg.): Behandlung von Persönlichkeitsstörungen. Ein schulenübergreifendes Handbuch. Dgvt-Verlag, Tübingen 2005, ISBN 3-87159-054-1.
+ Andreas Remmel, Otto F. Kernberg, Wolfgang Vollmoeller: Handbuch Körper und Persönlichkeit. Schattauer, Stuttgart 2006, ISBN 3-7945-2411-X.
+ Rainer Sachse: Persönlichkeitsstörungen verstehen. Zum Umgang mit schwierigen Patienten. 10. Auflage. Psychiatrie-Verlag, Bonn 2014, ISBN 978-3-88414-508-1.
+ B. Schmitz, P. Schuhler, A. Handke-Raubach, A. Jung: Kognitive Verhaltenstherapie bei Persönlichkeitsstörungen und unflexiblen Persönlichkeitsstilen. Pabst, Lengerich 2002, ISBN 3-935357-38-9.
+ 
+Leitlinien
+ . AWMF-Registernummer 038/015.
+ S3-Leitlinie Psychosoziale Therapien bei schweren psychischen Erkrankungen In: AWMF online (Stand: 25. Oktober 2012)
+
+Weblinks 
+ Volker Faust: Übersichtsartikel. (PDF; 200 kB)
+ Persönlichkeitsstörungen auf Seele-und-Gesundheit.de
+ Kriterien zu Persönlichkeitsstörungen. ICD-10
+ Gesellschaft zur Erforschung und Therapie von Persönlichkeitsstörungen (GePs) e. V.
+ Forum für Persönlichkeitsstörungen
+ Rainer Jung: Allgemeine Diagnostik und Therapie von Persönlichkeitsstörungen (PDF)
+
+Einzelnachweise

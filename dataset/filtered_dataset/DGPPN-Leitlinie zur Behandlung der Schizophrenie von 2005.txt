@@ -1,0 +1,186 @@
+Die hier beschriebene Behandlungsleitlinie ist veraltet und ungültig. Aktuell gilt die S3-Leitlinie vom 15. März 2019.
+
+Die Schizophrenie ist eine weltweit verbreitete Erkrankung und tritt über die gesamte Lebenszeit eines Menschen mit einem Risiko in der Größenordnung von 1 % auf. Die meisten Patienten erkranken vor dem 35. Lebensjahr. Zu den charakteristischen Merkmalen der Erkrankung gehören die sogenannten Erstrangsymptome nach Kurt Schneider. Die Ursache der Erkrankung ist unbekannt. Dem Krankheitsbeginn geht üblicherweise eine mehrjährige Prodromalphase voran. Dieser Artikel beschreibt eine Zusammenfassung aller Behandlungsmethoden der Schizophrenie anhand des DGPPN-Leitfadens.
+
+DGPPN-Leitlinien zur Behandlung der Schizophrenie 
+
+Die Deutsche Gesellschaft für Psychiatrie, Psychotherapie und Nervenheilkunde (DGPPN) gibt Leitlinien für die Behandlung seelischer Störungen heraus. Der erste Band der Leitlinien behandelte das Thema Schizophrenie und erschien 1998. Die aktuelle ausführliche Version der „S3-Praxisleitlinie in Psychiatrie und Psychotherapie“ für die Behandlung der Schizophrenie erschien im Jahre 2006 und fasst den Stand der gesamten wissenschaftlichen Therapieforschung zur Schizophrenie bis Ende 2004 zusammen. Die Empfehlungen des Leitfadens wurden als evidenzbasierte Konsensusleitlinie erarbeitet. Bei der Leitlinie handelt es sich nicht um eine Richtlinie im standesrechtlichen Sinne, die eine verbindliche Regel vorschreibt, sondern um eine Stellungnahme, die zur Information dient. Sie ist eine Therapieleitlinie, die allen Anforderungen einer systematischen Erstellung entspricht:
+
+ Evidenzbasierte Medizin,
+ Klinischer Algorithmus,
+ Formale Konsensusfindung,
+ Entscheidungsanalyse und Outcome-Analyse im Sinne von Gesundheitszielen.
+
+Autoren 
+
+Die verantwortlichen Herausgeber der Leitlinien sind Wolfgang Gaebel (Universität Düsseldorf) und Peter Falkai (Universität des Saarlandes). Der Expertengruppe der Autoren gehören 11 Hochschullehrer an. Zur Konsensusgruppe gehören 19 Personen, unter ihnen sechs Ärzte, Mitarbeiter der nichtärztlichen Therapeuten (Sozialarbeit, Ergotherapie, Krankenpflege und klinische Psychologie), ein Vertreter der Krankenhausleitungen, ein Vertreter der Bundesarbeitsgemeinschaft Rehabilitation, zwei Patientenvertreter (Bundesverband Psychiatrieerfahrener und Aktion psychisch Kranke) und eine Vertreterin der Angehörigenverbände. Für die Konsensusrunde waren auch Vertreter der überörtlichen Sozialhilfeträger und der Gesellschaft für Familienmedizin eingeladen. Diese haben sich allerdings an dem Konsensusprozess zur Erstellung der Leitlinien nicht beteiligt. Zwei ärztliche Vertreter der wissenschaftlichen medizinischen Fachgesellschaften haben den Konsensusprozess moderiert.
+
+Methoden 
+
+Mitarbeiter aus dem Referat Qualitätssicherung der DGPPN bildeten die Projektgruppe, die die Leitung übernahm. Die Expertengruppe verfasste die einzelnen Kapitel der Leitlinien. In den Konsensusrunden wurde über jede Empfehlung der Expertengruppe abgestimmt. Die Grundlage der Empfehlungen war eine ausgewählte und strukturierte Literaturrecherche. Dabei wurden insgesamt 580 wissenschaftliche Studien ausgewertet. Nach dem Erstellen der Leitlinien wurden diese extern begutachtet und im Internet veröffentlicht, um Fachkreisen und Laien die Möglichkeit einer Kommentierung vor dem Abschluss der Arbeit zu geben. Um Interessenkonflikte zu vermeiden, waren Vertreter der Pharmaindustrie von der Erstellung der Leitlinien ausgeschlossen. Die Leitlinien haben Gültigkeit bis zum Jahr 2008. Bei der Abfassung wurden bestehende Leitlinien vor allem aus dem englischsprachigen Ländern berücksichtigt. Die Leitlinie wurde vollständig aus Mitteln der DGPPN finanziert. Der Methodenreport der S3-Leitlinie kann im Internet eingesehen werden.
+
+Evidenzebenen und Empfehlungsstärken 
+
+Eine Behandlungsmethode erhält in den Leitlinien der DGPPN eine Bewertung im Sinne einer Empfehlung mit drei Stärken (Note A, B und C). Dabei werden der Empfehlung Evidenzkriterien zugrunde gelegt. Wenn zum Beispiel eine Behandlungsmethode in einer Meta-Analyse als wirksam beurteilt wurde, und in dieser Studie mindestens drei randomisierte kontrollierte Studien zusammengefasst wurden, dann erhält die Behandlungsmethode den höchsten Empfehlungsgrad (Note A).
+
+Evidenzebenen 
+
+Die Evidenz-Ebenen werden wie folgt definiert:
+
+ Ia: Meta-Analyse von mindestens drei randomisierten kontrollierten Studien (RCTs)
+ Ib: mindestens eine randomisierte kontrollierte Studie (RCT) oder Meta-Analyse von weniger als drei RCTs
+ IIa: mindestens eine kontrollierte, nicht-randomisierte Studie mit methodisch hochwertigem Design
+ IIb: mindestens eine quasi-experimentelle Studie mit methodisch hochwertigem Design
+ III: mindestens eine nicht-experimentelle deskriptive Studie (Vergleichsstudie, Korrelationsstudie, Fallserien)
+ IV: Bericht/Empfehlungen von Expertenkomitees, klinische Erfahrungen anerkannter Autoritäten.
+
+Empfehlungsstärke 
+
+Aufgrund der vorhandenen Evidenzen, die aus der Analyse der bis Ende 2004 publizierten wissenschaftlichen Studien abgeleitet werden, ergibt sich nach folgenden Regeln die Empfehlungsstärke:
+
+ A. Grad: Eine Behandlungsmethode erhält die Empfehlungsstärke A, wenn zu der Methode Studien der Kategorie Ia oder Ib vorliegen.
+ B. Grad: Eine Behandlungsmethode erhält die Empfehlungsstärke B, wenn zu der Methode Studien der Kategorie IIa, IIb oder III vorliegen. (Wenn eine Studie der Kategorie I vorliegt, aus der die Empfehlung für eine Methode extrapoliert werden muss, dann erhält sie ebenfalls die Empfehlungsstärke B)
+ C. Grad: Eine Behandlungsmethode erhält die Empfehlungsstärke C, wenn zu der Methode Studien der Kategorie IV vorliegen. (Wenn Studien der Kategorie IIa, IIb oder III vorliegen, aus der die Empfehlung für eine Methode extrapoliert werden muss, dann erhält sie ebenfalls die Empfehlungsstärke C)
+
+Good Clinical Practice 
+
+Wenn es für eine Behandlungsmethode keine experimentellen wissenschaftlichen Studien gibt, diese nicht möglich sind oder nicht angestrebt werden, das Verfahren aber dennoch allgemein üblich ist und innerhalb der Konsensusgruppe eine Übereinkunft über das Verfahren erzielt werden konnte, so erhält diese Methode die Empfehlungsstärke Good Clinical Practice (GCP).
+
+Referenzen 
+
+Die Definition der Evidenzebenen und die Regeln für die Empfehlungsstärke wurden von der US-amerikanischen „Agency for Health Care Policy and Research“ des amerikanischen Gesundheitsministeriums erstellt und liegt auch der britischen Schizophrenie-Leitlinie des „National Institute for Clinical Excellence“ (NICE) zugrunde.
+
+Inhalt der Leitlinien 
+
+Die Leitlinien zur Schizophreniebehandlung liegen in drei Versionen vor: als ausführliche Langversion, als übersichtliche Kurzversion und in Form von einprägsamen Algorithmen. Die Kurzfassung der Leitlinie kann im Internet eingesehen werden. Sie gliedern sich in acht Untergruppen:
+
+Allgemeine Grundlagen 
+
+In den allgemeinen Grundlagen der Behandlungsleitlinie Schizophrenie wird das Ziel dieser Leitlinie als Hilfe zur Entscheidungsfindung definiert. Sie stellen keine verbindlichen Vorgaben für die Behandlung der Schizophrenie dar.
+
+Die Definition des Gegenstandes der Leitlinie, der Schizophrenie, wird anhand der Kriterien des ICD zusammengefasst.
+
+Es werden die allgemein anerkannten Daten zur Epidemiologie referiert: Lebenszeitprävalenz weltweit zwischen 0, 5 und 1, 6 %, bevorzugtes Erkrankungsalter zwischen dem 15. und 35. Lebensjahr, Männer erkranken 3 bis 4 Jahre früher als Frauen, das Lebenszeitrisiko ist bei beiden Geschlechtern gleich, Patienten mit einer Schizophrenie haben eine niedrigere Lebenserwartung.
+
+Zu Verlauf und Prognose wird vor allem auf die initiale Prodromalphase hingewiesen und die Tatsache betont, dass 20 % der Patienten vollständig geheilt werden können. Als Risikofaktoren gelten vor allem: familiäre Vorbelastung, männliches Geschlecht, verzögerter Krankheitsbeginn, kognitive Dysfunktion, niedrige prämorbide Intelligenz, Negativsymptomatik, schlechte prämorbide soziale Anpassung, fehlende stabile Partnerbeziehung, psychosozialer Stress, belastendes familiäres Klima, Geburtskomplikationen und ethnischer Minderheitenstatus.
+
+Als ätio-pathogenetisches Grundkonzept wird das Vulnerabilitäts-Stress-Coping-Modell der Schizophrenie in Anlehnung an Zubin angenommen.
+
+Zu den Kosten der Erkrankung wird angemerkt, das etwa 30 % der Behandlungskosten bereits im ersten Jahr der Erkrankung entstehen und die Gesamtkosten der Erkrankung denen somatischer Volkskrankheiten vergleichbar sind (in Deutschland bis zu 14.000 € pro Patient und Jahr).
+
+Diagnostik und Klassifikation 
+
+Die Diagnose der Erkrankung soll nach operationalisierten Kriterien erfolgen. Dabei nimmt man folgende Leitsymptome an:
+
+ 1. Gedankenlautwerden, -eingebung, -entzug oder – ausbreitung.
+ 2. Kontroll- und Beeinflussungswahn, Gefühl des Gemachten.
+ 3. Kommentierende oder dialogische Stimmen.
+ 4. Anhaltender, kulturell unangemessener oder völlig unrealistischer Wahn.
+ 5. Anhaltende Halluzinationen jeder Sinnesmodalität.
+ 6. Gedankenabreißen.
+ 7. Katatonie.
+ 8. Negativsymptome.
+
+Für die Diagnosestellung gilt folgende Regel:
+
+ Es muss mindestens ein eindeutiges Symptom der Gruppe 1 bis 4 oder
+ Mindestens zwei Symptome der Gruppe 5 bis 8 vorliegen.
+ Die Symptome müssen mindestens einen Monat ununterbrochen vorliegen.
+ Organische Gehirnerkrankungen, Intoxikationen oder Substanz-Entzug müssen ausgeschlossen sein.
+
+Bei der Diagnosestellung soll die Schizophrenie gegen andere psychotische Störungen abgegrenzt werden. Zur Sicherung der Diagnose und zur Ausschluss von Begleiterkrankungen sollen körperliche, testpsychologische und technische Untersuchungen durchgeführt werden. Die diagnostischen Leitlinien haben aufgrund der Studienlage keinen Empfehlungsgrad. Sie gelten als GCP.
+
+Allgemeine Therapie 
+
+Die Empfehlungen zu allgemeinen Behandlungsprinzipien umfassen einen Gesamtbehandlungsplan im Rahmen eines multiprofessionellen Teams und phasenspezifische Behandlungsziele (multimodales sozialpsychiatrisches Behandlungskonzept). Die phasenspezifischen Behandlungsziele beziehen sich auf die Therapieziele in der Akutphase, in der postakuten Stabilisierungsphase und in der Remissionsphase der Erkrankung. Zu den allgemeinen Behandlungsprinzipien gibt es keine wissenschaftlichen Studien. Sie gelten deshalb als GCP.
+
+Pharmakologische und andere somatische Behandlungsverfahren 
+
+Allgemeine Empfehlungen zur Pharmakotherapie beziehen sich auf die Integration der medikamentösen Therapie in einen Gesamtbehandlungsplan, die Aufklärung des Patienten und die Festlegung eines klinischen Zielsyndroms. Andere somatische Verfahren, wie EKT und rTMS haben eine enge Anwendungsvorgabe (Indikation).
+
+Die Empfehlungen zur medikamentösen Therapie unterteilen sich in die Gruppen der
+
+ Phasenspezifischen Therapie,
+ Medikamentösen Behandlungsresistenz und
+ Dem Umgang mit Nebenwirkungen.
+
+Die phasenspezifische Therapie umfasst die Behandlung der Akutphase, der Rezidivprophylaxe und der Langzeittherapie. Bei der medikamentösen Behandlungsresistenz werden Empfehlungen bezüglich Umstellung, Kombinationsbehandlung und Einsatz der EKT gemacht. Beim Umgang mit Nebenwirkungen werden vor allem die Aspekte der extrapyramidalen Nebenwirkungen, der unerwünschten metabolischen Wirkungen der Neuroleptika und der Kontrolluntersuchungen bei Dauertherapie besprochen.
+
+Bei der medikamentösen Therapie gibt es eine Reihe von Empfehlungen mit Grad A. Zu ihnen gehören:
+
+ Antipsychotika sind das Mittel der Wahl in der Behandlung der akuten schizophrenen Episode, bei der Rezidivprophylaxe und bei der Langzeittherapie.
+ Antipsychotika sollen kontinuierlich gegeben werden.
+ Atypische Antipsychotika sollen bevorzugt werden, vor allem bei kognitiven Beeinträchtigungen.
+ Die Auswahl der empfohlenen typischen Antipsychotika ist sehr eng begrenzt auf vier Substanzen, für einen Fall gibt es eine Dosierempfehlung.
+
+Psychotherapeutische Interventionen 
+
+Zu den psychotherapeutischen Interventionen bei der Behandlung der Schizophrenie zählen Psychoedukation, Kognitive Verhaltenstherapie, Familieninterventionen, Training sozialer Fähigkeiten, kognitive Rehabilitationsverfahren, psychodynamische und psychoanalytische Verfahren, Gesprächstherapie, Ergotherapie und weitere Therapieformen, wie Kunst- und Musiktherapie.
+
+Bezüglich der psychotherapeutischen Interventionen bei einer Schizophrenie gibt es in den S3-Leitlinien folgende Empfehlungen mit Empfehlungsstärke A:
+
+ Die kognitive Verhaltenstherapie ist wirksam in der präpsychotischen Prodromalphase und wird bei persistierenden psychotischen Symptomen empfohlen.
+ Zusammenarbeit mit Angehörigen senkt die Rückfallwahrscheinlichkeit.
+ Die Rehabilitation kognitiver Defizite und psychoanalytische Therapieverfahren haben bei der Schizophrenie keine Wirksamkeit und werden nicht empfohlen.
+
+Hilfesysteme und soziotherapeutische Interventionen 
+
+Die Hilfesysteme und soziotherapeutische Interventionen betreffen:
+
+ Integrierte gemeindenahe Hilfesysteme,
+ Die ambulante Behandlung beim Facharzt,
+ Übergangseinrichtungen,
+ Stationäre Behandlung,
+ Arbeitsreintegration.
+
+Empfehlungsstärke A erhalten hierbei:
+
+ Eine teambasierte gemeindepsychiatrische Behandlung und das so genannte Casemanagement,
+ Die Tagesklinik als Alternative zur stationären Behandlung,
+ Der Einsatz von Kriseninterventionsteams im Gemeindeumfeld und
+ Die Beschäftigungsförderung.
+
+Behandlung unter besonderen Bedingungen 
+
+Zur Behandlung unter besonderen Bedingungen zählen
+
+ Die Behandlung der initialen Prodromalphase,
+ Die Therapie der Erregungszustände,
+ Behandlungsprinzipien bei Suizidalität,
+ Die Behandlung der Komorbidität, insbesondere der Substanzabhängigkeit und das Diabetesscreening,
+ Beratung von weiblichen Patienten bezüglich Schwangerschaft und Stillzeit,
+ Geschlechtsspezifische Aspekte und
+ Die Behandlung der Schizophrenie im Alter.
+
+Zu diesem Bereich gibt es nur drei Empfehlungen mit Empfehlungsgrad A:
+
+ Bei Erregungszuständen soll Lorazepam mit einem Antipsychotikum kombiniert werden,
+ Bei stark und kontinuierlich erhöhtem Suizidrisiko soll Clozapin gegeben werden,
+ Bei persistierenden depressiven Verstimmungen soll eine zusätzliche medikamentöse antidepressive Therapie durchgeführt werden.
+
+Kosten-Effektivität der Behandlung 
+
+Zur Kosteneffektivität der Behandlung der Schizophrenie gibt es trotz zahlreicher Studien keine Studie mit Evidenzebene Ia. Die Kosteneffektivität atypischer Antipsychotika konnte in zahlreichen neueren Studien nicht mehr repliziert werden.
+
+Zusammenfassung 
+
+Die S3-Behandlungsleitlinien zur Schizophrenie der DGPPN spiegeln den Stand der wissenschaftlichen Therapieforschung zur Schizophrenie bis zum Jahr 2004 einschließlich wider. Bemerkenswert ist dabei die geringe Zahl der Empfehlungen mit Empfehlungsgrad A. Sie liegt unter dreißig von 170 Empfehlungen. Dabei sind viele Grad-A-Empfehlungen sehr allgemeiner Natur, etwa dass Antipsychotika Mittel der Wahl sind und kontinuierlich gegeben werden sollen. Es gibt nur sehr wenige hochspezifische Grad-A-Empfehlungen, wie etwa die Gabe von Clozapin bei chronischer Suizidalität, oder die Dosierempfehlung für Haloperidol. Dies zeigt vor allem, wie schwierig es ist, im Falle der Schizophrenie randomisierte kontrollierte Studien durchzuführen. Es zeigt aber auch, dass viele Maßnahmen schlecht oder überhaupt nicht untersucht sind (Kunsttherapie) oder eine nur geringe oder überhaupt keine Wirkung haben (Psychoanalyse). Es ist evident, dass sich hier neben der Frage der Kosteneffektivität der Behandlungsmaßnahmen auch die Frage der Auswahl wirklich wirksamer Verfahren stellt und die Notwendigkeit der gezielten Therapieforschung.
+
+Siehe auch 
+
+ Klinische Schizophreniekonzepte
+ Neurobiologische Schizophreniekonzepte
+ Symptome und Diagnose der Schizophrenie
+ Subtypisierung der Schizophrenie
+ Beginn und Frühverlauf der Schizophrenie
+ Spätschizophrenie
+ Verlauf der Schizophrenie
+
+Literatur 
+
+ R. Tandon, H. A. Nasrallah, M. S. Keshavan: Schizophrenia, “Just the Facts” 5. Treatment and prevention Past, present, and future. In: Schizophrenia Research. 122, 2010, S. 1–23.
+
+Einzelnachweise 
+
+Schizophrenie
+Therapie

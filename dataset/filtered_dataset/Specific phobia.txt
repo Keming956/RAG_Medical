@@ -1,0 +1,84 @@
+Specific phobia is an anxiety disorder, characterized by an extreme, unreasonable, and irrational fear associated with a specific object or situation which poses little or no actual danger. Specific phobia can lead to avoidance of the object or situation, persistence of the fear, and significant distress or problems functioning associated with the fear. A phobia can be the fear of anything.
+
+Although fears are common and normal, a phobia is an extreme type of fear where great lengths are taken to avoid being exposed to the particular danger. Phobias are considered the most common psychiatric disorder, affecting about 10% of the population in the US, according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), (among children, 5%; among teens, 16%). About 75% of patients have more than one specific phobia.
+
+It can be described as when patients are anxious about a particular situation. It causes a great load of difficulty in life. Patients have a lot of distress or interference when functioning in their daily life. Unreasonable or irrational fears get in the way of daily routines, work, and relationships due to the effort that a patient makes to avoid the terrifying feelings associated with the fear.
+
+Females are twice as likely to be diagnosed than males with a specific phobia (although this can depend on the stimulus).
+
+Children and adolescents who are diagnosed with a specific phobia are at an increased risk for additional psychopathology later in life.
+
+Signs and symptoms
+The fear or anxiety may be triggered both by the presence and the anticipation of the specific object or situation. In most adults, the person may logically know the fear is unreasonable but still find it difficult to control the anxiety. Thus, this condition may significantly impair the person's functioning and even physical health.
+
+A person who encounters that of which they are phobic will often show signs of fear or express discomfort. In some cases, it can result in a panic attack. The fear or anxiety associated with specific phobia can manifest in physical symptoms such as an increased heart rate, shortness of breath, muscle tension, sweating, or a desire to escape the situation.
+
+Causes 
+The cause of specific phobias can vary based on the phobia itself, but can include genetics, environmental influences, conditioning, and other indirect pathways. Causes can be both experiential (i.e., the specific phobia develops after experiencing the situation/specific object) and non-experiential (the person has never experienced the situation or been exposed to the object). For example, there appears to be a stronger genetic component to blood-injection-injury phobias compared to animal phobias, which are more likely to stem from an experience. The most common classical conditioning model suggests that a phobia will develop when an event that causes a fear or anxiety reaction is paired with a neutral event. An example of this model is when being near a dog (neutral event) is paired with the emotional experience of being bitten by a dog, resulting in a chronic fear which is described as a specific phobia to dogs. An alternative proposed mechanism of association is through observational learning. A person may internalize another person’s fears about a specific object or situation through observation of their reactions. In non-experiential phobia, the typical activation of the amygdala in response to stimuli may be exaggerated due to pathological changes. A deficiency in amygdala habituation may also contribute to the persistence of non-experiential phobia. Certain phobias that are less lethal (e.g. dogs) seem to be more frequently observed and easily acquired in comparison to potentially lethal fears which are more relevant to our current society (e.g. cars and guns). This may be due to biological adaptation being passed through evolution which makes recent threats less prone to easy acquisition.
+
+Diagnosis
+Specific Phobia – DSM 5 Criteria
+
+The object or situation that a patient is afraid of must not actually pose the danger that the patient fears about. The individual has to have the fear for more than 6 months in order to be diagnosed with Specific Phobia. It must interfere with school, work, or their personal life.
+
+- For example, patients who are afraid of heights or flying will not be willing to fly to see a loved one, or potentially miss a job opportunity in another location.
+
+- Patients who are afraid of bugs or spiders would refuse to attend a camping trip with a family or friend in order to avoid any bugs that are found in nature.
+
+The patient may change the way that they live to actively avoid coming in contact with the object or situation. It is common for the patient to know that their fear is illogical or irrational, but they are just unable to control their feelings towards it. The symptoms cannot be the result of other medication, illegal substances, or other medical conditions.
+
+Children that have specific phobia experience different feelings than seen in adults. In children fear/anxiety can be expressed by crying, tantrums, freezing, or clinging. For this reason, there are specific types of therapy for children, adolescents, and adults who that specific phobia.
+ The phobic object or situation almost always provokes immediate fear or anxiety
+ The phobic object or situation is avoided or endured with intense fear or anxiety
+ The fear or anxiety is out of proportion to the actual danger posed by the specific object or situation and to the sociocultural context
+ The fear, anxiety, or avoidance is persistent, typically lasting for 6 months or more
+ The fear, anxiety, or avoidance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning
+ The disturbance is not better explained by symptoms of another mental disorder, including fear, anxiety, and avoidance of situations associated with panic-like symptoms or other incapacitating symptoms; objects or situations related to obsessions; reminders of traumatic events; separation from home or attachment figures; or social situations
+
+Types
+According to the fifth revision of the Diagnostic and Statistical Manual of Mental Disorders, phobias can be classified under the following general categories:
+ Animal type – Fear of spiders (arachnophobia), insects, (entomophobia), or dogs (cynophobia).
+ Natural environment type – Fear of water (aquaphobia), heights (acrophobia), lightning and thunderstorms (astraphobia), or aging (gerascophobia).
+ Situational type – Fear of small confined spaces (claustrophobia), or the dark (nyctophobia).
+ Blood/injection/injury type – this includes fear of medical procedures, including needles and injections (trypanophobia), fear of blood (hemophobia) and fear of getting injured (traumatophobia).
+ Other – children's fears of loud sounds or costumed characters.
+
+Treatment
+There are a variety of treatment options available for specific phobias, most of which focus on psychosocial interventions. Different psychological treatments have varying levels of effects depending on the specific phobia being addressed.
+
+Cognitive behavioral therapy (CBT) 
+
+Cognitive behavioral therapy is a short term, skills-focused therapy that aims to help people diffuse unhelpful emotional responses by helping people consider them differently or change their behavior. CBT represents the gold standard and first line of therapy in specific phobias. CBT is effective in treating specific phobias primarily through exposure and cognitive strategies to overcome a person's anxiety. Computer-assisted treatment programs, self-help manuals, and delivery by a trained practitioner are all methods of accessing CBT. A single session of CBT in one of these modalities can be effective for individuals suffering from specific phobia.
+
+Exposure therapy 
+
+Exposure therapy is a particularly effective form of CBT for many specific phobias, however, treatment acceptance and high drop-out rates have been noted as concerns. In addition, a third of people who complete exposure therapy as a treatment for specific phobia may not respond, regardless of the type of exposure therapy. Other interventions have been successful for particular types of specific phobia, such as virtual reality exposure therapy (VRET) for spider, dental, and height phobias, applied muscle tension (AMT) for needle phobia, and psychoeducation with relaxation exercises for fear of childbirth. With exposure therapy, a type of cognitive-behavioural therapy, clinically significant improvement was experienced by up to 90% of patients. While very long-term outcomes remain unknown, many of the benefits of exposure therapy persisted after one year. Treatment may be more successful at reducing symptoms in people with low trait anxiety, high motivation, and high self-efficacy entering exposure therapy. In addition, high cortisol levels, high heart rate variation, evoking disgust, avoiding relaxation, focusing on cognitive changes, context variation, sleep, and memory-enhancing drugs can also reduce symptoms following exposure therapy.
+
+Exposure can be "live"(in real life) or imaginal (in ones imagination) and can involve:
+ Systematic desensitization—A therapy that exposes the person to increasing levels of vivid stimuli gradually and frequently, while instructed to relax.
+ Flooding—A therapy that exposes the person with a specific phobia to the most fearful stimulus first (i.e. the most intense part of the phobia). Patients are at great risk for dropping out of treatment as this method repeatedly exposes the patient to the fear.
+ Modeling—This method includes the clinician approaching the feared stimuli while the patient observes and tries to repeat the approach themselves.
+Exposures that are imaginal are less effective.
+
+Specifically for acrophobia, in-vivo exposure (exposure to real-world height-scenarios while maintaining anxiety at controlled levels) has been shown to significantly improve measures of anxiety in the short-term, but this effect decreased over a longer term. Likewise, virtual reality exposure was statistically significant in some measures of anxiety reduction, but not others.
+
+Pharmacotherapeutics 
+As of late 2020, there is limited evidence for the use of pharmacotherapy in the treatment of specific phobia. Pharmacological treatments are typically used in combination with behaviorally-focused psychotherapy, as introducing pharmacological interventions independently may result in relapsing of symptoms. Different treatments are better suited for certain types of specific phobia. For instance, beta blockers are useful in those with performance anxiety.  The selective serotonin re-uptake inhibitors (SSRIs), paroxetine and escitalopram, have shown preliminary efficacy in small randomized controlled clinical trials. However, these trials were too small to show any definitive benefits of anxiolytic medication alone in treating phobia. Benzodiazepines are occasionally used for acute symptom relief, but have not been shown to be effective for long term treatment. There are some findings suggesting that adjuvant use of the NMDA receptor partial agonist, d-cycloserine, with virtual reality exposure therapy may improve specific phobia symptoms more than virtual reality exposure therapy alone. As of 2020, studies on the use of adjunct d-cycloserine are inconclusive.
+
+Epidemiology
+
+Specific phobia affects up to 12% of people at some point in their life. There may be a large amount of underreporting of specific phobias as many people do not seek treatment, with some surveys conducted in the US finding that 70% of the population reports having one or more unreasonable fears.
+
+Specific phobias have a lifetime prevalence rate of 7.4% and a one-year prevalence of 5.5% according to data collected from 22 different countries. The usual age of onset is childhood to adolescence. During childhood and adolescence, the incidence of new specific phobias is much higher in females than males. The peak incidence for specific phobias amongst females occurs during reproduction and childrearing, possibly reflecting an evolutionary advantage. There is an additional peak in incidence, reaching nearly 1% per year, during old age in both men and women, possibly reflective of newly occurring physical conditions or adverse life events. The development of phobias varies with subtypes, with animal and blood injection phobias typically beginning in childhood (ages 5–12), whereas development of situational specific phobias (i.e., fear of flying) usually occurs in late adolescence and early adulthood.
+
+In the USA, the lifetime prevalence rate is 12.5% and a one-year prevalence rate of 9.1%. An estimated 12.5% of U.S. adults experience specific phobia at some time in their lives and the prevalence is approximately double in females compared to males. An estimated 19.3% of adolescents experience specific phobia, but the difference between males and females is not as pronounced.
+
+See also 
+ List of phobias
+
+References
+
+External links 
+ Encyclopedia of Mental Disorders – Specific phobias
+
+Phobias

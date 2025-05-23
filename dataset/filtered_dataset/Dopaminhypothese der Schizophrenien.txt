@@ -1,0 +1,109 @@
+Die Dopaminhypothese der Schizophrenien – kurz Dopaminhypothese – ist die Hypothese vom Zusammenhang zwischen dem Neurotransmitter Dopamin und den psychotischen Krankheitsbildern der Schizophrenien.
+
+Überblick 
+
+Bereits in den 1950er Jahren gab es Überlegungen, dass eine Veränderung von Neurotransmittern im Gehirn zu psychischen Störungen führen könnte. Durch die Gabe von Reserpin kommt es zu einer Verminderung von Serotonin und Adrenalin. Es wurde vermutet, dass dadurch depressive Zustände ausgelöst werden.
+
+1966 stellte J. M. van Rossum die Hypothese auf, dass Schizophrenien durch eine Überaktivität bestimmter dopaminerger Bereiche des Gehirns verursacht sein könnten.
+Arbeiten von Alan S. Horn & Solomon H. Snyder im Jahre 1971 schienen dies zu bestätigen; dies wurde jedoch im Jahr 1991 wegen Widersprüchen im Rahmen einer Revision erweitert. Diese erweiterte Dopaminhypothese der Schizophrenien erfasst auch Negativsymptome und geht von einer gleichzeitig verminderten Dopaminaktivität aus; dopaminerge, nicht zwingend exzessive Aktivitäten sollen demnach die Ursache schizophrener Symptome sein. Hiermit trägt man den Negativ-Symptomen Rechnung, welche trotz der Neuroleptikabehandlung blieben oder sogar erst dadurch verursacht wurden.
+
+Es gibt nach dem heutigen Stand der Wissenschaft und Forschung sowohl Befunde, die für die Richtigkeit dieser Hypothese sprechen, wie auch solche, die dagegen sprechen:
+Gemäß einer Studie ergibt sich die Blockade der dopaminergen Neurotransmissionen (Signalübertragungen in der Synapse durch Dopamin) nicht daraus, dass die Rezeptoren mit Antagonisten (spezieller: inaktivierende Liganden) besetzt werden, sondern durch eine Depolarisation der rezeptorseitigen Membran (post-synaptische Hälfte).
+Andere Studien haben Belege gefunden, dass durch die dopaminerge Stimulanz die Menge an Dopamin-Rezeptoren (DA-Rezeptoren) in der Synapse angepasst wird.
+
+Gegen die Dopaminhypothese wird angeführt, dass klassische Neuroleptika Negativsymptome verursachen können bzw. sie nicht zu vermindern vermögen.
+
+Auch die Positivsymptome der Schizophrenie können durch den Einsatz klassischer Neuroleptika nur verdeckt werden. Das trifft unter anderem auch auf die neueren atypischen Neuroleptika zu. Viele atypische Neuroleptika wirken auch noch auf andere Neurotransmitter wie beispielsweise Serotonin. Es gibt sogar schon ein atypisches Neuroleptikum der dritten Generation, welches partialagonistische Wirkung hat, hierbei handelt es sich um den Wirkstoff Aripiprazol.
+
+Im Gegensatz zu klassischen Neuroleptika wirken atypische Neuroleptika auch gegen die Negativ-Symptome der Schizophrenien. Dennoch ergeben sich aus der Behandlung mit Neuroleptika keine Heilung der Schizophrenien, sondern nur eine Minderung der Symptome. Das ist auch bei den neueren und atypischen Neuroleptika so. Wegen der abnormen Dopaminaktivitäten bei den Schizophrenien behauptete sich die Dopaminhypothese bis heute und ist immer noch Gegenstand der Forschung.
+
+Geschichte der Dopaminhypothese 
+Als Grundlage der Hypothese gelten die Arbeiten von Arvid Carlsson & M. Lindqvist im Jahre 1963.
+Die erste Version der Dopaminhypothese wurde 1966 von J. M. van Rossum in seiner Arbeit The significance of dopamine-receptor blockade for the mechanism of action of neuroleptic drugs. vorgestellt. Er nahm an und hypothetisierte:
+
+„Die Schizophrenien könnten verursacht sein, durch die Überaktivität bestimmter dopaminerger Bereiche des menschlichen Gehirns.“
+
+In der wissenschaftlichen Arbeit mit dem Titel Chlorpromazine and dopamine: conformational similarities that correlate with the antischizophrenic activity of phenothiazine drugs. untersuchten die beiden Forscher A. S. Horn und S. H. Snyder die Auswirkung des Medikaments Chlorpromazin auf schizophrene Menschen. Sie stellten in diesem Experiment fest, dass dieser Wirkstoff aus der Gruppe der Phenothiazine blockierend für die Signalübertragungen in den Synapsen durch Dopamin wirkte. Chlorpromazin wurde 1950 durch Paul Charpentier als Antihistaminikum entwickelt, reputierte sich dann aber als erstes klassisches Neuroleptikum (Antipsychotikum) in der Medizingeschichte.
+Die Folge dieser Neurotransmissionsblockade war, dass die Symptome der schizophrenen Versuchspersonen sich besserten. Genauer gesagt, es besserten sich nur die deutlicher wahrnehmbaren Plus/Positiv-Symptome und die Dopaminhypothese, die aufgrund dieses Versuchs und seiner Ergebnisse gefolgert wurde, besagte Folgendes:
+
+„Die Blockaden der Dopaminrezeptoren bedingt eine antipsychotische Wirkung bei den Schizophrenien.“
+
+Diese Arbeit bestätigte somit die Original-Dopaminhypothese von van Rossum aus dem Jahre 1966. Die von A. S. Horn und S. H. Snyder gemachte Entdeckung aus dem Jahre 1971 führte daraufhin zu einer Flut an wissenschaftlichen Auseinandersetzungen in dem Bereich der psychotischen Krankheitsbilder. Vornehmlich wurden hierbei Versuche mit agonistischen und antagonistischen Substanzen gemacht, bei denen man deren Wirkungsweise beobachtete. So wurde seitdem intensiv untersucht, wie die Neurotransmitter und ihre Wirkspektren in Bezug auf z. B. psychotische Leiden sich auswirken. Diese Welle an Forschungsbeiträgen ist bis heute erhalten geblieben.
+1974 tauchte dann zum ersten Mal der Begriff „Dopaminhypothese“ im Titel einer wissenschaftlichen Studie auf.
+
+Im Jahre 1987 wurde die von J. M. van Rossum postulierte Dopaminhypothese untermauert durch die Studie von J. A. Lieberman, J. M. Kane & J. Alvir.
+Sie machten Versuche mit psychostimulanten Substanzen, welche sie ihren Testpersonen verabreichten, und diese entwickelten daraufhin typische Symptome der Schizophrenien.
+Da aber trotz Behandlung die Negativ-Symptome bei den schizophrenen Patienten bestehen blieben, rekapitulierten 1991 K. L. Davis und weitere die von van Rossum aufgestellte Dopaminhypothese, welche eine Hyperdopaminergie für die Schizophrenien verantwortlich machte. Sie bezogen alle relevanten Forschungsergebnisse in ihre Diskussion ein. So ließen sich die Positiv-Symptome effizient behandeln, aber die Negativ-Symptome blieben trotzdem bestehen. Sie stellten schließlich eine neue und erweiterte Dopaminhypothese auf, bei der sie eine Koexistenz von erhöhten und verminderten Dopaminaktivitäten annahmen  und folgerten daraufhin:
+
+„Die Schizophrenien sind bedingt durch abnormal niedrige Dopaminaktivitäten im Bereich der Präfrontalen Cortex, welche Negativ-Symptome verursachen, was zu erhöhten Dopaminaktivitäten in den mesolimbischen Dopamin Neuronen führt, wodurch die Positiv-Symptome verursacht werden.“
+
+Die Schlussfolgerung daraus war, dass die mögliche Koexistenz von hohen und niedrigen Dopaminaktivitäten bei den Schizophrenien Implikationen für die Konzeptualisierung der Rolle von Dopamin zu dieser Krankheit habe. Diese Hypothese war begründet und implizierte damit wichtige neue Behandlungswege für die Schizophrenien.
+In den Jahren 2000 und 2003 führten dann Studien zu einer Verknüpfung der Abnormitäten von Glutamat und Dopamin bei den Schizophrenien. Es wurde ermittelt, wo durch eine erhöhte Dopaminfreisetzung die glutamatergen Systeme gestört wurden, welche wiederum verantwortlich sind für die Regulation der dopaminergen Zellaktivitäten.
+
+Grundlagen zur Dopaminhypothese
+
+Dopamin und seine Funktion 
+
+Dopamin (DA) ist ein Botenstoff aus der Gruppe der Neurotransmitter und fungiert im Spalt zwischen den Nervenbahnen (Synapse) als Überträger des Reizes. Nervenzellen (fachlich Neuronen) übertragen Reize über ihre Bahnen mit Hilfe einer elektrischen Weiterleitung. Zwischen den einzelnen Nervenbahnen befinden sich die Synapsen. In diesen werden vom ankommenden Reiz die Neurotransmitter freigesetzt, welche dann zur anderen Hälfte der Synapsen wandern, wo sie an die Rezeptoren andocken. Mit dem Andocken an die Rezeptoren wird die dortseitige Membran polarisiert und der Reiz wird über eine fortgeknüpfte Nervenbahn weitergeleitet. Diesen Vorgang nennt man beim Dopamin „dopaminerge Neurotransmission“ oder etwas weniger fachlich ausgedrückt, Dopamin bedingte Signaltransduktion (Signalübertragung).
+
+Beim Dopamin gibt es 5 bekannte Typen von Rezeptoren. Man spricht hier von den D1- bis D5-Rezeptoren und gruppiert diese folgendermaßen: „D1 & D5 werden zur Gruppe der D1 Rezeptoren gezählt, während die anderen DA-Rezeptoren D2, D3 & D4 zur Gruppe der D2 Rezeptoren gezählt werden.“ Alle Dopamin-Rezeptortypen haben ihre spezifischen Aufgaben und insbesondere der D2-Rezeptor wird in Zusammenhang mit den Schizophrenien gebracht.
+
+Liganden und Neuroleptika 
+Liganden sind Stoffe, die an Rezeptoren andocken können; man unterscheidet hierbei zwischen aktivierenden und inaktivierenden Liganden. Die aktivierenden Liganden nennt man auch Agonisten, und sie vollführen am Rezeptor eine reizübertragende/-erregende Funktion. Das Gegenstück zu den Agonisten sind die Antagonisten, welche keine Reizreaktion am Rezeptor hervorrufen. Die Natur der Antagonisten in den Synapsen ist die Blockade der Rezeptoren. Neuroleptika sind spezielle antipsychotisch wirkende Medikamente, die vornehmlich als Antagonisten im Gehirn wirken. Dabei müssen die speziellen Wirkstoffsubstanzen die Blut-Hirn-Schranke überwinden. Danach entfalten sie ihre typischerweise rezeptorblockierende Wirkung.
+
+Schizophrenien 
+Die Schizophrenien sind eine Gruppe von psychotischen Krankheiten, die sich durch eine Realitätsverkennung auszeichnen. Bei dieser Krankheitsgruppe unterscheidet man die vielfältigen Symptome nach zwei übergeordneten Kategorien. Man spricht hierbei von Plus- oder Positiv- und Minus- oder Negativ-Symptomatiken. Die Plus-Symptomatiken gehen einher mit einem Mehr an als real Erlebtem. Typisch für Plussymptome sind Wahnvorstellungen, Halluzinationen und Ich-Störungen. Die Minus-Symptomatiken gehen einher mit einem verminderten Realitätserleben. Hierbei typisch sind Symptome wie Affektverflachung, Emotionaler- und Sozialer-Rückzug (Anti-Sozial), Denkverarmung, sogenannte Ambivalenz (widersprüchliche Emotionen und Gedanken) und weitere.
+
+Entstehung der Dopaminhypothese 
+Nach einer der ersten kritischen Auseinandersetzungen mit der Dopaminhypothese entwickelte sich diese zu einem Modell, schizophrene Symptome zu erklären und zwar auf der Basis einer gestörten dopaminergen Neurotransmission (Signalübertragung). Die eigentliche Dopaminhypothese gründet sich auf die Beobachtungen, dass beim Verabreichen von Chlorpromazin die dopaminerge Neurotransmission geblockt wurde und sich die schizophrene Psychose besserte. Womit die Dopaminhypothese darin bestand, dass die Blockade der dopaminergen Neurotransmission ein Heilmittel gegen schizophrene Psychosen darstelle. Das Chlorpromazin hat eine dopaminantagonistische Wirkung und ist das erste klassische Neuroleptikum in der Medizingeschichte. Die Hypothese bestätigte sich auf den Beobachtungen, beim Verabreichen von Wirkstoffsubstanzen, die Dopamin -agonistische und -antagonistische Wirkungen hatten, dadurch dass die schizophrenen Psychosen herbeigeführt oder gebessert wurden.
+
+Damals wurde diese Hypothese dadurch bestätigt, dass die Positivsymptome durch klassische Neuroleptika beseitigt werden konnten. Gegen diese Dopaminhypothese sprach jedoch, dass Negativsymptome durch die Behandlung mit klassischen Neuroleptika entstehen können oder nicht behandelbar sind.
+Im Nachhinein wurde dann die Dopaminhypothese rekapituliert, um die Negativ-Symptome folgerichtig miteinzubeziehen.
+
+Erklärung der Dopaminhypothese 
+Die Dopaminhypothese geht davon aus, dass abnorme Dopaminwerte im Gehirn zu psychotischen Realitätsverkennungen führen. Dies begründet sich mit verfälschten Reizübertragungen in den Synapsen aufgrund abnormer Neurotransmitterwerte. Bei den Positivsymptomen werden durch hyperdopaminerge Reizübertragungen die Signale übersteigert und es kommt zu einem mehr an Erleben. Bei den Minussymptomen und den mit ihnen in Zusammenhang gebrachten hypodopaminergen Reizübertragungen, verschwinden die Signale und es kommt zu vermindertem Realitätserleben.
+Nachweisend für die übersteigerten Signalübertragungen deuteten einige Studien auf erhöhte Rezeptordichten in den dopaminergen Nervenzellen der schizophrenen Patienten hin.
+
+Man fand auch heraus, dass es bei den Schizophrenen in frontalen Bereichen des Gehirns zu einer Verminderung an Dopamin kommt, während in anderen Bereichen, besonders in Teilen des limbischen Systems, ein Überschuss herrscht. Der Befund, dass die dopaminergen Neuronen im Stirnhirn überwiegend D1-Rezeptoren statt D2-Rezeptoren tragen und mit D2-Blockern agiert wurde, widerspricht diesem Sachverhalt nicht.
+Der Ansatz mit der verminderten Dopaminaktivität stellt einen Versuch dar, die ursprüngliche Dopaminhypothese so zu erweitern, als dass sie ihre Gültigkeit beibehält, weshalb sie auch 1991 rekapituliert wurde.
+
+Befunde zur Dopaminhypothese 
+Die Schizophrenien können als ein Leiden aufgefasst werden, welches auf einem Ungleichgewicht des Neurotransmitterhaushaltes in einem feedback-regulierten System beruht.
+Neurotransmitter sind eine Untergruppe der Botenstoffe und eine Hauptrolle in der Schizophrenie spielt hierbei neben dem Dopamin, das Serotonin und wohl auch das Glutamat.
+
+Eine Studie aus dem Jahre 1998 belegte die vorhergehenden Beobachtungen, von einer disregulierten, striatalen Dopaminfreisetzung bei den Schizophrenien.
+
+Bestätigend auf die Dopaminhypothese wirkt die Aussage, dass Homovanillinsäure – einem Abbauprodukt von Dopamin – mit den Positivsymptomen der Schizophrenie korreliert.
+Bei den Minussymptomen hingegen geht man – nach einer Studie aus dem Jahre 2007 über die Korrelation dazu – davon aus, dass Minussymptome sich auf zwei Arten bedingen:
+
+ Parallel zur Behandlung von Plussymptomen und der dazu typischen Reduktion (Rückbildung) der Homovanillinsäurewerte entstehende Minussymptome und
+ entsprechende, zu den steigenden Homovanillinsäurewerten korrelierende Minussymptome. Daher folgert die Studie das Bestehen von zwei Klassen der Minussymptomen.
+
+Diese Studie bestätigt somit die widersprüchlichen Ergebnisse von vorangegangenen Studien und versucht über die zwiegespaltene Klassifizierung von Minussymptomen diesem Sachverhalt Rechnung zu tragen. Eine kritische Betrachtung des Dopaminabbauproduktes Homovanillinsäure sollte bei diesem Sachverhalt in Betracht gezogen werden, da anhand dieses Metaboliten nicht zwischen gleichzeitig bestehenden Hypo- und Hyperdopaminergien unterschieden werden kann. Außerdem werden die Positivsymptome mit Hyper- und die Negativsymptome mit Hypodopaminergien in Verbindung gebracht.
+
+Des Weiteren fand man zwei neuartige Mechanismen, um die Produktion von Dopamin zu regulieren.
+Hieraus wurde in der Folge der kompetitive Mechanismus von Neuroleptika bewiesen und eine – sich wohl durch die Gabe von Neuroleptika bedingte – erhöhte Menge an Rezeptoren in den betroffenen Synapsen nachgewiesen. Hierbei war die Rezeptordichte in diesen Synapsen erhöht, was als Anpassungsreaktion auf die konkurrierende Wirkung der eigentlichen Neurotransmitter und der per Verabreichung von Neuroleptika zugeführten Antagonisten (Liganden), zurückgeschlossen wurde. Eine ins Deutsche übersetzte Quelle für einige dieser Aussagen findet sich in dem Beitrag aus dem Jahre 2000, welche eine Zusammenfassung aus der Zeitschrift Der Nervenarzt ist. Zwei andere Studien fanden heraus, dass die Menge an Dopamin-Rezeptoren (DA-Rezeptoren) in der Synapse sich der dopaminergen Stimulanz anpasst.
+
+Somit ist die Dopaminhypothese nach neurowissenschaftlichen Studien und Forschungsergebnissen der modernen Neurobiologie hinlänglich belegt worden, auch wenn sie nur einen Teil der Ursachen eines schizophrenen Leidens darstellt, da die dopaminerge Neurotransmission nicht die einzige Ursache ist. Die Dopaminhypothese ist nur ein Bestandteil der neurobiologischen Schizophreniekonzepte von heute, und man geht davon aus, dass sich der antipsychotische Wirkmechanismus von Neuroleptika nicht durch die Rezeptorblockade selbst ergibt, sondern sich durch den verzögert einsetzenden Depolarisationsblock bedingt. Dies beruht auf der Tatsache, dass die antipsychotische Wirkung von Neuroleptika weitaus länger braucht als ihre Aufnahme. Des Weiteren belegten Studien aus den Jahren 2000 & 2003 den Sachverhalt, dass eine erhöhte Dopaminfreisetzung bei den Schizophrenien zur Folge hat, die glutamatergen neuronalen Systeme zu stören. Diese wiederum regulieren die dopaminergen Zellaktivitäten. Hieraus lässt sich aber die Dopaminhypothese entsprechend mit der Glutamathypothese verknüpfen.
+
+Kombinierte Netzwerke von Dopamin, Serotonin und Glutamat 
+In einer Übersichtsarbeit von 2018 wurde vorgeschlagen, dass viele Fälle von Psychose, einschließlich der durch Schizophrenie bedingten, durch Abweichungen bei drei verbundenen Netzwerken, jeweils auf der Basis von Dopamin, Serotonin and Glutamat, bedingt seien. Diese bewirkten im Endeffekt immer eine Übererregung von Dopamin-D2-Rezeptoren im ventralen Striatum. Dabei könnten Störungen in einem System alleine oder in verschiedener Kombination mehrerer Systeme beteiligt sein.
+
+Literatur 
+ Elliot Valenstein (1998): Blaming the Brain. ISBN 0-7432-3787-0 (Kritik eines Neurobiologen an der Dopaminhypothese)
+ N. Andreasen Brave new brain 2002 ISBN 3-540-42841-0
+ John G. Nicholls: Vom Neuron zum Gehirn. Stuttgart, Gustav Fischer, 1995 ISBN 3-437-20517-X
+ Current psychiatry reports (Curr Psychiatry Rep) Vol. 9 Issue 4, S. 329–336 (August 2007)   United States
+
+Weblinks 
+ 100 Jahre Schizophrenieforschung – ein Puzzle ohne Bild? Folien/Vorlesung
+ springerlink 2000 Dopaminhypothese der Schizophrenien Neue Befunde für eine alte Theorie
+ UNI-Freiburg 2004 Dopaminhypothese der Schizophrenie Folie 25
+ Schizophrenie – Die Seele wieder in Einklang bringen. Pharmazeutische Zeitung 34/2007
+ Introduction to the Medicinal Chemistry of Schizophrenia (PDF; 289 kB)
+ The Dopamine Hypothesis of Schizophrenia • By Anissa Abi-Dargham
+
+Einzelnachweise 
+
+Schizophrenie
+Neurobiologie

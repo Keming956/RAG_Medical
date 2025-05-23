@@ -1,0 +1,39 @@
+The Screen for Child Anxiety Related Emotional Disorders (SCARED) is a self-report screening questionnaire for anxiety disorders developed in 1997. The SCARED is intended for youth, 9–18 years old, and their parents to complete in about 10 minutes. It can discriminate between depression and anxiety, as well as among distinct anxiety disorders. The SCARED is useful for generalized anxiety disorder, social anxiety disorder, phobic disorders, and potentially school anxiety problems. Most available self-report instruments that measure anxiety in children look at general aspects of anxiety rather than Diagnostic and Statistical Manual of Mental Disorders (DSM) categorizations. The SCARED was developed as an instrument for both children and their parents that would encompass several DSM-IV categorizations of the anxiety disorders: somatic/panic, generalized anxiety, separation anxiety, social phobia, and school phobia.
+
+Each question measures the frequency or intensity of symptoms or behaviors. This assessment has been found to be both valid and reliable in research settings.
+
+In 2017 SCARED was adapted to create the Screen for Adult Anxiety Related Disorders (SCAARED). The SCAARED screens for four factors of anxiety related disorders; somatic/panic/agoraphobia, generalized anxiety, separation anxiety, and social anxiety. The SCAARED will be used in longitudinal studies that follow youth into adulthood, as well as studies that compare child and adult populations.
+
+Versions 
+
+The SCARED was developed to screen for anxiety disorders in children; there is a parent version as well as a youth self-report version.
+
+The original version developed in 1997 was available in 38 items. The SCARED is most commonly used in the 41-item version published in 1999 which was updated with three additional items in the social phobia scale. There is also a 66-item SCARED-Revised (SCARED-R) that includes the panic disorder, generalized anxiety disorder, social phobia, and separation anxiety disorder scales.
+
+Reliability
+
+Validity
+
+Use
+The SCARED provides an assessment that detects anxiety disorders in children and differentiates between depression and anxiety and specific anxiety and phobia disorders. The assessment should not be used alone to diagnose a child with an anxiety disorder, however research suggest it is a reliable and useful tool when used along with clinical interviewing diagnose anxiety disorders. The SCARED's treatment sensitivity means that it is useful in both clinical and research settings to measure symptoms and presence of anxiety longitudinally, specifically over the course of treatment. It has proved useful in studying the effectiveness of certain treatments of anxiety disorders in children.
+
+In other populations
+Studies of the SCARED also indicate good psychometric properties for children and adolescents of different cultures, distinguishing itself from other similar questionnaires. The SCARED has been found to be a reliable assessment tool in several different cultures and translated into many different languages, including, but not limited to, French, German, Italian, Dutch, Spanish, Chinese, Arabic, and Thai.
+
+Limitations 
+The assessment tool is limited in that it is a self-report measure, which may introduce bias. Another limitation is that, depending on the age and maturity of the child filling out the questionnaire, they may have difficulty recognizing the frequency or severity of both external and internal symptoms. The parent may also be limited in recognizing the internal symptoms of their child's anxiety.
+
+Development and history 
+Prior to the development of the SCARED, three rating scales were used to measure anxiety in children and adolescents: the Revised Children's Manifest Anxiety Scale, the Revised Fear Survey Schedule for Children, and the Somatic State and Trait Anxiety Scale. While these methods were useful in assessing general anxiety symptoms, they were unable to discriminate between anxiety disorders. To address this shortcoming, the SCARED was developed based on DSM-IV classification to screen specifically for general anxiety disorder (GAD), separation anxiety disorder (SAD), panic disorder, social phobia, and school phobia.
+
+See also 
+Diagnostic classification and rating scales used in psychiatry
+
+References
+
+External links 
+
+ Resources, instruments, downloads and translations of SCARED from the University of Pittsburgh
+
+Psychiatric instruments: child and adolescent psychiatry
+Psychiatric instruments: anxiety

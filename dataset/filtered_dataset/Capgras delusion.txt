@@ -1,0 +1,66 @@
+Capgras delusion is a psychiatric disorder in which a person holds a delusion that a friend, spouse, parent, or other close family member (or pet) has been replaced by an identical impostor. It is named after Joseph Capgras (1873–1950), a French psychiatrist.
+
+The Capgras delusion is classified as a delusional misidentification syndrome, a class of delusional beliefs that involves the misidentification of people, places, or objects. It can occur in acute, transient, or chronic forms. Cases in which patients hold the belief that time has been "warped" or "substituted" have also been reported.
+
+The delusion most commonly occurs in individuals diagnosed with schizophrenia but has also been seen in brain injury, dementia with Lewy bodies, and other dementia. It presents often in individuals with a neurodegenerative disease, particularly at an older age. It has also been reported as occurring in association with diabetes, hypothyroidism, and migraine attacks. In one isolated case, the Capgras delusion was temporarily induced in a healthy subject by the drug ketamine. It occurs more frequently in females, with a female to male ratio of approximately 3 to 2.
+
+Signs and symptoms
+The following two case reports are examples of the Capgras delusion in a psychiatric setting:
+
+The following case is an instance of the Capgras delusion resulting from a neurodegenerative disease:
+
+Causes
+It is generally agreed that the Capgras delusion has a complex and organic basis caused by structural damage to organs and can be better understood by examining neuroanatomical damage associated with the syndrome.
+
+In one of the first papers to consider the cerebral basis of the Capgras delusion, Alexander, Stuss and Benson pointed out in 1979 that the disorder might be related to a combination of frontal lobe damage causing problems with familiarity and right hemisphere damage causing problems with visual recognition.
+
+Further clues to the possible causes of the Capgras delusion were suggested by the study of brain-injured patients who had developed prosopagnosia. In this condition, patients are unable to recognize faces consciously, despite being able to recognize other types of visual objects. However, a 1984 study by Bauer showed that even though conscious face recognition was impaired, patients with the condition showed autonomic arousal (measured by a galvanic skin response measure) to familiar faces, suggesting that there are two pathways to face recognition—one conscious and one unconscious.
+
+In a 1990 paper published in the British Journal of Psychiatry, psychologists Hadyn Ellis and Andy Young hypothesized that patients with Capgras delusion may have a "mirror image" or double dissociation of prosopagnosia, in that their conscious ability to recognize faces was intact, but they might have damage to the system that produces the automatic emotional arousal to familiar faces. This might lead to the experience of recognizing someone while feeling something was not "quite right" about them. In 1997, Ellis and his colleagues published a study of five patients with Capgras delusion (all diagnosed with schizophrenia) and confirmed that although they could consciously recognize the faces, they did not show the normal automatic emotional arousal response. The same low level of autonomic response was shown in the presence of strangers. Young (2008) has theorized that this means that patients with the disease experience a "loss" of familiarity, not a "lack" of it. Further evidence for this explanation comes from other studies measuring galvanic skin responses (GSR) to faces. A patient with Capgras delusion showed reduced GSRs to faces in spite of normal face recognition. This theory for the causes of Capgras delusion was summarised in Trends in Cognitive Sciences in 2001.
+
+William Hirstein and Vilayanur S. Ramachandran reported similar findings in a paper published on a single case of a patient with Capgras delusion after brain injury. Ramachandran portrayed this case in his book Phantoms in the Brain and gave a talk about it at TED 2007. Since the patient was capable of feeling emotions and recognizing faces but could not feel emotions when recognizing familiar faces, Ramachandran hypothesizes that the origin of Capgras syndrome is a disconnection between the temporal cortex, where faces are usually recognized (see temporal lobe), and the limbic system, involved in emotions. More specifically, he emphasizes the disconnection between the amygdala and the inferotemporal cortex.
+
+In 2010, Hirstein revised this theory to explain why a person with Capgras syndrome would have the particular reaction of not recognizing a familiar person. Hirstein explained the theory as follows:
+
+Furthermore, Ramachandran suggests a relationship between the Capgras syndrome and a more general difficulty in linking successive episodic memories because of the crucial role emotion plays in creating memories. Since the patient could not put together memories and feelings, he believed objects in a photograph were new on every viewing, even though they normally should have evoked feelings (e.g., a person close to him, a familiar object, or even himself). Others like Merrin and Silberfarb (1976) have also proposed links between the Capgras syndrome and deficits in aspects of memory. They suggest that an important and familiar person (the usual subject of the delusion) has many layers of visual, auditory, tactile, and experiential memories associated with them, so the Capgras delusion can be understood as a failure of object constancy at a high perceptual level.
+
+Most likely, more than a mere impairment of the automatic emotional arousal response is necessary to form the Capgras delusion, as the same pattern has been reported in patients showing no signs of delusions. Ellis suggested that a second factor explains why this unusual experience is transformed into a delusional belief; this second factor is thought to be an impairment in reasoning, although no specific impairment has been found to explain all cases. Many have argued for the inclusion of the role of patient phenomenology in explanatory models of the Capgras syndrome in order to better understand the mechanisms that enable the creation and maintenance of delusional beliefs.
+
+Capgras syndrome has also been linked to reduplicative paramnesia, another delusional misidentification syndrome in which a person believes a location has been duplicated or relocated. Since these two syndromes are highly associated, it has been proposed that they affect similar areas of the brain and therefore have similar neurological implications. Reduplicative paramnesia is understood to affect the frontal lobe, and thus it is believed that Capgras syndrome is also associated with the frontal lobe. Even if the damage is not directly to the frontal lobe, an interruption of signals between other lobes and the frontal lobe could result in Capgras syndrome. Some authors have highlighted cannabis consumption as a trigger for Capgras syndrome
+
+Diagnosis
+Because it is a rare and poorly understood condition, there is no established way to diagnose the Capgras delusion. Diagnosis is primarily made on a psychiatric evaluation of the patient, who is most likely brought to a psychiatrist's attention by a family member or friend believed to be an imposter by the person under the delusion.
+
+Treatment
+Treatment has not been well studied, so there is no evidence-based approach.  Treatment is generally therapy, often with support of antipsychotic medication.
+
+History
+Capgras syndrome is named after Joseph Capgras, a French psychiatrist who first described the disorder in 1923 in his paper co-authored by Jean Reboul-Lachaux, on the case of a French woman, "Madame Macabre," who complained that corresponding "doubles" had taken the places of her husband and other people she knew. Capgras and Reboul-Lachaux first called the syndrome "l'illusion des sosies", which can be translated literally as "the illusion of look-alikes."
+
+The syndrome was initially considered a purely psychiatric disorder, the delusion of a double seen as symptomatic of schizophrenia, and purely a female disorder (though this is now known not to be the case) often noted as a symptom of hysteria. Most of the proposed explanations initially following that of Capgras and Reboul-Lachaux were psychoanalytical in nature. It was not until the 1980s that attention turned to the usually co-existing organic brain lesions originally thought to be essentially unrelated or coincidental. Today, the Capgras syndrome is understood as a neurological disorder, in which the delusion primarily results from organic brain lesions or degeneration.
+
+Culture
+
+The Father-Thing is a 1954 science fiction short story by American writer Philip K. Dick. The story, told through third-person narration but focusing on the child, concerns the replacement of a boy's father with a replicated version.  At first, only the child sees the difference and has to recruit other children to help him reveal the truth.  The story was retold in the 2017 production of the TV series Electric Dreams.
+
+Invasion of the Body Snatchers is a 1956 American science fiction noir horror film directed by Don Siegel. The film's storyline concerns an extraterrestrial invasion that begins in the fictional California town of Santa Mira. Alien plant spores have fallen from space and grown into large seed pods, each one capable of producing a visually-identical replacement copy of a human. As each pod reaches full development, it assimilates the physical characteristics, memories, and personalities of each sleeping person placed near it; these duplicates, however, are devoid of all human emotion.  Little by little, a local doctor uncovers this "quiet" invasion and attempts to stop it.  The film was remade several times, including as Invasion of the Body Snatchers (1978), Body Snatchers (1993), and The Invasion (2007).
+
+In the novel Memoirs Found in a Bathtub by the Polish writer Stanisław Lem, first published in 1961, the narrator inhabits a paranoid dystopia where nothing is as it seems, chaos seems to rule all events, and everyone is deeply suspicious of everyone else. In the end, it is revealed that the world is filled by phantom body doubles.
+
+A central character in Richard Powers's 2006 novel The Echo Maker suffers from Capgras Delusion subsequent  to traumatic brain injury.
+
+The protagonist in the movie Synecdoche, New York, who is named Caden Cotard (played by Philip Seymour Hoffman), goes to see his ex-wife at her apartment, and, as he enters the building, one of the resident call boxes is labelled with the name "Capgras". He is then misidentified as his ex-wife's cleaning lady, Ellen Bascomb, as he tries to enter the apartment, and, later in the film, he actually comes to play the role of Ellen Bascomb in his own play. Throughout the film, Cotard enlists actor-doubles to play actors, and, as the film progresses, the actor-doubles are in turn then given their own actor-doubles.
+
+In "Dorado Falls," an episode from the seventh season of the television series Criminal Minds, a Navy SEAL develops Capgras delusion as the result of an automobile accident. His experience with classified military missions causes him to become extremely paranoid, and he begins killing the people he sees on a regular basis, believing them to have been replaced by duplicates who are plotting against him.
+
+In the nine-book Fate of the Jedi series—a part of the Star Wars expanded universe—features several Jedi Knights falling prey to a strange psychosis that bears a resemblance to Capgras delusion. It is later revealed to be due to the influence of the dark entity Abeloth, the main antagonist of the series.
+
+See also
+
+References
+
+Delusional disorders
+Delusions
+Lewy body dementia
+Psychopathological syndromes
+Psychosis

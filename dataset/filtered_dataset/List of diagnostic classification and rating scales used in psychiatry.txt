@@ -1,0 +1,150 @@
+The following diagnostic systems and rating scales are used in psychiatry and clinical psychology. This list is by no means exhaustive or complete.  For instance, in the category of depression, there are over two dozen depression rating scales that have been developed in the past eighty years.
+
+Diagnostic classification
+
+Diagnostic criteria
+Diagnostic and Statistical Manual of Mental Disorders (DSM)
+Chinese Classification of Mental Disorders
+Feighner Criteria
+Research Diagnostic Criteria (RDC), 1970s-era criteria that served as a basis for DSM-III
+Research Domain Criteria (RDoC), an ongoing framework being developed by the National Institute of Mental Health
+
+Interview instruments using the above criteria
+Structured Clinical Interview for DSM-IV (SCID)
+Schedule for Affective Disorders and Schizophrenia (SADS)
+Kiddie Schedule for Affective Disorders and Schizophrenia (K-SADS)
+Mini-international neuropsychiatric interview (MINI)
+World Health Organization Composite International Diagnostic Interview (CIDI)
+Schedules for Clinical Assessment in Neuropsychiatry (SCAN)
+Diagnostic Interview for Genetic Studies (DIGS)
+
+Rating scales
+
+Addiction
+
+ Alcohol Use Disorders Identification Test
+ Bergen Shopping Addiction Scale
+ CAGE Questionnaire
+ CRAFFT Screening Test
+
+ADHD
+
+ ADHD Rating Scale
+ Adult ADHD Self-Report Scale (ASRS v1.1)
+ Disruptive Behavior Disorders Rating Scale
+ Swanson, Nolan and Pelham Teacher and Parent Rating Scale
+ Vanderbilt ADHD Diagnostic Rating Scale
+
+Autism spectrum
+
+ Autism Spectrum Quotient (AQ)
+ Childhood Autism Rating Scale (CARS)
+ Childhood Autism Spectrum Test (CAST)
+ Autism Diagnostic Observation Schedule (ADOS)
+ Ritvo Autism and Asperger Diagnostic Scale (RAADS)
+
+Anxiety
+
+Beck Anxiety Inventory
+ Child PTSD Symptom Scale
+Clinician Administered PTSD Scale (CAPS)
+Daily Assessment of Symptoms – Anxiety
+Generalized Anxiety Disorder 7 (GAD-7)
+Hamilton Anxiety Scale (HAM-A)
+Hospital Anxiety and Depression Scale
+Panic and Agoraphobia Scale (PAS)
+Panic Disorder Severity Scale (PDSS)
+PTSD Symptom Scale – Self-Report Version
+Screen for child anxiety related disorders
+Social Phobia and Anxiety Inventory-Brief form
+Social Phobia Inventory (SPIN)
+Taylor Manifest Anxiety Scale
+Trauma Screening Questionnaire
+UCLA PTSD Index
+Yale–Brown Obsessive Compulsive Scale (Y-BOCS)
+Zung Self-Rating Anxiety Scale
+
+Dementia and cognitive impairment
+
+Abbreviated mental test score
+Addenbrooke's Cognitive Examination
+Clinical Dementia Rating
+General Practitioner Assessment Of Cognition
+Informant Questionnaire on Cognitive Decline in the Elderly
+Mini-mental state examination
+Montreal Cognitive Assessment
+
+Dissociation
+
+ Dissociative Experiences Scale (DES)
+
+Depression
+
+ Beck Depression Inventory (BDI)
+ Beck Hopelessness Scale
+ Centre for Epidemiological Studies - Depression Scale (CES-D)
+ Center for Epidemiological Studies Depression Scale for Children (CES-DC)
+ Edinburgh Postnatal Depression Scale (EPDS)
+ Geriatric Depression Scale (GDS)
+ Hamilton Rating Scale for Depression (HAM-D)
+ Hospital Anxiety and Depression Scale (HADS)
+ Kutcher Adolescent Depression Scale (KADS)
+ Major Depression Inventory (MDI)
+ Montgomery-Åsberg Depression Rating Scale (MADRS)
+ Patient Health Questionnaire - 9 (PHQ-9)
+ Mood and Feelings Questionnaire (MFQ)
+ Weinberg Screen Affective Scale (WSAS)
+ Zung Self-Rating Depression Scale (SDS)
+
+Eating disorders
+
+Anorectic Behavior Observation Scale
+Binge Eating Scale (BES)
+Eating Attitudes Test (EAT-26)
+Eating Disorder Inventory (EDI)
+
+Mania and bipolar disorder
+
+Altman Self-Rating Mania Scale (ASRM)
+Bipolar Spectrum Diagnostic Scale
+Child Mania Rating Scale
+General Behavior Inventory
+Hypomania Checklist
+Mood Disorder Questionnaire (MDQ)
+Young Mania Rating Scale (YMRS)
+
+Personality and personality disorders
+
+Buss-Perry Aggression Questionnaire (AGQ)
+Hare Psychopathy Checklist
+Minnesota Multiphasic Personality Inventory
+Narcissistic Personality Inventory
+Minnesota Borderline Personality Disorder Scale
+
+Schizophrenia and psychosis
+
+Brief Psychiatric Rating Scale (BPRS)
+Positive and Negative Syndrome Scale (PANSS)
+Scale for the Assessment of Positive Symptoms (SAPS)
+Scale for the Assessment of Negative Symptoms (SANS)
+
+Other
+ Barnes Akathisia Scale
+ Child and Adolescent Symptom Inventory (CASI)
+ SAD PERSONS scale for suicide risk
+ Child Symptom inventory (CSI)
+
+Global scales
+Clinical Global Impression
+Comprehensive Psychopathological Rating Scale (CPRS)
+Global Assessment of Functioning (GAF) 
+Children's Global Assessment Scale
+
+See also
+Marlowe–Crowne Social Desirability Scale
+Mental status examination
+Psychological testing
+
+References
+
+Diagnosis classification

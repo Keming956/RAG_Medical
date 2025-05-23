@@ -1,0 +1,54 @@
+The Spence Children's Anxiety Scale (SCAS) is a psychological questionnaire designed to identify symptoms of various anxiety disorders, specifically social phobia, obsessive-compulsive disorder, panic disorder/agoraphobia, and other forms of anxiety, in children and adolescents between ages 8 and 15. Developed by Susan H. Spence and available in various languages, the 45 question test can be filled out by the child or by the parent. Alternatively, an abbreviated form of the test has been developed, with only 19 questions. It has shown equally valid results while reducing stress and response burden in younger participants. There is also another 34 question version of the test specialized for children in preschool between ages 2.5 and 6.5. Any form of the test takes approximately 5 to 10 minutes to complete. The questionnaire has shown good reliability and validity in recent studies.
+
+Question breakdown, scoring, and interpretation 
+Each question on the test addresses the frequency of certain anxiety symptoms, measured on a 0-3 scale from "never," "sometimes," often," to "always."
+
+Domain breakdown 
+A maximum score of 114 is possible on the child and parent-reported SCAS, and there are six subscales calculated within the final score. The following 38 questions correspond to the following disorders:
+
+Separation anxiety: 5, 8, 12, 15, 16, 44
+Social phobia: 6, 7, 9, 10, 29, 35
+Obsessive-compulsive disorder: 14, 19, 27, 40, 41, 42
+Panic disorder/agoraphobia: 13, 21, 28, 30, 32, 34, 36, 37, 39
+Personal injury fears: 2, 18, 23, 25, 33
+Generalized anxiety: 1, 3, 4, 20, 22, 24
+
+Questions 11, 17, 26, 31, 38, 39, and 43 are filler questions that do not factor in the final or subscale scores.
+
+Although the parent-reported and preschool SCAS have the same subscales as the child-reported SCAS, different questions correspond to different subscales. For the parent SCAS:
+
+Separation anxiety: 5, 8, 11, 14, 15, 38
+Social phobia: 6, 7, 9, 10, 26, 31
+Obsessive-compulsive disorder: 13, 17, 24, 35, 36, 37
+Panic disorder/agoraphobia: 12, 19, 25, 27, 28, 30, 32, 33, 34
+Personal injury fears: 2, 16, 21, 23, 29
+Generalized anxiety: 1, 3, 4, 18, 20, 22
+
+The preschool SCAS has a maximum score of 112, with the following items:
+
+Separation anxiety: 6, 12, 16, 22, 25
+Social anxiety: 2, 5, 11, 15, 19, 23
+Obsessive-compulsive disorder: 3, 9, 18, 21, 27
+Personal injury fears: 7, 10, 13, 17, 20, 24, 26
+Generalized anxiety: 1, 4, 8, 14, 28
+
+Question 29 is not factored in the final or subscale scores.
+
+Interpretation of subscale scores 
+The total score on the SCAS is interpreted in different ways depending on the child's age and gender. On the child-reported SCAS for boys and girls ages 8-11, a total score of 50 +/- 10 is considered in the average range for anxiety. A T-score of 60 and above is indicative of sub-clinical or elevated levels of anxiety. This justifies further investigation and confirmation of diagnostic status using clinical interview. where 60 above is classified as elevated levels of anxiety, respectively.
+
+See also
+ Anxiety
+ Social anxiety
+Society of Clinical Child and Adolescent Psychology
+EffectiveChildTherapy.Org information on fear, worry, and anxiety
+
+References
+
+Further reading
+
+External links
+ SCAS website
+
+Psychiatric instruments: anxiety
+Psychiatric instruments: child and adolescent psychiatry

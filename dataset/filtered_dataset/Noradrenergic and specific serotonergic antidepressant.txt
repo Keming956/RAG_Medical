@@ -1,0 +1,32 @@
+Noradrenergic and specific serotonergic antidepressants (NaSSAs) are a class of psychiatric drugs used primarily as antidepressants. They act by antagonizing the α2-adrenergic receptor and certain serotonin receptors such as 5-HT2A and 5-HT2C, but also 5-HT3, 5-HT6, and/or 5-HT7 in some cases. By blocking α2-adrenergic autoreceptors and heteroreceptors, NaSSAs enhance adrenergic and serotonergic neurotransmission in the brain involved in mood regulation, notably 5-HT1A-mediated transmission. In addition, due to their blockade of certain serotonin receptors, serotonergic neurotransmission is not facilitated in unwanted areas, which prevents the incidence of many side effects often associated with selective serotonin reuptake inhibitor (SSRI) antidepressants; hence, in part, the "specific serotonergic" label of NaSSAs.
+
+List of NaSSAs
+The NaSSAs include the following agents:
+
+ Aptazapine (CGS-7525A)
+ Esmirtazapine (ORG-50,081)
+ Mianserin (Bolvidon, Norval, Tolvon)
+ Mirtazapine (Norset, Remeron, Avanza, Zispin)
+ Setiptiline/teciptiline (Tecipul)
+
+Notably, all of these compounds are analogues and are also classified as tetracyclic antidepressants (TeCAs) based on their chemical structures.
+
+S32212, a structurally novel NaSSA with an improved selectivity profile (e.g., no antihistamine effects, etc.), was reported in 2012. It has completed preliminary preclinical research and may go on to undergo clinical trials.
+
+See also
+ Serotonin antagonist and reuptake inhibitor (SARI)
+ Serotonin modulator and stimulator (SMS)
+ Norepinephrine-dopamine disinhibitor (NDDI)
+ Tetracyclic antidepressant
+ Norepinephrine–dopamine reuptake inhibitor
+ Atypical antidepressant
+
+References
+
+Further reading
+
+External links
+
+Alpha-2 blockers
+ 
+Serotonin receptor antagonists

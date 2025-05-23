@@ -1,0 +1,27 @@
+The Schedule for Affective Disorders and Schizophrenia (SADS)  is a collection of psychiatric diagnostic criteria and symptom rating scales originally published in 1978. It is organized as a semi-structured diagnostic interview. The structured aspect is that every interview asks screening questions about the same set of disorders regardless of the presenting problem; and positive screens get explored with a consistent set of symptoms. These features increase the sensitivity of the interview and the inter-rater reliability (or reproducibility) of the resulting diagnoses. The SADS also allows more flexibility than fully structured interviews: Interviewers can use their own words and rephrase questions, and some clinical judgment is used to score responses. There are three versions of the schedule, the regular SADS, the lifetime version (SADS-L) and a version for measuring the change in symptomology (SADS-C). Although largely replaced by more structured interviews that follow diagnostic criteria such as DSM-IV and DSM-5, and specific mood rating scales, versions of the SADS are still used in some research papers today.
+
+Diagnoses covered
+The diagnoses covered by the interview include schizophrenia, schizoaffective disorder, major depressive disorder, bipolar disorder, anxiety disorders and a limited number of other fairly common diagnoses.
+
+Relationship with the Research Diagnostic Criteria
+The SADS was developed by the same group of rearchers as the Research Diagnostic Criteria (RDC). While the RDC is a list of diagnostic criteria for psychiatric disorders, the SADS interview allows diagnoses based on RDC criteria to be made, and also rates subject's symptoms and level of functioning.
+
+K-SADS
+The K-SADS (or Kiddie-SADS) is a version of the SADS adapted for school-aged children of 6–18 years. There are various different versions of the K-SADS, each varying slightly in terms of disorders and specific symptoms covered, as well as the scale range used. All of the variations are still semi-structured interviews, giving the interviewer more flexibility about how to phrase and probe items, while still covering a consistent set of disorders.
+
+The K-SADS-E (Epidemiological version) was developed for epidemiological research. It focused on current issues and episodes only. Most of the items used a four point rating scale.
+
+The K-SADS-PL (Present and Lifetime version) is administered by interviewing the parent(s), the child, and integrating them into a summary rating that includes parent report, child report, and clinical observations during the interview. The interview covers both present issues (i.e., the reason the family is seeking an evaluation) as well as past episodes of the disorders. Most items use a three point rating scale for severity (not present, subthreshold, and threshold—which combines both moderate and severe presentations). It has been used with preschool as well as school-aged children. A 2009 working draft removed all reference to the DSM-III-R criteria (which were replaced with the publication of the DSM-IV in 1994) and made some other modifications. A DSM-5 version is being prepared and validated.
+
+The WASH-U K-SADS (Washington University version) added items to the depression and mania modules and used a six point severity rating for severity.
+
+See also
+ Diagnostic classification and rating scales used in psychiatry
+ Kiddie Schedule for Affective Disorders and Schizophrenia
+
+Notes
+
+References
+
+Mental disorders diagnostic procedures
+Medical classification

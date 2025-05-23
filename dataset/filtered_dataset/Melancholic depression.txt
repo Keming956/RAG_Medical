@@ -1,0 +1,40 @@
+Melancholic depression, or depression with melancholic features, is a DSM-IV and DSM-5 subtype of clinical depression.
+
+Signs and symptoms
+Requiring at least one of the following symptoms: 
+ Anhedonia (the inability to find pleasure in positive things)
+ Lack of mood reactivity (i.e. mood does not improve in response to positive events) 
+And at least three of the following: 
+ Depression that is subjectively different from grief or loss
+ Severe weight loss or loss of appetite
+ Psychomotor agitation or retardation
+ Early morning awakening
+ Guilt that is excessive
+ Worse mood in the morning
+Melancholic features apply to an episode of depression that occurs as part of either major depressive disorder or bipolar disorder I or II.
+
+Causes
+The causes of melancholic-type major depressive disorder are believed to be mostly biological factors; some may have inherited the disorder from their parents. Sometimes stressful situations can trigger episodes of melancholic depression, though this is a contributing cause rather than a necessary or sufficient cause.  People with psychotic symptoms are also thought to be more susceptible to this disorder. It is frequent in old age and often unnoticed by some physicians who perceive the symptoms to be a part of dementia. Major depressive disorder, melancholic or otherwise, is a separate condition that can be comorbid with dementia in the elderly.
+
+Treatment
+Melancholic depression is often considered to be a biologically based and particularly severe form of depression. Treatment involves antidepressants, electroconvulsive therapy, or other empirically supported treatments such as cognitive behavioral therapy and interpersonal therapy for depression. A 2008 analysis of a large study of patients with unipolar major depression found a rate of 23.5% for melancholic features. It was the first form of depression extensively studied, and many of the early symptom checklists for depression reflect this.
+
+Incidence
+The incidence of melancholic depression has been found to increase when the temperature and/or sunlight are low. 
+According to the DSM-IV, the "melancholic features" specifier may be applied to the following only: 
+Major depressive episode, single episode
+Major depressive episode, recurrent episode
+Bipolar I disorder, most recent episode depressed
+Bipolar II disorder, most recent episode depressed
+
+See also
+Melancholia
+
+References
+
+Mood disorders
+Major depressive disorder
+
+fr:Mélancolie
+io:Melankolio
+zh:忧郁型抑郁障碍

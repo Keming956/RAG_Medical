@@ -1,0 +1,104 @@
+Safety behaviors (also known as safety-seeking behaviors) are coping behaviors used to reduce anxiety and fear when the user feels threatened. An example of a safety behavior in social anxiety is to think of excuses to escape a potentially uncomfortable situation. These safety behaviors, although useful for reducing anxiety in the short term, might become maladaptive over the long term by prolonging anxiety and fear of nonthreatening situations. This problem is commonly experienced in anxiety disorders. Treatments such as exposure and response prevention focus on eliminating safety behaviors due to the detrimental role safety behaviors have in mental disorders. There is a disputed claim that safety behaviors can be beneficial to use during the early stages of treatment.
+
+History
+The concept of safety behaviors was first related to a mental disorder in 1984 when the “safety perspective” hypothesis was proposed to explain how agoraphobia is maintained over time. The “safety perspective” hypothesis states that people with agoraphobia act in ways they believe will increase or maintain their level of safety. In 1991, the use of safety behaviors was observed in people with panic disorders. Later studies observed the use of safety behaviors in people with other disorders such as social phobia, obsessive compulsive disorder, and posttraumatic stress disorder.
+
+Theories about effects
+Safety behaviors directly amplify fear and anxiety.
+The use of safety behaviors promotes the monitoring of anxiety symptoms. For example, people with panic disorders tend to monitor themselves for symptoms of anxiety and respond to these symptoms with avoidant behaviors. This over analysis of physical sensations results in detection of symptoms that may not lead to panic attacks but are perceived as panic-inducing symptoms.
+People with social phobia withdraw themselves from social situations by quietly speaking, reducing body movement, and preventing eye contact with other people. These behaviors are meant to reduce the chances of receiving criticism from other people. Instead, safety behaviors result in more criticism because people with social phobia are seen as aloof and unwelcoming people.
+
+Safety behaviors reduce anxiety in feared situations but retain anxiety in the long term.
+When a person uses safety behaviors to reduce anxiety and fear in a threatening situation, the anxiety and fear may subside. The user will then believe that the safety behaviors caused the emotional decrease and continue to use safety behaviors in future situations. However, the decrease in anxiety and fear may be due to other factors such as time.
+The decrease in anxiety and fear may also be due to the situation itself. Situations that seem severely threatening, such as giving a presentation, are not actually very harmful. By avoiding the situation through the use of safety behaviors, the user is unable to realize that the situation is harmless, allowing the cycle of anxiety and behavior to continue.
+
+Classification
+Safety behaviors can be grouped into two major categories: preventive and restorative safety behaviors.
+
+Preventative
+These behaviors are also known as "emotional avoidance behaviors". These behaviors are aimed to reduce fear or anxiety in future situations. 
+Examples include:
+Completely avoiding situations in which the threat might occur
+Relying on safety signals such as inviting companions to social events for support
+Subtle avoidance behaviors such as avoiding physical contact
+Compulsive behaviors such as checking doors before leaving
+Preparations for potentially encountering these situations
+
+Restorative
+These behaviors are aimed to reduce fear or anxiety in a currently threatening situation. 
+Examples include:
+Escaping the situation
+Using safety signals such as looking at cell phones to reduce social anxiety
+Subtle avoidance behaviors such as breathing techniques
+Compulsive behaviors such as repeatedly washing hands
+Seeking reassurance from loved ones or professionals to ensure that the fears are unwarranted
+Distracting attention from the threat or focusing attention on reducing the threat
+Neutralizing the threat by praying or counting
+Suppressing anxiety-provoking thoughts
+
+Associated conditions
+
+Agoraphobia
+
+People may increase their risk for agoraphobia when they use safety behaviors to avoid potentially dangerous environments even though the danger may not be as severe as perceived. A common safety behavior is when a person with agoraphobia attempts to entirely avoid a crowded place such as a mall or a public bus. If the affected person does end up in a crowded area, then the person may tense his or her legs to prevent collapsing in the area. The affected person may also attempt to escape these crowded situations. People with agoraphobia then attribute the lack of feared symptoms to the safety behaviors instead of to the lack of danger itself. This incorrect attribution may lead to persisting fears and symptoms.
+
+Generalized anxiety disorder
+
+People with generalized anxiety disorder (GAD) view the world as a highly threatening environment. These people continuously search for safety and use safety behaviors. A common safety behavior used by GAD sufferers is seeking reassurance from a loved one to reduce the excessive worry. The affected person may also attempt to avoid all possible risks of danger and protect others from that danger. However, these behaviors are unlikely to significantly reduce anxiety because the affected person often has multiple fears that are not clearly defined.
+
+Insomnia
+
+People with insomnia tend to excessively worry about getting enough sleep and the consequences of not getting enough sleep. These people use safety behaviors in an attempt to reduce their excessive anxiety. However, the use of safety behaviors serves to increase anxiety and reduce the chances that the affected person will disconfirm these anxiety-provoking thoughts. A common safety behavior used by affected people is  attempting to control the anxiety-provoking thoughts by distracting themselves with other thoughts. The affected person may also cancel appointments and decide not to work because the person believes that he or she will not function properly. The affected person may take naps to compensate for the lack of sleep.
+
+Obsessive-compulsive disorder
+
+People with obsessive-compulsive disorder (OCD) use safety behaviors to reduce their anxiety when obsessions arise. Common safety behaviors include washing hands more times than needed and avoiding potential contaminants by not shaking hands. However, when people with OCD use safety behaviors to reduce the chance of contamination, their awareness of potential contamination increases. This heightened awareness then leads to an increased fear of being contaminated.
+
+Checking rituals, such as checking several times to determine if all of the doors to a house are locked, are also common safety behaviors. People with OCD often believe that if they do not perform their checking rituals, others will be in danger. Consequentially, people with OCD often perceive themselves as more responsible for the wellbeing of others than people without the disorder. Therefore, people with OCD use safety behaviors when they believe that other people will be in danger if these behaviors are not used. Continuous checking reduces the certainty and vividness of memories related to checking. Exposure and response prevention therapy is effective in treating OCD.
+
+Posttraumatic stress disorder
+
+People with posttraumatic stress disorder (PTSD) believe that their general safety has been compromised after a trauma has occurred. These people use safety behaviors to restore their general sense of safety and to prevent the trauma from happening again. A common safety behavior used by affected people is staying awake for long periods of time to make sure that potential intruders do not attempt to break into their homes. The person may also attempt to avoid potential reminders of the trauma such as moving away from the place where the trauma occurred. These behaviors may lead to persistent fears because the behaviors prevent the affected person from disconfirming the threatening beliefs.
+
+Schizophrenia
+
+People with schizophrenia may have persecutory delusions. These people use safety behaviors to prevent the potential threats that arise from their persecutory delusions. Common safety behaviors include avoiding locations where perceived persecutors can be found and physically escaping from the perceived persecutors. These behaviors may increase the amount of persecutory delusions the person experiences because the safety behaviors prevent the affected person from disconfirming the threatening beliefs.
+
+Social anxiety
+
+Generally, people use social behaviors to either seek approval or avoid disapproval from others. People without social anxiety tend to use behaviors that are designed to gain approval from others, while people with social anxiety prefer to use behaviors that help to avoid disapproval from others.
+
+Safety behaviors seem to reduce the chances of obtaining criticism by drawing less attention to the affected person. Common safety behaviors include avoiding eye contact with other people, focusing on saying the proper words, and other self-controlling behaviors.
+
+Exposure therapy alone is mildly effective in treating social anxiety. There are larger decreases in anxiety and fear when people are also told to stop themselves from using safety behaviors during therapy than when people are encouraged to use safety behaviors. These decreases are largest when people are told to stop using safety behaviors and disconfirm the thoughts that the threatening situation will most likely not happen even if the safety behaviors are stopped. This combination of techniques is used in exposure and response prevention therapy for social anxiety.
+
+Assessment measures
+Several assessments have been developed to measure the amount of safety behaviors used by people with specific psychological conditions. Two examples of assessments developed to measure safety behaviors performed by people with social anxiety are the Social Behavior Questionnaire and the Subtle Avoidance Frequency Examination. An assessment developed to measure safety behaviors performed by people with panic disorder is the Texas Safety Maneuver Scale.
+
+Social Behavior Questionnaire
+The Social Behavior Questionnaire (SBQ) is an assessment of safety behaviors in social anxiety that was developed in 1994. The frequency at which a behavior is performed is rated from “never” to “always.” Examples of safety behaviors recorded in this assessment include “avoiding asking questions” and “controlling shaking.” The SBQ has been shown to distinguish between people with strong from people with weak fears of being negatively evaluated by others.
+
+Subtle Avoidance Frequency Examination
+The Subtle Avoidance Frequency Examination (SAFE) is an assessment of safety behaviors in social anxiety that was developed in 2009. The frequency at which a behavior is performed and the total number of safety behaviors utilized is rated from “never” to “always.” Examples of safety behaviors recorded in this assessment include “speaking softly” and “avoiding eye contact.” This measure has been shown to distinguish between people with clinical levels of social anxiety and those without.  This assessment has also been shown to support other measures of social anxiety such as the Social Phobia Scale.
+
+Texas Safety Maneuver Scale
+The Texas Safety Maneuver Scale (TSMS) is an assessment of safety behaviors in panic disorder that was developed in 1998. The frequency at which each behavior is performed is measured on a five-point scale from “never” to “always.” Examples of safety behaviors recorded in this assessment include “checking pulse” and “avoiding stressful encounters.” This assessment has also been shown to correlate with agoraphobia measures such as the Fear Questionnaire.
+
+Objections to treatment
+Some researchers have claimed that safety behaviors can be helpful in therapy but only when the behaviors are used during the early stages of treatment. For example, exposure therapy will appear less threatening if patients are able to use safety behaviors during the treatment. Patients will also feel more in control in the threatening situations if they are able to use their safety behaviors to reduce anxiety. The studies testing this claim have shown mixed results.
+
+See also
+ Denial
+ Dissociation
+ Escapism
+ Risk compensation, adjusting behavior depending on perceived level of safety (or risk)
+ Security blanket
+ Self-medication
+ Sensitization
+ Stress management
+
+References
+
+Anxiety disorders
+Human behavior
+Psychological adjustment

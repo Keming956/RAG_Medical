@@ -1,0 +1,50 @@
+The Eating Disorder Inventory (EDI) is a self-report questionnaire used to assess the presence of eating disorders, (a) anorexia nervosa both restricting and binge-eating/purging type; (b) bulimia nervosa; and (c) eating disorder not otherwise specified including binge eating disorder. The original questionnaire consisted of 64 questions, divided into eight subscales. It was created in 1984 by David M. Garner and others. There have been two subsequent revisions by Garner: the Eating Disorder Inventory-2 (EDI-2) and the Eating Disorder Inventory-3 (EDI-3).
+
+Diagnostic use
+
+The Eating Disorder Inventory is a diagnostic tool designed for use in a clinical setting to assess the presence of an eating disorder. It is generally used in conjunction with other psychological tests such as the Beck Depression Inventory. Depression has been shown to yield higher scores on the EDI-3.
+
+Eating Disorder Inventory
+The Eating Disorder Inventory (EDI) comprises 64 questions, divided into eight subscales.  Each question is on a 6-point scale (ranging from "always" to "never"), rated 0-3.  The score for each sub-scale is then summed. 
+The 8 subscale scores on the EDI are:
+ Drive for thinness: an excessive concern with dieting, preoccupation with weight, and fear of weight gain
+ Bulimia: episodes of binge eating and purging
+ Body dissatisfaction: not being satisfied with one's physical appearance
+ Ineffectiveness: assesses feelings of inadequacy, insecurity, worthlessness and having no control over their lives
+ Perfectionism: the refusal to accept anything short of perfection
+ Interpersonal distrust: reluctance to form close relationships
+ Interoceptive awareness: "measures the ability of an individual to discriminate between sensations and feelings, and between the sensations of hunger and satiety"
+Maturity fears: The fear of facing the demands of adult life
+
+Eating Disorder Inventory-2
+
+The first revision of the EDI was in 1991. The 1991 version, Eating Disorder Inventory-2 (EDI-2) is used for both males and females over age 12. The EDI-2 retains the original format of the EDI with the inclusion of 27 new items divided into three additional subscales:
+ Asceticism: reflects the avoidance of sexual relationships
+ Impulse regulation: shows the ability to regulate impulsive behavior, especially the binge behaviour
+ Social insecurity: estimates social fears and insecurity
+
+Eating Disorder Inventory-3
+
+The latest revision to the Eating Disorder Inventory was released in 2004. It contains the original items of the first version as well as EDI-2, and was also enhanced to reflect more modern theories related to the diagnosis of eating disorders. It was designed for use with females ages 13–53 years, and can be administered in 20 minutes. It contains 91 items divided into twelve subscales rated on a 0-4 point scoring system. Three items on the EDI-3 are specific to eating disorders, and 9 are general psychological scales that are relevant to eating disorders. The inventory yields six composite scores: eating disorder risk, ineffectiveness, interpersonal problems, affective problems, overcontrol, and general psychological maladjustment.
+
+Eating Disorder Symptom Checklist
+
+The Eating Disorder Symptom Checklist is a separate self-report form used to measure the frequency of symptoms (i.e., binge eating; the use of laxatives, diet pills; exercise patterns). The information provided by the checklist aids in determining whether patients meets the diagnostic criteria as set forth in the Diagnostic and Statistical Manual of Mental Disorders IV-TR for an eating disorder.
+
+Eating Disorder Referral Form
+
+The Eating Disorder Referral Form is an abbreviated form of the EDI-3 for use in non-clinical settings such as the allied health professions. It contains 25 questions from the EDI-3 that are specific to eating disorder risk. It also includes questions specific to the behavioral patterns of someone with or at risk of developing an eating disorder. The referral form utilizes indexes based on body mass index in identifying at risk patients.
+
+See also
+ SCOFF questionnaire
+ Body Attitudes Test
+ Bulimia Test-Revised
+ Eating Attitudes Test
+ Body Attitudes Questionnaire
+ Eating Disorder Examination Interview
+ Diagnostic classification and rating scales used in psychiatry
+
+References
+
+Personality tests
+Psychiatric instruments: eating disorders

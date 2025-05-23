@@ -1,0 +1,39 @@
+Dopamine supersensitivity psychosis is a hypothesis that attempts to explain the phenomenon in which psychosis (e.g. having hallucinations, which can mean hearing or seeing things that other people do not see or hear) occurs despite treatment with escalating doses of antipsychotics. Dopamine supersensitivity may be caused by the dopamine receptor D2 antagonizing effect of antipsychotics, causing a compensatory increase in D2 receptors within the brain that sensitizes neurons to endogenous release of the neurotransmitter dopamine. Because psychosis is thought to be mediated—at least in part—by the activity of dopamine at D2 receptors, the activity of dopamine in the presence of supersensitivity may paradoxically give rise to worsening psychotic symptoms despite antipsychotic treatment at a given dose. This phenomenon may co-occur with tardive dyskinesia, a rare movement disorder that may also be due to dopamine supersensitivity.
+
+Mechanism 
+Dopamine supersensitivity psychosis may occur due to upregulation of dopamine 2 receptors (D2). The D2 receptor is the primary target of almost all antipsychotics, which oppose the action of the neurotransmitter dopamine at this receptor. The antagonizing or "blockade" of D2 by antipsychotics may cause neurons, a type of cell within the brain, to undergo compensatory changes to make up for the loss of activity at D2 receptors. The D2 signaling pathway within neurons is complex, and involves multiple enzymes and other secondary messengers. It may be the case that, in response to antipsychotics, neurons increase the production of D2 receptors (upregulation), thereby sensitizing the neuron to dopamine. However, this is likely an oversimplification, as—despite differences in sensitivity to dopamine of around 3-fold in people that have taken antipsychotics chronically, there is a disproportionately low increase in the amount of D2 receptors in the brain in these people (around 1.4-fold in the striatum of the brain in people with schizophrenia). Other hypotheses include increases in the "active" D2 receptors (termed D2High) relative to the "inactive" conformation (D2Low). 
+
+The end result is dopamine supersensitivity. It is thought that the psychotic symptoms within schizophrenia are primarily due to overactive dopamine activity in the mesolimbic area of the brain. Therefore, dopamine supersensitivity may reduce the effect of antipsychotics and increase the brain's response to endogenous dopamine, leading to worsening psychosis.
+
+Tardive dyskinesia, a type of rare movement disorder that can be caused by antipsychotics, may also be caused by dopamine receptor sensitization. This may explain why, for people with tardive dyskinesia, increasing the dose of the antipsychotic may temporarily improve symptoms.
+
+Diagnosis 
+The original criteria for dopamine supersensitivity psychosis were the following:
+A. Continuous use of antipsychotics for at least 3 months.
+B. One of the following:
+1. Rebound psychosis within 6 weeks of a change (e.g. dose reduction, or antipsychotic switching) in an oral antipsychotic regimen or 3 months for long-acting injectable antipsychotics
+2. Tolerance to antipsychotic effects (requiring escalating doses, even beyond what has controlled symptoms in the past)
+3. Presence of tardive dyskinesia (which should occur when antipsychotics are withdrawn, and improve or disappear when antipsychotics are restarted)
+
+Differential diagnosis 
+It may sometimes be impossible to distinguish dopamine supersensitivity psychosis from psychosis that occurs "naturally" in the course of a primary psychotic disorder like schizophrenia, including cases in which the person was not taking their antipsychotic medication. Even in the presence of an alternative etiology, or when it is impossible to determine the precise etiology for a psychotic episode, it is possible that dopamine supersensitivity psychosis can play a role in the presentation. Recognizing the possible role of dopamine supersensitivity psychosis in a psychotic episode has implications for how to best manage someone's antipsychotic therapy.
+
+History 
+When supersensitivity psychosis was explored in 1978, a featured concern was increasing resistance to medication, requiring higher doses or not responding to higher doses. Some articles use the term tardive psychosis to reference to this specific concept. However, articles have disputed its validity. The condition has been discovered in very few people. Palmstierna asserts that tardive psychosis is a combination of "several different and not necessarily correlated phenomena related to neuroleptic treatment of schizophrenia."
+
+Society and culture 
+Dopamine supersensitivity is often dismissed as an inconsequential factor in the progression of psychotic disorders by psychiatrists in the medical literature. The dopamine supersensitivity hypothesis was discussed by investigative journalist and author Robert Whitaker in his book Anatomy of an Epidemic, published in 2010.
+
+Research 
+, much of the evidence for dopamine supersensitivity psychosis comes from studies performed in animals. There is still a need for robust, human research.
+
+In a cohort study of people taking chronic antipsychotic therapy with either schizophrenia or schizoaffective disorder that presented for psychiatric care due to a relapse of their psychotic symptoms without a clear precipitating cause (e.g. new or worsening substance abuse, evidence of nonadherence to antipsychotics), 39% of the sample met the authors' checklist for dopamine supersensitivity psychosis. The people that met the criteria were more likely than others to have worse symptoms when their psychosis returned (relapsed), have residual psychotic symptoms, had overall worse health outcomes at 6 month follow-up, and were more likely to live in residential care.
+
+Further reading
+
+Notes
+
+References
+
+Psychosis
+Psychopathological syndromes

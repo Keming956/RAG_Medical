@@ -1,0 +1,5 @@
+Locus suicide recombination (LSR) constitutes a variant form of class switch recombination that eliminates all immunoglobulin heavy chain constant genes. It thus terminates immunoglobulin and B-cell receptor (BCR) expression in B-lymphocytes and results in B-cell death since survival of such cells requires BCR expression. This process is initiated by the enzyme activation-induced deaminase upon B-cell activation. LSR is thus one of the pathways that can result into activation-induced cell death in the B-cell lineage.
+
+References 
+
+Biological concepts

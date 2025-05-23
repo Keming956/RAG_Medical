@@ -1,0 +1,88 @@
+Trizyklische Antidepressiva (TZA), auch nichtselektive Monoamin-Rückaufnahme-Inhibitoren (NSMRI) genannt, sind eine Gruppe von Psychopharmaka, die vor allem eine antidepressive Wirksamkeit besitzen. Sie zeichnen sich durch eine stimmungsaufhellende Wirkung aus und zählen zu den schon am längsten angewandten Substanzen in der Behandlung von Depressionen. Sie werden zudem in der (multimodalen) Schmerztherapie eingesetzt.
+
+Der Begriff trizyklisch rührt von ihrem charakteristischen chemischen Strukturfragment her, welches aus drei anellierten Ringen besteht. Tetrazyklische Antidepressiva weisen Parallelen in ihrer Molekülstruktur auf und enthalten ein Vierringsystem. Aufgrund gewisser Wirkungsähnlichkeiten werden die beiden Gruppen mitunter gemeinsam aufgeführt.
+
+Wirkmechanismus und Einteilung 
+
+Trizyklische Antidepressiva hemmen die Wiederaufnahme der Neurotransmitter Serotonin und Noradrenalin in die Nervenzellen (Synapsen) des Gehirns. Die so vermehrt zur Verfügung stehenden Botenstoffe sollen den für Depressionen typischen relativen Mangel an ihnen ausgleichen.
+
+Alle Wirkstoffe der trizyklischen Antidepressiva besitzen eine stimmungsaufhellende, antidepressive Wirkung, welche sich in der Regel erst nach 2–4 Wochen einstellt. Je nach dem individuellen Symptombild des Patienten werden Substanzen aus der folgenden Einteilung angewendet. Hier ist zu beachten, dass das charakteristische Wirkmuster der psychomotorischen Dämpfung oder Aktivierung meist schon zu Beginn der Behandlung einsetzt.
+
+ Amitriptylin-Typ (z. B. Amitriptylin, Doxepin, Trimipramin): Er wirkt psychomotorisch dämpfend. Insbesondere die Substanzen mit dämpfendem Wirkprofil besitzen eine schlafanstoßende und anxiolytische Wirkung, welche an die Effektivität der Benzodiazepine heranreicht, ohne jedoch auch bei längerer Daueranwendung suchtauslösend zu sein. Sie werden überwiegend bei Formen der Depression mit Unruhe und Angst im Schwerpunkt eingesetzt, zudem bei Schlafstörungen, isolierten Angststörungen und der Suchtmittelentwöhnung.
+ Imipramin-Typ (z. B. Imipramin, Clomipramin): Sie hemmen vorwiegend die 5-HT-Wiederaufnahme und zeigen dadurch eine deutlich anxiolytische Wirkung, steigern jedoch weniger ausgeprägt den Antrieb als trizyklische Antidepressiva vom Desipramin-Typ; Imipramin-Derivate wirken antriebsneutral oder nur leicht antriebssteigernd.
+
+ Desipramin-Typ (z. B. Desipramin, Nortriptylin): Sie wirken durch die bevorzugte Hemmung der Noradrenalinaufnahme psychomotorisch aktivierend und können gerade zu Beginn der Behandlung selbst zu Angstgefühlen und Unruhe führen, wirken aber längerfristig meist angstlösend und durch Verbesserung der Aktivität positiv auf das Schlafverhalten. Da die stimmungsaufhellende, depressionslösende Wirkung meist erst nach einigen Wochen eintritt, ist bei suizidgefährdeten Patienten besondere Vorsicht geboten, da die unmittelbare Antriebssteigerung die Gefahr für Suizidhandlungen erhöhen kann. Hier ist unter Umständen die überbrückende parallele Anwendung eines zusätzlichen Medikamentes angebracht. Verwendung finden diese Wirkstoffe vorwiegend bei Depressionen mit gehemmtem Antrieb und Apathie.
+
+Einzelne Wirkstoffe 
+
+ Amineptin
+ Amitriptylin
+ Amoxapin
+ Butriptylin
+ Cianopramin
+ Clomipramin
+ Desipramin
+ Dibenzepin
+ Dosulepin
+ Doxepin
+ Imipramin
+ Iprindol
+ Lofepramin
+ Maprotilin
+ Melitracen
+ Nortriptylin
+ Opipramol
+ Protriptylin
+ Tianeptin
+ Trimipramin
+
+Anwendung 
+Heutzutage sind trizyklische Antidepressiva nicht mehr Mittel der ersten Wahl zur Depressions-Behandlung, da sie gegenüber moderneren Antidepressiva deutlich stärkere Nebenwirkungen aufweisen. Ihre Wirkung auf die Neurotransmitter-Systeme ist nur wenig selektiv. Sie werden allerdings bei starken Depressionen eingesetzt, wenn Antidepressiva mit ausgeprägt selektivem Wirkmechanismus (wie die SSRIs) keine Wirkung zeigen. Sedierende NSMRI wie Amitriptylin werden bei einem agitiert-ängstlichen depressiven Syndrom eingesetzt, während nichtsedierende NSMRI wie Nortriptylin bei einem gehemmt-apathischen depressiven Syndrom eingesetzt werden.
+
+Trizylische Antidepressiva werden zudem in der multimodalen Schmerztherapie eingesetzt.
+
+Nebenwirkungen 
+
+Es werden u. a. folgende Nebenwirkungen genannt:
+ Anticholinerge Nebenwirkungen wie Sedation, Mundtrockenheit, Obstipation, Akkommodationsstörungen, Mydriasis mit Gefahr eines Glaukomanfalls (bei Engwinkelglaukom), Miktionsstörungen bis zum Harnverhalt
+ Vermehrter Speichelfluss
+ Kopfschmerzen, Übelkeit, Erbrechen, Schwindel
+Sedation, Schläfrigkeit 
+ Beeinflussung des Blutdrucks, orthostatische Störungen (bevorzugt bei Noradrenalintransporter inhibierenden Antidepressiva wie Nortriptylin)
+ mögliche Verlängerung der QT-Zeit
+ Verlangsamung oder Beschleunigung des Herzschlags (Bradykardie oder Tachykardie)
+Senkung der Krampfschwelle bis hin zu epileptischen Krämpfen (bei prädisponierten Personen) 
+ Schlafstörungen
+ Sexuelle Störungen
+ Gewichtszunahme
+ Überdurchschnittliches Schwitzen bereits bei geringer Körperbelastung, evtl. ungewohnte Geruchsentwicklung des ausgetretenen Schweißes
+ Angstgefühle können auftreten bzw. besonders zu Behandlungsbeginn verstärkt werden
+ Verminderte Fähigkeit zur Teilnahme am Straßenverkehr, Bedienung von Maschinen oder Durchführung von gefährlichen Arbeiten
+
+Trizyklische Antidepressiva werden über das Cytochrom P450 2D6 (CYP2D6) verstoffwechselt. 7 Prozent der Bevölkerung haben einen Gen-Defekt in dem Gen, das für das CYP 2D6-Enzym codiert. Dieser Gen-Defekt kann dazu führen, dass diese Medikamente verlangsamt abgebaut werden, somit toxische Plasmaspiegel erreicht werden können und dadurch ausgeprägte Nebenwirkungen auftreten. Von Pharmakogenetikern wird ein Gen-Test empfohlen und es stellt sich die Frage, ob es in Zukunft noch ethisch vertretbar ist, Patienten mit trizyklischen Antidepressiva ohne einen entsprechenden Gentest im Vorfeld zu behandeln.
+
+Das TZA Clomipramin hat bei pränataler Verabreichung und bei Gabe während der Stillphase Verhaltensstörungen bei den Nachkommen der Muttertiere ausgelöst. Es ist noch unklar, ob dies auf den Menschen übertragen werden kann und ob es auch für andere TZA gilt.
+
+Einige trizyklische Antidepressiva führen bei der Fruchtfliege zu Erbgutschäden, eine Erhöhung des Brustkrebsrisikos wird diskutiert. Dazu zählen unter anderem Clomipramin, Desipramin, Doxepin, Imipramin und Trimipramin, nicht aber Amitriptylin. Verschiedene Übersichtsarbeiten konnten diese Hypothese nicht bestätigen.
+
+Wechselwirkungen 
+Trizyklische Antidepressiva sollten nicht mit anderen Antidepressiva, besonders MAO-Hemmern, eingenommen werden und stehen mit weiteren Stoffen wie z. B. Alkohol in Wechselwirkung. Einnahme von trizyklischen Antidepressiva kann (besonders wenn sie mit anderen Arzneimitteln kombiniert werden) zum bisweilen lebensgefährlichen Serotoninsyndrom führen. Dieses wird durch unkontrolliert hohe Serotoninspiegel hervorgerufen und zeichnet sich unter anderem durch Bluthochdruck, Fieber, Erröten, Schwindel, Verwirrung und Krämpfe aus.
+
+Trizyklische Antidepressiva verstärken die vasokonstriktorische Wirkung von Katecholaminen und anticholinerge Wirkungen anderer Pharmaka und schwächen die antihypertensive Wirkung von Clonidin ab.
+
+Gegenanzeigen 
+Kontraindikationen sind Glaukom (Grüner Star), Pylorusstenose, Benigne Prostatahyperplasie, Anfallsleiden und Thrombose.
+
+Chemische Strukturbetrachtung 
+
+Der Trizyklus besteht gewöhnlich aus zwei Phenylringen, die an einen zentralen siebengliedrigen Ring anelliert (angefügt) sind. Eine Reihe von Neuroleptika, wie die Phenothiazine, besitzen ein ähnliches trizyklisches Strukturfragment, dessen zentraler Ring demgegenüber um eine Methylengruppe (-CH2-) verengt ist (und substituiert -CH2- vs. -S-). Ein Unterschied besteht im Faltungsgrad: Die Phenylringe der Phenothiazine sind schwach gegeneinander gefaltet (~30°), während sie bei den trizyklischen Antidepressiva stärker gefaltet sind (~50°).
+
+Einzelnachweise
+
+Literatur 
+
+ Ernst Mutschler u. a.: Arzneimittelwirkungen. 8. Auflage. Wissenschaftliche Verlagsgesellschaft. Stuttgart 2001, ISBN 3-8047-1763-2.
+
+Weblinks 
+
+!

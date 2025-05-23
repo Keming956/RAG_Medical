@@ -1,0 +1,77 @@
+Treatment-resistant depression (TRD) is a term used in clinical psychiatry to describe a condition that affects people with major depressive disorder (MDD) who do not respond adequately to a course of appropriate antidepressant medication within a certain time. Typical definitions of TRD vary, and they do not include a resistance to psychological therapies. Inadequate response has traditionally been defined as no clinical response whatsoever (e.g. no improvement in depressive symptoms). However, many clinicians consider a response inadequate if the person does not achieve full remission of symptoms. People with treatment-resistant depression who do not adequately respond to antidepressant treatment are sometimes referred to as pseudoresistant. Some factors that contribute to inadequate treatment are: early discontinuation of treatment, insufficient dosage of medication, patient noncompliance, misdiagnosis, and concurrent psychiatric disorders. Cases of treatment-resistant depression may also be referred to by which medications people with TRD are resistant to (e.g.: SSRI-resistant). In TRD adding further treatments such as psychotherapy, lithium, or aripiprazole is weakly supported as of 2019.
+
+Risk factors
+
+Comorbid psychiatric disorders
+Comorbid psychiatric disorders commonly go undetected in the treatment of depression. If left untreated, the symptoms of these disorders can interfere with both evaluation and treatment. 
+Anxiety disorders are one of the most common disorder types associated with treatment-resistant depression. The two disorders commonly co-exist, and have some similar symptoms. Some studies have shown that patients with both MDD and panic disorder are the most likely to be nonresponsive to treatment. 
+Substance abuse may also be a predictor of treatment-resistant depression. It may cause depressed patients to be noncompliant in their treatment, and the effects of certain substances can worsen the effects of depression. 
+Other psychiatric disorders that may predict treatment-resistant depression include attention deficit hyperactivity disorder, personality disorders, obsessive compulsive disorder, and eating disorders.
+
+Comorbid medical disorders
+Some people who are diagnosed with treatment-resistant depression may have an underlying undiagnosed health condition that is causing or contributing to their depression. Endocrine disorders like hypothyroidism, Cushing's disease, and Addison's disease are among the most commonly identified as contributing to depression. Others include diabetes, coronary artery disease, cancer, HIV, and Parkinson's disease. 
+Another factor is that medications used to treat comorbid medical disorders may lessen the effectiveness of antidepressants or cause depression symptoms.
+
+Features of depression
+People with depression who also display psychotic symptoms such as delusions or hallucinations are more likely to be treatment resistant. Another depressive feature that has been associated with poor response to treatment is longer duration of depressive episodes. Finally, people with more severe depression and those who are suicidal are more likely to be nonresponsive to antidepressant treatment.
+
+Treatment
+
+There are three basic categories of drug treatment that can be used when a medication course is found to be ineffective. One option is to switch the patient to a different medication. Another option is to add a medication to the patient’s current treatment. This can include combination therapy: the combination of two different types of antidepressants, or augmentation therapy: the addition of a non-antidepressant medication that may increase the effectiveness of the antidepressant.
+
+Medication
+
+Antidepressants
+
+Dose increase
+Increasing the dosage of an antidepressant is a common strategy to treat depression that does not respond after adequate treatment duration. Practitioners who use this strategy will usually increase the dose until the person reports intolerable side effects, symptoms are eliminated, or the dose is increased to the limit of what is considered safe.
+
+Switching antidepressants
+Studies have shown a wide variability in the effectiveness of switching antidepressants, with anywhere from 25–70% of people responding to a different antidepressant. There is support for the effectiveness of switching people to a different SSRI; 50% of people that were non-responsive after taking one SSRI were responsive after taking a second type. Switching people with TRD to a different class of antidepressants may also be effective. People who are non-responsive after taking an SSRI may respond to moclobemide or tricyclic antidepressants, bupropion or an MAOI.
+
+However, the more antidepressants an individual had already tried, the less likely they were to benefit from a new antidepressant trial.
+
+Some off label antidepressants are low dose ketamine and highly serotonergic catecholamines (including very controlled use of MDMA in the treatment of PTSD and crippling depression/anxiety). For lethargic syndromes, dysthymia, or caffeine-resistant amotivation, a dopaminergic stimulant such as methlyphenidate, or even dextroamphetamine or methamphetamine can be helpful.
+
+Primarily dopaminergic or norepinephrine releasing stimulants, in low doses, have been used especially in the past, or in conjunction with a multidisciplinary therapy approach, although more targeted and "mild" agents, including modafinil and atomoxetine are considered first line for both childhood and adult lethargy and inattention disorders, due to their virtually nonexistent abuse potential (limited to one or two cases per 10 000), and higher selectivity, safety, and thus slightly broader therapeutic index. When depression is related or co-morbid to an inattention disorder, often ADHD, then both can be carefully managed with the same first line stimulant medication, typically both methylphenidate and lisdexamfetamine.
+
+Other medications
+Medications that have been shown to be effective in people with treatment-resistant depression include lithium, triiodothyronine, benzodiazepines, atypical antipsychotics, and stimulants. Adding lithium may be effective for people taking some types of antidepressants; it does not appear to be effective in patients taking SSRIs. Triiodothyroxine (T3) is a type of thyroid hormone and has been associated with improvement in mood and depression symptoms. Benzodiazepines may improve treatment-resistant depression by decreasing the adverse side effects caused by some antidepressants and therefore increasing patient compliance. Since the entry of olanzapine into psychopharmacology, many psychiatrists have been adding low dose olanzapine to antidepressants and other atypical antipsychotics such as aripiprazole and quetiapine. Eli Lilly, the company that sells both olanzapine and fluoxetine individually, has also released a combination formulation which contains olanzapine and fluoxetine in a single capsule.  Some low to moderate quality evidence points to success in the short term (8–12 weeks) using mianserin (or antipsychotics cariprazine, olanzapine, quetiapine or ziprasidone) to augment antidepressant medications.
+
+These have shown promise in treating refractory depression but come with serious side effects. Stimulants such as amphetamines and methylphenidate have also been tested with positive results but have potential for abuse. However, stimulants have been shown to be effective for the unyielding depressed combined lacking addictive personality traits or heart problems.
+
+Ketamine has been tested as a rapid-acting antidepressant for treatment-resistant depression in bipolar disorder, and major depressive disorder.
+
+Research
+A 2016 placebo randomized controlled trial evaluated the rapid antidepressant effects of the psychedelic ayahuasca in treatment-resistant depression with positive outcome.
+
+Physical psychiatric treatments
+
+Electroconvulsive therapy
+Electroconvulsive therapy is generally only considered as a treatment option in severe cases of treatment-resistant depression. It is used when medication has repeatedly failed to improve symptoms, and usually when the patient’s symptoms are so severe that they have been hospitalized. Electroconvulsive therapy has been found to reduce thoughts of suicide and relieve depressive symptoms. It is associated with an increase in glial cell line derived neurotrophic factor.
+
+rTMS
+rTMS (repetitive transcranial magnetic stimulation) is gradually becoming recognised as a valuable therapeutic option in treatment-resistant depression. A number of randomised placebo-controlled trials have compared real versus sham rTMS. These trials have consistently demonstrated the efficacy of this treatment against major depression. There have also been a number of meta-analyses of RCTs confirming the efficacy of rTMS in treatment-resistant major depression, as well as naturalistic studies showing its effectiveness in "real world" clinical settings.
+
+dTMS
+dTMS (deep transcranial magnetic stimulation) is a continuation of the same idea as rTMS, but with the hope that deeper stimulation of subcortical areas of the brain leads to increased effect. A 2015 systematic review and health technology assessment found lacking evidence in order to recommend the method over either ECT or rTMS because so few studies had been published.
+
+Psychotherapy
+There is sparse evidence on the effectiveness of psychotherapy in cases of treatment-resistant depression. However, a review of the literature suggests that it may be an effective treatment option. Psychotherapy may be effective in people with TRD because it can help relieve stress that may contribute to depressive symptoms.
+
+A Cochrane systematic review has shown that psychological therapies (including cognitive behavioural therapy, dialectal behavioural therapy, interpersonal therapy and intensive short-term dynamic psychotherapy) added to usual care (with antidepressants) can be beneficial for depressive symptoms and for response and remission rates over the short term (up to six months) for patients with TRD. Medium‐ (7–12 months) and long‐term (longer than 12 months) effects seem similarly beneficial. Psychological therapies added to usual care (antidepressants) seem as acceptable as usual care alone.
+
+Outcomes
+Treatment-resistant depression is associated with more instances of relapse than depression that is responsive to treatment. One study showed that as many as 80% of people with TRD who needed more than one course of treatment relapsed within a year. Treatment-resistant depression has also been associated with lower long-term quality of life.
+
+Another study saw just 8 of 124 patients in remission after two years of regular treatment with therapy and medicines.
+
+Epidemiology 
+Treatment-resistance is relatively common in people with MDD. Rates of total remission following antidepressant treatment are only 50.4%. In cases of depression treated by a primary care physician, 32% of people partially responded to treatment and 45% did not respond at all.
+
+References
+
+External links 
+
+Major depressive disorder
+Drug resistance

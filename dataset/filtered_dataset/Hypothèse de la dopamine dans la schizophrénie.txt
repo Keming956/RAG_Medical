@@ -1,0 +1,47 @@
+Lhypothèse de la dopamine dans la schizophrénie (ou hypothèse dopaminergique de la schizophrénie) est une théorie selon laquelle la schizophrénie serait la conséquence d'un dérèglement des quantités de dopamine dans le système nerveux ; il s'agit d'un dysfonctionnement du système dopaminergique du cerveau. La dopamine est un neurotransmetteur, par lequel les neurones communiquent.
+
+Selon cette hypothèse, il y aurait :
+ un excès de dopamine au niveau de la voie mésolimbique (responsable des symptômes positifs de la schizophrénie)
+ un déficit de dopamine au niveau de la voie mésocorticale (responsable des symptômes négatifs et cognitifs)
+
+D'où la difficulté de traiter la schizophrénie : il faudrait diminuer l'activité dopaminergique dans une voie et l'augmenter dans l'autre.
+
+C'est pour cette raison qu'on utilise les neuroleptiques atypiques.
+
+Historique 
+Carlsson et Lindqvist (1963) ont d'abord proposé  que le blocage du récepteur du cerveau appelé récepteur DA soit à l'origine des effets sur les individus classés comme étant en opposition à la psychose (antipsychotiques). 
+
+En 1966, Van Rossum a proposé l'hypothèse de la dopamine en corrélation avec la schizoprénie, affirmant que les illusions et les hallucinations dans les symptômes de la schizophrénie sont les indicatifs d'un système hyperactif de dopamine.
+
+L'imagerie par tomographie à émission de positons obtenue en utilisant de la fluorodopa permet une mesure indirecte de l'activité dopasynergénique pré-synaptique, en particulier de l'existence de F-DOPA (un précurseur de la dopamine) dans le cerveau. Cette méthode d’analyse a été utilisée en 1994 dans la première étude afin de comprendre un lien possible avec la schizophrénie, en utilisant cinq individus.
+
+Hypothèses de désordre de neurotransmetteur 
+L'hypothèse est l'exemple d'une explication physiopathologique de la cause de la schizophrénie, plus précisément un désordre des neurotransmetteurs dopaminiques (pour des hypothèses additionnelles chercher :  sérotoninergique, glutamatergique, et gamma-amino-butyrique acide (GABA)-ergique causes).
+
+Aspect physiologique 
+Le postulat d'une dysfonction de la transmission de la dopamine, de sa synthèse, de sa recapture et ainsi que l'activité intra-synaptique et les récepteurs cibles, semble être l'élément pertinent de la transimission.
+
+Expression en tant que symptômes de la schizophrénie 
+L'hypothèse précise: les neurones hyperactivés de dopamine (DA) mésolimbiques provoquent les symptômes positifs de la psychose et ont pour corollaire que les neurones DA mésocorticaux sous-actifs provoquent les symptômes négatifs, cognitifs et affectifs de la schizophrénie.
+
+Hypothèses connexes 
+Concernant la validité de l'hypothèse de la dopamine, Stephens et al.  (et développée par Schwartz et al. (2012)), a déterminé que la cause du trouble de la dopamine pourrait être attribuée à des modifications préjudiciables au niveau de la fonctionnalité des récepteurs NMDA, ces récepteurs étant médiés par le glutamate,  entraînant une perte de néoroplasticité et une modification correspondante de la communication de la dopamine dans le cerveau.  Cette hypothèse générale connue est appelée l'hypofonctionnement des récepteurs NMDA de la schizophrénie.
+
+Affecte sur le système dopamine 
+La substance C10H14N2  (nicotine du tabac) augmente également la sensibilité du système de récompense (médié par la libération de dopamine ) du cerveau à un stimulus gratifiant.
+
+La substance C17H21NO4  (cocaïne) inhibe les mécanismes de capture de l'arrivée de la dopamine dans le système limbique.
+
+Références
+
+Voir aussi
+
+Articles connexes 
+Neuromédiateurs de système de récompense
+psychose
+schizophrénie
+dopamine
+
+Psychiatrie biologique
+Schizophrénie
+Psychose

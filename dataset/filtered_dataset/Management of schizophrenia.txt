@@ -1,0 +1,72 @@
+The management of schizophrenia usually involves many aspects including psychological, pharmacological, social, educational, and employment-related interventions directed to recovery, and reducing the impact of schizophrenia on quality of life, social functioning, and longevity.
+
+Hospitalization
+Hospitalization may occur with severe episodes of schizophrenia. This can be voluntary or (if mental health legislation allows it) involuntary (called civil or involuntary commitment). Long-term inpatient stays are now less common due to deinstitutionalization, although still occur. Following (or in lieu of) a hospital admission, support services available can include drop-in centers, visits from members of a community mental health team or Assertive Community Treatment team, supported employment and patient-led support groups.
+Efforts to avoid repeated hospitalization include the obtaining of community treatment orders which, following judicial approval, coerce the affected individual to receive psychiatric treatment including long-acting injections of anti-psychotic medication. This legal mechanism has been shown to increase the affected patient's time out of the hospital.
+
+Medication
+
+The mainstay of treatment for schizophrenia is an antipsychotic medication. Most antipsychotics can take around 7 to 14 days to have their full effect. Medication may improve the positive symptoms of schizophrenia, and social and vocational functioning. However, antipsychotics fail to significantly improve the negative symptoms and cognitive dysfunction. There is evidence of clozapine, amisulpride, olanzapine, and risperidone being the most effective medications. However, a high proportion of studies of risperidone were undertaken by its manufacturer, Janssen-Cilag, and should be interpreted with this in mind. In those on antipsychotics, continued use decreases the risk of relapse. There is little evidence regarding consistent benefits from their use beyond two or three years.
+
+Treatment of schizophrenia changed dramatically in the mid-1950s with the development and introduction of the first antipsychotic chlorpromazine. Others such as haloperidol and trifluoperazine soon followed.
+
+It remains unclear whether the newer antipsychotics reduce the chances of developing neuroleptic malignant syndrome, a rare but serious and potentially fatal neurological disorder most often caused by an adverse reaction to antipsychotics (neuroleptics).
+
+Most people on antipsychotics get side effects. People on typical antipsychotics tend to have a higher rate of extrapyramidal side effects while some atypicals are associated with considerable weight gain, diabetes, and risk of metabolic syndrome; this is most pronounced with olanzapine, while risperidone and quetiapine are also associated with weight gain. Risperidone has a similar rate of extrapyramidal symptoms to haloperidol. The American Psychiatric Association generally recommends that atypicals be used as first line treatment in most patients, but further states that therapy should be individually optimized for each patient.
+
+The response of symptoms to medication is variable; treatment resistant schizophrenia is the failure to respond to two or more antipsychotic medications given in therapeutic doses for six weeks or more. Patients in this category may be prescribed clozapine, a medication that may be more effective at reducing symptoms of schizophrenia, but treatment may come with a higher risk of several potentially lethal side effects including agranulocytosis and myocarditis.  Clozapine is the only medication proven to be more effective for people who do not respond to other types of antipsychotics. It also appears to reduce suicide in people with schizophrenia. As clozapine suppresses the development of bone marrow, in turn reducing white blood cells which can lead to infection, blood tests are taken for the first six months on this medication. The risk of experiencing agranulocytosis due to clozapine treatment is higher in elderly people, children, and adolescents. The effectiveness in the studies also needs to be interpreted with caution as the studies may have an increased risk of bias.
+
+Add-on agents 
+Sometimes the use of a second antipsychotic in combination with another is recommended where there has been a poor response. A review of this use found some evidence for an improvement in symptoms but not for relapse or hospitalisation. The use of combination antipsychotics is increasing in spite of limited supporting evidence, with some countries including Finland, France, and the UK recommending its use and others including Canada, Denmark, and Spain in opposition. Anti-inflammatories, anti-depressants, and mood stabilisers are other add-ons used. Other strategies used include ECT, or repetitive transcranial magnetic stimulation (rTMS) but evidence for these is lacking.
+
+Note: Only adjuncts for which at least one double-blind randomized placebo-controlled trial has provided support are listed in this table.
+
+Acronyms used:
+DB-RPCT — Double-blind randomized placebo-controlled trial.
+DB-RCT — Double-blind randomized controlled trial.
+
+Note: Global in the context of schizophrenia symptoms here refers to all four symptom clusters.
+ N refers to the total sample sizes (including placebo groups) of DB-RCTs.
+
+† No secondary sources could be found on the utility of the drug in question, treating the symptom in question (or any symptom in the case of where † has been placed next to the drug's name).
+
+Psychosocial
+Psychotherapy is also widely recommended, though not widely used in the treatment of schizophrenia, due to reimbursement problems or lack of training. As a result, treatment is often confined to psychiatric medication.
+
+Cognitive behavioral therapy (CBT) is used to target specific symptoms and improve related issues such as self-esteem and social functioning.  Although the results of early trials were inconclusive as the therapy advanced from its initial applications in the mid-1990s, meta-analytic reviews suggested CBT to be an effective treatment for the psychotic symptoms of schizophrenia. Nonetheless, more recent meta analyses have cast doubt upon the utility of CBT as a treatment for the symptoms of psychosis
+
+Another approach is cognitive remediation therapy, a technique aimed at remediating the neurocognitive deficits sometimes present in schizophrenia. Based on techniques of neuropsychological rehabilitation, early evidence has shown it to be cognitively effective, resulting in the improvement of previous deficits in psychomotor speed, verbal memory, nonverbal memory, and executive function, such improvements being related to measurable changes in brain activation as measured by fMRI.
+
+Metacognitive training (MCT): In view of many empirical findings  suggesting deficits of metacognition (thinking about one's thinking, reflecting upon one's cognitive process) in patients with schizophrenia, metacognitive training (MCT)  is increasingly adopted as a complementary treatment approach. MCT aims at sharpening the awareness of patients for a variety of cognitive biases (e.g. jumping to conclusions, attributional biases, over-confidence in errors), which are implicated in the formation and maintenance of schizophrenia positive symptoms (especially delusions), and to ultimately replace these biases with functional cognitive strategies. The training consists of 8 modules and can be obtained cost-free from the internet in 15 languages. Studies confirm the training's feasibility  and efficacy in ameliorating positive psychosis symptoms. Studies of single training module show that this intervention target specific cognitive biases. Recently, an individualized format has been developed which combines the metacognitive approach with methods derived from cognitive-behavioral therapy.
+
+Family Therapy or Education, which addresses the whole family system of an individual with a diagnosis of schizophrenia, may be beneficial, at least if the duration of intervention is longer-term. A 2010 Cochrane review concluded that many of the clinical trials that studied the effectiveness of family interventions were poorly designed, and may over estimate the effectiveness of the therapy. High-quality randomized controlled trials in this area are required. Aside from therapy, the impact of schizophrenia on families and the burden on careers has been recognized, with the increasing availability of self-help books on the subject. There is also some evidence for benefits from social skills training, although there have also been significant negative findings. Some studies have explored the possible benefits of music therapy and other creative therapies.
+
+The Soteria model is alternative to inpatient hospitalization using full non professional care and a minimal medication approach. Although evidence is limited, a review found the program equally as effective as treatment with medications but due to the limited evidence did not recommend it as a standard treatment. Training in the detection of subtle facial expressions has been used to improve facial emotional recognition.
+
+Avatar Therapy, developed by Professor Julian Leff, was developed to help patients deal with the impact of auditory hallucinations.  A 2020 Cochrane review however failed to find any consistent effects in the reviewed studies.
+
+Supplements
+Disruption of the gut microbiota has been linked to inflammation, and disorders of the central nervous system. This includes schizophrenia, and probiotic supplementation has been proposed to improve its symptoms. A review found no evidence to support this but it concludes that probiotics may be of benefit in regulating bowel movements and lessening the metabolic effects of antipsychotics.
+
+A review explains the need for an optimal level of vitamin D and omega-3 fatty acids for the proper synthesis and control of the neurotransmitter serotonin. Serotonin regulates executive function, sensory gating, and social behavior – all of which are commonly impaired in schizophrenia. The model proposed suggests that supplementation would help in preventing and treating these brain dysfunctions. Another review finds that omega-3 fatty acids and vitamin D are among the nutritional factors known to have a beneficial effect on mental health. A Cochrane review found evidence to suggest that the use of omega-3 fatty acids in the prodromal stage may prevent the transition to psychosis but the evidence was poor quality and further studies were called for.
+
+Traditional Chinese medicine
+Acupuncture is a procedure generally known to be safe and with few adverse effects. A Cochrane review found limited evidence for its possible antipsychotic effects in the treatment of schizophrenia and called for more studies. Another review found limited evidence for its use as an add-on therapy for the relief of symptoms but positive results were found for the treatment of sleep disorders that often accompany schizophrenia.
+
+Wendan decoction is a classic herbal treatment in traditional Chinese medicine used for symptoms of psychosis, and other conditions. Wendan decoction is safe, accessible, and inexpensive, and a Cochrane review was carried out for its possible effects on schizophrenia symptoms. Limited evidence was found for its positive antipsychotic effects in the short term, and it was associated with fewer adverse effects. Used as an add-on to an antipsychotic, wider positive effects were found. Larger studies of improved quality were called for.
+
+Other
+Various brain stimulation techniques have been used to treat the positive symptoms of schizophrenia, in particular auditory verbal hallucinations (AVHs), and investigations are ongoing. Most studies focus on transcranial direct-current stimulation (tDCM), and repetitive transcranial magnetic stimulation (rTMS). Transcranial magnetic stimulation is low-cost, noninvasive, and almost free of side-effects making it a good therapeutic choice with promising outcomes. Low-frequency TMS of the left temporoparietal cortex (the region containing Broca's area) can reduce auditory hallucinations. rTMS seems to be the most effective treatment for those with persistent AVHs, as an add-on therapy. AVHs are not resolved in up to 30 per cent of those on antipsychotics and a further percentage still experience only a partial response. Techniques based on focused ultrasound for deep brain stimulation could provide insight for the treatment of AVHs.
+
+An established brain stimulation treatment is electroconvulsive therapy. This is not considered a first-line treatment but may be prescribed in cases where other treatments have failed. It is more effective where symptoms of catatonia are present, and is recommended for use under NICE guidelines in the UK for catatonia if previously effective, though there is no recommendation for use for schizophrenia otherwise. Psychosurgery has now become a rare procedure and is not a recommended treatment for schizophrenia.
+
+A study in 2014 conducted by an Australian researcher indicated that the pericarp powder of Garcinia mangostana L. have the ability to reduce oxidative stress as an effective treatment for schizophrenia. This process includes increasing glutathione S-transferase levels which enhances mitochondrial activity over a period of 180 days under a sustained intake of 1000 mg/day.
+
+There may be some benefit in trying several treatment modalities at the same time, especially those that could be classed as lifestyle interventions. Nidotherapy is suggested to be a cost-effective social prescribing intervention using efforts to change the environment to improve functional ability.
+
+Peer support in which people with experiential knowledge of mental illness provide knowledge, experience, emotional, social or practical help to each other is considered an important aspect of coping with schizophrenia and other serious mental health conditions. A 2019 Cochrane reviews of evidence for peer-support interventions compared to supportive or psychosocial interventions were unable to support or refute the effectiveness of peer-support due to limited data.
+
+References 
+
+Schizophrenia
+Schizophrenia

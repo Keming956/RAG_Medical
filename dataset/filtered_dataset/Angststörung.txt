@@ -1,0 +1,352 @@
+Angststörung ist ein Sammelbegriff für mit Angst verbundene psychische Störungen, deren gemeinsames Merkmal exzessive, übertriebene Angstreaktionen beim Fehlen einer wirklichen äußeren Bedrohung sind.
+
+Unterschieden werden dabei grob zwei Formen:
+ Diffuse, unspezifische Ängste treten spontan und zufällig auf und haben keine Situation oder Objekte als Auslöser.
+ Phobien (von  „Flucht; Furcht, Schrecken“) sind dagegen auf konkrete Dinge ausgerichtet und an bestimmte auslösende Objekte, Situationen oder Räumlichkeiten gebunden (zum Beispiel Tiere, Menschen oder Platzmangel).
+
+Definition 
+Angst ist zunächst eine notwendige und normale Gemütserregung (Affekt), deren entwicklungsgeschichtlicher Ursprung in einer Schutzfunktion liegt (Kampf-oder-Flucht-Reaktion). Der Psychiater und Philosoph Karl Jaspers beschreibt die Angst als „ein häufiges und qualvolles Gefühl. Die Furcht ist auf etwas gerichtet, Angst ist gegenstandslos.“ 
+
+Die Abgrenzung einer unspezifischen Angststörung ist dagegen oft schwierig und wird von verschiedenen Autoren unterschiedlich definiert. Klarer und einfacher sind dagegen die Definition der Phobie sowie die Abgrenzung der Phobien untereinander. Unter Phobien versteht man überwertige spezifische Ängste vor bestimmten Gegenständen, Lebewesen oder Situationen. Die Psychoanalyse interpretiert die Phobie als die Abwehr (Verschiebung) eines inneren Konfliktes auf ein bestimmtes Objekt.
+
+Eine Störung des Angsterlebens kann nach den Erkenntnissen der Wagnis­forschung aber auch in einem zu geringen Maß an Angst bestehen, was zu unbeherrschbaren Risikohandlungen verführen kann. Im Gegensatz zu überdimensionierten Ängsten besteht hier jedoch in der Regel kein unmittelbarer Leidensdruck und damit keine Behandlungsmotivation.
+
+Volker Faust (1995) nennt folgende Kriterien für die Abgrenzung der „krankhaften Ängste“ (im Sinne einer Störung) von den vielfältigen „angemessenen Ängsten“:
+
+ die „Unangemessenheit“ der Angstreaktion gegenüber den Bedrohungsquellen (d. h. ohne wirkliche Bedrohung)
+ die Symptomausprägung (etwa hohe Angstintensität und langes Fortbestehen der Angst (Persistenz))
+ Unfähigkeit, die Angstzustände selbst zu kontrollieren oder auszuhalten
+ ein plötzliches Auftreten mit vor allem körperlichen Symptomen
+
+Klassifikation
+
+Einteilung der WHO 
+In Deutschland und den meisten europäischen Staaten wird zur Klassifikation und Diagnostik psychischer Störungen die Einteilung der Weltgesundheitsorganisation (WHO) benutzt (Kapitel V der ICD). Obwohl Angst einen „Affekt“ darstellt und das ICD-10 ein modernes Klassifikationssystem ist, werden die Angststörungen (also auch Panik­attacken und phobische Störungen) dort nicht zu den affektiven Störungen gezählt (Rubrik F3).
+
+Stattdessen sind sie im Unterkapitel F4 (Neurotische, Belastungs- und somatoforme Störungen) aufgeführt, wo zwischen der Agoraphobie, den sozialen Phobien und den spezifischen (isolierten) Phobien unterschieden wird. Bei der Agoraphobie wird weiterhin zwischen der Agoraphobie ohne Panikstörung und der Agoraphobie mit Panikstörung unterschieden. Die spezifischen Phobien können ebenfalls weiter in folgende Subtypen unterteilt werden:
+ Tier-Typ (z. B. Spinnen, Katzen),
+ Naturgewalten-Typ (z. B. Gewitter, Wasser),
+ Blut-Injektion/Verletzungs-Typ (z. B. Injektion durch Spritze),
+ situativer Typ (z. B. Flugzeug, Fahrstuhl),
+ andere nicht näher bezeichnete Typen.
+Im Laufe der Zeit und der Weiterentwicklung der diagnostischen Klassifikationssysteme sind einige zuerst zu den phobischen Störungen zählende Störungsbilder genauer oder an anderer Stelle eingeordnet worden. Die WHO zählt beispielsweise die (nicht wahnhafte) Dysmorphophobie und die Nosophobie nicht mehr zu den phobischen Störungen, sondern zu den hypochondrischen Störungen. Auch bezüglich der Agoraphobie gibt es einige Forschungsergebnisse, die eine andere Klassifikation fordern (siehe das US-amerikanische DSM-5). Gleichwohl steht bei diesen Krankheitsbildern die Angst symptomatisch im Vordergrund.
+
+Da sich prinzipiell spezifische Phobien gegen alle denkbaren Situationen oder Gegenstände entwickeln können, ist eine spezielle Bezeichnung jeder phobischen Störung auch innerhalb der spezifischen Phobien kaum sinnvoll. Andererseits ist es für die medizinische Behandlung wichtig, die genauen auslösenden phobischen Stimuli (z. B. Spinnen, Fahrstühle) zu dokumentieren, da die Verhaltenstherapie unter anderem mit der Konfrontation mit den angstauslösenden phobischen Stimuli arbeitet.
+
+Menschen mit Angststörungen empfinden selber oft gar nicht die Angst als das hervorstechende Symptom. Stattdessen werden häufig körperliche Symptome zuerst genannt, etwa Schwindel, Herzrasen, Zittern, verminderte Belastbarkeit oder auch Magen-Darm-Beschwerden.
+
+Die Unterteilung in der ICD-10 ist wie folgt:
+
+Phobische Störungen 
+Furcht: rationale Reaktion auf objektiv vorhandene Gefahr
+
+Phobie: irrationale und übertriebene Angst vor Objekten, Aktivitäten oder Situationen
+ Agoraphobie (ICD-10 F40.0): Furcht vor oder Vermeidung von Menschenmengen, öffentlichen Plätzen, Reisen allein oder Reisen von zu Hause weg. auch: Enochlophobie.
+ Soziale Phobie (ICD-10 F40.1): Furcht vor oder Vermeidung von sozialen Situationen, bei denen die Gefahr besteht, im Zentrum der Aufmerksamkeit zu stehen, Furcht, sich peinlich oder beschämend zu verhalten, zum Beispiel Paruresis.
+ Spezifische Phobie (ICD-10 F40.2). Diese können nach bestimmten Objekten oder Situationen unterschieden werden:
+ Tierphobien (Zoophobie): zum Beispiel Angst vor Spinnen (Arachnophobie), Insekten (Entomophobie), Bienen (Apiphobie), Hunden (Kynophobie), Schlangen (Ophidiophobie), Reptilien (Herpetophobie), Haien (Elasmophobie), Katzen (Ailurophobie), Maulwürfen und Mäusen (Zemmiphobie)
+ Situative Phobien: Flugangst, Höhenangst, Tunnel, Aufzüge, Dunkelheit
+ Natur-Phobien: zum Beispiel Donner, Wasser, Wald, Natur­gewalten
+ Anblick von Blut (Blutphobie), Spritzen-Angst (Trypanophobie), Verletzungen
+ Sonstige phobische Störungen (ICD-10 F40.8)
+ Phobische Störung, nicht näher bezeichnet (ICD-10 F40.9)
+
+Andere Angststörungen 
+ Panikstörungen (ICD-10 F41.0): Spontan auftretende Angstattacken, die nicht auf ein spezifisches Objekt oder eine spezifische Situation bezogen sind. Sie beginnen abrupt, erreichen innerhalb weniger Minuten einen Höhepunkt und dauern mindestens einige Minuten an.
+ Generalisierte Angststörung (ICD-10 F41.1): Eine diffuse Angst mit Anspannung, Besorgnis und Befürchtungen über alltägliche Ereignisse und Probleme über einen Zeitraum von mindestens sechs Monaten, begleitet von weiteren psychischen und körperlichen Symptomen.
+ Angst und depressive Störung, gemischt (ICD-10 F41.2): Angst und Depression sind gleichzeitig vorhanden, eher leicht ausgeprägt ohne Überwiegen der einen oder der anderen.
+ Andere gemischte Angststörungen (F41.3)
+ Sonstige spezifische Angststörungen (F41.8)
+ Angststörungen, nicht näher bezeichnet (F41.9)
+
+Zwangsstörungen  
+Zwangsstörungen äußern sich in Zwangsgedanken und/ oder Zwangshandlungen
+
+Zwangsgedanken: Ideen, Bilder, Impulse, die sehr bedrängend wirken ("ungewollter Übergriff auf das Bewusstsein")
+
+Zwangshandlungen: Wiederholte Handlungen, die bestimmten Regeln/Ritualen folgen, um ein Unbehagen in einer Situation abzuwenden
+
+ vorwiegend Zwangsgedanken oder Grübelzwang (F42.0)
+ vorwiegend Zwangshandlungen (Zwangsrituale) (F42.1)
+ Zwangsgedanken und -handlungen, gemischt (F42.2)
+ sonstige Zwangsstörungen (F42.8)
+ Zwangsstörungen, nicht näher bezeichnet (F42.9)
+
+Reaktion auf schwere Belastungen und Anpassungsstörungen 
+ akute Belastungsreaktion (F43.0)
+ Posttraumatische Belastungsstörung (F43.1)
+ Anpassungsstörung (F43.2)
+ sonstige Reaktion auf schwere Belastung (F43.8)
+ Reaktion auf schwere Belastung, nicht näher bezeichnet (F43.9)
+
+Diagnose 
+Im Mittelpunkt der Diagnostik steht das ärztliche oder psychotherapeutische Gespräch. Anhand der geschilderten Symptome kann der Psychiater oder psychologische Psychotherapeut eine erste Verdachtsdiagnose stellen.
+
+Um körperliche Beschwerden der Angst (wie zum Beispiel Atemnot und Herzrasen) von einer organischen Erkrankung unterscheiden zu können, muss zunächst eine ausführliche medizinische Untersuchung zum Ausschluss einer körperlichen Ursache erfolgen. Dazu sind meist auch laborchemische und technische Untersuchungen erforderlich (Blutuntersuchung, EKG und ähnliche). Erst nach Ausschluss einer körperlichen Erkrankung soll eine seelische Störung diagnostiziert und die Behandlung geplant werden.
+
+Folgende Kriterien sprechen für eine Angststörung:
+ Die Angst ist der Situation erkennbar nicht angemessen.
+ Die entsprechenden Angstreaktionen halten deutlich länger an, als von der Sachlage her nötig wäre.
+ Die besonders geartete Angst ist durch die Betroffenen weder erklärbar noch beeinflussbar noch zu bewältigen.
+ Die Ängste führen zu deutlichen Beeinträchtigungen des Lebens der Betroffenen.
+ Die Ängste schränken den Kontakt zu fremden Menschen ein.
+
+Allgemeine Symptome 
+ Herzklopfen und Pulsbeschleunigung,
+ Schwindel, Schweißausbruch,
+ Zittern oder Beben,
+ Mundtrockenheit, Hitzewallungen,
+ Sprachschwierigkeiten,
+ dazu Atembeschwerden, Beklemmungsgefühl oder Brustschmerzen,
+ Übelkeit, Erbrechen oder Durchfall,
+ auch Bewusstseinsstörungen, zum Beispiel das Gefühl, verrückt zu werden,
+ das Gefühl, dass Dinge unwirklich sind oder man selbst „nicht richtig da“ ist,
+ dass man nicht mehr die Kontrolle über die eigenen Gedanken hat,
+ Benommenheit, Angst zu sterben, allgemeines Vernichtungsgefühl.
+Jeder vierte Patient mit Angststörung klagt über chronische Schmerzen.
+
+Geeignete Fragebögen 
+„Symptomspezifische Skalen wie die Hamilton-Angstskala (HA-MA) werden heute nicht mehr zur Diagnostik herangezogen (denn dann würden sie ja mit ICD oder DSM in Konkurrenz treten), sondern nur noch zur Schweregradbestimmung.“ Laut S3-Leitlinie können globale Maße, wie die Clinical Global Impression (CGI) verwendet werden. Weiterhin werden folgende Fragebögen erwähnt:
+
+Begleiterkrankungen 
+Angststörungen weisen eine hohe Komorbidität auf – sowohl untereinander, als auch zu Depressionen, somatoformen Störungen und Substanzstörungen (intrapersonal gesteuerter Gebrauch von psychotropen Stoffen).
+Die Wahrscheinlichkeit, eine weitere Störung zu entwickeln, ist bei Panikstörungen und Agoraphobie am höchsten. Sekundäre Depressionen sind am häufigsten bei Panikstörungen, gefolgt von der Generalisierten Angststörung und der Agoraphobie. Substanzstörungen als Folge einer Angststörung werden als Versuch der Selbstmedikation betrachtet.
+
+Erscheinungsformen
+
+Spezifische Phobien 
+
+Bei spezifischen (isolierten) Phobien bildet sich die Angstsymptomatik in Bezug auf ein spezifisches Objekt, eine Situation oder einen Ort aus. Es besteht eine deutliche emotionale Belastung durch die Angstsymptome. Die angstauslösenden Objekte oder Situationen werden vermieden. Gleichzeitig besteht die Einsicht, dass die Ängste übertrieben oder unvernünftig sind. Beim Anblick des angstauslösenden Objekts oder der Situationen kommt es zu den oben beschriebenen Symptomen.
+
+Bei der Benennung wird der Wortteil „-phobie“ dem angstauslösenden Objekt angehängt: Alliumphobie (Knoblauchangst), Nosokomiophobie (Krankenhausangst), Hydrophobie (Wasserangst, Wasserscheu), Thanatophobie (Angst vor dem Tod) etc.
+
+Es gibt sehr viele mögliche Phobien, da sich phobische Reaktionen praktisch auf alles richten können. Einige bekanntere spezifische Phobien sind:
+ Angst vor Spinnen (Arachnophobie)
+ Angst vor Hunden (Kynophobie)
+ Ängste vor Blut (Blutphobie, Hämatophobie)
+ Ängste vor engen Räumen (Klaustrophobie)
+ Ängste vor großen Höhen (Akrophobie)
+ Angst vor dem Fliegen (Flugangst, Aviophobie)
+ Angst vor dem Urinieren auf öffentlichen Toiletten (Paruresis), siehe auch unten unter "Soziale Phobie"
+ Angst vor dem Zahnarzt (Dentalphobie)
+ Angst vor dunklen Räumen (Achluophobie)
+
+Agoraphobie 
+
+Der aus dem Griechischen stammende Begriff Agoraphobie bedeutet wörtlich „Angst vor dem Marktplatz“. Es handelt sich um eine Angst, das eigene Haus zu verlassen, Geschäfte zu betreten, sich in eine Menschenmenge, auf öffentliche Plätze zu begeben oder allein in Zügen, Bussen oder Flugzeugen zu reisen. Die Betroffenen suchen in solchen Situationen häufig panisch nach einem möglichen Fluchtweg.
+
+Die Agoraphobie wird oft mit der Klaustrophobie (Raumangst), der Angst vor dem Eingeschlossensein, verwechselt. Allgemein ist damit eine Angst vor öffentlichen Räumen, Menschenansammlungen oder Situationen gemeint, bei denen eine Flucht oder Hilfe schwierig scheint. Diese Art von Angst tritt besonders heftig auf, wenn sich der Betroffene allein an diesen Orten aufhält. Unter Agoraphobie leidende Personen vermeiden daher öffentliche Verkehrsmittel, lange Autofahrten auf Autobahnen oder abgelegenen Landstraßen, aber auch etwa einen Bummel durch die Innenstadt. Zum Teil sind Betroffene nur in Begleitung einer vertrauten Person in der Lage, die alltäglichen Anforderungen zu meistern. In schweren Fällen kommt es zu einer Isolation, wenn beispielsweise das Haus oder die Wohnung als schützende Räume nicht mehr verlassen werden oder verlassen werden können.
+
+Die Agoraphobie tritt häufig in Verbindung mit der sogenannten Panikstörung auf. Es wird daher vermutet, dass sich die Agoraphobie nicht durch Modell-Lernen und klassisches Konditionieren wie die spezifischen Phobien entwickelt, sondern infolge einer Panikstörung auftritt.
+
+Soziale Phobie 
+
+Bei der sozialen Phobie sind jene Situationen angstbesetzt, bei denen Betroffene im Zentrum der Aufmerksamkeit stehen und der prüfenden Betrachtung durch andere Menschen ausgesetzt sind. Es wird befürchtet, sich peinlich oder erniedrigend zu verhalten, was meist zu einer Vermeidung sozialer Situationen führt.
+
+Mögliche Symptome sind:
+ Ängste, sich in bestimmten sozialen Kontexten zu zeigen
+ Angst, in dieser Angst erkannt und öffentlich beschämt oder verurteilt zu werden
+ vor und in angstbesetzten Situationen körperliche Reaktionen (Herzrasen, Schwitzen, Übelkeit, Atemnot, Stimmversagen u. a.)
+ Vermeidungsverhalten, dadurch oft ausgeprägtere Defizite beim Reifungsprozess (des Heranwachsenden) und Defizite bei der Wahrnehmung sozialer Verantwortung
+ häufig in der Folge vermindertes Selbstbewusstsein, Versagensgefühle, Unterlegenheitsgefühle, Furcht vor Kritik
+ Erröten, Zittern der Hände, Vermeidung von Blickkontakt, Übelkeit, auch Harndrang
+
+Ein nahe verwandtes Bild mit fließendem Übergang zur sozialen Phobie ist die sogenannte Erythrophobie, die Furcht vor dem Erröten (in Gegenwart anderer). Weiterhin gibt es die Paruresis, die verhindert, dass Menschen – insbesondere Männer – in der Öffentlichkeit Wasser lassen können.
+
+Panikstörungen 
+
+Die Panikstörungen kennzeichnen sich dadurch, dass wiederholt schwere impulsive Angst- oder Panikzustände auftreten, die sich nicht auf spezifische Situationen beschränken und deshalb nicht vorhersehbar sind. Panikattacken gehen besonders häufig einher mit plötzlichem Herzklopfen, Herzrasen oder unregelmäßigem Herzschlag. Es können ebenfalls Brustschmerzen, Erstickungsgefühle, Zittern, Schwitzen, Schwindel und das Gefühl der Entfremdung auftreten. Die Betroffenen haben Todesangst, befürchten zum Beispiel einen Herzstillstand oder Herzinfarkt. Immer wieder treten auch Gefühle von Derealisation auf und die Angst, verrückt zu werden. Dazu kommen die übrigen beschriebenen Symptome.
+
+Diese Anfälle dauern in der Regel nur wenige Minuten, manchmal etwas länger. Da diese Situationen plötzlich und unberechenbar auftreten, entsteht schließlich eine Angst vor der Angst. Spezifisch für die Panikstörung ist es, dass die Betroffenen oft den Zusammenhang zwischen den körperlichen Symptomen und ihrer Angst nicht erkennen und die Symptome fehlinterpretieren.
+
+Generalisierte Angststörung 
+
+Unter die generalisierten Angststörungen werden anhaltende Symptome von Angst zusammengefasst, die sich ebenfalls nicht auf bestimmte Situationen beschränken. Dabei treten folgende Symptome auf: Nervosität, Zittern, Muskelspannung, Schwitzen, Benommenheit, Herzklopfen, Hyperventilation, Schluckbeschwerden, Schwindelgefühle, Oberbauchbeschwerden, Ruhelosigkeit, Konzentrationsstörungen, Reizbarkeit und Einschlafstörungen auf Grund der ständigen Besorgnis und Angst. Die Betroffenen kennen den Auslöser ihrer Angst oft nicht. Sie werden zum Beispiel von der Furcht gequält, dass sie oder ihre Angehörigen erkranken oder Unfälle erleiden könnten.
+
+Angst und depressive Störung 
+Zu den Symptomen der Angst kommen die der Depression. Man hat festgestellt, dass es durch die Angstsymptome, die häufig anfangs nicht als diese erkannt werden, auch noch zu Depressionen kommen kann. Man fühlt sich schlecht, weil anfangs kein Arzt helfen kann und keine körperlichen Ursachen gefunden werden. Es kann daher vorkommen, dass man sich irgendwelche schweren körperlichen Erkrankungen einredet (Tumor etc.) und somit noch mehr darunter leidet. Dies kann sich mit der Zeit bis zur Depression aufschaukeln.
+
+Auch die Feststellung, durch die Angst in der eigenen Leistungs- und Belastungsfähigkeit eingeschränkt zu sein, führt häufig dazu, dass sich die Betroffenen minderwertig oder schwach fühlen. Hinzu kommt die Scham über die sichtbaren Symptome oder darüber, nicht „voll zu funktionieren“.
+
+Häufigkeit 
+Spezifische (isolierte) Phobien sind nach neueren Studien in der Bevölkerung recht häufig. Dennoch sucht nur ein kleiner Teil der Betroffenen fachmännische Hilfe. Eine Bestimmung der Häufigkeit ist nicht einfach, da insbesondere die einfachen Phobien nicht immer das Alltagsleben beeinträchtigen. Die Lebenszeitprävalenz beträgt etwa 11 Prozent für die einfachen Phobien, etwa 13 Prozent für die soziale Phobie und ungefähr 5 Prozent für die Agoraphobie. Generell treten Angststörungen bei Frauen etwa doppelt so häufig wie bei Männern auf, besonders stark ist der Unterschied bei der Agoraphobie ausgeprägt.
+
+Im psychiatrischen Alltag sind Angsterkrankungen vergleichsweise häufig anzutreffen. Nach einer Studie der WHO von 1996 litten etwa 8,5 % der Patienten in deutschen Allgemeinarztpraxen an einer generalisierten Angststörung und 2,5 % an einer Panikstörung. Menschen mit Panikstörungen leiden in der Hälfte der Fälle zusätzlich an einer Agoraphobie. Fast 20 % der Patienten, die sich in den USA in einem allgemeinmedizinischen Krankenhaus vorstellten, litten an einer Angsterkrankung, 41 % davon unbehandelt.
+
+Ursachen 
+Wie bei den meisten psychischen Störungen gibt es auch für die Gruppe der Angststörungen bislang keine abschließenden Erkenntnisse zu deren Ursachen. Derzeit nimmt man eine Vielzahl verursachender oder auslösender Faktoren an, die erst im Zusammen- und Wechselwirken den tatsächlichen Ausbruch der Störung bewirken (siehe Vulnerabilitäts-Stress-Modell). Je nach psychiatrischer oder psychotherapeutischer Schule werden andere Ursachen erforscht. So tragen alle in der Fachwelt anerkannten theoretischen Ausrichtungen aus ihrem speziellen Blickwinkel zur Erforschung von Ursache und Entstehung (Entwicklung) dieser Störungen bei.
+
+Psychologische Modelle 
+Die Angstpsychologie unterscheidet seit Charles Spielberger (1966) zwischen
+ einer sogenannten „Trait-Angst“, die einen relativ stabilen, durchgängigen Charakterzug darstellt und
+ einer sogenannten „State-Angst“, die als vorübergehender Gefühlszustand je nach Situation und Umgebung auftritt.
+
+Persönlichkeitsmodelle der Psychologie, die dimensional konzipiert sind, stimmen im Wesentlichen in der Annahme überein, dass es eine Art genetischer Disposition zur „Ängstlichkeit“ gibt, die bei starker Ausprägung (Dimensionierung) eine Schwachstelle (vulnerabler Bereich) in der psychischen Konstitution darstellt, die zum Kristallisationspunkt einer Angststörung werden kann. „Strategisches Ziel der Selbsterziehung'“ muss es nach Siegbert Warwitz sein, „möglichst viele der zufällig auftauchenden Ängste in Furcht zu verwandeln, die sich besser beherrschen und therapieren lässt.“ Im Unterschied zu den diffusen Ängsten ist nämlich der Furcht einflößende Faktor definitionsgemäß fixierbar.
+
+Kognitive Schemata
+
+Es ist unbestritten, dass Menschen, die unter vermehrten Ängsten leiden, die Welt anders und teilweise verzerrt wahrnehmen. Auf Dauer gesehen wird aus dieser verzerrten Wahrnehmung dann eine falsche „Bewertung“ der äußeren Welt. Man spricht in der kognitiven Therapie von der Entwicklung und Einnistung sogenannter „maladaptiver kognitiver Schemata“, also einer Art verinnerlichter „Vorurteile“ oder zumindest „Fehlurteile“ über die Gefährlichkeit der Welt. In einem weiteren Schritt kommt es dann zu einem unangemessen starken „Vermeidungsverhalten“, um diesen vermeintlich drohenden Gefahren auszuweichen. Dieses „Vermeidungsverhalten“ wiederum führt zu einer mehr oder weniger starken, oft fortschreitenden Einengung des Aktionsradius und der Aktivitäten überhaupt, im weiteren Schritt oft zu Rückzug und Isolation. Der Betreffende bleibt in der Regel mehr oder weniger weit hinter seiner eigentlichen gesellschaftlichen Leistungsfähigkeit zurück. Der Erwerb einer verlässlichen sozialen Kompetenz wird dadurch erschwert oder verhindert.
+
+Entwicklungsmodelle
+
+Aus der Entwicklungspsychologie und aus der täglichen Erfahrung mit Kindern ist bekannt, dass es gewisse „typische“ und „altersgebundene“ Ängste gibt. Kapfhammer (2000) nennt das „Fremdeln“, die „Trennungsangst“, die „Schulangst“, „Tierängste“. Er weist darauf hin, dass Zusammenhänge bestehen zwischen
+ dem späteren Auftreten von Panikstörung oder Agoraphobie einerseits und frühkindlichen Trennungsängsten (Bolwby, 1976) bzw. Trennungsängsten und Schulphobie (Gittleman und Klein, 1984) andererseits
+ dem späteren Auftreten einer generalisierten Angststörung einerseits und frühen familiären Traumatisierungen „(Konflikte zwischen den Eltern, Konflikte mit den Eltern, sexuelle Traumatisierungen, mangelhafte Aufmerksamkeit, niedriges Prestige der Familie, stärkere körperliche Züchtigungen)“ (Angst und Vollrath, 1991) resp. Aufwachsen in einer Alkoholikerfamilie (Mathew u. a. 1993; Tweed u. a. 1989) andererseits
+ dem späteren Auftreten von Phobien einerseits und kindlicher Angst vor Beschämung bei hohen elterlichen Ansprüchen (Parker, 1979), sozialphobischem Vorbildverhalten der Mütter (Bruch u. a. 1989) oder übertriebener Besorgnis der Eltern vor Kritik durch Außenstehende (Bruch und Heimberg, 1994) andererseits.
+Lerntheoretische Modelle
+
+Der von Orval Hobart Mowrer entwickelte Ansatz geht davon aus, dass Ängste durch (klassische und operante) „Konditionierung“ entstehen im Sinne von pathologischen (= krankhaften, unangemessenen) Angstreaktionen auf ursprünglich neutrale Stimuli, die durch zeitliche und/oder räumliche Kontingenz zu einer realen angstauslösenden Situation im Rahmen von Lernerfahrungen zu einem konditionierten Angststimulus werden. Durch Vermeiden dieser Situation wird der Stimulus vermieden und damit auch die Angst reduziert. Das führt zu einer negativen Verstärkung des Vermeidungsverhaltens, d. h. der Betreffende „lernt“, dass das Vermeiden gut für ihn ist, indem es ihn vor aufkommenden Ängsten schützt.
+
+Wie bei den kognitiven Schemata auch (s. o.) handelt es sich um ein fehladaptiertes, d. h. nicht wirklichkeitsgerechtes Lernen, bei dem zwischen der eigentlichen Angstquelle und dem symbolischen Stimulus nicht mehr unterschieden werden kann. Aufgrund der anhaltenden Vermeidung bleibt eine korrigierende Lernerfahrung aus, sodass sich die pathologische Angstreaktion „etabliert“.
+
+Bei der Panikstörung spielt eine positive Rückkopplung „zwischen körperlichen Sensationen (z. B. wahrgenommene Veränderung der Herzrate) und kognitiven Bewertungsvorgängen als Gefahr (z. B. „drohender Herzinfarkt“) mit einer hieraus resultierenden eskalierenden Angstreaktion“ eine große Rolle.
+
+Eine wichtige Bedeutung insbesondere bei der Entstehung einer generalisierten Angststörung (Blazer, 1987), aber auch einer Panikstörung (Finlay-Jones u. Brown, 1981; Goldstein u. Chambless, 1978; Faravelli u. Pallanti, 1989) kommt schwerwiegenden, negativen (und traumatisierenden) Lebensereignissen zu (sogenannte life events).
+
+Psychoanalyse
+
+Sigmund Freud kannte das Phänomen Angst in zwei Zusammenhängen:
+ als Ausdruck bzw. als Folge eines innerpsychischen Konfliktes, etwa zwischen einem verbotenen triebhaften Impuls und einem strengen Gewissen. Angst resultiert hiernach durch die unvollständige Unterdrückung einer Wunschregung, z. B. eines sexuellen Verlangens und der Angst vor Bestrafung, sie ist Ergebnis eines Abwehrvorganges (Freud, 1895).
+ als Signalangst. In dieser Funktion signalisiert die Angst dem Ich das Vorhandensein einer inneren Bedrohung, z. B. durch ähnliche Konflikte wie oben genannt. Sie steht dann am Beginn einer Schutzmaßnahme durch das Ich und ist somit Initiator eines Abwehrvorganges (Freud, 1926).
+Nach psychoanalytischem Verständnis handelt es sich bei der Ausbildung einer Phobie in allererster Linie um eine aktive psychische Leistung, und zwar im Besonderen um das Ergebnis einer intrapsychischen Abwehr: angsterregende Bewusstseinsinhalte werden verdrängt, wobei an die Stelle der ursprünglichen Inhalte (es kann sich um Vorstellungen oder Gefühle handeln) belanglose äußere Situationen gesetzt werden. Die Angst wird also an einen anderen „harmlosen“ Ort verschoben, dem der „eigentliche (verbotene und deshalb angstbesetzte und verdrängte) Inhalt“ nicht mehr angesehen und zugeordnet werden kann. Die Verschiebung ist selbst für den Betreffenden selber nicht mehr bewusst, auch er staunt, wo die Angst herkommt.
+
+Es ist zu beachten, dass die Phobie mehr als einfache Verdrängung ist. Diese würde zu einer akzeptablen Lösung nicht ausreichen. Durch die Verdrängung des spezifischen Vorstellungsinhaltes erfährt nämlich die vorher gebundene und gerichtete Furcht eine Regression zu einer ungebundenen entdifferenzierten diffusen Angst, die wegen des zufälligen Auftretens äußerst schlecht zu ertragen ist. In einer zweiten Phase muss daher der Hauptabwehrmechanismus des phobischen Modus, nämlich die Verschiebung, zum Einsatz kommen, wodurch „künstlich“ die Bindung an einen neuen Inhalt erreicht wird. Greenson formulierte dies einmal so:
+„Eine Form der Angst wird als Abwehr gegen eine andere Angst benutzt.“
+
+Der Vorteil des Verschiebungsmechanismus liegt darin, dass aus der ursprünglichen inneren Gefahr eine äußere konstruiert wird: eine äußere Gefahr hat den „Vorteil“, dass sie leichter vermieden werden kann als eine innere.
+
+Wie bei allen neurotischen Lösungsversuchen handelt es sich auch bei der Phobie um einen Kompromiss, der darin besteht, dass auf der einen Seite die verbotenen Wünsche und Strebungen unbewusst bleiben können und nicht wirksam werden, auf eine verzerrte Weise, nämlich als phobische Reaktion, aber dennoch partiell ausgelebt werden können.
+
+Feldtheoretischer Ansatz
+
+Eine Zwischenstellung zu den bereits genannten Modellen stellen feldtheoretische Modelle im Sinne des Gestaltpsychologen Kurt Lewin dar. Dieser definierte Erleben und Verhalten als eine Funktion von Person und Umwelt. Dementsprechend nimmt dieser Ansatz beim Angstgeschehen drei unterschiedliche Perspektiven in den Blick: erstens den Patienten, zweitens das Angstobjekt und drittens die Beziehung zwischen Patient und Angstobjekt. Diesen drei Perspektiven entsprechen auch drei mögliche Ansatzpunkte für die therapeutische Behandlung, die situations- und patientenspezifisch gewählt werden können: Stärkung („Vergrößerung“) des Patienten, realistischere Einschätzung („Verkleinerung“) des Angstobjekts und Veränderung der Beziehung zwischen Patient und Angstobjekt („Ermutigung“), wobei auch das Einflussfeld anderer Personen eine vorübergehende Hilfsfunktion annehmen kann. Der Ansatz ergibt sich aus Anregungen Lewins in der Frühphase der Bindungstheorie und Bindungsforschung. Er enthält keine fallunabhängige Festlegung auf eine bestimmte Ätiologie des Angstgeschehens.
+
+Biologische Grundlagen 
+Genetik
+
+Bei einer Untergruppe der Angststörungen, der generalisierten Angststörung (GAD), zeigte eine Familienstudie eine Erblichkeit von etwa 30 %. In dieser Untergruppe fanden sich Hinweise auf eine Beteiligung von Gen-Abweichungen im Bereich der Serotonin-, Dopamin-, Noradrenalin- und Adrenalin-Neurotransmitter, zum Beispiel bei den Genen für 5-HTT, 5-HT1A und MAOA.
+
+Neuroanatomie
+
+Patienten mit generalisierter Angststörung zeigten abweichende Aktivität im präfrontalen Cortex und in der Amygdala, sowie verminderten Signalverkehr zwischen diesen Arealen. Gleichzeitig war das Volumen der beiden Regionen erhöht, aber die anatomischen Verbindungen zwischen ihnen vermindert.
+
+Bei sozialer Phobie zeigten Behandlungserfolge – unabhängig von der Art der Therapie – Veränderungen in Aktivität und Signalverkehr der Amygdala in Richtung Normalisierung.
+
+Neurochemie
+
+In der Neurochemie von Angststörungen sind hauptsächlich folgende Neurotransmitter-Systeme (chemische Botenstoff-Systeme) beteiligt.
+ Serotonin
+ Noradrenalin
+ Dopamin
+ GABA
+ verschiedene Neuropeptide
+ Glutamat
+
+Schilddrüsenfehlfunktion
+
+Es gibt Anzeichen dafür, dass sowohl eine Überfunktion (Ursache: meist Morbus Basedow oder Schilddrüsenautonomie) als auch eine Unterfunktion (Ursache: meist Hashimoto-Thyreoiditis) der Schilddrüse in seltenen Fällen mit Angststörungen verknüpft sein können.
+
+Kinder von Eltern mit Angststörungen 
+Kinder, deren Eltern an einer Angststörung leiden, haben ein erhöhtes Risiko (Vulnerabilität), ebenfalls an einer psychischen Störung zu erkranken. Psychische und biologische Faktoren spielen dabei eine Rolle. Die Wahrscheinlichkeit eine Angststörung zu entwickeln ist um mehr als 50 % erhöht. Ein signifikanter Zusammenhang konnte zwischen der Erkrankung der Eltern und der Entwicklung einer generalisierten Angststörung oder Phobien gefunden werden. Die Wahrscheinlichkeit an einer sozialen Angststörung oder Panikstörung zu erkranken war dagegen nicht erhöht. Auch das Risiko der Kinder, an einer Depression zu erkranken, ist um etwa ein Drittel erhöht.
+
+Ängstliche Eltern sind ihren Kindern gegenüber kritischer, zeigen weniger Wertschätzung, weniger Zuneigung, weniger Lächeln (Hirshfeld u. a., 1997). Je stärker die Mutter ihre eigenen Ängste offen äußert, desto größer sind die Ängste ihres Kindes (Murris, 1996). Die Annahme eines ursächlichen überbehütenden Erziehungsstils („overprotective parenting“, „Helikopter-Eltern“) als ursächlicher Faktor für Angsterkrankungen konnte nicht bestätigt werden.
+
+Behandlungsmöglichkeiten 
+Bei der Therapie von Angststörungen kommen verschiedene Behandlungsverfahren zum Einsatz; in erster Linie Psychotherapie (Verhaltenstherapie oder seltener tiefenpsychologische Verfahren) und Pharmakotherapie. Mit der aktuellen S3-Leitlinie zu Angststörungen liegt ein wissenschaftlich begründeter Konsens zur Behandlung vor.
+
+Angststörungen ergeben sich in der Regel aus einem Missverhältnis der äußeren Lagebeurteilung und der eigenen subjektiven Befindlichkeit. Daher wird nach dem Yerkes-Dodson-Gesetz der Angst bei der psychotherapeutischen Behandlung ein geregelter, mental wie emotional gesteuerter Umgang mit den überschießenden Ängsten angestrebt. Dabei geht es um eine angemessene Angstkontrolle, nicht aber um völlige Angstfreiheit, weil die subjektive Gefahrenwahrnehmung und das Warnsystem vor dem persönlich zuträglichen Wagnis erhalten bleiben muss.
+
+Verhaltenstherapie 
+
+Bei der Verhaltenstherapie der Phobien, Angst- und Panikstörungen geht es v. a. darum, sich den Ängsten und angstbesetzten Situationen gezielt auszusetzen, bis alle zuvor gemiedenen Situationen wieder beherrscht und in das normale Leben integriert werden können. Man bedient sich hierzu der Reizkonfrontation, die in zwei Formen ablaufen kann.
+ Reizüberflutung („flooding“): Es erfolgt unter paralleler therapeutischer Begleitung eine Konfrontation mit einer maximal angstauslösenden Situation, die solange ausgehalten werden muss, bis eine physiologische Gewöhnung eintritt und der Patient lernt, dass die gefürchteten katastrophalen Folgen ausbleiben.
+ gestufte Reizexposition: Die Reizexposition erfolgt stufenweise gesteigert, bis alle Hierarchiestufen bis zum Maximum durchlaufen wurden. Wenn zusätzlich Entspannungstechniken eingesetzt werden, spricht man von einer systematischen Desensibilisierung.
+Bei beiden Formen der Konfrontationstherapie geht es darum, klassisch konditionierte Ängste durch Gewöhnung (Habituation) zu löschen. Bei der kognitiven Therapie, die häufig mit einer klassischen Konfrontationstherapie kombiniert wird, soll der Patient seinen Denk- und Bewertungsstil ändern. Theoretische Grundlage ist die Annahme, dass vor allem eine „Fehlbewertung“ der angstauslösenden Situation die heftige Angst und Vermeidungsreaktion hervorruft und immer weiter verstärkt.
+
+Auch bei Verhaltensexperimenten konfrontiert man sich mit angstauslösenden Sinnesreizen, allerdings mit dem Ziel Grundannahmen zu überprüfen. Für ein Verhaltensexperiment sollen Situationen gewählt werden, die nur so ängstigend sind, dass der Patient noch in der Lage ist, zu prüfen ob seine Erwartungen eintreten (Realitätsprüfung). Während bei der Reizüberflutung besonders stark ängstigende Situationen aufgesucht werden, um eine Habituation zu erreichen, ist dies beim Verhaltensexperiment nicht erforderlich und sogar hinderlich. Bei der sozialen Phobie wird empfohlen,  anstelle einer Konfrontationstherapie eher Verhaltensexperimente zu bevorzugen.
+
+Eine weitere Methode um Kognitionen zu hinterfragen ist der sokratische Dialog. Dabei kann beispielsweise die Frage nach der Finalität der Angst sehr hilfreich sein: Was möchte der Patient mit seiner Angst erreichen?
+
+Tiefenpsychologie 
+
+Psychoanalytische und tiefenpsychologische Psychotherapieverfahren basieren auf den theoretischen Grundannahmen der Psychoanalyse, denen zufolge die Angstsymptomatik Ausdruck eines unbewussten Konfliktes mit misslungener Kompromisslösung ist. Die Aufdeckung dieses Konfliktes und das „Durcharbeiten“ unter Reaktivierung der ursprünglichen Affekte soll den Angstaffekt dann überflüssig machen und wieder zum Verschwinden bringen.
+
+Entspannungsverfahren 
+
+Ängste sind in aller Regel von körperlichen Symptomen, v. a. auch von Verspannungen, begleitet, die wiederum negativ auf die Angstsymptomatik und die körperlichen Symptome zurückwirken und diese verstärken oder zumindest aufrechterhalten. Deshalb ist ein wichtiger Ansatz bei der Angsttherapie die Beseitigung von Spannungen durch Entspannungsverfahren. Zum Einsatz kommen:
+ Autogenes Training
+ Progressive Muskelentspannung nach Jacobson
+ Biofeedback-Methoden
+ Hypnosetherapie-Methoden
+
+Medikamente 
+Zur Behandlung von Angsterkrankungen werden angstlösende Arzneistoffe (Anxiolytika) eingesetzt. Die am häufigsten verwendeten Wirkstoffgruppen sind SSRI (Selektive Serotonin-Wiederaufnahmehemmer), SNRI (Serotonin-Noradrenalin-Wiederaufnahmehemmer) und Benzodiazepine. Insgesamt ist ihre Wirkung mäßig bis moderat, wobei Benzodiazepine eine größere Wirkung haben als die anderen beiden.
+
+Weitere Anxiolytika:
+ Buspiron
+ Pregabalin
+ Wirkstoffe aus der Pflanzenheilkunde
+
+Die oben genannten Wirkstoffe unterscheiden sich in Struktur, Wirksamkeit, Suchtgefahr und Nebenwirkungsprofil sehr stark voneinander. Die Verordnung eines Anxiolytikums erfolgt daher in der Regel durch einen erfahrenen Arzt.
+
+Für den Einsatz von Propranolol gegen körperliche Angstsymptome, wie er vor 30 Jahren für den Off-Label-Use diskutiert wurde, gibt es keine ausreichenden Nachweise der Wirksamkeit, nach denen eine routinemäßige Anwendung empfohlen werden könnte.
+
+Selbsthilfegruppen 
+Sofern nicht die Krankheit selbst dem Betroffenen Schwierigkeiten bereitet, können Selbsthilfegruppen eine sehr wichtige Ergänzung für die Behandlungsformen sein und/oder nach Ende einer Behandlung deren Erfolge sichern helfen. In den letzten Jahren wird auch das Internet für die Hilfe Betroffener untereinander vielfältig genutzt.
+
+Sport 
+Körperliches Training (Sporttherapie) kann Angstsymptome reduzieren und die allgemeine psychische Zufriedenheit erhöhen. Unklar bleibt der zugrundeliegende Wirkmechanismus. Die Motivation zu sportlicher Betätigung ist bei Menschen mit Angsterkrankungen reduziert.
+
+Einschätzung der Behandlungsleitlinie 
+Die Leitlinie zur Behandlung von Angststörungen wurde durch das Transparenzportal Leitlinienwatch mit 9 von 15 Punkten („Achtung!“) bewertet. Insgesamt geben 13 von 34 Beteiligten der Leitliniengruppe Interessenkonflikte an, ebenso wie drei von vier Mitgliedern der Steuerungsgruppe.
+
+Leitlinien, die mit 11 und mehr Punkten bewertet werden, gelten als gute und relativ unabhängige Leitlinien, bei denen Patienten von einem geringen Einfluss industrieller Interessen ausgehen können. Da die Leitlinie mit lediglich 9 Punkten bewertet ist, kann im Falle von Angststörungen nicht davon ausgegangen werden.
+
+Verlauf 
+Angststörungen können sich z. B. aus einer „ganz normalen“, klinisch noch nicht relevanten Schüchternheit heraus entwickeln. Sie neigen jedoch zur Chronifizierung (Verfestigung), wenn sie nicht behandelt werden. Bei der Panikstörung beispielsweise kommt es nur bei 10 bis 30 % der Betroffenen spontan zu einer vollständigen Gesundung (d. h. ohne Behandlung bzw. nicht als Folge einer Behandlung).
+
+Psychotherapie und Medikamentenbehandlung verbessern die Prognose meistens wesentlich. Die isolierten Phobien sind sehr gut zu behandeln. Grundsätzlich gilt: Je früher eine Behandlung begonnen wird, desto günstiger ist der Verlauf.
+
+Geschichtliches 
+Auch wenn der Begriff Phobie erst im 19. Jahrhundert in die wissenschaftliche Diskussion eingeführt wurde, so kann er doch rückblickend auf vielseitige Traditionen bezogen werden. Von den Griechen wurde Phobos (der Begleiter des Kriegsgottes Ares) vor Kampfhandlungen beschworen. Auch die Ängste, die man im 20. Jahrhundert als Kriegsneurosen bezeichnete, bezogen sich auf ähnlich konkrete äußere Gefahren. In Religion, Kunst und Literatur wurden Ängste häufig mit dem Tierreich in Verbindung gebracht (Tierphobie). Viele Inhalte der Mythologie finden ihren Ausdruck in Tierphobien und sind nach C. G. Jung für den Mutterarchetyp charakteristisch. Sie finden ein Echo im Reichtum religiösen Gefühls, das der „Offenbarung williges Gefäß“ ist.
+
+Der Ausdruck Phobie wurde erstmals gegen 1870 in der Psychiatrie benutzt und sollte ein Leitsymptom einer Neurose bezeichnen. Für die Psychoanalyse galt die Phobie nicht als eine bestimmte Neurose, sondern als Symptom der Angsthysterie. Der Ausdruck „Angsthysterie“ wurde 1908 von Wilhelm Stekel auf Vorschlag von Sigmund Freud eingeführt. Freud bevorzugte diesen Ausdruck, da er ihm erlaubte, die Sexualität im Zentrum des phobischen Symptoms zu sehen. Diese Vorstellung Freuds schien insbesondere bei der Hysterie zuzutreffen, obwohl sie sich auch bei der Zwangsneurose und auch bei der Angstneurose bestätigen ließ, die Freud zu den Aktualneurosen rechnete. Auch zwanghafte Sauberkeit und Enthaltsamkeit diene der Abwehr alles Sexuellen. Auch bei psychotischen Störungen stellte Freud phobische Symptome fest. Erst bei der Analyse des kleinen Hans (Herbert Graf) im Jahre 1909 stellte sich heraus, dass hier die Libido nicht im Konversionssymptom, in innerseelischen Störungen oder im inneren Gefühl existenzieller Bedrohung gebunden sei. Die Angst richte sich vielmehr auf konkrete externalisierte Objekte.
+
+Siehe auch 
+ Emotionale Störungen des Kindesalters
+ Little-Albert-Experiment – Angstentstehung durch klassische Konditionierung
+ Taijin Kyōfushō – kulturgebundene japanische psychische Angststörung
+ Kontraphobie
+ Liste von Phobien
+
+Literatur 
+Leitlinien
+ 
+ Borwin Bandelow, Josef Zohar, Eric Hollander, Siegfried Kasper, Hans-Jürgen Möller: Medikamentöse Behandlung von Angst- und Zwangs- und posttraumatischen Belastungsstörungen. Behandlungsleitlinien der World Federation of Societies of Biological Psychiatry (WFSBP). Wissenschaftliche Verlagsgesellschaft, Stuttgart 2005, ISBN 3-8047-2208-3.
+
+Allgemeines
+ Holger Bertrand Flöttmann: Angst. Ursprung und Überwindung. 6., überarbeitete Auflage. Kohlhammer, Stuttgart 2011, ISBN 978-3-17-021784-3.
+ Siegbert A. Warwitz: Das Feld der Angstgefühle. In: Siegbert A. Warwitz: Sinnsuche im Wagnis. Leben in wachsenden Ringen. Erklärungsmodelle für grenzüberschreitendes Verhalten. 3., erweiterte Auflage, Verlag Schneider, Baltmannsweiler 2021, ISBN 978-3-8340-1620-1, S. 36 ff.
+ Gerd Huber: Psychiatrie. Lehrbuch für Studium und Weiterbildung. 7., vollständig überarbeitete und aktualisierte Auflage. Schattauer, Stuttgart u. a. 2005, ISBN 3-7945-2214-1.
+ Horst Dilling, Werner Mombour, Martin H. Schmidt, E. Schulte-Markwort (Hrsg.): Internationale Klassifikation psychischer Störungen. ICD 10 Kapitel V (F) klinisch-diagnostische Leitlinien. 5., durchgesehene und ergänzte Auflage unter Berücksichtigung der Änderungen entsprechend ICD-10-GM 2004/2005. Huber, Bern u. a. 2004, ISBN 3-456-84124-8.
+ Gerd Laux, Hans-Jürgen Möller: Psychiatrie und Psychotherapie. Unter Mitarbeit von Mirijam Fric. 2., aktualisierte Auflage. Thieme, Stuttgart u. a. 2011 ISBN 978-3-13-145432-4.
+ Herbert Fensterheim: Leben ohne Angst, Goldmann 1987, ISBN 978-3-442-11343-9.
+
+Angststörungen
+ Sven O. Hoffmann, Markus Bassler: Psychodynamik und Psychotherapie von Angsterkrankungen. In: Nervenheilkunde. Band 11, 1992, , S. 8–11.
+ Hans-Peter Kapfhammer: Angststörungen. In: Hans-Jürgen Möller, Gerd Laux, Hans-Peter Kapfhammer (Hrsg.): Psychiatrie und Psychotherapie. Springer, Berlin u. a. 2000, ISBN 3-540-64719-8, S. 1185 ff.
+ Rudolf Marx: Angststörungen – eine Einführung. In: Wolfgang Beiglböck, Senta Feselmayer, Elisabeth Honemann (Hrsg.): Handbuch der klinisch-psychologischen Behandlung. 2., überarbeitete und erweiterte Auflage. Springer, Wien u. a. 2006, ISBN 3-211-23602-3, S. 197–203.
+ Axel Perkonigg, Hans-Ulrich Wittchen: Epidemiologie von Angststörungen. In: Siegfried Kasper, Hans-Jürgen Möller (Hrsg.): Angst- und Panikerkrankungen. G. Fischer, Jena u. a. 1995, ISBN 3-334-60976-6, S. 137–156.
+ Maren Sörensen: Einführung in die Angstpsychologie. Ein Überblick für Psychologen, Pädagogen, Soziologen und Mediziner. 2. Auflage. Deutscher Studien-Verlag, Weinheim u. a. 1993, ISBN 3-89271-374-X.
+ Hans-Ulrich Wittchen, Frank Jacobi: Angststörungen (= Gesundheitsberichterstattung des Bundes. H. 21). Robert Koch-Institut, Berlin 2004, ISBN 3-89606-152-6. (rki.de).
+
+Weblinks 
+
+ Basisinformationen über Angststörungen und Phobien von F. Engels, Facharzt Psychiatrie und Psychotherapie
+ 
+ 
+ Kindliche Ängste – kindergesundheit-info.de: unabhängiges Informationsangebot der Bundeszentrale für gesundheitliche Aufklärung (BZgA)
+
+Einzelnachweise 
+
+Psychische Störung
