@@ -3,19 +3,16 @@ import json
 from transformers import pipeline
 from tqdm import tqdm
 
-# ========== 配置 ==========
-input_folder = "./dataset"                     # 文本所在文件夹
-output_folder = "./filtered_dataset"          # 输出文件夹
-max_chars = 1000                               # 每篇只取前 1000 字判断（可调）
-model_name = "google/flan-t5-base"             # 使用轻量模型
-device = -1                                    # -1 表示使用 CPU，若有 GPU 改为 0
+input_folder = "./dataset"
+output_folder = "./filtered_dataset"
+max_chars = 1000
+model_name = "google/flan-t5-base"
+device = -1
 
-# ========== 加载模型 ==========
-print("正在加载模型...")
+print("Loading model...")
 classifier = pipeline("text2text-generation", model=model_name, device=device)
-print("模型加载完成。")
+print("Model loaded")
 
-# ========== 判断函数 ==========
 def is_psych_related(text: str) -> bool:
     prompt = (
         "Please determine whether the following English text is primarily about psychological disorders, "
@@ -26,14 +23,13 @@ def is_psych_related(text: str) -> bool:
     response = classifier(prompt, max_new_tokens=10)[0]["generated_text"].lower()
     return "yes" in response
 
-# ========== 筛选文本 ==========
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 kept = 0
 total = 0
 
-print(f"开始筛选 {input_folder} 中的 .txt 文件...")
+print(f"Start filtering .txt files in {input_folder}...")
 
 for fname in tqdm(os.listdir(input_folder)):
     if not fname.endswith(".txt"):
@@ -50,5 +46,5 @@ for fname in tqdm(os.listdir(input_folder)):
             fout.write(text)
         kept += 1
 
-print(f"\n✅ 筛选完成，共处理 {total} 篇，保留 {kept} 篇心理疾病相关文本。")
-print(f"结果保存在：{output_folder}")
+print(f"\n Filtering done，have processed {total} files，kept {kept} files related to psychological disorders")
+print(f"Resulats saved as：{output_folder}")
